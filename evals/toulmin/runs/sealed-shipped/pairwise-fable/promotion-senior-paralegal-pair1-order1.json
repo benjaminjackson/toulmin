@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "promotion-senior-paralegal",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-05-01Z",
+  "without_skill_run": "2026-11-16T21-05-35Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A addresses the March deadline error I remember head-on with evidence that the fix worked (about 600 entries since April with no errors), is candid about the trainee who left, and is a finished letter addressed to me; B has unfilled name placeholders and only asserts the fix without showing results."
+}

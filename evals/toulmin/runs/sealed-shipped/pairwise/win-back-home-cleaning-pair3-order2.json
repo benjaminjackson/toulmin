@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-home-cleaning",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-11-34Z",
+  "without_skill_run": "2026-11-16T21-10-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is more convincing because it gives concrete proof: only 1 of 18 cleaners has left since July. It's also upfront that the price gap is $25, and it gives a deadline and two easy ways to book. A wrongly assumes I complained about both problems, still has unfilled placeholders, and has no deadline, so it feels generic and is easy to put off."
+}

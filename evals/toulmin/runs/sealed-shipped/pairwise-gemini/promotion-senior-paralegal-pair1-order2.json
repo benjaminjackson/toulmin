@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-01Z",
+  "without_skill_run": "2026-11-16T21-05-35Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses my main hesitation from last March by providing concrete proof that the new two-person check has worked across 600 deadlines since April. It also shows complete candor by acknowledging that one of the three paralegals she trained left the firm, which builds the exact kind of trust I need to promote someone to a supervisory role."
+}

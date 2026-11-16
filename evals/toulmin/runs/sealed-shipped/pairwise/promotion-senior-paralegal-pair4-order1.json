@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-08-01Z",
+  "without_skill_run": "2026-11-16T21-07-00Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A takes on the March error I raised and backs up the fix with evidence: no wrong or missed deadlines in about 600 entries since April. It also makes concrete commitments, a weekly check-in and certification by June, and is addressed to me by name. B leaves placeholders in the letter, gives no evidence that the fix worked and makes no specific commitments."
+}

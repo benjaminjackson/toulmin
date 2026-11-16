@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-12-28Z",
+  "without_skill_run": "2026-11-16T21-10-58Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me what I need to decide: commuting money, desks, a flat 'no other exceptions', notice period, a named partner and exact meeting details, plus a more concrete case for why; A leaves placeholders and no practical support, so I'd be left guessing and more inclined to resist."
+}

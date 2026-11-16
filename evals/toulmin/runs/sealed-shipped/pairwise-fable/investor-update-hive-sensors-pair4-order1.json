@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "investor-update-hive-sensors",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-06-50Z",
+  "without_skill_run": "2026-11-16T21-03-47Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is a finished, sendable update that gives me the note terms, the $250k already committed, the spend cut, the competitor's actual weakness, the three customers testing it, and a hard deadline, and it honestly declines to promise profit; Document B is full of unfilled placeholders on exactly the points I need (terms, competitor response, path to profitability) and adds unsupported claims, so I couldn't act on it."
+}

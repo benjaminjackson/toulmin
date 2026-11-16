@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-office-days",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-08-56Z",
+  "without_skill_run": "2026-11-16T21-09-16Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me what I actually need to decide whether to stay: a $150/month commuting subsidy, confirmation that desks arrive in August, a six-month review, a clear \"no other exceptions,\" and a named person to contact. A leaves all of that out and has placeholder signatures. B's point that five of the six project leads already come in three days a week also makes the mentoring argument more believable."
+}

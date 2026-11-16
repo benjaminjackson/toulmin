@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-10-42Z",
+  "without_skill_run": "2026-11-16T21-09-09Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives a skeptical reader concrete, checkable evidence: she is one of the three best students in 17 years, she ran a state lab's water sampling alone for two weeks, and her supervisor would hire her again. It is also candid about the gaps in the data. Document B leans on generic praise and unfilled placeholders, and it adds claims the facts don't support, such as her planning a second season and explaining her poster to working scientists. Those are exactly what I discount in small-college letters."
+}

@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:06:30.865900+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 309
+  tags: []
+  notes: extracted 309 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 3
+    qualification: 3
+    objections: 6
+    fit: 7
+  details:
+    agree: It raises the March error head-on and points to the fix, but the partner
+      who brought that error up gets no proof the fix worked and no firm commitments,
+      so he may stay unconvinced.
+    honest: Every figure matches the brief and the error is told plainly; only the
+      line about doing more senior-level work over the last two years goes slightly
+      beyond the stated facts.
+    works_the_facts: 'The numbers appear raw: it never says the hours ran 90 over
+      target (about 6%), and it leaves out the strongest fact, which is no wrong or
+      missed deadlines in about 600 entries since the check went in.'
+    right_comparison: It never says what the group loses without a formal supervisor
+      (for example, training already happening without the title) and never puts the
+      sheet's error record before and after the check side by side.
+    qualification: The commitments that could be checked (certification by next June,
+      weekly check-ins) are missing, so the bullet-point promises have no dates or
+      measures the partner could verify.
+    objections: It meets the deadline objection directly and frames it well as a lesson
+      for supervising, but its only answer is the process change, not the 600-entry
+      clean record that would actually settle the concern.
+    fit: It is a clear letter of about 330 words, under the limit, but it still has
+      placeholders for both names and no specific request to meet before the December
+      15 deadline.

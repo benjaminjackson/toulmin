@@ -1,0 +1,21 @@
+{
+  "task": "cover-letter-dental-office",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-02-51Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "In 2014 I managed our move from paper records to AVImark practice management software.",
+      "why": "The brief states that the user handled the move from paper records to software in 2014 and separately states that she used AVImark at the clinic, but does not state that AVImark was the specific software adopted in that 2014 transition."
+    },
+    {
+      "quote": "I reduced our unpaid invoices over 90 days from about $38,000 to $9,000",
+      "why": "The brief says that unpaid invoices went down during her last three years and that she handled billing, but does not explicitly state that she personally caused the reduction."
+    },
+    {
+      "quote": "I learned AVImark well enough to move an entire clinic onto it",
+      "why": "The brief does not say that the 2014 move from paper records to software was specifically a move onto AVImark, nor that she had to learn AVImark for that move."
+    }
+  ],
+  "invented_count": 3
+}

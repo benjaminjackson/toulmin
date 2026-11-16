@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:08:31.742401+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 543
+  tags: []
+  notes: extracted 543 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 4
+    objections: 4
+    fit: 7
+  details:
+    agree: The candour, the cuts, the $250,000 already committed and the monthly reporting
+      make the bridge credible, but a partner who thinks sales are too slow gets no
+      sales target or pipeline that would change their view.
+    honest: It drops the profitability claim and admits the mite-treatment confound,
+      but "We haven't lost a customer to them" is not in the facts, and "every sale
+      makes money" overstates a $17 gross margin per sensor.
+    works_the_facts: It correctly works out a runway to March and cash into late 2027
+      with the bridge, but it leaves out the 2.6x customer growth, the 31% hardware
+      margin, revenue per customer and the number of customers or hives the season
+      needs.
+    right_comparison: 'Not raising is described clearly: cash runs out in March just
+      before the spring revenue arrives. It says nothing about how the competitor''s
+      $10 price gap might play out over the season.'
+    qualification: The season and the three trials are named as tests that could go
+      either way, but neither has a threshold, a date or a consequence the reader
+      can check, apart from the monthly cash report.
+    objections: It handles the competitor and runway concerns well, but it never answers
+      the partner's main worry about sales pace with a growth rate or a customer target
+      for the season.
+    fit: It is a well-structured investor update with a clear ask and deadline, sitting
+      at about the 600-word limit.

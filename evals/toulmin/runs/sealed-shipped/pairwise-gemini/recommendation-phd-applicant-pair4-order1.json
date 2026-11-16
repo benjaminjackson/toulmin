@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-phd-applicant",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-10-42Z",
+  "without_skill_run": "2026-11-16T21-09-09Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins because it relies entirely on verifiable facts—like the candidate running water sampling unsupervised for two weeks and being in the writer's top three students in 17 years—which overcomes my skepticism of small-college letters. Document B relies on generic praise and fabricates several details not in the facts, such as classroom discussions and how she performed at the conference."
+}

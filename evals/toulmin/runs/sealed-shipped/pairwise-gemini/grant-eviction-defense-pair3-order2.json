@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-04-31Z",
+  "without_skill_run": "2026-11-16T21-02-51Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is a complete, honest application that directly addresses budget matching, data limitations, and staffing risks, though it slightly misstates the goal as maintaining two attorneys rather than expanding to three. Document A is an unfinished template full of bracketed placeholders, and it makes the math error of confusing open caseload (80) with annual cases handled per attorney (~81.5)."
+}

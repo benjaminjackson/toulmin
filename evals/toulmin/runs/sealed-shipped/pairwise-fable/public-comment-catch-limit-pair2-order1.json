@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-07-41Z",
+  "without_skill_run": "2026-11-16T21-07-58Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both concede the staff's science and use the same 2016 and survey numbers honestly. A puts a workable ask (3 fish or a shorter season) first and adds the two captains who would sell and a three-year cost figure, while B arrives with unfilled [NAME] and [HARBOR] blanks and spreads itself over three asks, though its \"who pays\" framing and close are strong."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "investor-update-hive-sensors",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me the actual terms, the $250K already committed, the deadline, a concrete spending cut, and a straight answer on the competitor and profitability; Document B is full of unfilled placeholders (terms, date, competitor response, hive count) and floats a 2027 profit goal its own 24,000-hive math makes implausible."
+}

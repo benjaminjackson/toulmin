@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-11-22Z",
+  "without_skill_run": "2026-11-16T21-10-12Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who has quit diet apps and a meal service before, I'd be more likely to start a trial with B. It says there's no contract and I can skip a week or cancel any time, gives me 6 swap choices each week, and offers a free 15-minute call with the named dietitian. A leaves out all of this, and both pages are equally honest about the A1C numbers."
+}

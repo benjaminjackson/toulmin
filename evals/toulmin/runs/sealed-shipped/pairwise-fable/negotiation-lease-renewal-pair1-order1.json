@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "negotiation-lease-renewal",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-03-24Z",
+  "without_skill_run": "2026-11-16T21-03-39Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A owns up to the two late payments I still remember, explains the cooler failure, and fixes my worry with automatic transfer plus a two-week signing and a June 1 deadline; it also shows why the hood matters against the coffee chain. B calls itself \"reliable for a decade\" while skipping the late rent, which reads as glossing over it, and it arrives with blank name placeholders."
+}

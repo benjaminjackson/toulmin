@@ -1,0 +1,21 @@
+{
+  "task": "open-letter-pharmacy-rates",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-04-41Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Every day we fill prescriptions for teachers, troopers, nurses at state hospitals, retirees and their families.",
+      "why": "The brief only states that the customers are members of the state employees' health plan, without specifying their occupations, whether retirees and families are covered, or that prescriptions are filled for these specific groups every day."
+    },
+    {
+      "quote": "we lose money every time we fill the generic drugs your members need most.",
+      "why": "The brief states that the pharmacies lose $1.80 per prescription on average across the 20 most-filled generic drugs, not that they lose money every single time one is filled."
+    },
+    {
+      "quote": "We know them by name, and many of them have come to us for years.",
+      "why": "The brief does not mention whether the pharmacists know plan members by name or how long those members have been coming to their pharmacies."
+    }
+  ],
+  "invented_count": 3
+}

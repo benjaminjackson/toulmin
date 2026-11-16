@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "negotiation-lease-renewal",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-24Z",
+  "without_skill_run": "2026-11-16T21-05-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B addresses the late payments I still think about, explains them, and offers autopay on the 1st plus a two-week signing and a clear deadline; A ignores the late rent and calls them a 'steady tenant', which rings hollow to me, and it has unfilled placeholders."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-06-50Z",
+  "without_skill_run": "2026-11-16T21-03-47Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me the exact terms of the note, an existing $250k commitment, a concrete burn reduction plan, and complete honesty about both profitability and the competitor's trials. Document B is full of unfilled bracketed placeholders and makes unsubstantiated claims about profitability that the numbers don't support."
+}

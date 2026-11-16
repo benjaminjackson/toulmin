@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-07-41Z",
+  "without_skill_run": "2026-11-16T21-07-58Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A is much better structured and stays strictly honest to the facts, whereas Document B falsely claims charter boats land the 'least' flounder (ignoring the remaining 11% of the catch) and overstates the three-year financial loss by ignoring its own evidence that bookings rebound after the first year. Furthermore, Document A's specific requests—especially a separate for-hire limit—connect directly to the argument that charter boats only take 9% of the harvest."
+}

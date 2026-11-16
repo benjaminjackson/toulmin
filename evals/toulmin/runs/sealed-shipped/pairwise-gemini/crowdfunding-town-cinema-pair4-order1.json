@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-05-03Z",
+  "without_skill_run": "2026-11-16T21-03-12Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A immediately addresses the failed first campaign and shows that the remaining $49,000 needed from the public is only $2,000 more than we raised last time, making success feel genuinely achievable. Because my budget is tight this month after donating to the ambulance fund, Ruth's upfront honesty about the roof estimate, the explicit all-or-nothing refund guarantee, and the promise of public spending reports at the library give me the confidence to chip in again."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "win-back-home-cleaning",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-10-37Z",
+  "without_skill_run": "2026-11-16T21-10-14Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me the concrete things I need to decide: actual prices side by side, that app cleaners carry no insurance, proof the cleaner fix is working (only 1 left since July), no contract, a deadline and a phone number. B has unfilled placeholders, no deadline or no-contract assurance, and reads like a generic template."
+}

@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:07:57.661793+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 277
+  tags: []
+  notes: extracted 277 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 7
+    right_comparison: 3
+    qualification: 4
+    objections: 4
+    fit: 9
+  details:
+    agree: The draft is clear and the budget adds up, but a careful judge will ask
+      whether the 'new attorney' only replaces the one leaving in June, and that doubt
+      could cost points on need and impact.
+    honest: The numbers match the facts given and the missing comparison is admitted,
+      but the closing claim that tenants will 'keep' being turned away at 300 a year
+      is not supported, because the June departure makes things worse if nothing changes.
+    works_the_facts: It works out a sound yearly pace (163 cases across two attorneys),
+      about 160 added tenants and about a quarter of turn-aways, and a funding split
+      of 45+20+13=78, but it never uses the five-month hiring history or the timing
+      of the June departure against the May decision.
+    right_comparison: It describes the alternative as the status quo, when the facts
+      show capacity falling to one attorney after June, so the real cost of not funding
+      is understated and badly framed.
+    qualification: The plan to request clerk data from January is dated and checkable,
+      but the October county renewal is stated with no consequence, no contingency
+      and no link to whether the position survives.
+    objections: It raises the county-contract risk without answering it, and it leaves
+      open the obvious objection that the hire looks like a replacement rather than
+      a third attorney.
+    fit: At about 290 words it fits the 300-word limit, and its short paragraphs and
+      plain style suit a quick rubric review.

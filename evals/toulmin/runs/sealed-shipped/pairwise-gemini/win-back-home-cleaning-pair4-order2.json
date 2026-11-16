@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-12-32Z",
+  "without_skill_run": "2026-11-16T21-11-15Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses my situation by pointing out that the app cleaners I'm currently using likely don't carry insurance, which makes the extra $25 feel worth it for the peace of mind. Plus, knowing there's no contract makes it completely risk-free to take advantage of the $99 offer, whereas Document A wrongly assumes I complained about cleaner turnover when I left."
+}

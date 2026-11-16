@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "recommendation-phd-applicant",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-09-36Z",
+  "without_skill_run": "2026-11-16T21-08-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me a calibrated ranking (one of the three best in 17 years), concrete verifiable detail, a candid account of the study's limits, and an outside supervisor's rehire endorsement; B is full of unfilled placeholders, generic praise I discount from small colleges, and details (designed the sampling, handled the gap in analysis, poster Q&A) that read as embellishment beyond what was established."
+}

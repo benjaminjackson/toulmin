@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "grant-eviction-defense",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is an unfinished template with bracketed blanks for the clinic name, funding source, sustainability and projected numbers, so I cannot score it on budget or feasibility; Document B is complete, shows how the $78,000 is fully covered, discloses the departing attorney and county renewal risk candidly, and commits to concrete reporting and comparison data."
+}

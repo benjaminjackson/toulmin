@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is a finished summary. It fills the $33,000 funding gap with the family fund pledge, says plainly that the county contract may not be renewed, and handles the June departure and the five-month hiring time with a training plan. Document A still has blanks in brackets for funding, sustainability and reporting, so I would have to score it as incomplete."
+}

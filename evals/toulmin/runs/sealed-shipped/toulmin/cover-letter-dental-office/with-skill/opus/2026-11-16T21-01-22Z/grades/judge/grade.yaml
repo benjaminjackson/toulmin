@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T21:02:19.056238+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 257
+  tags: []
+  notes: extracted 257 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 7
+    objections: 7
+    fit: 8
+  details:
+    agree: A dentist who has to fill the post fast and is unsure about gaps gets the
+      seven years explained plainly, the Dentrix gap met with an enrolled course,
+      and a start within two weeks, which together make a good case for an interview.
+    honest: Every claim traces to the facts, though 'a little larger than yours' compares
+      fourteen clinic staff with nine supervised staff when the practice's total headcount
+      isn't known.
+    works_the_facts: The $38,000 to $9,000 figure is quoted correctly, but the letter
+      never states the stronger derived form, a cut of roughly three-quarters, and
+      it gives no sense of what that would mean at a practice of this size.
+    right_comparison: It compares the clinic's size with the practice's and links
+      caregiving to the patient side of medical admin, but it does little to set her
+      against the realistic alternative of a candidate with recent work history or
+      Dentrix experience.
+    qualification: The Dentrix hedge is concrete and checkable (about 20 hours, finished
+      before her first day, start within two weeks), though it doesn't say what happens
+      if the course runs past the start date.
+    objections: The gap, the Dentrix gap, the reference from Dr. Kim rather than the
+      owner, and the urgency are all handled, but the 'two weeks' notice' line may
+      remind this reader of the manager who just left him, and she never directly
+      claims supervisory experience to match the nine staff.
+    fit: It's a properly addressed cover letter just under the 300-word limit, in
+      a plain register that a reader skimming between patients can take in quickly.

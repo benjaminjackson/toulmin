@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-07-57Z",
+  "without_skill_run": "2026-11-16T21-08-31Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is honest about why the A1C numbers are weak (14 people who chose to share, medication changes not tracked), and it offers no contract, meal swaps and a free call with the dietitian. Those matter to a wary reader who has quit similar services before. B leaves out the no-contract terms and the call, and it adds claims the brief doesn't support, like 'enough protein and fiber' and 'less than most takeout'."
+}

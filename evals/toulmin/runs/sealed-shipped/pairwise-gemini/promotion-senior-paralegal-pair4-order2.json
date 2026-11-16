@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-08-01Z",
+  "without_skill_run": "2026-11-16T21-07-00Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses the March deadline error with concrete proof that her new two-person check works (600 error-free entries since April), rather than just claiming she fixed the process. She also outlines a specific plan for how she will actually supervise the team and demonstrates complete candor about the paralegals she trained."
+}

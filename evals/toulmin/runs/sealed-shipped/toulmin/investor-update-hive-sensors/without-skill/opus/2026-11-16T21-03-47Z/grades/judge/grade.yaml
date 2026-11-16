@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T21:04:41.119370+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 525
+  tags: []
+  notes: extracted 525 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 3
+    honest: 6
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 2
+    objections: 3
+    fit: 4
+  details:
+    agree: A partner who already thinks sales are slow gets placeholders where the
+      terms, close date, pipeline and profitability plan should be, plus no cost cut
+      or reporting commitment, so they have no basis to put money in.
+    honest: Most figures check out (the $103 first-year revenue, about 520 more colonies,
+      an early-March cash-out), but 'best winter in two years' and 'app revenue is
+      almost all margin' go beyond the facts, and the line 'Our target is monthly
+      profitability by [month] 2027' still leans toward a promise the numbers don't
+      support.
+    works_the_facts: It works out the runway, the first-year revenue per hive and
+      the colonies saved, but it never gives the sensor's $17 margin, the 12-to-31
+      pace, or the sales pace that profitability would need.
+    right_comparison: It shows correctly that without the bridge, cash runs out in
+      early March, just before the spring revenue window, but it leaves the competitor's
+      weakness (it only measures temperature) as a placeholder and says nothing about
+      the three beekeepers who want to test it.
+    qualification: The only conditions are the profitability target and the detection
+      study, and both are blank or have no date, so the reader has no number, deadline
+      or consequence to check.
+    objections: 'The worry about slow selling is met only with ''2.5x growth'' and
+      a blank pipeline line, and it leaves out the fixes the writer had: cutting spend
+      to $75,000 a month by February, monthly cash reports, and the $250,000 angel
+      commitment.'
+    fit: It is about the right length and has the right email shape, but with more
+      than a dozen placeholders it is a template, not an update that could be sent.

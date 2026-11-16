@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T21:06:50.608437+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 408
+  tags: []
+  notes: extracted 408 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 4
+    honest: 7
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 3
+    objections: 4
+    fit: 8
+  details:
+    agree: 'A director who expects the yearly complaint about rates gets a clear,
+      sober case tied to the July 1 renewal, but nothing she can verify: no offer
+      of invoices and no dated meeting, so she can treat it as the usual complaint.'
+    honest: It correctly drops the unsupported 'a third will close' claim and does
+      not link the nine closures to rates, but 'no small business can keep serving'
+      and 'mail-order delays, or going without' push a little past the brief's facts,
+      since the loss is shown only on 20 generics.
+    works_the_facts: "It restates the given figures but works out nothing from them:\
+      \ there is no annual loss estimate from 3,100 fills \xD7 $1.80 (with a caveat\
+      \ about drug mix), and nothing on what a 22% share means for losses across the\
+      \ 38 stores."
+    right_comparison: It shows that in 14 counties members have no nearby alternative,
+      but it leaves out that the nearest chain is more than 20 miles away and that
+      two pharmacies plan to stop filling for plan members, which are the concrete
+      facts of what happens if nothing changes.
+    qualification: There is no checkable condition with a date, number and consequence;
+      the meeting request has no May 1 date, and nothing is said about what happens
+      after July 1 if the contract does not change.
+    objections: It partly answers 'members have plenty of chains' with the 14 counties,
+      but it does not answer 'you complain every year' with the invoice offer, and
+      it does not address the obvious point that some losses may be made up on brand-name
+      drugs.
+    fit: It is a one-page open letter with three clear asks and a signature block
+      that work for both the plan and the newspapers; the placeholders still need
+      filling in.

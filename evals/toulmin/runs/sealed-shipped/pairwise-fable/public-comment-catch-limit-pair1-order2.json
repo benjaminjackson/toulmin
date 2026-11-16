@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-16Z",
+  "without_skill_run": "2026-11-16T21-07-24Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B concedes our staff's numbers up front, states the ask immediately, and offers concrete cooperation (trip logs, catch-reporting app) plus the specific fact that two captains would sell; A leaves name placeholders, adds unsupported details, and asks for a one-season review that sits less well with the staff's three-year recommendation."
+}

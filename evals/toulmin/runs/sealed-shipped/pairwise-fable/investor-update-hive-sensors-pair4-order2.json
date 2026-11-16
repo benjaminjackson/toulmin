@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "investor-update-hive-sensors",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-50Z",
+  "without_skill_run": "2026-11-16T21-03-47Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is a finished, sendable update with real terms, a deadline, a committed $250K, a concrete cost cut, the competitor's actual difference and the honest disclosure about three customers testing it; A is full of unfilled placeholders exactly where I'd need answers (competition response, terms, profitability plan) and gestures at a profitability target it can't support."
+}

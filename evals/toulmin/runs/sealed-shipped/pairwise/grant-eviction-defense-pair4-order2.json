@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-32Z",
+  "without_skill_run": "2026-11-16T21-03-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is the clear choice. It's a finished, specific summary: it names the clinic, closes the $33,000 funding gap with a pledged family fund plus general budget, admits there's no comparison data and says how it will get some, and commits to reporting every six months. A is still full of blank brackets and leaves the funding source unnamed. One weak spot in B is that it treats 80 open cases per attorney as 80 cases a year."
+}

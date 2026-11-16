@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-04-31Z",
+  "without_skill_run": "2026-11-16T21-02-51Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is complete and fully funded on paper. It names the clinic, explains that the grant keeps two lawyers on staff after the June departure, and lays out the $45k/$20k/$13k split. It also states the county-contract risk and the missing comparison data openly. B is full of bracketed placeholders and suggests the departing attorney's position will be filled with other funding, which the facts don't support. It also leaves $66,000 with no named source."
+}

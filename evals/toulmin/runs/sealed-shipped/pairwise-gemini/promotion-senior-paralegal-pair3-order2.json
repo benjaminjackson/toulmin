@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-56Z",
+  "without_skill_run": "2026-11-16T21-06-30Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B provides concrete evidence that her fix to the March deadline error actually worked (zero errors across 600 entries since April), rather than just asserting she built a safeguard. It also offers specific, practical plans for how she will handle supervision and address recent team turnover, whereas Document A feels like a generic template."
+}

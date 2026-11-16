@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T21:10:17.930898+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 426
+  tags: []
+  notes: extracted 426 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 6
+    objections: 7
+    fit: 9
+  details:
+    agree: The page refuses to promise an A1C drop and offers a low-risk $59 trial
+      and a call with the dietitian, so this wary reader is likely to try a week,
+      though nothing speaks directly to their history of quitting within two months.
+    honest: The A1C claim is cut back to what the 14 results support and the missing
+      medication data is admitted, but 'nothing to cancel beyond that week' suggests
+      the trial doesn't renew automatically, and the brief doesn't say that.
+    works_the_facts: It works out the $12.90 per-meal price, but it leaves out the
+      true 0.6-point average drop, never turns 10 of 14 or 37 of 88 (about 42% past
+      six months) into shares, and puts the retention numbers in a section headed
+      'What I've seen, and what I can't promise' rather than tying them to staying
+      power.
+    right_comparison: The only alternative described is a vague 'cooking it every
+      day'; the page never sets the 37 customers who stayed six months against this
+      reader's pattern of quitting apps and services within a couple of months.
+    qualification: The A1C hedge names real uncertainties the reader can understand
+      (a small group, medication changes not tracked), but it gives no checkable threshold
+      or timeframe, such as asking for an A1C test after three months.
+    objections: It deals with skepticism about health promises, boredom, contracts
+      and cost, but it never directly asks why this would last when other services
+      didn't, though the facts on retention, swaps and the call could answer that.
+    fit: It is a clear sales page of roughly 420 words with a single trial-week call
+      to action, close to what the brief asked for.

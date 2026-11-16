@@ -1,0 +1,13 @@
+{
+  "task": "win-back-home-cleaning",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-10-42Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "If something breaks or someone gets hurt in your home, you're covered.",
+      "why": "The brief only says the company carries insurance on every visit, without specifying whether it covers broken items or injuries in the home."
+    }
+  ],
+  "invented_count": 1
+}

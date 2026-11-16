@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:11:22.472666+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 369
+  tags: []
+  notes: extracted 369 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 6
+    objections: 7
+    fit: 9
+  details:
+    agree: A wary reader gets a plain, unhyped case, a low-risk $59 trial, a call
+      with the dietitian and no contract, so starting a trial week feels reasonable,
+      though nothing speaks directly to someone who has quit similar services before.
+    honest: The page drops the 'will lower your A1C' claim, reports all 14 results
+      including the flat and rising ones, and admits it doesn't track medication,
+      but it ties the 0.6-point average to the 10 who improved when the brief doesn't
+      say which group the average covers.
+    works_the_facts: It works out $12.90 a meal, but it never turns 37 of 88 into
+      'about 4 in 10 have stayed more than six months', which is the figure that matters
+      most to a reader who quits within two months, and it leaves out the trial's
+      per-meal cost.
+    right_comparison: The only alternative it sketches is cooking twice a day yourself,
+      and it never sets the service against the apps and delivery services this reader
+      has already tried and dropped.
+    qualification: 'The A1C caveats are honest but give the reader nothing to check,
+      such as retesting at three months with their doctor, while the trial terms are
+      concrete: order by Thursday noon, delivery Sunday, cancel any time.'
+    objections: Doubts about cost, commitment, sameness and health claims are each
+      answered with the phone call, meal swaps, no contract and the candid A1C section,
+      but the 'I always quit these' objection is only met indirectly through the retention
+      number.
+    fit: It is a sales page of roughly 400 words with clear sections, pricing and
+      a single order button, as asked.

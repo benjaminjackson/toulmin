@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-04-12Z",
+  "without_skill_run": "2026-11-16T21-04-41Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins my respect by acknowledging that brand-name drugs offset some losses, offering actual purchase invoices to prove their claims, and specifying that the nearest chain pharmacy is over 20 miles away in those 14 counties, which directly challenges my assumption about member access. Document B feels like the standard annual complaint and makes up a demand about PBM disclosure while leaving placeholders."
+}

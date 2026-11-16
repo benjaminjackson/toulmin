@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-05-03Z",
+  "without_skill_run": "2026-11-16T21-03-12Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A speaks directly to my worry about the first campaign. It promises all-or-nothing refunds and quarterly spending reports, it shows only $49,000 left to raise, and it's frank about the roof cost and film-release risks. That makes me willing to pledge even after my ambulance-fund gift, though its line that \"most of the money\" is already pledged overstates things. B has placeholder names, doesn't mention the $11,000 business pledges and makes no refund promise."
+}

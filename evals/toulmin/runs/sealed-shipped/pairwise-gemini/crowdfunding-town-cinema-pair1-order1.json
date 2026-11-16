@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Because I already gave $200 to the ambulance fund this month and remember the first campaign failing, I need to know my money won't be tied up in another lost cause. Document A convinces me to pledge by explicitly guaranteeing a full refund if the goal isn't met and showing that, with business pledges, the remaining $49,000 needed is just $2,000 more than our town already proved it could raise last time."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-08-09Z",
+  "without_skill_run": "2026-11-16T21-06-50Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A goes straight at my view that members have plenty of chains: it says the nearest chain is more than 20 miles away, that two pharmacies will stop taking plan members, and it offers invoices I can check plus a meeting before May 1. B never deals with the chain question, hints that the nine closures were about rates, and is still full of placeholders."
+}

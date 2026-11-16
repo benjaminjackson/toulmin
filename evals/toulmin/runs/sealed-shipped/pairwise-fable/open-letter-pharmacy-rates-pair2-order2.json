@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-28Z",
+  "without_skill_run": "2026-11-16T21-05-14Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B answers my two standing objections directly: it says the nearest chain is more than 20 miles away in 14 counties and that two pharmacies will stop filling for my members, admits the brand-name offset, and offers invoices and a meeting before May 1 with one specific ask. A leaves placeholders, has no chain-distance fact, and adds a PBM-disclosure demand and a 'go without medicine' claim that read like the usual complaint."
+}

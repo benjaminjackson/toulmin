@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "recommendation-phd-applicant",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-08-34Z",
+  "without_skill_run": "2026-11-16T21-08-04Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me calibrated, checkable specifics that cut through small-college praise inflation: a ranking (\"one of the three best in 17 years\"), independent corroboration from the shellfish lab supervisor, and a candid statement of the thesis's limits with a measured publishability claim. A is full of unfilled placeholders and generic superlatives, and it asserts she \"designed\" the study, which reads like the boilerplate praise I discount."
+}

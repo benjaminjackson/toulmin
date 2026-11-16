@@ -1,0 +1,8 @@
+{
+  "task": "win-back-home-cleaning",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-12-32Z",
+  "checker": "gemini-4-argon",
+  "invented": [],
+  "invented_count": 0
+}

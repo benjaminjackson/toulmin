@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-12-28Z",
+  "without_skill_run": "2026-11-16T21-10-58Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B answers the immediate practical questions we will all have—about desks, commuting costs, and whether we can ask for exceptions—and gives a realistic architectural explanation for why junior staff are struggling. However, both documents invent a 2027/2028 timeline that contradicts the actual timeline in the brief."
+}

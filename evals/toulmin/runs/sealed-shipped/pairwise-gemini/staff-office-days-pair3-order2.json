@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-11-11Z",
+  "without_skill_run": "2026-11-16T21-10-19Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B includes crucial practical details that make this difficult change easier to accept—specifically the $150 commuting stipend, the plan to get enough desks before September, and the commitment to review the policy in six months. Both documents unfortunately invent the year 2027 and get the timeline for the long-distance remote workers wrong, but B is much better at addressing our immediate concerns."
+}

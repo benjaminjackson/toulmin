@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-09-03Z",
+  "without_skill_run": "2026-11-16T21-08-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A stands out because the captain offers concrete partnerships—sharing his trip logs and testing a catch-reporting app with our staff—which makes him a credible collaborator rather than just another complainant. He also provides specific, realistic facts about two fellow captains selling their boats without overclaiming about the whole harbor's finances."
+}

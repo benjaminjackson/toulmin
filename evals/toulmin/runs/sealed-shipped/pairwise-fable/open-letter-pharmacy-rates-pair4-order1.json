@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-08-09Z",
+  "without_skill_run": "2026-11-16T21-06-50Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A answers my two standing objections: it says chains are over 20 miles away in 14 counties and that two pharmacies will stop filling for my members, and it offers invoices I can verify, admits the brand-drug offset and what it doesn't know about closures, and gives a May 1 meeting window. B is unfinished with placeholders, implies the nine closures were rate-driven, overstates the loss as \"a fifth of its work,\" and reads like the usual annual complaint."
+}

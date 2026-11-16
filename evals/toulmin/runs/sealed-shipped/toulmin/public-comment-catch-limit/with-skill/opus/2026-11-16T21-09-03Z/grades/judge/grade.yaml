@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T21:10:23.559861+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 299
+  tags: []
+  notes: extracted 299 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 6
+    qualification: 6
+    objections: 6
+    fit: 7
+  details:
+    agree: Accepting the staff's numbers and offering trip logs and an app test will
+      win some trust, but a commissioner who backs the staff is never shown that three
+      fish or a shorter season would still rebuild the stock, so most will likely
+      stay with the recommendation.
+    honest: It correctly drops the unsupported claim that every boat would close and
+      uses the two captains' conditional statements instead, though 'a fifth' slightly
+      rounds up an 18.8% drop, and the 9%-versus-80% line suggests the cut falls mainly
+      on charters when it applies to all anglers.
+    works_the_facts: 'It works out new figures from the brief: the 2016 percentage
+      drop, about 30 trips and $27,000 at risk if that drop repeats, and the fact
+      that bookings never fully recovered (160 now against 170 before), though it
+      doesn''t use that 70% of this season is already booked.'
+    right_comparison: It describes the 2016 trend accurately, including the partial
+      recovery, but it only asserts that the three-fish or shorter-season options
+      'still cut the catch' and never measures them against the staff's rebuilding
+      target.
+    qualification: The captains' sale threat depends on a checkable condition (bookings
+      falling as in 2016), and the data offers name 'next season,' but no date, threshold
+      or consequence is attached that commissioners could hold anyone to.
+    objections: It gets ahead of the 'you dispute our science' objection, but it leaves
+      open the main one, whether the alternatives meet the rebuild goal, and the 9%
+      share argument invites the reply that the limit applies to private anglers too.
+    fit: It is spoken public comment of about 330 words, which runs a little long
+      for two minutes, and it leaves out the captain's name and boat, which belong
+      at the start of a public comment.

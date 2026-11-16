@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-02-41Z",
+  "without_skill_run": "2026-11-16T21-02-01Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A names the Majestic and Ruth Albers, and it promises that every pledge is returned in full if the $85,000 isn't reached. That promise matters most to me after the last campaign ended in refunds. A also shows that $49,000 is still needed, only $2,000 more than the town gave last time, which makes a modest pledge feel realistic even after my $200 to the ambulance fund. B still has a '[Cinema Name]' placeholder, makes no refund promise and leaves out the $11,000 already pledged by businesses."
+}

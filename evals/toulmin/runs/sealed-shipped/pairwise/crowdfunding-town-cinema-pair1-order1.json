@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A speaks directly to my worries as someone who got a refund last time: it promises all-or-nothing returns, shows $11,000 more already pledged in writing, commits to quarterly spending reports, and is upfront about the roof cost risk. B never says what happens to my money if they fall short, leaves a '[Bank name]' placeholder in, and isn't signed by anyone."
+}

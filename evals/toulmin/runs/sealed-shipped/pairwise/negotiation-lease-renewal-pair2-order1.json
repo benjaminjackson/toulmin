@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-lease-renewal",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-04-31Z",
+  "without_skill_run": "2026-11-16T21-04-11Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A brings up the late payments I still think about, explains why they happened, and offers automatic payment on the 1st. It also points out that a coffee chain would get no use from the $40,000 hood and promises a signature within two weeks, which makes $5,100 easier for me to accept. B skips the late payments, still has blank placeholders and gives me no deadline or commitment to act on."
+}

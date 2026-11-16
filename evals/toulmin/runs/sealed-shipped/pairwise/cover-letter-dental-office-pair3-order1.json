@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-dental-office",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-03-18Z",
+  "without_skill_run": "2026-11-16T21-02-23Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is addressed to me by name and is ready to send. It also deals with the Dentrix gap concretely, since she has already enrolled in the 20-hour course, and it adds her recent QuickBooks work as church treasurer, which makes me less worried about the seven-year gap. Document B still has unfilled placeholders and only offers to train in Dentrix, which reads as unfinished and less committed."
+}

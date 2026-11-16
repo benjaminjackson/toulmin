@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "grant-eviction-defense",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-03-06Z",
+  "without_skill_run": "2026-11-16T21-02-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A reaches me with unfilled brackets and blanks for the clinic name, the matching funds and the departing attorney's replacement, so I cannot score its budget or sustainability. Document B is complete and names the clinic, the pledged match, the county-renewal risk, the missing comparison figure and the reporting plan, though its claim that there is no other funding to refill the departing attorney's position goes beyond the stated facts."
+}

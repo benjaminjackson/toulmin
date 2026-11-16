@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-02-58Z",
+  "without_skill_run": "2026-11-16T21-02-25Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is a finished, transparent update that gives me the exact deal terms, the $250k anchor commitment, a concrete burn reduction plan, and a clear March/April revenue milestone to judge their sales pace. Document B is full of unedited placeholders and lacks the specific numbers I need to make an investment decision, though A's break-even math slightly conflates top-line revenue with gross margin."
+}

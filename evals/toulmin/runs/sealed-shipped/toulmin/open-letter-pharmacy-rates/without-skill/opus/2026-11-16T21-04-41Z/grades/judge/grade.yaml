@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T21:05:14.627639+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 392
+  tags: []
+  notes: extracted 392 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 4
+    honest: 7
+    works_the_facts: 3
+    right_comparison: 4
+    qualification: 3
+    objections: 3
+    fit: 7
+  details:
+    agree: A director who thinks this is the usual yearly complaint gets an average
+      loss figure and general asks, but no invoices to check, no meeting date and
+      no specific contract term she could act on, so she has little reason to change
+      her view.
+    honest: It rightly drops the 'third will close within a year' claim and says plainly
+      that the cause of the nine closures is unknown, but 'wait for mail order, or
+      go without' and the add-on demand for PBM rate disclosure go somewhat beyond
+      what the facts support.
+    works_the_facts: "It never works out the obvious derived figure, about $5,580\
+      \ a year lost at the writer's own pharmacy (3,100 \xD7 $1.80), or scales the\
+      \ loss across the 22% share, so the numbers stay raw and abstract."
+    right_comparison: It says rural members would 'drive much farther' but leaves
+      out that the nearest chain is more than 20 miles away and that two pharmacies
+      will stop filling for plan members, so the real alternative to doing nothing
+      stays vague.
+    qualification: The hedge about the closures is honest but gives the reader nothing
+      to check, with no number, deadline or consequence such as 'two pharmacies stop
+      filling plan prescriptions on July 1 unless...'.
+    objections: The 'you complain every year' objection goes unanswered because the
+      offer to share invoices is left out, and the 'plenty of chains' objection is
+      only half met because the 20-mile fact is missing.
+    fit: It is a one-page open letter suited to both the plan and the newspapers,
+      though it uses placeholders for the alliance name and signer even though those
+      were known, and its ask leaves out the fill fee.

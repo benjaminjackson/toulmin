@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-09-03Z",
+  "without_skill_run": "2026-11-16T21-08-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B stands out from typical public comments because the captain offers concrete commitments—sharing his trip logs and testing a catch-reporting app with our staff—alongside specific, actionable regulatory compromises. It also conveys the severity of the impact on the harbor honestly by noting two other captains plan to sell, rather than extrapolating his personal losses across all eleven boats."
+}

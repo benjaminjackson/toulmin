@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-07-41Z",
+  "without_skill_run": "2026-11-16T21-07-58Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B concedes our staff's numbers and makes one focused ask (3 fish or a shorter season, if it still meets the stock goal), backed by the captain's own 2016 books and two named-in-kind captains who say they would sell. A is also honest and well argued, but it spreads across three asks and still has unfilled [NAME] and [HARBOR] placeholders; B's $80,000 three-year figure is a mild stretch, which keeps the gap small."
+}

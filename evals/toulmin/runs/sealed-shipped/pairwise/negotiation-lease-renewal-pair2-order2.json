@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-lease-renewal",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-04-31Z",
+  "without_skill_run": "2026-11-16T21-04-11Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks directly to what I care about: it names the late payments, explains them, and offers autopay. It also points out that a coffee chain wouldn't use the $40k hood and commits to signing within two weeks. A skips the late-payment history, is vague about the coffee chain, and still has blank placeholders in it."
+}

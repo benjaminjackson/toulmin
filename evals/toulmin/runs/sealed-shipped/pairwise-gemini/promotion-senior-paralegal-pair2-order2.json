@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-58Z",
+  "without_skill_run": "2026-11-16T21-06-02Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses my main hesitation by showing the concrete track record of the fix she implemented after March's near-miss (600 entries with zero errors), whereas Document A only mentions the fix in the abstract. Document B is also candid about one of her trainees leaving, which builds my trust in her as a supervisor."
+}

@@ -1,0 +1,13 @@
+{
+  "task": "grant-eviction-defense",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-06-32Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "She will spend her final month training the new attorney.",
+      "why": "The brief says the departing attorney is leaving in June (meaning her final month is May) and wants to train the new hire, which implies the new attorney is actually replacing the departing attorney rather than being the third attorney, or it ignores that the foundation doesn't even decide on the grant for the third attorney until May and hiring took five months last time."
+    }
+  ],
+  "invented_count": 1
+}

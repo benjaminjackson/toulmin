@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "investor-update-hive-sensors",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me the actual terms, the $250K already committed, the deadline, a concrete spending cut, the competitor differentiation, and an honest refusal to promise profit; A is full of unfilled placeholders on exactly the points I need to decide (terms, competitive response, path to profit) and reads as unfinished."
+}

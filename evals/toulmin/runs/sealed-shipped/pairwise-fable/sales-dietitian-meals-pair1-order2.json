@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-07-57Z",
+  "without_skill_run": "2026-11-16T21-08-31Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who has quit three of these before, B answers what I actually worry about: no contract, skip or cancel any time, meal swaps, a call with the dietitian first, and an upfront admission that 14 self-selected people with untracked medication changes is weak evidence. A is honest too but vaguer, adds unsupported claims like \"less than most takeout\" and \"protein and fiber,\" and leaves me unsure what I'm locked into."
+}

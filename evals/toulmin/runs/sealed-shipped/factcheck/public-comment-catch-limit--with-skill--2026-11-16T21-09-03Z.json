@@ -1,0 +1,17 @@
+{
+  "task": "public-comment-catch-limit",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-09-03Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Ten years on, I still haven't gotten all of it back.",
+      "why": "The brief states the previous cut was in 2016, but gives no current year to establish that ten years have passed."
+    },
+    {
+      "quote": "And this cut would run three years, not one.",
+      "why": "The brief says the proposed cut is recommended for three years, but does not say that the 2016 cut lasted only one year."
+    }
+  ],
+  "invented_count": 2
+}

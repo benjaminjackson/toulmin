@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-dental-office",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A covers what I'm worried about after my last manager left on two weeks' notice. It names a Dentrix course she'll finish before day one, a reference from the head vet, a start within two weeks, and the evening hours. It also explains the gap directly. B is full of placeholders, makes only a vague promise to learn Dentrix, and doesn't mention availability or references."
+}

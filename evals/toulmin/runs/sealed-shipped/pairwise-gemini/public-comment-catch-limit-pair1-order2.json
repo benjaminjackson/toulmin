@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-16Z",
+  "without_skill_run": "2026-11-16T21-07-24Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B immediately states the speaker accepts a cut and offers actionable concessions—like a shorter season, sharing historical trip logs, and testing a catch-reporting app with our staff. It also avoids hyperbole by specifically noting that two captains plan to sell rather than making exaggerated claims, which earns much more credibility with commissioners who hear from captains at every meeting."
+}

@@ -1,0 +1,68 @@
+I've written the page, but I didn't use the line "our meals will lower your A1C." Your own numbers don't back it up yet:
+
+- **Small, self-selected group.** You have results for 14 of 88 customers, and those 14 chose to share. People whose numbers improved are more likely to share them.
+- **Not everyone improved.** 3 stayed about the same and 1 went up. "Will lower" promises a result to every reader, and that didn't happen for 4 of the 14.
+- **Medication wasn't tracked.** If some customers started or changed a diabetes drug during those three months, you can't say how much of the drop came from the meals.
+- **Regulatory risk.** The FTC expects health claims in ads to be backed by solid evidence. As a registered dietitian, your licensing board and the Academy's ethics code also hold you to that standard. A guaranteed health outcome is the kind of claim that draws complaints.
+
+The real numbers still sell well when you state them plainly. That's what the page below does. It's about 400 words, and the brackets are placeholders for you to fill in.
+
+<final_document>
+# Dinner's handled. Your blood sugar plan stays on track.
+
+**Cooked lunches and dinners for adults with type 2 diabetes, planned by a registered dietitian and delivered to your door every Sunday.**
+
+Managing type 2 diabetes means thinking about food all day long. You count carbs, read labels, and try to plan meals that are good for you and that you'll actually want to eat. Most weeks there isn't time for all of it.
+
+[Service Name] takes care of it for you.
+
+## What you get
+
+- **10 cooked meals a week:** lunches and dinners, ready to heat and eat.
+- **45 grams of carbohydrate or less in every meal.** You never have to guess what's on the plate.
+- **Menus planned by a registered dietitian.** I'm [Your Name], RD, and I write every menu myself. Each one is designed to fit a type 2 diabetes eating plan and to taste good.
+- **Delivered every Sunday** anywhere in [Metro Area], so your week starts stocked.
+
+## What our customers are seeing
+
+Fourteen customers shared their A1C results with me from before they started and after three months. **10 of the 14 saw their A1C go down**, with an average drop of 0.6 points. Three stayed about the same, and one went up.
+
+Everyone's body is different, and food is only one part of managing diabetes, so I can't promise you a particular number. What I can promise is that every meal is planned for blood sugar management, and you won't have to wonder whether dinner fits your plan.
+
+Our customers also stay with us. **Of our 88 current customers, 37 have been with us for more than six months.**
+
+## Pricing
+
+**Full plan: $129/week**
+10 meals, delivered every Sunday.
+
+**Trial week: $59**
+Try a week of meals before you commit. If it's not for you, there's no obligation to continue.
+
+[Start your trial week →]
+
+## Common questions
+
+**Can this replace my medication or my doctor's advice?**
+No. These meals are made to support the plan you and your healthcare team have in place. Please keep working with your doctor, and talk to them before making any changes to your medication.
+
+**Who plans the meals?**
+I do. I'm a registered dietitian, and I write every menu.
+
+**Where do you deliver?**
+Anywhere in [Metro Area], every Sunday.
+
+---
+
+Eating for type 2 diabetes doesn't have to be a chore. Let us cook this week.
+
+**[Try a week for $59 →]**
+
+*Individual results vary. A1C results are from 14 customers who chose to share them, measured at three months. These results don't account for changes in medication or other treatment. This service is not a substitute for medical care.*
+</final_document>
+
+A few things to check before you publish:
+
+1. **Who the 0.6 average covers.** I wrote it as the average across all 14 people. If 0.6 was the average for only the 10 whose A1C dropped, change it to "the 10 who improved dropped an average of 0.6 points."
+2. **Medication tracking.** If you start asking customers about medication changes and collect results from more of them, you'll be able to make a stronger claim later.
+3. **Trial conversion rate.** I left out the 1-in-5 figure on purpose. Customers don't benefit from knowing it, and it doesn't help sell the trial.

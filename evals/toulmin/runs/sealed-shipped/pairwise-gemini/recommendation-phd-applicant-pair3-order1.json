@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-phd-applicant",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-09-36Z",
+  "without_skill_run": "2026-11-16T21-08-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins my trust because the writer gives a concrete numerical ranking ('one of the three best' in 17 years), includes specific verification from the state lab supervisor, and offers a realistic, uninflated assessment of the thesis's methodological limits and publication potential. Document B relies on vague, generic praise ('most capable and committed') and fabricates details not in the brief about her classroom reasoning, experimental design, and conference interactions."
+}

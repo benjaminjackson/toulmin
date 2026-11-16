@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-dental-office",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-04-10Z",
+  "without_skill_run": "2026-11-16T21-02-51Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is addressed to me by name, and it fixes the Dentrix gap with a course she has already enrolled in. It also names a reference I can call. A still has placeholders and bracketed notes in it, so it looks unfinished, and I'd notice that right away between patients."
+}

@@ -1,0 +1,17 @@
+{
+  "task": "staff-office-days",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-10-19Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "From **September 1, 2027**",
+      "why": "The brief specifies 'September 1' as the start date, but does not give the year 2027."
+    },
+    {
+      "quote": "until **December 31, 2027**. From January 2028, you'll come into the office one day a week.",
+      "why": "The brief states that the four employees can keep working remotely 'until the end of next year', which contradicts the document's timeline (the end of the same year, 2027) and invents the specific years 2027 and 2028."
+    }
+  ],
+  "invented_count": 2
+}

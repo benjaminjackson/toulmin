@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-08-09Z",
+  "without_skill_run": "2026-11-16T21-06-50Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly counters my skepticism by specifying that chain pharmacies are more than 20 miles away in 14 counties, acknowledging brand-name margins, and refraining from overstating the reasons for past closures. Crucially, their concrete offer to share actual purchase invoices for those 20 generics before May 1 makes me take their rate complaints seriously enough to take a meeting."
+}

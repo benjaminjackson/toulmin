@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-10-23Z",
+  "without_skill_run": "2026-11-16T21-09-11Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A states its ask up front, accepts our staff's stock numbers, and gives me something I don't hear at every hearing: two of eleven captains have said they will sell if bookings drop as in 2016. B covers the same numbers but has unfilled name and harbor placeholders and ends on a looser menu of options, so it lands as a more generic plea."
+}

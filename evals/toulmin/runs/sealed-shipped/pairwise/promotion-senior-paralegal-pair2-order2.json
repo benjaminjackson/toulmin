@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-58Z",
+  "without_skill_run": "2026-11-16T21-06-02Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks to the deadline error I raised by showing results: no errors across about 600 entries since the check went in. It also names me and the review cycle, and it's open about the trainee who left. A uses placeholders and gives no evidence that the fix worked."
+}

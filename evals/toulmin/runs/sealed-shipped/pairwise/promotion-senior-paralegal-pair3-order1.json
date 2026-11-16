@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-06-56Z",
+  "without_skill_run": "2026-11-16T21-06-30Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A addresses the March deadline error I raised with evidence: about 600 entries with no errors since the second-person check went in. It also makes concrete commitments (weekly check-ins, certification by June) and asks for a specific meeting before the deadline. B leaves name placeholders in, offers no proof that the fix worked and presents the mistake as a point in its favour, which feels self-serving."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-49Z",
+  "without_skill_run": "2026-11-16T21-06-02Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly counters my skepticism by offering to share purchase invoices to prove the losses and by showing that in 14 counties, the nearest chain pharmacy is over 20 miles away. It also avoids the usual exaggeration by honestly acknowledging brand-name offsets and that they don't know why previous pharmacies closed, while highlighting the immediate network risk of two pharmacies dropping our plan."
+}

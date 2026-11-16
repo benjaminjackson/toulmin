@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-11-11Z",
+  "without_skill_run": "2026-11-16T21-10-19Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes critical details that directly address our practical concerns and pushback, such as the $150 commuting stipend, the six-month policy review, and the plan for getting enough desks. Document B omits all of these helpful concessions and leaves unedited placeholders for the partners' names."
+}

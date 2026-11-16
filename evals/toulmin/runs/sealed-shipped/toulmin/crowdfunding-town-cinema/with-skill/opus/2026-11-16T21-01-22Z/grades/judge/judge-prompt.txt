@@ -1,0 +1,70 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+A long-time resident of the town who loved the cinema and wants it back, but who gave $200 to the hospital's ambulance fund this month and remembers the cinema's first campaign, which ended in refunds. The reader decides whether to pledge and how much.
+</reader>
+
+<brief>
+Can you write the pitch for our crowdfunding campaign? I chair the volunteer group trying to reopen the one-screen cinema in our town of 6,500. It closed in 2022.
+
+Facts:
+- We need $85,000 to replace the projector and sound system and fix the roof. The building's owner has agreed to rent it to us for $1 a year for 10 years if we raise it.
+- We ran a campaign 3 years ago for $120,000. It reached $47,000 and we refunded everyone.
+- This time a local bank has pledged $25,000 if we raise the rest by June 30.
+- 46 volunteers have signed up to run the box office and the snack bar.
+- When it closed, the cinema was selling about 180 tickets a week.
+- The nearest other cinema is 38 miles away.
+
+Keep it under 350 words.
+</brief>
+
+The user also knew the following and gave some of it to the writer when asked:
+<user_knows>
+- I'm Ruth Albers. The cinema is the Majestic on Main Street. The campaign opens May 1.
+- This time the goal is $35,000 lower than last time, and the bank's $25,000 counts toward it, so we need $60,000 from the public.
+- Three local businesses have already pledged $11,000 in writing.
+- The roof estimate is from last fall. The contractor said it could rise by up to 15%.
+- I can commit to an all-or-nothing campaign: if we don't reach $85,000 by June 30, every pledge is returned in full.
+- I can commit to a public spending report every three months, posted at the town library.
+- If we raise it, we plan to reopen by Thanksgiving.
+- I cannot promise new films in their opening week. That depends on the film distributors.
+</user_knows>
+
+<document>
+**Bring Back the Majestic**
+
+The Majestic on Main Street has been dark since 2022. When it closed, it was still selling about 180 tickets a week. Since then, the nearest cinema has been 38 miles away.
+
+We can reopen it. We need $85,000 by June 30 to replace the projector and sound system and fix the roof. If we raise it, the building's owner will rent us the Majestic for $1 a year for ten years.
+
+We aren't starting from zero. A local bank has pledged $25,000 if we raise the rest by June 30, and three local businesses have pledged $11,000 in writing. That leaves $49,000: about $7.50 for every person in town.
+
+Some of you remember our last campaign. Three years ago we set out to raise $120,000, reached $47,000, and refunded every pledge. This time the goal is smaller, more than 40% is already pledged, and what's left is just $2,000 more than we raised last time.
+
+The promise is the same: all or nothing. If we don't reach $85,000 by June 30, every pledge is returned in full.
+
+If we do reach it, 46 volunteers are already signed up to run the box office and snack bar, and we plan to reopen by Thanksgiving. Every three months we'll post a public report at the town library showing how the money was spent.
+
+Two things you should know. Our roof estimate is from last fall, and the contractor says it could rise by up to 15%. And we can't promise new films in their opening week, because that's up to the distributors.
+
+What we can promise is a screen on Main Street again, and a night at the movies without a 76-mile round trip.
+
+Pledge by June 30. Let's turn the lights back on.
+
+Ruth Albers
+Chair, volunteer group to reopen the Majestic
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

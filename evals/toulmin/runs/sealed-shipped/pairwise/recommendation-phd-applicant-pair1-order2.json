@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-07-29Z",
+  "without_skill_run": "2026-11-16T21-07-30Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is the more credible letter for a reader who discounts small-college praise. It gives a calibrated ranking (top 3 of 17 years), concrete evidence from the field lab (two weeks running water sampling alone, a supervisor willing to rehire her) and an honest account of where the thesis results stand. A is generic, full of unfilled placeholders, and wrongly calls the 14-month study 'a single season'; B's one unsupported phrase ('without missing her sampling') is a minor flaw."
+}

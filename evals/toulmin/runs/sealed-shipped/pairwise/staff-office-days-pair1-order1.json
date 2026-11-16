@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-office-days",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-08-56Z",
+  "without_skill_run": "2026-11-16T21-09-16Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a remote hire, I'd find Document A more likely to bring me along. It offers the $150 commute support, says desks arrive in August, commits to a six-month review and names Paul and HR as contacts. Document B leaves all of that out, ends with placeholder names, and its warm words about remote staff come with nothing concrete for those of us outside the four."
+}

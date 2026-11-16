@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-03-06Z",
+  "without_skill_run": "2026-11-16T21-02-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is a complete, specific summary that names the clinic, the funding pledge, the fallback if the county contract isn't renewed, the training handoff and the reporting plan, while A reads like an unfinished template full of blanks. B does overstate things by presenting the grant as refilling a departing attorney's position, with 'no other funding,' rather than adding a third attorney."
+}

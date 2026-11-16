@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:10:14.783484+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 142
+  tags: []
+  notes: extracted 142 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 4
+    honest: 8
+    works_the_facts: 3
+    right_comparison: 4
+    qualification: 2
+    objections: 4
+    fit: 5
+  details:
+    agree: A reader with no complaint who is happy saving $25 a visit gets a one-time
+      $99 discount and a list of the company's costs, with no reason to keep paying
+      more after that first visit, so they would probably not book.
+    honest: It sensibly avoids the false 'same cleaner every time' promise and states
+      the price gap plainly, though 'You'll always know who's coming' stretches a
+      bit past what a regular-plus-backup setup can guarantee.
+    works_the_facts: It leaves out the strongest figure, that only 1 of 18 cleaners
+      has left since July, and never puts the $25 gap in a more useful form, such
+      as the cost per month or what the reader gets for it.
+    right_comparison: The apps are compared only on price, with nothing about contractors
+      who carry no insurance on the visit, and the improvement in cleaner turnover
+      is not shown.
+    qualification: The $99 offer has no December 31 end date, so the reader has nothing
+      to check and no reason to act now.
+    objections: The price objection gets an explanation about wages rather than a
+      benefit to the reader, the 'no contract, cancel any time' commitment that would
+      lower the risk of coming back is missing, and the email leads with a cleaner-change
+      complaint this reader never had.
+    fit: It is a win-back email of about 150 words, as asked, but it leaves [Company]
+      and [Your name] as placeholders even though the user gave both names, and it
+      gives no phone number or reply-to-book instruction.

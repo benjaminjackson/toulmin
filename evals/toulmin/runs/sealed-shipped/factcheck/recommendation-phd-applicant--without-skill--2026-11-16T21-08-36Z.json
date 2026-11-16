@@ -1,0 +1,33 @@
+{
+  "task": "recommendation-phd-applicant",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-08-36Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "She asked questions that showed she was already thinking about how to test ideas, not just how to learn them.",
+      "why": "The brief only gives her course count and grades and says nothing about the questions she asked in class."
+    },
+    {
+      "quote": "She designed the sampling scheme",
+      "why": "The brief says she did the fieldwork herself, not that she designed the sampling scheme."
+    },
+    {
+      "quote": "When a storm knocked out data collection at one site for three months, she documented the gap carefully and accounted for it in her analysis rather than glossing over it.",
+      "why": "The brief states only that one site lost its data for three months after a storm, without saying how she documented or handled the gap in her analysis."
+    },
+    {
+      "quote": "Priya understands that the pattern needs to be repeated and its causes investigated.",
+      "why": "The brief notes that she has not repeated the study and the professor knows repetition is needed for publication, but nothing states what Priya herself understands about repeating the work or investigating its causes."
+    },
+    {
+      "quote": "where she answered questions from working scientists with confidence and precision.",
+      "why": "The brief states only that she presented the work as a poster at a regional conference and says nothing about who questioned her or how she answered."
+    },
+    {
+      "quote": "There she worked alongside agency scientists on [brief description of duties, if known], which gave her a realistic view of applied shellfish research and confirmed her interest in a research career.",
+      "why": "The brief says only that she was a paid field assistant at a state shellfish lab (and the extra facts mention her supervisor and running water sampling alone), not that she worked alongside agency scientists or that the job confirmed her career interest."
+    }
+  ],
+  "invented_count": 6
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "win-back-home-cleaning",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-12-32Z",
+  "without_skill_run": "2026-11-16T21-11-15Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me the concrete things I need to weigh against my $25 savings: the actual prices, that the app cleaners are uninsured, proof the turnover is fixed (1 of 18 left since July), no contract, a deadline, and a way to book. B is vague, has unfilled placeholders, and wrongly says I complained about things I didn't."
+}

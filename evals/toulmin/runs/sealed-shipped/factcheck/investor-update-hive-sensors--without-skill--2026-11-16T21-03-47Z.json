@@ -1,0 +1,41 @@
+{
+  "task": "investor-update-hive-sensors",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-03-47Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "every year after that the app revenue is almost all margin.",
+      "why": "The brief gives only the hardware cost ($38) and prices ($55 plus $4/month for the app), with no information on the ongoing cost or margin of running the app."
+    },
+    {
+      "quote": "We're working with him to separate the two effects over this coming winter",
+      "why": "The brief does not mention any current or planned work with the largest customer to isolate the effect of the sensors from the mite treatment."
+    },
+    {
+      "quote": "He is open to speaking with investors.",
+      "why": "Neither the brief nor the user's additional information states that the largest customer has agreed or is willing to speak with investors."
+    },
+    {
+      "quote": "Without new money, that lasts until about early March, right before the two months that bring in most of our revenue.",
+      "why": "The brief gives ~3.6 months of runway ($340,000 at $95,000/month), which only reaches early March if the update is sent in mid-November, a current date not given in the brief."
+    },
+    {
+      "quote": "The $600,000 bridge takes us through spring 2027 with room to spare.",
+      "why": "Neither the year 2027 nor a runway lasting through spring 2027 can be derived from the brief, as $940,000 total cash at $95,000/month is just under 10 months of spending."
+    },
+    {
+      "quote": "1. Fund sensor inventory ahead of the March–April buying window.",
+      "why": "The brief does not state how the bridge funds will be used or that the company needs to fund sensor inventory."
+    },
+    {
+      "quote": "2. Convert [X] pipeline operators, representing about [Y] hives.",
+      "why": "The brief makes no mention of a sales pipeline or using the bridge to convert pipeline operators."
+    },
+    {
+      "quote": "Our target is monthly profitability by [month] 2027.",
+      "why": "The brief does not give the year 2027 or state that the target is monthly profitability in 2027."
+    }
+  ],
+  "invented_count": 8
+}

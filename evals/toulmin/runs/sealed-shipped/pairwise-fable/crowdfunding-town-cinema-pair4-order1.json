@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "crowdfunding-town-cinema",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-05-03Z",
+  "without_skill_run": "2026-11-16T21-03-12Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A opens with the failed first campaign and answers my doubt directly: all-or-nothing refunds, $36,000 already pledged so only $49,000 is left, a named chair, quarterly spending reports, and honest caveats about the roof cost and new releases. B buries last time, leaves placeholders for the name, and gives me no refund guarantee, so I'd hesitate to pledge after already giving $200 elsewhere."
+}

@@ -1,0 +1,41 @@
+{
+  "task": "investor-update-hive-sensors",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-01-22Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Our costs stay the same all year",
+      "why": "The brief only says the company spends \"about $95,000 a month\" and does not state that costs remain constant throughout the year."
+    },
+    {
+      "quote": "They have sales channels and a brand we don't have.",
+      "why": "The brief only calls the competitor \"a large farm equipment company\" and says nothing about its sales channels or brand relative to the user's company."
+    },
+    {
+      "quote": "At $95,000 a month, our $340,000 lasts until roughly early March.",
+      "why": "The brief gives no current date from which to calculate that about 3.6 months of cash ($340,000 at $95,000 a month) ends in early March."
+    },
+    {
+      "quote": "$600,000 gives us about ten more months of spending, even before counting new revenue.",
+      "why": "At the brief's $95,000 monthly spend rate, $600,000 is about 6.3 more months of spending (or about 9.9 months total when combined with the existing $340,000), not ten more months."
+    },
+    {
+      "quote": "It carries us through the 2027 buying season",
+      "why": "The brief does not state the current year, and even if next year is 2027, 9.9 total months of cash starting ~3.6 months before early March (mid-November) would run out around September 2026, before 2027."
+    },
+    {
+      "quote": "Our goal is to be profitable in 2027.",
+      "why": "The brief asks to say the company will be profitable \"next year\" without specifying the year 2027."
+    },
+    {
+      "quote": "Every quarter we'll report how we're doing against this goal.",
+      "why": "Neither the brief nor the user's notes mention committing to a quarterly report on profitability (the user's notes only offer a monthly cash report)."
+    },
+    {
+      "quote": "We'd like current investors to take most or all of it before we go wider.",
+      "why": "The brief only says \"I want our current investors in it\" and does not state that current investors are being asked to take most or all of the round before going wider."
+    }
+  ],
+  "invented_count": 8
+}

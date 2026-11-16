@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-06-49Z",
+  "without_skill_run": "2026-11-16T21-06-02Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A directly addresses my skepticism by offering to share actual purchase invoices, admitting they make back some losses on brand-name drugs, and proving that chain pharmacies are over 20 miles away in 14 counties. It also avoids crying wolf about closures, whereas Document B relies on vague complaints and asks for PBM transparency measures not grounded in the facts."
+}

@@ -1,0 +1,25 @@
+{
+  "task": "staff-office-days",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-10-58Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "From September 1, 2027, everyone at the firm will work in the office on Tuesday, Wednesday and Thursday.",
+      "why": "The brief only says 'From September 1' and does not specify the year 2027."
+    },
+    {
+      "quote": "In both cases, how we came across as a team cost us the project.",
+      "why": "The brief says the firm lost two projects and both clients said the team seemed not to know each other, not that this was the sole or definitive reason they lost the projects."
+    },
+    {
+      "quote": "You can keep working fully remotely until December 31, 2027.",
+      "why": "The brief states they can work remotely 'until the end of next year', which contradicts 2027 being the same year as the September 1, 2027 start date, and no specific year is given in the brief."
+    },
+    {
+      "quote": "From January 2028, we'll ask you to come in one day a week.",
+      "why": "The brief only says 'After that, they come in once a week' and does not give the date of January 2028."
+    }
+  ],
+  "invented_count": 4
+}

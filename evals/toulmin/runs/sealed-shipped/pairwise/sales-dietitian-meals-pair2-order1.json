@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-09-05Z",
+  "without_skill_run": "2026-11-16T21-09-07Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who has quit two apps and a meal service, I'm more likely to try A. It's upfront about what the A1C numbers can't show, and it covers the things that made me quit before: meal swaps, a menu that rotates every four weeks, no contract, and a call with the dietitian before I start. B has unfilled placeholders like [Service Name], leaves out the no-contract and cancellation terms, and plays up the A1C results."
+}

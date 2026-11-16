@@ -1,0 +1,59 @@
+task:
+  name: cover-letter-dental-office
+  type: cover-letter
+  set: sealed
+  reader: The dentist who owns a three-dentist practice and is hiring an office manager
+    after the last one quit with two weeks' notice. He reads every application himself
+    between patients and has not decided what he thinks about long gaps in a work
+    history.
+  prompt: 'Can you write a cover letter for me? I''m 52 and I''m applying for an office
+    manager job at a dental practice in my town. I''ve been out of work for 7 years
+    caring for my mother, who died last spring.
+
+
+    My background:
+
+    - Before that I was office manager at a veterinary clinic for 11 years. It had
+    4 vets and 14 staff.
+
+    - I handled scheduling, billing, and the clinic''s move from paper records to
+    software in 2014.
+
+    - In my last three years there, unpaid invoices over 90 days went from about $38,000
+    to $9,000.
+
+    - During the 7 years at home I managed my mother''s insurance claims and her appointments
+    with 6 specialists.
+
+    - I haven''t used Dentrix, which the posting lists. I used AVImark at the clinic.
+
+    - The practice has 3 dentists. The posting says the manager supervises 9 people.
+
+
+    Keep it under 300 words.'
+  user_knows: '- My name is Linda Marsh. The practice is Brookside Family Dental,
+    and the owner is Dr. Alan Pierce.
+
+    - The posting closes on the 21st. Applications go by email to the practice.
+
+    - For the last 4 years I have been the volunteer treasurer of my church, doing
+    the books in QuickBooks.
+
+    - I have signed up for the Dentrix online training course, about 20 hours, and
+    can finish it before a first day.
+
+    - I can commit to starting within two weeks of an offer.
+
+    - I can commit to working the practice''s evening hours on Tuesdays and Thursdays.
+
+    - I cannot give a reference from the vet clinic''s owner. He retired and moved
+    abroad. The head vet, Dr. Sue Kim, will give one.
+
+    - I left the clinic with two weeks'' notice myself, when my mother was diagnosed.'
+config:
+  name: without-skill
+  runner: /Users/ben/github/toulmin/evals/toulmin/run-without-skill
+  model: opus
+started: '2026-11-16T21:01:53.065295+00:00'
+duration_seconds: 18.26
+exit_code: 0

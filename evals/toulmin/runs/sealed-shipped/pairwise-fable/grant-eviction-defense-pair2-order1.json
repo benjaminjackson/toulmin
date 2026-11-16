@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "grant-eviction-defense",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-03-06Z",
+  "without_skill_run": "2026-11-16T21-02-07Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is a complete, scoreable summary that names the clinic, closes the budget gap, discloses the county-renewal risk and the missing comparison figure, and commits to reporting. B reaches me with unfilled brackets for the clinic name, funding source and staffing plan, so I can't score it, though A's claim of \"no other funding to refill her position\" goes somewhat beyond the stated facts."
+}

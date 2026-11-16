@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks to my real worries: it promises an all-or-nothing refund, shows $11,000 from businesses already pledged in writing, leaves only $49,000 to raise, and is open about the roof estimate possibly rising by up to 15%. Since I just gave to the ambulance fund and I remember the refunds last time, that makes me trust B enough to pledge. A says nothing about refunds and leaves a placeholder, \"[Bank name]\", in the text."
+}

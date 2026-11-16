@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-08-01Z",
+  "without_skill_run": "2026-11-16T21-07-00Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks directly to the March error I raised: it shows the second-person check has caught every problem in about 600 entries since then, and it doesn't overpromise. It also adds concrete supervision commitments and the certification date, and it ties the request to the January cycle. A only restates the facts and leaves the placeholders unfilled."
+}

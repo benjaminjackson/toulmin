@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-09-05Z",
+  "without_skill_run": "2026-11-16T21-09-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins my trust immediately by putting the caveats about the small sample size and medication changes right in the main text rather than hiding them in fine print at the bottom. It also directly addresses why I quit my last meal service—getting bored with the food or locked into a plan—by explaining the four-week menu cycle, meal swaps, easy cancellation, and the option to talk to Lena before paying."
+}

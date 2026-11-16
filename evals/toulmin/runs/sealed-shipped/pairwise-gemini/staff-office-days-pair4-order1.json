@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-12-28Z",
+  "without_skill_run": "2026-11-16T21-10-58Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes practical details that directly affect my decision—specifically the $150 commuting stipend and the plan for desks—and makes a much more convincing, concrete case for why remote work is hurting junior architects' development. Document B leaves out the financial support, includes unfilled template placeholders, and creates a timeline contradiction where the grace period for distant workers is shorter than the stated start date."
+}

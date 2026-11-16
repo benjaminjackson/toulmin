@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is a complete, honest update that gives me the deal terms, the $250k anchor commitment, a concrete burn reduction to $75k, and the exact technical differentiation against the new competitor. Document A is an unfinished draft full of placeholders that fails to answer the most basic questions I need to make an investment decision."
+}

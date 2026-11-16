@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T21:03:39.164937+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 328
+  tags: []
+  notes: extracted 328 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 4
+    honest: 5
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 2
+    objections: 4
+    fit: 6
+  details:
+    agree: The warm case and $1 lease would move a cinema lover, but a reader who
+      remembers the refunds and has just given to the ambulance fund gets no all-or-nothing
+      promise, no sign of the $11,000 already pledged, no reopening date and no spending
+      reports, so they are likely to give a little or wait.
+    honest: 'Several claims go beyond the facts: calling the bank''s conditional pledge
+      ''matching'', saying the money ''reopens the cinema for at least the next ten
+      years'', and saying families and older neighbours ''usually'' don''t go at all.'
+    works_the_facts: It correctly gets $60,000 from $85,000 minus the bank's $25,000,
+      but it doesn't work out a per-household share, the yearly ticket total from
+      180 a week, or how much of the $60,000 remains once the $11,000 already promised
+      is counted.
+    right_comparison: The 38-mile drive is the right alternative and it is stated,
+      but it is padded with invented claims about who stops going, and the cost of
+      doing nothing (the bank pledge and the lease lapsing after June 30) is never
+      spelled out.
+    qualification: 'The document needed hedges and gives none: it leaves out the all-or-nothing
+      refund if $85,000 isn''t reached by June 30, the risk that the roof estimate
+      rises by up to 15%, and the fact that opening-week films are not guaranteed.'
+    objections: It raises the failed campaign openly, but it answers 'will this fail
+      too?' with vague reasons instead of the clear all-or-nothing guarantee, and
+      it never addresses where the money goes or when the cinema would reopen.
+    fit: It is a pitch of about the right length, but it leaves [Name] and [Group
+      Name] as placeholders and never names the Majestic or gives the May 1 launch
+      date, so it isn't ready to publish.

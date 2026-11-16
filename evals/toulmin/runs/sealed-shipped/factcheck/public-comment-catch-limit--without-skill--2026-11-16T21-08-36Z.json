@@ -1,0 +1,17 @@
+{
+  "task": "public-comment-catch-limit",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-08-36Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I never got all the way back.",
+      "why": "The brief gives trip numbers for 2016 (170), the next season (138), two years later (155), and the current average (about 160), but does not state whether bookings ever reached 170 again in the intervening years."
+    },
+    {
+      "quote": "plus the tackle shops, fuel docks, and restaurants our customers spend money at",
+      "why": "The brief says nothing about tackle shops, fuel docks, restaurants, or where charter customers spend money."
+    }
+  ],
+  "invented_count": 2
+}

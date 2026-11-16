@@ -1,0 +1,21 @@
+{
+  "task": "crowdfunding-town-cinema",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-03-12Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "For families, teenagers and older neighbours who no longer drive at night, that usually means not going at all.",
+      "why": "The brief does not mention the habits of families, teenagers, or older residents, nor whether the 38-mile distance keeps them from going to the movies."
+    },
+    {
+      "quote": "The goal is smaller and more focused, a bank is matching our effort, a 10-year lease is ready, and the volunteers are already lined up.",
+      "why": "While these facts are true of the current campaign, presenting them as what makes this campaign different from the one three years ago is unsupported because the brief does not state whether the previous campaign lacked a lease or volunteers, or why its goal was larger."
+    },
+    {
+      "quote": "anyone who has ever bought popcorn here",
+      "why": "The brief mentions a snack bar, but does not state that the cinema previously sold popcorn."
+    }
+  ],
+  "invented_count": 3
+}

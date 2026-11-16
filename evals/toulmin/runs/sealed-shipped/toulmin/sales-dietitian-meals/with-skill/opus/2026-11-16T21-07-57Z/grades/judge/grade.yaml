@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:09:05.274776+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 401
+  tags: []
+  notes: extracted 401 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 6
+    objections: 7
+    fit: 9
+  details:
+    agree: A wary reader gets plain numbers, an open hedge on A1C, a low $59 entry
+      point, no contract and a phone call with the dietitian, so many would start
+      the trial, though nothing speaks directly to their history of quitting within
+      two months.
+    honest: The A1C results are given exactly and the page refuses the stronger claim
+      the brief wanted, but "you won't get bored" promises more than a 4-week rotation
+      with 6 swaps can guarantee.
+    works_the_facts: 'It works out $12.90 a meal, but it leaves other useful figures
+      uncalculated: the trial costs about $5.90 a meal, 10 of 14 is roughly 7 in 10,
+      and 37 of 88 is 42% staying past six months.'
+    right_comparison: Doing nothing is shown as shopping and cooking alone twice a
+      day, which is fair, but it skips the reader's real alternatives, such as groceries
+      or the apps they already dropped, and gives no cost for them.
+    qualification: The A1C hedge names the real limits (14 people who chose to share,
+      medication changes not tracked), and the Thursday-noon deadline is concrete,
+      but the reader gets no checkable test, such as asking their doctor for an A1C
+      at three months.
+    objections: Doubts about health promises are handled well, and the retention figures,
+      swaps and no-contract terms partly answer "I'll quit again," but the page never
+      says outright that 37 customers have stayed past the point where this reader
+      usually quits.
+    fit: It is a sales page of about 400 words with clear sections, pricing and a
+      single order button, as the brief asked.

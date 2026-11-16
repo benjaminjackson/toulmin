@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-05-01Z",
+  "without_skill_run": "2026-11-16T21-05-35Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me the result I'd look for after I raised the March error with her: about 600 entries since April with no wrong or missed deadlines. It also names me, sets the January cycle, and is open about the trainee who left. B mentions the fix but gives no evidence that it worked, and it leaves placeholders for both names, so it reads as unfinished."
+}

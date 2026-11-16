@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-09-37Z",
+  "without_skill_run": "2026-11-16T21-09-47Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes the crucial detail that the app-based services I switched to don't carry insurance on visits, which makes me question whether my $25 savings is worth the risk. It also reassures me that there is no contract if I just want to take advantage of the $99 offer, and it is a complete, ready-to-send email without placeholders."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-28Z",
+  "without_skill_run": "2026-11-16T21-05-14Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks to my belief that members have plenty of chains: the nearest chain is more than 20 miles away, and two pharmacies have said they will stop filling for plan members. It also admits that brand-name drugs offset part of the loss, makes one specific ask, offers invoices and a meeting before May 1, and comes from a named owner. A has unfilled placeholders, adds a PBM disclosure demand the brief never mentions, and leans on vaguer warnings that read like the usual annual complaint."
+}

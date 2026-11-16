@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-07-57Z",
+  "without_skill_run": "2026-11-16T21-08-31Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is honest about the A1C numbers (small, self-selected group, medication changes not tracked), and it covers what a wary person who has quit before worries about: no contract, cancel any time, meal swaps, a menu that rotates so it doesn't get boring, and a phone call with the dietitian before I start. A omits all of that and leaves out the medication caveat, so B makes me much more willing to pay $59 for the trial week."
+}

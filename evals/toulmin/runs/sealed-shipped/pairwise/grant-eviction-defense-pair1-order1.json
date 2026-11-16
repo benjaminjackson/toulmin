@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is a complete, credible summary: it accounts for the whole $78,000 cost, admits the county-renewal risk and the missing comparison data, and makes concrete reporting commitments. Document B is still full of bracketed placeholders, leaves $33,000 a year with no named source, and claims bracketed caseload gains that aren't in the facts, so I would score it as incomplete."
+}

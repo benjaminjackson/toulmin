@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-10-23Z",
+  "without_skill_run": "2026-11-16T21-09-11Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B leads immediately with concrete, workable regulatory compromises (a 3-fish limit or a shorter season) that still achieve conservation goals, rather than waiting until the very end to suggest vague options. It also makes the economic threat to the harbor specific and credible by citing the two captains who plan to sell, without exaggerating beyond the facts."
+}

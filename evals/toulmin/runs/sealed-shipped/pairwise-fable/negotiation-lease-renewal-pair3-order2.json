@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "negotiation-lease-renewal",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-29Z",
+  "without_skill_run": "2026-11-16T21-04-38Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B addresses the late payments I still think about head-on, explains the cause, and backs it with autopay and a quick signing, plus the $40,000 hood cost and a clear deadline; A ignores the late rent, leaves my name blank, and lectures me about the market."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-09-05Z",
+  "without_skill_run": "2026-11-16T21-09-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks right to my doubts. It says plainly it won't promise my A1C will drop, admits the sample is small and medication changes weren't tracked, and covers the things that made me quit before: getting bored of the food (menu swaps and a 4-week cycle), being locked in (no contract), and a 15-minute call with the dietitian. A leaves placeholders like [Service Name] and skips those details, so I'd trust it less."
+}

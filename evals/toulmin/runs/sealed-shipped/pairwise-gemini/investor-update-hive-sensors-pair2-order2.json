@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-02-58Z",
+  "without_skill_run": "2026-11-16T21-02-25Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is a complete, honest update with the actual terms, a $250k anchor commitment, a burn reduction plan, and a clear milestone in March/April to test my concern about slow sales. Document A is an unfinished template full of bracketed placeholders, though I should note Document B makes the basic financial error of confusing top-line revenue with gross margin when calculating break-even."
+}

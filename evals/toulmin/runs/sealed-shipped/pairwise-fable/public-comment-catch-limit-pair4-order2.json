@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-10-23Z",
+  "without_skill_run": "2026-11-16T21-09-11Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B opens with a specific ask I can vote on (three fish or a shorter season) and gives me a concrete, honestly sourced consequence: two of eleven captains say they will sell. A accepts the stock numbers too, but it ends in a generic \"weigh the cost\" plea, spreads its ask across several options, and still has unfilled name and harbor placeholders."
+}

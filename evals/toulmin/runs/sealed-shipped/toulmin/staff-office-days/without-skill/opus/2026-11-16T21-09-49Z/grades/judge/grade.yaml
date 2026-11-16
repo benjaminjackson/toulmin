@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:10:19.551724+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 394
+  tags: []
+  notes: extracted 394 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 4
+    honest: 5
+    works_the_facts: 3
+    right_comparison: 4
+    qualification: 2
+    objections: 4
+    fit: 7
+  details:
+    agree: The reasons are concrete and the partners say they will be in too, but
+      a remote hire who lives 90 minutes away gets no commuting help, no review date
+      and no way to plan, so the most resistant readers have little reason to stay
+      rather than leave.
+    honest: The facts match the brief, but 'Mondays and Fridays stay flexible' is
+      the writer's addition, and the offer to 'talk with each of you individually'
+      about 'what this means for you' suggests exceptions that Paul has said he cannot
+      give.
+    works_the_facts: 'The numbers are repeated rather than worked: nothing says 5
+      of 6 project leads already come in three days, that the remaining 31 already
+      work near the office, or that the subsidy covers anyone more than 30 miles away.'
+    right_comparison: It suggests what staying fully remote costs (lost bids, juniors
+      taking longer to lead) but never says this will keep happening if nothing changes,
+      or how it affects the readers' own work and careers.
+    qualification: The commitment to review the policy with staff after six months
+      is missing, so the reader has no date to check and no condition under which
+      the policy could change.
+    objections: 'It recognises that the 15 remote hires were promised different terms,
+      but leaves out the answers that exist: the $150 monthly commuting help, desks
+      arriving in August, and the six-month review.'
+    fit: It is a one-page email with a clear subject line and sections, but it gives
+      no meeting time or place, doesn't mention HR as a contact, and has placeholder
+      signatures where Paul's name should be.

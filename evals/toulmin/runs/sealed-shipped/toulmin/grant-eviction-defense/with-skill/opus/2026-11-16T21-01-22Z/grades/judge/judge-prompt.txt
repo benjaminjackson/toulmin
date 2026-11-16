@@ -1,0 +1,62 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+A volunteer reviewer on the state bar foundation's grant panel, a retired judge who scores about 40 applications in two weeks against a printed rubric. The reviewer has no view of this clinic yet and gives each application about ten minutes.
+</reader>
+
+<brief>
+Can you help me write the project summary for a grant application? I'm the managing attorney at a two-lawyer legal aid clinic that represents tenants facing eviction. We're applying to our state bar foundation for $90,000 to hire a third attorney for two years.
+
+Facts:
+- Last year 1,140 eviction cases were filed in our county. We represented the tenant in 163 of them.
+- In the cases where we represented the tenant, 58% ended with the tenant staying in the home or getting at least 60 days to move. We don't have a comparable number for tenants without a lawyer.
+- We turned away about 300 tenants last year because no attorney was free.
+- Our two attorneys each carry about 80 open cases. One of them is leaving in June.
+- A third attorney would cost $78,000 a year with benefits. The foundation's maximum award is $45,000 a year.
+- The county gives us $60,000 a year, and that contract is up for renewal in October.
+
+The project summary has to be 300 words or less.
+</brief>
+
+The user also knew the following and gave some of it to the writer when asked:
+<user_knows>
+- The clinic is the Tenant Defense Project. I'm Maria Chen, managing attorney.
+- The application is due March 3. The foundation decides in May.
+- A family fund has pledged $20,000 a year for two years toward the new attorney. The rest of the gap comes from our general budget.
+- The attorney who is leaving in June has agreed to spend her last month training the new hire.
+- Our last attorney opening took 5 months to fill.
+- I can commit to a report to the foundation every six months on cases opened and how they ended.
+- I can commit to asking the county clerk for court-wide outcome data starting in January, so we have a comparison next year.
+- I cannot promise the county will renew our $60,000 contract in October.
+- I have no figure for what happens to tenants without a lawyer in our county.
+</user_knows>
+
+<document>
+Last year, 1,140 eviction cases were filed in our county. Our clinic's two attorneys represented the tenant in 163 of them, about one in seven. We turned away roughly 300 more tenants who asked for help because no attorney was free. Each of our attorneys carries about 80 open cases, and we cannot take on more without another lawyer.
+
+We request $90,000 over two years ($45,000 per year) to fund an additional eviction-defense attorney.
+
+In the cases where we represented the tenant last year, 58% ended with the tenant staying in the home or getting at least 60 days to move. We do not yet have a comparable figure for tenants without a lawyer. Starting in January 2027, we will request court-wide outcome data from the county clerk so that our results can be measured against it.
+
+The position costs $78,000 per year with benefits. A family fund has pledged $20,000 per year for both years. Together with this grant, that covers 83% of the cost, and the clinic will pay the remaining $13,000 per year from its general budget. That budget includes a $60,000 county contract that comes up for renewal in October, and we cannot guarantee it will be renewed.
+
+One of our two attorneys leaves in June. Our last attorney search took five months. The departing attorney has agreed to spend her final month training the new hire.
+
+Every six months, we will report to the Foundation on the cases the new attorney has opened and how they ended.
+
+Without this position, we will go on turning away tenants at last year's rate of about 300 a year.
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

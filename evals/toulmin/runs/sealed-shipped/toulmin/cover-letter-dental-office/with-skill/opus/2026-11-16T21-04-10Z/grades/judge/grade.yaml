@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T21:05:01.754358+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 233
+  tags: []
+  notes: extracted 233 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 6
+    objections: 6
+    fit: 9
+  details:
+    agree: 'The letter handles the gap and the missing Dentrix experience openly,
+      which should win over a reader who has no fixed view of gaps, but it leaves
+      out the strongest points for an owner whose manager just quit: she can start
+      within two weeks, she can cover the Tuesday and Thursday evenings, and she has
+      four years of current QuickBooks work.'
+    honest: 'Every figure comes from the facts she gave, but two phrases go a little
+      beyond them: ''kept my insurance and scheduling skills in daily use'' and ''without
+      losing track of patients.'''
+    works_the_facts: The $38,000-to-$9,000 drop is stated as given, not also as a
+      cut of about three-quarters, and the size comparison stops at 'close in size'
+      instead of setting her 14 staff against the 9 she would supervise here.
+    right_comparison: The owner's real alternative is a front office left without
+      a manager while he keeps searching, and the letter never sets her quick start
+      against that.
+    qualification: The Dentrix commitment is specific and checkable (an enrolled course
+      of about 20 hours, finished before day one), but it ties to no date or start
+      window the owner could hold her to.
+    objections: The gap and the Dentrix objections are both met, and the letter rightly
+      says nothing about the absent clinic owner or how she left the clinic, but it
+      misses the treasurer role that would answer whether her skills are current.
+    fit: This is a properly addressed cover letter of about 250 words, under the 300-word
+      limit, with placeholders where her contact details go.

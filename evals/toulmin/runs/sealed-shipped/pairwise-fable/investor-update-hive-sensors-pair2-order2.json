@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "investor-update-hive-sensors",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-02-58Z",
+  "without_skill_run": "2026-11-16T21-02-25Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me actual terms, a committed $250k anchor, a burn cut, the competitor's real differences, and a concrete March–April test for break-even without overpromising profit; A is full of unfilled placeholders on exactly the points I'd need to decide (terms, edge, path to profit)."
+}

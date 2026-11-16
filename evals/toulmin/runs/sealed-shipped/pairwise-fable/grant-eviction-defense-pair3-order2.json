@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "grant-eviction-defense",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-04-31Z",
+  "without_skill_run": "2026-11-16T21-02-51Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is a finished, submittable summary that names the clinic, discloses the departing attorney and county-contract risk candidly, shows a fully sourced budget, and commits to reporting; Document A is riddled with unfilled brackets and asserts a net third attorney and unfunded backfill it cannot support, which I would mark down immediately."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "crowdfunding-town-cinema",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-02-41Z",
+  "without_skill_run": "2026-11-16T21-02-01Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B names the Majestic, tells me $36,000 is already committed, and states outright that my pledge comes back in full if they fall short, which answers my worry from the last campaign; A leaves placeholder names, makes no refund promise for this round, and calls $60,000 'half' of $120,000 when the real goal is $85,000. B's small per-resident figure also makes a modest pledge feel reasonable after my ambulance donation."
+}

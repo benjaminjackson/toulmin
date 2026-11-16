@@ -1,0 +1,21 @@
+{
+  "task": "staff-office-days",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-09-49Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The four of you who live more than two hours from the office can keep working remotely until the end of 2027.",
+      "why": "The brief says they can work remotely until the end of next year, without stating what the current year is or mentioning 2027."
+    },
+    {
+      "quote": "For the rest of you, we'd like to talk with each of you individually before September about what this means for you.",
+      "why": "Neither the brief nor the user's additional information mentions holding individual talks with the other remote staff before September."
+    },
+    {
+      "quote": "If you'd rather raise something privately, any of the three of us is glad to talk with you beforehand.",
+      "why": "The user's information states that questions before the meeting can go to Paul Whitaker or to HR, not to any of the three partners."
+    }
+  ],
+  "invented_count": 3
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-dental-office",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-03-18Z",
+  "without_skill_run": "2026-11-16T21-02-23Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes concrete details that resolve my hesitation about the seven-year employment gap and lack of dental software experience—specifically her recent work as a church treasurer using QuickBooks and the fact that she already enrolled in a 20-hour Dentrix course. It is also properly addressed to me and my practice rather than leaving placeholders."
+}

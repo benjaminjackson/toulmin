@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-09-36Z",
+  "without_skill_run": "2026-11-16T21-08-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives concrete, calibrated evidence a skeptic can trust: one of the 3 best students in 17 years, she ran the lab's water sampling alone, her supervisor would rehire her, and it is candid about the study's limits. B is full of placeholders, relies on generic praise and adds unsupported claims, such as that she designed the sampling scheme and accounted for the data gap in her analysis."
+}

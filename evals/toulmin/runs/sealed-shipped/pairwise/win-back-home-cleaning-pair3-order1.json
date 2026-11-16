@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-home-cleaning",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-11-34Z",
+  "without_skill_run": "2026-11-16T21-10-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is complete and concrete: it gives the real $25 price gap, says app contractors carry no insurance, adds a December 31 deadline, and gives a reply-or-call booking path. B has unfilled placeholders, wrongly says I complained about rotating cleaners, and has no deadline or phone number, so it reads like a template."
+}

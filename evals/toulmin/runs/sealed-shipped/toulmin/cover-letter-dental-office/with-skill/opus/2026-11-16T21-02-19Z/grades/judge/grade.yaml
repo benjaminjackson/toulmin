@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:03:18.908614+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 234
+  tags: []
+  notes: extracted 234 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 8
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 7
+    objections: 7
+    fit: 9
+  details:
+    agree: A dentist who is unsure about gaps gets a plain reason for the seven years,
+      proof she kept using her skills through the insurance work and the QuickBooks
+      treasurer role, a concrete Dentrix plan and a quick start date, which is likely
+      to get her an interview.
+    honest: Every figure matches what the user supplied and the letter never claims
+      she supervised staff, but 'a serious illness' is a small detail the facts did
+      not state.
+    works_the_facts: Comparing 4 vets and 14 staff with 3 dentists and 9 staff to
+      call her clinic 'a little larger than yours' works well, but the drop from $38,000
+      to $9,000 is left as raw numbers and not shown as roughly a three-quarters cut.
+    right_comparison: Comparing the size of her old practice with his is accurate
+      and useful, but the letter does not speak to his real alternative, which is
+      a seat left empty after a sudden departure, beyond saying she can start within
+      two weeks.
+    qualification: The Dentrix gap comes with a checkable course length (20 hours)
+      and a deadline (before day one), and the start date is tied to the offer, though
+      nothing says what happens if the training slips.
+    objections: The gap, the missing Dentrix experience and the reference are all
+      handled, but mentioning that she left with two weeks' notice could touch a sore
+      spot for an owner whose last manager just did the same, and the letter does
+      not frame it as care being taken over a handover.
+    fit: It is a short, properly addressed cover letter of about 260 words, under
+      the 300-word limit, and the dentist can read it between patients.

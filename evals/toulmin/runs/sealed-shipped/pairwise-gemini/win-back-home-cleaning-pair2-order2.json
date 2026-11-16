@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-10-37Z",
+  "without_skill_run": "2026-11-16T21-10-14Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B makes a much stronger case by calling out that app contractors usually don't carry insurance and reassuring me there's no contract if I want to try the $99 offer. Document A feels like an unfinished template with placeholders, and it falsely claims I complained about cleaner turnover when I only left for the price."
+}

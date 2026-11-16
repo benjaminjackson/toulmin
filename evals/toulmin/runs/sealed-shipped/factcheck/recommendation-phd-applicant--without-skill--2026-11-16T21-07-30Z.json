@@ -1,0 +1,17 @@
+{
+  "task": "recommendation-phd-applicant",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-07-30Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Priya designed a 14-month study",
+      "why": "The brief states that her senior thesis compared oyster growth over 14 months and that she did the fieldwork herself, not that she designed the study."
+    },
+    {
+      "quote": "She knows her results come from a single bay and a single season, and she is eager to test whether the marsh effect holds up over more years and more locations.",
+      "why": "The brief does not mention what Priya knows about her study's limitations or that she is eager to test the effect over more years and locations (and a 14-month study spans more than a single season)."
+    }
+  ],
+  "invented_count": 2
+}

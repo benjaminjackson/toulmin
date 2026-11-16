@@ -1,0 +1,17 @@
+{
+  "task": "recommendation-phd-applicant",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-10-42Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Of the roughly thirty theses I have supervised, hers asked the most of its author in the field.",
+      "why": "Neither the brief nor the user's additional information states how the fieldwork demands of Priya's thesis compared to the other thirty theses supervised."
+    },
+    {
+      "quote": "Priya showed it long before anyone required it of her.",
+      "why": "The provided facts only mention fieldwork done for her senior thesis and a paid summer job, with no mention of her doing this work before it was required of her."
+    }
+  ],
+  "invented_count": 2
+}

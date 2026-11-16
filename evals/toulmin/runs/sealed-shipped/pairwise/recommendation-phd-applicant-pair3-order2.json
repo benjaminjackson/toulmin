@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-09-36Z",
+  "without_skill_run": "2026-11-16T21-08-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives checkable specifics a skeptical reader can use: she ranks among the three best students in 17 years, she ran the lab's water sampling alone for two weeks, and her supervisor would rehire her. It also states the study's limits plainly, which makes its praise believable. A reads like generic small-college praise, still has unfilled placeholders, and includes claims the brief doesn't support."
+}

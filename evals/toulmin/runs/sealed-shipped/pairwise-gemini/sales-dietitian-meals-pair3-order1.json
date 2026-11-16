@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-10-17Z",
+  "without_skill_run": "2026-11-16T21-09-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins because it includes the dietitian's name and practical details that directly address why I quit meal services before—specifically meal swaps, menu variety, a 15-minute phone call, and a clear no-contract policy. Document B lacks these reassuring details, feels more generic, and even leaves an unedited placeholder at the end."
+}

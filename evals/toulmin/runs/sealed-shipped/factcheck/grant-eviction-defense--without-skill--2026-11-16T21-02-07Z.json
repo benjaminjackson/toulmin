@@ -1,0 +1,13 @@
+{
+  "task": "grant-eviction-defense",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-02-07Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "That is enough time to find new housing.",
+      "why": "The brief does not state whether 60 days is enough time for a tenant to find new housing."
+    }
+  ],
+  "invented_count": 1
+}

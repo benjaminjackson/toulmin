@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-11-22Z",
+  "without_skill_run": "2026-11-16T21-10-12Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who has already quit a meal delivery service and two apps, Document B wins me over by answering my practical questions—like being able to swap meals, skip weeks, or cancel anytime—and by introducing a real named dietitian I can actually talk to for 15 minutes before spending money. Both documents are refreshingly honest about the small A1C sample size, though Document A also slightly misstates the facts by implying the 0.6-point average drop was only among the 10 people whose numbers went down rather than across all 14."
+}

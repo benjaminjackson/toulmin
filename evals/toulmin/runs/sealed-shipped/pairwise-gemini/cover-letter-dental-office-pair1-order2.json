@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-dental-office",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B includes concrete details that ease my hesitation about her seven-year work gap, such as her recent QuickBooks work as a church treasurer, her proactive enrollment in a Dentrix course, and a named reference from her previous clinic. It also confirms she can work our evening hours and is ready to send without template placeholders."
+}

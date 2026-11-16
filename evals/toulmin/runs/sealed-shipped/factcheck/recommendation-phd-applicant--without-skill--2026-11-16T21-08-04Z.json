@@ -1,0 +1,33 @@
+{
+  "task": "recommendation-phd-applicant",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-08-04Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Priya designed and carried out a 14-month study of oyster growth at six sites in our bay.",
+      "why": "The brief states that her thesis compared oyster growth and that she did the fieldwork herself, but it does not state that she designed the study."
+    },
+    {
+      "quote": "in every kind of weather",
+      "why": "The brief mentions she made about 90 kayak trips over 14 months and that a storm caused data loss, but it does not state that she went out in every kind of weather."
+    },
+    {
+      "quote": "Priya understands what her data can and cannot show. She knows the pattern comes from a single season.",
+      "why": "The brief does not say what Priya understands about the limits of her data, and it states the study lasted 14 months rather than a single season."
+    },
+    {
+      "quote": "She is eager to test the result with more years and more sites.",
+      "why": "The brief says she has not repeated the study, not that she wants to test the result across additional years and sites."
+    },
+    {
+      "quote": "where she discussed her methods and results with researchers outside our college.",
+      "why": "The brief only states that she presented the work as a poster at a regional conference, not whom she spoke with there."
+    },
+    {
+      "quote": "She has already shown she can design a long-term study and carry it through on her own.",
+      "why": "The brief states that she did the fieldwork herself, not that she designed the study."
+    }
+  ],
+  "invented_count": 6
+}

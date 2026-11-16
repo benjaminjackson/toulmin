@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is a complete email that gives me the exact deal terms, shows strong momentum with $250,000 already committed, and directly addresses the burn rate and new competition with concrete facts. Document B is full of unfinished placeholders and lacks the specific terms, dates, and cost-cutting commitments I need to make an investment decision."
+}

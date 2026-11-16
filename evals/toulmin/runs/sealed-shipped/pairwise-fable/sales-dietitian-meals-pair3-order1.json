@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "sales-dietitian-meals",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-10-17Z",
+  "without_skill_run": "2026-11-16T21-09-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who has quit three services, A answers my real worries: no contract, skip or cancel any time, swap meals, a call with the dietitian, and a concrete order deadline, while being plain about what the A1C numbers can't prove. B has a \"Real results\" headline that oversells, an unfilled \"[day/time]\" placeholder, an unsupported \"people stay because the food is good\" claim, and says nothing about cancelling."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "promotion-senior-paralegal",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-08-01Z",
+  "without_skill_run": "2026-11-16T21-07-00Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A addresses the March deadline error I already raised head-on, gives me the evidence I'd want (about 600 entries with no wrong or missed deadlines since the second-person check), doesn't overpromise, and adds concrete commitments (weekly check-ins, certification) and candor about the trainee who left. B has unfilled placeholders for my name and hers, frames the error as a selling point under a self-congratulatory heading, and offers no proof the fix worked."
+}

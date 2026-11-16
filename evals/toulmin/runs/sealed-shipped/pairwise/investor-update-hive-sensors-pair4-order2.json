@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-50Z",
+  "without_skill_run": "2026-11-16T21-03-47Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me concrete terms, a committed $250K anchor, a deadline, a cost cut to $75K a month, and a monthly cash report. It also tells me plainly that three customers are testing the competitor and that it can't promise profit, and that candor speaks to my worry about slow sales. A is full of unfilled placeholders and a vague profitability section, so I have nothing I could act on."
+}

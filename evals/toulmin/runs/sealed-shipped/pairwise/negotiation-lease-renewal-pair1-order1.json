@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-lease-renewal",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-03-24Z",
+  "without_skill_run": "2026-11-16T21-03-39Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A brings up the late payments I still think about, explains the cooler failure, thanks me for waiving the fees and offers automatic payments, so I feel heard and reassured. B calls itself a reliable tenant for a decade without mentioning the late payments, which would annoy me, and it still has blank placeholders for the names."
+}

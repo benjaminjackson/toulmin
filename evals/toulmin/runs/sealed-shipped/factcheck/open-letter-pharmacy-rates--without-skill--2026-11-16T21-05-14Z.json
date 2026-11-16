@@ -1,0 +1,33 @@
+{
+  "task": "open-letter-pharmacy-rates",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-05-14Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "and its Board of Trustees",
+      "why": "Neither the brief nor the user's additional information mentions that the state employees' health plan has a Board of Trustees."
+    },
+    {
+      "quote": "a retiree, or someone in their family",
+      "why": "The brief only refers to 'state employees' health plan' and 'plan members', without specifying that retirees or family members are covered."
+    },
+    {
+      "quote": "since January, the plan has paid us less to fill those prescriptions than it costs us to fill them.",
+      "why": "The brief states the plan pays less than cost for the 20 most-filled generic drugs, whereas the user notes that some pharmacies make up part of the loss on brand-name drugs, so they do not necessarily lose money on all plan prescriptions overall."
+    },
+    {
+      "quote": "It is a loss, and our pharmacies absorb it on every one of those prescriptions.",
+      "why": "The brief states the $1.80 loss is an 'average' across the 20 generic drugs, which does not mean the pharmacies lose money on every single prescription."
+    },
+    {
+      "quote": "Every pharmacy signing this letter can tell you the same thing: a small business cannot keep losing money on a fifth of its work.",
+      "why": "The brief states that the $1.80 average loss applies to the 20 most-filled generic drugs, not to the entire 22% (a fifth) of their work that goes to plan members."
+    },
+    {
+      "quote": "many of whom we have known for years",
+      "why": "The brief does not say how long the pharmacists have known the plan members."
+    }
+  ],
+  "invented_count": 6
+}

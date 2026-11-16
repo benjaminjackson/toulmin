@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-07-57Z",
+  "without_skill_run": "2026-11-16T21-08-31Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins my trust by openly pointing out the small sample size and unmonitored medication changes behind the A1C numbers, which immediately disarms my skepticism. It also includes the practical details I need before trying another service—like the ability to swap meals, cancel anytime without a contract, and talk to Lena on the phone first."
+}

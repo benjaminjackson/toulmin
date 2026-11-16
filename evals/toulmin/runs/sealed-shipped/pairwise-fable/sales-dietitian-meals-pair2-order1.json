@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "sales-dietitian-meals",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-09-05Z",
+  "without_skill_run": "2026-11-16T21-09-07Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is upfront that it can't promise an A1C drop, admits the small sample and untracked medication in the body rather than fine print, and answers my actual quit-risk worries (menu boredom, swaps, no contract, skip/cancel, a call with the dietitian, order deadline). B has unfilled placeholders, leads with the 0.6 drop in bold while burying the caveats in a footer, and its headline feels like the kind of health promise I've learned to distrust."
+}

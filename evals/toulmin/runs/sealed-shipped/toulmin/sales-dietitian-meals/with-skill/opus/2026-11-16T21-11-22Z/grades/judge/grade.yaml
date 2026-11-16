@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T21:12:26.151830+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 411
+  tags: []
+  notes: extracted 411 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 3
+    qualification: 6
+    objections: 7
+    fit: 8
+  details:
+    agree: A wary reader who has quit before gets candid A1C numbers, a $59 low-risk
+      trial, no contract and a call with the dietitian, so trying one week is easy
+      to accept, though the page never speaks to why this might stick when the apps
+      didn't.
+    honest: It drops the requested 'will lower your A1C' promise and reports the 14-person
+      results with their limits, but calling the phone call 'free' and saying the
+      meals give blood sugar 'a steadier day' go slightly past what the facts state.
+    works_the_facts: 'It works out $12.90 a meal, but it leaves out easy, favourable
+      figures: 10 of 14 is 71%, 37 of 88 is 42% staying past six months, and the trial
+      comes to $5.90 a meal.'
+    right_comparison: The page never sets Steady Plate against the reader's real alternatives
+      (cooking and carb-counting on their own, or the apps and services they quit),
+      so the reader has nothing to weigh it against.
+    qualification: The hedges are concrete and honest (small sample, medication changes
+      not tracked, not a replacement for the doctor), but they give the reader nothing
+      to check, such as rechecking A1C after three months and what to do if it hasn't
+      moved.
+    objections: Fear of commitment and boredom are handled by the cheap trial, no
+      contract, meal swaps and the six-month retention figure, but the reader's main
+      doubt, 'I quit things after two months', is only answered indirectly.
+    fit: "It is a clear sales page of about 420\u2013450 words, close to the requested\
+      \ length, with order buttons at the top and bottom."

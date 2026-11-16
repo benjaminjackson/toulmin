@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-02-41Z",
+  "without_skill_run": "2026-11-16T21-02-01Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B convinces me to chip in a modest amount even after my $200 hospital donation because it reveals that local businesses have already pledged $11,000, bringing the remaining goal to just $2,000 more than we actually raised last time. It also explicitly guarantees a full refund if the campaign falls short again, uses the real name of our cinema, and is signed by Ruth."
+}

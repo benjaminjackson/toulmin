@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is a complete, honest summary that directly answers the funding gap and baseline data questions a grant reviewer looks for, while Document A is an unfinished template full of bracketed placeholders. Even though Document B reveals some operational risks regarding staffing and county funding, its candor and concrete details make it a much stronger, scorable application."
+}

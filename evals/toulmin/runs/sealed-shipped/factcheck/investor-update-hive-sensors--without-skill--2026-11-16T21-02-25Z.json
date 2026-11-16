@@ -1,0 +1,33 @@
+{
+  "task": "investor-update-hive-sensors",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-02-25Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "H1 2026",
+      "why": "The brief does not state the current year or specify that the half-year update is for H1 2026."
+    },
+    {
+      "quote": "We're working with him on a cleaner comparison this season, and we'll share it whether or not it flatters us.",
+      "why": "Neither the brief nor the user's additional information mentions conducting a follow-up comparison study with the largest customer or committing to share those results."
+    },
+    {
+      "quote": "Our goal is to reach profitability in 2027.",
+      "why": "The brief asks to state they will be profitable 'next year', and does not specify that next year is 2027."
+    },
+    {
+      "quote": "We'll report against each of these in every update.",
+      "why": "The user only offered to commit to a monthly cash report for bridge investors, not to report on customer count, subscribed hives, app revenue, and cost changes in every update."
+    },
+    {
+      "quote": "At our current spend, cash lasts until about early March.",
+      "why": "The brief states they have $340,000 left and spend $95,000 a month (about 3.6 months of runway), which only lasts until early March if the current month is November, a fact not given in the brief."
+    },
+    {
+      "quote": "The bridge carries us through the 2027 pollination season",
+      "why": "The brief does not specify the current year as 2026, and even with the $600,000 bridge adding about 6.3 months of runway to the existing 3.6 months, the brief does not provide the timeline or math to show it carries the company through the 2027 pollination season."
+    }
+  ],
+  "invented_count": 6
+}

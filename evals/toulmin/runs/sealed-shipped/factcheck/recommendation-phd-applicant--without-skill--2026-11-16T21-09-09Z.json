@@ -1,0 +1,33 @@
+{
+  "task": "recommendation-phd-applicant",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-09-09Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "She asked the questions that moved discussions forward, and she clearly enjoyed working through hard material.",
+      "why": "The brief only states that she took three courses and earned the top grade in two of them, saying nothing about her participation in class discussions."
+    },
+    {
+      "quote": "in all kinds of weather",
+      "why": "The brief states that she made about 90 kayak trips over 14 months, but does not mention the weather conditions during her trips."
+    },
+    {
+      "quote": "When we discussed this, she had already worked out what a second season and a more focused comparison of marsh and non-marsh sites would need.",
+      "why": "Neither the brief nor the additional user facts mention a discussion between the professor and Priya about repeating the study or that Priya planned out a second season."
+    },
+    {
+      "quote": "where she explained her methods and findings clearly to an audience of working scientists.",
+      "why": "The brief only states that she presented a poster at a regional conference, with no details on the audience or how well she explained the work."
+    },
+    {
+      "quote": "There she learned professional field protocols, took on real responsibility, and saw how applied shellfish research is done outside the classroom.",
+      "why": "The brief only states she worked as a paid field assistant at a state shellfish lab (and the user's extra notes only mention water sampling), without mentioning learning protocols or applied research."
+    },
+    {
+      "quote": "She has already shown she can design a long field study",
+      "why": "The brief states that she did the fieldwork herself for her senior thesis, but does not state that she designed the study."
+    }
+  ],
+  "invented_count": 6
+}

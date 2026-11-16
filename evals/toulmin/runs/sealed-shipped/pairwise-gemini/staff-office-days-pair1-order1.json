@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-08-56Z",
+  "without_skill_run": "2026-11-16T21-09-16Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes concrete details that directly affect my decision to stay or push back, specifically the $150 monthly commuting stipend, the six-month policy review, and the answer to the obvious question of where we will all sit. It is also upfront about not offering further exceptions and gives a clear timeline for the four distant staff, whereas Document B leaves out practical support and has unfilled name placeholders."
+}

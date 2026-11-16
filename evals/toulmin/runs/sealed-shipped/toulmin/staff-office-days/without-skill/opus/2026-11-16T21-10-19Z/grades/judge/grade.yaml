@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T21:10:57.935490+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 368
+  tags: []
+  notes: extracted 368 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 4
+    honest: 7
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 3
+    objections: 4
+    fit: 7
+  details:
+    agree: A remote hire who is weighing whether to leave gets an acknowledgement
+      and two reasons, but no stipend, no review date and no sign that the five project
+      leads already come in, so they have little to convince them to stay.
+    honest: The figures match the brief and it openly says remote work is not the
+      only cause, though 'it is costing us work' and the overhearing-at-desks explanation
+      go a little further than the two client comments and the review data show.
+    works_the_facts: 'Beyond splitting the 15 into 4 and 11 and turning ''end of next
+      year'' into dates, it derives nothing: no commute cost against the $150 subsidy,
+      no project-lead figure, and no account of what the 30% delay costs over time.'
+    right_comparison: It suggests that staying remote means more lost bids and slower
+      development, but never sets out what continuing as now would look like or show
+      any trend beyond one year's losses.
+    qualification: The hedge 'we don't think remote work is the only cause' names
+      nothing the reader can check, and the six-month review the user could commit
+      to, with its date and what happens if the policy isn't working, is missing.
+    objections: It recognises that the remote terms are changing and that partners
+      will come in too, but leaves out the commuting subsidy, the desks arriving in
+      August, the 5 of 6 project leads already in, the review, and a clear statement
+      that there are no exceptions beyond the four.
+    fit: It is a one-page email in the right form, but it uses placeholder signatures
+      instead of Paul's name and leaves out the meeting time, the location and who
+      to contact (Paul or HR) before Friday.

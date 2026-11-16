@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-04-31Z",
+  "without_skill_run": "2026-11-16T21-02-51Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A still has bracketed placeholders and makes claims the brief doesn't support, such as funding the departing attorney's replacement and adding a third attorney, so a judge skimming it would mark it as unfinished and unreliable. Document B is complete and candid: it frames the grant as keeping two lawyers on staff, fully accounts for the $78,000 cost, admits there is no comparison figure yet and the county contract may not be renewed, and commits to six-month reports."
+}

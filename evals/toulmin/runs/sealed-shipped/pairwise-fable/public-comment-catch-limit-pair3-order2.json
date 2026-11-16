@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-09-03Z",
+  "without_skill_run": "2026-11-16T21-08-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B accepts our staff's stock numbers, asks up front for a specific alternative that still cuts catch (three fish or a shorter season), and offers trip logs and a catch-reporting trial, which gives me something to act on beyond the hardship story we hear at every hearing. A leaves name and harbor as placeholders, multiplies one captain's loss across all 11 boats and says it will be 'worse' without support, and makes a more diffuse ask."
+}

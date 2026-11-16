@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-08-56Z",
+  "without_skill_run": "2026-11-16T21-09-16Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B addresses the immediate practical questions I would have as an employee affected by this change, including the $150 commuting stipend, the desk shortage, and the six-month policy review. Knowing that 5 of the 6 project leads are already in three days a week and having clear rules on exceptions makes the transition feel much better planned and more persuasive than Document A."
+}

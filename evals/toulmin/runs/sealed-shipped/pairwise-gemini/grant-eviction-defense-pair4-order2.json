@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-32Z",
+  "without_skill_run": "2026-11-16T21-03-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is a complete, ready-to-score summary that directly answers my rubric questions on matching funds, evaluation plans, and outcome data. Document A leaves crucial financial and operational details as blank placeholders, making it impossible to score favorably."
+}

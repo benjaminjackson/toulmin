@@ -1,0 +1,25 @@
+{
+  "task": "public-comment-catch-limit",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-07-24Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "That's how I pay my mortgage, my mate, my fuel, and my insurance.",
+      "why": "The brief does not state that the speaker has a mortgage or employs a mate."
+    },
+    {
+      "quote": "This proposal would last three years, not one.",
+      "why": "The brief does not state how long the 2016 limit cut lasted, only that bookings dropped the next season."
+    },
+    {
+      "quote": "People don't drive to the coast and pay for a charter to take home two fish.",
+      "why": "The brief does not state that customers drive to the coast, and the survey shows at least 12 customers would still book the same number of trips with a two-fish limit."
+    },
+    {
+      "quote": "A cut that falls just as hard on the smallest share of the harvest",
+      "why": "The brief states charter boats land 9% and private boats land 80%, which leaves 11% unaccounted for, so the brief does not show that charter boats have the smallest share of the harvest."
+    }
+  ],
+  "invented_count": 4
+}

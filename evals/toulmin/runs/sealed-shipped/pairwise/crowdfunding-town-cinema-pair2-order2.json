@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-02-41Z",
+  "without_skill_run": "2026-11-16T21-02-01Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks to my two worries. It promises all-or-nothing refunds, and it shows $36,000 already pledged in writing, so the gap is close to what the town gave last time. It's also signed by a named person and names the Majestic, while A leaves the cinema's name as a placeholder and doesn't say what happens to my money if they fall short."
+}

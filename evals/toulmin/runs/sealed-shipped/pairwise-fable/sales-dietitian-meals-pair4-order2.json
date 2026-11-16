@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "sales-dietitian-meals",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-11-22Z",
+  "without_skill_run": "2026-11-16T21-10-12Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Both are honest about the small A1C sample and make no promise, but B answers the things that made me quit before: no contract, skip or cancel any time, meal swaps, an order deadline, the delivery area and a call with the named dietitian. A leaves me guessing on all of those and adds an unsupported line about why people stay."
+}

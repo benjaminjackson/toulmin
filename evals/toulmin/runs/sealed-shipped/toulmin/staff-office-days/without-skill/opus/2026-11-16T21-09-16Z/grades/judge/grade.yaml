@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T21:09:49.482394+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 420
+  tags: []
+  notes: extracted 420 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 5
+    honest: 7
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 3
+    objections: 4
+    fit: 7
+  details:
+    agree: The reasons are concrete, and the partners' own change is persuasive, but
+      a remote hire who lives 90 minutes away is told only that the firm 'isn't taking
+      it lightly', with no commuting help or review offered, so the people most likely
+      to leave have little reason to stay.
+    honest: The figures match the brief and the causal claim about junior staff is
+      hedged with 'we think', though 'until the end of 2027' assumes the year and
+      'we'll talk with each of you individually' is a commitment the brief doesn't
+      give.
+    works_the_facts: 'The figures are repeated rather than worked: it never notes
+      that 15 of 46 is a third of the firm, never turns the 30% into time lost per
+      person, and leaves out the fact that 5 of 6 project leads already come in three
+      days a week.'
+    right_comparison: It shows what has already happened (lost bids, slower development)
+      but never says what continuing fully remote would lead to, or whether these
+      problems are getting worse.
+    qualification: A permanent change for people hired on remote terms needs a checkable
+      condition, and the six-month review with staff would have supplied one with
+      a date and a consequence, but it is left out.
+    objections: It names the remote hires' grievance but answers it with sympathy
+      only, leaving out the $150 commuting support and the desks arriving in August,
+      and it never says plainly that there are no exceptions beyond the four, which
+      invites individual requests.
+    fit: It is a well-structured one-page email ahead of Friday's meeting, but it
+      leaves out the 10 a.m. time, the main studio location and the HR contact, and
+      is signed with placeholders instead of the partners' names.

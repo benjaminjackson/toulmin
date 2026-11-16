@@ -1,0 +1,17 @@
+{
+  "task": "public-comment-catch-limit",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-07-58Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "and about $29,000 out of one small business in one year.",
+      "why": "The brief gives $900 as the current price per trip, not the price per trip in 2016–2017 when the 32-trip drop happened."
+    },
+    {
+      "quote": "This year our charter association surveyed 70 past customers.",
+      "why": "The brief says the charter association ran a survey, but does not give a date or say it was run this year."
+    }
+  ],
+  "invented_count": 2
+}

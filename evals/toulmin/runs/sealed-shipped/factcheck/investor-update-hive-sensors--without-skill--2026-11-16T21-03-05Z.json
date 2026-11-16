@@ -1,0 +1,45 @@
+{
+  "task": "investor-update-hive-sensors",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-03-05Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "This winter we're running a [controlled comparison / matched-yard analysis] with [customer(s)] so that next year we have cleaner evidence of our impact.",
+      "why": "Neither the brief nor the additional background mentions running a study or comparison with customers this winter."
+    },
+    {
+      "quote": "which gets us to roughly March.",
+      "why": "The brief does not state the current month, so it is impossible to calculate from the brief alone that 3.5 months of cash runway ends in March."
+    },
+    {
+      "quote": "carries us through the 2027 spring season with room to spare.",
+      "why": "Neither the brief nor the additional background states the current year or that the upcoming spring season is in 2027."
+    },
+    {
+      "quote": "1. Get into spring selling with enough inventory and sales capacity to capture peak demand",
+      "why": "The brief does not state that the bridge funds will be used to build inventory or sales capacity."
+    },
+    {
+      "quote": "3. Produce the winter-loss data that sets us apart from a cheaper competitor",
+      "why": "The brief does not mention plans to use bridge funds to produce winter-loss data."
+    },
+    {
+      "quote": "Our goal is to reach profitability in 2027.",
+      "why": "The brief mentions wanting to be profitable 'next year' (which the user later retracts), but never identifies the year as 2027."
+    },
+    {
+      "quote": "To get there, we need [X customers / Y hives on subscription], a sensor cost of [$Z], and monthly spend held at [$W].",
+      "why": "Neither the brief nor the additional background mentions reducing the $38 sensor manufacturing cost as a requirement or plan for reaching profitability."
+    },
+    {
+      "quote": "We'll report against each of these in every update so you can see how we're tracking.",
+      "why": "The user only offered to commit to a monthly cash report for bridge participants, not reporting on subscriber counts, sensor costs, and monthly spend in every update."
+    },
+    {
+      "quote": "your participation will matter to new investors.",
+      "why": "The brief only states that the founder wants current investors in the bridge round and never mentions pitching new investors."
+    }
+  ],
+  "invented_count": 9
+}

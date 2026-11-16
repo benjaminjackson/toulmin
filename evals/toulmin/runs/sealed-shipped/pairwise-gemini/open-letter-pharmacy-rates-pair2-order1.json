@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-05-28Z",
+  "without_skill_run": "2026-11-16T21-05-14Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A directly addresses my assumption that members can just use chain pharmacies by noting that chains are over 20 miles away in 14 counties, and it builds credibility by honestly admitting that brand-name drugs offset some losses. It also offers concrete, actionable next steps—two pharmacies ready to drop our network and an offer to share invoices before May 1—without the unfilled placeholders of Document B."
+}

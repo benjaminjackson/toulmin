@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-02-58Z",
+  "without_skill_run": "2026-11-16T21-02-25Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B answers my worry about slow sales directly: it gives a specific break-even revenue level, a test in March–April 2027 that I can check, cuts to spending, full note terms, $250K already committed, and monthly cash reports. A is full of placeholders and sets a 2027 profitability goal that its numbers don't support."
+}

@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:05:03.327456+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 317
+  tags: []
+  notes: extracted 317 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 8
+    honest: 7
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 6
+    objections: 7
+    fit: 9
+  details:
+    agree: 'This reader remembers the refunds and has already given to the ambulance
+      fund, and is likely to pledge: the draft takes on the old failure head-on, shows
+      that $36,000 is already committed, and promises that every pledge comes back
+      if the goal isn''t met.'
+    honest: 'Every figure checks out, but two claims go further than the facts allow:
+      "far cheaper to run" has no operating-cost figures behind it, and "We can reopen
+      it by Thanksgiving" states a plan as a certainty.'
+    works_the_facts: The draft correctly works out $49,000 still to raise and makes
+      the strongest comparison available, only $2,000 more than the last campaign
+      actually raised, though it could also have put the target in reader terms, such
+      as roughly $7.50 per resident.
+    right_comparison: The alternative is described accurately (the cinema stays dark
+      and the nearest screen is 38 miles away), but the cost of that 76-mile round
+      trip, or what the town has lost since 2022, is left for the reader to work out.
+    qualification: The all-or-nothing condition names a date, an amount and a consequence,
+      but the warning that the roof could cost up to 15% more gives no dollar figure
+      and doesn't say who covers the shortfall or what happens to the project if it
+      occurs.
+    objections: The draft answers the refund worry directly, but for a reader stretched
+      by other giving this month it offers only "pledge what you can", with no suggested
+      amounts and nothing on why the pledge matters now.
+    fit: This is a clear, signed campaign pitch of about 330 words, under the 350-word
+      limit.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-04-47Z",
+  "without_skill_run": "2026-11-16T21-03-05Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is a finished update: it gives the note terms, the $250K already committed, the cut to $75K a month in spending, an honest test for reaching profit and a clear ask. B is full of placeholders, leaves out the terms and the close date, and still points toward profit in 2027 without the numbers to back it. As a partner worried about slow sales, I'd act on A."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-12-28Z",
+  "without_skill_run": "2026-11-16T21-10-58Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a remote hire deciding whether to stay, A tells me what I actually need to know: the $150 commuting support, that desks will be ready, that there are no other exceptions, the notice period, and exactly when and to whom to bring questions, with a named partner signing it. B leaves out the practical details and ends with unfilled \"[Partner name]\" placeholders, which undercuts its otherwise good \"we're part of the problem\" admission."
+}

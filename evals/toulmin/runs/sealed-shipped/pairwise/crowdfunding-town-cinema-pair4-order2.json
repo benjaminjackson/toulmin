@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-03Z",
+  "without_skill_run": "2026-11-16T21-03-12Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks to my real worries. It names the failed campaign first, shows only $49,000 is left after the business pledges, promises all-or-nothing refunds and quarterly reports, and admits the roof costs and new-release limits up front. A is vague and calls the bank's conditional pledge a \"match,\" which makes me trust it less after last time."
+}

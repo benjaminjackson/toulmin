@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-03-50Z",
+  "without_skill_run": "2026-11-16T21-02-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B convinces me to chip in a little despite my tight budget this month because it shows the public only needs to raise $49,000—just $2,000 more than we managed last time—thanks to the bank and local business pledges. It also builds real trust by naming the Majestic and Ruth, being upfront about potential roof cost increases, and promising quarterly spending reports at the library."
+}

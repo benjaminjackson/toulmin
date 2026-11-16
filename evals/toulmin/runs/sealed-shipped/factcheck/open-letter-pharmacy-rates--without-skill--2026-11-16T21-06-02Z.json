@@ -1,0 +1,21 @@
+{
+  "task": "open-letter-pharmacy-rates",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-06-02Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Every day we fill prescriptions for teachers, state troopers, road crews, office staff and retirees, the members of your plan.",
+      "why": "The brief does not specify whether teachers, state troopers, road crews, or retirees are covered by this specific state employees' health plan or that the 38 pharmacies fill prescriptions for them every day."
+    },
+    {
+      "quote": "These are not rare or specialty drugs. They are everyday medicines that your members take month after month.",
+      "why": "The brief only states that these are the 20 generic drugs filled most often, not whether any of them are specialty drugs or whether they are maintenance medications taken month after month rather than acute medications."
+    },
+    {
+      "quote": "so the plan and the taxpayers who fund it can see where the money goes.",
+      "why": "The brief does not state that the plan does not already see what the pharmacy benefit manager charges and pays."
+    }
+  ],
+  "invented_count": 3
+}

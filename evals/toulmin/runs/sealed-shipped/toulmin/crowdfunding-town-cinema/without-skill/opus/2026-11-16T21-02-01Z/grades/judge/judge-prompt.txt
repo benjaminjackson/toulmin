@@ -1,0 +1,72 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+A long-time resident of the town who loved the cinema and wants it back, but who gave $200 to the hospital's ambulance fund this month and remembers the cinema's first campaign, which ended in refunds. The reader decides whether to pledge and how much.
+</reader>
+
+<brief>
+Can you write the pitch for our crowdfunding campaign? I chair the volunteer group trying to reopen the one-screen cinema in our town of 6,500. It closed in 2022.
+
+Facts:
+- We need $85,000 to replace the projector and sound system and fix the roof. The building's owner has agreed to rent it to us for $1 a year for 10 years if we raise it.
+- We ran a campaign 3 years ago for $120,000. It reached $47,000 and we refunded everyone.
+- This time a local bank has pledged $25,000 if we raise the rest by June 30.
+- 46 volunteers have signed up to run the box office and the snack bar.
+- When it closed, the cinema was selling about 180 tickets a week.
+- The nearest other cinema is 38 miles away.
+
+Keep it under 350 words.
+</brief>
+
+The user also knew the following and gave some of it to the writer when asked:
+<user_knows>
+- I'm Ruth Albers. The cinema is the Majestic on Main Street. The campaign opens May 1.
+- This time the goal is $35,000 lower than last time, and the bank's $25,000 counts toward it, so we need $60,000 from the public.
+- Three local businesses have already pledged $11,000 in writing.
+- The roof estimate is from last fall. The contractor said it could rise by up to 15%.
+- I can commit to an all-or-nothing campaign: if we don't reach $85,000 by June 30, every pledge is returned in full.
+- I can commit to a public spending report every three months, posted at the town library.
+- If we raise it, we plan to reopen by Thanksgiving.
+- I cannot promise new films in their opening week. That depends on the film distributors.
+</user_knows>
+
+<document>
+**Let's Turn the Lights Back On at the [Cinema Name]**
+
+When the [Cinema Name] closed in 2022, it was still selling about 180 tickets a week. People hadn't stopped coming. Since then, seeing a film on the big screen has meant driving to the nearest cinema, 38 miles away.
+
+We want to bring it back, and this time the numbers add up.
+
+**What we need**
+We need $85,000 to replace the projector and sound system and repair the roof. If we raise it, the building's owner will rent the cinema to us for $1 a year for 10 years.
+
+**Why it's within reach**
+A local bank has pledged $25,000 if we raise the rest by June 30. That means we need $60,000 from our community, which is half of what we asked for last time.
+
+**About last time**
+Three years ago we tried to raise $120,000. We reached $47,000, fell short, and refunded every dollar. We learned from that. We've cut the goal by $35,000, secured a 10-year lease for almost nothing, and found a partner ready to put in $25,000 once we've done our part. Last time, this town gave $47,000. This time, we need $13,000 more than that.
+
+**Who will run it**
+46 volunteers have already signed up to run the box office and the snack bar. We have the people and the lease. What we still need is a working projector, a sound system and a solid roof.
+
+**How you can help**
+Give what you can before June 30. Share this page. Tell everyone who has made that 38-mile drive just to see a movie.
+
+Each dollar you give gets us closer to $60,000, and reaching $60,000 unlocks the bank's $25,000.
+
+Let's fill those seats again.
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

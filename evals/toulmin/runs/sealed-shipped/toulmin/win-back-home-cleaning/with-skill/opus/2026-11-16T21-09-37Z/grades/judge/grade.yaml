@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T21:10:37.729651+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 165
+  tags: []
+  notes: extracted 165 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 4
+    honest: 9
+    works_the_facts: 5
+    right_comparison: 7
+    qualification: 7
+    objections: 5
+    fit: 8
+  details:
+    agree: This reader left over price and had no complaint about the cleaner, so
+      a fixed rotation means little to them; the $99 offer might get one booking,
+      but nothing makes a lasting $25-a-visit premium worth paying.
+    honest: Every figure matches the brief, and it promises a regular cleaner with
+      a named backup rather than the same cleaner every time, which would have been
+      false.
+    works_the_facts: It sets 7 departures last year against 1 since July well, but
+      it never says the $99 return visit is $41 cheaper than the app, and never names
+      the $25 gap or what it adds up to over a month.
+    right_comparison: It describes the app services fairly, with the honest $140 price
+      and the uninsured contractors, and it shows the turnover trend, though it doesn't
+      say whether app customers also get a different cleaner each time.
+    qualification: The offer has a clear end date of December 31 and the backup is
+      tied to sick days and holidays, but nothing says what happens if the regular
+      cleaner leaves.
+    objections: It faces the price objection head-on and answers it with employee
+      pay and insurance, but this reader may not care about insurance, and opening
+      on cleaner turnover addresses a problem this reader never had.
+    fit: It's a clean, short email at roughly 165 words, close to the 150 asked for,
+      with a clear subject line and a clear way to book.

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-09-37Z",
+  "without_skill_run": "2026-11-16T21-09-47Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B puts the $99 offer right in the subject line, reassures me there is no contract, and points out that app-based contractors lack insurance, which makes me question my current cheaper service. It also feels like a real, personal email from the owner with proof that the new system works, whereas Document A has unfinished placeholders."
+}

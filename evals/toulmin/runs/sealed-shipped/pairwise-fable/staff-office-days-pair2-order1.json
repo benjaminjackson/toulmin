@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-10-04Z",
+  "without_skill_run": "2026-11-16T21-09-49Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A tells me what I actually need to decide: the $150 commuting support, the six-month review, the desk plan, the long notice, and plainly that there are no further exceptions, and it is candid that the 30% figure doesn't prove causation. B is warm but leaves out those concrete commitments, hints at individual talks that could imply flexibility the firm can't offer, and goes out with unfilled \"[Partner name]\" placeholders."
+}

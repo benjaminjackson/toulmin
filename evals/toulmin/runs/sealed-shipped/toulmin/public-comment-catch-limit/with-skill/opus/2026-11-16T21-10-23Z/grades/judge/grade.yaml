@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T21:11:39.930038+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 275
+  tags: []
+  notes: extracted 275 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 5
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 4
+    objections: 4
+    fit: 8
+  details:
+    agree: Accepting the staff's stock numbers and offering three fish or a shorter
+      season gives commissioners who trust their staff something to work with, but
+      it never shows that either alternative would still rebuild the stock, and it
+      doesn't offer the trip logs or the reporting-app trial that would set Ray apart
+      from the other captains who speak at every hearing.
+    honest: The numbers are accurate and the claim about the two captains is limited
+      to what they said, but presenting the 9%/80% split as if the cut targets charter
+      boats is misleading, because the bag limit applies to private anglers too.
+    works_the_facts: Turning 32 lost trips into $28,800 and comparing the three-year
+      cut with the two-year partial recovery are useful steps, but the draft never
+      says the drop was about 19%, never gives the survey result as a share (59%),
+      and leaves out his roughly $144,000 season and the 70% of this season already
+      booked.
+    right_comparison: It describes the 2016 drop and the incomplete recovery accurately,
+      but it says nothing about what three fish or a shorter season would do for the
+      stock, and the charter-versus-private comparison leaves out that the cut applies
+      to both.
+    qualification: The two captains' condition (if bookings drop as they did in 2016)
+      is stated honestly, but nothing gives the commission a date, a number, or a
+      check, and the trip-log offer that would have provided one is missing.
+    objections: A resisting commissioner will ask whether three fish meets the stock
+      target and point out that private anglers face the same limit; the draft answers
+      neither.
+    fit: At roughly 290 words in plain spoken sentences it fits a two-minute slot,
+      though Ray doesn't give his name or his boat's name.

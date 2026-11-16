@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-08-09Z",
+  "without_skill_run": "2026-11-16T21-06-50Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B answers my two standing objections directly: it shows members in 14 counties have no chain within 20 miles, and it offers invoices I can verify plus a meeting before May 1, while candidly admitting what they don't know (brand offsets, cause of closures). A reads like the usual annual rate complaint, leaves placeholders, implies closures are rate-driven, and adds a transparency demand with nothing I can check."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-05-58Z",
+  "without_skill_run": "2026-11-16T21-06-02Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes concrete proof that her process change worked—zero errors across 600 entries since April—which directly addresses my lingering concern from her last review. She also shows the candor I expect from a supervisor by noting that one of the paralegals she trained left, and she includes our names rather than leaving placeholders."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "crowdfunding-town-cinema",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-03-50Z",
+  "without_skill_run": "2026-11-16T21-02-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone burned by the first campaign and short on spare cash, B answers my doubts: it names the Majestic, shows $36,000 already committed so only $49,000 is left, firmly guarantees refunds, gives a Thanksgiving reopening, admits the roof and film risks, and promises spending reports. A has unfilled placeholders and a bracketed, tentative refund line, which makes it feel unfinished and less trustworthy."
+}

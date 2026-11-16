@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-08-56Z",
+  "without_skill_run": "2026-11-16T21-09-16Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a staff member weighing whether to stay, B gives me the concrete things I need: commuting money, a six-month review, the desk situation, a clear statement that there are no other exceptions, and a named partner owning the decision. A acknowledges the remote hires but offers them nothing concrete and leaves placeholders for names."
+}

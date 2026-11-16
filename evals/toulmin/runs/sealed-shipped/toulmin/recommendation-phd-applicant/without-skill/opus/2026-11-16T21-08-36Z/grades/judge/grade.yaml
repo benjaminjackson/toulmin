@@ -1,0 +1,63 @@
+grader: judge
+graded: '2026-11-16T21:09:09.083054+00:00'
+outcome: pass
+score: 0.35
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 425
+  tags: []
+  notes: extracted 425 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.35
+  metrics:
+    agree: 3
+    honest: 4
+    works_the_facts: 3
+    right_comparison: 2
+    qualification: 4
+    objections: 2
+    fit: 6
+  details:
+    agree: A skeptical reader who discounts small-college letters finds the usual
+      generic praise here ("without reservation", "one of the most capable", "productive
+      and generous"), and nothing in the letter sets it apart from the ones they already
+      distrust.
+    honest: 'The letter correctly avoids the publishable-in-a-top-journal claim, but
+      it invents several details: that she designed the sampling scheme, that she
+      documented the storm gap and accounted for it in her analysis, that she answered
+      questions at the poster session "with confidence and precision", and that she
+      worked alongside agency scientists; it also miscalls 14 months of data "a single
+      season".'
+    works_the_facts: 'The letter repeats the numbers it was given (17 years, 30 theses,
+      top grade of 28, 90 kayak trips) but derives nothing from them, and it leaves
+      out the most useful calibration figures: about 40 letters written, 2 students
+      refused, and Priya among the top 3 students in 17 years.'
+    right_comparison: The only comparison offered is the vague "one of the most capable"
+      when the facts support a sharper ranking, top 3 of all students taught, and
+      the 2 refusals out of about 40 letters, which would show this writer doesn't
+      praise everyone, are missing.
+    qualification: The hedge about the findings needing replication is appropriate,
+      but it gives the reader nothing to check, such as the offer to send the thesis
+      to anyone on the committee or to answer their emails and calls, both of which
+      the writer could have used.
+    objections: The reader's main objection, that small colleges praise everyone,
+      is never addressed, even though the 40-letters/2-refusals record, the top-3
+      ranking and the shellfish lab supervisor's endorsement (he'd hire her again;
+      she ran the water sampling alone for two weeks) would answer it directly.
+    fit: It is a letter of about one page, as asked, but it is full of placeholders
+      such as [Last Name], [College] and [Your Name] even though the user supplied
+      those details.

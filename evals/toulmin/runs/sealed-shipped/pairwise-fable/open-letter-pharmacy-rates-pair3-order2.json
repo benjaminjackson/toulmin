@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-49Z",
+  "without_skill_run": "2026-11-16T21-06-02Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B answers my two standing objections directly: it shows chains are 20+ miles away in 14 counties, admits what it can't prove (closure causes, brand-drug offsets), and offers invoices and a meeting before May 1, with a concrete ask I can act on. A is full of unfilled placeholders, adds a PBM-transparency demand not grounded in the facts, and reads like the usual annual complaint."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-catch-limit",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-06-16Z",
+  "without_skill_run": "2026-11-16T21-07-24Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A accepts our staff's numbers, asks for something we can actually choose (three fish or a shorter season), and offers trip logs and a reporting-app test. That's the kind of help we can use. Document B has unfilled placeholders, asks for a one-season review the captains never proposed, and makes an unsupported claim about why customers book."
+}

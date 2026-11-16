@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-08-09Z",
+  "without_skill_run": "2026-11-16T21-06-50Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks directly to my doubts. It says chains are more than 20 miles away in those 14 counties, admits that brand-name drugs make up part of the loss, and names two pharmacies that will stop filling for plan members. It also offers invoices I can check and a meeting before May 1, which gives me something concrete to act on. A reads like the usual yearly complaint, with nothing I can verify and a vague request for transparency."
+}

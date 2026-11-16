@@ -1,0 +1,62 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+The seven members of the state fish and wildlife commission, who vote next month on cutting the daily summer flounder limit. The commission's own staff recommended the cut, most commissioners trust their staff's stock numbers, and they hear from charter captains at every hearing.
+</reader>
+
+<brief>
+Help me write a public comment. I run a charter fishing boat out of our harbor, and the state fish and wildlife commission is taking comment on cutting the daily summer flounder limit from 4 fish per angler to 2.
+
+Facts:
+- I've run my boat for 22 years. I take out about 160 trips a season at $900 a trip for up to 6 people.
+- There are 11 charter boats in our harbor.
+- In a survey our charter association ran, 41 of 70 past customers said they would book fewer trips if the limit drops to 2. 12 said they'd book the same number.
+- The commission staff's report says the flounder stock is at 78% of its target and recommends the cut for 3 years.
+- Charter boats land about 9% of the state's summer flounder. Private boats land about 80%.
+- The last time the limit was cut, in 2016, my bookings dropped from 170 trips to 138 the next season and came back to 155 two years later.
+
+I want to say this limit will put every charter boat in our harbor out of business. I get two minutes at the microphone.
+</brief>
+
+The user also knew the following and gave some of it to the writer when asked:
+<user_knows>
+- I'm Captain Ray Dunn. My boat is the Sea Lark.
+- I don't dispute the staff's stock numbers. I have no answer to them.
+- We'd accept a 3-fish limit or a shorter season instead of 2 fish.
+- Two other captains in our harbor have told me they would sell if bookings drop like they did in 2016.
+- About 70% of my trips for this season are already booked.
+- I can commit to giving commission staff my trip logs from 2016 on.
+- Our charter association can commit to testing a catch-reporting app with the staff next season.
+- I cannot say how many boats in the harbor would close. I only know my own books.
+- I want to say every charter boat in the harbor will go out of business. If told that goes past the facts, I still want it as strong as possible, but in words that are not false.
+</user_knows>
+
+<document>
+I've run a charter boat out of our harbor for 22 years. There are 11 charter boats in that harbor. I don't dispute your staff's numbers on the flounder stock. I'm asking you to meet that goal with a 3-fish limit or a shorter season instead of cutting to 2 fish.
+
+Here's what the last cut did to my boat. In 2016 I ran 170 trips. The season after the limit dropped, I ran 138. I lost almost one trip in five. Two years later I was back to 155. Today I run about 160 trips a season. Ten years later, I still haven't gotten back to where I was.
+
+At $900 a trip, a drop like 2016's would cost me about $27,000 a season. Your staff recommend this cut for three years. That's about $80,000 for one boat.
+
+And it isn't only my boat. Two other captains in our harbor have told me they'll sell if bookings drop the way they did in 2016. Our charter association asked 70 past customers what they'd do at a 2-fish limit. 41 said they'd book fewer trips. Only 12 said they'd book the same.
+
+Charter boats land about 9 percent of this state's summer flounder. Private boats land about 80 percent. For a private angler, a 2-fish limit means a shorter day on the water. For us, it means customers who don't book at all.
+
+So here's what I'm asking. If a 3-fish limit or a shorter season can get the stock where it needs to be, choose that. Charter boats land the least flounder in this state. Please don't choose the option that costs us the most.
+
+Thank you.
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

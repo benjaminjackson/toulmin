@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:03:50.710426+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 293
+  tags: []
+  notes: extracted 293 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 7
+    objections: 6
+    fit: 9
+  details:
+    agree: The $49,000 figure, set against the $47,000 the town gave last time, and
+      the $7.50-per-resident framing would likely win over a doubtful former donor,
+      though this reader gets no reopening date or spending report to tip a larger
+      pledge.
+    honest: Every number is accurate and none is invented, but the $85,000 roof cost
+      is stated as firm even though the estimate could rise by up to 15%, and calling
+      all-or-nothing 'the same promise' stretches what last time was a refund after
+      the campaign fell short.
+    works_the_facts: It correctly works out the $36,000 already committed, the $49,000
+      still needed, that this is only $2,000 more than last time, about $7.50 per
+      resident and the 76-mile round trip, all in their most persuasive true form.
+    right_comparison: 'It describes the alternative accurately: the screen stays dark,
+      the nearest cinema stays 38 miles away and the bank pledge and lease are lost,
+      though it doesn''t put the 180 weekly tickets to use as lost demand.'
+    qualification: The all-or-nothing condition names the amount ($85,000), the date
+      (June 30) and the consequence (every pledge returned in full), but the risk
+      of the roof cost rising goes unmentioned.
+    objections: It meets the failed-campaign objection head on, but it offers no quarterly
+      spending report, no reopening date and nothing for a reader who has just given
+      to the ambulance fund, and the 'planning beyond opening night' paragraph is
+      thin.
+    fit: At roughly 310 words, it is a signed, well-paragraphed crowdfunding pitch
+      under the 350-word limit.

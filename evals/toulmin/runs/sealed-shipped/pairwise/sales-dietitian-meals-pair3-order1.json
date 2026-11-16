@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-10-17Z",
+  "without_skill_run": "2026-11-16T21-09-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A tells me about the no-contract, cancel-anytime terms, the 15-minute call with the dietitian, and the weekly meal swaps. For someone who has quit three services, those are what make a $59 trial feel low-risk, and A is plain about the limits of the A1C data. Document B leaves out those reassurances, says without evidence that people stay because the food is good, and still shows an unfilled \"[day/time]\" placeholder, which makes me trust it less."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-lease-renewal",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-29Z",
+  "without_skill_run": "2026-11-16T21-04-38Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks directly to the late payments I still bring up, gives the reason, thanks me for waiving the fees, and offers automatic payment on the 1st plus a two-week signing date. It also puts the hood's value to a new tenant in dollars and sets a June 1 deadline. A skips the late payments completely, leaves the name fields blank, and is vaguer about the coffee chain."
+}

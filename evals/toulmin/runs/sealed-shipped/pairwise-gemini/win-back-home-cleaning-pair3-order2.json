@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-11-34Z",
+  "without_skill_run": "2026-11-16T21-10-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B includes the actual company details, gives concrete proof that their cleaner retention has improved since July, and highlights that app contractors lack insurance, which makes me rethink the $25 savings. Document A has unreplaced placeholders and falsely claims I complained about cleaner turnover when I only left because of the price."
+}

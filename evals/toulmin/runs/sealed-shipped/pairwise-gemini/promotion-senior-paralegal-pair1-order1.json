@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-05-01Z",
+  "without_skill_run": "2026-11-16T21-05-35Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A directly addresses my concern about last March's near-miss by proving the new two-person check has worked across 600 entries since April without an error. It is also ready to send and stays completely honest about staff turnover, whereas Document B lacks the specific proof that the fix worked and leaves in bracketed placeholders."
+}

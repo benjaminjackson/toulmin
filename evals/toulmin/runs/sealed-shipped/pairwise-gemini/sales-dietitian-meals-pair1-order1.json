@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-07-57Z",
+  "without_skill_run": "2026-11-16T21-08-31Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A immediately earns my trust by being completely transparent about the small sample size and medication variables behind the A1C numbers, rather than using a generic disclaimer. It also answers the exact practical questions that made me quit other services in the past—telling me I can swap meals, cancel anytime without a contract, and even talk to the dietitian Lena Ortiz by phone before paying."
+}

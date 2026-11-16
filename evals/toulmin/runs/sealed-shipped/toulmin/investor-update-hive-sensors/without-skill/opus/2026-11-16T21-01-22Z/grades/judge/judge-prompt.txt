@@ -1,0 +1,90 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+A partner at a small seed fund that owns 8% of the company and is deciding whether to put money into a $600,000 bridge round. The partner has read the last three updates and thinks the company is selling too slowly.
+</reader>
+
+<brief>
+Please help me write our investor update for the half year. We make sensors that sit inside beehives and tell commercial beekeepers when a colony is weak, so they can treat it before it dies. We're raising a $600,000 bridge round and I want our current investors in it.
+
+Where we are:
+- We have 31 paying beekeepers. A year ago we had 12.
+- Each sensor costs us $38 to make and we sell it for $55, plus $4 a month per hive for the app.
+- Revenue for the last six months was $212,000. 70% of it came in March and April, before pollination season.
+- Our biggest customer runs 4,000 hives and lost 18% of his colonies over the winter, against 31% the winter before. He says the sensors were part of it, but he also changed his mite treatment.
+- We spend about $95,000 a month and have $340,000 left.
+- A large farm equipment company launched a similar sensor in May at $45.
+
+I want the update to say we'll be profitable next year. Keep it under 600 words.
+</brief>
+
+The user also knew the following and gave some of it to the writer when asked:
+<user_knows>
+- The company is HiveSense. The bridge is a convertible note with a 20% discount and a $6 million cap. It closes December 15.
+- One angel has already committed $250,000 of the bridge.
+- The equipment company's sensor measures only temperature. Ours also measures sound and hive weight.
+- Three of our beekeepers have asked to test the equipment company's sensor.
+- I can commit to a monthly cash report to everyone who puts money into the bridge.
+- I can commit to bringing spending down to $75,000 a month by February by not filling two open roles.
+- I cannot promise profit next year. If that is pointed out, I accept a claim the numbers support instead.
+- Investors who want in should reply to me by December 1.
+</user_knows>
+
+<document>
+**Subject: Half-year update and $600K bridge round**
+
+Hi all,
+
+Here's where we stand at the half year, and what we're asking of you.
+
+**The short version**
+- 31 paying commercial beekeepers, up from 12 a year ago
+- $212,000 revenue over the last six months
+- $340,000 in the bank; we spend about $95,000 a month
+- We're raising a $600,000 bridge, and we want our current investors in it
+
+**What's working**
+More beekeepers are paying us: 31 now, against 12 a year ago. They're commercial operators who buy before pollination season because losing colonies costs them a lot.
+
+Our largest customer runs 4,000 hives. His winter colony losses fell to 18%, from 31% the winter before. He says the sensors were part of that. But he also changed his mite treatment that season, so we can't claim the whole improvement. One customer, one winter, two changes: it's encouraging, but it doesn't prove anything. We want to measure it more carefully this coming winter.
+
+**What's hard**
+*Seasonality.* 70% of our revenue came in March and April, before pollination. Our costs stay the same all year; our revenue doesn't.
+
+*Hardware margin.* A sensor costs us $38 to make and sells for $55. The $4 per hive per month app subscription is where most of the margin has to come from.
+
+*Competition.* In May, [competitor] launched a similar sensor at $45, $10 below ours. They have sales channels and a brand we don't have. [Our response: e.g., what we offer that they don't, and whether we'll change pricing.]
+
+**Cash and why we're raising now**
+At $95,000 a month, our $340,000 lasts until roughly early March. That's just before the weeks when we earn most of our revenue, and it's why we're raising a bridge.
+
+$600,000 gives us about ten more months of spending, even before counting new revenue. It carries us through the 2027 buying season, when we'll have a full season of results to show [and to the next milestone/round].
+
+**Path to profitability**
+Our goal is to be profitable in 2027. Here is what that takes. At $4 per hive per month, about 24,000 subscribed hives would cover today's monthly costs on subscription revenue alone, before the costs of running the service. We have [X] today. Sensor sales help, but at $17 per unit they won't cover our costs on their own. Getting there depends on [the levers: e.g., spring 2027 sales target, subscription pricing, cost reductions]. Every quarter we'll report how we're doing against this goal.
+
+**The ask**
+We're raising $600,000 on [terms: instrument, cap, discount]. We'd like current investors to take most or all of it before we go wider. Please reply by [date] to tell us how much you'd like to put in, or let's set up a call.
+
+**How else you can help**
+Introductions to commercial beekeepers and pollination brokers before spring buying begins in [month]. One large operation can change our year.
+
+Thank you for backing us. Questions are welcome at any time.
+
+[Name]
+[Company]
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

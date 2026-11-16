@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T21:03:33.726834+00:00'
+outcome: pass
+score: 0.35
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 296
+  tags: []
+  notes: extracted 296 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.35
+  metrics:
+    agree: 3
+    honest: 4
+    works_the_facts: 6
+    right_comparison: 3
+    qualification: 2
+    objections: 3
+    fit: 4
+  details:
+    agree: A judge with ten minutes would see blanks for the clinic name, the county,
+      the $66,000 match source, the staffing plan and the sustainability plan, and
+      would not score the application well on readiness or feasibility.
+    honest: The core figures are accurate, but the draft makes up a plan to refill
+      the departing attorney's job from separate funding, guesses a year ([2027]),
+      and uses a placeholder ('renewed in October through ___') that suggests a county
+      renewal the clinic cannot promise.
+    works_the_facts: 'It works out the 14% representation rate, the $156,000 two-year
+      cost, the $66,000 gap and the 80 added cases (about a quarter of the 300 turned
+      away), but it leaves the gap unexplained when the facts were available: the
+      $40,000 family pledge plus general budget.'
+    right_comparison: It gives no picture of what happens if nothing changes (down
+      to one attorney in June, a five-month hiring lag, more tenants turned away),
+      and it never says there is no outcome figure for tenants without a lawyer.
+    qualification: The real uncertainties, the October county renewal and the missing
+      comparison data, are left as blanks or not mentioned, with no dates, reporting
+      commitments or fallback that a reader could check.
+    objections: The obvious worries (how the match is funded, what happens if the
+      county contract lapses, whether 58% is any better than going without a lawyer,
+      how the clinic copes with the June departure) are raised or implied but never
+      answered, though the pledge, the training handoff and the six-month reports
+      would answer them.
+    fit: The structure suits a project summary and the length is close to 300 words,
+      but the text is likely just over the limit and is full of unfinished placeholders,
+      so it cannot be submitted as written.

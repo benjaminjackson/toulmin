@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:06:56.932055+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 315
+  tags: []
+  notes: extracted 315 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 3
+    objections: 8
+    fit: 8
+  details:
+    agree: The direct, unflinching account of the March error and the fix behind it
+      would likely ease the partner's main doubt, though the request ends on a soft
+      offer to talk rather than asking for a meeting, and it offers no new commitments
+      for him to accept.
+    honest: Every figure traces to facts Jenna supplied, and she admits both the error
+      and the trainee who left; only 'I'm already doing a good part of both' slightly
+      overstates supervision she doesn't formally hold.
+    works_the_facts: The 600 error-free entries are used well, but the hours are left
+      raw instead of shown as 90 hours (about 6%) over target, and the caseload per
+      lawyer and the sheet's spread across the firm are not worked into stronger forms.
+    right_comparison: The letter gestures at the alternative by saying the training
+      and deadline system need an owner either way, but it never spells out what the
+      group loses or risks if no one is formally responsible.
+    qualification: The only hedge is an open-ended 'if the timing isn't right'; the
+      checkable commitments she could have offered, a weekly check-in and state certification
+      by June, are left out entirely.
+    objections: The partner's specific objection, the March deadline error, is raised
+      plainly, owned, and answered with the second-person check and its 600-entry
+      clean record, framed as a principle she would bring to supervision.
+    fit: It is a clean, well-structured letter to the managing partner, comfortably
+      under 400 words, though the bolded-label paragraphs are a little choppy.

@@ -1,0 +1,17 @@
+{
+  "task": "promotion-senior-paralegal",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-08-01Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "That sheet is also where I made my most serious mistake.",
+      "why": "Neither the brief nor the user's additional facts state that the March filing deadline error was her most serious mistake."
+    },
+    {
+      "quote": "I will also complete the state paralegal certification by June 2027.",
+      "why": "The user only said \"by next June\" without giving the current year, so the year 2027 is invented."
+    }
+  ],
+  "invented_count": 2
+}

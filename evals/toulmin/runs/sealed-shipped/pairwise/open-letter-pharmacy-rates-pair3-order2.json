@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-49Z",
+  "without_skill_run": "2026-11-16T21-06-02Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B goes straight at what I doubt. It gives the 20+ mile distance to the nearest chain and names two pharmacies that will stop filling for our members. It offers invoices I can check and admits the brand-name offset and how little they know about why the nine closed. A leaves placeholders, asks for PBM transparency the facts don't back up, and offers nothing I can verify."
+}

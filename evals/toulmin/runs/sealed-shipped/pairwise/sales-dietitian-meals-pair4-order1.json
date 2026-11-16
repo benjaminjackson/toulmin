@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-11-22Z",
+  "without_skill_run": "2026-11-16T21-10-12Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A deals with what made me quit before. It says there's no contract and I can skip or cancel any time, I can swap meals and see the menu cycle, and I can have a 15-minute call with the dietitian. It is also just as honest about the A1C results. B leaves out the no-contract terms and the call, and it gives the 0.6 average drop as if it applied only to the 10 people who improved."
+}

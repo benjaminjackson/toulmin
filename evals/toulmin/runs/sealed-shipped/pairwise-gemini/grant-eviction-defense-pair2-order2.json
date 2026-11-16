@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-03-06Z",
+  "without_skill_run": "2026-11-16T21-02-07Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B contains all the concrete financial and operational facts I need to score the rubric—especially how the funding gap is covered and the plan for gathering baseline data—whereas Document A has incomplete placeholders. However, Document B contradicts the premise of hiring a third attorney by falsely stating they are only replacing the second attorney because they lack funding to refill her position."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-02-58Z",
+  "without_skill_run": "2026-11-16T21-02-25Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A answers my worry that sales are too slow. It gives real note terms, the $250K commitment, the cut in spending to $75K a month, a runway date, and a clear test for March and April with a deadline to reply. B is full of placeholders and states a profit goal that the numbers don't back up."
+}

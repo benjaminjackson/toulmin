@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T21:13:39.056872+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 440
+  tags: []
+  notes: extracted 440 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 2
+    objections: 4
+    fit: 9
+  details:
+    agree: The letter is candid and gives two concrete business reasons plus a commuting
+      subsidy and long notice, but a remote hire weighing whether to leave gets no
+      six-month review, no sign the partners will listen, and a flat 'no other exceptions',
+      so many will comply grudgingly and some will look elsewhere.
+    honest: Every number matches the brief, but 'they could see we didn't' and the
+      claim that the 30% delay comes from screen-based learning go a little beyond
+      what the clients and the review records actually show.
+    works_the_facts: 'The 30% figure and the lost bids are stated as given and never
+      worked further: there is no translation into time or careers, and the letter
+      leaves out that 5 of 6 project leads are already in three days a week, which
+      is the strongest fact for the mentoring argument.'
+    right_comparison: The letter never describes what happens if fully remote work
+      continues (more lost final interviews, a widening gap for juniors), so the status
+      quo is only implied through last year's losses.
+    qualification: The writer had a six-month review to offer and left it out, so
+      the policy reads as permanent and unconditional, with no checkable date or measure
+      that could change it.
+    objections: It acknowledges that the 15 remote hires are having their terms changed
+      and gives notice and a commuting subsidy, but it skips the strongest reassurance
+      available (the six-month review) and never addresses why three days rather than
+      fewer.
+    fit: It is a one-page email with a clear subject line, a bulleted list of practical
+      details and the Friday 10 a.m. meeting with a contact route, which is exactly
+      what was asked.

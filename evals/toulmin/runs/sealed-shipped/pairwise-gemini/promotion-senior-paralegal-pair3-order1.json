@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-06-56Z",
+  "without_skill_run": "2026-11-16T21-06-30Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A directly addresses my main hesitation about the March deadline error with hard data—600 subsequent entries with zero errors—and lays out concrete plans for how she will handle supervision and retention. It is also ready to send with our actual names and review dates, whereas Document B uses generic placeholders and misses those compelling specifics."
+}

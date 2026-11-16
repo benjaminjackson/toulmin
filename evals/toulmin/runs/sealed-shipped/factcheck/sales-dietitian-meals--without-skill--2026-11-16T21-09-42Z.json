@@ -1,0 +1,13 @@
+{
+  "task": "sales-dietitian-meals",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-09-42Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I asked customers to share their A1C results from before they started and after three months.",
+      "why": "The brief states that 14 customers shared their A1C results, not that the dietitian asked customers to share them."
+    }
+  ],
+  "invented_count": 1
+}

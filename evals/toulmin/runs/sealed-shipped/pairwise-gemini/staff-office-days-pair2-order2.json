@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-10-04Z",
+  "without_skill_run": "2026-11-16T21-09-49Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B includes crucial practical details like the $150 commuting stipend, the six-month policy review, and clarity on desk availability, whereas Document A vaguely offers individual talks that falsely imply exceptions might be available. However, Document B makes a major factual error by stating the policy starts in September 2027 (giving 'more than nine months' notice) while also saying the four far-away employees keep remote status 'until the end of 2027' (which was meant to be the end of *next* year), making the timeline incoherent."
+}

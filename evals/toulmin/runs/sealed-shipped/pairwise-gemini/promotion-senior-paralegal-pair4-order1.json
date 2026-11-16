@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-08-01Z",
+  "without_skill_run": "2026-11-16T21-07-00Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A addresses my main hesitation directly by showing concrete results since the March mistake—zero errors across 600 entries since April—and frames her response around building systemic checks rather than relying on individual perfection. It also includes specific, forward-looking commitments for the supervisory role and uses our actual names rather than placeholders."
+}

@@ -1,0 +1,21 @@
+{
+  "task": "promotion-senior-paralegal",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-06-56Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "complete the state paralegal certification by June 2027",
+      "why": "The user stated she can commit to finishing the certification by 'next June,' without specifying the year 2027, and no current year is given to calculate it."
+    },
+    {
+      "quote": "The weekly check-ins come partly from my experience training.",
+      "why": "Neither the brief nor the user's additional facts state that the idea for weekly check-ins was caused by or came from her experience training."
+    },
+    {
+      "quote": "In return, the supervision and training I already do would become a formal part of my role",
+      "why": "The brief states she trained three paralegals and that a senior paralegal supervises others, but it does not state that she already supervises the other paralegals."
+    }
+  ],
+  "invented_count": 3
+}

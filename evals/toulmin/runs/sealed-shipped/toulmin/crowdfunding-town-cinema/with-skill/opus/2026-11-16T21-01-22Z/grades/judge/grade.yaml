@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:02:41.763888+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 306
+  tags: []
+  notes: extracted 306 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 8
+    honest: 8
+    works_the_facts: 9
+    right_comparison: 8
+    qualification: 6
+    objections: 8
+    fit: 9
+  details:
+    agree: The pitch faces the failed first campaign head-on, guarantees refunds and
+      keeps the remaining need small ($7.50 a resident), so this reader would probably
+      pledge; but it gives no suggested amount and no way to pledge.
+    honest: Every figure checks out ($49,000, about 42% pledged, $2,000 more than
+      last time, a 76-mile round trip), though calling all-or-nothing 'the same' promise
+      slightly overstates what the brief says about the first campaign.
+    works_the_facts: It derives the remaining gap, the per-resident share, the percentage
+      already pledged, the comparison with last time's total and the round trip, each
+      in a favourable true form; it doesn't work out the pace needed between May 1
+      and June 30.
+    right_comparison: 'The alternative is shown as the facts support it: the Majestic
+      stays dark and the nearest screen is a 76-mile round trip, set against a cinema
+      that was still selling 180 tickets a week when it closed.'
+    qualification: The all-or-nothing condition names a date, a number and a consequence,
+      but the roof hedge gives no dollar amount (up to about $X more) and says nothing
+      about what happens if costs exceed $85,000.
+    objections: The worry about another refund is answered well with the smaller goal,
+      existing pledges and the refund guarantee, and the low per-person figure eases
+      giving fatigue; the open roof-overrun question is left hanging.
+    fit: It is a signed, concise crowdfunding pitch of roughly 320 words, under the
+      350-word limit, though it has no pledge link or instructions.

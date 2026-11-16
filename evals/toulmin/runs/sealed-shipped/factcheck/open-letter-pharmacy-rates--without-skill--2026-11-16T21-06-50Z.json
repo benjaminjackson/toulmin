@@ -1,0 +1,25 @@
+{
+  "task": "open-letter-pharmacy-rates",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-06-50Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Every day we fill prescriptions for state employees, retirees and their families.",
+      "why": "The brief refers only to 'state employees' health plan' and 'plan members', and does not state that the plan covers retirees and their families."
+    },
+    {
+      "quote": "Since January, the plan has paid us less than it costs to fill those prescriptions.",
+      "why": "The brief states only that the plan pays less than cost on average for the 20 most-filled generic drugs, not for all prescriptions filled for plan members (and the user notes state that some pharmacies make up part of the loss on brand-name drugs)."
+    },
+    {
+      "quote": "We lose money on each of those prescriptions.",
+      "why": "The brief states that the $1.80 loss is an average across the 20 generic drugs, not that the pharmacies lose money on every single prescription."
+    },
+    {
+      "quote": "No small business can lose money on a fifth of its work for long.",
+      "why": "The brief states that plan members make up 22% of total prescriptions and that the pharmacies lose money on the top 20 generic drugs, not that the pharmacies lose money on the entire 22% (a fifth) of their prescriptions."
+    }
+  ],
+  "invented_count": 4
+}

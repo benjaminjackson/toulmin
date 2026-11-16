@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T21:07:29.246760+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 266
+  tags: []
+  notes: extracted 266 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 3
+    qualification: 3
+    objections: 6
+    fit: 7
+  details:
+    agree: Kessler sees the March error raised openly and a process fix, but there's
+      no evidence the fix has worked, so a partner with doubts has no proof that it
+      would hold under someone supervising other paralegals.
+    honest: Every figure matches the brief, but saying the second-person check means
+      one person's error 'can't go unnoticed' is a stronger guarantee than the facts
+      support.
+    works_the_facts: It works out the 90 hours over target, but it doesn't say this
+      is about 6% over or give a clean record for the sheet since the check went in,
+      so the strongest facts are left unused.
+    right_comparison: It never compares the sheet with and without the second-person
+      check, or the group with and without a senior paralegal, so Kessler has no before-and-after
+      to weigh.
+    qualification: The request needs checkable commitments with dates, such as weekly
+      check-ins or certification by a set date, and an honest limit on what the check
+      can promise, but none appear.
+    objections: It takes on the March deadline error directly and frames it as owning
+      the problem, but it answers the reliability objection with intent rather than
+      a measured result.
+    fit: It's a well-organised request well under 400 words, though the [Name] and
+      [Your name] placeholders are still unfilled.

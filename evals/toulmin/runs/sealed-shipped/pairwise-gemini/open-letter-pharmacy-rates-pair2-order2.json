@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-28Z",
+  "without_skill_run": "2026-11-16T21-05-14Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly challenges my assumption that members can just use a chain by stating that in 14 counties the nearest chain pharmacy is more than 20 miles away, and it warns of an immediate network adequacy risk with two pharmacies planning to drop our plan. It also earns much more credibility with me by candidly acknowledging that brand-name drugs offset some generic losses, while offering concrete purchase invoices and a specific May 1 deadline to meet."
+}

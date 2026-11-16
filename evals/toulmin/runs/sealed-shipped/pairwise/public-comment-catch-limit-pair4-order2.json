@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-catch-limit",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-10-23Z",
+  "without_skill_run": "2026-11-16T21-09-11Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B puts a specific ask we could act on (three fish or a shorter season) right at the start, and it backs that ask with a concrete, honestly sourced fact: two captains have said they will sell. It also makes a sharp point that the three-year cut is longer than his last recovery took. A covers the same numbers, but its ask is vaguer and spread across several options, and it still has placeholders in it."
+}

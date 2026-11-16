@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "promotion-senior-paralegal",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-06-56Z",
+  "without_skill_run": "2026-11-16T21-06-30Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A addresses my concern about the March deadline error with evidence (about 600 entries since the check with none wrong or missed), an honest admission she can't promise perfection, and concrete commitments (weekly check-ins, certification, a specific meeting ask before Dec 15). B has unfilled name placeholders, offers no proof the fix worked, and spins the mistake as a reason to promote her, which grates given I raised it in her review."
+}
