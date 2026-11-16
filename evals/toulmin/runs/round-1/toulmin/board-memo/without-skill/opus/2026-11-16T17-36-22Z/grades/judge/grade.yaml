@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T17:37:06.796055+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 409
+  tags: []
+  notes: extracted 409 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 7
+    honest: 6
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 8
+    objections: 6
+    fit: 8
+  details:
+    agree: 'The midyear checkpoint with a fallback to bring back ads, the honest $30k
+      gap and the new role for the 11-year staffer give the two sales-minded members
+      reasons to vote yes, but the memo never directly answers the question they will
+      ask first: why not run ads and membership side by side?'
+    honest: The memo presents full replacement as a goal and states the gap openly,
+      but it says ads 'slow our site and undercut the reader relationship', which
+      the brief never says, and it uses one peer newsroom to claim the model 'works
+      at our scale'.
+    works_the_facts: The 36% drop, 875 members, 1.5% vs 6% of the list, the pilot
+      reaching a quarter of the target, roughly $50k ramped revenue and the ~$65k
+      trend projection are all correctly derived from the brief, though the gap is
+      measured against $84k rather than the declining figure, which overstates it.
+    right_comparison: The memo describes the alternative as a shrinking line of about
+      $65k next year rather than a flat $84k, but the gap calculation then quietly
+      goes back to comparing against $84k.
+    qualification: The dated member counts are checkable, and the June 30 checkpoint
+      has a threshold (below 450) and a named consequence (options including restoring
+      ads), though the March and December checkpoints have no consequence if missed.
+    objections: The memo addresses the staffer's future, the risk of declining revenue
+      and reversibility, but it doesn't answer the sales members' core 'why drop ads
+      instead of adding membership' objection with anything from the facts.
+    fit: It is a properly formatted board memo of about one page with a clear request
+      for action, though the placeholders still need to be filled in.

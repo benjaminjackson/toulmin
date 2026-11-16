@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T17:37:07.956218+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 334
+  tags: []
+  notes: extracted 334 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 6
+    honest: 10
+    works_the_facts: 7
+    right_comparison: 9
+    qualification: 7
+    objections: 7
+    fit: 8
+  details:
+    agree: This reader read the 'blank check' letter and voted no last time. The plain
+      cost figure, the fixed rate and end date, and the threat to their own branch
+      give them real reasons to reconsider, but there is no direct answer to the neighbourhood
+      association president's letter beyond one rebuttal line.
+    honest: 'Every figure checks out against the brief: $640,000 gives $121.60 a year
+      (about $10 a month), and $410,000 gives about $78 a year. The writer also rightly
+      dropped the ''less than a cup of coffee a month'' line, because neither figure
+      supports it.'
+    works_the_facts: The writer turned the rate into monthly and yearly costs for
+      both Ridgeview and the city median. They missed gentler true framings for a
+      fixed-income reader, such as about 33 cents a day.
+    right_comparison: 'It states the alternative concretely: the Ridgeview branch
+      closes in July and there are no Sunday hours. It sets this against the 22% rise
+      in visits.'
+    qualification: 'The few conditions it states are firm and checkable: a fixed rate,
+      a six-year term and a July closure. It doesn''t over-hedge, but it doesn''t
+      say when the levy would take effect.'
+    objections: It meets the 'blank check' and fixed-income objections directly and
+      honestly. The 'last one failed' reply only tells a resisting voter that every
+      vote matters, which doesn't persuade them, and the renter line doesn't apply
+      to this homeowner.
+    fit: It is a tight one-sided card with a core pitch that takes about 60 to 90
+      seconds, though the objection section makes the card dense.

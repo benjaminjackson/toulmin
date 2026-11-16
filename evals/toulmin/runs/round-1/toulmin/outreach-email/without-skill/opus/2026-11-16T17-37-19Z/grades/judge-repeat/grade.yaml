@@ -1,0 +1,55 @@
+grader: judge-repeat
+graded: '2026-11-16T17:47:38.965014+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 139
+  tags: []
+  notes: extracted 139 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 3
+    objections: 6
+    fit: 9
+  details:
+    agree: Dana gets a short, relevant email that opens with her own $600,000 quote
+      and offers a credible result and a small ask, but it never shows her that the
+      payback is worth arguing with her IT director about.
+    honest: Every number is accurate and "more than half" is true (a 54% drop), but
+      it shows only the best customer and leaves out the second result, 2.8 to 2.2
+      (about a 21% drop), so the typical outcome looks stronger than the facts support.
+    works_the_facts: It correctly works out $75,000 a year for five sites, but it
+      never compares that with her $600,000 loss, where halving it would save about
+      $300,000, roughly four times the cost, which is the strongest true figure available.
+    right_comparison: The status quo of over $600,000 a year in returns is mentioned
+      at the top, but the email never sets it against the $75,000 price, so the reader
+      has to make the comparison herself.
+    qualification: With only one strong result out of six customers, the email needed
+      a hedge, such as noting that a second customer saw about a 21% drop and that
+      a pilot site would show her own rate within a few months, but it offers no checkable
+      condition.
+    objections: Saying "sits on top of" the warehouse system and "about three weeks"
+      partly answers the IT director's resistance, but it never says how little IT
+      work is needed or that his rollout stays untouched, which is what he actually
+      cares about.
+    fit: It is short, broken into short paragraphs that read easily on a phone, has
+      a clear subject line and makes one simple ask, which matches the brief.

@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T17:37:46.194710+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 167
+  tags: []
+  notes: extracted 167 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 4
+    objections: 7
+    fit: 9
+  details:
+    agree: The email opens with her own $600K figure and shows a conservative case
+      where the savings exceed the cost, and it tells her the system doesn't replace
+      the WMS, so a busy VP has a solid reason to give it 20 minutes.
+    honest: "It limits 'more than half' to the one largest customer and admits the\
+      \ smaller 2.8\u21922.2 drop, but by citing two results without mentioning that\
+      \ only three of six customers track error rates, it implies a fuller record\
+      \ than exists."
+    works_the_facts: It correctly works out a 20% drop as about $120K against $75K
+      a year for five sites, but it never states the upside, where a 54% cut on $600K
+      is roughly $320K, or the net gain.
+    right_comparison: The alternative is only implied as continuing to lose $600K
+      a year, and the email never says outright that doing nothing keeps that cost
+      in place.
+    qualification: '''Not every site sees a drop that big'' is an honest hedge, but
+      there''s nothing she can check: no pilot at one site, no target error rate,
+      no date for judging it and no stated consequence if it falls short.'
+    objections: Saying it sits on top of the WMS and takes three weeks to set up answers
+      the IT director's likely objection without naming him, though it doesn't say
+      how little it asks of his team or the existing system.
+    fit: It's short and in plain paragraphs that read easily on a phone, with a specific
+      subject line and a single clear request.

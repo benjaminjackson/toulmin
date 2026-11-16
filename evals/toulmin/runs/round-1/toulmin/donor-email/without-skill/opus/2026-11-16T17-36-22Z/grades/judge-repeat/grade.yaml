@@ -1,0 +1,56 @@
+grader: judge-repeat
+graded: '2026-11-16T17:44:05.260413+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 240
+  tags: []
+  notes: extracted 240 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 5
+    right_comparison: 3
+    qualification: 7
+    objections: 5
+    fit: 9
+  details:
+    agree: The open admission about the Eastside closure and the doubled-gift ladder
+      make an $85 return gift plausible, but the resentful reader gets an apology
+      without any account of the closure, so trust is asked for rather than earned.
+    honest: It rightly drops the brief's false guarantee that every child gets a place,
+      but 'every matched dollar moves another child off the waiting list... in January'
+      still implies more placement than the money can fund, and 'I read every one'
+      and the families' finances are details nobody supplied.
+    works_the_facts: The gift ladder is worked out correctly from $85 and $1,150,
+      but the email never gives the $70,150 total need or says that a fully used match
+      ($30,000) would place about 26 of the 61 children, which is the sharpest true
+      framing available.
+    right_comparison: 'It never says what happens if donors don''t give: the children
+      stay on the list and the unused match goes unclaimed, and last year''s weak
+      response (9 gifts, $1,240) goes unmentioned.'
+    qualification: 'The match terms can be checked: December 31 deadline, $15,000
+      cap, returning donors only, dollar for dollar. But it doesn''t spell out that
+      the doubling is lost after the deadline, or that the cap leaves children still
+      waiting.'
+    objections: 'It names the Eastside grievance and invites a reply, but it doesn''t
+      answer the reader''s obvious next question: why should I come back, and does
+      my money now reach the families who lost that branch?'
+    fit: It is a year-end email of about 240 words with a subject line, a clear call
+      to action and a P.S., signed by the executive director as requested.

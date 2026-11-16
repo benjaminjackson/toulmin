@@ -1,0 +1,27 @@
+I made one change to what you asked for. The email doesn't say "we cut picking errors in half" as a general claim. Your largest customer did cut theirs in half (4.1 to 1.9 is a 54% drop). But the only other customer who shared numbers went from 2.8 to 2.2, which is about a 21% drop. If Dana asks for references and hears that, a broad "we halve errors" claim will look inflated, and you'll have lost her trust. So the email names the customer and gives the exact numbers. That's also more convincing than a round claim.
+
+**Other choices:**
+- **IT director:** The email doesn't mention him. It says plainly that the software sits on top of her warehouse system and doesn't replace it, so she has an answer ready when she forwards it to him. Before you send, check how much your setup actually touches their system (data feeds, read/write access). He'll ask.
+- **Her $600,000 quote:** This is the opening line, so the email starts with her problem, not your product. Fill in the magazine name so she knows where it came from.
+- **Price:** I worked out the total for her 5 sites (about $75,000 a year) so she can compare it with the $600,000 without doing the math. The email doesn't promise she'll cut errors in half, because you don't know her current error rate.
+- **Length:** About 120 words, in short paragraphs that read easily on a phone.
+
+<final_document>
+Subject: Wrong-item returns at [Company]
+
+Hi Dana,
+
+Last spring you told [Magazine] that wrong-item returns cost [Company] "north of $600,000 a year." That's the problem we work on.
+
+With our software, pickers scan each item with a phone camera, and it flags a wrong item before the box closes. At our largest customer, a pet-supply distributor with 3 warehouses, mis-picks fell from 4.1 to 1.9 per 1,000 order lines in their first five months. That's more than half.
+
+It doesn't replace your warehouse management system. It sits on top of it, and setup takes about three weeks.
+
+Pricing is $1,250 per site per month, which comes to about $75,000 a year for all five of your warehouses.
+
+Would a 20-minute call be worth it to see whether the numbers could work for you?
+
+[Your name]
+Co-founder, [Your company]
+[Phone]
+</final_document>

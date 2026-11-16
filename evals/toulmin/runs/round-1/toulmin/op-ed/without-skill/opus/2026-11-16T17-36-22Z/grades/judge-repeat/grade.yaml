@@ -1,0 +1,52 @@
+grader: judge-repeat
+graded: '2026-11-16T17:45:39.121594+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 640
+  tags: []
+  notes: extracted 640 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 3
+    objections: 5
+    fit: 7
+  details:
+    agree: The first-period log and the neighbouring district's results make a credible
+      case, but a board member worried about cost and drop-offs gets no concrete plan,
+      only a promise that these are 'problems to solve.'
+    honest: 'The piece rightly declines to claim that the change will raise graduation,
+      but it adds things the brief did not give: ''teenagers need eight to ten,''
+      the 6 a.m. wake-ups and students reporting ''five hours.'''
+    works_the_facts: It derives 72 percent, 'one in six' and 412 against the 369 of
+      the next two periods combined, but it never puts the $180,000 per student or
+      per day, and never scales the 31 percent drop in tardies to this school.
+    right_comparison: The status quo is shown fairly through the nurse's log and the
+      sleep survey, but there is no trend to show whether things are getting worse.
+    qualification: The hedge on graduation is honest but gives the reader nothing
+      to check, such as a tardy or attendance target, a date to review it or a consequence
+      if it is missed.
+    objections: 'All three objections are stated fairly, but the answers are vague:
+      ''ask the other district,'' a supervised waiting space with no cost or plan,
+      and an unquantified offset to the $180,000.'
+    fit: It is a well-shaped op-ed at roughly the 650-word limit, though it still
+      contains placeholders and may run slightly over.

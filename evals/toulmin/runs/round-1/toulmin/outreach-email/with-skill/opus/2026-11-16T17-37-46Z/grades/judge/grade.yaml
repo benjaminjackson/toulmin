@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T17:38:28.948694+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 158
+  tags: []
+  notes: extracted 158 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 5
+    objections: 6
+    fit: 9
+  details:
+    agree: Dana gets her own $600K figure, a real before-and-after, a break-even point
+      she can check, and a small 20-minute ask, so she is likely to reply; the line
+      about running alongside her system only partly answers her IT director's likely
+      veto.
+    honest: "Every number checks against the brief ($75,000 = $1,250\xD75\xD712; 54%\
+      \ and 21% are correct; 'more than half' applies only to the one customer), and\
+      \ the email avoids a blanket 'we cut errors in half' claim, though 'runs alongside'\
+      \ sounds a little more separate from her system than 'sits on top of it.'"
+    works_the_facts: 'The email works out the annual cost for five sites, the break-even
+      point (an eighth of $600K), and percentage drops for both customers, but it
+      never gives the most favourable true figure: if her errors fell by the same
+      54%, that would be roughly $320K a year saved against a $75K cost.'
+    right_comparison: The alternative is the $600K-a-year return cost continuing,
+      which the email implies through the subject line and the break-even, but it
+      never says outright that doing nothing keeps that cost every year.
+    qualification: Putting the 21% result next to the 54% one is an honest signal
+      that results vary, but no checkable condition with a timeframe is offered, such
+      as measuring her mis-pick rate at one site after a set number of months.
+    objections: The email says it doesn't replace her warehouse system and gives the
+      three-week setup, which goes partway toward the IT director's resistance, but
+      it never says plainly that his two-year rollout stays untouched or how little
+      IT work is needed; it raises no needless objections.
+    fit: At about 170 words in short paragraphs with a clear subject line and one
+      ask, it is short and easy to read on a phone, as the brief asked.

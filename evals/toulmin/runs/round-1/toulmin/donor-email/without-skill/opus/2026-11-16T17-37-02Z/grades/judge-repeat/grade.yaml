@@ -1,0 +1,55 @@
+grader: judge-repeat
+graded: '2026-11-16T17:44:22.051048+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 250
+  tags: []
+  notes: extracted 250 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 5
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 6
+    objections: 5
+    fit: 8
+  details:
+    agree: The matched-gift arithmetic and the honest 26-of-61 framing make a concrete
+      case, but someone still hurt about Eastside gets one short paragraph and a pivot
+      to 'look who is waiting now,' which may feel like being told to move on.
+    honest: "It drops the brief's false promise of a place for every child and gets\
+      \ the sums right ($30,000 \xF7 $1,150 \u2248 26), but it says 'many of you told\
+      \ us' when only 'a few' wrote, and the P.S. claim that 'any amount\u2026 counts\
+      \ double' leaves out the $15,000 cap."
+    works_the_facts: Turning $85 into $170, $575 into one child's year and the full
+      match into 26 children is useful, but it never sets the target against last
+      December's 9 gifts and $1,240, which shows how far the match is from being met.
+    right_comparison: It never says what happens if this group gives at last year's
+      rate (about $2,500 including the match, roughly two children) or that the other
+      children simply stay on the list, so the reader has no real alternative to weigh.
+    qualification: The condition is checkable, with a date (December 31), a number
+      (26 children if the full $30,000 is reached) and a stated shortfall against
+      61, but it doesn't say what happens to the match money or the children if the
+      match falls short.
+    objections: It names the Eastside closure and accepts the anger, but it gives
+      no reason for the closure and doesn't say whether Eastside families are among
+      those waiting, so the core grievance goes unanswered.
+    fit: It's a year-end appeal of about 240 words with a subject line, a call to
+      action, a P.S. and the executive director's signature, as the brief asked.

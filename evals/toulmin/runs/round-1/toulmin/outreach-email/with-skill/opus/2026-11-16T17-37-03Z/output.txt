@@ -1,0 +1,34 @@
+I didn't write "we cut picking errors in half" as a general claim. I'd recommend against it, and the draft below uses a narrower version.
+
+**What your numbers support:** You have three data points. Your biggest customer cut mis-picks by 54% (4.1 to 1.9), another cut them by 21% (2.8 to 2.2), and a third hasn't shared numbers. "We cut errors in half" reads as a typical result, and it's true for only one of the three. A VP of ops who asks "for everyone?" on a first call will notice the gap, and you'd lose her trust right when you need it.
+
+**What the email says instead:** "Our largest customer cut mis-picks by more than half." That's true, it's specific, and it's still the headline. The weaker result actually helps the case. Five sites cost $75,000 a year. A 20% drop on her own "$600,000+" figure is about $120,000, so the purchase pays for itself even at your weaker result. The email says that outright, which also answers the "will it work that well for us?" objection before she raises it.
+
+**Her IT director:** He's the second person you have to convince, and he can probably block this even if Dana wants it. I kept "it sits on top of your warehouse system, it doesn't replace it" because Dana will need that line to bring it to him. I left him out of the email itself. Mentioning something you've heard about her own staff in a cold email would come across badly. If she replies, have a short one-pager ready for him. It should say exactly what the software reads from or writes to their system (if anything), what changes on their side, and who does the work during the three-week setup.
+
+**Before you send:**
+- Fill in the brackets, especially the magazine's name. Quoting her accurately is your opening line.
+- Before you write "doesn't replace," check whether setup needs any integration work from her IT team. If it needs none at all, say "no changes to your warehouse system." That's the line that gets past the IT director.
+- If you'd offer a one-site trial, it would make a stronger ask than a call. I didn't add one because you didn't mention it.
+
+<final_document>
+Subject: Your $600K in wrong-item returns
+
+Hi Dana,
+
+Last spring you told [Magazine] that returns from wrong-item shipments cost [Company] "north of $600,000 a year." That number is why I'm writing.
+
+We make pick-verification software. Pickers scan each item with a phone camera, and it flags a wrong item before the box closes.
+
+Our largest customer, a pet-supply distributor with three warehouses, went from 4.1 mis-picks per 1,000 order lines to 1.9 in their first five months. That's a cut of more than half.
+
+Not every site sees a drop that big. Another customer went from 2.8 to 2.2. But a 20% drop on $600,000 is about $120,000 a year. Running all five of your warehouses would cost $75,000 a year ($1,250 per site per month).
+
+It doesn't replace your warehouse management system. It sits on top of it, and setup takes about three weeks.
+
+Do you have 20 minutes in the next couple of weeks to see whether it fits?
+
+[Your name]
+Co-founder, [Your company]
+[Phone]
+</final_document>

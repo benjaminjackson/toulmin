@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T17:36:50.847325+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 133
+  tags: []
+  notes: extracted 133 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 3
+    right_comparison: 4
+    qualification: 3
+    objections: 7
+    fit: 9
+  details:
+    agree: Opening with her own $600,000 figure and saying the product sits on top
+      of the warehouse system gives Dana a reason to read and a short answer for her
+      IT director, but nothing turns the result into dollars she would save, so a
+      call is plausible but not compelling.
+    honest: The body's 4.1-to-1.9 figure is accurate and credited to one customer,
+      but the subject line says that customer's wrong-item returns fell by more than
+      half when the data measures mis-picks, and leaving out the other customer's
+      2.8-to-2.2 result makes the best case look typical.
+    works_the_facts: 'It quotes the raw rates but never works out what they mean for
+      her: a cut of about 54%, roughly $300,000 a year against her $600,000, and a
+      cost of about $75,000 a year for 5 sites at $1,250 each.'
+    right_comparison: It mentions the $600,000 status quo only as a hook and never
+      sets it against what she would save or what the software costs, so the alternative
+      of doing nothing is not laid out.
+    qualification: A result from one customer needs a checkable hedge, such as the
+      range across customers or a pilot target with a number and a date, and the email
+      gives none.
+    objections: It meets the IT objection directly by saying the product doesn't replace
+      the warehouse system, needs no re-platforming and takes three weeks to set up,
+      though it could also say how little it asks of her IT team.
+    fit: It is short, has four tight paragraphs and a clear ask, and reads easily
+      on a phone as the brief asked.

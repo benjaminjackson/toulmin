@@ -1,0 +1,55 @@
+grader: judge-repeat
+graded: '2026-11-16T17:44:40.307642+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 229
+  tags: []
+  notes: extracted 229 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 6
+    objections: 6
+    fit: 8
+  details:
+    agree: The plain acknowledgement of the Eastside closure and the doubled match
+      give a lapsed, aggrieved donor a respectable reason to return, but the Eastside
+      sentence is still an empty placeholder, so the resisting reader gets sympathy
+      without anything concrete.
+    honest: It drops the brief's request to promise every child a place, which the
+      numbers can't support, invents no figures, and keeps the claims to 'as funding
+      allows' and 'in waiting-list order'.
+    works_the_facts: "The derivations $85\u2192$170 and $575\u2192$1,150 for one child\
+      \ are correct and well chosen, but it never works out the $70,150 total need\
+      \ or that a fully used match ($30,000) would fund about 26 children."
+    right_comparison: The alternative appears only as 'we don't yet have the funds';
+      it never says that without new gifts most of the 61 children stay waiting, or
+      that last year's appeal raised only $1,240.
+    qualification: The December 31 match deadline, the January placements and the
+      promised spring report give the reader dates to check, but 'as funding allows'
+      names no number of children and no consequence if the money falls short.
+    objections: It raises the Eastside grievance directly and without defensiveness,
+      but leaves the actual answer (what happened to those students) as a placeholder,
+      so the objection is acknowledged rather than met.
+    fit: It is a year-end email of roughly 220 words, signed by the executive director
+      with a clear call to give, and it rightly leaves out the unsupportable guarantee
+      the brief asked for.

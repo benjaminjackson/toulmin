@@ -1,0 +1,60 @@
+I wrote the script, but I left out the "less than a cup of coffee a month" line because the math doesn't support it, and Ridgeview is where it fails worst.
+
+**The numbers:**
+- **Median home in the city ($410,000):** $77.90 a year, which is about $6.50 a month.
+- **Median home in Ridgeview ($640,000):** $121.60 a year, which is about $10 a month.
+
+A $10 monthly cost isn't "less than a cup of coffee." Retirees on fixed incomes will do this math at the kitchen table. The opposing letter has already set up "a blank check" as the attack, so a number that turns out to be soft hands it more evidence. The claim also says "average household" when the figure is the median home value, and 38% of households rent and get no tax bill.
+
+**What I did instead:** volunteers give each homeowner's real cost, and the card has a short table so they can look it up. That fits a neighborhood worried about being misled. If you want a coffee line for the citywide canvass later, "less than a cup of coffee a week" is true for the median home ($1.50 a week). In Ridgeview it's $2.34 a week, so don't use it there.
+
+**How the script makes the case to Ridgeview:** their own branch closes in July unless the levy passes. They're told the cost plainly. The answer to "blank check" points to three limits: a fixed rate, an end date, and a specific use for the money. It doesn't mention the letter writer or the levy that failed last time. If a voter brings either one up, volunteers stick to what's on the ballot.
+
+**Check these before printing:**
+1. **Does the ballot language legally limit what the money can be spent on?** If it doesn't, change "Here's what Measure 4 does" to "Here's the plan for the money." Otherwise the line overstates the measure and gives the "blank check" argument something real.
+2. **Does your state or county have a senior or low-income property tax exemption or deferral that applies to this levy?** If it does, put it on the card. For this precinct it may be the most persuasive fact you have.
+3. **Is "this July" the exact closing date?** Volunteers will be asked.
+
+<final_document>
+**YES ON MEASURE 4: RIDGEVIEW DOOR SCRIPT** (60–90 seconds)
+
+**HELLO**
+"Hi, I'm ___, a volunteer with Yes on Measure 4, the library levy on the March ballot. Do you have a minute to talk about the Ridgeview library?"
+
+**WHAT'S AT STAKE**
+"If Measure 4 doesn't pass, the Ridgeview branch closes this July. If it passes, the branch stays open, and Sunday hours come back at all five branches. More people are using the library: visits are up 22% since 2021."
+
+**ASK, THEN LISTEN**
+"Do you or anyone in your house use the Ridgeview branch?"
+
+**THE COST: GIVE THE REAL NUMBER**
+"It's 19 cents per $1,000 of home value, for six years. For a typical Ridgeview home, that's about $122 a year, or about $10 a month."
+
+| Home value | Per year | Per month |
+|---|---|---|
+| $400,000 | $76 | $6 |
+| $500,000 | $95 | $8 |
+| $640,000 | $122 | $10 |
+| $800,000 | $152 | $13 |
+| $1,000,000 | $190 | $16 |
+
+**IF THEY'VE HEARD "IT'S A BLANK CHECK"**
+"I understand the worry. Here's what Measure 4 does: a fixed rate, a six-year limit, and a specific job. It keeps this branch open and brings back Sunday hours. After six years it ends."
+
+**IF THEY'RE ON A FIXED INCOME**
+"That's a fair concern. Let's look at your actual number." (Use the table. Don't argue.)
+
+**IF THEY RENT**
+"The levy is on property, so you won't get a tax bill for it. But you'd lose the branch and Sunday hours just the same."
+
+**CLOSE**
+"Can we count on your yes vote on Measure 4 in March?"
+- **Yes:** Mark them as a supporter. Offer a yard sign.
+- **Undecided:** "What would help you decide?" Leave the flyer.
+- **No:** "Thanks for your time." Move on.
+
+**DON'T**
+- Don't say "less than a cup of coffee." In Ridgeview it isn't.
+- Don't guess. If you don't know, say "I'll find out" and write it down.
+- Don't talk about the newspaper letter or who wrote it. Stick to what's on the ballot.
+</final_document>

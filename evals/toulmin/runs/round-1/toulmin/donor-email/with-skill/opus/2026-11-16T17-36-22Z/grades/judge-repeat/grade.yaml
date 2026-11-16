@@ -1,0 +1,58 @@
+grader: judge-repeat
+graded: '2026-11-16T17:43:22.019439+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 211
+  tags: []
+  notes: extracted 211 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 5
+    objections: 5
+    fit: 8
+  details:
+    agree: The matched $575-a-year figure and the direct mention of Eastside give
+      a lapsed donor a real reason to come back, but a reader who is still annoyed
+      may take "I'm not asking you to feel differently" as a brush-off and never hear
+      why the branch closed or what has changed.
+    honest: 'The writer rightly drops the requested guarantee, which the facts can''t
+      support: funding all 61 children costs $70,150, against at most $30,000 even
+      if the match is used in full. "Every child we can fund" is true, and the only
+      small embellishment is the claim that each child "has asked to learn an instrument."'
+    works_the_facts: Halving $1,150 to $575 and doubling the $85 average gift to $170
+      are good favourable framings, but the email never states the $70,150 total,
+      how many children the $15,000 match could cover (about 26), or how far that
+      is from last year's $1,240.
+    right_comparison: The alternative, that the children keep waiting, is only implied
+      and never measured, and the email doesn't use last year's 9 gifts to show what
+      happens if giving stays at its usual level.
+    qualification: The match comes with a checkable cap ($15,000) and deadline (December
+      31), but "every child we can fund" doesn't say how many that is likely to be
+      or what happens to the children who stay unfunded.
+    objections: The email names the Eastside closure and the angry notes, which this
+      reader will respect, but it neither explains the decision nor connects these
+      61 children to the reader's concern, so the objection is acknowledged rather
+      than answered.
+    fit: It is a year-end email of about 220 words with a subject line and a call
+      to action, signed by the executive director as asked. It departs from the brief
+      only by refusing a guarantee the numbers can't back.

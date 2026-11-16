@@ -1,0 +1,54 @@
+grader: judge-repeat
+graded: '2026-11-16T17:42:40.251404+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 334
+  tags: []
+  notes: extracted 334 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 7
+    right_comparison: 8
+    objections: 8
+    fit: 8
+  details:
+    agree: 'A wary fixed-income retiree gets a plain, respectful case: an exact $10-a-month
+      cost, a fixed rate and end date against the ''blank check'' letter, and the
+      local branch closing in July, though the script gives no stronger reason why
+      this vote should differ from the last one.'
+    honest: "Every figure checks out ($640k \xD7 0.19/1,000 \u2248 $122/yr \u2248\
+      \ $10/mo; $410k \u2248 $78/yr), and the script drops the misleading coffee line,\
+      \ but 'for most homes here' stretches a median figure a little."
+    works_the_facts: It correctly turns the rate into Ridgeview and citywide monthly
+      and yearly costs, but it never gives smaller true forms such as about $2.30
+      a week or 33 cents a day, and it never connects the $2.3M a year to the cost
+      of each service.
+    right_comparison: The alternative is stated concretely and correctly (the Ridgeview
+      branch closes in July and Sunday hours are not restored), and the 22% rise in
+      visits is set against it as the trend.
+    qualification: A door script stating a fixed rate, term and closure date needs
+      no hedge.
+    objections: The 'blank check' and fixed-income objections are met directly with
+      the brief's facts and an honest admission of the cost, though the reply to 'the
+      last one failed' says little to persuade.
+    fit: "It fits on one card with a 60\u201390 second core and short rebuttals, but\
+      \ it leaves out the coffee comparison the field lead asked for without a note\
+      \ explaining why."

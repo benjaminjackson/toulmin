@@ -1,0 +1,16 @@
+Subject: Wrong-item returns: one distributor cut theirs by more than half
+
+Hi Dana,
+
+In an interview last spring you said wrong-item returns cost you north of $600,000 a year. That number is why I'm writing.
+
+We make pick-verification software. A worker scans each item with a phone camera, and if it's the wrong item, we flag it before the box is sealed. Our largest customer is a pet-supply distributor with 3 warehouses. Over their first five months, their mis-picks went from 4.1 to 1.9 per 1,000 order lines.
+
+It sits on top of your existing warehouse management system. It doesn't replace it or require re-platforming. Setup takes about three weeks.
+
+Would you be open to a 20-minute call to see if this could work in your buildings?
+
+Best,
+[Your name]
+Co-founder, [Company]
+[Phone]

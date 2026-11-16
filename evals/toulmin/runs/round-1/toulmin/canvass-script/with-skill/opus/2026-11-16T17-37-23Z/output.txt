@@ -1,0 +1,57 @@
+I wrote the script with the real dollar figures in place of the coffee line, because the coffee line doesn't hold up against your own numbers.
+
+**The math:** 19 cents per $1,000 of assessed value works out to:
+
+| Home | Per year | Per month | Per day |
+|---|---|---|---|
+| City median, $410,000 | $77.90 | $6.49 | about 21¢ |
+| Ridgeview median, $640,000 | $121.60 | $10.13 | about 33¢ |
+
+**Why I left the coffee line out:**
+- **It's wrong on the facts.** A cup of coffee costs roughly $3 to $6. The levy is $6.49 a month on a typical home citywide and about $10 a month in Ridgeview, so "less than a cup of coffee a month" is false in both places.
+- **"Average household" doesn't fit.** Your figure is a median, not an average. And 38% of households rent, so they don't get the bill directly.
+- **Ridgeview is the worst place to be wrong.** Retired homeowners on fixed incomes will work out their own bill. The neighborhood association president is already calling the levy "a blank check." If a volunteer gets caught understating the cost, that proves the president's point. A volunteer who gives the exact number and shows how to check it proves the opposite.
+
+If you still want a coffee comparison, "less than a cup of coffee a week" is true: about $1.50 a week citywide and about $2.35 in Ridgeview. I'd still lead with the dollar figure.
+
+**How the script is built:** It opens with the branch closing in July, since that's what Ridgeview stands to lose. Next comes the use figure, then the real cost with its six-year end date. The "blank check" answer is short and uses only the facts you gave me: a fixed rate, a set amount, specific uses and an end date. The spoken part is about 170 words, roughly 70 seconds.
+
+**Please check these before printing:**
+1. **What the money can be spent on.** The blank-check answer says the levy pays for Ridgeview and Sunday hours. Make sure the ballot language actually limits spending that way, or soften the line. Don't let volunteers say there's an oversight committee or an audit unless one exists.
+2. **Senior or fixed-income property-tax relief.** If your state or county has a program, add one line to the fixed-income answer. It's the strongest thing you could say to these voters.
+3. **A citywide card.** After Ridgeview, swap in "about $78 a year, roughly $6.50 a month, on a typical home in the city," and lead with Sunday hours rather than the branch closing.
+
+<final_document>
+**YES ON MEASURE 4 — RIDGEVIEW DOOR SCRIPT** (60–90 seconds)
+
+**OPEN**
+"Hi, I'm ___, a volunteer with Yes on Measure 4, the library levy on the March ballot. Do you have a minute?"
+
+"Have you heard much about Measure 4?" *(Listen. Don't argue.)*
+
+**THE CASE**
+"Here's the short version. If Measure 4 doesn't pass, the Ridgeview branch closes in July. Measure 4 keeps it open, and it brings back Sunday hours at all five branches.
+
+People are using our libraries more than ever. Visits are up 22% since 2021.
+
+On cost, here's the real number. It's 19 cents per $1,000 of assessed value. On a typical Ridgeview home, about $640,000, that's around $122 a year, or about $10 a month. And it ends after six years."
+
+**THE ASK**
+"Can we count on your yes vote in March?"
+- **Yes:** "Thank you!" *(Record it. Offer a yard sign.)*
+- **Unsure:** "What would help you decide?" *(Leave the flyer.)*
+- **No:** "Thanks for your time." *(Move on politely.)*
+
+**IF THEY SAY…**
+
+**"I read it's a blank check."**
+"I understand the worry. It's a fixed rate, 19 cents per $1,000, so it raises a set $2.3 million a year. It's for keeping Ridgeview open and restoring Sunday hours, and it ends after six years unless voters renew it."
+
+**"I'm on a fixed income."**
+"That's fair, and it's why we give you the exact number. It's about $10 a month on a typical Ridgeview home. You can check your own: take your assessed value, divide by 1,000, and multiply by 19 cents."
+
+**"I rent."**
+"The levy is billed to property owners. What it pays for, like Sunday hours and keeping Ridgeview open, is for everyone."
+
+*Always: be friendly, keep it short, never argue, and record every response.*
+</final_document>

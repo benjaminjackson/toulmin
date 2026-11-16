@@ -1,0 +1,11 @@
+{
+  "task": "outreach-email",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T17-37-03Z",
+  "without_skill_run": "2026-11-16T17-36-50Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "reason": "A shows the weaker 2.8→2.2 result and the price against my own $600K figure, so even the cautious case looks like about $120K saved for $75K spent. That makes me trust it and gives me a reason to take the call. B uses only the best result and gives no price, so it reads like a typical vendor pitch and I can't tell whether 4.1→1.9 is normal."
+}

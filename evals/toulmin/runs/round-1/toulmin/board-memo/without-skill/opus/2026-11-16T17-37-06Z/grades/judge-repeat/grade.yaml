@@ -1,0 +1,56 @@
+grader: judge-repeat
+graded: '2026-11-16T17:41:24.335531+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 390
+  tags: []
+  notes: extracted 390 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 9
+    right_comparison: 9
+    qualification: 8
+    objections: 6
+    fit: 8
+  details:
+    agree: The arithmetic is clear and the memo is open about the first-year gap,
+      which should win over most of the board. It never explains why ads must end
+      rather than run alongside membership, and that is the question the two ad-background
+      members will push hardest.
+    honest: The brief's 'will replace' becomes a stated goal, and every derived figure
+      checks out ($20k, 875 members, 13 a week, $67k, $52k). Unknowns such as how
+      many pilot members are still paying are left as placeholders, not invented.
+    works_the_facts: It works out the annual pilot revenue, the share of the newsletter
+      list, the 875-member target, the 13-a-week pace needed against the 35 a week
+      already reached, the projected ad decline and the first-year shortfall. All
+      are correct and put in useful form.
+    right_comparison: The alternative is shown as declining ads projected at about
+      $67k for 2027, not a flat $84k, and the membership figure is compared against
+      that same projected number.
+    qualification: The June 30 checkpoint has a number (500 members), a date and a
+      consequence (options including bringing ads back), plus monthly reporting. The
+      500 threshold sits a little below the straight-line pace of about 540.
+    objections: The pilot-loyalty and cancellation risks are fair and the sales colleague
+      gets their own section. The central sales objection, why give up $67k in ads
+      instead of running both, is never answered.
+    fit: It is a tight memo of roughly one page with clear headings and a decision
+      request at the top. The placeholders are appropriate for the writer to fill
+      in.

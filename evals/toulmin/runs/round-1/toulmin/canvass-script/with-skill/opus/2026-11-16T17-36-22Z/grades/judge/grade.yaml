@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T17:37:23.893045+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 315
+  tags: []
+  notes: extracted 315 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 9
+    qualification: 7
+    objections: 8
+    fit: 9
+  details:
+    agree: 'A retiree who voted no and read the ''blank check'' letter gets a calm,
+      specific answer: their own cost is about $10 a month, it ends in six years,
+      and the branch down the street stays open, which could move a soft no but probably
+      won''t flip a firm one.'
+    honest: Every figure checks against 19 cents per $1,000 and the closure, Sunday-hours
+      and 22% claims match the brief, though 'it pays for two things' implies the
+      money has no other uses, which the brief doesn't say.
+    works_the_facts: The cost table is worked correctly, and the writer swapped the
+      false 'cup of coffee a month' line for a true 'cup of coffee a week' at the
+      Ridgeview value; the $2.3M total could have made the blank-check answer more
+      concrete.
+    right_comparison: 'The alternative is stated as the facts give it: without the
+      levy, Ridgeview closes in July while visits are rising.'
+    qualification: The few conditions ('for most homes here,' 'unless voters renew
+      it') are tied to a number, a time limit and a formula the reader can check,
+      though little hedging was needed.
+    objections: The blank-check and fixed-income objections this reader actually holds
+      are met head on with facts from the brief, and no objection is raised that the
+      brief already answers.
+    fit: It's a one-sided card that runs about 60 to 90 seconds, with ask branches,
+      rebuttals and a cost table, which is what the brief asked for.

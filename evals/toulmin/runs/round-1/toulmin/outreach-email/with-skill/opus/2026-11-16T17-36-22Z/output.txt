@@ -1,0 +1,33 @@
+I've drafted the email, but I didn't use "we cut picking errors in half" as a company-wide claim.
+
+**Why I changed your headline claim:** Only one customer halved its errors. The pet-supply distributor went from 4.1 to 1.9, a 54% drop. Of the two other customers who track errors, one dropped 21% (2.8 to 2.2) and the other hasn't shared numbers. "We cut errors in half" reads as your typical result. A VP of operations who wants a reference call would find out it isn't, and that would cost you trust right when it matters most.
+
+So the email says what's true and still strong: your largest customer, a three-warehouse distributor, cut mis-picks by more than half. That customer is a lot like her company.
+
+**The cost math helps you here.** All five of her sites would cost $75,000 a year. Against her own "north of $600,000" figure, the software pays for itself if it cuts those returns by about 13%. That assumes returns go down roughly in step with mis-picks, which is fair since she was talking about returns from wrong-item shipments. Even your weaker 21% result clears 13%. So the email doesn't need the bold claim.
+
+**Her IT director:** He's the person most likely to block this, and Dana will think of him right away. That's why the line saying it doesn't replace her warehouse system is in the email. I left out what you've heard about him. Before sending, check one thing: if setup needs any write access to their warehouse system, change "sits on top of it" so it's exact. He'll ask.
+
+**Fill in before sending:** the magazine name, your name and your company name.
+
+<final_document>
+Subject: Your $600K in wrong-item returns
+
+Hi Dana,
+
+In your [Magazine] interview last spring, you said wrong-item returns cost you "north of $600,000 a year." That number is why I'm writing.
+
+We make pick-verification software. Pickers scan each item with a phone camera, and it flags a wrong item before the box is closed.
+
+Our largest customer is a pet-supply distributor with three warehouses. In their first five months, they went from 4.1 mis-picks per 1,000 order lines to 1.9. That's less than half the errors they had before.
+
+It doesn't replace your warehouse management system. It sits on top of it. Setup takes about three weeks.
+
+It costs $1,250 per site per month, or $75,000 a year for all five of your warehouses. Against $600,000 in returns, it pays for itself if it cuts those returns by about 13%.
+
+Would you have 20 minutes to see whether those numbers hold up for your operation?
+
+Best,
+[Your name]
+Co-founder, [Company]
+</final_document>

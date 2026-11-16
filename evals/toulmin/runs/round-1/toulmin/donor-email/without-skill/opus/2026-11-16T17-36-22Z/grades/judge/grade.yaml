@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T17:37:02.174712+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 240
+  tags: []
+  notes: extracted 240 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 5
+    honest: 6
+    works_the_facts: 5
+    right_comparison: 3
+    qualification: 6
+    objections: 5
+    fit: 7
+  details:
+    agree: The apology and the match give a lapsed donor a reason to come back, but
+      the email never explains why Eastside closed or what has changed, so the reader
+      who is still angry gets an acknowledgment and no new reason to trust the school.
+    honest: "It rightly drops the brief's 'guarantee every child a place' line, but\
+      \ 'Every matched dollar moves another child off the waiting list' still claims\
+      \ more than the facts carry: 61 \xD7 $1,150 = $70,150, and the full $15,000\
+      \ match plus $15,000 in gifts covers only about 26 children."
+    works_the_facts: The gift-to-lessons conversions are correct and tied to the $85
+      average last gift, but the email never states the $70,150 total need, how many
+      children the full match would fund, or the gap compared with last year's $1,240.
+    right_comparison: The email never says what happens without these gifts (the children
+      keep waiting, and any unused match goes unclaimed), and it skips last year's
+      response even though that shows the scale of the challenge.
+    qualification: The match conditions are concrete and checkable (dollar for dollar,
+      a $15,000 cap, returning donors only, ends December 31), but there's no matching
+      caveat on how many children actually get a place, so the January promise stands
+      unqualified.
+    objections: 'It names the Eastside closure and the loss of trust and invites replies,
+      which is good, but it doesn''t answer the resisting reader''s real question:
+      why should I trust you now, and does this help the families Eastside used to
+      serve?'
+    fit: It's a year-end email signed by the executive director, roughly at the 250-word
+      limit, with a clear call to action and a P.S. It leaves a few bracket placeholders
+      and reasonably departs from the requested guarantee wording.

@@ -1,0 +1,57 @@
+grader: judge-repeat
+graded: '2026-11-16T17:41:03.604171+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 409
+  tags: []
+  notes: extracted 409 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 7
+    right_comparison: 8
+    qualification: 7
+    objections: 7
+    fit: 8
+  details:
+    agree: The clear math, the June fallback that could bring ads back, and the plan
+      to keep the ad sales lead in a new role give the two ad-background members solid
+      ground to vote yes, but the $30,000 gap and the unfilled bridge-funding line
+      will make them hesitate.
+    honest: The memo treats full replacement as a target and states the first-year
+      gap openly, but 'it shows the model works at our scale' rests on one secondhand
+      example, and the claim that ads slow the site and hurt the reader relationship
+      isn't in the brief.
+    works_the_facts: 'It works out the 36% drop, the 1.5% pilot conversion, the 875
+      members needed (about 6% of the list), the quarter already reached and a $50,000
+      year-one estimate, but it misses the strongest true comparison: the pilot signed
+      about 35 people a week, while the target needs only about 13 a week.'
+    right_comparison: Staying with ads is shown as a declining line projected to about
+      $65,000 next year and lower after that, so the board sees the trend rather than
+      a flat $84,000.
+    qualification: The June 30 checkpoint has a date, a threshold of 450 and a consequence
+      (options, including bringing back ads), but the March and December checkpoints
+      have no consequence if missed, and pilot retention is still a blank placeholder.
+    objections: The memo answers what will happen to the 11-year staffer and offers
+      a way back to ads, but it never says why ads have to end completely instead
+      of running alongside membership, which is the question the sales-minded members
+      are most likely to press.
+    fit: It is a properly formatted memo that ends with a specific requested action
+      and runs about one page, though it is tight against that limit.

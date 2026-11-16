@@ -1,0 +1,59 @@
+grader: judge-repeat
+graded: '2026-11-16T17:45:26.297131+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 674
+  tags: []
+  notes: extracted 674 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 6
+    objections: 7
+    fit: 6
+  details:
+    agree: The nurse's log, the survey and the nearby district's results make a strong
+      case for an undecided reader. A board member worried about the $180,000 or the
+      athletic director's concerns gets mostly argument and promises rather than answers,
+      so that reader is less likely to be persuaded.
+    honest: 'The piece wisely avoids promising that graduation rates will rise, but
+      it states things the facts don''t support: it says first period is "the class
+      they miss most" with no attendance data from this school, it adds the 11 p.m.
+      sleep science, and it calls the change "the cheapest place" to start despite
+      the $180,000 cost.'
+    works_the_facts: It correctly shows that first-period visits (412) outnumber second
+      and third combined (369), and it turns 640/890 into "nearly three in four" and
+      84% into "one in six". It never puts the $180,000 per student or against the
+      cost of repeated classes, so the bus cost is never actually weighed.
+    right_comparison: The status quo is described honestly through the daily first-period
+      cost, and the nearby district serves as a real-world comparison. However, there's
+      no trend data, and "what we already pay" for tired students is asserted, not
+      shown.
+    qualification: The vote-yes-then-measure plan names checkable measures (nurse
+      visits, tardies, attendance, course failures) and a one-year review date. It
+      sets no target number, and the only consequence of a miss is "I'll be the first
+      to say so."
+    objections: All three objections are taken up fairly. The answers on working parents
+      and athletics are concrete, but the early-open plan adds a staffing cost it
+      doesn't mention, and the bus answer is thin.
+    fit: It has the right op-ed form with a headline, byline and bio line, but at
+      roughly 700 words it runs past the 650-word limit.

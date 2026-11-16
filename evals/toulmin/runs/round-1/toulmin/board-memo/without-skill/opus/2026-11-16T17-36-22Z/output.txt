@@ -1,0 +1,49 @@
+I drafted the memo, but I changed the central claim. I didn't state as fact that membership will replace ad revenue within a year. Two board members with sales backgrounds will run the numbers, and here's what they'll find:
+
+- **The pilot pace isn't enough.** 212 members × $8 × 12 = **$20,352 a year**, about a quarter of the $84,000 from ads. Matching that takes about **875 members**, roughly four times what the pilot produced.
+- **The target is reachable, though.** 875 members is about 6% of your newsletter list. The pilot reached 1.5% in six weeks with two mentions and no real marketing.
+- **There's a first-year gap.** If ads stop on January 1, membership grows gradually over the year. With steady growth, it brings in about $50,000 in year one, so you're roughly $30,000 short until it reaches full pace.
+
+So the memo makes the case confidently. It presents "replace ad revenue within 12 months" as a target with the math behind it, deals with the gap directly, and gives the board checkpoints. That should be more convincing to skeptical board members than a promise they can pick apart. You asked to drop ads in January, so I kept that, but the risks section includes cutting ads in stages as a fallback.
+
+**Things to check or fill in before sending:**
+1. **Pilot members:** Are the 212 still paying? If so, say so in the memo. That retention is strong evidence. If many cancelled, change the starting number.
+2. **The first-year gap:** I wrote [reserves / bridge grant] as a placeholder. Name the real source.
+3. **Your ad salesperson:** I suggested moving them into a sponsorship or major-donor role, because an 11-year relationship-builder fits that work well. Only keep it if you mean it and have talked to them first. Board members shouldn't learn about a colleague's job change from a memo.
+4. **The peer newsroom:** I described it as one example, not proof. Add its name if it's OK to share.
+
+<final_document>
+**MEMO**
+
+**To:** Board of Directors
+**From:** [Name], Executive Director
+**Date:** [Date]
+**Re:** Approval to replace display advertising with reader membership, starting January
+
+**Recommendation**
+I ask the board to approve ending display advertising on January 1 and making reader membership our main source of earned revenue, with the goal of fully replacing ad income within 12 months.
+
+**Why now**
+Display ad revenue fell from $131,000 to $84,000 over two years, a 36% drop. If that trend continues, ads will bring in about $65,000 next year and less after that. We would be protecting a shrinking source of income while ads slow our site and undercut the reader relationship we depend on.
+
+**What the pilot showed**
+This spring's six-week pilot signed up 212 members at $8/month with almost no effort: two newsletter mentions and no campaign. That is 1.5% of our 14,000 newsletter subscribers in six weeks. [Add: X of the 212 are still paying today.] A newsroom of similar size in [state] now covers 40% of its budget through membership. It is one example, but it shows the model works at our scale.
+
+**The math**
+- Replacing $84,000 requires about **875 members** at $8/month, or about 6% of our newsletter list.
+- The pilot got to a quarter of that number with no marketing. With a real campaign, annual plans and a higher giving tier, 875 is an ambitious target, but we can reach it.
+- Membership revenue builds over the year. If growth is steady, year one brings in about **$50,000**, leaving a gap of about **$30,000**. I propose covering it from [reserves / a bridge grant from X].
+
+**Checkpoints the board can hold us to**
+- **March 31:** 400 members
+- **June 30:** 550 members. If we are below 450, staff will come back with options, including bringing back some advertising.
+- **December 31:** 875 members, or $7,000/month in recurring revenue
+
+**Staffing**
+Our part-time ad sales lead has 11 years of relationships with local businesses. I propose moving that role to sponsorships and major-donor outreach, which supports membership instead of competing with it. [Confirm with staff member before sending.]
+
+**Risks**
+The main risk is slower growth than planned. The checkpoints let us see that by midyear and adjust. The bigger long-term risk is staying tied to an ad market that is shrinking every year.
+
+**Requested action:** Approve ending display ads effective January 1, the membership plan and targets above, and [bridge funding source] to cover the first-year gap.
+</final_document>

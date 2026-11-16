@@ -1,0 +1,57 @@
+grader: judge-repeat
+graded: '2026-11-16T17:43:06.862451+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 276
+  tags: []
+  notes: extracted 276 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 5
+    honest: 6
+    works_the_facts: 6
+    right_comparison: 7
+    qualification: 6
+    objections: 7
+    fit: 8
+  details:
+    agree: The script gives an honest $10-a-month figure and puts the branch closure
+      first, which may move some Ridgeview retirees, but a fixed-income reader who
+      already voted no gets only a soft 'it's your call' and no strong reason to change
+      their vote.
+    honest: "The arithmetic is right ($640k \xD7 0.19/1,000 \u2248 $122/yr), and dropping\
+      \ the unsupported 'less than a cup of coffee' claim was the right call, but\
+      \ 'the voter pamphlet lists exactly what it pays for' and 'many neighbors feel\
+      \ it's worth that' are not in the brief, and 'more than ever' overstates a 22%\
+      \ rise since 2021."
+    works_the_facts: The cost is correctly worked out per year, month and day for
+      the Ridgeview median, but the $2.3M-a-year total and specific uses are never
+      used to answer 'blank check', and the renter line never notes that renters pay
+      no direct levy.
+    right_comparison: 'The alternative is stated plainly from the facts: the Ridgeview
+      branch closes in July and Sunday hours stay gone, with the 22% rise in visits
+      as the trend.'
+    qualification: The July closure gives a date and a consequence, and the six-year
+      sunset is checkable, but the ballot deadline is left as a placeholder.
+    objections: The 'blank check' and fixed-income objections are met directly and
+      respectfully, though the blank-check answer would be stronger if it named the
+      $2.3M a year and the exact services it funds instead of pointing to a pamphlet.
+    fit: "It fits on one side of a card, runs about 60\u201390 seconds and has the\
+      \ usual canvass structure and response codes, but it leaves out the coffee line\
+      \ without telling the field lead why."

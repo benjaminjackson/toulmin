@@ -1,0 +1,55 @@
+grader: judge-repeat
+graded: '2026-11-16T17:45:55.115339+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 588
+  tags: []
+  notes: extracted 588 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 4
+    objections: 5
+    fit: 8
+  details:
+    agree: The office log and the neighbouring district's results will persuade a
+      sympathetic parent, but a board member who resists still has no real answer
+      on athletics, and the early-drop-off fix has no cost attached.
+    honest: "It rightly avoids promising a graduation gain, but it adds facts the\
+      \ brief doesn't have: teens need 8\u201310 hours, they can't fall asleep before\
+      \ 11 p.m., they wake around 6, other districts faced the same scheduling problems,\
+      \ and the ice packs and crackers."
+    works_the_facts: It derives 72 percent, one in six not graduating on time, $1,000
+      per school day and 'more than the next two combined', but it leaves the one-point
+      attendance gain unconverted and doesn't state the first-period load as more
+      than double the average of the next two periods.
+    right_comparison: The status quo is shown fairly through the visit log and survey,
+      and the neighbouring district is used as the before-and-after case, but staying
+      at 7:25 is never stated as an ongoing cost the way the bus money is.
+    qualification: The pledge to track attendance, tardies and graduation has no target
+      number, no reporting date and no consequence if the results don't come.
+    objections: Cost and drop-off get concrete responses, but athletics is passed
+      to 'ask our neighbors', which leaves the athletic director's after-dark and
+      missed-class concerns largely unmet.
+    fit: It is a proper op-ed with a headline and byline, comes in under 650 words,
+      and is timed to the April 14 vote; it does soften the requested graduation claim,
+      which is justified, and its placeholders still need filling.

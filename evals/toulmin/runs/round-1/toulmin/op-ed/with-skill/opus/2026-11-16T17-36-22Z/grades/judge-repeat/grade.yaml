@@ -1,0 +1,56 @@
+grader: judge-repeat
+graded: '2026-11-16T17:44:54.629527+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 648
+  tags: []
+  notes: extracted 648 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 5
+    objections: 5
+    fit: 7
+  details:
+    agree: The visit log, the sleep survey and the hedged graduation argument make
+      a persuasive case, but a reader who resists on athletics or cost is told to
+      wait for answers rather than given them.
+    honest: It refuses to promise that graduation will rise, which is to its credit,
+      but it claims without support that the neighbouring district 'has been solving'
+      its athletics problems and adds anecdotes such as students arriving without
+      breakfast.
+    works_the_facts: 'It derives useful figures: 412 visits against 369 for the next
+      two periods combined, ''nearly three out of four'' from 640/890, and ''one in
+      six'' not graduating from 84%; it never turns the $180,000 into a per-student
+      or per-day cost, or the one-point attendance gain into school days.'
+    right_comparison: The status quo is described accurately as chronic short sleep
+      and a nurse's office full in first period, though there is no trend data to
+      show whether that is worsening.
+    qualification: The commitment to measure tardies, attendance, visits and graduation
+      every year and revisit if 'the numbers don't move' can be checked, but it sets
+      no target figure or deadline that would trigger the reversal.
+    objections: Cost is weighed openly and the working-parent concern gets a concrete
+      proposal (opening at 7:30), but that proposal has no costing, and the athletics
+      objection is passed to another district instead of being answered.
+    fit: It is a well-shaped op-ed with a headline and byline at roughly 650 words,
+      close to the limit, and the placeholders for school and district names still
+      need filling.

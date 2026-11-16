@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T17:38:45.909920+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 426
+  tags: []
+  notes: extracted 426 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 10
+    right_comparison: 9
+    qualification: 9
+    objections: 6
+    fit: 8
+  details:
+    agree: The arithmetic, the falling-ads trend and the June checkpoint give the
+      ad-background members something concrete to test, but they may hold back because
+      the case against running both is left as a bracketed placeholder and there's
+      no real plan for the ad sales colleague yet.
+    honest: Every figure follows from the brief, the 2027 ad projection is framed
+      as an 'if', the out-of-state example is called 'not a forecast', and the brief's
+      'within a year' claim becomes a stated goal rather than a promise; the only
+      unsupported claim is the staff-time point, and it is flagged for confirmation.
+    works_the_facts: It works out the 36% drop and the roughly 20% yearly decline,
+      a projected $67k for ads in 2027, $20k a year from the pilot, the 875-member
+      target as 6.25% of the list, the 13-a-week pace needed against the 35 a week
+      already reached, about $52k collected in 2027, and a 550-member checkpoint consistent
+      with that pace, all correctly and in their most favourable true form.
+    right_comparison: The alternative is shown as a declining ad stream, not a flat
+      $84k, and the cash gap is measured against both the projected and last year's
+      ad figures.
+    qualification: The checkpoint names a number (550 members), a date (June 30, 2027)
+      and a consequence (options, including sponsorship, brought to the July meeting),
+      and the slowing of sign-ups is named as a real risk.
+    objections: The likely objections (pilot readers were the most loyal, cash shortfall,
+      the long-serving ad colleague) are raised, but 'why not run both', the one the
+      sales-background members will push hardest, gets a thin answer plus a drafting
+      note, and the plan for the colleague is still a placeholder.
+    fit: It is a tight memo with a decision request at the top and fits on about one
+      page, though the stray bracketed instructions to the writer would need to come
+      out before it goes to the board.

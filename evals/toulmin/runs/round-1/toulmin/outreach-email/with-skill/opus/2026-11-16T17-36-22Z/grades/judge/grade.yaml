@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T17:37:03.936079+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 160
+  tags: []
+  notes: extracted 160 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 4
+    objections: 6
+    fit: 9
+  details:
+    agree: Starting with her own $600K figure and showing that a 13% cut covers the
+      cost gives Dana a concrete reason to take a 20-minute call, though she may still
+      be wary of her IT director.
+    honest: Every number matches the brief and the halving is tied to one named customer
+      rather than claimed broadly, but leaving out the weaker 2.8-to-2.2 result lets
+      the best case pass as typical.
+    works_the_facts: It works out the $75,000 annual cost for five sites and the roughly
+      13% break-even against $600K, both correct and favourable, but it never states
+      the stronger point that a halving like the pet distributor's would be worth
+      about $300K a year.
+    right_comparison: Doing nothing is implied as the $600K-a-year loss continuing,
+      which is accurate, but the email never says outright that this cost recurs every
+      year.
+    qualification: The only hedge is "see whether those numbers hold up," which names
+      nothing Dana can check, such as an error-rate target or a trial date, even though
+      the evidence comes from a single customer.
+    objections: '"Sits on top of it" and "three weeks" deal with the fear of replacing
+      the warehouse system, but the email never says how little IT work or system
+      integration is needed, which is what the resistant IT director will ask about.'
+    fit: It is short, broken into phone-sized paragraphs, has a specific subject line
+      and ends with one clear ask, as the brief requested.

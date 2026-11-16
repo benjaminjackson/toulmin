@@ -1,0 +1,53 @@
+grader: judge-repeat
+graded: '2026-11-16T17:46:59.511443+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 158
+  tags: []
+  notes: extracted 158 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 6
+    qualification: 5
+    objections: 6
+    fit: 9
+  details:
+    agree: Opening with her own $600K quote, then a $75K cost that breaks even at
+      a one-eighth cut, gives Dana a clear reason to take a 20-minute call, though
+      her IT director's likely veto is only lightly handled.
+    honest: Every figure traces to the brief and the 54% result sits next to the weaker
+      21% one, but 'the two customers who share their numbers' hides that only 2 of
+      6 customers have reported results.
+    works_the_facts: It correctly works out $75,000 a year for five sites, a one-eighth
+      break-even against $600K, and the 54% and 21% reductions, though it never turns
+      a halving of errors into roughly $300K saved.
+    right_comparison: Doing nothing is implied as the $600K a year continuing, but
+      the email never says so outright or sets that yearly loss directly against the
+      $75K cost.
+    qualification: The 'returns fall by about an eighth' break-even is a numeric condition
+      Dana could check, but it has no timeframe and no consequence if it isn't met.
+    objections: "'Runs alongside the warehouse system\u2026 doesn't replace it' points\
+      \ at the IT concern, but it never says there are no WMS changes and no burden\
+      \ on IT, and the three-week setup could still sound like a project the IT director\
+      \ has to manage."
+    fit: It's short, plain and in five quick paragraphs, works on a phone, and ends
+      with a single, specific request.

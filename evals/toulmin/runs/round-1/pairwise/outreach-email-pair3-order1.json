@@ -1,0 +1,11 @@
+{
+  "task": "outreach-email",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T17-37-46Z",
+  "without_skill_run": "2026-11-16T17-37-19Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "reason": "A shows that $75K a year pays for itself if wrong-item returns fall by about an eighth. It also gives the weaker 21% result next to the 54%, so the claim reads as credible, not cherry-picked. B gives the cost but never weighs it against my $600K problem."
+}

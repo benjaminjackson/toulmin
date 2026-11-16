@@ -1,0 +1,56 @@
+grader: judge-repeat
+graded: '2026-11-16T17:42:10.746980+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 293
+  tags: []
+  notes: extracted 293 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 8
+    qualification: 7
+    objections: 8
+    fit: 8
+  details:
+    agree: 'For a fixed-income Ridgeview voter who opposed the last levy, the strongest
+      pull is the plain local stake: their own branch closes in July without this.
+      The script pairs that with an exact, checkable cost and answers the blank-check
+      worry directly, though it may not turn a firm no.'
+    honest: The figures are accurate and the writer rightly dropped the coffee claim,
+      which isn't true at about $10 a month. 'More than ever' does stretch a 22% rise
+      since 2021, and 'billed to property owners' is a mild inference not in the brief.
+    works_the_facts: "It works out the Ridgeview cost correctly ($640,000 \xD7 0.19/1,000\
+      \ \u2248 $122 a year, about $10 a month) and gives a formula the voter can apply\
+      \ to their own home. It could have used the smaller per-day figure (about 33\
+      \ cents) or the city median for contrast."
+    right_comparison: 'The no-vote outcome is stated as the brief gives it: the Ridgeview
+      branch closes in July and Sunday hours stay gone. Pairing that with the 22%
+      rise in visits shows the trend running the other way.'
+    qualification: 'The hedges are concrete and checkable: a fixed rate, a six-year
+      end date unless voters renew, and a way to work out your own bill. A specific
+      end year would make them sharper.'
+    objections: It meets the newspaper's 'blank check' line and the fixed-income worry
+      head-on with figures from the brief, and it raises no objections the facts already
+      settle.
+    fit: It fits on one card, the main pitch reads in well under 90 seconds, and the
+      branching responses are useful for volunteers. It doesn't include the coffee
+      line the field lead asked for, though leaving it out was the right call.

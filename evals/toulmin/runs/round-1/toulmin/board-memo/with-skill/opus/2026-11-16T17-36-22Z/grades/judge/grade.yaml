@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T17:37:32.619354+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 501
+  tags: []
+  notes: extracted 501 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 9
+    objections: 7
+    fit: 7
+  details:
+    agree: The arithmetic, the falling-ad trend and the July checkpoint give the two
+      sales-minded members a case they can test, but the open placeholders on the
+      cash gap, the cost of selling ads and the plan for the 11-year colleague leave
+      their biggest questions unanswered.
+    honest: The memo turns the brief's 'will replace' into a target with a checkpoint
+      and uses placeholders rather than inventing figures, though 'it shows the model
+      works for organizations like us' leans hard on one anecdote and 'They have been
+      told' states a fact the brief never gave.
+    works_the_facts: The memo derives 875 members, $20,352, 1.5% vs 6%, 55 a month
+      needed against about 150 a month already reached, a 20% yearly decline and about
+      $50k of 2027 cash, all correctly, but it projects $67k of ads for 2027 when
+      that is the 2026 figure, which understates the decline.
+    right_comparison: Keeping ads is shown as a falling line rather than a steady
+      $84k, which is right, but the off-by-a-year projection makes the status quo
+      look better than the trend supports, and the selling costs are left blank.
+    qualification: The checkpoint names a date (June 30), a target (500), a trigger
+      (under 400) and a consequence (options brought to the July meeting), all of
+      which the board can check.
+    objections: The ad-minded readers' likely objections (early-adopter bias, the
+      2027 cash dip, why not run both, loyalty to the ad colleague) are each raised
+      and met, but the cash-gap and staff answers are placeholders.
+    fit: It is a memo of roughly one page, as asked, though it runs tight and the
+      many bracketed blanks keep it from being ready to send.

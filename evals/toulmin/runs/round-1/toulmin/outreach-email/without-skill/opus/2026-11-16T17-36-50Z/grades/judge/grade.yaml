@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T17:37:18.968949+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 114
+  tags: []
+  notes: extracted 114 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 3
+    right_comparison: 5
+    qualification: 3
+    objections: 6
+    fit: 9
+  details:
+    agree: Opening with her own $600K quote and saying the tool sits on top of the
+      WMS would likely get Dana to read to the end, but with no cost or likely savings
+      for her five sites, a call isn't clearly worth her time.
+    honest: Every number is accurate and nothing is made up, and it avoids the inflated
+      'cut errors in half' claim, but it shows only the best of six customers as if
+      typical and leaves out the 2.8-to-2.2 result.
+    works_the_facts: 'It doesn''t work out what the brief''s numbers imply: a 54%
+      drop would be roughly $325K a year off her $600K, against $75K a year for five
+      sites at $1,250 each.'
+    right_comparison: The alternative of carrying on as now is implied by the $600K
+      quote, but it never says the loss continues every year or puts it next to the
+      price.
+    qualification: The only hedge is a vague 'whether that could work', with no checkable
+      condition, such as the range of results across customers or the error rate she
+      would need to see after a set number of weeks.
+    objections: Saying it sits on top of the WMS and doesn't replace it answers the
+      IT director's main objection, but it doesn't say how little work his team would
+      have to do during the three-week setup.
+    fit: It is short, easy to scan on a phone and ends with one clear ask, which is
+      what the brief wanted.

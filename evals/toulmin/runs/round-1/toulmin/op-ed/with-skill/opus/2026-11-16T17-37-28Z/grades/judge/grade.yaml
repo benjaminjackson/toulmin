@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T17:38:33.694725+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 655
+  tags: []
+  notes: extracted 655 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 6
+    objections: 7
+    fit: 8
+  details:
+    agree: The nurse's firsthand numbers, the AAP recommendation and the nearby district
+      make a persuasive case, and the plan for supervised early drop-off speaks to
+      working parents, but a skeptical board member is left with only vague answers
+      on athletics and the $180,000.
+    honest: It explicitly declines to promise a graduation gain and reports the brief's
+      figures accurately, though it adds unsourced claims about adolescent body clocks
+      and 'failed first-period courses' that the brief doesn't support.
+    works_the_facts: It works out 72 percent, 'one in six' from 84 percent, and first
+      period exceeding the next two combined, but it doesn't put the $180,000 per
+      student or per day, and it doesn't say what the attendance point or the 31 percent
+      drop would mean at this school.
+    right_comparison: It sets the bus cost against what the current schedule already
+      costs (nurse visits and the one-in-six non-graduation rate), which is fair,
+      though the brief gives no trend data and the piece doesn't claim any.
+    qualification: It names checkable measures (tardies, attendance, course failures
+      after year one, then graduation rates for the first full cohort), but it sets
+      no target number and the only consequence of a miss is that 'the community deserves
+      to know.'
+    objections: It meets all three objections head-on and offers a concrete fix for
+      drop-off, but the athletics answer is only 'ask the other district,' and the
+      cost answer is a general weighing with no figures.
+    fit: This is a well-formed op-ed with a headline and byline, at or just about
+      the 650-word cap, and it uses the brief's facts, though it deliberately softens
+      the graduation claim the brief asked it to make.

@@ -1,0 +1,11 @@
+{
+  "task": "outreach-email",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T17-36-22Z",
+  "without_skill_run": "2026-11-16T17-36-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "reason": "A gives the price and a simple break-even point ($75K/year for five sites, paying for itself at about a 13% cut in $600K of returns), so a VP of operations can judge it quickly. Both emails say it sits on top of the existing warehouse system, so neither handles the IT director's resistance better than the other."
+}

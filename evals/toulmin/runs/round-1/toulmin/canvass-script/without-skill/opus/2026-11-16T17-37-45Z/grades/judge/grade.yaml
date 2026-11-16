@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T17:38:27.873165+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 276
+  tags: []
+  notes: extracted 276 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 7
+    objections: 7
+    fit: 9
+  details:
+    agree: The local branch closing in July and the plain $10-a-month figure give
+      a skeptical retired Ridgeview homeowner real reasons to reconsider, but the
+      fixed-income answer leans on vague peer pressure rather than a concrete benefit
+      to them.
+    honest: The cost math is correct, and the script rightly drops the coffee claim,
+      which is false for Ridgeview, but it invents 'the voter pamphlet lists exactly
+      what it pays for' and 'many neighbors feel it's worth that', and 'more than
+      ever' overstates a 22% rise since 2021.
+    works_the_facts: It correctly derives about $122 a year, $10 a month and 33 cents
+      a day from the $640,000 Ridgeview median, but it never uses the $2.3 million
+      total or the six-year cap to show the money is bounded.
+    right_comparison: It states the alternative from the brief (the Ridgeview branch
+      closes in July) and gives the usage trend, though it doesn't say Sunday hours
+      stay gone without the levy.
+    qualification: The closure is tied to a checkable date (July) and a clear consequence,
+      and the six-year end date is stated, though the ballot deadline is still a placeholder.
+    objections: It answers the 'blank check' letter with the fixed rate and six-year
+      term, and it meets the fixed-income worry honestly without arguing, but it could
+      have named the $2.3 million and its specific uses to make the blank-check rebuttal
+      stronger.
+    fit: It is a tight one-sided card with branching lines and a tally code, and it
+      fits within 60 to 90 seconds at the door.

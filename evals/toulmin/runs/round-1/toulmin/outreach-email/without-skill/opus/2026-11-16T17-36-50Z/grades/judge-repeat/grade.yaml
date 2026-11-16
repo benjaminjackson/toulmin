@@ -1,0 +1,54 @@
+grader: judge-repeat
+graded: '2026-11-16T17:47:25.936572+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 114
+  tags: []
+  notes: extracted 114 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 3
+    right_comparison: 4
+    qualification: 3
+    objections: 6
+    fit: 9
+  details:
+    agree: The hook quoting her own $600K figure and the 'sits on top of your WMS'
+      line make a 20-minute call plausible, but nothing connects the result to her
+      money or tells her what her IT director would actually have to do, so the reader
+      who resists has little reason to say yes.
+    honest: Every number comes from the brief, and the draft rightly drops the 'cut
+      errors in half' claim in favour of one named result, but it shows only the best
+      of six customers and leaves out the 2.8-to-2.2 case, which hints at a wider
+      pattern than the facts support.
+    works_the_facts: 'The figures are left raw: the draft never says this was a 54%
+      drop, never puts that against her $600K (roughly $300K if returns fall in line),
+      and never sets it against the cost of about $75K a year for five sites.'
+    right_comparison: The $600K yearly loss is named in the opening and then dropped,
+      so the cost of doing nothing is never set against the cost of the product.
+    qualification: One customer's result is offered as the whole proof, with no hedge
+      she could check, such as a one-site pilot with a target error rate by a stated
+      month and what happens if it misses.
+    objections: Saying it doesn't replace the WMS partly answers the IT director's
+      likely veto, but the draft doesn't say how much IT work setup needs or whether
+      it touches the WMS at all, and price, which the brief supplies, is left out.
+    fit: It's short, made of brief paragraphs, easy to read on a phone and ends with
+      a clear ask, as the brief requested.

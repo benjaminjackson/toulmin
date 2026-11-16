@@ -1,0 +1,59 @@
+grader: judge-repeat
+graded: '2026-11-16T17:46:20.839550+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 652
+  tags: []
+  notes: extracted 652 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 6
+    honest: 5
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 3
+    objections: 6
+    fit: 8
+  details:
+    agree: The nurse's-office numbers and the careful line on graduation would move
+      a sympathetic parent, but a board member weighing $180,000 and the after-dark
+      practices gets values talk and a to-do list, not answers that would change a
+      resisting vote.
+    honest: 'The piece rightly declines to promise a higher graduation rate, but it
+      adds things the brief doesn''t support: the eight-to-ten-hour sleep need, the
+      biology of the teenage body clock, students who ''almost always'' say they''re
+      exhausted, ''failed first-period classes,'' and the claim that the other district
+      ''faced the same issues.'''
+    works_the_facts: 'It turns the figures into useful forms: 640 of 890 becomes ''nearly
+      three out of four,'' 84% becomes ''one in six don''t finish,'' and first-period
+      visits are set against second and third combined. It never gives the 65-minute
+      gap, the cost per student, or what one point of attendance would mean here.'
+    right_comparison: Keeping the 7:25 start is shown concretely through the nurse's-office
+      pattern and the AAP gap, but nothing shows whether things are getting worse
+      or holding steady, so the reader sees a snapshot rather than a trend.
+    qualification: 'The hedge ''won''t fix that by itself'' is honest but gives the
+      reader nothing to check: no target for tardies, attendance or graduation, no
+      date to review it, and nothing that happens if the results don''t come.'
+    objections: It names all three objections fairly and offers plausible fixes for
+      drop-offs and athletics, but the bus cost gets only a 'what we value' answer,
+      and the fixes rest partly on an invented claim about how the other district
+      handled the same problems.
+    fit: It has the right op-ed shape, with a headline, a first-person voice, a call
+      to the April 14 meeting and a byline, and at roughly 650 words it sits right
+      at the limit.

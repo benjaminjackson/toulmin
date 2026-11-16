@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T17:37:04.793130+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 211
+  tags: []
+  notes: extracted 211 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 6
+    objections: 5
+    fit: 9
+  details:
+    agree: The half-price framing and the honest acknowledgement of Eastside could
+      move a lapsed donor, but someone still upset about the closure gets no explanation
+      and no sign that anything has changed, so they may not give.
+    honest: The email rightly drops the brief's 'guarantee every child a place', which
+      $70,150 of need against at most $30,000 matched could not support, and says
+      'every child we can fund' instead; the only slight overreach is 'each of them
+      has asked to learn an instrument'.
+    works_the_facts: It works out $575 for a matched year and $85 becoming $170, both
+      well chosen, but it never gives the total need ($70,150) or how many children
+      the $15,000 match could fund, about 26 if it is used in full.
+    right_comparison: The alternative of children left waiting is only implied, and
+      the email never says how many will stay unfunded or what happens to them after
+      January if gifts fall short.
+    qualification: The December 31 deadline and the $15,000 cap are concrete and checkable,
+      but 'every child we can fund' gives no number the reader could use to see whether
+      the goal was met.
+    objections: The Eastside closure is named and treated with respect, but the email
+      gives no reason for it and no update, such as whether Eastside families are
+      served now, so this reader's actual grievance is acknowledged rather than answered.
+    fit: It is a year-end email of roughly 220 words with a subject line, a clear
+      call to action and the executive director's signature, as the brief asked.

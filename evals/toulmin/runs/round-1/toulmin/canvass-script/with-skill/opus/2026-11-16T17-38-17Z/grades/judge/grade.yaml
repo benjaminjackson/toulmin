@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T17:39:21.299583+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 350
+  tags: []
+  notes: extracted 350 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 8
+    qualification: 7
+    objections: 7
+    fit: 7
+  details:
+    agree: A retired Ridgeview homeowner who voted no gets an honest $10-a-month figure
+      and a concrete local stake (their own branch closing in July), which could move
+      some of them, but the script gives a fixed-income skeptic little beyond the
+      number and the six-year limit.
+    honest: Every number in the table checks out against the 19-cent rate, and the
+      script correctly drops the coffee line, but 'you won't get a tax bill' for renters
+      and 'a specific job' slightly overstate what the brief establishes about pass-through
+      and how the money is restricted.
+    works_the_facts: The rate is turned into accurate yearly and monthly costs for
+      the reader's own home value, but the script skips smaller true framings such
+      as about 33 cents a day, and it never uses the $2.3M or the city median.
+    right_comparison: The alternative is stated plainly as the Ridgeview branch closing
+      in July with no Sunday hours, set against visits rising 22% since 2021.
+    qualification: The one condition, that the branch closes in July if the measure
+      fails, carries a date and a consequence the reader can check, though it doesn't
+      say who decided that or where to verify it.
+    objections: The 'blank check' and fixed-income objections are met with the fixed
+      rate, the six-year sunset and the reader's actual number, though the fixed-income
+      reply is thin and the 'Don't argue' instruction leaves the volunteer little
+      to say after that.
+    fit: "It is a scannable 60\u201390 second door script with a close and branching\
+      \ responses, but with eight sections, a table and a list of don'ts it is tight\
+      \ for one side of a card, and it rightly overrides the requested coffee line."

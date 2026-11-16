@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T17:37:14.946906+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 640
+  tags: []
+  notes: extracted 640 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 3
+    objections: 5
+    fit: 7
+  details:
+    agree: The first-period log and the sleep survey make a persuasive case to a sympathetic
+      parent, but a resistant reader who has heard the athletic director and who drops
+      a child off before an 8 a.m. shift gets general promises rather than a plan,
+      so they may stay undecided.
+    honest: 'The graduation claim is carefully hedged and the brief''s numbers are
+      used accurately, but the piece adds facts the brief didn''t supply: teens need
+      eight to ten hours, the body clock shifts later, students wake around 6 a.m.,
+      and kids say they got five hours of sleep.'
+    works_the_facts: It turns 640 of 890 into 72 percent, 84 percent into about one
+      in six, and points out that 412 is more than 198 plus 171, but it never works
+      out the $180,000 per student or per day, and it doesn't say what a one-point
+      attendance gain means in days or students.
+    right_comparison: Keeping 7:25 is described only through vague costs (lost class
+      time, reteaching, long-term harm), with no trend and no figures for what continuing
+      as now produces.
+    qualification: It says plainly that a later bell alone won't fix graduation, but
+      it names no checkable test, such as a target graduation or attendance figure
+      by a set date and what should happen if it is missed.
+    objections: 'It states each objection fairly, but the answers are thin: ask the
+      other district, provide a supervised drop-off place, and protect class time,
+      none with specifics; the $180,000 is set against unquantified offsetting costs.'
+    fit: It is a proper op-ed with a byline and a clear call to act at the April 14
+      meeting, but at roughly 660 words it runs at or slightly over the 650-word limit,
+      and it still has bracketed placeholders to fill in.

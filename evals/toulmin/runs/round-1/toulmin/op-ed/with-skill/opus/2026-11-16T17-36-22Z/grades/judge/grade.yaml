@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T17:37:27.968942+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 648
+  tags: []
+  notes: extracted 648 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 5
+    objections: 6
+    fit: 8
+  details:
+    agree: The nurse's-office evidence and the measured, non-overselling tone would
+      win over many parents, but a board member who shares the athletic director's
+      view or worries about cost gets suggestions rather than answers ("ask them how",
+      a 7:30 supervised building with no cost attached), so a resisting reader may
+      stay unconvinced.
+    honest: The piece rightly refuses to promise a higher graduation rate, but it
+      claims the other district "has been solving" the athletics problems with no
+      support in the brief, rounds 72% up to a flat "three out of four" in the cost
+      paragraph, and adds anecdotes like students arriving without breakfast.
+    works_the_facts: It works out that 412 visits beat the 369 from the next two periods
+      combined, turns 640/890 into nearly three in four, and turns 84% into one in
+      six not graduating on time, but it never puts the $180,000 into a per-student
+      or per-day figure that would make it look smaller.
+    right_comparison: The status quo is set out fairly from the brief's numbers (short
+      sleep, a crowded first-period office, an 84% graduation rate), but the brief
+      gives no trend and the piece claims none, so the comparison is accurate but
+      fixed at one point in time.
+    qualification: Asking for yearly public tracking and a revisit "if the numbers
+      don't move" names measurable outcomes, but it sets no target number, no review
+      date and no specific consequence, so the reader can't actually check it.
+    objections: All three objections are named honestly, but athletics is passed off
+      to another district, the supervised 7:30 building quietly adds a cost of its
+      own, and the $180,000 is weighed only through rhetoric.
+    fit: This is a properly shaped op-ed with a headline, a clear ask before April
+      14 and a byline, and it runs about 650 words, right at the limit.

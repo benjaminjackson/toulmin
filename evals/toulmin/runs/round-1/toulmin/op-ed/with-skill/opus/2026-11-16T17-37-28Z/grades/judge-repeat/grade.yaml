@@ -1,0 +1,61 @@
+grader: judge-repeat
+graded: '2026-11-16T17:45:09.760297+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 655
+  tags: []
+  notes: extracted 655 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 6
+    objections: 7
+    fit: 9
+  details:
+    agree: A parent or board member who is undecided would likely be moved by the
+      school's own nurse-visit and sleep data, the nearby district's results and the
+      concrete drop-off proposal, but an athletics-minded resister gets only a 'plan
+      carefully' answer, and the $180,000 is never weighed against a concrete benefit.
+    honest: The writer wanted to say a later start will raise graduation, and the
+      piece declines to promise that, only stating an expectation; it adds a little
+      outside material (the claim about adolescent body clocks, and 'failed first-period
+      courses' as a mechanism) that is not in the brief but is not presented as local
+      data.
+    works_the_facts: It works out 72 percent from 640 of 890, turns 84 percent into
+      'one in six' not finishing, and shows first period beating second and third
+      combined; it does not test what the neighbouring district's one-point attendance
+      gain might mean for students here, and it leaves the cost unweighed.
+    right_comparison: It describes the current 7:25 schedule as having its own costs
+      (first-period visits and the share of students without a diploma) rather than
+      treating it as cost-free, which is accurate to the brief, though no trend data
+      was available.
+    qualification: It names checkable measures (first-year tardies, attendance, course
+      failures, then the graduation rate of the first full cohort) and a rough timing,
+      but sets no numeric threshold and no consequence beyond 'the community deserves
+      to know.'
+    objections: The drop-off concern gets a concrete answer (supervised library from
+      7:30, priced alongside the buses) and the cost is acknowledged, but the athletics
+      reply only points the board to the other district without saying how that district
+      solved the problem.
+    fit: It is a properly shaped op-ed with a headline, a first-person voice, a call
+      tied to the April 14 vote and a byline, and it comes in at roughly 600 words,
+      under the 650-word limit.

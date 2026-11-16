@@ -1,0 +1,11 @@
+{
+  "task": "outreach-email",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T17-37-03Z",
+  "without_skill_run": "2026-11-16T17-36-50Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "reason": "B gives me a business case: $75K a year for five sites against a conservative $120K saving, and it admits that results vary (2.8 to 2.2). That makes the 4.1 to 1.9 result believable, not cherry-picked. A only shows the best case and leaves out the price, so I'd have less reason to take the call."
+}

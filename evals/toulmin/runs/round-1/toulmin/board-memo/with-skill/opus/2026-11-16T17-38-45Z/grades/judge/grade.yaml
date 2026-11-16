@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T17:40:00.435354+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 444
+  tags: []
+  notes: extracted 444 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 8
+    objections: 7
+    fit: 8
+  details:
+    agree: The arithmetic, the June checkpoint and the frank 2027 cash gap give the
+      two ad-background members solid ground to vote yes, though the unfilled placeholders
+      (why not run both, pilot retention, funding the gap, the colleague's plan) are
+      the points they will press hardest.
+    honest: It drops the brief's overclaim that membership 'will replace ad revenue
+      within a year', saying instead that the run-rate reaches $84k by December while
+      only about $55k is collected, and it uses placeholders rather than inventing
+      figures, though projecting the trend to $67k in 2027 likely understates the
+      decline by a year.
+    works_the_facts: 'The figures check out: 1.5% conversion, $20k a year, 875 members
+      at 6% of the list, 55 a month needed against about 150 a month achieved, about
+      $55k collected in 2027 and about 540 by June. The one slip is the ad trend:
+      with $84k last year (2025), 2026 is already about $67k, so 2027 would be closer
+      to $54k, which would make the comparison more favourable than stated.'
+    right_comparison: It sets membership against the declining ad trend, not against
+      a flat $84k, and gives a gap range against both figures, though the trend appears
+      to be shifted by a year.
+    qualification: The June 30 checkpoint names a member count, a threshold and a
+      consequence (a return to the board in July with options, including sponsorships),
+      but the threshold itself is still a placeholder.
+    objections: It anticipates the early-adopter objection, the revenue gap, the comparison
+      newsroom's different market and the longtime colleague, but leaves the 'why
+      not both' answer and the colleague's plan as blanks, and does not address the
+      sales-minded view that more ad effort could slow the decline.
+    fit: It is a tight, sectioned board memo of roughly one page that opens with the
+      decision requested.

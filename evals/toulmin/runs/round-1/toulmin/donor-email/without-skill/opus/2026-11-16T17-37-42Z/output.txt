@@ -1,0 +1,42 @@
+I didn't include the line saying a gift this month guarantees every child on the waiting list a place in January, because the numbers don't support it:
+
+- **What it would take:** 61 children × $1,150 is **$70,150**.
+- **The most the match can produce:** $30,000, which is $15,000 from donors plus $15,000 matched.
+- **Even if everyone gave:** if all 340 lapsed donors gave their old average of $85, you'd raise $28,900, or $57,800 with the match. That's still short.
+- **A realistic result:** last year's email raised $1,240. Even double that with the match comes to about $5,000, which covers roughly 4 children.
+
+Your audience already has a reason to distrust you, and a former board member forwards your emails with commentary. A promise that can't be kept is the one thing that could make this email backfire. So I wrote it around what's true and still strong: the match doubles their gift, and $575 now pays for a full year for one child.
+
+Two notes:
+- **Eastside:** I acknowledged the closure briefly, with no excuses and no new promises. If you can add one true sentence about what happened to the Eastside students (for example, how many kept taking lessons at another location), it will do more than any apology. I left a placeholder for it. Delete it if you don't have that.
+- **Spring update:** the email promises a spring report on how many children started lessons. Only keep that line if you're sure you'll send it. Following through is what wins lapsed donors back for good.
+
+The email body is about 225 words.
+
+<final_document>
+**Subject:** Your gift counts twice this December
+
+Dear [First Name],
+
+Right now, 61 children are on our waiting list for subsidized music lessons. A year of weekly lessons costs $1,150 per child, and we don't yet have the funds to bring all of them in.
+
+I also know that many of you stepped away from [School Name] after we closed our Eastside branch in 2022. That was a hard decision, and it was hard on the families who relied on it. I understand why some of you were disappointed, and I'm not asking you to forget it. [Optional: one true sentence about what happened to Eastside students since.]
+
+I'm writing because this month, coming back goes further than usual. A family foundation will match every gift from a returning donor, dollar for dollar, up to $15,000, through December 31.
+
+That means:
+- $85 becomes $170
+- $575 becomes $1,150, which pays for a full year of lessons for one child
+- Every gift moves children off the waiting list sooner
+
+We'll begin placing children in January, in waiting-list order, as funding allows. In the spring, I'll write to tell you exactly how many children started lessons because of this campaign.
+
+**[Give now. Your gift is doubled through December 31.]**
+
+Thank you for what you gave before. I hope you'll consider giving again.
+
+With gratitude,
+
+[Name]
+Executive Director, [School Name]
+</final_document>

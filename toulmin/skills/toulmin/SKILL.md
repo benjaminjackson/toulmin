@@ -66,7 +66,8 @@ Turning the parts into prose:
 - **State the warrant when the reader does not already hold it, or when saying it adds force. Leave it unstated when the reader takes it for granted.** A campus administrator knows no more parking can be built, so an argument for a bus service does not need to say so. The director of the bus company does not know that, and without it the facts do not lead anywhere. Spelling out a warrant the reader already holds reads as talking down to them.
 - Always know the warrant, even when it stays off the page. An argument whose warrant you cannot write down is one you do not understand yet.
 - Use the reader's own concerns as grounds where the facts allow. The restaurant owners are told about staff turnover and profit, not about fairness to waitresses.
-- Deal with a rebuttal in the prose when the reader is likely to raise it themselves. Leave it out when they are not, but keep the answer ready.
+- Deal with a rebuttal in the prose when the reader is likely to raise it themselves, and answer it: give the reason, say what has changed, or say what the writer will do. Naming an objection and then asking the reader to look past it is not an answer. If the user's facts hold no answer, tell the user so, outside the piece. When the reader already holds something against the writer, deal with it before the ask. Leave a rebuttal out when the reader is unlikely to raise it, but keep the answer ready.
+- Say what happens if the reader says no, in the user's own figures. The reader weighs the request against doing nothing, and a piece that leaves that side blank lets them assume doing nothing costs nothing.
 - Do not label the parts in the finished piece. The reader should see an argument, not a diagram.
 
 ### Checking an argument

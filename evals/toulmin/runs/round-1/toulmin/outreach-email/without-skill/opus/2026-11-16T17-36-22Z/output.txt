@@ -1,0 +1,25 @@
+I wrote it around your biggest customer's result rather than "we cut picking errors in half." Here's why:
+
+- **Only one customer cut errors in half.** The pet-supply distributor went from 4.1 to 1.9 per 1,000 lines, which is 54% fewer errors. The other customer that tracks numbers went from 2.8 to 2.2, which is about 21% fewer. "We cut picking errors in half" sounds like the typical result. Dana runs operations at five warehouses and will ask for the average across customers on the first call. If the answer is "one did, one got about 20%," she'll stop trusting the rest of what you say. "Our largest customer cut mis-picks by more than half" is true and still gets the result across.
+- **I named the type of customer, not the company.** Check that the pet-supply distributor is willing to be a reference before you offer one by name.
+- **The IT director comes up in the second paragraph.** She'll likely forward this to him, so it says plainly that you sit on top of their warehouse system and don't replace it. I didn't say "no integration required," because I don't know what your setup involves. If it really doesn't change their system at all, say that outright, since it's your strongest point for him.
+- **I left out the price and any savings estimate.** Five sites at $1,250 is $75,000 a year, which is small next to her $600,000. But estimating what she'd save from one customer's result would be guessing. Save the numbers for the call.
+
+<final_document>
+Subject: Wrong-item returns: one distributor cut theirs by more than half
+
+Hi Dana,
+
+In an interview last spring you said wrong-item returns cost you north of $600,000 a year. That number is why I'm writing.
+
+We make pick-verification software. A worker scans each item with a phone camera, and if it's the wrong item, we flag it before the box is sealed. Our largest customer is a pet-supply distributor with 3 warehouses. Over their first five months, their mis-picks went from 4.1 to 1.9 per 1,000 order lines.
+
+It sits on top of your existing warehouse management system. It doesn't replace it or require re-platforming. Setup takes about three weeks.
+
+Would you be open to a 20-minute call to see if this could work in your buildings?
+
+Best,
+[Your name]
+Co-founder, [Company]
+[Phone]
+</final_document>

@@ -1,0 +1,54 @@
+I've written the op-ed, but it doesn't say flatly that an 8:30 start will raise the graduation rate. Your facts don't support that sentence yet, and a board member would push back on it.
+
+**What your facts support.** Your evidence is about sleep, first period, tardies and attendance. None of it is about graduation. The district two counties over reported fewer tardies and slightly better attendance, but not a graduation figure. And 84% is our starting point, not evidence of change. A board member will ask, "Did *their* graduation rate go up?" Nothing you have answers that, so a flat promise invites the question in public.
+
+**What I wrote instead.** The piece says a later start goes after the main reason students fall behind that you see every day: first period. It calls it the cheapest place to start raising our 84%. It closes with a commitment the board can hold you to. That commitment is to track first-period visits, tardies and attendance, report back after a year, and say so publicly if nothing moves. If you'd still rather make the bold claim, the fix is better evidence, not stronger wording: get the other district's graduation rates from before and after the change.
+
+**The argument underneath:**
+- **Claim:** the board should vote yes on April 14.
+- **Grounds:**
+  - 412 first-period visits, against 198 and 171 in second and third period.
+  - 640 of 890 students (72%) sleep under 7 hours.
+  - The other district's 31% drop in first-period tardies.
+  - The AAP recommendation of no earlier than 8:30.
+- **Link:** students miss school and fall behind one class at a time. A start time that fits teenage sleep cuts that loss where it's worst.
+- **Objections answered in the piece:** the $180,000 bus cost, parents with 8 a.m. shifts, and athletics.
+
+**Check these before you submit:**
+1. **The other district's name.** Fill in the placeholder. Also confirm the superintendent is fine being quoted from their remarks to our board.
+2. **Opening the building at 7:15.** That's my suggestion for families with 8 a.m. shifts, not something the district has offered. Keep it only if you're comfortable proposing it.
+3. **The teen-sleep point.** The line that teenagers' body clocks shift later, so most can't fall asleep much before 11 p.m., is the reasoning behind the AAP recommendation. It's well established, but I added it; it wasn't in your notes.
+4. **The other district's athletics.** The piece suggests the board ask them how they handled practices and games. Even better, call their athletic director first and quote the answer.
+5. **The obvious objection to your visit log.** Someone may say first period is always the nurse's busiest period because it's when students arrive. The other district's nurse visit numbers would answer that if you can get them.
+
+The piece is about 640 words.
+
+<final_document>
+**Let our teenagers sleep: Vote yes on an 8:30 start**
+
+*By [Name], school nurse, [School Name] High School*
+
+I keep a log of every student who walks into my office. Last fall, 412 of those visits came during first period: headaches, stomachaches, kids who put their heads down in class and couldn't keep their eyes open. Second period brought 198 visits. Third period brought 171. First period alone outnumbered the two after it combined.
+
+This year our health class surveyed the student body. Of the 890 students who answered, 640 said they sleep less than seven hours on a school night. That's nearly three in four.
+
+These numbers fit together. Around puberty, teenagers' body clocks shift later, and most can't fall asleep much before 11 p.m. however early they go to bed. At 7:25 we ask them to be in their seats and ready to learn at an hour their bodies still treat as night. That's why the American Academy of Pediatrics recommends that high schools start no earlier than 8:30 a.m. On April 14, our school board will vote on exactly that change.
+
+We don't have to guess what happens next. [District name], two counties over, moved to 8:30 three years ago. Their first-period tardies fell 31 percent, and their superintendent told our own board that attendance rose by about a point.
+
+That matters beyond the morning bell. Our four-year graduation rate is 84 percent, so roughly one in six of our students doesn't graduate on time. Students rarely fall off track all at once. They fall behind one missed class at a time, and right now the class they miss most is first period. It's also the class where they show up but can't stay awake. A later start won't solve every reason a student falls behind. It does go after the one I see every morning, and it's the step the nation's pediatricians recommend. If we're serious about raising that 84, this is the cheapest place I know to start.
+
+Cheap isn't free, and the concerns I've heard are fair ones.
+
+**The buses.** The district says the new bus contract would cost an extra $180,000 a year. That's real money. Weigh it against what we already pay when a tired student falls behind: the failed class taken again, the credits made up in summer school, the senior who doesn't graduate.
+
+**Working parents.** Many families drop students off on the way to 8 a.m. shifts. The answer is to open the building early. The board could open the library or cafeteria at 7:15 with an adult on duty, so those students have a safe, warm place to eat breakfast and do homework. A later start should never mean a kid waiting outside a locked door.
+
+**Athletics.** Our athletic director is right that practices would end after dark from November on, and that some away games would pull athletes out of last period. These are real scheduling problems, and they're also the kind schools solve. [District name] has been solving them for three years, and our board should ask how. Think about the trade, too. Today every student pays the cost in first period, every day. Under a later start, a smaller group of athletes would sometimes miss last period, and coaches and teachers can plan around that.
+
+I'm not asking the board to take this on faith. I'm asking it to vote yes and then measure. I'll keep logging first-period visits. The district can track tardies, attendance and course failures, and report those numbers publicly after the first year. Graduation rates take four years to tell their story, but these early signs will show whether we're headed the right way. If they don't improve, I'll be the first to say so.
+
+Right now, the busiest hour in my office is the first hour of the school day. Our students are telling us something with their headaches and their heavy eyelids. On April 14, I hope the board listens.
+
+*[Name] has been the school nurse at [School Name] High School for [X] years.*
+</final_document>

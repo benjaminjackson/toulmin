@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T17:39:47.327423+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 674
+  tags: []
+  notes: extracted 674 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 5
+    objections: 6
+    fit: 6
+  details:
+    agree: The visit log and survey make a clear, personal case, but a board member
+      who doubts the athletic and bus costs gets reassurance more than answers, so
+      they may stay unconvinced.
+    honest: 'The piece rightly stops short of promising a higher graduation rate,
+      but it adds facts the brief doesn''t support: the body-clock claim and the 11
+      p.m. figure, the claim that first period is the class students miss most, and
+      the line that every student pays the cost every day.'
+    works_the_facts: Useful figures are worked out (412 against 369 combined, about
+      three in four sleeping under seven hours, one in six not graduating on time),
+      but the $180,000 is never put per student and the one-point attendance gain
+      is never turned into school days.
+    right_comparison: Today's 7:25 start is shown through real first-period data,
+      and the comparison district is used fairly, but the piece never says what happens
+      to the 84% if nothing changes.
+    qualification: The promise to track tardies, attendance and course failures and
+      report after year one is checkable, but it sets no target numbers and no consequence
+      if they're missed beyond 'I'll say so.'
+    objections: All three objections are raised fairly, but the bus answer is a vague
+      trade-off, the athletics answer passes the work to the other district, and the
+      plan to open the building at 7:15 brings its own staffing cost that the piece
+      never mentions.
+    fit: It is a well-formed op-ed with a headline and byline, but at roughly 700
+      words or more it runs past the 650-word limit.

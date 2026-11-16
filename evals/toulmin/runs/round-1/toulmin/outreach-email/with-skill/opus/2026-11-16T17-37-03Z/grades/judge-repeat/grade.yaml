@@ -1,0 +1,54 @@
+grader: judge-repeat
+graded: '2026-11-16T17:46:45.502374+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 167
+  tags: []
+  notes: extracted 167 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 4
+    objections: 6
+    fit: 9
+  details:
+    agree: The email opens with Dana's own $600K figure, shows a conservative case
+      where the savings beat the $75K cost, and asks for a small 20-minute call, so
+      a busy VP could plausibly reply, but nothing about IT effort would move a director
+      who resists change.
+    honest: "The 'more than half' claim is limited to the one customer where it's\
+      \ true (4.1\u21921.9 is about 54%), and the smaller 2.8\u21922.2 result is shown;\
+      \ the only omission is that just two of six customers have shared numbers."
+    works_the_facts: It works out the full five-site cost ($75K) and checks it against
+      a conservative 20% case ($120K), which is close to the real 21% result; it doesn't
+      give the upside (about $320K at a 54% cut) or the net figure.
+    right_comparison: 'The alternative is implied: keep losing about $600K a year.
+      It is tied to her own number, but the email never says outright that doing nothing
+      keeps that cost.'
+    qualification: '''Not every site sees a drop that big'' is an honest hedge, but
+      it gives her nothing to check: no pilot site, no target rate, no date and no
+      consequence if results fall short.'
+    objections: '''Doesn''t replace your WMS, sits on top of it, about three weeks''
+      speaks to the IT worry, but it doesn''t say how little IT work is needed or
+      that the recent rollout stays as it is, and it raises no needless objections.'
+    fit: It is a short cold email in short paragraphs that read easily on a phone,
+      with a specific subject line and one clear ask, as the brief asked.

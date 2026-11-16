@@ -1,0 +1,53 @@
+grader: judge-repeat
+graded: '2026-11-16T17:42:52.636086+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 284
+  tags: []
+  notes: extracted 284 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 7
+    objections: 6
+    fit: 8
+  details:
+    agree: A fixed-income Ridgeview no-voter gets an honest $10-a-month figure, a
+      6-year end date and the July closure of their own branch, which could move them,
+      but the blank-check answer is thin because it never says the levy raises a set
+      $2.3 million a year.
+    honest: The script drops the coffee claim and computes the Ridgeview cost correctly,
+      but it invents 'more people than before the pandemic' and 'a library they can
+      walk to', and 'Then voters decide again' goes past the brief.
+    works_the_facts: It derives $121.60 a year, about $10 a month, from the $640,000
+      Ridgeview median, which is the honest figure for this precinct, but it leaves
+      out the $2.3 million annual total that would answer 'blank check'.
+    right_comparison: 'It states the alternative as the brief does: the Ridgeview
+      branch closes in July and Sunday hours stay gone, and it cites the 22% rise
+      in visits, though it never ties that growing use to the closure.'
+    qualification: The 6-year expiry and the July closure are dated, checkable conditions
+      with clear consequences, and the script adds no vague hedges.
+    objections: It handles fixed income and blank check directly and honestly, but
+      the blank-check reply misses the fixed $2.3 million total, and the renter line
+      is not relevant to a homeowner precinct.
+    fit: It fits one side of a card, the core runs well under 90 seconds, and the
+      tree for handling responses is practical for volunteers.

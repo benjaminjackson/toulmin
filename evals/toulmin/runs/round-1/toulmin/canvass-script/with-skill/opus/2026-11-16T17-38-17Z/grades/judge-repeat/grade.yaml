@@ -1,0 +1,54 @@
+grader: judge-repeat
+graded: '2026-11-16T17:42:26.083838+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 350
+  tags: []
+  notes: extracted 350 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 5
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 8
+    qualification: 7
+    objections: 7
+    fit: 6
+  details:
+    agree: 'The script respects this reader: it gives a straight $122-a-year figure
+      and answers the ''blank check'' charge with the levy''s limits, but a fixed-income
+      resister who voted no last time gets little beyond ''here is your number'' and
+      a branch they may not use.'
+    honest: Every figure checks out against the 19-cent rate, it correctly drops the
+      'cup of coffee' line because that claim is false for Ridgeview, and nothing
+      is invented or overstated.
+    works_the_facts: The per-home table is derived correctly, but it leaves out the
+      $2.3M-a-year total, which would make 'specific job' concrete. It also skips
+      the city-median cost (about $6.50 a month) and smaller framings like about 33
+      cents a day.
+    right_comparison: 'It describes the alternative as the facts show it: the Ridgeview
+      branch closes in July and Sunday hours stay gone, with visits up 22% as the
+      trend.'
+    qualification: 'The conditions it gives can be checked: a fixed rate, a six-year
+      end date, and a July closure if the measure fails, with no vague hedging.'
+    objections: It meets the 'blank check' and fixed-income objections directly and
+      adds one for renters, but the fixed-income answer is thin ('use the table, don't
+      argue').
+    fit: The spoken lines fit 60 to 90 seconds, but with eight sections and a five-row
+      table it will be hard to fit on one side of a card.

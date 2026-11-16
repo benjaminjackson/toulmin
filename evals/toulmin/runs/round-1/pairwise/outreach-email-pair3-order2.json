@@ -1,0 +1,11 @@
+{
+  "task": "outreach-email",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T17-37-46Z",
+  "without_skill_run": "2026-11-16T17-37-19Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "reason": "B's payback framing (pays for itself if wrong-item returns drop by about an eighth) gives me a concrete business case against my $600K problem, and showing the second customer's 21% alongside the 54% makes it more credible to me than A's single best-case result. Neither email directly answers my IT director's worry about touching the warehouse system."
+}

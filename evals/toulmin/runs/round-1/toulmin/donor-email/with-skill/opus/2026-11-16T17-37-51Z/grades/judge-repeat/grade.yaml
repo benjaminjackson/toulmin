@@ -1,0 +1,55 @@
+grader: judge-repeat
+graded: '2026-11-16T17:43:50.340789+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 196
+  tags: []
+  notes: extracted 196 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 6
+    objections: 6
+    fit: 8
+  details:
+    agree: The match, the $85-becomes-$170 line and the direct mention of Eastside
+      give this lapsed donor a real reason to come back, though the apology is thin
+      enough that a still-angry reader may not budge.
+    honest: It drops the brief's unsupportable promise that every waitlisted child
+      would be placed, and every figure comes from the brief; the line that the school
+      says yes only when the money is in hand is a mild, plausible inference.
+    works_the_facts: Deriving $575 matched as one child's year and showing $85 doubled
+      to $170 are good uses of the facts, but the email never works out the $70,150
+      total need or that a fully used match (about $30,000) would fund roughly 26
+      children.
+    right_comparison: It never says plainly what happens without these gifts (children
+      stay on the list), and it gives no sense of scale, such as how far short last
+      year's $1,240 from this same group falls of the need.
+    qualification: The match is limited by a date (December 31) and an amount ($15,000),
+      and the January report gives the reader something to check, but the email doesn't
+      say how many children the capped match can actually cover.
+    objections: It names the Eastside closure and acknowledges the anger without getting
+      defensive, which suits a reader who may forward it with comments, but it offers
+      nothing about the closure beyond that acknowledgement.
+    fit: It's a year-end email of about 210 words, under the 250 limit, signed by
+      the executive director, and it rightly leaves out the guarantee the brief asked
+      for because the facts can't support it.

@@ -1,0 +1,54 @@
+I wrote the script, but I left out the coffee line as you phrased it. With your numbers it isn't true in Ridgeview, and it's only borderline across the city.
+
+- **City median home ($410,000):** $77.90 a year, which is about **$6.50 a month**. That's a latte, not a cup of drip coffee. And "average household" includes the 38% who rent and won't see this on a tax bill.
+- **Ridgeview median home ($640,000):** $121.60 a year, which is about **$10 a month**.
+
+Ridgeview is the precinct you start in. It's full of retired homeowners on fixed incomes, and they can work out their own number from their tax statement in a minute. The neighborhood association president already has a letter in the paper calling this a "blank check." If a volunteer's first number turns out to be wrong at the door, that supports the letter. The last levy lost by four points, so you can't afford to lose people over one bad line.
+
+**What I did instead:** I kept the coffee comparison but made it weekly. In Ridgeview the levy costs about **$2.34 a week**, so "less than a cup of coffee a week" is true for a typical home there and still easy to remember. The script also gives the real monthly number, because people on fixed incomes are mostly asking whether they can afford it, and a straight answer earns more trust than a slogan. If you still want the monthly coffee line, use it only in precincts near the city median and say "the median home," not "the average household."
+
+**How the card is built:**
+- **It opens with the branch closing in July.** That's the most local and concrete fact you have, and it's what a Ridgeview resident loses.
+- **It answers "blank check" with specifics:** a fixed rate, a six-year end date and two named uses. Volunteers should never mention the letter writer.
+- **It leaves out the 48–52 result.** It tells voters nothing useful at the door.
+
+**Before you print:**
+1. **Check the ballot language for the "blank check" answer.** The script says the money pays for Sunday hours and keeping Ridgeview open. Make sure the measure actually limits it to those uses. If it includes an oversight committee or annual audit, add that to the answer; it's your strongest reply to that letter.
+2. **Plan a second card for renters.** Renters are 38% of the city and need a different pitch. Cost isn't their question, and a script built on homeowners' tax bills won't reach them. The card below only has a short fallback line for them.
+
+**Timing:** read aloud at a normal pace, the main script (opening through the ask) runs about 60–75 seconds. The objection lines and the cost table are for volunteers to use as needed, not to read out.
+
+<final_document>
+**YES ON MEASURE 4 — RIDGEVIEW DOOR SCRIPT**
+
+**OPEN**
+"Hi, I'm [name], a neighbor volunteering for Measure 4, the library levy on the March ballot. Do you have a minute?"
+
+**THE CASE**
+"If Measure 4 doesn't pass, the Ridgeview branch closes this July. Measure 4 keeps it open, and it brings back Sunday hours at all five branches in the city.
+
+"Here's the cost: 19 cents for every thousand dollars of assessed value, for six years, and then it ends. For a typical Ridgeview home, that's about $10 a month, or less than a cup of coffee a week.
+
+"And people are using the library more: visits are up 22 percent since 2021. This isn't the time to close a branch."
+
+**ASK**
+"Can we count on your Yes vote in March?"
+→ **Yes:** "Thank you!" Mark **1**. Ask if they'd take a yard sign.
+→ **Unsure:** "What would help you decide?" Listen, then answer below. Mark **3**.
+→ **No:** "Thanks for your time." Mark **5**. Leave politely. Don't argue.
+
+**IF THEY SAY…**
+**"It's a blank check."** → "It's a fixed rate, 19 cents per thousand, and it ends after six years unless voters renew it. It pays for two things: Sunday hours, and keeping the Ridgeview branch open."
+**"I'm on a fixed income."** → "That's fair, and it's real money. For most homes here it's about $10 a month, it stops after six years, and it keeps the branch down the street open."
+**"I rent."** → "Your vote counts the same, and it's your branch too."
+
+Never name or criticize anyone who opposes the measure.
+
+**WHAT IT COSTS** (assessed value → per year / per month)
+$400,000 → $76 / $6.33
+$500,000 → $95 / $7.92
+**$640,000 (Ridgeview typical) → $122 / $10.13**
+$800,000 → $152 / $12.67
+$1,000,000 → $190 / $15.83
+*Their home: assessed value ÷ 1,000 × $0.19 = cost per year.*
+</final_document>

@@ -1,0 +1,52 @@
+grader: judge-repeat
+graded: '2026-11-16T17:46:32.499654+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 160
+  tags: []
+  notes: extracted 160 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 5
+    objections: 6
+    fit: 9
+  details:
+    agree: Opening with Dana's own $600K figure and closing with a clear break-even
+      makes a 20-minute call easy to justify, though the email gives her nothing she
+      could take to her IT director.
+    honest: It ties the halving to one named customer instead of claiming 'we cut
+      errors in half' across the board, and every number traces back to the brief.
+    works_the_facts: It works out the $75,000 annual cost for five sites and the roughly
+      13% break-even, but it never applies the pet-supply customer's 54% cut to her
+      $600K, which would show about $320K in avoided returns.
+    right_comparison: The alternative is set out correctly as returns staying at about
+      $600K a year, though the email doesn't say plainly that this cost repeats every
+      year if nothing changes.
+    qualification: Asking 'whether those numbers hold up for your operation' admits
+      the result comes from one customer, but it names no measure Dana could check,
+      no date and no consequence.
+    objections: Saying 'it sits on top of' the WMS goes partway toward the IT director's
+      resistance, but it doesn't say how little IT work is needed or that the current
+      system stays untouched.
+    fit: It is short, uses brief paragraphs that read well on a phone, has a pointed
+      subject line and asks for one thing.

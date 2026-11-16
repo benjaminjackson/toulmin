@@ -1,0 +1,58 @@
+grader: judge-repeat
+graded: '2026-11-16T17:41:56.465391+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 315
+  tags: []
+  notes: extracted 315 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 8
+    qualification: 7
+    objections: 7
+    fit: 7
+  details:
+    agree: A retiree who voted no last time gets a concrete local loss (their branch
+      closes in July), an honest $10-a-month figure for their own home, and a direct
+      answer to 'blank check', which could move a persuadable no but probably won't
+      sway a firm one.
+    honest: Every figure checks out against the brief, and the writer quietly dropped
+      the false 'coffee a month' line for 'a coffee a week' at the Ridgeview figure,
+      though calling it 'two things' slightly tightens what the brief says the money
+      funds.
+    works_the_facts: The writer turns the rate into per-year and per-month costs for
+      the reader's own home value, gives a table and a formula, and uses the 22% rise
+      in visits, but leaves out the $2.3 million annual total that would have made
+      the 'blank check' answer concrete.
+    right_comparison: The alternative is stated as the facts show it (the Ridgeview
+      branch closes in July, with no Sunday hours anywhere), set against rising use,
+      though it doesn't say how many residents would lose their nearest branch.
+    qualification: 'The few conditions are checkable: a fixed rate, a six-year end
+      date unless voters renew it, and a July closing if the measure fails, with no
+      vague hedging.'
+    objections: "It meets the 'blank check' and fixed-income objections head-on with\
+      \ facts from the brief, but doesn't say what has changed since the levy that\
+      \ failed 48\u201352, and the fixed-income reply could have given the yearly\
+      \ $122 figure plainly."
+    fit: "The spoken part fits within 60\u201390 seconds and the format works well\
+      \ at the door, but the cost table, objection lines and tally codes together\
+      \ crowd what has to fit on one side of a card."

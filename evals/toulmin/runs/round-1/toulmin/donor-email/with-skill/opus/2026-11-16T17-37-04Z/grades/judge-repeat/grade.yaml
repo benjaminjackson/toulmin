@@ -1,0 +1,56 @@
+grader: judge-repeat
+graded: '2026-11-16T17:43:36.367095+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 225
+  tags: []
+  notes: extracted 225 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 4
+    qualification: 7
+    objections: 6
+    fit: 9
+  details:
+    agree: The open acknowledgement of Eastside and the concrete $85-to-$170 doubling
+      give a lapsed, aggrieved donor a reason to return, but the apology is brief,
+      says nothing about where the lessons will happen, and may not win over someone
+      who is still angry.
+    honest: The email correctly drops the brief's unsupported promise to place all
+      61 children and its arithmetic checks out, though 'every child we fund starts
+      in January' and 'it comes to me' are small assertions the brief doesn't strictly
+      supply.
+    works_the_facts: It works out sensible figures ($85 to $170, $575 doubled to a
+      full year, a full match funding 26 children), but it never sets the $15,000
+      match against last year's $1,240 or states the $70,150 needed for all 61 children.
+    right_comparison: It never says what happens without a gift (children stay on
+      the list, the match goes unused) and offers the 26-child full-match case as
+      the benchmark when last year's response suggests the real figure is closer to
+      two.
+    qualification: The 'can't promise all 61' hedge plus the December 31 deadline
+      and $15,000 cap are concrete and checkable, but the email doesn't say what happens
+      to the match or the waiting children if the deadline is missed.
+    objections: It meets the Eastside grievance head-on and invites replies, but it
+      doesn't say whether the subsidized lessons will reach the families Eastside
+      served, so the reader's core objection is only half answered.
+    fit: It's a year-end email of about 230 words with a subject line, a clear call
+      to give and the executive director's signature, as the brief asked.

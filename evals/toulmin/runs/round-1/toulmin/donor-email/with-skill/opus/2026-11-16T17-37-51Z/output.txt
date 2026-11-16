@@ -1,0 +1,42 @@
+I didn't use the line saying a gift this month guarantees every child on the waiting list a place in January. Your own numbers show it can't be true, and the people reading this email are the ones most likely to notice.
+
+**The math**
+- **What it costs to clear the waiting list:** 61 children × $1,150 = **$70,150**.
+- **The most this list could possibly raise:** if all 340 lapsed donors gave their average $85, that's $28,900. With the full $15,000 match, it's $43,900. That's still $26,000 short.
+- **What's realistic:** last December this list gave $1,240. Doubled by the match, that's about $2,500, enough for two children. Even if the match doubles the number of people who give, you'd fund about four.
+
+**What the email says instead.** The match makes a strong, true claim possible: **$575 from one donor, matched, pays for a child's full year of lessons starting in January.** It's specific, the reader can picture it, and it holds up. The email also promises to report back in January with how many children were placed. That gives a skeptical reader a way to check you.
+
+**Why this matters more with this list.** Your former board member forwards your emails with comments. "Your gift guarantees all 61 children a place," sent to 340 people and backed by a $15,000 match, is exactly the kind of line she'll do the math on in front of her friends. And she'd be right. It would also confirm what the Eastside group already thinks about how the school treats them.
+
+**About Eastside.** The email mentions it in a few sentences without explaining or defending the decision. Many of these readers left because of the closure, so an email that ignores it can read as if you've forgotten. A defense would restart the argument. I didn't write a reason for the closure, because I don't know it. If something real has changed since 2022, such as Eastside families now being served elsewhere, add one true sentence about it. If not, leave the paragraph as it is.
+
+**Check before sending:**
+- The email assumes money is the only thing keeping children off lessons. If teacher time or space would also hold up January placements, change "starting in January" to match.
+- Confirm that the foundation counts everyone on this list as a "returning donor."
+- The January report is a promise from your executive director, so make sure they'll keep it.
+
+The email is about 190 words.
+
+<final_document>
+**Subject:** Your gift is doubled through December 31
+
+Dear [First name],
+
+Right now, 61 children are on our waiting list for subsidized lessons. A year of weekly lessons costs us $1,150 per child, and we can say yes to a family only when that money is in hand.
+
+You've given to [School name] before, which is why I'm writing to you today. A family foundation has offered to match every gift from a returning donor, dollar for dollar, up to $15,000, through December 31.
+
+That means $575 from you puts one child in weekly lessons for a full year, starting in January. A gift of $85 becomes $170. Every gift, at every size, moves a child closer to the front of the line.
+
+I know some of you stepped away after we closed our Eastside branch in 2022. Many of you told us plainly what that loss meant, and we haven't forgotten it. I'm not asking you to. I'm asking you to help the children who are waiting now.
+
+In January, I'll write to tell you exactly how many children your gifts placed.
+
+[Give now. Your gift is doubled.]
+
+With gratitude,
+
+[Name]
+Executive Director, [School name]
+</final_document>

@@ -1,0 +1,11 @@
+{
+  "task": "donor-email",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T17-37-51Z",
+  "without_skill_run": "2026-11-16T17-37-42Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "reason": "A deals with my Eastside grievance before asking for money, admits the closure was hard on the families who relied on it, and makes a careful promise (\"as funding allows\"). That feels more respectful and believable to a lapsed, unhappy donor than B, which puts the ask first and flatly says $575 starts a child in lessons in January."
+}

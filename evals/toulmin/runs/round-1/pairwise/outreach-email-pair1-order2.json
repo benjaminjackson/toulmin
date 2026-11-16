@@ -1,0 +1,11 @@
+{
+  "task": "outreach-email",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T17-36-22Z",
+  "without_skill_run": "2026-11-16T17-36-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "reason": "Both emails quote my $600K figure, are honest about the one customer's 4.1-to-1.9 result, and say the software sits on top of our warehouse system. B also gives the price and shows that $75K a year breaks even at about a 13% cut in returns, so I can judge on my phone whether a call is worth it."
+}

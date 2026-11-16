@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T17:37:59.155511+00:00'
+outcome: pass
+score: 0.85
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 390
+  tags: []
+  notes: extracted 390 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.85
+  metrics:
+    agree: 8
+    honest: 9
+    works_the_facts: 9
+    right_comparison: 9
+    qualification: 9
+    objections: 7
+    fit: 8
+  details:
+    agree: The memo gives a clear ask, checkable arithmetic, an honest first-year
+      gap and a June tripwire, so a skeptical board can say yes; the sales-minded
+      members may still hold back until the placeholders for the gap funding and the
+      ad salesperson's role are filled in.
+    honest: The memo states the brief's 'within a year' claim as a goal rather than
+      a promise, names the pilot's selection and cancellation risks, and uses placeholders
+      instead of inventing figures for retention or funding.
+    works_the_facts: 'Every derived figure checks out: a 36% drop, about $67k projected
+      ads, about $20k from the pilot, 1.5% conversion, 875 members (6.25% of the list),
+      13 a week needed against 35 a week achieved, and about $52k in year-one membership
+      revenue.'
+    right_comparison: The alternative is ad revenue that is still falling, projected
+      at about $67k for 2027 rather than today's $84k, and the memo compares membership
+      against that figure honestly.
+    qualification: The checkpoint names a number (500 members), a date (June 30) and
+      a consequence (options including sponsorships or bringing ads back), backed
+      by monthly reporting on members and cancellations.
+    objections: It deals with ad decline, pilot novelty and churn, and offers sponsorships
+      as a fallback, but it never asks why not run ads and membership side by side,
+      and the plan for the 11-year colleague is left blank.
+    fit: It is a tight board memo with a clear decision request, and while it sits
+      at the edge of the one-page limit, it most likely fits.

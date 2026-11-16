@@ -1,0 +1,38 @@
+I left out the line saying their gift guarantees every child on the waiting list a place in January. The numbers don't support it.
+
+- **What it would take:** 61 children × $1,150 = **$70,150**.
+- **The most this group could give:** the match tops out at $15,000, so fully meeting it gets you $30,000. That would fund 26 children. Even if all 340 lapsed donors came back at $85 each and the whole amount were matched, you'd have $57,800.
+- **What's realistic:** last December this group gave $1,240.
+
+The former board member who forwards your emails with comments is exactly the reader who would do this math. A promise that can't be kept would give her real ammunition and confirm what upset donors after Eastside. Instead, the draft uses the match to set a real target (26 children) and makes $85 feel bigger by showing it doubled to $170.
+
+**Before sending:**
+- **Eastside paragraph:** I kept it short and didn't explain why the branch closed. Your executive director should approve it or adjust it, since it's in their voice. If any of the waitlisted children come from the Eastside area, adding that would make the paragraph much stronger.
+- **Match terms:** check that the foundation's idea of a "returning donor" matches your list (gave between 2019 and 2022, nothing since).
+- **Placeholders:** fill in the bracketed fields and the gift link.
+- **Length:** the body comes to about 220 words.
+
+<final_document>
+Subject: 61 kids are waiting. Your gift counts double until December 31.
+
+Dear [First name],
+
+Right now, 61 children are on our waiting list for subsidized lessons. Each one has a family who asked us for a place. What's missing is the funding: a year of weekly lessons costs us $1,150 per child.
+
+You've been part of [School name] before, and I'm writing to ask you to come back.
+
+A family foundation has offered to match every gift from returning donors dollar for dollar, up to $15,000, through December 31. A gift of $85 becomes $170. A gift of $575 becomes a full year of lessons for one child.
+
+If we meet the whole match, that's $30,000, enough for a year of lessons for 26 of the children who are waiting. That won't reach all 61, and I won't pretend it will. But 26 kids starting lessons in January is real, and it can start with you.
+
+I also know some of you stepped away after we closed our Eastside branch in 2022. Many of you told us how much that hurt, and you were right to tell us. I'm not asking you to forget it. I'm asking you to look at who is waiting now.
+
+[Give now: your gift will be matched]
+
+With gratitude,
+
+[Executive Director name]
+Executive Director, [School name]
+
+P.S. The match ends December 31. Any amount you give counts double, and every $1,150 gets one more child off the waiting list and into lessons this January.
+</final_document>

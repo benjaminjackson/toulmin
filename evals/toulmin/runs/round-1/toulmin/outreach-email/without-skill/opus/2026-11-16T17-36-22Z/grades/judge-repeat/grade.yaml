@@ -1,0 +1,54 @@
+grader: judge-repeat
+graded: '2026-11-16T17:47:12.858060+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 133
+  tags: []
+  notes: extracted 133 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 3
+    objections: 7
+    fit: 9
+  details:
+    agree: Starting from her own $600,000 figure and saying early that the tool sits
+      on top of the warehouse system makes a call plausible, but with no cost or payback
+      figure she has little to take to a wary IT director.
+    honest: The 4.1-to-1.9 figure is correctly called 'more than half' and is credited
+      to one customer, but the subject line turns mis-picks into 'wrong-item returns',
+      and leaving out the second customer's 21% drop makes the result look more typical
+      than it is.
+    works_the_facts: It quotes the before-and-after rates, but it never works out
+      the 54% cut, never applies it to her $600,000, and never sets 5 sites at $1,250
+      ($75,000 a year) against the possible savings.
+    right_comparison: It points to doing nothing through her $600,000 a year, but
+      it never says that cost keeps coming every year or shows what it adds up to
+      if nothing changes.
+    qualification: One customer's result is presented with no condition attached,
+      such as the range seen across customers (21% to 54%) or a measurable trial target
+      with a date she could check.
+    objections: It deals directly with the IT director's likely objection ('sits on
+      top', 'doesn't replace it or require re-platforming', three weeks), though it
+      doesn't say how little IT work is involved.
+    fit: It is short, written as a cold email, easy to read on a phone and ends with
+      a clear request for a call, as the brief asked.

@@ -1,0 +1,52 @@
+grader: judge
+graded: '2026-11-16T17:38:17.524348+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 293
+  tags: []
+  notes: extracted 293 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 8
+    objections: 8
+    fit: 8
+  details:
+    agree: A fixed-income Ridgeview retiree who voted no gets an honest $10-a-month
+      figure, a way to check it themselves, and a direct answer to the 'blank check'
+      letter, which could move some readers but probably not all of them.
+    honest: "The figures are correct ($640,000 \xD7 0.19/1,000 \u2248 $122 a year),\
+      \ and the script drops the coffee claim, which the facts don't support; the\
+      \ only overstatement is 'a set $2.3 million', since a fixed rate's yield moves\
+      \ with assessed values."
+    works_the_facts: It works out the annual and monthly cost for the local median
+      home and gives the reader a formula for their own home, though it could also
+      have offered a citywide or per-day figure as a gentler true framing.
+    right_comparison: It describes the alternative concretely, with the branch closing
+      in July and no Sunday hours, and sets that against rising use (visits up 22%).
+    qualification: The script makes no hedged claims that need a condition; the July
+      closure date already serves as the checkable consequence.
+    objections: The 'blank check' and fixed-income objections are each met with the
+      rate, the purpose and the six-year sunset, and the renter answer stays brief
+      and doesn't raise new doubts.
+    fit: "It's a tight, card-length door script with an open, the case, an ask, and\
+      \ responses to objections that fits roughly 60\u201390 seconds, though fitting\
+      \ the objection section on one side of a card may be tight."

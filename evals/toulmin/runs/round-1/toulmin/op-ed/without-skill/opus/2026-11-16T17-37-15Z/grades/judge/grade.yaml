@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T17:38:08.276900+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 588
+  tags: []
+  notes: extracted 588 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 3
+    objections: 6
+    fit: 8
+  details:
+    agree: The nurse's log and the neighbouring district's results are persuasive
+      for a parent. A board member who agrees with the athletic director gets only
+      "ask our neighbors" on sports, and the cost argument has no figure on the other
+      side, so that reader may stay unconvinced.
+    honest: "The writer correctly declines to promise a graduation gain. But several\
+      \ things are not in the brief: teens needing 8\u201310 hours, the 11 p.m. sleep\
+      \ onset, missed class being \"among the clearest warning signs,\" and other\
+      \ districts facing \"the same scheduling problems.\""
+    works_the_facts: It works out 72 percent, "one in six" not graduating on time,
+      first period beating second and third combined (412 vs 369), and about $1,000
+      per school day. These are fair and favourable framings, though it doesn't work
+      out what one attendance point means in student-days.
+    right_comparison: The status quo is shown through the visit log and the sleep
+      survey. The neighbouring district's before-and-after numbers are presented accurately,
+      but the piece doesn't say there is no control group or show any trend in our
+      own district.
+    qualification: The hedge on graduation is honest, but the promise to "track attendance,
+      tardies and graduation" has no date, target number or consequence if the results
+      fall short.
+    objections: Working parents get a concrete answer (open early with breakfast)
+      and cost gets the per-day framing. Athletics, the resisting reader's main objection,
+      is only deferred to asking neighbouring districts.
+    fit: It is an op-ed of roughly the right length with a clear headline, ask and
+      byline. It still has [School Name]-style placeholders left to fill in.

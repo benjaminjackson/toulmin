@@ -1,0 +1,34 @@
+I changed the headline. Your facts don't support "we cut picking errors in half" as a general statement. One customer did: 4.1 down to 1.9 is a 54% drop. The only other customer with numbers went from 2.8 to 2.2, which is 21%. A VP of operations will ask "for whom?", and if she finds out it's one customer out of six, she'll stop trusting the rest of the email.
+
+So the draft says your **largest customer** cut errors by more than half. Then it uses a stronger point your facts do support:
+
+- Five sites at $1,250 a month is **$75,000 a year**.
+- She said wrong-item returns cost her **over $600,000 a year**.
+- So she breaks even if wrong-item returns fall by about **one-eighth (12.5%)**.
+- Both customers who have shared numbers did better than that (54% and 21%).
+
+That claim holds up, and it's about her own money. It does assume her return costs go down roughly in line with her mis-pick rate. That's reasonable, but be ready to talk it through on the call.
+
+**About the IT director:** he's a second person you'll have to convince, and he'll likely see this email at some point. So the draft doesn't mention him. It just says early on that the software sits on top of her current system and doesn't replace it. I didn't say "no integration needed" or "nothing in your system changes" because your facts don't establish either. Before the call, get a clear one-line answer to "what does it touch in our system?" That will be his first question.
+
+**One option to consider:** you charge per site, so you could offer to start with one warehouse. That's a much easier yes for her and for IT. I left it out because it's a commercial decision for you to make. If you want it, change the last line to "Would you be open to trying it in one warehouse first?"
+
+<final_document>
+Subject: Your $600K in wrong-item returns
+
+Dana,
+
+Last spring you told an interviewer that returns from wrong-item shipments cost your company "north of $600,000 a year." That's why I'm writing.
+
+We make pick-verification software. Pickers scan each item with a phone camera, and it flags a wrong item before the box is closed. It runs alongside the warehouse system you already have and doesn't replace it. Setup takes about three weeks.
+
+Our largest customer is a pet-supply distributor with three warehouses. In their first five months, mis-picks went from 4.1 per 1,000 order lines to 1.9, a drop of more than half.
+
+For your five sites, we'd cost $75,000 a year. That pays for itself if your wrong-item returns fall by about an eighth. The two customers who share their numbers with us cut errors by 54% and 21%.
+
+Could we take 20 minutes to check whether those numbers would work for you?
+
+[Your name]
+Co-founder, [Company]
+[Phone]
+</final_document>

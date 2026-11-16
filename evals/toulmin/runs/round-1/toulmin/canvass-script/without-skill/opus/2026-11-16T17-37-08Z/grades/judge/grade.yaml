@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T17:37:45.071879+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 284
+  tags: []
+  notes: extracted 284 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 6
+    objections: 6
+    fit: 8
+  details:
+    agree: A Ridgeview retiree hears a plain $120-a-year figure, a fixed end date
+      and the loss of their own branch in July, all of which helps, but the fixed-income
+      reply leans on the unsupported line 'for many neighbors, that's worth it' and
+      will not move a past no-voter far.
+    honest: The Ridgeview cost ($121.60/yr) is correct, and the script rightly drops
+      the misleading coffee claim, but 'more people than before the pandemic' is invented,
+      and 'then voters decide again' goes beyond the brief.
+    works_the_facts: The script correctly works the 19-cent rate into a Ridgeview-specific
+      monthly and yearly cost, but it leaves out the $2.3M annual total, which would
+      answer 'blank check' directly, and never uses the 22% trend as a rate.
+    right_comparison: The alternative is stated concretely (the Ridgeview branch closes
+      in July and Sunday hours stay gone), and rising usage is mentioned, though the
+      two are never set against each other.
+    qualification: The six-year sunset and July closure are dated and checkable, but
+      the election date is left blank and nothing tells the voter what happens to
+      the branch's timeline if the measure fails in March.
+    objections: The 'blank check' and fixed-income objections are both addressed,
+      but the blank-check reply leaves out the $2.3M figure, and the renter answer
+      is thin, written for a different reader than the Ridgeview homeowner.
+    fit: "It fits on one card, runs about 60\u201390 seconds and has sensible branches,\
+      \ but it drops the requested coffee line without telling the field lead why."

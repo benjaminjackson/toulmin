@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T17:37:42.740581+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 250
+  tags: []
+  notes: extracted 250 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 5
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 7
+    objections: 5
+    fit: 8
+  details:
+    agree: The matched-gift math and the honest 26-of-61 framing are persuasive, but
+      a reader still sore about Eastside gets a brief apology and a pivot instead
+      of a reason to trust the school again, so many will stay unmoved.
+    honest: It rightly drops the false 'every child guaranteed' claim and the 26-child
+      figure is correct, but 'many of you told us how much that hurt' inflates 'a
+      few angry notes', and 'any amount counts double' ignores the $15,000 cap.
+    works_the_facts: "It works out $85\u2192$170, $575 per matched child and 26 children\
+      \ from a full match, but never states the $70,150 needed for all 61, and it\
+      \ skips the sobering gap between last year's $1,240 and the $15,000 needed to\
+      \ unlock the match."
+    right_comparison: It never says what happens to the waiting children, or to unclaimed
+      match money, if the reader does nothing, so giving is never set against a concrete
+      alternative.
+    qualification: The match is tied to a number and a date ($15,000, December 31),
+      and the email says plainly that it won't reach all 61, though it doesn't say
+      what is lost if the match goes unmet.
+    objections: The Eastside grievance is named and validated, but nothing explains
+      the closure or says what has changed, and 'I'm asking you to look at who is
+      waiting now' can read as dismissive to the very readers who resist most, including
+      one who forwards emails with comments.
+    fit: It is a short year-end appeal of roughly 250 words with a subject line, a
+      call-to-action button and a P.S., signed by the executive director as asked.

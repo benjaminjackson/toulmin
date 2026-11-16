@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T17:38:58.407871+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 652
+  tags: []
+  notes: extracted 652 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 5
+    objections: 6
+    fit: 7
+  details:
+    agree: The scene in the nurse's office and the clear ask move a sympathetic parent,
+      but a resisting board member gets no number on the graduation payoff and only
+      a values argument against the $180,000.
+    honest: 'The graduation claim is properly softened, but the piece adds material
+      the brief doesn''t support: ''teenagers need eight to ten hours,'' the biology
+      of the shifted body clock, ''failed first-period classes,'' and students who
+      ''almost always'' blame exhaustion.'
+    works_the_facts: It turns 640/890 into 'nearly three out of four' and 84% into
+      'one in six don't finish,' and it compares first-period visits with second and
+      third combined, but it doesn't put the $180,000 in a per-student or per-day
+      form and doesn't link the one-point attendance gain to anything concrete.
+    right_comparison: It sets the status quo of 7:25 starts and crowded first-period
+      visits against a nearby district's results, but it treats that district's outcomes
+      as a fair preview without noting how little they show about graduation.
+    qualification: The hedge that a later bell won't fix graduation by itself is honest,
+      and the suggestion to question the other district before April 14 can be checked,
+      but no hedge gives a number or a consequence if it fails.
+    objections: It names every objection and offers fixes for the parent drop-offs
+      and practices, but those fixes are uncosted, and the bus cost is waved off with
+      'what we value' rather than answered.
+    fit: It reads as a proper op-ed with a headline, byline, and call to action, and
+      it lands around or slightly over the 650-word cap.
