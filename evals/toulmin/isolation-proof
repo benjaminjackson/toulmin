@@ -1,0 +1,151 @@
+#!/usr/bin/env bash
+# Proves that the two arms of the toulmin eval differ only in whether the toulmin skill is available.
+# Four probes, each prints one line that starts with PASS or FAIL:
+#   1. A normal `claude -p` session (not stripped) lists a toulmin skill, so the user's setup has one to leak.
+#   2. The without-skill arm lists no toulmin skill or plugin, and the model names no toulmin skill when asked.
+#   3. The with-skill arm lists toulmin:toulmin, from a plugin path inside this repository.
+#   4. The with-skill arm on the board-memo prompt calls the Skill tool for toulmin.
+# Probes 3 and 4 read the same with-skill session. The three sessions run in parallel.
+# The evidence goes to evals/toulmin/isolation-proof.out. Exits non-zero if any probe fails.
+
+set -uo pipefail
+
+# Gives run_one_attempt, repository_root and script_directory, the same code path the runners use.
+source "$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)/run-claude"
+
+model=opus
+evidence_path="$script_directory/isolation-proof.out"
+work_directory=$(mktemp -d)
+skills_question="List the exact names of every skill you can load in this session, one per line. If there are none, reply with the single word none."
+board_memo_prompt=$(yq -r '.prompt' "$script_directory/tasks/board-memo.yaml")
+
+# Print the init event of a stream file as one JSON line.
+init_event() {
+  local transcript_path=$1
+  jq -cR 'fromjson? | select(.type == "system" and .subtype == "init")' "$transcript_path" | head -n 1
+}
+
+# Print the skills list and the plugins list of a stream file's init event.
+init_skills_and_plugins() {
+  local transcript_path=$1
+  init_event "$transcript_path" | jq -c '{skills: .skills, plugins: .plugins}'
+}
+
+# Print every tool_use block in a stream file as {name, input}, one per line.
+tool_use_lines() {
+  local transcript_path=$1
+  jq -cR 'fromjson? | select(.type == "assistant") | .message.content[]? | select(.type == "tool_use") | {name, input}' "$transcript_path"
+}
+
+# Probe 1 session: a normal claude -p from an empty temporary directory, with the user's full setup.
+run_normal_session() {
+  local session_directory
+  session_directory=$(mktemp -d)
+  (cd "$session_directory" && printf '%s' "Reply with the single word ok." | claude -p --model "$model" --output-format stream-json --verbose) > "$work_directory/normal.jsonl" 2> "$work_directory/normal.stderr"
+  rmdir "$session_directory" 2>/dev/null
+}
+
+# Probe 2 session: the without-skill arm asked to name its skills.
+run_without_skill_session() {
+  printf '%s' "$skills_question" | run_one_attempt without-skill "$model" "$work_directory/without-skill.jsonl" > "$work_directory/without-skill.reply" 2> "$work_directory/without-skill.stderr"
+}
+
+# Probes 3 and 4 session: the with-skill arm on the board-memo task prompt.
+run_with_skill_session() {
+  printf '%s' "$board_memo_prompt" | run_one_attempt with-skill "$model" "$work_directory/with-skill.jsonl" > "$work_directory/with-skill.reply" 2> "$work_directory/with-skill.stderr"
+}
+
+# `&` starts each session in the background; `wait` blocks until all three have finished.
+run_normal_session &
+run_without_skill_session &
+run_with_skill_session &
+wait
+
+failure_count=0
+summary_lines=()
+
+# Record one probe result: PASS when the first argument is 0, FAIL otherwise.
+record_probe() {
+  local check_status=$1
+  local description=$2
+  local line
+  if [ "$check_status" -eq 0 ]; then
+    line="PASS $description"
+  else
+    line="FAIL $description"
+    failure_count=$((failure_count + 1))
+  fi
+  summary_lines+=("$line")
+  echo "$line"
+}
+
+# Probe 1: any skill name containing toulmin in the normal session.
+normal_init=$(init_event "$work_directory/normal.jsonl")
+printf '%s' "$normal_init" | jq -e '[.skills[]? | tostring | ascii_downcase | select(contains("toulmin"))] | length > 0' > /dev/null 2>&1
+record_probe $? "1 normal claude -p session lists a toulmin skill"
+
+# Probe 2: no skill or plugin containing toulmin, and no toulmin in the model's list of skills.
+without_init=$(init_event "$work_directory/without-skill.jsonl")
+probe_two_status=1
+if [ -n "$without_init" ]; then
+  printf '%s' "$without_init" | jq -e '[(.skills[]?, .plugins[]?) | tostring | ascii_downcase | select(contains("toulmin"))] | length == 0' > /dev/null 2>&1
+  init_is_clean=$?
+  grep -qi toulmin "$work_directory/without-skill.reply"
+  reply_mentions_toulmin=$?
+  if [ "$init_is_clean" -eq 0 ] && [ "$reply_mentions_toulmin" -ne 0 ] && [ -s "$work_directory/without-skill.reply" ]; then
+    probe_two_status=0
+  fi
+fi
+record_probe $probe_two_status "2 without-skill arm lists no toulmin skill or plugin and the model names none"
+
+# Probe 3: toulmin:toulmin in skills, and a toulmin plugin whose path is inside this repository.
+with_init=$(init_event "$work_directory/with-skill.jsonl")
+printf '%s' "$with_init" | jq -e --arg repository_prefix "$repository_root/" '(.skills | index("toulmin:toulmin")) != null and ([.plugins[]? | select(.name == "toulmin" and (.path | startswith($repository_prefix)))] | length > 0)' > /dev/null 2>&1
+record_probe $? "3 with-skill arm lists toulmin:toulmin from a plugin inside this repository"
+
+# Probe 4: a Skill tool call whose input names toulmin.
+skill_calls=$(tool_use_lines "$work_directory/with-skill.jsonl" | jq -c 'select(.name == "Skill" and (.input | tostring | test("toulmin")))')
+if [ -n "$skill_calls" ]; then
+  probe_four_status=0
+else
+  probe_four_status=1
+fi
+record_probe $probe_four_status "4 with-skill arm on the board-memo prompt calls the Skill tool for toulmin"
+
+# Write the evidence file. Each section is one probe's session.
+{
+  echo "# Isolation proof for the toulmin eval"
+  echo "# Generated by evals/toulmin/isolation-proof on $(date -u +%Y-%m-%dT%H:%M:%SZ), model $model"
+  echo
+  printf '%s\n' "${summary_lines[@]}"
+  echo
+  echo "## Probe 1: normal claude -p session, init event skills and plugins"
+  init_skills_and_plugins "$work_directory/normal.jsonl"
+  echo
+  echo "## Probe 2: without-skill arm, init event skills and plugins"
+  init_skills_and_plugins "$work_directory/without-skill.jsonl"
+  echo
+  echo "## Probe 2: without-skill arm, prompt"
+  echo "$skills_question"
+  echo
+  echo "## Probe 2: without-skill arm, model reply"
+  cat "$work_directory/without-skill.reply"
+  echo
+  echo "## Probes 3 and 4: with-skill arm on the board-memo prompt, init event skills and plugins"
+  init_skills_and_plugins "$work_directory/with-skill.jsonl"
+  echo
+  echo "## Probe 4: with-skill arm, matching Skill tool_use lines"
+  echo "$skill_calls"
+  echo
+  echo "## Probe 4: with-skill arm, model reply"
+  cat "$work_directory/with-skill.reply"
+} > "$evidence_path"
+
+echo "Evidence written to $evidence_path"
+
+# The raw session files stay in the temporary directory for inspection.
+echo "Session files kept in $work_directory" >&2
+if [ "$failure_count" -gt 0 ]; then
+  exit 1
+fi
+exit 0

@@ -1,0 +1,116 @@
+#!/usr/bin/env bash
+# smevals Runner for both arms of the toulmin eval.
+# Reads the prompt from SMEVALS_PROMPT, the model from SMEVALS_MODEL and the arm from ARM (with-skill or without-skill).
+# Sends only the prompt text to claude on standard input. No other task key reaches the model.
+# Saves the claude event stream as transcript.jsonl in the run directory and prints the final result text.
+# Exits non-zero only for an infrastructure failure: timeout, no result event, or a result marked as an error.
+#
+# evals/toulmin/isolation-proof sources this file to call run_one_attempt, so both use the same flags.
+
+set -uo pipefail
+
+# BASH_SOURCE[0] is the path of this file, also when it is sourced by another script.
+script_directory=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+repository_root=$(cd "$script_directory/../.." && pwd)
+base_script="$script_directory/lib/base.sh"
+headless_note_path="$script_directory/headless-note.txt"
+timeout_seconds=900
+
+# Run claude once for one arm. Standard input: the prompt.
+# Arguments: arm, model, path of the file that receives the event stream.
+# Prints the final result text. Returns non-zero on an infrastructure failure.
+run_one_attempt() {
+  local arm=$1
+  local model=$2
+  local transcript_path=$3
+
+  local -a claude_flags=(
+    --model "$model"
+    --tools "Skill,Read,Glob,Grep"
+    --allowedTools "Skill,Read,Glob,Grep"
+    --append-system-prompt "$(cat "$headless_note_path")"
+    --output-format stream-json
+    --verbose
+  )
+  if [ "$arm" = "with-skill" ]; then
+    claude_flags+=(--plugin-dir "$repository_root/toulmin")
+  elif [ "$arm" = "without-skill" ]; then
+    : # The without-skill arm adds nothing. ":" is the shell command that does nothing.
+  else
+    echo "run-claude: unknown arm '$arm' (expected with-skill or without-skill)" >&2
+    return 2
+  fi
+
+  # `timeout` can only start a program, not a shell function, so it starts a new bash that
+  # sources base.sh and calls claude_stripped. In `bash -c 'script' name arg1 arg2 ...`,
+  # "name" becomes $0 and the remaining words become "$1", "$2", ... inside the script.
+  timeout "$timeout_seconds" bash -c 'source "$1"; shift; claude_stripped "$@"' run-claude "$base_script" "${claude_flags[@]}" > "$transcript_path"
+  local claude_status=$?
+  if [ "$claude_status" -eq 124 ]; then
+    echo "run-claude: claude timed out after $timeout_seconds seconds" >&2
+    return 1
+  fi
+
+  # `fromjson?` skips any line that is not JSON instead of stopping jq.
+  local result_event
+  result_event=$(jq -cR 'fromjson? | select(.type == "result")' "$transcript_path" | tail -n 1)
+  if [ -z "$result_event" ]; then
+    echo "run-claude: no result event in the stream (claude exit status $claude_status)" >&2
+    return 1
+  fi
+  local is_error
+  is_error=$(printf '%s' "$result_event" | jq -r '.is_error')
+  if [ "$is_error" = "true" ]; then
+    echo "run-claude: the result event is marked as an error" >&2
+    printf '%s' "$result_event" | jq -r '.result // empty' >&2
+    return 1
+  fi
+  printf '%s\n' "$(printf '%s' "$result_event" | jq -r '.result')"
+}
+
+# Return 0 when the text has an opening and a closing final_document tag.
+has_final_document() {
+  local result_text=$1
+  if [[ "$result_text" == *"<final_document>"*"</final_document>"* ]]; then
+    return 0
+  fi
+  return 1
+}
+
+# Run the arm named by ARM on SMEVALS_PROMPT, retrying once when the reply has no final document.
+main() {
+  local arm=${ARM:-}
+  if [ "$arm" != "with-skill" ] && [ "$arm" != "without-skill" ]; then
+    echo "run-claude: ARM must be with-skill or without-skill" >&2
+    exit 2
+  fi
+  if [ -z "${SMEVALS_PROMPT:-}" ] || [ -z "${SMEVALS_MODEL:-}" ]; then
+    echo "run-claude: SMEVALS_PROMPT and SMEVALS_MODEL must be set" >&2
+    exit 2
+  fi
+
+  # smevals starts the runner in the run directory. claude_stripped changes directory only inside a subshell.
+  local run_directory=$PWD
+  local result_text
+
+  result_text=$(printf '%s' "$SMEVALS_PROMPT" | run_one_attempt "$arm" "$SMEVALS_MODEL" "$run_directory/transcript.jsonl")
+  if [ $? -ne 0 ]; then
+    exit 1
+  fi
+
+  if ! has_final_document "$result_text"; then
+    echo "run-claude: no <final_document> pair in the first attempt, retrying once" >&2
+    mv "$run_directory/transcript.jsonl" "$run_directory/transcript.attempt1.jsonl"
+    result_text=$(printf '%s' "$SMEVALS_PROMPT" | run_one_attempt "$arm" "$SMEVALS_MODEL" "$run_directory/transcript.jsonl")
+    if [ $? -ne 0 ]; then
+      exit 1
+    fi
+  fi
+
+  printf '%s\n' "$result_text"
+}
+
+# Run main only when this file is executed, not when isolation-proof sources it.
+if [ "${BASH_SOURCE[0]}" = "$0" ]; then
+  main
+fi

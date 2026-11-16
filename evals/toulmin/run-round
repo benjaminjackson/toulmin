@@ -1,0 +1,92 @@
+#!/usr/bin/env bash
+# Usage: evals/toulmin/run-round <runs-dir> <n> [grader]
+# Brings every task and config of the toulmin eval up to <n> complete runs in <runs-dir>.
+# Starts one worker per task and config, all at once. Each worker calls `smevals run` once per missing run,
+# with at most <n>+2 attempts so a failing runner cannot loop for ever.
+# With a grader name, each run is graded as it finishes (smevals run -g <grader>).
+# `smevals run -g` exits non-zero when a grade fails, so success is decided only by counting complete runs.
+# Prints the count per task and config and exits non-zero when any count is below <n>.
+
+set -uo pipefail
+
+script_directory=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+eval_name=toulmin
+configs=(with-skill without-skill)
+
+if [ $# -lt 2 ] || [ $# -gt 3 ]; then
+  echo "usage: run-round <runs-dir> <n> [grader]" >&2
+  exit 2
+fi
+runs_directory=$1
+target_count=$2
+grader_name=${3:-}
+mkdir -p "$runs_directory"
+
+# Print the number of complete runs for one task and config: run.yaml exists and records exit_code 0.
+count_complete_runs() {
+  local task_name=$1
+  local config_name=$2
+  local task_config_directory="$runs_directory/$eval_name/$task_name/$config_name"
+  local complete_count=0
+  local run_record
+  if [ ! -d "$task_config_directory" ]; then
+    echo 0
+    return
+  fi
+  # Layout: <runs-dir>/<eval>/<task>/<config>/<model>/<timestamp>/run.yaml
+  while IFS= read -r run_record; do
+    if [ "$(yq -r '.exit_code' "$run_record")" = "0" ]; then
+      complete_count=$((complete_count + 1))
+    fi
+  done < <(find "$task_config_directory" -mindepth 3 -maxdepth 3 -name run.yaml)
+  echo "$complete_count"
+}
+
+# Call smevals run for one task and config until it has the target count of complete runs.
+run_worker() {
+  local task_name=$1
+  local config_name=$2
+  local log_path="$runs_directory/run-round.$task_name.$config_name.log"
+  local -a grade_flags=()
+  local attempt_number=0
+  local maximum_attempts=$((target_count + 2))
+  if [ -n "$grader_name" ]; then
+    grade_flags=(-g "$grader_name")
+  fi
+  while [ "$(count_complete_runs "$task_name" "$config_name")" -lt "$target_count" ] && [ "$attempt_number" -lt "$maximum_attempts" ]; do
+    attempt_number=$((attempt_number + 1))
+    # The exit status is ignored on purpose: with -g it is non-zero when a grade fails. The count decides.
+    smevals run "$script_directory" -c "$config_name" -t "$task_name" --runs-dir "$runs_directory" "${grade_flags[@]}" >> "$log_path" 2>&1
+  done
+}
+
+task_names=()
+for task_file in "$script_directory"/tasks/*.yaml; do
+  task_names+=("$(yq -r '.name' "$task_file")")
+done
+
+# `&` starts each worker in the background; `wait` blocks until every worker has finished.
+for task_name in "${task_names[@]}"; do
+  for config_name in "${configs[@]}"; do
+    run_worker "$task_name" "$config_name" &
+  done
+done
+wait
+
+short_count=0
+for task_name in "${task_names[@]}"; do
+  for config_name in "${configs[@]}"; do
+    complete_count=$(count_complete_runs "$task_name" "$config_name")
+    if [ "$complete_count" -lt "$target_count" ]; then
+      echo "SHORT $task_name $config_name: $complete_count of $target_count complete runs (log: $runs_directory/run-round.$task_name.$config_name.log)"
+      short_count=$((short_count + 1))
+    else
+      echo "OK    $task_name $config_name: $complete_count of $target_count complete runs"
+    fi
+  done
+done
+
+if [ "$short_count" -gt 0 ]; then
+  exit 1
+fi
+exit 0

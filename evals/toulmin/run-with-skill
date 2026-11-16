@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+ARM=with-skill exec "$(dirname "$0")/run-claude"
