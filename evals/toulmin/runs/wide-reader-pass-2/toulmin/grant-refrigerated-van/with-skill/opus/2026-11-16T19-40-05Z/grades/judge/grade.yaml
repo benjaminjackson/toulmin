@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:41:10.299028+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 434
+  tags: []
+  notes: extracted 434 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 3
+    objections: 5
+    fit: 9
+  details:
+    agree: The modest, sourced case and the plain apology would make Marisol inclined
+      to say yes, but she would want a specific reporting commitment and a plan for
+      running costs on $11,000 of reserves before recommending it.
+    honest: The draft drops the unsupported 'double fresh food' claim and keeps to
+      numbers that hold up (50% more in harvest months, 9,000 on top of 72,000, more
+      than 60% of reserves), though 'on the road from the day it arrives' and assuming
+      farms will repeat their offer are slight overreaches.
+    works_the_facts: It derives the monthly rise from 6,000 to 9,000 pounds, the annual
+      72,000 baseline, the share of reserves (18,000 of 29,000) and about 15 pounds
+      per household, all correct and fairly framed, though it never gives the van
+      cost per pound or per household.
+    right_comparison: The 'if not funded' section matches the facts (summer offers
+      turned away, 6,000 pounds a month continues), but it assumes the farm offers
+      will repeat without saying so.
+    qualification: 'There is no checkable commitment at all: no report due date, no
+      pounds target with a date, no plan if farm offers don''t recur, and the promise
+      on reporting is a vague statement of what the Foundation is ''entitled'' to.'
+    objections: The late report is acknowledged directly, but the draft doesn't commit
+      to a reporting schedule, and it leaves out the obvious questions about fuel,
+      insurance and maintenance on thin reserves, and about where the extra cold food
+      will be stored.
+    fit: This is a well-sectioned grant narrative of about 450 words, inside the 500-word
+      limit.

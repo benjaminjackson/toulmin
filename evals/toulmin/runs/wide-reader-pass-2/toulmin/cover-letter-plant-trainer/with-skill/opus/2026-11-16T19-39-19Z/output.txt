@@ -1,0 +1,37 @@
+I wrote the letter, but it doesn't promise to cut their new-hire training time in half. I'd recommend keeping that line out, for three reasons:
+
+- **You can't back it up yet.** You don't know how long their training takes now, or which parts are fixed by their written procedures and by regulators. Nothing in your record shows you shortening a training program either. Your 12-hour new-teacher training is a good fact, but you haven't said it used to be longer.
+- **It could backfire with this reader.** In a regulated plant, "half the training time" can sound like "half the training." That's exactly the worry a hiring manager will already have about someone from outside the industry.
+- **You have stronger evidence.** You wrote a safety program, and roughly seven years of labs with no injury beyond first aid have followed. That record answers the cutting-corners worry instead of raising it.
+
+The letter instead says you'll help new hires get to safe, independent work "as quickly as your procedures allow." It aims at speed without putting your word behind a number.
+
+If you still want the bold version, you could replace that phrase with: "I believe I can substantially shorten the time it takes your new hires to work independently, and I'd want to start by learning where that time goes now." I'd still leave "half" out until you've seen their program. If they interview you, ask how long onboarding takes now. That's the moment a specific number could work.
+
+**Things you could add that would make the letter stronger:**
+- If you've started any GMP or regulated-industry course or certificate, mention it in the paragraph about the gap.
+- If your new-teacher training used to take longer, or new teachers get to running a lab on their own faster since you took it over, say so with the numbers. That's the closest thing you have to evidence for the training-time claim.
+
+**Before you send it:** fill in the hiring manager's name and the company name. "About 1,200 students" is 140 a year times 9 years. "Seven years" counts from 2019 to now. Check that both match what you'd say if asked.
+
+<final_document>
+Dear [Hiring Manager's name],
+
+I'm applying for the Training Coordinator position at [Company]. For nine years I've taught high school chemistry. That means my daily work has been teaching people with no lab experience to handle hazardous materials, follow written procedures exactly, and do it right every time. I'd like to do that work for your plant's new hires.
+
+Here is some of what it has produced:
+
+- **A lab safety program with a seven-year record.** I wrote our school's lab safety program in 2019. Since then, no one in our labs has had an injury that needed more than first aid. That covers about 140 students a year, most of them handling chemicals for the first time.
+- **Training adults on procedures.** Every year I train our new science teachers on lab procedures, about 12 hours each, for an average of two teachers a year. They are qualified professionals who still have to learn how our labs run before they're responsible for anyone else in them. Your experienced new hires will face the same thing on their first day in the plant.
+- **Measurable results.** In the four years I've taught AP Chemistry, our pass rate has risen from 41% to 58%.
+
+Across about 1,200 students, I've learned to write procedures clearly enough that a nervous sixteen-year-old follows them correctly. I've also learned to teach the reasons behind each step, so people still follow them when no one is watching. In a manufacturing plant that matters even more than in a classroom.
+
+I haven't worked in a regulated industry, and I haven't kept GMP training records. I do understand what those records are for: proof that every person on the floor has been trained on the current procedure. My safety program rests on the same idea. Procedures are written down, everyone is trained on them, and there are no exceptions. I'm ready to learn your documentation requirements. I run all five of my classes through Google Classroom, so I expect to pick up your learning management system quickly.
+
+I live about 30 minutes from the plant. I'd welcome the chance to talk about helping your new hires reach safe, independent work as quickly as your procedures allow. Thank you for your time and consideration.
+
+Sincerely,
+
+Ben
+</final_document>

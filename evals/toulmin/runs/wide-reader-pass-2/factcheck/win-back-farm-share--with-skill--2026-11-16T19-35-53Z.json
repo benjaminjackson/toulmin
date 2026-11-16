@@ -1,0 +1,17 @@
+{
+  "task": "win-back-farm-share",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-35-53Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "You paid for a full season",
+      "why": "The brief only gives the price of a full share ($540) and does not state that all non-renewing members paid for a full season rather than a partial share."
+    },
+    {
+      "quote": "Thank you for the seasons you spent with us.",
+      "why": "The brief only states that these households had a share last year, not that they were members for multiple seasons."
+    }
+  ],
+  "invented_count": 2
+}

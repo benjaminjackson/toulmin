@@ -1,0 +1,41 @@
+task:
+  name: grant-refrigerated-van
+  type: grant-proposal
+  set: tune
+  reader: Marisol Ortega, the program officer at the county community foundation,
+    who reads the application first and recommends yes or no to the grants committee.
+    She funded this food bank's shelving in 2023 and had to chase its final report
+    for four months.
+  prompt: 'I need help with the narrative section of a grant application. I''m the
+    director of a volunteer-run food bank in a town of about 9,000 people, and we''re
+    applying to our county community foundation for a refrigerated van.
+
+
+    What I have:
+
+    - We hand out about 38,000 pounds of food a month to 610 households. About 6,000
+    pounds of that is fresh produce, milk and eggs.
+
+    - Last summer, local farms offered us roughly 9,000 pounds of produce over three
+    months that we had to turn down because we had no way to pick it up cold or store
+    it.
+
+    - The van costs $68,000. We''re asking the foundation for $50,000 and covering
+    the other $18,000 from our reserves, which would leave us with $11,000.
+
+    - We have 23 regular volunteers. Four of them have said they would drive the van
+    on a weekly schedule.
+
+    - The foundation gave us $12,000 for shelving in 2023. Our final report on that
+    grant was four months late.
+
+
+    I want the narrative to say the van will let us double the amount of fresh food
+    we hand out in the first year. The narrative is limited to 500 words.'
+config:
+  name: without-skill
+  runner: /Users/ben/github/toulmin/evals/toulmin/run-without-skill
+  model: opus
+started: '2026-11-16T19:19:01.420609+00:00'
+duration_seconds: 48.47
+exit_code: 0

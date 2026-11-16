@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:40:34.080839+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 365
+  tags: []
+  notes: extracted 365 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 3
+    objections: 5
+    fit: 9
+  details:
+    agree: Conceding the renovation's role earns the GM's trust, and the seven weeks
+      plus the turnover figures make a credible case, but nothing shows why he should
+      pick the writer over the outside candidate from a larger hotel.
+    honest: It rightly declines the brief's 'main reason' claim, but 'Payroll is mostly
+      front desk staffing, and I already handle that side of it' asserts facts the
+      brief doesn't support and overstates the writer's link to the budget.
+    works_the_facts: "The 64% and 36% turnover rates and 'four fewer shifts per hire'\
+      \ are correct and well framed, but the memo never totals the shifts saved (roughly\
+      \ 5 hires \xD7 4 = 20 shifts) or shows what the 7.9 to 8.6 rise amounts to."
+    right_comparison: The before-and-after turnover comparison is fair, but the real
+      alternative, an outside hire who would need to learn this hotel during a transition
+      the writer is already covering, is never described.
+    qualification: The budget gap is named honestly, but the hedge is an open 'I'd
+      like to talk' with no checkable plan, such as a training deadline or a payroll-variance
+      target in the first quarter.
+    objections: The renovation objection is met head-on and the budget gap is acknowledged,
+      but the GM's main doubt, the stronger outside candidate, goes unanswered, and
+      the budget answer depends on an unsupported claim.
+    fit: It is a clear, one-page memo with sensible headed sections, which is the
+      form and length the brief asked for.

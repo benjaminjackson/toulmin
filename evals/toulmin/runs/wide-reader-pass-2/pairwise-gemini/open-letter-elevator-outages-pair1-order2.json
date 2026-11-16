@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-18-00Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B makes me take notice because it explicitly points out that two-thirds of the building signed the petition—forcing me to reconsider my assumption that this is just a few loud people—and warns me that the letter has already been shared with the local news. While Document A's tone is slightly more collaborative, Document B's sharper framing of the facts and the immediate PR threat make me much more likely to act quickly."
+}

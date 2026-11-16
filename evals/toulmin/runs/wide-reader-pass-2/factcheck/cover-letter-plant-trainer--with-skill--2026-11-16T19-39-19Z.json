@@ -1,0 +1,25 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-39-19Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "A lab safety program with a seven-year record.",
+      "why": "The brief states the program was written in 2019, which does not allow a seven-year record to be calculated because the current year is not provided."
+    },
+    {
+      "quote": "Procedures are written down, everyone is trained on them, and there are no exceptions.",
+      "why": "The brief does not state what the school's lab safety program consists of or that there are no exceptions."
+    },
+    {
+      "quote": "I run all five of my classes through Google Classroom",
+      "why": "The brief states the applicant teaches five classes and uses Google Classroom, but does not state that all five classes are run through it."
+    },
+    {
+      "quote": "Ben",
+      "why": "The brief does not give the applicant's name."
+    }
+  ],
+  "invented_count": 4
+}

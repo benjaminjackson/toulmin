@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:37:34.213795+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 418
+  tags: []
+  notes: extracted 418 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 4
+    objections: 8
+    fit: 9
+  details:
+    agree: The measured tone, the 74-of-112 majority and three concrete written requests
+      make it hard for her to dismiss the letter, but publicity to TV may make her
+      defensive, and nothing she has to do has a deadline, so she can easily stall.
+    honest: Most claims match the brief, but 'this month' and the neighbour 'above
+      the ground floor' are small details the brief doesn't give, 'the stairs are
+      no alternative' overstates the case for walker users, and 'affects more than
+      our building' is unsupported.
+    works_the_facts: 'It turns the raw numbers into useful forms: more than one day
+      in eight (true year-to-date), two in three households, and five months of waiting
+      on the same promised part. It doesn''t go further, for example the number of
+      residents stranded per outage-day.'
+    right_comparison: The alternative is shown accurately as the status quo, with
+      a part that is 'always six to eight weeks away' and a next year likely no different,
+      which fits the repeated June promise.
+    qualification: The one condition ('if the part does not arrive and nothing else
+      changes') has no date, no checkable threshold and no stated consequence, and
+      the three requests carry no response deadline.
+    objections: 'It meets her likely defences directly: the passing certificate is
+      acknowledged and shown to be beside the point, the $400,000 claim is accepted
+      and only evidence is asked for, and the two-thirds petition figure answers ''a
+      few loud people''.'
+    fit: It is a properly formed open letter of about 420 words, suited both to the
+      lobby and to the press, as the brief asked.

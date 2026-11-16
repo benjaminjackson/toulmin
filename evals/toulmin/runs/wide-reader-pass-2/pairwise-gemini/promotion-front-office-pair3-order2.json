@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-39-46Z",
+  "without_skill_run": "2026-11-16T19-19-17Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both candidates handle the renovation credit honestly, which I appreciate, and Document B's math on the 56 saved training shifts is impressive. However, Document A wins because it offers a concrete plan to learn the $1.1M budget, whereas Document B shows its inexperience by claiming a payroll budget mostly comes down to turnover and training rather than daily scheduling and labor forecasting."
+}

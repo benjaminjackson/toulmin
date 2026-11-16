@@ -1,0 +1,33 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-36-49Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Nobody assigned it to him. He learned the system himself",
+      "why": "The brief states that he learned the herd management software, not that it was unassigned or that he taught himself."
+    },
+    {
+      "quote": "before they became serious.",
+      "why": "The brief says he caught the nine cases of mastitis early, not that he caught them before they became serious."
+    },
+    {
+      "quote": "Nobody checks on him at that hour",
+      "why": "The brief states that he runs the 3 a.m. shift on his own, not that nobody checks on him during it."
+    },
+    {
+      "quote": "His father became seriously ill in Mexico, and Tomás was away for five weeks to be with him.",
+      "why": "The brief only says his father 'got sick' in Mexico and does not state that the illness was serious or that Tomás went to be with him."
+    },
+    {
+      "quote": "his spoken English is strong",
+      "why": "The brief only says his written English is weaker than his spoken English, not that his spoken English is strong."
+    },
+    {
+      "quote": "When he sees a gap in what he can do, he works on it without being told.",
+      "why": "The brief does not state whether Tomás decided to take the night class or learn the software without being told to do so."
+    }
+  ],
+  "invented_count": 6
+}

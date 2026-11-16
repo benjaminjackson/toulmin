@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-38-51Z",
+  "without_skill_run": "2026-11-16T19-19-09Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B stays honest to the facts in the brief, whereas Document A invents that Tomás 'taught himself' the software and 'runs our 3 a.m. milking shift alone' only 'for most of that time.' Additionally, as an admissions member for an ag-tech program, I wouldn't need a farm manager to explain to me why catching mastitis early is important, making B's tighter phrasing more authentic and effective."
+}

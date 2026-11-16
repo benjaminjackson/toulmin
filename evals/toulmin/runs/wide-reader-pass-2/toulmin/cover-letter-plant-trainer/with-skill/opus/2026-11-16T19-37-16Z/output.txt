@@ -1,0 +1,41 @@
+I've written the letter, but I left out the promise to cut new-hire training time in half.
+
+**Why I left it out.** Nothing in your background tells you how long their training takes now, so a hiring manager can't check the number and will see that. Some of the time is probably fixed, too. GMP training is tied to written procedures and documented qualification, so part of it can't be shortened. Coming from someone who hasn't worked in a plant, a specific promise like that is likely to look naive, and it could cost you the credibility the rest of the letter builds. The letter says instead that getting new hires working safely and correctly on their own sooner is what you want to work on. That's true, it's what they care about, and nobody can argue with it.
+
+**When you could make the claim.** You'd need a real basis. For example, if an interview tells you their current onboarding time and where it runs long, you could make a specific case then. If you still want it in the letter, the safest wording is something like "I'd like to look for ways to shorten time-to-qualification without cutting corners," not a number.
+
+**Other notes:**
+- **Your numbers.** I only used what you gave me, plus some simple math:
+  - 2019 to now is seven years without a lab injury beyond first aid.
+  - Your AP pass rate rose 17 points over four years.
+- **Your gaps.** The GMP records and the system they use come late in the letter and briefly. Each one sits next to what makes up for it.
+- **Things that would make it stronger if they're true:**
+  - Any GMP or FDA training you've started, even a short online course.
+  - Whether your safety program includes written procedures, sign-offs or training records you keep. That's the closest thing you have to GMP documentation, and it would be worth a sentence.
+  - One line on why you want to move from teaching into industry. A reader will wonder.
+- **Before you send it,** fill in the bracketed parts: the company name, the hiring manager's name if you can find it, and your contact details.
+
+<final_document>
+[Your Name]
+[Phone] · [Email]
+[Date]
+
+Dear [Hiring Manager's Name],
+
+I am applying for the Training Coordinator position at [Company]. For nine years I have taught high school chemistry. The part of that work I do best is also the core of your role: teaching people to follow a procedure correctly and safely, then making sure they can do it without me.
+
+In 2019 I wrote my school's lab safety program. In the seven years since, we have not had a single lab injury that needed more than first aid. That covers about 140 students a year working with acids, open flames and glassware, many of them for the first time. Building that program taught me that a safety rule only holds when people understand why it exists and have practiced it before it matters.
+
+I also train adults. Every year I run lab-procedure training for our new science teachers, about 12 hours for each one, and we average two new teachers a year. They arrive knowing chemistry but not our equipment, our procedures or our rules. I expect many of your new hires start in a similar place: capable people who need to learn exactly how the work is done here.
+
+I check whether my teaching is working, and I change it when it isn't. In the four years I have taught AP Chemistry, our pass rate has risen from 41% to 58%.
+
+I want to be direct about what I would be learning. I have not worked in a regulated industry, and I have not kept GMP training records. I also have not used your learning management system. I run my five classes in Google Classroom. Learning a new set of rules and a new system, and then teaching them to others, is the work I have done for nine years, and I expect to come up to speed quickly.
+
+What draws me to this role is the chance to help new hires get to the point where they can work safely and correctly on their own, as soon as your procedures allow. I live about 30 minutes from the plant and would welcome the chance to talk about how I could help your training program.
+
+Thank you for your consideration.
+
+Sincerely,
+[Your Name]
+</final_document>

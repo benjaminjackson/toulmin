@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:39:21.109334+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 395
+  tags: []
+  notes: extracted 395 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 7
+    honest: 6
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 4
+    objections: 8
+    fit: 9
+  details:
+    agree: The letter is measured. It accepts the certificate, makes three concrete
+      and reasonable requests and offers to work with management, which gives a defensive
+      manager a path to act, though the TV station threat may make her dig in.
+    honest: Most claims track the brief. However, 'more than one day in every eight'
+      is only true if the year is counted to mid-November rather than as a full year.
+      'Five months later' is inferred, not given. The picture of a resident who must
+      be carried goes slightly beyond the facts.
+    works_the_facts: It turns 41 days into a rate, 74 households into 'two in every
+      three' and the repeated six-to-eight-week promise into five months of delay.
+      These are well chosen, but it never states what happens if nothing changes,
+      for example the outages projected for next year.
+    right_comparison: It sets the passing certificate against actual availability
+      and shows the delay repeating since June, which gives an accurate picture of
+      the status quo. It does not weigh the $400,000 against anything.
+    qualification: The requests and the conditional 'if that is so, show us why' have
+      no deadline for a reply and no stated consequence if management misses it, so
+      the manager has nothing dated to check against.
+    objections: It meets 'we've handled it' head on by explaining what the certificate
+      does and doesn't show. The two-thirds signature figure quietly answers the 'few
+      loud people' view without raising objections the facts already settle.
+    fit: It is a properly formed open letter of roughly 400 words, signed by the secretary
+      and suitable for a lobby posting and a press release.

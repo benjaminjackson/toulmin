@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B stays strictly honest to the facts we know, while Document A speculates about the demographics and living situations of the people on the waiting list. Document B also uses simple, verifiable math to put the traffic impact and waiting list reduction into helpful perspective for the commissioners."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-37-35Z",
+  "without_skill_run": "2026-11-16T19-18-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B informs me that they have already gone to the local TV station, which forces me to act immediately to protect our company's reputation, and its three demands are much more reasonable than A's demand that we pay for an independent engineering review or post monthly failure logs in the lobby. By highlighting that 74 of 112 households signed the petition, it also makes it clear that this isn't just a few loud tenants."
+}

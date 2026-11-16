@@ -1,0 +1,34 @@
+I wrote the email for readers who feel let down. It opens with a plain apology and admits the shortfall. Next it lists what has changed, then the price and the deadline. Here are some choices I made, with my reasoning:
+
+- **The loss is put in numbers.** Half a box for six weeks comes to about three weeks of produce they paid for. Naming that shows you understand what they lost. You can remove the phrase if you'd prefer.
+- **The changes aren't oversold.** The hail nets cover only tomatoes and peppers, so the email doesn't say next season is safe from storms. A reader who got burned once will trust a careful claim more.
+- **It doesn't offer credit for future crop losses or a returning-member discount.** You didn't give me either. They're the two things most likely to win these people back. A line like "If a storm cuts your boxes again, we'll credit you" answers the main reason they left. If you can commit to that, add it as a fourth bullet.
+- **Placeholders:** the name, sign-up link and signature are in brackets for you to fill in.
+
+The body is about 170 words.
+
+<final_document>
+Subject: We should have done better after the hail
+
+Hi [Name],
+
+The July 9 hailstorm destroyed about half our crops. For six weeks after that, your box held about half what it should have. That's roughly three weeks of produce you paid for and didn't get. We didn't offer a refund or credit, and one short email was not enough explanation. I'm sorry. You had good reason not to sign up again.
+
+This winter we made these changes:
+
+- **A second field on higher ground**, so we no longer depend on one field.
+- **Hail nets over our tomatoes and peppers.** The field and the nets together cost us $31,000.
+- **Pauses with credit:** you can now pause up to 2 weeks and get credit for them.
+
+No farm can fully protect itself from hail, but we're much better prepared than we were last July.
+
+**Price:** a full 22-week share is still $540, the same as last year.
+**Deadline:** sign-up closes March 15, and 52 shares are left.
+
+If you'll give us another season, you can sign up here: [link]
+
+If something else would bring you back, just reply to this email and tell me.
+
+[Your name]
+[Farm name]
+</final_document>

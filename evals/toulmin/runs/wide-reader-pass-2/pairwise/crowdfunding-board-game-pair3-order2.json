@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-40-23Z",
+  "without_skill_run": "2026-11-16T19-19-25Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B shows the full budget (the factory quote, the shipping cost, 572 backers and the $5,450 left before platform fees), and its numbers add up. It also says plainly that the game hasn't sold yet, which is exactly what a wary backer of a first-time creator wants to see. A says the costs are 'worked out' but hides the figures and still has placeholders like the contingency line, so it reads as less trustworthy."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-37-35Z",
+  "without_skill_run": "2026-11-16T19-18-36Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B's collaborative tone, recognition of the inspection, and specific, reasonable requests with a 14-day response deadline make it harder to dismiss as a few loud people and easier for me to act on. A is tighter and sharp, but its mention of TV reads as pressure, which makes me more defensive."
+}

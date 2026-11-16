@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B names runway as the founder's main worry, ties the next update to spending and fundraising plans, and asks for specific help, which matters most to a lead investor who holds pro-rata rights and was already annoyed. A's point that MRR grew $5,500 apart from the lost chain is a sharper insight. B also claims the reminders work with any scheduler, which the brief doesn't support, so the gap is small."
+}

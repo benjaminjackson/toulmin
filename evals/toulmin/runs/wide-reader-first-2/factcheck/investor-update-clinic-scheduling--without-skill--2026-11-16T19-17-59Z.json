@@ -1,0 +1,25 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-17-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The 9 new clinics made up for that revenue, which is why monthly revenue stayed flat instead of falling.",
+      "why": "The brief does not state the revenue from the 9 new clinics or the other 3 lost clinics, nor does it preclude expansion revenue from existing customers, so it cannot be known that the 9 new clinics alone offset the losses."
+    },
+    {
+      "quote": "For larger groups, a basic scheduler that comes free with their records system is a real competitor.",
+      "why": "The brief only states that the scheduler is 'built into their electronic records system' and does not say whether it comes free or is basic."
+    },
+    {
+      "quote": "It also works no matter which scheduler a clinic uses.",
+      "why": "The brief only states that the reminder feature will be sold on its own, not that it integrates or works with any scheduler on the market."
+    },
+    {
+      "quote": "This lets us sell to clinics that are committed to their records system's scheduler, including groups like the chain we just lost, without having to replace that scheduler.",
+      "why": "The brief does not mention the reason for selling the reminder feature on its own or whether it can be used alongside an existing records system's scheduler."
+    }
+  ],
+  "invented_count": 4
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A frames the applicant's potential drawbacks smoothly and positively, turning his English night class into evidence of his work ethic and handling his family leave discreetly. Document B groups the trip to Mexico and his weaker written English into a 'things you should know' paragraph, which needlessly flags the leave as a concern to an admissions committee."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-37-32Z",
+  "without_skill_run": "2026-11-16T19-18-45Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A connects the turnover and training improvements directly to payroll savings—dropping training from 81 shifts to 25—which shows me this candidate already thinks like a budget owner, rather than asking me to spend my time teaching them finance like Document B does. It also stays completely true to the known facts without inventing learning plans or leaving large template brackets."
+}

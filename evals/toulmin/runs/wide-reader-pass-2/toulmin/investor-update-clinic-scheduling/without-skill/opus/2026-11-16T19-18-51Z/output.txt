@@ -1,0 +1,55 @@
+I made a few choices in the draft below:
+
+- **The missed updates come first.** Investors will notice the six-month gap, so naming it right away puts you in a better position than hoping they don't mention it.
+- **The lost chain is presented as a risk to the business, not a one-off.** A customer moving to the scheduler built into their records system is the question investors will ask about. Bringing it up yourself is more credible.
+- **Flat revenue is explained, not spun.** Losing a customer worth 13% of revenue and still ending flat means new sales covered the loss. That's real, and you can say it plainly.
+- **Runway is about 11 months** ($480k ÷ $44k). That's short enough that investors need to hear your plan. I left a bracketed space for it because I don't know if you're raising, cutting costs or aiming for break-even. Don't send the update without filling it in.
+
+**Check before sending:**
+- **Reason 2 for the standalone product** says the reminders feature can sell to clinics that use their records system's scheduler. Only keep that if it actually works alongside other schedulers.
+- **Name and quarter:** fill in [Company] and the quarter label in the subject line.
+- **The asks:** make them specific to your situation.
+
+The draft is about 430 words, so you have room to fill in the brackets.
+
+<final_document>
+**Subject: [Company] quarterly update: flat revenue, a big loss, and what we're doing about it**
+
+Hi all,
+
+First, an apology: I didn't send updates for the last two quarters. That was a mistake, especially going into a quarter like this one. You'll hear from me every quarter from now on.
+
+**The numbers**
+- Monthly recurring revenue: $41,000, flat from three months ago
+- Clinics: 9 added, 4 lost
+- Cash: $480,000
+- Net burn: about $44,000/month, which gives us about 11 months of runway
+- Team: 6
+
+**What happened**
+Our largest customer left this quarter. They were a 12-clinic chain paying $5,500/month, about 13% of our revenue, and they moved to the scheduler built into their electronic records system. The 9 new clinics we added made up for that loss. That's why revenue is flat and not down.
+
+I don't think this was a one-off. Records vendors are bundling scheduling, and it's hard to compete with "good enough and already included" for chains that already run everything inside one system. Independent and smaller clinics are a different situation, but I'd be fooling myself (and you) if I treated this as bad luck.
+
+**What's working**
+Clinics that use our automatic text reminders have a no-show rate of 7%, down from 13% before they started. That's nearly half. For a clinic, a no-show is lost revenue they can measure directly, so this is the clearest return we offer.
+
+**What's next**
+Next month we start selling the reminder feature on its own for $150/month. There are two reasons:
+1. It's the part of our product with proven, measurable value.
+2. It lets us sell to clinics that are happy with their current scheduler, including the ones built into records systems, so we don't have to compete with those schedulers head-on.
+
+Next quarter I'll report on standalone reminder sign-ups, churn and revenue, so you can judge whether this is working.
+
+**Runway**
+Eleven months isn't long. [Your plan: e.g., when you intend to raise and how much, the cost changes you're making, or the revenue level that gets you to break-even, and by when.]
+
+**How you can help**
+- Introductions to owners or operators of physical therapy clinics, especially independents, for the reminder launch.
+- Introductions to anyone who has sold a standalone add-on into a market where the big platform bundles a "good enough" version.
+- [Any other specific ask.]
+
+Thanks for your patience over the last six months. I'm happy to get on a call with any of you to go deeper.
+
+Ben
+</final_document>

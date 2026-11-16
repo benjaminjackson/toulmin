@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:39:59.672065+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 433
+  tags: []
+  notes: extracted 433 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 2
+    objections: 4
+    fit: 9
+  details:
+    agree: The candid opening and solid figures would earn Marisol's respect, but
+      she would likely still hesitate to recommend $50,000 because nothing says how
+      this grant's reporting will go differently from the last one.
+    honest: It correctly leaves out the unsupported claim that the van doubles fresh
+      food in a year and keeps every number within the brief; the one stretch is treating
+      the farms' offer as certain to come again next summer.
+    works_the_facts: The derived figures are useful and accurate (62 lb per household,
+      16 percent fresh, 3,000 lb a month, a 50 percent rise in the summer months),
+      though it never gives the annual effect or a cost per pound.
+    right_comparison: 'The alternative is stated in concrete terms: without the van,
+      the same offer is refused again. That fits the facts, though it assumes the
+      offer will recur.'
+    qualification: A dated, checkable commitment was needed, such as report deadlines,
+      a named person responsible and the consequence if a report is late, and none
+      is given.
+    objections: It admits the late report plainly but does nothing to answer Marisol's
+      real worry that it will happen again, and it raises the thin reserves without
+      explaining how the van's running costs will be met.
+    fit: It is a well-organised grant narrative within the 500-word limit, with a
+      clear summary block.

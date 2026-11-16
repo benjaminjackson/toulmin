@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-37-27Z",
+  "without_skill_run": "2026-11-16T19-18-51Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Both emails own the silence and clearly connect the lost customer's move to an EMR scheduler with the decision to unbundle the reminder feature. However, Document A is a complete email that sticks strictly to the facts, whereas Document B leaves unedited template brackets in the text and invents market theories about chains versus independents."
+}

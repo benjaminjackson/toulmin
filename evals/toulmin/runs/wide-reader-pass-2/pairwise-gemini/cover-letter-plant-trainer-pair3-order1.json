@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-39-19Z",
+  "without_skill_run": "2026-11-16T19-19-29Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A earns a phone screen because it shows an intuitive grasp of what GMP training records are actually for (proof that everyone on the floor is trained on the current procedure), whereas Document B makes me nervous by saying safety 'depends less on the written rules' and claiming to already be studying GMP requirements (which wasn't in the brief). Both smartly avoided the unrealistic claim of cutting training time in half, though A phrased it much more naturally ('as quickly as your procedures allow')."
+}

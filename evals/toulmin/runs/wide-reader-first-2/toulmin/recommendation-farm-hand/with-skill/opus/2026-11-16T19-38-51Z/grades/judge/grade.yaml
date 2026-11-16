@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:40:17.777232+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 360
+  tags: []
+  notes: extracted 360 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 7
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 5
+    objections: 8
+    fit: 9
+  details:
+    agree: "A quick reader comes away with a clear, specific picture of Tom\xE1s:\
+      \ he works alone on the 3 a.m. shift, uses data to catch sick cows, and is improving\
+      \ his writing on his own initiative, which is enough to move him toward the\
+      \ admit pile, though nothing sets him clearly apart from other strong applicants."
+    honest: 'Several details aren''t in the brief: ''Nobody else on the farm is awake
+      at that hour'', ''seriously ill'', ''not the vet or me'', and the description
+      of him comparing data with what he sees in the barn, though none of them distorts
+      the core facts.'
+    works_the_facts: 'The facts are repeated as given and never developed: two missed
+      shifts out of roughly 780 scheduled in three years is attendance above 99.7%,
+      and that strongest form of the dependability claim is left out.'
+    right_comparison: "Apart from 'one of the people I rely on most' and the point\
+      \ that he has the shift no one else could be trusted with unchecked, the letter\
+      \ gives the committee little to measure Tom\xE1s against, whether other workers\
+      \ or a typical applicant."
+    qualification: This is a recommendation with no forecast or condition attached,
+      so it needs no checkable hedge, and the weaker written English is stated plainly
+      rather than hedged.
+    objections: It meets the two likely objections, written English and the long absence,
+      directly and with context, and it doesn't raise worries the facts already answer,
+      though it frames the five-week absence briefly enough that a sceptic might still
+      wonder.
+    fit: It is a one-page formal reference letter from the farm manager, with placeholders
+      and contact details, which is what the brief asked for.

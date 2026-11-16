@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:39:05.144944+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 357
+  tags: []
+  notes: extracted 357 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 7
+    objections: 6
+    fit: 9
+  details:
+    agree: Speaking as a neighbour who also drives Alder Road makes the traffic trade-off
+      more believable to the two commissioners, but the speech only asks them to accept
+      the traffic cost, not reconsider it, so the opposing neighbours are unlikely
+      to change their minds.
+    honest: "Every figure matches the brief, and 'about one in six' holds up (64/412\
+      \ \u2248 1 in 6.4), but the speaker driving through the intersection 'every\
+      \ day' is invented, and 'one in six of the households waiting' assumes the units\
+      \ will go to people on that list."
+    works_the_facts: It works out the 64-against-412 share and the eight spare parking
+      spaces, and it picks the waiting list rather than the 2,100 shortfall to make
+      64 look large, but it leaves the 310 daily trips as a raw number instead of
+      breaking them down by hour or by rush hour, which would have made them look
+      smaller.
+    right_comparison: 'The alternative is stated accurately: the lot stays empty six
+      days a week and 412 households keep waiting about three years, which is all
+      the brief supports; the brief gives no trend to include.'
+    qualification: The speech makes no forecast that needs hedging, and it already
+      admits plainly that the traffic cost isn't zero.
+    objections: It names the traffic objection openly and answers parking with the
+      72 spaces, but on traffic it only concedes the cost; it never makes the case
+      that a D rating at rush hour alone is a limited, acceptable cost.
+    fit: At roughly 390 words this is a spoken public comment that fits in three minutes,
+      with a clear opening, the ask, and a close.

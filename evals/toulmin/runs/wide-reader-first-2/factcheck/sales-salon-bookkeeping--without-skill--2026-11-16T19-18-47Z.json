@@ -1,0 +1,25 @@
+{
+  "task": "sales-salon-bookkeeping",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-18-47Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Sales tax filing. Filed for you, on time.",
+      "why": "The brief states that the bookkeeper does sales tax filing, but does not state that it is always filed on time."
+    },
+    {
+      "quote": "There's one flat price and no add-on fees.",
+      "why": "The brief gives the monthly charge of $199, but does not state whether or not there are any add-on fees."
+    },
+    {
+      "quote": "including clients who've been with me for years.",
+      "why": "The brief mentions having 'existing clients' and referencing 'last year', but does not state that any clients have been with the bookkeeper for multiple years."
+    },
+    {
+      "quote": "Those are my days off, and many salons are closed then too.",
+      "why": "The brief only states that the bookkeeper does not answer the phone on Sundays or Mondays, not that those are full days off from work."
+    }
+  ],
+  "invented_count": 4
+}

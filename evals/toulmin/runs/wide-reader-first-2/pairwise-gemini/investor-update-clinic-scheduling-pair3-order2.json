@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-39-35Z",
+  "without_skill_run": "2026-11-16T19-19-40Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A rebuilds trust by owning the bad news without spinning the numbers, explicitly acknowledging the tight 11-month runway, and setting clear metrics for the next update. Document B tries to claim 15% growth by ignoring the other three lost clinics and fails to include the headcount."
+}

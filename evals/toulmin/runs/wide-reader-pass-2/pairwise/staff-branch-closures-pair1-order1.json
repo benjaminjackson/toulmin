@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "As a long-time teller who doesn't want phone work, I'm more likely to engage seriously with B: it names what I'll miss (my branch and members), invites my reaction, and tells me exactly what happens next (an individual meeting, a decision deadline, a Q&A). A acknowledges the hours but leaves me with no process for deciding."
+}

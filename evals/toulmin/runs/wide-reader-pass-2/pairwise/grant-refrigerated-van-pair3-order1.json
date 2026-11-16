@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-40-05Z",
+  "without_skill_run": "2026-11-16T19-20-01Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B speaks to my main worry. It commits to tracking fresh-food pounds every month and reporting them to us, and it says it will fix how it handles grant reports, while A only apologizes for the late report and offers no plan to prevent it. B's bracketed placeholders make it read like an unfinished draft, though, which keeps the gap small."
+}

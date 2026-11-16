@@ -1,0 +1,41 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-39-04Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "where strangers sat down and played it cold",
+      "why": "The brief only says the creator took the game to two conventions, not what happened there or who played it."
+    },
+    {
+      "quote": "On BoardGameGeek",
+      "why": "The brief says 'the main board game ratings site' and does not specifically name BoardGameGeek."
+    },
+    {
+      "quote": "they come from people who actually played the game, often more than once, and many of them told me what was broken",
+      "why": "The brief only states there are 23 ratings averaging 8.1 and says nothing about who the raters were, how many times they played, or what feedback they gave."
+    },
+    {
+      "quote": "Most of what's in the box today is there because of them.",
+      "why": "The brief does not mention whether playtesters or raters influenced the final contents of the game."
+    },
+    {
+      "quote": "I designed this game in the evenings and on weekends.",
+      "why": "The brief states the creator works full time as a land surveyor, not when they found time to design the game."
+    },
+    {
+      "quote": "about $9 per copy to reach backers in the US.",
+      "why": "The brief says shipping to backers costs about $9 a copy, without specifying or limiting that $9 cost to US backers."
+    },
+    {
+      "quote": "I set the goal to cover the real costs, not to look good on the funding bar.",
+      "why": "The brief gives the $28,000 goal and some costs, but does not state the creator's reasoning for how the goal was set."
+    },
+    {
+      "quote": "The rest of the goal covers platform and payment fees and the costs that come up between the factory and your door.",
+      "why": "The brief does not explain what the remaining portion of the $28,000 funding goal covers."
+    }
+  ],
+  "invented_count": 8
+}

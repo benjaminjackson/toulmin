@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:37:03.216746+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 343
+  tags: []
+  notes: extracted 343 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 7
+    right_comparison: 6
+    objections: 7
+    fit: 9
+  details:
+    agree: The speaker is a long-time Alder Road resident who names the traffic cost
+      and accepts it, which gives the traffic-focused commissioners a reason to vote
+      yes, though opposed neighbours will hear a church member asking them to bear
+      a cost they didn't choose.
+    honest: The figures match the brief, but calling it "the county's study" assigns
+      an author the brief doesn't name, "spread across the whole day" plays down the
+      rush-hour effect, and "chances like that don't come along often" is asserted
+      without support.
+    works_the_facts: The speech works out about five trips per unit (310/64), eight
+      spare parking spaces (72 minus 64) and about one in six of the waiting list
+      (64/412), all correct and well framed, though it never weighs 64 homes against
+      the 2,100 shortfall or the three-year wait beyond restating them.
+    right_comparison: The alternative is fairly described as an empty lot six days
+      a week and families still waiting, but the brief gives no trend, and the speech
+      doesn't say whether the waiting list or the shortage is growing.
+    qualification: The speech makes no conditional claims needing a hedge, and its
+      one concession (64 won't close 2,100) is stated plainly.
+    objections: The traffic objection is met head-on with the C-to-D drop admitted
+      and the cost owned, but parking is raised when the 72-space fact already answers
+      it and nobody in the reader description pressed it.
+    fit: At about 400 words of short spoken lines with placeholders for names, it
+      fits a three-minute public comment.

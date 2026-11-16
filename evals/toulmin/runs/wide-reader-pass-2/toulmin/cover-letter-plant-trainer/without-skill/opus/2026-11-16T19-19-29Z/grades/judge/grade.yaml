@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T19:20:00.020805+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 398
+  tags: []
+  notes: extracted 398 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 3
+    qualification: 4
+    objections: 6
+    fit: 8
+  details:
+    agree: The safety-program record and adult-onboarding experience give a skeptical
+      HR manager a real reason to consider a phone screen, but the vague answer to
+      the GMP gap may still leave her assuming this is another teacher who doesn't
+      know how a regulated plant works.
+    honest: 'The letter rightly drops the unsupported claim about cutting training
+      time in half, but it invents some facts: that the writer is ''already working
+      to understand GMP documentation,'' how the AP rate was raised, what the safety
+      program covers, and a ''move'' even though they live 30 minutes away.'
+    works_the_facts: 'The numbers are only restated, never worked out: it doesn''t
+      give the 17-point AP gain, the roughly 24 hours a year of adult training, or
+      the cumulative total of new-teacher training hours since starting, which would
+      make the corporate-training case stronger.'
+    right_comparison: The letter never deals with what the reader is actually choosing
+      between (a candidate who already has GMP and LMS experience versus this one)
+      and gives no picture of the plant's current onboarding to measure against.
+    qualification: It admits the GMP and LMS gaps, but the hedges ('expect to learn
+      quickly', 'in my first months', 'look for ways to measure') have no date, no
+      checkable number, and no consequence if they aren't met.
+    objections: It names the regulated-industry objection directly and without defensiveness,
+      but its answer is thin and partly invented, and it doesn't use the safety-program
+      documentation to show how close that work is to GMP record-keeping.
+    fit: It's a standard one-page cover letter with suitable placeholders, though
+      the closing line about committing to a 'move' doesn't fit someone who lives
+      30 minutes away.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-37-51Z",
+  "without_skill_run": "2026-11-16T19-19-01Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document B gives me what I would have to defend to the committee: a concrete fix for the late reporting (deadlines on the board calendar, a named volunteer, a board member responsible), a plan to track fresh pounds against the baseline, and an honest full-year estimate of about 12 percent. Document A only says 'we owe the Foundation better reporting' and gives no plan for it, and its 'five more pounds every month' line suggests a year-round gain that really only covers three months."
+}

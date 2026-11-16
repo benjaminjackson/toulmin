@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-39-57Z",
+  "without_skill_run": "2026-11-16T19-19-08Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A makes a single, reasonable request—posting a firm date in the lobby—and explicitly points out that two-thirds of the building signed the petition, making it hard for me to dismiss them as a few loud complainers or refuse to act. Document B demands five onerous things, including our supplier details and extra staffing during outages, and invents dramatic claims not in the facts."
+}

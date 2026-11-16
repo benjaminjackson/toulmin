@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:37:18.139624+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 354
+  tags: []
+  notes: extracted 354 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 8
+    objections: 7
+    fit: 9
+  details:
+    agree: Opening with traffic and admitting the slower rush hour, from someone who
+      lives two blocks away and will sit in that queue, earns credibility with the
+      traffic-focused commissioners, but it gives them nothing that makes the C-to-D
+      drop itself seem smaller.
+    honest: Nearly every claim matches the brief, but calling it 'the county's traffic
+      study' adds an attribution the brief doesn't give, and 'every apartment gets
+      a space' assumes how the 72 spaces will be assigned.
+    works_the_facts: It derives some useful figures (a wait running to 2029, about
+      one home per six households on the list, eight spare spaces), but it leaves
+      310 daily trips as a raw total instead of breaking it down by hour, and it doesn't
+      point out that D is still a working rating.
+    right_comparison: 'The ''if you say no'' paragraph sets out the status quo the
+      way the facts show it: the intersection stays a C, the lot stays empty and the
+      waiting list stays long. The brief gives no trend, and the speech doesn''t invent
+      one.'
+    qualification: The speech makes no forecast that needs a checkable condition,
+      so no qualification is required; the honest note that 64 homes won't clear the
+      list is enough.
+    objections: It meets the traffic objection head-on and uses the 72 spaces to answer
+      parking before anyone raises it, but it answers traffic by conceding the cost
+      and weighing it, not by showing that the impact is small.
+    fit: At about 390 words it is a spoken address that fits three minutes at a normal
+      pace, with a clear opening, a direct request and short sentences that are easy
+      to say aloud.

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-36-49Z",
+  "without_skill_run": "2026-11-16T19-18-37Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters are well-written, authentic, and highlight the exact skills I look for in an ag-tech applicant, though both omit the detail about the two-day notice before his summer absence. Document B is slightly more persuasive because it integrates the five-week absence naturally into his overall attendance record, whereas Document A devotes a whole paragraph to it and raises the question of whether he will finish the program."
+}

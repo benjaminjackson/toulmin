@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:36:36.200283+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 185
+  tags: []
+  notes: extracted 185 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 5
+    honest: 9
+    works_the_facts: 4
+    right_comparison: 4
+    objections: 4
+    fit: 9
+  details:
+    agree: The editor likes the illustrator and gets a polite, evidence-backed ask,
+      but $11,500 is $2,500 over a fixed $9,000 budget while an $8,000 option exists,
+      so the likeliest result is a counteroffer, not a yes.
+    honest: Every claim matches the brief, and the email rightly leaves out the unsupported
+      line that 'every other publisher pays at least $12,000', using only the one
+      $12,500 fee and the agent's range.
+    works_the_facts: The facts are listed but nothing is calculated from them, such
+      as four years with no raise, the four months of work per book (about $2,250
+      a month), or the size of the gap to the $12,500 fee; only the 'below the range
+      and below last year' framing puts a number in a good light.
+    right_comparison: It compares against what the illustrator earns elsewhere, but
+      not against the editor's real alternative, a cheaper and untested illustrator,
+      which is where the two 20,000-copy books and the reading-list pick would have
+      counted most.
+    qualification: This is a direct fee request with no forecast or condition, so
+      it needs no qualification.
+    objections: 'The editor''s main objection, a $9,000 budget per book, goes unaddressed:
+      the email offers no reason the extra cost pays off and no way to bridge the
+      gap, though it does keep things open with an offer to talk.'
+    fit: It is a short, warm email of about 190 words, under the 250-word limit, with
+      a clear ask and a clear next step.

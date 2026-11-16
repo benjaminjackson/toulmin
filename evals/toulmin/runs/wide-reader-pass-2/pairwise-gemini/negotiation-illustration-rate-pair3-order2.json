@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-38-24Z",
+  "without_skill_run": "2026-11-16T19-18-58Z",
+  "a_arm": "without-skill",
+  "winner": "tie",
+  "winner_arm": "tie",
+  "margin": "none",
+  "reason": "Both documents wisely leave out the untrue claim about what every other publisher pays, though Document A slightly adds that the four months is 'full-time' work. Document B sticks strictly to the facts, though its bolded ask feels a bit blunt for a close four-year working relationship, making them equally effective overall."
+}

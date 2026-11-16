@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A takes accountability right in the subject line and directly addresses my frustration about the farm going quiet by inviting me to reply with my thoughts. Document B is also good, but A gets the timeline right (I didn't renew for this year, not last year) and avoids assuming I've been a member for multiple seasons."
+}

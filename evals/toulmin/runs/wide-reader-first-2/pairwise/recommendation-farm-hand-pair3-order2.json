@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-38-51Z",
+  "without_skill_run": "2026-11-16T19-19-09Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B is tighter and makes a stronger link between his software skills and the program. A adds claims the facts don't support: that he 'taught himself', did it 'not because anyone told him to', and 'stepped straight back' into full duties. That makes A slightly less trustworthy."
+}

@@ -1,0 +1,37 @@
+{
+  "task": "grant-refrigerated-van",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-19-01Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Our fresh food is limited by transportation, not supply.",
+      "why": "The brief states that the food bank turned down farm produce because it had no way to pick it up cold or store it, not that transportation is the sole limiting factor."
+    },
+    {
+      "quote": "We are making it because cold transport is what stands between our clients and fresh food that is already available in our community.",
+      "why": "The brief states that the food bank lacked both cold pickup and storage, not that cold transport alone stands between clients and available fresh food."
+    },
+    {
+      "quote": "The van will let us collect produce directly from farms and keep it cold until distribution.",
+      "why": "The brief does not state that the van will be used to store or keep produce cold all the way until distribution, noting earlier that the food bank also lacked a way to store the produce."
+    },
+    {
+      "quote": "In the first year, our goal is to accept the farm produce we currently turn away: at least 9,000 additional pounds of fresh food.",
+      "why": "The brief states that the writer wants the narrative to say the van will double fresh food distribution in the first year (which would be an additional 72,000 pounds), not set a goal of at least 9,000 additional pounds."
+    },
+    {
+      "quote": "For this grant, we will put every reporting deadline on our board calendar at the time of award and assign one named volunteer to prepare each report, with a board member responsible for submitting it on time.",
+      "why": "The brief does not mention a board of directors, a board calendar, or any specific plan for handling future grant reporting."
+    },
+    {
+      "quote": "Much of the fresh food our neighbors need is grown a few miles away.",
+      "why": "The brief mentions 'local farms' but does not state how many miles away the food is grown."
+    },
+    {
+      "quote": "With the Foundation's help and our own reserves, we can start saying yes next summer.",
+      "why": "The brief does not give a timeline for when the van would be acquired or when the food bank would begin accepting the produce."
+    }
+  ],
+  "invented_count": 7
+}

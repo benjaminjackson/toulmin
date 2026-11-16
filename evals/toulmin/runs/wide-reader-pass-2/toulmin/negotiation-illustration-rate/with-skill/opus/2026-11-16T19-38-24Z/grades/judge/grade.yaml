@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:40:03.174390+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 198
+  tags: []
+  notes: extracted 198 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 6
+    honest: 10
+    works_the_facts: 5
+    right_comparison: 5
+    objections: 4
+    fit: 9
+  details:
+    agree: The editor likes her and gets a polite, well-supported ask, but $11,500
+      is $2,500 over a fixed $9,000 budget with an $8,000 newcomer available, and
+      nothing helps the editor justify the gap internally, so a counteroffer is more
+      likely than a yes.
+    honest: "The email leaves out the unsupported claim that every other publisher\
+      \ pays at least $12,000, and every figure it uses ($9,000, six books, 20,000+\
+      \ copies, the reading list, $12,500, the $11,000\u2013$13,000 range, four months,\
+      \ 14 spreads) matches the brief exactly."
+    works_the_facts: 'Calling $11,500 below last year''s $12,500 and near the low
+      end of the agent''s range is a good framing, but the email works out nothing
+      else: not that the fee has stayed flat across six books and four years, not
+      that $9,000 over four months comes to about $2,250 a month, and not the size
+      of the increase.'
+    right_comparison: It sets her flat rate against the rising market and her other
+      publisher, but never against the editor's real alternative, an untested illustrator,
+      and her sales record and reading-list title are not framed as what that cheaper
+      option lacks.
+    qualification: The email makes a direct ask with no conditions, and none are needed.
+    objections: The editor's main objections, a $9,000 budget and a cheaper illustrator
+      available, go unanswered apart from the indirect pull of her sales record, and
+      no options like a staged increase or splitting the difference are offered.
+    fit: It is a clear, warm, well-structured email of about 200 words, under the
+      250-word limit, with the ask in bold and a concrete next step.

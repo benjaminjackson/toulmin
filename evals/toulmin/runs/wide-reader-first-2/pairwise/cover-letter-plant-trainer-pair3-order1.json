@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-38-46Z",
+  "without_skill_run": "2026-11-16T19-19-29Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A's case is tight and verifiable. It treats the GMP and LMS gaps head-on and links the safety program to the procedural discipline GMP depends on, so it reads like someone who understands a regulated plant. B adds things the brief doesn't support: that the candidate is already studying GMP, that the AP gains came from redesigning instruction, and an odd mention of committing to a move. It also leaves a visible LMS placeholder, which would make a skeptical screener doubt it."
+}

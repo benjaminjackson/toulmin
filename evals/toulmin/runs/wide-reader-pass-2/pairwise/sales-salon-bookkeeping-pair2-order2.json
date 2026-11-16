@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-36-53Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "A speaks my language. It mentions tips, booth rent, commission and that Sunday-night sorting, and it notes that Sundays and Mondays are salon days off too, so it feels like she gets my shop. B is honest and tidy but reads like a list, and nothing in either one makes me want to drop my cousin more than A does."
+}

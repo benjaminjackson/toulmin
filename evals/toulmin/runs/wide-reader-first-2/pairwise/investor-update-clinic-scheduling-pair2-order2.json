@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-37-27Z",
+  "without_skill_run": "2026-11-16T19-18-51Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A has stronger analysis and promises regular updates with specific metrics, but it reaches me with unfilled bracketed placeholders, one right where the runway plan should be. To an investor already annoyed by the missed updates, that looks careless. B is complete and candid, and it gives a concrete figure: 37 reminder subscriptions would replace the lost chain's revenue."
+}

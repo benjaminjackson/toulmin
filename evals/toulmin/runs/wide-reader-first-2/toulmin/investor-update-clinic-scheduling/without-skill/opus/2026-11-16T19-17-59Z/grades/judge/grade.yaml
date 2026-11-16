@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:18:50.974088+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 406
+  tags: []
+  notes: extracted 406 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 3
+    objections: 5
+    fit: 9
+  details:
+    agree: The plain apology and candid bad news would ease some of the cold investor's
+      irritation, but with no numeric target for the reminder product and fundraising
+      put off to the next update, they have little reason to commit more support yet.
+    honest: Every figure matches the brief and the runway math is correct, though
+      the claim that reminders work 'no matter which scheduler a clinic uses' and
+      that they give customers 'another reason to stay' go a little beyond the stated
+      facts.
+    works_the_facts: It works out about 11 months of runway and the near-halving of
+      no-shows, but it never says the lost chain was about 13% of revenue, gives no
+      month when cash runs out, and doesn't say how many $150 subscriptions would
+      replace the lost $5,500 (about 37) or cover the burn.
+    right_comparison: 'It admits revenue is flat and calls runway the main concern,
+      but it never spells out the do-nothing path: flat revenue with cash running
+      out around next autumn, and the latest point to start raising money.'
+    qualification: The only commitment, to report how standalone reminders are selling
+      next quarter, has no target number, deadline, or stated consequence if sales
+      disappoint.
+    objections: It deals head-on with the missed updates and promises regular reports,
+      but it doesn't meet a lead investor's real question about runway and the next
+      round with a concrete plan or decision point.
+    fit: It is a well-organized investor email of about 430 words, under the 500-word
+      limit, with clear sections and specific requests for help.

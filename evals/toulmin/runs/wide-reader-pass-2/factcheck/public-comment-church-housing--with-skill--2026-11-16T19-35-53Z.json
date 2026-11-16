@@ -1,0 +1,25 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-35-53Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The county's traffic study says this project adds 310 car trips a day on Alder Road.",
+      "why": "The brief mentions 'the traffic study' without stating that the county conducted or commissioned it."
+    },
+    {
+      "quote": "I drive through that intersection. I'll be sitting in that line too.",
+      "why": "The brief says the speaker lives on Alder Road two blocks from the church, not that the speaker drives or uses the intersection at Alder and 4th during rush hour."
+    },
+    {
+      "quote": "A family that signs up this month is looking at 2029.",
+      "why": "The brief states the average wait is three years, but it does not state that the current year is 2026."
+    },
+    {
+      "quote": "Every apartment gets a space, and there are eight to spare.",
+      "why": "The brief states there are 72 parking spaces for 64 units, not that one space is assigned to each apartment with the remaining eight left as spare spaces."
+    }
+  ],
+  "invented_count": 4
+}

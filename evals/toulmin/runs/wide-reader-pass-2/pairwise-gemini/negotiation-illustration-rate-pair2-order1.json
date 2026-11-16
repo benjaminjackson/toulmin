@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-36-41Z",
+  "without_skill_run": "2026-11-16T19-18-33Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both emails wisely omit the false claim that every other publisher pays at least $12,000, which I would know isn't true. Document B is slightly better because its tone is warmer and more collaborative—avoiding the blunt 'Can we agree on $11,500?'—which makes me more inclined to fight for extra budget rather than just moving on to my cheaper $8,000 option."
+}

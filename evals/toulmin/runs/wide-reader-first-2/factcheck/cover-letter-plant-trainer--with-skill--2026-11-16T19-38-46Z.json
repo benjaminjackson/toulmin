@@ -1,0 +1,21 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-38-46Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "In the seven years since, our labs have had no injury that needed more than first aid.",
+      "why": "The brief states the program was written in 2019 and says 'Since then', but does not give the current year, so a duration of seven years cannot be calculated."
+    },
+    {
+      "quote": "the program works because it doesn't depend on anyone remembering the rules. It's written down, taught and enforced the same way every time.",
+      "why": "The brief does not explain why the lab safety program works or how it is structured, taught, and enforced."
+    },
+    {
+      "quote": "They arrive with degrees in their subject",
+      "why": "The brief does not state what degrees or credentials the new science teachers have."
+    }
+  ],
+  "invented_count": 3
+}

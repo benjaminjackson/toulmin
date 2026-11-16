@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:39:34.714558+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 320
+  tags: []
+  notes: extracted 320 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 7
+    right_comparison: 5
+    qualification: 3
+    objections: 5
+    fit: 9
+  details:
+    agree: The opening apology and plain reporting of bad news should ease a cold
+      investor somewhat, but the update has no plan for the 11-month runway or for
+      fundraising, and that will leave this investor unsure whether to keep backing
+      the company.
+    honest: "Every figure follows from the brief (13% share, just under 11 months\
+      \ of runway, about $5,500 from net new clinics, 37 \xD7 $150), and 'nearly half'\
+      \ slightly understates the 46% drop in no-shows rather than overstating it."
+    works_the_facts: It works out runway, the lost customer's share of revenue, the
+      growth underneath the loss and the number of reminder subscriptions needed to
+      replace the chain, but it never says when the cash runs out or what pace of
+      reminder sales would be needed.
+    right_comparison: 'It names the records-system scheduler as the real competitor
+      and explains how standalone reminders answer it, but it never states the case
+      where nothing changes: flat revenue and cash gone by about next autumn.'
+    qualification: The '37 subscriptions' goal has no date, no checkpoint and no consequence
+      if it is missed, so the investor has nothing to hold the founder to at the next
+      update.
+    objections: 'It deals with the skipped updates and the customer concentration,
+      but it leaves open the resisting investor''s main questions: when the company
+      raises again or cuts burn, and what happens if the reminder product doesn''t
+      sell.'
+    fit: It is a clear investor email of about 370 words, under the 500-word limit,
+      with a subject line that states the news and sections that are easy to scan.

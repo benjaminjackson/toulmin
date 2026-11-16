@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:37:15.847912+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 381
+  tags: []
+  notes: extracted 381 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 4
+    objections: 8
+    fit: 9
+  details:
+    agree: A skeptical HR manager gets a candid, concrete letter that maps the safety
+      program and adult training onto plant onboarding and names the gaps outright,
+      which is probably enough for a phone screen but not certain to get one.
+    honest: It drops the unsupported 'cut training time in half' claim for a plain
+      'shorten'; seven years since 2019 is correct; every number matches the brief,
+      with only slight stretch in calling students people 'handling hazardous materials.'
+    works_the_facts: 'It repeats the raw figures but never works them out: nearly
+      1,000 students through the labs with no serious injury, a 17-point pass-rate
+      gain, and roughly 18 new teachers trained since 2019 at about 12 hours each
+      would all have read stronger.'
+    right_comparison: It compares a new teacher with a new production hire, which
+      is reasonable, but never takes on the reader's real alternative, a candidate
+      who already has GMP experience, or why this candidate beats that one.
+    qualification: The GMP and LMS gaps are admitted, but with no timeline or checkable
+      plan for closing them, and the promise to 'shorten' onboarding has no number
+      or measure attached.
+    objections: It meets the main objection head-on (no regulated-industry or GMP
+      records experience) by pointing to seven years of writing, training to and holding
+      a procedure, and it raises no objection the facts already answer.
+    fit: It is a standard one-page cover letter in a clear, professional voice, as
+      the brief asked.

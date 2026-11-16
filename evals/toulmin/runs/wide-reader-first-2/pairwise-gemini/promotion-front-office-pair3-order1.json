@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-39-32Z",
+  "without_skill_run": "2026-11-16T19-19-17Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both documents wisely avoid taking all the credit for the guest score increase after our renovation, and both honestly connect the training and retention gains to payroll savings. Document A wins slightly because it handles the budget gap with humility and invites my guidance, whereas Document B makes up a specific 30-day plan involving a finance team and tools not in the brief and presumes to schedule my time."
+}

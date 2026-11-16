@@ -1,0 +1,64 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+Marisol Ortega, the program officer at the county community foundation, who reads the application first and recommends yes or no to the grants committee. She funded this food bank's shelving in 2023 and had to chase its final report for four months.
+</reader>
+
+<brief>
+I need help with the narrative section of a grant application. I'm the director of a volunteer-run food bank in a town of about 9,000 people, and we're applying to our county community foundation for a refrigerated van.
+
+What I have:
+- We hand out about 38,000 pounds of food a month to 610 households. About 6,000 pounds of that is fresh produce, milk and eggs.
+- Last summer, local farms offered us roughly 9,000 pounds of produce over three months that we had to turn down because we had no way to pick it up cold or store it.
+- The van costs $68,000. We're asking the foundation for $50,000 and covering the other $18,000 from our reserves, which would leave us with $11,000.
+- We have 23 regular volunteers. Four of them have said they would drive the van on a weekly schedule.
+- The foundation gave us $12,000 for shelving in 2023. Our final report on that grant was four months late.
+
+I want the narrative to say the van will let us double the amount of fresh food we hand out in the first year. The narrative is limited to 500 words.
+</brief>
+
+
+
+<document>
+**Project Narrative: Refrigerated Van**
+
+Every month, our volunteers distribute about 38,000 pounds of food to 610 households in our town of roughly 9,000 people. About 6,000 pounds of that is fresh produce, milk and eggs. We are requesting $50,000 toward a $68,000 refrigerated van that will let us accept, transport and store much more fresh food.
+
+**The Need**
+
+The limit on our fresh food is not supply. It is cold transport and storage. Last summer, local farms offered us roughly 9,000 pounds of produce over three months. We had to turn it down because we had no way to pick it up cold or keep it fresh until distribution. That food was available to families in our community, and we could not accept it.
+
+**The Project**
+
+A refrigerated van solves both halves of the problem. It lets us collect produce directly from farms at harvest and keep it at safe temperatures until it reaches families. Four of our 23 regular volunteers have committed to driving the van on a weekly schedule, so it will be in regular use from the day it arrives.
+
+**Expected Results**
+
+Based on last summer's offers alone, the van will allow us to distribute at least 9,000 additional pounds of fresh produce in its first year. That is a 12.5 percent increase over our current 72,000 pounds of fresh food a year. During the three summer harvest months, it raises our fresh food distribution by half. We consider this a floor. Once we can reliably collect cold food, we will approach farms and donors who have not been able to work with us before. We will track the pounds of fresh food we receive and distribute each month and report these figures to the Foundation.
+
+**Our Investment**
+
+The van costs $68,000. We will contribute $18,000 from our reserves, more than a quarter of the total, which leaves our reserves at $11,000. We are making this commitment because fresh food is the greatest unmet need we see. [One sentence on how fuel, insurance and maintenance will be covered, with the estimated annual cost.]
+
+**Our History with the Foundation**
+
+The Foundation's $12,000 grant in 2023 paid for shelving we use on every distribution day. [Optional: one specific result of the shelving.] We also want to be direct: our final report on that grant was four months late. Since then, we have [specific change, e.g., assigned a board member responsible for grant reporting with calendar deadlines]. We will submit every report for this grant on time.
+
+**Conclusion**
+
+Our community already has more fresh food than we can accept. Farms are ready to give it, families need it, and volunteers are ready to drive. With the Foundation's support, a refrigerated van will connect them.
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

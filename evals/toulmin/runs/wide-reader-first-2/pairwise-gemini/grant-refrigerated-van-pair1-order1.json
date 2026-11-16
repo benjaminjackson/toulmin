@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A earns my trust immediately by addressing the late 2023 report right at the top and sticking strictly to the facts they actually have. While both applicants wisely avoided overpromising on their fresh food projections, Document B's unprompted promise to submit quarterly updates makes me skeptical given how hard it was to get a single report from this all-volunteer group last time."
+}

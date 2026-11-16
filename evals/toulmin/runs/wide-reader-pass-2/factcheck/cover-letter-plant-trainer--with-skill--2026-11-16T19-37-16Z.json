@@ -1,0 +1,21 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-37-16Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "In the seven years since, we have not had a single lab injury that needed more than first aid.",
+      "why": "The brief states the safety program was written in 2019, and does not give the current year, so the seven-year duration cannot be worked out from the brief."
+    },
+    {
+      "quote": "That covers about 140 students a year working with acids, open flames and glassware, many of them for the first time.",
+      "why": "The brief does not mention that the students work with acids, open flames, or glassware, nor that it is the first time for many of them."
+    },
+    {
+      "quote": "They arrive knowing chemistry but not our equipment, our procedures or our rules.",
+      "why": "The brief does not state what the new science teachers do or do not know when they arrive."
+    }
+  ],
+  "invented_count": 3
+}

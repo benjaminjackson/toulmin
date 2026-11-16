@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "For me, coming from a cousin who charges $600 a year, A does more to justify $199 a month: it spells out what the price covers (reconciled accounts, payroll taxes, a flat fee) and keeps the accountant-savings claim as a client's own words. B tells me about a recent price rise, which makes the cost feel bigger, and it states the $800 saving as fact when a client only reported it, though its invitation to talk about how I do my books now is warm."
+}

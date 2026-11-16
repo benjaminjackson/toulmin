@@ -1,0 +1,13 @@
+{
+  "task": "grant-refrigerated-van",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-37-51Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "A refrigerated van lets us say yes. Our volunteers can collect from farms on a weekly schedule and keep the food cold until it is handed out.",
+      "why": "The brief states that produce was turned down because the food bank had no way to pick it up cold or store it, and it does not state that a refrigerated van will solve the storage problem or keep the food cold until it is handed out."
+    }
+  ],
+  "invented_count": 1
+}

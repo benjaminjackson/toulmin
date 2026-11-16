@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-39-46Z",
+  "without_skill_run": "2026-11-16T19-19-40Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "B directly promises updates every quarter, which answers my complaint. It describes the flat quarter plainly as refilling the bucket, and it names the reminder metrics I'll get next quarter. A's \"up about 15% excluding the chain\" reads like spin to a skeptical investor, though B's \"[Your name]\" placeholder is sloppy."
+}

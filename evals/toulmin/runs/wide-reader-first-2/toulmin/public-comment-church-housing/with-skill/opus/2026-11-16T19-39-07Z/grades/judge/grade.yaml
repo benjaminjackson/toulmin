@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:40:30.570223+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 310
+  tags: []
+  notes: extracted 310 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 6
+    objections: 7
+    fit: 9
+  details:
+    agree: The speaker's honesty as a long-time Alder Road neighbour who concedes
+      the traffic cost will win some respect, but the traffic-focused commissioners
+      get no reason to think the C-to-D drop is small, so many objectors will stay
+      unmoved.
+    honest: Every figure comes from the brief and is stated at its proper strength;
+      "about one in six" (64/412) and "already paved" are fair readings, and the speech
+      claims the homes are enough for one in six households, not that waiting-list
+      households will get them.
+    works_the_facts: It works out the one-in-six share of the waiting list and the
+      eight extra parking spaces, but it never puts the 310 trips in a smaller form,
+      such as per household or per rush hour, and it does little else with the numbers.
+    right_comparison: It hints at the status quo (an empty lot and a three-year wait)
+      but never says outright that if the project is rejected the shortfall stays
+      and the wait goes on.
+    qualification: The speech makes no forecast that depends on an uncertain outcome,
+      so it doesn't need a hedge or condition.
+    objections: It takes on traffic directly as a stated trade and settles parking
+      with the 72 spaces, but it leaves the C-to-D drop unsoftened, with no context
+      or mitigation for the commissioners who weigh it most.
+    fit: It is a spoken public comment of about 380 words, which fits comfortably
+      in three minutes, with a proper opening, a direct ask and a close.

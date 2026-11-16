@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:36:49.228213+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 346
+  tags: []
+  notes: extracted 346 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 7
+    honest: 4
+    works_the_facts: 5
+    right_comparison: 4
+    objections: 7
+    fit: 9
+  details:
+    agree: A quick-reading committee member gets concrete evidence they can check
+      (the solo 3 a.m. shift, nine early mastitis catches, two missed shifts in three
+      years) and a candid note on his English, so a sceptical reader would likely
+      rank him above the middle of the pile.
+    honest: 'Several claims go beyond the brief: ''Nobody asked him to learn our herd
+      management software,'' that he took the night class ''on his own initiative,''
+      that he ''picked up exactly where he had left off,'' and that his father was
+      ''seriously'' ill are all invented or inflated.'
+    works_the_facts: 'The figures are used accurately but not developed: two missed
+      shifts out of roughly 780 scheduled over three years would make the attendance
+      record far more striking, and the letter never states it that way.'
+    right_comparison: The only comparison with other people is the vague 'one of the
+      most dependable people I have employed,' with no count of workers or other basis
+      that would help the committee place him against 150 applicants.
+    qualification: A reference letter of this kind needs no conditional hedge, and
+      the English concession is a disclosure rather than a forecast that could turn
+      out either way.
+    objections: It meets the two likely objections, his written English and the five-week
+      absence, head-on and links both to his reliability, though it does so partly
+      with invented detail rather than only the brief's facts.
+    fit: It is a properly formatted one-page letter from the farm manager, with a
+      clear recommendation and contact offer, as the brief asked.

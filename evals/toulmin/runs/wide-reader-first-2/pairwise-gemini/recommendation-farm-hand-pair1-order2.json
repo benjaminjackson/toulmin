@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters are very persuasive and well-suited to a quick read, though both add the assumption that Tomás learned the software on his own initiative. Document B edges out Document A because it leads directly with his agricultural technology skills—which is what I am screening for—and sounds slightly more like an authentic farm manager."
+}

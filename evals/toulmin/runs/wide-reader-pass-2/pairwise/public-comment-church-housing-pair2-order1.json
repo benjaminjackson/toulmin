@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-37-18Z",
+  "without_skill_run": "2026-11-16T19-18-48Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A admits up front that the speaker belongs to the church, and it states the traffic cost without playing it down, so a skeptical room and the commissioners worried about traffic are more likely to trust it. B is warmer, but its claims about 'a few extra seconds' and residents not parking on the street go beyond the brief and could backfire."
+}

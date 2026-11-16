@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-39-04Z",
+  "without_skill_run": "2026-11-16T19-19-25Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a wary backer, I trust A more because it shows the actual numbers: the $17,400 factory quote, $9 shipping per copy and about 572 backers needed. It also admits that 23 ratings is a small sample. B has nicer theme writing, but its money section is vague and still has placeholders, so it reads as less trustworthy coming from a first-time creator."
+}

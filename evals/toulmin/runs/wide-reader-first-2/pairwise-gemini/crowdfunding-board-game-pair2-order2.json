@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-36-55Z",
+  "without_skill_run": "2026-11-16T19-18-43Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins me over by doing the actual math on the budget (572 backers) and honestly admitting that 23 BGG ratings is a small sample size rather than hyping it up. Document A invents gameplay details, falsely claims 'hundreds of tables' for 140 playtests, and promises a freight reserve that the budget math barely supports after platform fees."
+}

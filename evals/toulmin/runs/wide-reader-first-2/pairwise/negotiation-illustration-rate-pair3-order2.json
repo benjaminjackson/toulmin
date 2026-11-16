@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-38-11Z",
+  "without_skill_run": "2026-11-16T19-18-58Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both emails give the same honest facts and make the same reasonable $11,500 ask without the inflated claim that every publisher pays $12,000. B edges ahead because it sets out the same job at the same flat fee against a stronger track record, which makes the raise feel earned, and it closes with warmth that tells me she wants to stay."
+}

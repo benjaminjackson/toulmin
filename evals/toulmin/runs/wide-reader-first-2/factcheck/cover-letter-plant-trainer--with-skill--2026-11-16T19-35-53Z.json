@@ -1,0 +1,25 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-35-53Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Since then, about 140 students a year have worked in our labs, and none of them has had an injury that needed more than first aid.",
+      "why": "The brief states that the applicant personally teaches about 140 students a year and that the school's labs have had no such injuries, not that only 140 students a year work in the school's labs overall."
+    },
+    {
+      "quote": "I wrote the procedures and taught them, and I made sure students actually followed them, not just once but every class period, every year.",
+      "why": "The brief only states that the applicant wrote the school's lab safety program in 2019, not that they taught the procedures and enforced them during every single class period."
+    },
+    {
+      "quote": "I got there by finding out where students were getting lost and changing how I taught those parts.",
+      "why": "The brief gives the AP Chemistry pass rate increase from 41% to 58% but does not state the cause or method behind the improvement."
+    },
+    {
+      "quote": "I've also built my courses in Google Classroom, not in the learning management system your plant uses.",
+      "why": "The brief only says the applicant uses Google Classroom, not that they built their courses in it."
+    }
+  ],
+  "invented_count": 4
+}

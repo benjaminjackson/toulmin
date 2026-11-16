@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-39-13Z",
+  "without_skill_run": "2026-11-16T19-19-13Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "After two weeks of rumours, Document A puts the exact details about my job, pay, and severance right at the top instead of burying them under business stats, and it stays completely honest to the facts without adding promises about scheduling or one-on-ones. It also makes a more convincing, personal case for how my years of face-to-face experience at the counter actually matter in a phone role."
+}

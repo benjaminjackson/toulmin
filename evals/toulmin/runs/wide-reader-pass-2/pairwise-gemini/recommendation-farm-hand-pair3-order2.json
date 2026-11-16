@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-39-44Z",
+  "without_skill_run": "2026-11-16T19-19-09Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B stays truer to the facts (whereas Document A invents that Tomás 'taught himself' the software) and doesn't waste time explaining what mastitis detection means to an agricultural committee. B also leads with his technical aptitude and smartly frames the comment about his written English as helpful context for the application we are reading."
+}

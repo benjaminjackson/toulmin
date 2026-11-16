@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A shows it understands what a regulated plant cares about, with lines like 'without removing a single step your quality system requires.' It is also specific about the GMP gap without overclaiming. B says teaching and plant training are the same at their core and promises to 'close the gap quickly,' which sounds like the generic teacher letters I already doubt."
+}

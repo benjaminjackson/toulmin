@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-39-32Z",
+  "without_skill_run": "2026-11-16T19-19-17Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Both documents wisely avoid overclaiming credit for the guest score increase that I attribute mostly to the renovation, which builds my trust. However, Document A wins because it offers a concrete plan for learning the $1.1M budget and directly connects the writer's training and retention successes to payroll savings, helping to close the gap with the more experienced outside candidate."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-39-57Z",
+  "without_skill_run": "2026-11-16T19-19-08Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A asks for one cheap, specific thing, a firm written date posted in the lobby, so I can say yes without seeming to admit fault, and it sticks to the facts. Document B gives me five demands to push back on and adds claims I could dispute, such as residents stranded for almost two weeks, which makes it easier to write off as the loud few."
+}

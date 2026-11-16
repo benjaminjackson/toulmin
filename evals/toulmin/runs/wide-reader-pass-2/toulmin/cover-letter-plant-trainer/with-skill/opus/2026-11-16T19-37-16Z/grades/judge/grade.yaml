@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T19:39:18.874565+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 376
+  tags: []
+  notes: extracted 376 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 3
+    objections: 6
+    fit: 8
+  details:
+    agree: A skeptical HR manager would see concrete, honest results and a candid
+      admission of gaps, so a phone screen is plausible, but nothing shows the candidate
+      already thinks in terms of SOPs, documentation or audits, so her doubt about
+      teachers is only partly eased.
+    honest: 'The letter rightly drops the unsupported claim to halve training time
+      and keeps every number accurate (2019 to 2026 is seven years), but it adds details
+      the brief never gave: acids, open flames, and students handling them ''for the
+      first time.'''
+    works_the_facts: 'The figures appear as given and are never developed: no cumulative
+      count of roughly 980 student-years without a serious injury, no 17-point (about
+      41% relative) gain in the pass rate, and no total of roughly 18 teachers or
+      200+ hours of adult training.'
+    right_comparison: The pass-rate trend is shown, but the letter never weighs itself
+      against the real alternative, a candidate who already has GMP experience, beyond
+      drawing an analogy between new teachers and new hires.
+    qualification: The hedge about GMP records and the LMS ends with 'come up to speed
+      quickly,' with no timeframe, milestone or check the reader could hold the candidate
+      to.
+    objections: The reader's main objection, no regulated-industry experience, is
+      named directly and not dodged, but the answer is a general claim of fast learning
+      rather than linking the safety program and procedure training to documented
+      compliance.
+    fit: It is a one-page cover letter in the standard form, and leaving out the 'cut
+      training time in half' claim the user asked for is a justified departure rather
+      than a failure of fit.

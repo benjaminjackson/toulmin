@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:39:46.078567+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 338
+  tags: []
+  notes: extracted 338 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 4
+    qualification: 3
+    objections: 6
+    fit: 9
+  details:
+    agree: The GM gets an honest case. It admits the renovation's part in the scores,
+      gives seven weeks of proven coverage and a quantified training gain, but it
+      never sets the writer against the outside candidate's experience at a larger
+      hotel and offers no concrete plan for the budget gap, so the doubtful reader
+      is moved only part of the way.
+    honest: It rightly drops the 'main reason' claim the brief asked for and its numbers
+      come from the brief, but 'the team I ran' and 'the department has run under
+      me' overstate the role of an assistant manager whose boss was in place for most
+      of those 18 months.
+    works_the_facts: Turning the training and turnover facts into 81 training shifts
+      versus about 25 is a sound, favourable derivation that links straight to payroll,
+      though it could also have given turnover as a rate (64% to 36%).
+    right_comparison: The real alternative is the outside candidate, and that comparison
+      is only hinted at through 'no handover', with nothing on what hiring someone
+      who doesn't know the hotel would cost or risk.
+    qualification: The budget gap is stated plainly, but there is no checkable commitment,
+      such as finishing budget training or reporting payroll against plan by a set
+      date, and nothing on what happens if that is missed.
+    objections: 'It meets the GM''s view on the renovation directly and faces the
+      budget gap, but it leaves the strongest objection unanswered: the rival''s experience
+      running a bigger front desk.'
+    fit: It is a concise one-page memo in the written form the GM asked for, with
+      clear sections and a closing request.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-38-17Z",
+  "without_skill_run": "2026-11-16T19-18-43Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is upfront about the small 8.1 sample, takes on the first-time-creator worry directly, and its funding math checks out (about 572 backers). A says 'hundreds of tables' when there were 140 sessions, still has bracketed placeholders, and claims the goal covers costs when $17,400 plus about $9 × 1,500 copies is more than $28,000. That would make me trust A less."
+}

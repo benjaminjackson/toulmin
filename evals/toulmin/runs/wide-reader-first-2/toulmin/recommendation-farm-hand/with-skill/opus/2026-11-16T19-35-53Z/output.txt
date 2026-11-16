@@ -1,0 +1,44 @@
+I've written the letter for the admissions committee. They'll want to know whether Tomás can be trusted with responsibility, whether he has a feel for the technical side of farming, and whether he'll finish a two-year program. So the letter opens with the herd software and the nine mastitis cases, since that is the strongest evidence for an agricultural technology program. His reliability on the 3 a.m. shift comes next.
+
+Two choices you should check:
+
+- **I mentioned the five-week absence.** "He has missed two shifts in three years" isn't quite true without it, and a reference that later turns out to have left something out does him more harm than the leave would. Put as a family emergency he came back from, it says something good about him. I left out that he gave you two days' notice. That's between you and him, and the college has no reason to ask.
+- **I mentioned his written English.** The committee will see his own application, so they'll notice it anyway. It reads better coming from you, alongside the fact that he signed up for the night class himself.
+
+Things you could add to make it stronger, if they're true:
+- Whether he'll keep a job with you while he studies, or have one to come back to.
+- Roughly how many cows he milks on that shift.
+- What happened with the nine mastitis cases, for example whether you avoided losing cows or dumping milk. I didn't guess at any of this.
+
+Fill in the bracketed parts before you send it: your name, the farm's name and your contact details, plus Tomás's last name and the college's name.
+
+<final_document>
+[Farm name]
+[Address]
+[Phone] · [Email]
+
+[Date]
+
+Admissions Committee
+Agricultural Technology Program
+[State Technical College]
+
+Re: Tomás [Last name]
+
+To the Admissions Committee:
+
+I manage [Farm name], a 400-cow dairy. Tomás has worked for us for three years, since he was 19. I recommend him for your agricultural technology program without reservation. He is one of the most dependable people I have employed.
+
+The best evidence that he belongs in your program is what he has already done with the technology on our farm. Nobody asked him to learn our herd management software. He did it on his own, and he now uses it to watch the herd and flag sick cows for our vet. Last winter he caught nine cases of mastitis early. That is the kind of work your program trains people for, and he is already doing it with very little formal training.
+
+He also runs our 3 a.m. milking shift by himself, five days a week. Nobody is there to check on him at that hour, and the cows and the milk can't wait. I trust him with it completely. In three years he has missed two shifts. The only other time he has been away was a five-week leave last summer, when his father became seriously ill in Mexico. He went home to help his family, and when he came back he picked up exactly where he had left off.
+
+You should know that his written English is not yet as strong as his spoken English. He knows this, and he enrolled in a night class to improve it on his own initiative, while still working the early shift. That is how he handles problems. He sees what he needs to learn and goes and learns it, the same way he learned our software.
+
+Tomás has the reliability to finish a two-year program and the curiosity to get a lot out of it. I would be glad to talk with anyone on the committee about him. You can reach me at [phone] or [email].
+
+Sincerely,
+
+[Your name]
+Farm Manager, [Farm name]
+</final_document>

@@ -1,0 +1,40 @@
+The facts don't support saying you can cut their new-hire training time in half, so I left that claim out. You don't know how long their onboarding takes now or what it involves, and a hiring manager at a regulated plant will see a promise like that as a sign you don't yet understand GMP. In that setting, training time is often set by required qualification steps, not by how well someone teaches. Instead, the letter makes claims your record backs up: your safety program and your AP results. It also offers to look at their program and bring back specific ideas. If you still want the "half" line, it's your call, but I'd only use it after learning their current numbers in an interview.
+
+**How I handled the two gaps:**
+- **GMP training records:** They'll notice this, so the letter names it once, plainly, after your strengths. It then points to what makes up for it: you've written procedures, trained people on them and kept them working for years.
+- **Their learning system:** I treated this briefly, as something you'd learn. It's a small gap.
+
+**Two things that would make the letter stronger if you can add them truthfully:**
+- **GMP progress:** You've started, or will start by a set date, a GMP basics course or certificate. This would turn your biggest gap into something you're already fixing.
+- **Safety program records:** Explain how you documented it, such as sign-off sheets, records of who completed training, or annual reviews. Even informal records would map directly onto "GMP training records."
+
+Fill in the bracketed parts at the top. If you know the hiring manager's name, use it in the greeting.
+
+<final_document>
+[Your Name]
+[Address] · [Phone] · [Email]
+
+[Date]
+
+[Hiring Manager Name]
+[Company Name]
+[Plant Address]
+
+Dear [Hiring Manager Name],
+
+I am applying for the Training Coordinator position at [Company Name]. For nine years I have taught high school chemistry. Much of that work is what a training coordinator does: I write procedures for hazardous work, teach people to follow them and check that they keep following them.
+
+In 2019 I wrote my school's lab safety program. Since then, no one in our labs has had an injury needing more than first aid. Each year about 140 students in five classes handle acids, open flames and glassware under that program. For a program like that to keep working, the procedures have to be clear, everyone has to be trained the same way, and the rules have to hold up years later.
+
+I also train adults. Every year I take the new science teachers at my school (about two a year) through 12 hours of training on our lab procedures before they run a lab alone. These are experienced professionals who need to learn our way of doing things quickly and correctly. That is close to the challenge of bringing a new hire up to standard on your production floor.
+
+I also track whether my teaching works. Over the four years I have taught AP Chemistry, our pass rate has risen from 41% to 58%. I got there by finding where students struggled, changing how I taught those topics and checking the results each year. I would bring the same approach to your training program.
+
+I have not worked in a regulated industry, and I have not kept GMP training records. I know that documentation in your setting is held to a higher standard than anything a school requires, and I expect to learn your requirements in detail. I have spent years making written procedures work in practice and making sure everyone is trained on them, and I would apply that care to your records. I have used Google Classroom to manage my courses and will learn your learning management system.
+
+I live about 30 minutes from the plant and am looking for a long-term role. I would welcome the chance to learn how your new-hire training works today and to talk about where I could help. Thank you for your time and consideration.
+
+Sincerely,
+
+[Your Name]
+</final_document>

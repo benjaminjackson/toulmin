@@ -1,0 +1,52 @@
+grader: judge
+graded: '2026-11-16T19:40:45.535692+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 475
+  tags: []
+  notes: extracted 475 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 6
+    objections: 7
+    fit: 8
+  details:
+    agree: The respectful, direct tone and plain terms would keep some long-tenured
+      staff listening, but someone who doesn't want phone work gets little reason
+      to choose it beyond the same pay and two days at home, and there's no decision
+      deadline or next step to act on.
+    honest: The writer drops the brief's 'better for everyone' claim for a hedged
+      'I believe this is a good move', and no figures are invented, though 'secure
+      job' goes a little beyond what the brief supports.
+    works_the_facts: The worked severance example (8 years = 16 weeks) is useful,
+      but the draft doesn't turn the 44% and 60% trends or the 12-hour span into anything
+      further, such as the longer shift window or what a 10-year veteran would get.
+    right_comparison: The falling branch visits and rising phone contacts are set
+      side by side, and leaving with severance is laid out fairly, but the draft never
+      says what keeping the branches open would mean if the trend continues.
+    qualification: The document makes no conditional claims that need hedging; the
+      facts it gives are firm commitments.
+    objections: It names the real objections (liking face-to-face work, 9-to-5 fitting
+      their lives) and doesn't invent extra ones, but it leaves open how shifts rotate,
+      whether evening shifts are required, and when staff must decide.
+    fit: It's an email from the COO with a subject line, close to 400 words (running
+      a little long), and well structured for skimming.

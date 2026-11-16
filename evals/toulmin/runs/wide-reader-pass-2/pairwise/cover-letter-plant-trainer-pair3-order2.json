@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-39-19Z",
+  "without_skill_run": "2026-11-16T19-19-29Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B shows it understands what GMP training records are for and ties that to the safety program it describes, which speaks directly to my doubt that teachers understand how a regulated plant works. A only admits the gap and adds things the brief doesn't support, such as already studying GMP and the specific cause of the pass-rate rise, and it leaves a placeholder in place."
+}

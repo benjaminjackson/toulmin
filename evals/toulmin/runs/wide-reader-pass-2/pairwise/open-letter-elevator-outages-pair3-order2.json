@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-39-22Z",
+  "without_skill_run": "2026-11-16T19-19-08Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B's '74 of 112 households, two in every three' framing directly undercuts my view that this is a few loud people, and its three focused, doable asks are harder to dismiss than A's longer list. A is courteous but reads like a standard complaint I could answer with a form reply."
+}

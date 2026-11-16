@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-37-18Z",
+  "without_skill_run": "2026-11-16T19-18-45Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A makes a brilliant, concrete connection between the turnover and training numbers (dropping from 81 shadow shifts to 25) that proves the writer already understands how to manage labor costs, even without formal budget experience. It also handles the renovation and guest score correlation with complete honesty and zero fluff, whereas Document B relies on invented action plans and brackets."
+}

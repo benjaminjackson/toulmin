@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-37-45Z",
+  "without_skill_run": "2026-11-16T19-18-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A asks three specific questions I can actually answer, and its point that the June estimate ran right into the August outage is hard to argue with. B gives five demands with a 14-day deadline and monthly lobby reports, which reads like a few loud people making demands and makes me more defensive."
+}

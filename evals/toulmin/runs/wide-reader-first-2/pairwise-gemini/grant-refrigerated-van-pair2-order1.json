@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-37-50Z",
+  "without_skill_run": "2026-11-16T19-19-01Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Both documents wisely avoid the unsupported claim that the van will double fresh food distribution, as the numbers only show a 50% increase during the summer. However, Document B wins clearly because Document A invents an operational plan for reporting, outreach to grocers, and data tracking that the writer does not actually have."
+}

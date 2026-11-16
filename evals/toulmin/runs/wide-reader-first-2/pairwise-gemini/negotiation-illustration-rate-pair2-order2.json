@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-36-36Z",
+  "without_skill_run": "2026-11-16T19-18-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B stays completely faithful to the facts while making a slightly stronger, warmer case—breaking down the $2,250 monthly rate puts the 4-month workload into perspective without Document A's unsupported claim that it is 'full-time work.' Framing the $11,500 ask against her actual $12,500 fee elsewhere also makes me feel like I'm getting a loyal discount, motivating me to go find the extra budget rather than switching to the cheaper new illustrator."
+}

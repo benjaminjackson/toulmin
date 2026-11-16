@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-39-04Z",
+  "without_skill_run": "2026-11-16T19-19-25Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who got burned before, Document B's transparency with the exact manufacturing and shipping numbers ($17,400 and $9/copy) makes me trust that this first-time creator has actually done the math, whereas Document A just vaguely claims the costs are 'worked out.' I also respect that B is honest about 23 ratings being a small sample size rather than overhyping it."
+}

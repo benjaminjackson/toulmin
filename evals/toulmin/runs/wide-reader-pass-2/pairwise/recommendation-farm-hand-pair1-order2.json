@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B states the 5-week absence and the writing gap plainly and puts them in context, so its praise of the 3 a.m. shift and the mastitis work is easier to trust. A blurs the long absence into 'family medical leave' and adds claims such as 'on his own initiative', which feel more polished but less candid."
+}

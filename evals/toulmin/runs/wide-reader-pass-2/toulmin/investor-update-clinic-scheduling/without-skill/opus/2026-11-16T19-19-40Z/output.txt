@@ -1,0 +1,53 @@
+I'd lead with the bad news. Investors who haven't heard from you in six months will notice flat revenue and a lost top customer anyway, and saying it first is what earns you trust on everything after it.
+
+<final_document>
+Subject: Q3 update: flat revenue, lost our largest customer, launching standalone reminders
+
+Hi all,
+
+First, I owe you an apology. I didn't send updates for the last two quarters. That was a mistake, and you'll get one from me every quarter from now on, whether the news is good or bad. This quarter has some of both.
+
+**The numbers**
+
+- MRR: $41,000, unchanged from three months ago
+- Clinics: added 9, lost 4
+- Cash: $480,000
+- Net burn: about $44,000/month, which gives us roughly 11 months of runway
+- Team: 6
+
+**What happened**
+
+Our largest customer was a 12-clinic chain paying $5,500/month. This quarter they left for the scheduler built into their electronic records system. This is the biggest competitive risk we face: a "good enough" scheduler bundled with software the clinic already pays for. Losing them cost us about 13% of MRR. The 9 new clinics made up for that loss and for the 3 smaller ones, but they didn't add growth. We spent the quarter refilling the bucket.
+
+**What's working**
+
+Clinics that use our automatic text reminders have cut their no-show rate from 13% to 7%, nearly in half. For a PT clinic, every no-show is an empty slot that can't be billed, so this result is easy for owners to put a dollar figure on. It's also the clearest proof we have that we deliver something the bundled schedulers don't.
+
+**What's next**
+
+Next month we start selling text reminders on their own for $150/month. We see two reasons to do it:
+
+1. A clinic doesn't have to give up its existing scheduler to buy it, including the scheduler in its records system, which is the one we just lost a customer to.
+2. Selling it alone is a much smaller decision for a clinic owner than switching schedulers, so it should be faster to sell.
+
+Next quarter's update will report how many clinics bought reminders on their own, how long those deals took to close, and whether any of them went on to buy the full scheduler.
+
+**Runway**
+
+At 11 months of runway, the early results from the reminder product will shape our next decisions on spending and fundraising. I'll lay out the options in next quarter's update, and I'm happy to talk them through sooner with any of you who want to.
+
+**How you can help**
+
+- **Introductions** to PT clinic owners or operators, especially groups of 3 to 15 clinics.
+- **Experience** with selling an add-on alongside a larger incumbent's bundled product. If you've seen that done well or badly, I'd like to hear about it.
+
+Thanks for your patience over the last six months. Reply anytime or grab 20 minutes on my calendar.
+
+[Your name]
+</final_document>
+
+A few things to check before you send it:
+
+- **Runway:** $480,000 ÷ $44,000 is about 10.9 months, so "roughly 11 months" is right. If you already have a fundraising plan or a date for one, put it in the Runway section. Investors will be thinking about it as soon as they see that number.
+- **Why sell reminders alone:** I worked out the two reasons myself, mainly that clinics wouldn't have to give up the scheduler in their records system. If that isn't your actual thinking, change that section.
+- **Fill-ins:** Replace "[Your name]". If you don't share a booking link, change "grab 20 minutes on my calendar" to something else. The draft is about 450 words.

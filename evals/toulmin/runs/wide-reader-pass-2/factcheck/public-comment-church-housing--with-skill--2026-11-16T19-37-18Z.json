@@ -1,0 +1,25 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-37-18Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "because my neighbors are right to raise it.",
+      "why": "The brief does not mention that neighbors have raised concerns about traffic."
+    },
+    {
+      "quote": "I drive through that intersection.",
+      "why": "The brief says the speaker lives on Alder Road, not that they drive or use the intersection at Alder and 4th."
+    },
+    {
+      "quote": "I'll be one of the people waiting a little longer at that light.",
+      "why": "The brief does not mention a traffic light at the intersection of Alder and 4th."
+    },
+    {
+      "quote": "I've thought about this as someone who drives Alder Road every day.",
+      "why": "The brief states the speaker lives on Alder Road, not that they drive on it every day."
+    }
+  ],
+  "invented_count": 4
+}

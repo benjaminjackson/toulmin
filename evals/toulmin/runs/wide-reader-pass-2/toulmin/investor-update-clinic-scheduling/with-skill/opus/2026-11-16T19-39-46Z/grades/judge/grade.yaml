@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T19:41:05.430922+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 390
+  tags: []
+  notes: extracted 390 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 7
+    right_comparison: 5
+    qualification: 2
+    objections: 5
+    fit: 9
+  details:
+    agree: The direct apology, plain bad news and the ex-chain growth figure will
+      ease a cold lead angel, but there is no commitment to regular updates, no fundraising
+      plan and no target for the reminder launch, so this reader has little to judge
+      future backing against.
+    honest: The figures check out ($35,500 to $41,000 is about 15%, 13% to 7% is close
+      to half, $480k / $44k is about 11 months), but 'net +5 clinics' hides that the
+      lost chain was 12 clinic locations, and calling EHR schedulers 'the biggest
+      competitive threat' goes further than the facts given.
+    works_the_facts: It works out the runway, the growth excluding the chain and the
+      size of the no-show cut, all in favourable true forms, but it doesn't work out
+      what the reminder product or the core growth rate would need to reach to extend
+      runway or break even.
+    right_comparison: 'It contrasts standalone reminders with trying to win customers
+      away from built-in schedulers, but never shows what happens if nothing changes:
+      at about 15% quarterly growth outside the chain, the cash still runs out around
+      late 2027.'
+    qualification: The only hedge, 'the main thing I'll be watching', gives no sales
+      target, no date and no consequence if the launch falls short, even though there
+      are just 11 months of runway.
+    objections: 'It deals with the missed updates and the churn to EHR schedulers,
+      but leaves out this reader''s main concerns: when the next round is, how it
+      will be raised with 11 months of cash, and whether updates will now arrive every
+      quarter.'
+    fit: It is a clear, scannable investor update of roughly 430 words, under the
+      limit and in a format that suits 11 investors.

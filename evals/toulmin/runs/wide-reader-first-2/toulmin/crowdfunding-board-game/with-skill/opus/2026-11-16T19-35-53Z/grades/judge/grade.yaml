@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:36:55.147878+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 426
+  tags: []
+  notes: extracted 426 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 5
+    honest: 6
+    works_the_facts: 5
+    right_comparison: 3
+    qualification: 3
+    objections: 5
+    fit: 8
+  details:
+    agree: The plain tone and admission of being a first-time creator would earn some
+      goodwill from a wary backer, but with no delivery date, no risks section and
+      no word on fulfillment, someone who once lost $85 would still be hesitant to
+      pledge.
+    honest: It doesn't use the 'proven hit' claim the writer asked for and states
+      the 8.1 rating with its 23-person sample, but 'real quotes, not guesses' oversells
+      shipping that the brief only puts at 'about $9', and 'strangers sat down and
+      played it' is a detail the facts don't support.
+    works_the_facts: Turning the goal into roughly 570 backers is a useful figure,
+      but the pitch doesn't show that each pledge nets about $40 after shipping, so
+      about 435 backers cover the print run, and it never mentions that 570 backers
+      would mean nearly half of the 1,240 email sign-ups converting.
+    right_comparison: Apart from one line saying the game exists only if enough people
+      want it, the pitch never says what happens if the campaign falls short or how
+      this project compares with other first-time campaigns.
+    qualification: A crowdfunded first game needs conditions spelled out, but the
+      pitch gives no delivery date, no all-or-nothing funding terms and nothing checkable
+      about what happens if the factory or shipping costs change.
+    objections: It raises the 'can a first-timer deliver?' question directly, but
+      its only answer is the cost figures, with nothing on timeline, fulfillment plans
+      or contingencies, which is what a burned backer actually worries about.
+    fit: It's a well-structured campaign pitch of about 480 words, which fits the
+      requested length and form.

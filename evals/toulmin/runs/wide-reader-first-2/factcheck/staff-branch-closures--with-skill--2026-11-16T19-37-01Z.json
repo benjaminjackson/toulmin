@@ -1,0 +1,21 @@
+{
+  "task": "staff-branch-closures",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-37-01Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "You've spent years helping people face to face.",
+      "why": "The brief gives no information about how long the employees at those branches have worked there."
+    },
+    {
+      "quote": "Many of you have worked with the same members for years, and some of you chose these branches partly because of the hours.",
+      "why": "The brief does not mention the staff's tenure with specific members or their reasons for choosing to work at those branches."
+    },
+    {
+      "quote": "This change affects only the Maple Street and Route 9 branches. Your branch is not closing as part of this decision.",
+      "why": "The brief states that the Maple Street and Route 9 branches are closing, but does not state whether the other five branches are unaffected or not closing."
+    }
+  ],
+  "invented_count": 3
+}

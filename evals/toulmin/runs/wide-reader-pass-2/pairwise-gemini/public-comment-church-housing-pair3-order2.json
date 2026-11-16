@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-39-05Z",
+  "without_skill_run": "2026-11-16T19-19-20Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A leads immediately with the traffic on Alder Road—the biggest concern in the room—which earns credibility right away with skeptical commissioners and neighbors. It also flows much more naturally as a speech and makes the three-year wait and 60% AMI numbers feel human and concrete rather than just reciting statistics in choppy paragraphs."
+}

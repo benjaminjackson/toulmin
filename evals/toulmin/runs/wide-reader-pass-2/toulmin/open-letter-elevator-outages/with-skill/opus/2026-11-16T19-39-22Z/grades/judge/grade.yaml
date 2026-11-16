@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:40:37.734180+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 388
+  tags: []
+  notes: extracted 388 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 7
+    honest: 6
+    works_the_facts: 8
+    right_comparison: 8
+    qualification: 6
+    objections: 8
+    fit: 8
+  details:
+    agree: The three requests are modest and checkable, and the letter drops the second-elevator
+      demand to focus on the working elevator, so a resistant manager has a cheap
+      way to say yes, though the public framing may make her defensive.
+    honest: 'The core numbers are accurate, but the letter adds details the brief
+      doesn''t support: missed appointments, depending on others for groceries and
+      medicine, residents on upper floors waiting out August, ''many of us have lived
+      here for years'', and ''it is now November''.'
+    works_the_facts: 'It works out useful figures: one day in eight, two households
+      in three, and a projected seven weeks a year. The one-in-eight and seven-week
+      figures only hold if the 41 days cover the year up to November, and the letter
+      doesn''t say that.'
+    right_comparison: It treats the alternative as the status quo ('next year will
+      look like this one') and points to the repeated six-to-eight-week promise as
+      the pattern, which fits the facts.
+    qualification: The demands call for a written date and a fallback if the date
+      slips, but the letter sets no deadline for a reply and no consequence if management
+      misses it.
+    objections: It answers the passing inspection ('does not tell us how often it
+      runs') and the idea that only a few loud people are upset (74 of 112 households),
+      and it handles the $400,000 objection by asking to see the assessment instead
+      of arguing about it.
+    fit: It works as an open letter for the lobby or the press and is close to 400
+      words, with a clear structure and a numbered list of requests.

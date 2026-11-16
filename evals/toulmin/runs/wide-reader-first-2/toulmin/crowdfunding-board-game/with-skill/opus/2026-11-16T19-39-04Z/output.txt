@@ -1,0 +1,65 @@
+I recommend not calling the game a "proven hit," and the draft below doesn't. "Proven hit" means the game has already sold well. It hasn't been published yet, and anyone who looks it up will see 23 ratings. Backers will check, and a first-time creator can't afford for the opening line to be the one they doubt. What your facts do show is that the game has been played hard and that people like it. That's the claim I used. If you still want "proven hit," the place to put it is the headline, but I'd advise against it.
+
+**Who's reading this:** people who signed up or clicked through and like co-op games, but who have never backed you before. Their main worry with a first-time creator is "will this actually get made and shipped?" Their alternative is spending $49 on a game that's already on store shelves. So the page goes in this order: what the game is, the evidence it's good, who you are (said plainly), where the money goes, and then one clear ask.
+
+**The numbers I worked out from your facts:**
+- $28,000 ÷ $49 means about **572 backers** to fund.
+- That's about **46% of your 1,240 email sign-ups**.
+- US shipping for 572 copies is about $5,148. Add the $17,400 factory quote and that's $22,548, which leaves about $5,450 of the goal for platform fees and everything else.
+
+**Before you publish:**
+- I assumed "the main ratings site" is BoardGameGeek. Please check that.
+- Replace `[Game Name]`.
+- These would make the pitch stronger if you can add them:
+  - an estimated delivery month
+  - one or two lines on what players actually do each turn
+  - play time and age range
+  - one short quote from a playtester
+  - what happens to the extra copies, since 1,500 are printed but only about 572 backers are needed
+  - what you'll do if production runs late
+
+  I didn't make up any of these.
+
+<final_document>
+# Keep the light burning. Get your family through the winter.
+
+**[Game Name]** is a cooperative board game for 1 to 4 players. You play a lighthouse keeper's family through one long winter. You don't play against each other. You plan together, make hard choices together, and win or lose together.
+
+## Played 140 times before you see it
+
+I've been building this game since 2023. In that time it has been played in **140 playtest sessions by about 60 different people**. It went to **two conventions**, where strangers sat down and played it cold. On BoardGameGeek it has an **average rating of 8.1 from 23 players**.
+
+That's not a huge number of ratings, and I won't pretend it is. But they come from people who actually played the game, often more than once, and many of them told me what was broken. Most of what's in the box today is there because of them.
+
+## Who's making it
+
+I'll be straight with you: this is my first published game. I'm not a publishing company. I work full time as a land surveyor, and I designed this game in the evenings and on weekends.
+
+So here's what I have done before asking for your money:
+
+- **I have a factory quote in hand:** $17,400 to print 1,500 copies.
+- **I know my shipping costs:** about $9 per copy to reach backers in the US.
+- **I set the goal to cover the real costs**, not to look good on the funding bar.
+
+## Where your money goes
+
+| | |
+|---|---|
+| **Funding goal** | $28,000 |
+| **Your price** | $49, including US shipping |
+| **Printing (factory quote, 1,500 copies)** | $17,400 |
+| **Shipping to you** | about $9 per copy |
+| **Backers needed to fund** | about 572 |
+
+The rest of the goal covers platform and payment fees and the costs that come up between the factory and your door.
+
+## 1,240 of you already said "tell me when"
+
+That's how many people signed up for this launch email. If a little under half of you back the game, it gets made. That's the whole plan. There's no big publisher behind it, just the people who wanted to know when it went live.
+
+## What I'm asking
+
+**Back [Game Name] at $49.** That gets you a copy with US shipping included. If you've played it at a table or a convention, please tell a friend who likes co-op games. If you have questions about the game, the factory, or the timeline, ask me in the comments. I'll answer every one myself.
+
+Thank you for getting this far. Let's get the family through the winter.
+</final_document>

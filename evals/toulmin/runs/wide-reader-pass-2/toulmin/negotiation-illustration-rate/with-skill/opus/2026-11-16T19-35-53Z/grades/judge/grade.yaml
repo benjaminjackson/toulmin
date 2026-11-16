@@ -1,0 +1,52 @@
+grader: judge
+graded: '2026-11-16T19:36:40.906889+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 199
+  tags: []
+  notes: extracted 199 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 5
+    objections: 4
+    fit: 9
+  details:
+    agree: This is a warm, well-supported ask that a sympathetic editor could meet
+      partway, but nothing in it gives a budget-bound editor a reason to pay $3,500
+      more than the $9,000 budget instead of hiring the $8,000 newcomer.
+    honest: Every figure comes from the brief, and the writer rightly dropped the
+      unsupported 'every other publisher pays at least $12,000' claim; the only addition
+      is a sign-off name the brief never gave.
+    works_the_facts: The $2,250-a-month figure and placing $11,500 below the $12,500
+      and near the bottom of the agent's range are sound, but it never puts the $9,000
+      rate against what the two 20,000-copy books earned the publisher, and never
+      notes that the rate has stayed flat for four years.
+    right_comparison: It compares the fee with another publisher's rate and the market
+      range, but not with the editor's real alternative, a cheaper but untested illustrator
+      with no sales record.
+    qualification: A straightforward fee request needs no conditional hedge, and the
+      document adds none.
+    objections: The objections the editor would actually raise, the fixed budget and
+      a cheaper illustrator in reserve, go unanswered, though the email does stay
+      away from raising objections the facts already settle.
+    fit: It is a clean, polite email of about 200 words, under the 250 limit, with
+      a clear ask and an offer to talk by phone.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "As branch staff, we see our own situation first in B: plain bolded points like 'You have a job' and 'Your hours will change', and a direct invitation to raise childcare or second-job conflicts with the hours. That makes it feel more honest about the hard parts and more personal. A gives more concrete process, such as one-on-one meetings and a decision deadline, so the gap is small."
+}

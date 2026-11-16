@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:19:01.360829+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 445
+  tags: []
+  notes: extracted 445 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 4
+    objections: 6
+    fit: 9
+  details:
+    agree: Marisol gets modest, checkable targets and a direct acknowledgment of the
+      late shelving report with a reporting fix, but nothing tells her how the van's
+      fuel, insurance and maintenance will be paid once reserves are down to $11,000,
+      so she could still hesitate.
+    honest: The draft drops the director's unsupported 'double fresh food' claim and
+      keeps every figure to the brief; the only stretches are small ones, such as
+      'the only thing missing was a cold vehicle' when cold storage was also missing,
+      and the unsupported 'foods our families value most'.
+    works_the_facts: It works out that 9,000 lb is 50% of three summer months of fresh
+      food (18,000 lb) and about 12% of the year's 72,000 lb, which is correct and
+      well framed, though it could also have given a cost per pound recovered or the
+      van's value over several years.
+    right_comparison: The alternative is shown accurately as the status quo of turning
+      away about 9,000 lb of offered produce each summer, though it doesn't say whether
+      farm offers are growing or steady.
+    qualification: The 9,000 lb target depends on farms offering again and nothing
+      makes that checkable, and the quarterly-update promise gives no due dates and
+      says nothing about what happens if an update is missed.
+    objections: It answers the late-report concern head-on and covers driver availability,
+      but leaves open the obvious objection that a thin $11,000 reserve may not cover
+      the van's running costs.
+    fit: This is a well-organized grant narrative with clear sections, and at about
+      470 words it stays under the 500-word limit.

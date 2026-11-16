@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:40:00.142997+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 199
+  tags: []
+  notes: extracted 199 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 4
+    objections: 6
+    fit: 9
+  details:
+    agree: The plain apology, the admission that three weeks of paid produce never
+      arrived, and the unchanged $540 price could win this household back, but nothing
+      promises a different response if a crop fails again.
+    honest: Every figure matches the brief and the shortfall is admitted, though 'much
+      better prepared' and 'no longer depend on one field' push a little past what
+      two nets over two crops and a second field support.
+    works_the_facts: Turning six half-weeks into 'roughly three weeks of produce'
+      is a good derived figure, but the email never gives its dollar value (about
+      $74) or says that most crops are still uncovered by the nets.
+    right_comparison: The only comparison is with last July, and the email doesn't
+      spell out what the household gets for the same $540 now or what risk remains
+      if hail hits the crops outside the nets.
+    qualification: '''No farm can fully protect itself from hail'' is a vague hedge
+      with nothing the reader can check, such as which crops stay exposed or what
+      members would get after another loss.'
+    objections: The 'farm went quiet' grievance gets an honest apology, but the real
+      worry, whether there will be credit or communication next time, is left to the
+      pause-credit change, which doesn't address crop failure.
+    fit: It's a short email of about 190 words with a clear subject line, scannable
+      bullets, the price, the deadline and a link, as the brief asked.

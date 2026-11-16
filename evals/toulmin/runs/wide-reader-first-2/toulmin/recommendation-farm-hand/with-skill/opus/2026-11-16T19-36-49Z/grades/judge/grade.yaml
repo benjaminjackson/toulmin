@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:38:50.745104+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 338
+  tags: []
+  notes: extracted 338 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 7
+    honest: 5
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 4
+    objections: 7
+    fit: 9
+  details:
+    agree: A quick reader gets a clear, concrete case (nine early mastitis catches,
+      running the 3 a.m. shift alone, two missed shifts in three years) and both weak
+      points handled calmly, so this applicant is likely to land in the yes pile.
+    honest: 'Several claims go beyond the brief: ''Nobody assigned it to him'', ''seriously
+      ill'', ''came back and took up the early shift again'' and ''without being told''
+      are all invented or stated more strongly than the facts allow.'
+    works_the_facts: The figures are repeated as given, and the strongest number it
+      could have worked out, about 780 scheduled shifts with 2 missed (over 99.7%
+      attendance), is never calculated.
+    right_comparison: "The line 'already does the kind of work your graduates are\
+      \ trained for' sets up a useful comparison, but nothing places Tom\xE1s against\
+      \ typical applicants or entry-level workers."
+    qualification: The English caveat rests on a night class with no level, start
+      date or progress the committee could check, and the remark about the absence
+      is reassurance rather than a condition the reader can test.
+    objections: The two real doubts, whether he will finish the program given the
+      five-week gap and whether his written English will hold up in coursework, are
+      raised and answered, though the English answer rests only on effort and says
+      nothing of his current level.
+    fit: It is a one-page letter from the farm manager with proper placeholders, the
+      right tone and the right length.

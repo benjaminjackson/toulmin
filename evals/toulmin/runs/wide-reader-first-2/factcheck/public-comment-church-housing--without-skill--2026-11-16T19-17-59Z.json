@@ -1,0 +1,21 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-17-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I drive through that intersection all the time.",
+      "why": "The brief states the speaker lives on Alder Road two blocks from the church, but does not state whether or how often the speaker drives through the intersection at Alder and 4th."
+    },
+    {
+      "quote": "These are working families, seniors, and people starting over, and they're the ones on that list.",
+      "why": "The brief only states that the apartments will rent to households earning under 60% of the area median income and that 412 households are on the county waiting list, without specifying their demographics or stating that the church apartments will go to people on the county housing authority's waiting list."
+    },
+    {
+      "quote": "I'm one of the neighbors who'll sit at that light a little longer.",
+      "why": "The brief mentions the intersection at Alder and 4th, but does not state that it has a traffic light or that the speaker uses it."
+    }
+  ],
+  "invented_count": 3
+}

@@ -1,0 +1,21 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-39-07Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "That's what my neighbors are worried about",
+      "why": "The brief does not mention what the speaker's neighbors are worried about."
+    },
+    {
+      "quote": "I drive through that intersection. I'll be sitting in that line too.",
+      "why": "The brief does not state that the speaker drives or uses the intersection at Alder and 4th."
+    },
+    {
+      "quote": "on land that's already paved.",
+      "why": "The brief states the site is a back parking lot, not specifically that it is paved (as opposed to gravel or dirt)."
+    }
+  ],
+  "invented_count": 3
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A immediately catches my attention by calling out tips, commissions, and retail, which proves this person actually gets my business. Because it spells out that the $199 covers my ongoing monthly headaches like payroll and sales tax—and makes it clear I can still use my cousin for year-end taxes—I'm much more willing to book the call."
+}

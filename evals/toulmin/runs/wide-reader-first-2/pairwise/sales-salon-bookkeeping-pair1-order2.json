@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "A names the salon-specific mess I deal with, like tips, commissions, retail and staff paid in different ways, and explains what each service actually covers. That makes $199 a month easier to weigh against the $600 a year I pay my cousin. B is equally honest and well organized, but it says less about the salon problems behind the work, so A is a little more likely to get me to book the call."
+}

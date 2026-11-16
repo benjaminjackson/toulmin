@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-38-46Z",
+  "without_skill_run": "2026-11-16T19-19-29Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B speaks the language of a regulated plant: written procedures, followed exactly, enforced the same way every time. It also admits the GMP and LMS gaps plainly. A claims the applicant is 'already working to understand GMP' without support and reads more like a teacher's letter."
+}

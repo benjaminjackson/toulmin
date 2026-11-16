@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:18:45.385711+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 467
+  tags: []
+  notes: extracted 467 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 5
+    qualification: 6
+    objections: 6
+    fit: 8
+  details:
+    agree: The GM thinks the renovation drove the scores, and the memo's modest 'helped'
+      claim and its budget plan will make him take the case seriously, but it never
+      says why six years here plus seven weeks running the department beat an outsider's
+      experience at a bigger front desk, so he may stay undecided.
+    honest: It doesn't make the 'main reason' claim the writer wanted, gives the renovation
+      its due, and invents no numbers; the claims that turnover cut recruiting spend
+      and supervisor time are reasonable inferences but aren't supported by any figures.
+    works_the_facts: It works out that training is about 45% faster and that turnover
+      fell from about 64% to about 36%, both correct and favourably framed, but it
+      misses easy figures like four fewer departures a year or the 0.7-point score
+      gain.
+    right_comparison: It compares turnover and training before and after the writer
+      took over, but never sets the writer against the real alternative, an outside
+      hire who would need time to learn this hotel and its team.
+    qualification: The budget hedge comes with a checkable deliverable (a payroll
+      forecast and labor plan by day 90), but it gives no measure of success and no
+      consequence if the plan isn't met.
+    objections: It answers the renovation objection head-on by arguing the check-in
+      score measures the desk experience, and it answers the budget gap, but it never
+      takes on the outside candidate's experience at a larger hotel.
+    fit: It's a one-page written memo, as asked, with clear headed sections and placeholders
+      the writer can fill in.

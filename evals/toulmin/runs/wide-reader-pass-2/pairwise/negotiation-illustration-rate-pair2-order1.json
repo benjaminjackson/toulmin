@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-36-41Z",
+  "without_skill_run": "2026-11-16T19-18-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both are honest and drop the unsupported claim that every publisher pays $12,000. A is slightly more persuasive because it makes a direct ask (\"Can we agree on $11,500?\") and points out that this is less than I was paid elsewhere last year. B ends with \"looking forward to getting started,\" which sounds as though the illustrator will take the book whatever the fee, and that weakens the request."
+}

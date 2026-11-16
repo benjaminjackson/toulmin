@@ -1,0 +1,17 @@
+{
+  "task": "staff-branch-closures",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-39-13Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "You'll be helping more members than a branch now sees",
+      "why": "The brief gives percentage changes in branch visits and phone/chat contacts, not total numbers or per-worker volumes, so it is unknown whether center staff will help more members than a branch sees."
+    },
+    {
+      "quote": "Some of you have worked in those buildings for years and know your members by name.",
+      "why": "The brief does not mention the tenure of the staff at the two closing branches or whether they know members by name."
+    }
+  ],
+  "invented_count": 2
+}

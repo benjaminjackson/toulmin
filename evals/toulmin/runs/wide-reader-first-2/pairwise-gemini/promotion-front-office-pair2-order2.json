@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-37-18Z",
+  "without_skill_run": "2026-11-16T19-18-45Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both documents wisely avoid taking all the credit for the post-renovation guest scores, which would have hurt the applicant's credibility with me. However, Document B wins me over by combining the turnover and training numbers (dropping from 81 unproductive shifts to 25), which proves the candidate already has the operational finance mindset needed to handle the $1.1M payroll budget where they lack formal experience."
+}

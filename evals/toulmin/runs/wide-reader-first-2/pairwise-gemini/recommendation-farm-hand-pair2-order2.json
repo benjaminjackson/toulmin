@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-36-49Z",
+  "without_skill_run": "2026-11-16T19-18-37Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters are direct, well-structured, and hit the exact points an ag-tech admissions committee looks for—reliability, stockmanship, and initiative with technology. Document A is slightly stronger because it integrates the five-week family leave naturally into the sentence about his attendance, whereas Document B gives it a separate paragraph that draws unnecessary attention to it."
+}

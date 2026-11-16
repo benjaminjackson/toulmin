@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:40:30.973779+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 450
+  tags: []
+  notes: extracted 450 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 3
+    objections: 5
+    fit: 8
+  details:
+    agree: The plain admission that this is a first game, the factory quote and the
+      cost table would reassure this backer, but there's no delivery date or risk
+      plan, which is what someone who lost $85 checks before pledging.
+    honest: It drops the 'proven hit' claim and openly says 23 ratings is a small
+      number, though 'many told me what was broken' and 'most of what's in the box
+      is there because of them' are colour the brief doesn't support.
+    works_the_facts: Working out ~572 backers and 'a little under half' of the email
+      list is correct and useful, but it never shows the $40 left per copy after shipping,
+      the $11.60 per-copy print cost, or the funded budget (~$22.5k print plus shipping,
+      leaving room for fees), and that would make the goal believable.
+    right_comparison: It treats 46% of email sign-ups converting as 'the whole plan'
+      without noting that this is a high rate, and it never says what happens to the
+      roughly 900 copies beyond 572 that the 1,500-copy print run produces.
+    qualification: A wary backer needs a delivery window, what happens if the factory
+      quote or freight goes up, and what happens if funding falls short, and none
+      of these comes with a date, number or consequence.
+    objections: It meets the first-time-creator worry head on with a costed quote
+      and the day job, but it skips the 'will it actually ship, and when' objection
+      that matters most to this reader.
+    fit: It's a campaign pitch of about 500 words with clear sections and a call to
+      action, as asked, and it rightly leaves out the overstated 'proven hit' framing.

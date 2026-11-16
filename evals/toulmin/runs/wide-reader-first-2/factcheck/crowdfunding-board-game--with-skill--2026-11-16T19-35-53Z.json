@@ -1,0 +1,41 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-35-53Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "and the light has to stay lit.",
+      "why": "The brief only says players see a lighthouse keeper's family through a winter and does not mention a game rule or objective about keeping the light lit."
+    },
+    {
+      "quote": "where strangers sat down and played it",
+      "why": "The brief states that the creator took the game to two conventions, but does not say that strangers sat down and played it there."
+    },
+    {
+      "quote": "Each session taught me something about the game, and I changed it.",
+      "why": "The brief states that 140 playtest sessions were run, not what the designer learned or that the game was changed after each session."
+    },
+    {
+      "quote": "the numbers below are real quotes, not guesses.",
+      "why": "The brief only describes the $17,400 factory figure as a quote, while describing the shipping cost as an estimate of \"about $9 a copy.\""
+    },
+    {
+      "quote": "The goal is set to pay for the full print run and to get the game to backers. I didn't pick a round number and hope it would work out.",
+      "why": "The brief gives the $28,000 goal, the factory quote, and the per-copy shipping cost, but does not state how the goal was calculated or what specific expenses it is set to cover."
+    },
+    {
+      "quote": "A game made by one person",
+      "why": "The brief says the user designed the game, not that the entire game was made by one person alone without illustrators or other collaborators."
+    },
+    {
+      "quote": "That session helped shape the game.",
+      "why": "The brief does not mention what happened at the conventions or whether convention sessions shaped the game."
+    },
+    {
+      "quote": "I'll answer every one myself, because there's no one else to answer them.",
+      "why": "The brief does not state how comment moderation will be handled or that the designer has no help running the campaign."
+    }
+  ],
+  "invented_count": 8
+}

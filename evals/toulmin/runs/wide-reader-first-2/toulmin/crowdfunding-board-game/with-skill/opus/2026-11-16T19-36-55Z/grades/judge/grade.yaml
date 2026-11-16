@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:39:04.040286+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 459
+  tags: []
+  notes: extracted 459 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 5
+    honest: 5
+    works_the_facts: 6
+    right_comparison: 3
+    qualification: 2
+    objections: 5
+    fit: 8
+  details:
+    agree: The plain budget and honest tone about being a first-time creator would
+      reassure this backer somewhat, but someone burned by a project that never shipped
+      will look for a delivery date, a contingency plan and a risks discussion, and
+      none of them is here.
+    honest: "The writer resists the 'proven hit' framing well, but says the leftover\
+      \ $5,450 'covers crowdfunding and payment fees' when typical fees on $28,000\
+      \ run about $2,500\u20132,800, and it adds claims the brief doesn't support,\
+      \ such as 'the game is ready' and 'kitchen tables'."
+    works_the_facts: 'Several figures are derived correctly: 572 backers, $11.60 a
+      copy, $5,150 shipping, and half the list exceeding the goal. But it hides roughly
+      $2,900 of unexplained slack instead of presenting it as a buffer, and it never
+      mentions the extra ~900 copies a 1,500-unit run leaves at the goal.'
+    right_comparison: It never says what happens if the campaign falls short, and
+      it never compares this project with the alternatives a wary backer weighs, such
+      as an experienced publisher or simply waiting for retail.
+    qualification: 'The pitch needs hedges on delivery timing and on factory or shipping
+      risk, and it gives none: no ship date, no milestone, and no consequence a backer
+      could check.'
+    objections: It meets the 'first-time creator' objection directly with the budget,
+      but it skips the objection this backer cares about most, 'will it actually ship
+      and when?', and offers only an invitation to ask questions in the comments.
+    fit: At about 480 words with a hook, headers and a closing call to action, it
+      has the form and length of the crowdfunding pitch the brief asked for.

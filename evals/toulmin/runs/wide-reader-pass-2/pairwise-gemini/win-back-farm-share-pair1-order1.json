@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both emails take accountability well, but Document B wins me over by explicitly inviting me to reply with my thoughts on how last season was handled, which directly repairs the broken communication that made me leave. Document A alsoslightly oversteps the facts in the brief by assuming I spent multiple seasons with them."
+}

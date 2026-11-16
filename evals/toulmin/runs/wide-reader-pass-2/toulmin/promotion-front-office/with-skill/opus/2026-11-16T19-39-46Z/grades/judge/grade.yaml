@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:40:49.305291+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 426
+  tags: []
+  notes: extracted 426 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 8
+    right_comparison: 4
+    qualification: 3
+    objections: 5
+    fit: 8
+  details:
+    agree: The GM would read a careful, credible case built on turnover, training
+      and seven weeks of cover, but the memo does little to set the writer apart from
+      an outside candidate with bigger-hotel experience, and it gives no concrete
+      answer on the budget, so he may still lean outside.
+    honest: It rightly refuses to call the writer the main reason scores rose, but
+      saying front desk payroll 'mostly comes down to' turnover and training time
+      overstates the case, and 'a team that stays longer gives better check-ins' is
+      asserted rather than shown.
+    works_the_facts: It turns the turnover counts into rates (64% to 36%) and combines
+      turnover with training length into a strong derived figure (81 training shifts
+      down to 25), though it never ties that saving to dollars against the $1.1M payroll.
+    right_comparison: The alternative is an outside hire, and the memo reduces that
+      person to someone who would 'need time to learn,' ignoring the experience at
+      a larger property the GM is weighing.
+    qualification: The budget gap is admitted but met only with 'ready to learn,'
+      with no checkable commitment such as a training course, a review date or a payroll
+      target the GM could hold the writer to.
+    objections: It meets the renovation objection directly, though mostly by assertion
+      rather than evidence; the budget objection gets a weak answer, and it never
+      engages the outside candidate's larger-hotel experience.
+    fit: It is a clear one-page memo with a direct ask, as the brief requested, and
+      it sensibly declines the 'main reason' claim the facts can't support.

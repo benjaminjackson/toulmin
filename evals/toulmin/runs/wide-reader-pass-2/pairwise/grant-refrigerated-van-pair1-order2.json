@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "A's offer of quarterly updates with monthly tracking figures speaks directly to the four months I spent chasing their last report. B owns the late report but promises nothing to prevent it happening again. Both documents present the fresh-food increase honestly and don't overclaim."
+}

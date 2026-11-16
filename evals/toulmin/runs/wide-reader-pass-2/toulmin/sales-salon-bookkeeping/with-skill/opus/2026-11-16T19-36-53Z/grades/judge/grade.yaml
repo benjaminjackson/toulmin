@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:38:46.312584+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 281
+  tags: []
+  notes: extracted 281 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 4
+    honest: 6
+    works_the_facts: 3
+    right_comparison: 2
+    qualification: 5
+    objections: 3
+    fit: 9
+  details:
+    agree: The page is clear and believable, but an owner who pays her cousin $600
+      a year will see $199 a month (about $2,400 a year) and find nothing that explains
+      why it's worth four times as much, so she probably won't book.
+    honest: Most claims match the brief, but 'clients who'd been with me for years'
+      is invented, 'One owner saved $800' turns what a client said into a fact, and
+      'You won't get a low starting rate that jumps later' is a promise the January
+      price rise already undercuts.
+    works_the_facts: 'The figures are repeated as given rather than worked out: it
+      never says no client left for any reason other than selling, that roughly 3
+      in 10 clients got a lower accountant bill, that the deadline was met 9 of 12
+      months, or how the $800 saving compares with the yearly price.'
+    right_comparison: The page never describes the reader's real alternative, which
+      is books done once a year at tax time with no monthly close, payroll or sales
+      tax filing, so the $199 is never set against what she has now.
+    qualification: "The missed deadline and the Sunday\u2013Monday phone hours are\
+      \ stated plainly with numbers, but the page doesn't say what a late close means\
+      \ for the client or what happens when one occurs."
+    objections: 'The page answers objections about firm size and price fairness, but
+      not the obvious one for this reader: why pay monthly when tax-time help costs
+      $600 a year, even though the $800 saving and the monthly payroll and sales tax
+      work could have answered it.'
+    fit: It is about 330 words of sales-page text, scannable, and ends with a booking
+      button as the brief asked.

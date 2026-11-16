@@ -1,0 +1,29 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-36-46Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Each year about 140 students in five classes handle acids, open flames and glassware under that program.",
+      "why": "The brief does not mention what specific materials or hazards (such as acids, open flames, and glassware) the students handle in the labs."
+    },
+    {
+      "quote": "Every year I take the new science teachers at my school (about two a year) through 12 hours of training on our lab procedures before they run a lab alone.",
+      "why": "The brief states that the applicant trains new science teachers on lab procedures, but does not state that this training must happen before they are allowed to run a lab alone."
+    },
+    {
+      "quote": "These are experienced professionals who need to learn our way of doing things quickly and correctly.",
+      "why": "The brief describes the trainees only as 'new science teachers' and does not state that they are experienced professionals."
+    },
+    {
+      "quote": "I got there by finding where students struggled, changing how I taught those topics and checking the results each year.",
+      "why": "The brief gives the AP Chemistry pass rate increase, but does not state what caused the increase or what methods the applicant used to achieve it."
+    },
+    {
+      "quote": "I live about 30 minutes from the plant and am looking for a long-term role.",
+      "why": "The brief does not mention that the applicant is looking for a long-term role."
+    }
+  ],
+  "invented_count": 5
+}

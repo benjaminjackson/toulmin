@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-36-53Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B speaks directly to the specific headaches of my salon, like sorting out booth rent, tips, and retail sales, and it shows me how I can still use my cousin for taxes while saving us both the year-end stress. However, Document B makes up salon-specific details not in the brief and leaves out the fact about the January price increase from $149, making Document A the better choice for staying completely honest to the facts provided."
+}

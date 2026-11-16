@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:37:44.927617+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 381
+  tags: []
+  notes: extracted 381 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 4
+    objections: 8
+    fit: 9
+  details:
+    agree: The calm tone, the narrow and reasonable requests, and the two-thirds petition
+      figure work against her view that this is a few loud people, though the TV-station
+      line may make her defensive rather than cooperative.
+    honest: The figures and the June-to-August timeline match the brief and the wheelchair
+      scenario is framed as a hypothetical, but 'one day in every eight' quietly assumes
+      a full year, and 'nine flights' slightly overstates the climb from the top floor.
+    works_the_facts: "It works out a useful outage rate, the two-thirds share, and\
+      \ the fact that the June promise ran out in August, but it uses a full-year\
+      \ denominator that understates the year-to-date rate and doesn't project what\
+      \ another 6\u20138 weeks of waiting would mean."
+    right_comparison: Through the repeated promise it implies that nothing will change,
+      but it never spells out what continuing outages at this year's pace would mean
+      for the next months.
+    qualification: The requests are concrete and checkable, but there is no deadline
+      for a reply or for delivery of the part, and nothing says what the association
+      will do if either is missed.
+    objections: It meets her likely objections, the passing inspection and the $400,000
+      refusal, without contesting them, and it asks for evidence instead of reopening
+      the argument.
+    fit: It is a properly formed open letter of about 420 words, suitable for the
+      lobby and the press, as the brief asked.

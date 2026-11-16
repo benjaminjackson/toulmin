@@ -1,0 +1,21 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-35-53Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The county's study says this adds 310 car trips a day on Alder Road.",
+      "why": "The brief refers only to \"the traffic study\" and does not state that the county conducted or commissioned it."
+    },
+    {
+      "quote": "I'll be one of the people waiting at that light.",
+      "why": "The brief does not mention a traffic light at the intersection of Alder and 4th or state that the speaker drives through it."
+    },
+    {
+      "quote": "Right now that back lot is 1.8 acres of pavement.",
+      "why": "The brief states that it is a 1.8-acre parking lot, but does not say that it is paved."
+    }
+  ],
+  "invented_count": 3
+}

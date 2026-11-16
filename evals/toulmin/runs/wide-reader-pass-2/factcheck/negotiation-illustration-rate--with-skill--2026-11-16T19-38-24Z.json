@@ -1,0 +1,17 @@
+{
+  "task": "negotiation-illustration-rate",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-38-24Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "My rate elsewhere has gone up over the same period.",
+      "why": "The brief only states that another publisher paid $12,500 last year, not that the illustrator's rate with other publishers has increased over the last four years."
+    },
+    {
+      "quote": "I've priced it there because I value working with you and want to keep doing it.",
+      "why": "The brief states the desired fee is $11,500, but does not give a reason or cause for why the illustrator chose that specific amount."
+    }
+  ],
+  "invented_count": 2
+}

@@ -1,0 +1,39 @@
+I've written about 390 words, which takes roughly 2½–3 minutes at a steady pace. Read it aloud once with a timer before tonight.
+
+**Choices I made:**
+- **Your audience is the commission, not the opponents.** The commissioners have already seen the traffic study. So the speech admits the C-to-D drop plainly instead of playing it down. As someone who has lived on Alder for 19 years and drives through that intersection, you can credibly say the cost is worth it. That's the strongest thing you bring tonight.
+- **The speech says you're a church member.** Someone will point it out if you don't, and saying it yourself makes you more believable.
+- **Every number comes from what you gave me.** The only figures I worked out myself are "nearly one in six" (64 homes for 412 waiting households) and "eight spaces to spare" (72 − 64).
+
+**Questions you may get that the speech can't answer:**
+- **Where will Sunday worshippers park** once the back lot is built on? Commissioners may ask. If the church has a plan, add one sentence about it.
+- **Is the church or the developer doing anything about the Alder and 4th intersection,** such as signal timing or turn lanes? If so, put it right after the traffic paragraph. It would turn "I'll accept the cost" into "the cost is being addressed."
+- **Do 72 spaces meet the county's parking requirement?** If they do, say so. It's a short line that answers a common objection.
+
+I didn't make up answers to any of these. Only add them if they're true.
+
+<final_document>
+Good evening, Commissioners. My name is [your name]. I've lived on Alder Road for nineteen years, two blocks from the church that's proposing this project. I'm also a member of that church, so I'll say up front that I'm not neutral. But I'm here tonight mostly as a neighbor. I drive through Alder and 4th every day.
+
+I'm asking you to approve the sixty-four affordable apartments on the church's back parking lot.
+
+Start with the need. These are the county's own numbers. Your housing report says we are short about 2,100 affordable homes. Right now, 412 households are on the housing authority's waiting list. The average wait is three years.
+
+Every apartment in this plan would rent to households earning under sixty percent of the area median. Sixty-four homes won't close a gap of 2,100. But that's nearly one home for every six households on that waiting list.
+
+Look at the site. It's 1.8 acres of parking lot that sits empty six days a week. Building here doesn't clear a field or tear anything down. It puts pavement that's already there to work.
+
+Now, the traffic. I've read the study. It estimates 310 more car trips a day on Alder Road. It says the intersection at Alder and 4th would drop from a C to a D at rush hour.
+
+That's my street, and that's my intersection. I'm not going to stand here and tell you it doesn't matter. It means a longer wait at that light, and I'll be one of the people waiting.
+
+But here's how I weigh it. On one side, a slower rush hour on my street. On the other, sixty-four households who would otherwise wait an average of three years for a home they can afford. I'll take the longer light.
+
+On parking, the plan has seventy-two spaces for sixty-four units. Every apartment gets a space, with eight to spare.
+
+If you say no, that lot stays empty six days a week. And those 412 households stay on the list.
+
+I've lived on Alder Road for nineteen years. I'd like the next nineteen to include sixty-four more neighbors. Please approve this project.
+
+Thank you.
+</final_document>

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-37-03Z",
+  "without_skill_run": "2026-11-16T19-18-48Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B says up front that the speaker belongs to the church, which earns trust from a skeptical room, and its traffic trade-off and 'nearly one in six' figure stay within the facts. A claims things the facts don't support: that the delay is only 'a few extra seconds' and that residents 'will park on the site, not on our street', and opponents could pick those claims apart."
+}

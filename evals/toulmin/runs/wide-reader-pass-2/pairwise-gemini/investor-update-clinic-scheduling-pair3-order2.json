@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-39-46Z",
+  "without_skill_run": "2026-11-16T19-19-40Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A wins back my trust by avoiding spin (calling the flat revenue 'refilling the bucket' rather than trying to highlight growth 'leaving the chain out'), explicitly committing to what metrics will judge the new product next quarter, and acknowledging the upcoming spending and fundraising decisions dictated by our 11-month runway."
+}

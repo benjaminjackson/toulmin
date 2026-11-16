@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-39-04Z",
+  "without_skill_run": "2026-11-16T19-19-18Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A includes the fact that the price just jumped from $149 to $199, while Document B leaves that part of the brief out. Plus, even though $199 a month is a lot more than the $600 a year I pay my cousin, A makes me feel like this person actually gets my business by mentioning booth rent, tips, and how salons are closed on Sundays and Mondays."
+}

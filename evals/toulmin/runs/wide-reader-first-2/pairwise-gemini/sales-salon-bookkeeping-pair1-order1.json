@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B puts the $199 price right up front and explains exactly what's included in that cost, like payroll taxes and sales tax deadlines—things my cousin doesn't handle for me during the year. however, Document B invents details about salon money (tips, commissions, retail) and hourly billing that aren't in the brief, whereas Document A stays completely true to the provided facts while still giving me a clear, honest pitch."
+}

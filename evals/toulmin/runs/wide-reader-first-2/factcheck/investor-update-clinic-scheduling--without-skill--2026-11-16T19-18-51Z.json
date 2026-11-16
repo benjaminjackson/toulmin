@@ -1,0 +1,29 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-18-51Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The 9 new clinics we added made up for that loss. That's why revenue is flat and not down.",
+      "why": "The brief does not state how much the 9 new clinics pay, what the other 3 lost clinics paid, or whether existing customers changed their spending, so it cannot be known that the 9 new clinics alone offset the total lost revenue."
+    },
+    {
+      "quote": "Records vendors are bundling scheduling, and it's hard to compete with \"good enough and already included\" for chains that already run everything inside one system. Independent and smaller clinics are a different situation",
+      "why": "The brief only states that one chain moved to the scheduler built into their electronic records system, not that records vendors broadly are bundling scheduling for free or that independent and smaller clinics face a different situation."
+    },
+    {
+      "quote": "so this is the clearest return we offer.",
+      "why": "The brief gives the no-show statistics for the reminder feature, but it does not discuss other features or state that reminders offer the clearest return."
+    },
+    {
+      "quote": "There are two reasons:\n1. It's the part of our product with proven, measurable value.\n2. It lets us sell to clinics that are happy with their current scheduler, including the ones built into records systems, so we don't have to compete with those schedulers head-on.",
+      "why": "The brief states that the company will start selling the reminder feature on its own for $150 a month, but it does not give the founder's reasons for doing so or state that the standalone feature can integrate with other schedulers."
+    },
+    {
+      "quote": "Ben",
+      "why": "The brief does not provide the founder's name."
+    }
+  ],
+  "invented_count": 5
+}

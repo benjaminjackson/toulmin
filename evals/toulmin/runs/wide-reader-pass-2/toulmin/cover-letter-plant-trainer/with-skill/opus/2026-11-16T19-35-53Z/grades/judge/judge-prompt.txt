@@ -1,0 +1,57 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+The HR manager at a pharmaceutical manufacturing plant who is screening applicants for a training coordinator job. She has seen many teachers apply for corporate training roles and assumes most of them don't know how a regulated plant works. She decides who gets a phone screen.
+</reader>
+
+<brief>
+Help me write a cover letter. I've taught high school chemistry for 9 years and I'm applying to be a training coordinator at a pharmaceutical manufacturing plant about 30 minutes from me.
+
+About me:
+- I teach about 140 students a year across five classes.
+- I wrote our school's lab safety program in 2019. Since then we've had no injuries in our labs that needed more than first aid.
+- Our AP Chemistry pass rate went from 41% to 58% over the four years I've taught the course.
+- Every year I train our new science teachers on lab procedures, about 12 hours each. There have been two a year on average.
+- I've never worked in a regulated industry. The job posting asks for experience with GMP training records, which I don't have.
+- I use Google Classroom. The plant uses a learning management system I haven't used.
+
+I want the letter to say I can cut their new-hire training time in half. One page.
+</brief>
+
+
+
+<document>
+Dear Hiring Manager,
+
+I am applying for the Training Coordinator position at [Company]. For nine years I have taught high school chemistry, which means my job has been teaching people who have never handled hazardous materials to work with them correctly, safely and the same way every time. I live about 30 minutes from the plant, and I would like to bring that work to your floor.
+
+In 2019 I wrote our school's lab safety program. In the seven years since, with about 140 students a year working in our labs, we have had no injury that needed more than first aid. The program works because it treats procedure as something to be taught and then checked, not something posted on a wall.
+
+I also train adults. Every year I take our new science teachers, about two a year, through roughly 12 hours of lab procedure training before they run a lab on their own. They arrive knowing their subject but new to our equipment, our rooms and our rules. That is close to where a new hire stands on a production floor.
+
+I also measure whether my teaching works. In the four years I have taught AP Chemistry, our pass rate has risen from 41% to 58%. I got there by finding where students were losing points and changing how I taught those topics. I would take the same approach to your onboarding: look at where new hires struggle, fix that part, and check the result.
+
+What I want to do for your new hires is shorten the time between their first day and the day they can work on their own, without removing a single step your quality system requires.
+
+I have not worked in a regulated industry, and I have not kept GMP training records. What I have done is write a safety procedure, train people to it and hold to it for seven years. The GMP documentation is the part I will need to learn. Training people on procedures is something I already do every year. My courses run in Google Classroom, so your learning management system will also be new to me.
+
+I would welcome the chance to hear how your new-hire training runs today and to talk about where I could help.
+
+Sincerely,
+
+[Your name]
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

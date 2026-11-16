@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:19:09.449052+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 357
+  tags: []
+  notes: extracted 357 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 7
+    honest: 5
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 6
+    objections: 7
+    fit: 9
+  details:
+    agree: "A busy committee member gets a clear picture of trust, initiative and\
+      \ a tech-relevant achievement, and the English weakness is handled honestly,\
+      \ though nothing makes Tom\xE1s stand out sharply from 150 applicants."
+    honest: 'Two claims go beyond the brief: ''since returning he has been back on
+      his full schedule'' is invented, and ''on his own initiative'' is not supported
+      by the brief; the letter also says ''without reservation'' while leaving out
+      the two-day notice.'
+    works_the_facts: 'The facts are restated rather than worked out: ''2 missed shifts
+      in 3 years'' is never turned into its stronger true form (roughly 2 out of about
+      750 scheduled 3 a.m. shifts), and the mastitis count gets no context.'
+    right_comparison: "The only comparison, that unsupervised trust is the highest\
+      \ a dairy manager can give, is reasonable but loose, and the letter does not\
+      \ place Tom\xE1s against other workers or other applicants."
+    qualification: The English caveat is stated plainly and paired with the night
+      class, but it gives the reader nothing to check, such as how far along the class
+      is or what level he has reached.
+    objections: It meets the two likely objections, written English and the five-week
+      absence, in a measured way and raises no objection the facts already answer,
+      though the absence is softened and leans on an invented reassurance.
+    fit: It is a one-page reference letter from the farm manager in standard format
+      and at the right length.

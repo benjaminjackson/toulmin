@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:39:30.994924+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 458
+  tags: []
+  notes: extracted 458 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 3
+    right_comparison: 6
+    qualification: 3
+    objections: 4
+    fit: 7
+  details:
+    agree: The plain terms and the open admission about the hours will earn some trust.
+      Still, a long-serving teller who doesn't want phone work gets little reason
+      to choose the center over a severance cheque and a job search.
+    honest: Every number matches the brief and the 'make work better' claim is softened
+      to 'many of us, though not in every way'. The only overreach is the unsupported
+      line that a dedicated team means 'members reach us sooner'.
+    works_the_facts: 'The figures are copied rather than worked out: it never turns
+      the severance into a concrete example such as 20 weeks after 10 years, and it
+      never compares the 12-hour center day with a person''s actual shift length.'
+    right_comparison: It uses the 44% drop and the 60% rise to show the trend behind
+      keeping the branches open, and it states the leave option plainly. It doesn't
+      say what keeping the branches would mean as visits keep falling.
+    qualification: The only hedge is a vague 'not in every way for every person'.
+      The reader needs dates and numbers they can check, such as a deadline to decide,
+      when shift schedules will be set and how often they rotate, and none are given.
+    objections: It names the hours as a real cost, but it skips the main objection
+      that these staff don't want phone work beyond one line about transferable skills.
+      It also ignores the two weeks of rumours and the loss of a branch where many
+      have worked for over ten years.
+    fit: It's a clear email from the COO with a useful bulleted section, a little
+      over the 400 words asked for, and appropriately addressed to all staff.

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-38-46Z",
+  "without_skill_run": "2026-11-16T19-19-29Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "In a GMP pharmaceutical plant, operators are strictly forbidden from relying on memory and must follow written SOPs step-by-step. Document B understands this ('doesn't depend on anyone remembering the rules. It's written down'), whereas Document A raises a major compliance red flag by saying safety depends 'less on the written rules than on whether people... remember them.'"
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-37-50Z",
+  "without_skill_run": "2026-11-16T19-19-01Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A owns the late report and also commits to a concrete fix: deadlines go on the board calendar, a named volunteer prepares each report and a board member submits it. It also gives a way to measure results and realistic numbers (a 50% rise in the harvest months, 12% over the year). Document B apologizes up front but gives no plan to stop the late reporting from happening again, and that is my main worry about this applicant."
+}

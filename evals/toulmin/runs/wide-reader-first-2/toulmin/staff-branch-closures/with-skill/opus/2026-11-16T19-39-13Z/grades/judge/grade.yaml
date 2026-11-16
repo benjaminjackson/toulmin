@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:40:24.292222+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 450
+  tags: []
+  notes: extracted 450 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 4
+    right_comparison: 6
+    objections: 5
+    fit: 8
+  details:
+    agree: The plain list of terms, the honest line about the hours and the admission
+      of loss would win trust, but a teller who doesn't want phone work gets only
+      a general appeal that their counter skills carry over, with no decision deadline
+      or start date, so many will still start looking elsewhere.
+    honest: Nearly every figure matches the brief and the draft does not claim every
+      job will improve, but 'the branch model can't fix it' and 'helping more members
+      than a branch now sees' go further than the facts support.
+    works_the_facts: 'The numbers are copied rather than worked: the severance is
+      never turned into a concrete figure (for example, 20 weeks of pay for someone
+      with ten years), and the 9-minute hold time is never tied to what the center
+      is expected to achieve.'
+    right_comparison: It shows the trend behind the alternative (branch visits down
+      44% over three years against phone and chat up 60%), but it never says what
+      staying in the branches would mean for these staff's jobs if nothing changed.
+    qualification: The terms are stated as firm commitments, so the document needs
+      no hedges, and it adds none.
+    objections: It speaks to the long-serving staff's sense of loss and is candid
+      about the evening shifts, but it never mentions the rumours they have been living
+      with for two weeks, gives no decision deadline, says nothing about training
+      or start dates, and answers 'I don't want phone work' only with encouragement.
+    fit: It is a direct email from the COO with a subject line, at about 450 words,
+      which is close to the requested 400.

@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:38:16.000131+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 372
+  tags: []
+  notes: extracted 372 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 5
+    objections: 6
+    fit: 8
+  details:
+    agree: This wary backer is likely to warm to the open cost figures and the refusal
+      to call an unprinted game a hit, but with no delivery date or fulfilment plan,
+      a reader burned before may still hold back.
+    honest: Every figure matches the brief, the per-copy and backers-needed numbers
+      are correct, the request to call it a proven hit is turned down with 'No game
+      is a hit before it's in a box', and the only additions are naming BoardGameGeek
+      and saying 'three years'.
+    works_the_facts: It works out $11.60 a copy and 572 backers, but it never adds
+      printing plus shipping (about $22.5k against $28k) to show the budget holds,
+      and never compares 572 with the 1,240-person list (about 46% need to back),
+      which would help the case.
+    right_comparison: It states the alternative plainly (the game stays a prototype
+      on the designer's table), but it never sets the pace needed, 572 backers, against
+      the support already shown by the 1,240 sign-ups.
+    qualification: The all-or-nothing condition names a number and a consequence ($28,000
+      or the game stays a prototype), but it gives no campaign end date or delivery
+      date the reader could check.
+    objections: 'It names and meets the first-time-creator worry with the factory
+      quote and shipping cost, but it leaves the questions this reader cares about
+      open: cost overruns, platform fees, timeline, and what happens if the 1,500-copy
+      run is underfunded.'
+    fit: It is a well-structured crowdfunding pitch of about 430 words, a little under
+      the roughly 500 asked for.

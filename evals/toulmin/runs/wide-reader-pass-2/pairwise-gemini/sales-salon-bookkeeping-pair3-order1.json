@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-38-46Z",
+  "without_skill_run": "2026-11-16T19-19-18Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "$199 a month is a huge jump from the $600 a year I pay my cousin, and while Document B tries to relate to salon owners, it invents specific salon accounting terms not in the brief and reads too much like generic marketing copy. Document A stays strictly honest to the facts and lays out the exact value—like getting monthly payroll and sales tax off my plate—in a plain, transparent way that makes me curious enough to take a free call."
+}

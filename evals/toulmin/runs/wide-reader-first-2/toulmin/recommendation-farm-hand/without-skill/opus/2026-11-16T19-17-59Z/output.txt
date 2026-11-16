@@ -1,0 +1,36 @@
+I put the letter below. Here is how I handled the two harder facts.
+
+**The 5-week absence.** I mentioned it in one short phrase rather than leaving it out. "Missed two shifts in three years" is only true if you don't count those 5 weeks. A reader who later found out about the leave could start doubting the rest of the letter. Saying "apart from a family medical leave" keeps the attendance claim honest, and a father's illness doesn't count against him. I didn't mention the 2 days' notice. It isn't relevant to whether he'll do well in school, and in a family emergency it isn't unreasonable.
+
+**Written English.** I included it and pointed to the night class. Admissions staff will see his writing anyway. Coming from you, it shows he spots a weak area and works on it without being asked. If you'd rather leave it out, delete the second sentence of the fourth paragraph and the letter still reads fine.
+
+Fill in the bracketed parts. I left his last name as a placeholder rather than guessing it. If you have one more specific detail, it would make the letter stronger: for example, what happened with those 9 mastitis cases, or a time he dealt with a problem alone on the night shift.
+
+<final_document>
+[Farm Name]
+[Address]
+[Phone] · [Email]
+
+[Date]
+
+Admissions Committee
+Agricultural Technology Program
+[State Technical College]
+
+Dear Members of the Admissions Committee,
+
+I am writing to recommend Tomás [Last Name] for your two-year Agricultural Technology program. I manage [Farm Name], a 400-cow dairy operation. Tomás has worked for us for three years, since he was 19, and he is one of the most dependable people on our team.
+
+Tomás runs our 3 a.m. milking shift by himself, five days a week. That shift has no supervisor on site. He is responsible for the herd, the equipment, and anything that goes wrong until the rest of the crew arrives. I give him that responsibility because he has earned it. In three years he has missed only two scheduled shifts, apart from a family medical leave last summer when his father became seriously ill.
+
+He has also grown well beyond the work he was hired to do. On his own initiative, Tomás learned our herd management software and now uses it to flag sick animals for our veterinarian. Last winter he caught nine cases of mastitis early. That kind of early detection matters for animal health and for the farm's bottom line. He reads the data, but he also knows the animals, and he puts the two together. I believe that is exactly the skill your program is designed to build.
+
+Tomás communicates clearly and confidently in spoken English. His written English is still developing, and he is already working on it: he is taking a night class while working a full schedule. That tells you a lot about how he will approach your program. When he sees a gap, he does something about it.
+
+Tomás is ready for formal training, and the industry needs people like him: people who understand both the technology and the animals. I recommend him without reservation. Please feel free to contact me at [phone] or [email] if you have any questions.
+
+Sincerely,
+
+[Your Name]
+Farm Manager, [Farm Name]
+</final_document>

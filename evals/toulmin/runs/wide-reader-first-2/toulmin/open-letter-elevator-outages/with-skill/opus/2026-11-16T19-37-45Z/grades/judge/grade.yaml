@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T19:39:56.075824+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 406
+  tags: []
+  notes: extracted 406 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 5
+    objections: 8
+    fit: 9
+  details:
+    agree: Showing that 74 of 112 households (two in three) signed undercuts her view
+      that this is a few loud people, and the calm tone with three specific questions
+      gives her a simple next step, though nothing in the letter forces her to act
+      by a date.
+    honest: Most figures match the brief, but 'mid-August at the latest' is a stretch,
+      since an order placed late in June plus eight weeks runs to late August, and
+      'they cannot leave their homes' is applied to all 23 residents over 75 when
+      the brief only shows that limit for the 6 who use wheelchairs or walkers.
+    works_the_facts: The letter turns the brief's numbers into useful figures (two
+      in every three households, up to eight flights of stairs, more than a month
+      without the elevator, a June promise that ran into the August outage), but it
+      does not give a rate such as about four outage days a month or say what next
+      year looks like if nothing changes.
+    right_comparison: It describes the current situation accurately, including the
+      same six-to-eight-week promise repeated from June to November, though it stops
+      short of projecting what continued outages would mean.
+    qualification: The letter has few hedges, but its requests for a written reply
+      and a meeting carry no deadline and no stated consequence if management misses
+      it, so she cannot be held to anything she can check.
+    objections: 'It meets her likely defences head-on: the passing inspection (safe
+      is not the same as available), the $400,000 cost (we are asking to see the assessment,
+      not to ignore the cost), and the idea of a small minority (74 households), without
+      raising objections the facts already answer.'
+    fit: It is an open letter of about 420 words, suitable for the lobby and for a
+      TV station, as the brief asked.

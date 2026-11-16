@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T19:37:18.171807+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 339
+  tags: []
+  notes: extracted 339 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 4
+    objections: 6
+    fit: 9
+  details:
+    agree: A GM who already likes the writer gets an honest, well-argued case, and
+      conceding the renovation earns trust; but the memo never explains why an insider
+      who has run this desk for seven weeks is a safer choice than an outsider from
+      a bigger hotel, so the competing option stays open.
+    honest: 'It rightly declines the writer''s wish to claim being the main reason
+      scores rose, but it has two small overstatements: 5 shifts out of 9 is a little
+      over half the time, not ''almost half'', and the heading ''I''ve kept the team
+      together'' takes credit for the lower turnover without evidence that the writer
+      caused it.'
+    works_the_facts: "It turns the turnover figures into 64% vs 36% and four fewer\
+      \ departures, but it leaves out easy, favourable derived figures, such as about\
+      \ 20 trainee shifts saved last year (5 hires \xD7 4 shifts) or the payroll value\
+      \ of that."
+    right_comparison: It compares against how things were before (turnover, training
+      length), but it never describes the real alternative the GM is weighing, an
+      outside hire who would need time to learn this property and team, so the comparison
+      that matters most is missing.
+    qualification: The budget gap is admitted openly, but the only hedge is 'I'd value
+      your view'; there is no checkable commitment such as a budget-training milestone
+      with a date or payroll target that the GM could hold the writer to.
+    objections: The GM's belief that the renovation drove the scores is met directly
+      and fairly, and the budget gap is addressed, but the outside candidate's larger-hotel
+      experience is never answered.
+    fit: It's a brief, well-organised memo that fits on one page, which is exactly
+      the written application asked for.

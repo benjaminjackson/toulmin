@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters smartly omit the unrealistic claim about cutting our training time in half and directly address my skepticism about teachers by focusing on SOPs, safety, and adult training. Document A edges out Document B because it stays completely grounded in the facts provided, whereas Document B makes slightly presumptuous claims about the core of our jobs being the same and invents a detail about documenting work carefully."
+}

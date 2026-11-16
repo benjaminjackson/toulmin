@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Both memos smartly avoid taking sole credit for the guest score increase after our renovation, and both connect the training and turnover improvements to payroll savings. However, when I am comparing an internal candidate who has never managed a $1.1 million budget against an experienced outsider, Document A wins me over by bringing a concrete, proactive 90-day plan to learn the finances rather than just asking me how I want them to learn it."
+}

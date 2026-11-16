@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters smartly omit the absurd claim about cutting our regulated training time in half and directly address the GMP gap. Document A is slightly stronger because it frames the safety metric honestly, whereas Document B implies that all 140 students are in the applicant's lab classes, and Document A translates classroom management to onboarding cohorts without overselling the foundational principles of GMP."
+}

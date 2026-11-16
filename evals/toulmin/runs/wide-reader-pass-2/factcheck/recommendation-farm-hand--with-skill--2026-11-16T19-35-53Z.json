@@ -1,0 +1,17 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-35-53Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I have supervised him the whole time.",
+      "why": "The brief states that Tomás has worked for the farm for three years and that the narrator is the farm manager, but it does not state how long the narrator has managed the farm or supervised Tomás."
+    },
+    {
+      "quote": "For three years Tomás has kept a 3 a.m. shift",
+      "why": "The brief says Tomás has worked at the farm for three years and currently runs the 3 a.m. shift, not that he has worked that specific shift for all three years."
+    }
+  ],
+  "invented_count": 2
+}

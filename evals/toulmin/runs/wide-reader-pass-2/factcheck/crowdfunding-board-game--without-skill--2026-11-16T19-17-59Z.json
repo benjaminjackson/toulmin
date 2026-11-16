@@ -1,0 +1,37 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-17-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "You'll share food and fuel, fix what the weather breaks, look after each other when someone gets sick or loses heart, and keep the light burning for the ships that depend on it.",
+      "why": "The brief only says you see a lighthouse keeper's family through a winter, without specifying game actions or mechanics like sharing food and fuel, fixing weather damage, tending to sickness or morale, or keeping the lamp burning."
+    },
+    {
+      "quote": "I started this game in 2023",
+      "why": "The brief says playtest sessions have run since 2023, not that the designer started creating the game in 2023."
+    },
+    {
+      "quote": "friends, strangers, families, experienced gamers and people who had never played a co-op game before.",
+      "why": "The brief only says the game was playtested with about 60 different people, without describing who those people were or their gaming experience."
+    },
+    {
+      "quote": "Every session changed something. The version you're backing has been reworked, rebalanced and simplified based on what those players showed me.",
+      "why": "The brief states the number of playtest sessions, not what changes, rebalancing, or simplifications resulted from them."
+    },
+    {
+      "quote": "where people sat down with strangers and played it start to finish.",
+      "why": "The brief only says the designer took the game to two conventions, not who played it there or whether they played full games from start to finish."
+    },
+    {
+      "quote": "More than **1,240 of you** signed up to hear about this launch.",
+      "why": "The brief states that 1,240 people signed up for the launch email, not more than 1,240."
+    },
+    {
+      "quote": "I spend my days reading terrain and thinking about how people find their way through hard country. This game came from the same place.",
+      "why": "The brief states the creator works full time as a land surveyor, not what inspires their game design or how their job led to the game."
+    }
+  ],
+  "invented_count": 7
+}

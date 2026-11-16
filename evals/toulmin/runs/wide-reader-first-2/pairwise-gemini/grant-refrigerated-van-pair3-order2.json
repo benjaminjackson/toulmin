@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-40-00Z",
+  "without_skill_run": "2026-11-16T19-20-01Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is a complete, honest narrative that immediately takes accountability for the late report I had to chase for four months and translates the farm numbers into household impact. Document A contains unedited brackets—which reinforces my concerns about their administrative follow-through—though if it were completed, its prompts to address ongoing vehicle costs and a specific reporting fix would address questions I still have about their depleted reserves and compliance."
+}

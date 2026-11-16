@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters are honest and make the same case, but A makes $11,500 look more reasonable by pointing out that it is below the $12,500 another publisher paid. A also gives the monthly figure of $2,250, while B adds 'full-time work', which the brief doesn't support."
+}

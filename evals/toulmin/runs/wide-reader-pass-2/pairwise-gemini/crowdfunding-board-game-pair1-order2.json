@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who has been burned by a failed campaign before, Document B wins me over by showing the exact manufacturing and shipping math rather than leaving placeholders like Document A. I also respect that the creator explicitly avoids overhyping the 23 BGG ratings and connects their day job as a surveyor directly to careful financial planning."
+}

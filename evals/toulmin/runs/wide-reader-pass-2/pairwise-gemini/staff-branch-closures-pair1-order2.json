@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B puts the details of our offer right at the top where we need them, rather than making us read the business justification first like Document A does. While Document B says this will make the work better for most of us, it immediately acknowledges that the new hours won't suit everyone, and unlike Document A, it doesn't invent meetings or Q&A sessions that weren't in the facts."
+}

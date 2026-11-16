@@ -1,0 +1,33 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-39-22Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "When the elevator stops, those who live on the upper floors cannot get down to the street.",
+      "why": "The brief does not state which floors the elderly or mobility-impaired residents live on, nor does it state that they cannot get down to the street."
+    },
+    {
+      "quote": "They miss appointments.",
+      "why": "The brief does not mention any residents missing appointments due to the elevator outages."
+    },
+    {
+      "quote": "They depend on others for groceries and medicine.",
+      "why": "The brief does not mention residents depending on others for groceries and medicine."
+    },
+    {
+      "quote": "In August, some of them waited out twelve days.",
+      "why": "While the brief states the elevator was out for 12 days in August, it does not say that some residents stayed inside or waited out the entire 12 days."
+    },
+    {
+      "quote": "It is now November.",
+      "why": "The brief mentions an inspection in September, but it does not state that the current month is November."
+    },
+    {
+      "quote": "Many of us have lived here for years and want to keep living here.",
+      "why": "The brief provides no information about how long any of the tenants have lived in the building."
+    }
+  ],
+  "invented_count": 6
+}

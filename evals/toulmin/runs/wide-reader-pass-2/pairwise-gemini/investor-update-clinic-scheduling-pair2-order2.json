@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-37-39Z",
+  "without_skill_run": "2026-11-16T19-18-51Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is a complete, honest email that connects the dots between the existential threat to the core product and the pivot to standalone reminders. Document A left unedited template placeholders like '[Your plan: e.g., when you intend to raise...]' right in the middle of the text, which destroys any credibility the founder was trying to rebuild after ghosting me for six months."
+}

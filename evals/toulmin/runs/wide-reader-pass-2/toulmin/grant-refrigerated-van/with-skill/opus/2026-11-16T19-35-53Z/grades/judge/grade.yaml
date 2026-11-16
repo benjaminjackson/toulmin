@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T19:37:51.063251+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 434
+  tags: []
+  notes: extracted 434 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 4
+    objections: 4
+    fit: 9
+  details:
+    agree: The case for the van is clear and well grounded, but Marisol still had
+      to chase the 2023 report for four months, and the narrative admits that without
+      promising anything different, so she has little reason to recommend yes with
+      confidence.
+    honest: It correctly drops the unsupported 'double fresh food' claim in favour
+      of a seasonal increase of half and an annual addition of about 9,000 pounds;
+      only small flourishes like 'supply does not' limit us and 'households were waiting'
+      go a little past the facts.
+    works_the_facts: It works out about 10 pounds per household, 3,000 extra pounds
+      a month in season (+50%), 15 pounds per family, a 72,000-pound annual base and
+      the 26% match, and puts the seasonal increase forward as the most favourable
+      true figure.
+    right_comparison: 'The no-van case is drawn accurately from last summer: the produce
+      is refused again and families stay at 10 pounds. ''Likely to offer again'' is
+      an assumption, though, and nothing in the brief shows a trend to back it.'
+    qualification: The hedges ('likely to offer', 'at last summer's level') give no
+      date or number a funder could check, and there is no reporting milestone or
+      measurable first-year target with a consequence if it is missed.
+    objections: The late report, which is this reader's main objection, is acknowledged
+      but not answered with a reporting commitment, and the obvious questions about
+      running costs with only $11,000 left in reserves go unaddressed. The driver
+      question, which the brief does answer, is handled well.
+    fit: It is a sectioned project narrative of about 470 words, within the 500-word
+      limit and in the form a foundation application expects.

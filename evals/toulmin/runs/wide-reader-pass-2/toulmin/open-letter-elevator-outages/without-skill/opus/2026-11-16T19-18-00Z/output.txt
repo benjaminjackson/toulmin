@@ -1,0 +1,33 @@
+I've kept every claim to the facts you gave me. The letter says the elevator passed its September inspection, because leaving that out would weaken you once the TV station checks. It also says management told you the second elevator can't be done, rather than calling that untrue. If you have proof it's feasible, add it before you send.
+
+The letter asks for four specific things so that it's clear what a good reply would look like. The words in square brackets are placeholders for you to fill in.
+
+<final_document>
+**An Open Letter to [Property Management Company]**
+From the Tenants' Association of [Building Name], [Address]
+[Date]
+
+Our building has nine stories, 112 apartments and one elevator. So far this year, that elevator has been out of service on 41 days. In August it was down for 12 days in a row.
+
+For many of our neighbors, that's far more than an inconvenience. Twenty-three of our residents are over 75, and six use wheelchairs or walkers. When the elevator stops, they can't get to doctor's appointments, buy groceries or leave their homes safely. Without the elevator, a fire or medical emergency on an upper floor becomes much more dangerous. Families with small children, residents carrying groceries and people recovering from illness or injury are stuck as well.
+
+In June you told us a new controller part was on order and would arrive in six to eight weeks. Today you're telling us the same thing. Five months later, we're still waiting, and we've had no explanation for the delay.
+
+We know the city inspected the elevator in September and issued a passing certificate. We're glad it's considered safe. But an elevator that passes inspection and then stops working for days at a time isn't serving the people who depend on it.
+
+Earlier this year, 74 of our 112 households signed a petition asking for a second elevator. You told us that one would cost about $400,000 and can't be done in this building. We take that answer seriously, but we haven't seen the assessment behind it, and the problems with our current elevator haven't gone away.
+
+We are asking [Property Management Company] to:
+
+1. **Give us a firm date, in writing, for installing the controller part**, along with the order details, the supplier and the reason it hasn't arrived since June.
+2. **Put an interim plan in place for outages**, including help for residents with limited mobility, check-ins on elderly residents and a clear way to notify tenants when the elevator goes down and how long it will be out.
+3. **Share the assessment showing a second elevator isn't feasible**, and tell us what else you've considered to make sure our residents always have access to their homes.
+4. **Meet with the Tenants' Association within 30 days** to go over these points.
+
+We want to work with you to solve this problem. Our neighbors deserve to be able to leave their homes and get back to them safely. Please reply to [contact email or address] by [date].
+
+Sincerely,
+
+[Name], Secretary
+on behalf of the Tenants' Association of [Building Name]
+</final_document>

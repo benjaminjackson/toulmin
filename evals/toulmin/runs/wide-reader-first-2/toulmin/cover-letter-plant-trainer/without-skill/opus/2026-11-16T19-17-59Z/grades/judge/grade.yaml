@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T19:18:47.209729+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 351
+  tags: []
+  notes: extracted 351 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 5
+    honest: 7
+    works_the_facts: 3
+    right_comparison: 4
+    qualification: 3
+    objections: 5
+    fit: 8
+  details:
+    agree: This is a clear, candid letter that could earn a phone screen, but a skeptical
+      HR manager gets only claims of transferable habits and no evidence that the
+      writer understands how a regulated plant actually runs.
+    honest: It rightly drops the unsupported claim about halving training time, but
+      'documenting work carefully' isn't backed by the brief, 'the core of that job
+      is the same as yours' overreaches, and 'each year' smooths over a figure that
+      was only an average of two teachers a year.
+    works_the_facts: It repeats the raw numbers but derives nothing from them, such
+      as the 17-point (about 41% relative) rise in the pass rate, roughly 1,260 students
+      taught, or about 24 teachers and nearly 290 hours of adult training.
+    right_comparison: The pass-rate trend is shown against its starting point, but
+      the letter never sets the writer against the real alternative the reader has,
+      a candidate who already has GMP experience, and never says what the writer offers
+      that such a candidate wouldn't.
+    qualification: The GMP and LMS gaps are admitted, but 'close it quickly' and 'learn
+      quickly' come with no checkable commitment, such as a GMP course finished by
+      a stated date.
+    objections: It names the regulated-industry gap head-on, which this reader will
+      respect, but answers it with general habits rather than concrete parallels like
+      the formal safety program and the structured 12-hour onboarding treated as controlled
+      procedures.
+    fit: It is a properly formatted one-page cover letter; it leaves out the user's
+      requested halving claim, which was the honest call, though it doesn't explain
+      that choice to the user.

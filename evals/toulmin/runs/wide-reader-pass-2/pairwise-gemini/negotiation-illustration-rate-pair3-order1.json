@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-38-24Z",
+  "without_skill_run": "2026-11-16T19-18-58Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B feels much warmer and more personal to our four-year working relationship, whereas Document A's bolded demand feels a bit aggressive and transactional. Since I have a cheaper illustrator waiting in the wings, B's collaborative tone ('proud of what we've built together') makes me much more inclined to go to bat for extra budget to keep her."
+}

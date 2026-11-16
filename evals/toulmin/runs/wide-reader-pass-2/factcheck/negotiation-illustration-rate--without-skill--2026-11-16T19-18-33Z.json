@@ -1,0 +1,25 @@
+{
+  "task": "negotiation-illustration-rate",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-18-33Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Each book also takes me about four months of full-time work.",
+      "why": "The brief says each book takes about four months, but does not state that it is full-time work."
+    },
+    {
+      "quote": "My fees elsewhere have gone up as well.",
+      "why": "The brief mentions one fee of $12,500 from another publisher last year, not that the illustrator's fees at other publishers have increased over time."
+    },
+    {
+      "quote": "Last year another publisher paid me $12,500 for a 32-page book of the same scope.",
+      "why": "The brief states the other book was of the 'same length' (32 pages), but does not say it had the same scope (such as having 14 full spreads)."
+    },
+    {
+      "quote": "That's toward the lower end of that range, because I value working with you and want to keep making books together.",
+      "why": "The brief states the desired fee is $11,500, but does not give a reason for choosing a number at the lower end of the agent's range."
+    }
+  ],
+  "invented_count": 4
+}

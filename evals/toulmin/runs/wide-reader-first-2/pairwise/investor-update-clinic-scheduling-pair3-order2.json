@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-39-35Z",
+  "without_skill_run": "2026-11-16T19-19-40Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "A takes ownership of the missed updates by committing to send one every quarter. It also names the metrics it will report on the reminder launch and says plainly that runway will shape fundraising decisions, which is the accountability a cold investor wants. B gives no such commitment, and its '15% growth excluding the chain' framing reads as spin on a flat quarter."
+}

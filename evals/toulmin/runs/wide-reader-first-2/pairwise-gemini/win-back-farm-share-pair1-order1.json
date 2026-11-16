@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B's subject line immediately takes accountability, making me much more likely to actually open the email after feeling ignored last summer. Document A also feels slightly too pushy with bolding the scarcity and price, whereas B strikes a more humble, conversational tone."
+}

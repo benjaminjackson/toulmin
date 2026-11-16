@@ -1,0 +1,33 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-39-46Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "This is the first update you've had from me in six months.",
+      "why": "Skipping the last two quarterly updates means it has been roughly nine months (three quarters) since the previous update, not six months."
+    },
+    {
+      "quote": "That's the biggest competitive threat we face: a records system that comes with a scheduler that's good enough.",
+      "why": "The brief only states that one customer moved to the scheduler in their electronic records system, not that this is the company's biggest competitive threat."
+    },
+    {
+      "quote": "so this is the result our customers feel most directly.",
+      "why": "The brief gives the no-show rate reduction but does not state how customers feel about it or how it compares to other features."
+    },
+    {
+      "quote": "The reminders are the part of the product with the clearest, most measurable result.",
+      "why": "The brief does not mention the other parts of the product or whether their results are clear or measurable."
+    },
+    {
+      "quote": "Selling them separately at $150/month means a clinic can buy them without giving up the scheduler it already has, including one built into its records system. That gives us a product to offer the kind of customer we just lost, instead of having to win them away from software they already have.",
+      "why": "The brief does not explain why the reminder feature is being sold separately or state that it can integrate with third-party or built-in electronic records schedulers."
+    },
+    {
+      "quote": "Ben",
+      "why": "The brief does not give the founder's name."
+    }
+  ],
+  "invented_count": 6
+}

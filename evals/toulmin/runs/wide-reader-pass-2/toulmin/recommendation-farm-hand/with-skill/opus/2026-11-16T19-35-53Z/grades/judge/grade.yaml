@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:37:39.131134+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 323
+  tags: []
+  notes: extracted 323 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 4
+    objections: 7
+    fit: 9
+  details:
+    agree: 'A quick reader comes away with a clear, believable picture: he works an
+      unsupervised 3 a.m. shift reliably and is already using data to catch disease,
+      so most readers would rate him well, though nothing makes him stand out sharply
+      from 150 applicants.'
+    honest: The claims stay within the brief, but 'seriously ill' makes 'got sick'
+      a little stronger, and the letter quietly leaves out that he gave only two days'
+      notice before leaving.
+    works_the_facts: 'The facts are stated as given and never turned into stronger
+      figures: about 780 scheduled shifts with 2 missed is over 99.7% attendance,
+      and the value of catching nine mastitis cases is described but not estimated.'
+    right_comparison: Saying he is 'already doing the kind of work your program teaches'
+      hints at a comparison with other applicants, but the letter never sets him against
+      typical entrants or other workers the manager has supervised.
+    qualification: The written-English caveat leans on 'taking a night class' without
+      a start date, level, completion date or any sign of progress the committee could
+      check.
+    objections: The two likely doubts, whether he will stay the full two years and
+      whether his written English can handle coursework, are raised directly and answered
+      with the fact that he came back and with the night class, though the English
+      answer is thin.
+    fit: It is a properly formatted one-page reference letter from the farm manager,
+      of the length requested, with placeholders for details still to fill in.

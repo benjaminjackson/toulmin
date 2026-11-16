@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-37-27Z",
+  "without_skill_run": "2026-11-16T19-18-51Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A is finished and its math is accurate: the remaining clinics offset the chain's loss, and 37 reminder subscriptions would replace the chain's revenue. B has better strategy and promises regular updates, but it leaves bracketed placeholders exactly where I most need answers, on runway and fundraising. For an investor already annoyed by missed updates, those placeholders hurt it."
+}

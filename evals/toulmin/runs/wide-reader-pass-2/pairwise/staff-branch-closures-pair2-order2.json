@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-37-29Z",
+  "without_skill_run": "2026-11-16T19-18-40Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "As a branch teller who doesn't want phone work, I'm more likely to stay after reading A. It promises to show the shift rotation before I have to decide, offers to work around my circumstances, and gives a deadline, a meeting and a private HR contact. B is more open about the costs of the move but gives me less to rely on when deciding."
+}

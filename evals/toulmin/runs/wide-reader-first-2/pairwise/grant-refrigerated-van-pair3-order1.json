@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-40-00Z",
+  "without_skill_run": "2026-11-16T19-20-01Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A is complete and owns the late report in its first lines, which I'd respect even though it never says what has changed since. B handles the history and the expected results better, but it reaches me with bracketed placeholders, including an unfilled 'since then, we have [...]', so this grantee's paperwork still looks unfinished."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-40-00Z",
+  "without_skill_run": "2026-11-16T19-20-01Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B is complete, honest about the late report and careful with its numbers. Document A still contains bracketed placeholders, including the very fix for late reporting I would most want to see and the van's running costs, so it reads as unfinished, though B also gives no concrete reporting fix."
+}

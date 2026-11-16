@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-37-01Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B sticks to the facts in the brief and still speaks to me. Its call invites me to describe who does my books now, which fits my situation with my cousin. A has warmer salon detail about booth rent and tips, but it adds claims the brief doesn't support, like 'no add-on fees' and 'many salons are closed then too', so B is the safer and slightly stronger pitch."
+}

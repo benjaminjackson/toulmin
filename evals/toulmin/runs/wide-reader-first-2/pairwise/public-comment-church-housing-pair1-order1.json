@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both speeches admit the traffic cost honestly, but B makes the three-year wait concrete and its line 'we already paved it' is memorable, so it is more likely to move a skeptical room. A deals with traffic a little more directly, but its choppy delivery feels less warm, and B's description of who would live there ('working families, seniors, people starting over') goes slightly beyond the brief."
+}

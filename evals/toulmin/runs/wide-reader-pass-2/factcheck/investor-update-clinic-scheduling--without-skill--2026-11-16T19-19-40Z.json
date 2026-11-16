@@ -1,0 +1,45 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-19-40Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Q3 update",
+      "why": "The brief states that this is a quarterly update, but it does not specify that it is for Q3."
+    },
+    {
+      "quote": "This is the biggest competitive risk we face: a \"good enough\" scheduler bundled with software the clinic already pays for.",
+      "why": "The brief notes that one customer left for the scheduler in their electronic records system, not that bundled schedulers are the company's biggest competitive risk."
+    },
+    {
+      "quote": "It's also the clearest proof we have that we deliver something the bundled schedulers don't.",
+      "why": "The brief does not state whether bundled schedulers lack automatic text reminders or achieve different no-show rates."
+    },
+    {
+      "quote": "1. A clinic doesn't have to give up its existing scheduler to buy it, including the scheduler in its records system, which is the one we just lost a customer to.",
+      "why": "The brief states that the reminder feature will be sold on its own, not why the company decided to do so or whether it works alongside existing records-system schedulers."
+    },
+    {
+      "quote": "2. Selling it alone is a much smaller decision for a clinic owner than switching schedulers, so it should be faster to sell.",
+      "why": "The brief does not state the company's reasons for selling the reminder feature on its own."
+    },
+    {
+      "quote": "Next quarter's update will report how many clinics bought reminders on their own, how long those deals took to close, and whether any of them went on to buy the full scheduler.",
+      "why": "The brief says nothing about sending an update next quarter or what metrics it will report."
+    },
+    {
+      "quote": "At 11 months of runway, the early results from the reminder product will shape our next decisions on spending and fundraising.",
+      "why": "The brief does not mention future spending or fundraising decisions or say that the reminder product results will shape them."
+    },
+    {
+      "quote": "I'll lay out the options in next quarter's update",
+      "why": "The brief does not state that the founder will lay out spending and fundraising options in next quarter's update."
+    },
+    {
+      "quote": "especially groups of 3 to 15 clinics.",
+      "why": "The brief does not specify a target customer size of 3 to 15 clinics."
+    }
+  ],
+  "invented_count": 9
+}

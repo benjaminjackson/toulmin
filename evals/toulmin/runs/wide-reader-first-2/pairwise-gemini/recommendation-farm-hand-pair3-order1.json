@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-38-51Z",
+  "without_skill_run": "2026-11-16T19-19-09Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters are strong and sound like a real farm manager, but Document A stays strictly honest to the facts provided. Document B invents details not in the brief, such as claiming Tomás taught himself the software without being told to, and that he has run the 3 a.m. shift for 'most of' his three years."
+}

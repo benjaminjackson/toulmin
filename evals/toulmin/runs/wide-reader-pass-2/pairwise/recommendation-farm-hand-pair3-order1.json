@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-39-44Z",
+  "without_skill_run": "2026-11-16T19-19-09Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Both letters are persuasive, but B adds claims the brief doesn't support: that he taught himself the software, flagged cows unprompted, took the night class on his own initiative, ran the shift for most of three years and stepped straight back in after his leave. A makes nearly as strong a case using only the facts in the brief."
+}

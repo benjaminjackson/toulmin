@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A owns the flat revenue and the missed updates cleanly, connects the customer loss directly to the strategic logic of the new standalone product, and makes a smart, specific ask regarding add-on pricing. Document B sounds slightly defensive trying to frame flat revenue as 15% growth, and asking investors for 'thoughts on runway' makes the founder look rudderless when cash is getting tight."
+}

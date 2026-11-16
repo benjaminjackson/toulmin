@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "As a cautious backer, I'm more convinced by A because it shows the real figures: the $17,400 factory quote, about $9 a copy for shipping, and roughly 570 backers needed to fund the run. B's candor about the small 23-person rating pool and its promise to report bad news are appealing, but it leaves the cost breakdown blank, so it reads as vague exactly where I'm most wary."
+}

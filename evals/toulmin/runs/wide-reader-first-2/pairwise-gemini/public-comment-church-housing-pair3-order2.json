@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-39-07Z",
+  "without_skill_run": "2026-11-16T19-19-20Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A makes the three-year wait and the 60% AMI threshold concrete and human without straying from the facts, and its closing comparison between a slower traffic light and a three-year wait for a home directly addresses the two undecided commissioners' hesitation. Document B is also very good, but its choppy, one-sentence paragraphs feel slightly more performative, whereas A sounds like a thoughtful, measured neighbor."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-18-00Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A's line that 74 of 112 households, 'two out of every three,' signed the petition directly undercuts my belief that this is a few loud people, and its asks are narrow, documentable and stick to the facts. B is warmer and proposes a meeting, but it adds claims that aren't backed up, such as fire risk, families with small children and 'no explanation,' which makes it easier for me to dismiss."
+}

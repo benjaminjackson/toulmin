@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-38-08Z",
+  "without_skill_run": "2026-11-16T19-19-03Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B wins me over because it directly validates the financial hit I took ('roughly three weeks of food you paid for and didn't get') and invites me to reply and talk it over, which directly repairs the broken trust from when they went quiet last July. Document A is also good and actually says 'I'm sorry', making it a close call, but B's offer of a conversation feels more genuinely accountable."
+}

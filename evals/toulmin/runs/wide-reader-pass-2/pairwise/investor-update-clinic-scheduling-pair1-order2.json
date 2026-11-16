@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B gives me sharper, checkable analysis: the lost chain was about 13% of revenue, and the rest of the business grew $5,500. Its blunt 'where that leaves us' summary reads like a founder who has stopped hiding things. A's specific asks and explicit worry about runway are good, but its framing is softer and less precise."
+}

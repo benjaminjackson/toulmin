@@ -1,0 +1,41 @@
+task:
+  name: staff-branch-closures
+  type: staff-announcement
+  set: tune
+  reader: The 14 tellers and member service staff at the two branches that are closing.
+    They heard rumours of the closures two weeks ago, several have worked at their
+    branch for over ten years, and most of them do not want to work on the phones.
+    They decide whether to take the new roles or start looking elsewhere.
+  prompt: 'Help me write an announcement to our staff. I''m the COO of a credit union
+    with 7 branches. We''re closing the Maple Street and Route 9 branches on March
+    31 and moving the people who work there to a new member phone and chat center.
+
+
+    Facts:
+
+    - The two branches have 14 staff between them. Every one of them is offered a
+    job in the phone and chat center at the same pay or higher.
+
+    - Visits to those two branches fell 44% over the last three years. Phone and chat
+    contacts across the credit union went up 60%.
+
+    - Members calling us now wait an average of 9 minutes on hold.
+
+    - The center will be open 8 a.m. to 8 p.m. on weekdays. The branches were open
+    9 to 5. Shifts will rotate.
+
+    - Staff in the center can work from home two days a week after 90 days of training.
+
+    - Anyone who doesn''t take the new role gets 2 weeks of pay for every year they''ve
+    worked here.
+
+
+    I want the announcement to say that this change will make everyone''s job better.
+    About 400 words, sent by email from me.'
+config:
+  name: with-skill
+  runner: /Users/ben/github/toulmin/evals/toulmin/run-with-skill
+  model: opus
+started: '2026-11-16T19:35:53.057759+00:00'
+duration_seconds: 47.66
+exit_code: 0

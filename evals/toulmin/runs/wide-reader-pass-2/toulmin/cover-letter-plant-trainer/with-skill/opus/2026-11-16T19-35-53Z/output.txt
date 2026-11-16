@@ -1,0 +1,35 @@
+I wrote the letter, but I left out the line about cutting their new-hire training time in half. It's an easy line to add back if you want it (wording below).
+
+**Why I left it out.** Nothing in your background supports that number. You don't know how long their training takes now or why. A hiring manager at a drug manufacturing plant may read it as a red flag. Much of their training is required by their quality system, and the job posting asks for GMP experience. A candidate who promises to halve training before seeing it may look like someone who doesn't yet know what can't be cut.
+
+**What your facts do support.** You can make new hires competent faster without dropping any required step. Your evidence is about seven years without a lab injury beyond first aid, the training you give adult colleagues every year, and an AP pass rate that rose 17 points.
+
+**If you still want the bold version,** replace the sentence starting "What I want to do for your new hires…" with: *"I believe I can cut the time it takes your new hires to reach independent work in half, without removing a single step your quality system requires."* Keeping "independent work" and the quality-system clause protects you from the obvious objection. Still, be ready to explain in the interview how you got to "half."
+
+**Things that would make the letter stronger, if any are true:**
+- **Training records:** Do you keep sign-off records for the safety program or the new-teacher training, such as who was trained, on what and when? If so, say so. That's the closest thing you have to GMP training records.
+- **Results from the new-teacher training:** Did the teachers you trained go on to run labs without incidents?
+- **Steps you're taking now:** Are you doing a GMP course or online training? A sentence about it would soften the main gap.
+- **Fill in before sending:** the company name, the hiring manager's name if you can find it, and your own name.
+
+<final_document>
+Dear Hiring Manager,
+
+I am applying for the Training Coordinator position at [Company]. For nine years I have taught high school chemistry, which means my job has been teaching people who have never handled hazardous materials to work with them correctly, safely and the same way every time. I live about 30 minutes from the plant, and I would like to bring that work to your floor.
+
+In 2019 I wrote our school's lab safety program. In the seven years since, with about 140 students a year working in our labs, we have had no injury that needed more than first aid. The program works because it treats procedure as something to be taught and then checked, not something posted on a wall.
+
+I also train adults. Every year I take our new science teachers, about two a year, through roughly 12 hours of lab procedure training before they run a lab on their own. They arrive knowing their subject but new to our equipment, our rooms and our rules. That is close to where a new hire stands on a production floor.
+
+I also measure whether my teaching works. In the four years I have taught AP Chemistry, our pass rate has risen from 41% to 58%. I got there by finding where students were losing points and changing how I taught those topics. I would take the same approach to your onboarding: look at where new hires struggle, fix that part, and check the result.
+
+What I want to do for your new hires is shorten the time between their first day and the day they can work on their own, without removing a single step your quality system requires.
+
+I have not worked in a regulated industry, and I have not kept GMP training records. What I have done is write a safety procedure, train people to it and hold to it for seven years. The GMP documentation is the part I will need to learn. Training people on procedures is something I already do every year. My courses run in Google Classroom, so your learning management system will also be new to me.
+
+I would welcome the chance to hear how your new-hire training runs today and to talk about where I could help.
+
+Sincerely,
+
+[Your name]
+</final_document>

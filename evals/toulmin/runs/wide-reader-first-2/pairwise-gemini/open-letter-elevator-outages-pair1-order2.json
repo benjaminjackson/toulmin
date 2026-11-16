@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-18-00Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B forces my hand by explicitly stating at the end that the letter has already been sent to the local TV station, turning this from a routine complaint into an immediate PR crisis I have to manage. It also directly counters my belief that the association is just a few loud people by pointing out that 74 households is two-thirds of the building, while making its demands for the meeting much more realistic than Document A's request for a 'firm date' on a backordered part."
+}

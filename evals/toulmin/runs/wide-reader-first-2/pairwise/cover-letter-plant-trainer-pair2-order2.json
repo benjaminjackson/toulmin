@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-36-46Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B describes teaching in terms a plant uses: written procedures for hazardous work, training everyone the same way, checking that people keep following procedures, and finding root causes of the pass-rate gain. That matters more to a skeptical HR screener than A's tidy bullets and onboarding plan. Both are honest about the gaps in GMP and LMS experience and drop the 'cut training in half' claim, so the difference is small."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-36-36Z",
+  "without_skill_run": "2026-11-16T19-18-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "As the editor, I'd find both requests honest and warm, but A is a little easier to act on: it says $11,500 is below what she was paid elsewhere last year and offers to go ahead as soon as I agree. B adds a 'full-time' claim the facts don't support, and its 'looking forward to getting started' close suggests she'll take the book even if I don't raise the fee."
+}

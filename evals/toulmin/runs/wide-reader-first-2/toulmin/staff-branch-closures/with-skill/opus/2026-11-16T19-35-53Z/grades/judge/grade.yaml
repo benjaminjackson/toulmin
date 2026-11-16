@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:37:00.567905+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 468
+  tags: []
+  notes: extracted 468 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 6
+    qualification: 4
+    objections: 6
+    fit: 7
+  details:
+    agree: The plain, respectful tone, the guaranteed pay and the offer to talk one
+      on one give a wavering teller reasons to stay, but nothing speaks to tellers
+      who don't want phone work, so a ten-year teller weighing severance may still
+      leave.
+    honest: Every number matches the brief, and the writer sensibly drops the unsupported
+      claim that the change makes everyone's job better; 'hear this from me at the
+      same time as everyone else' ignores two weeks of rumours, and 'not fair to colleagues'
+      is a small addition the brief doesn't support.
+    works_the_facts: The figures are only restated; nothing is worked out, such as
+      what severance means for a ten-year employee (20 weeks) or how the 8-to-8 rotation
+      compares with a 40-hour week.
+    right_comparison: It gives the trend (visits down 44%, contacts up 60%) and frames
+      the choice for staff as the new role or severance, but never says what would
+      happen to these branches if nothing changed.
+    qualification: It names the uncertainty about rotating shifts and invites people
+      to raise hours problems, but gives no decision deadline and doesn't say what
+      happens if a scheduling need can't be met.
+    objections: Longer hours and the loss of the branch and its members are taken
+      on directly, but the main objection, 'I don't want to work on the phones,' gets
+      only 'that's you,' and the rumours go unmentioned.
+    fit: It is an email from the COO with clear sections at roughly 450 words, near
+      the target; it deliberately softens the requested 'better for everyone' message,
+      which costs a little on brief compliance.

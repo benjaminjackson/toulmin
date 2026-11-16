@@ -1,0 +1,48 @@
+I used the Toulmin skill to plan this. The main finding is that your numbers don't support the "double" claim, so I wrote a narrower version instead. Here's why, and what would let you put "double" back.
+
+**The gap.** Doubling fresh food in a year means going from about 72,000 lb a year (6,000 × 12) to about 144,000 lb. That's 72,000 extra pounds. The only new supply you've described is the 9,000 lb the farms offered last summer. On those facts the van adds about 12.5% over the year, or about 50% during the three summer months (6,000 → 9,000 lb a month). A reviewer doing the same arithmetic would see a promise eight times bigger than the evidence. Because of your late report, you can't afford to look like you overstate.
+
+**What I wrote instead:** "At last summer's level, the van raises our fresh food during the growing season by about half, and adds about 9,000 lb over the year." That's still a strong claim, and every number in it comes from your facts. I'd recommend sending this version. If you can document another 60,000 lb or so of cold food you'd be able to accept (more farms, grocery rescue, a regional food bank's dairy, year-round sources), "double" becomes defensible and I'd write it with those sources named.
+
+**Other choices in the draft:**
+- **The late report is addressed early, before the ask.** The foundation already knows about it, so the narrative says so plainly. It doesn't promise how you'll fix it, because you didn't give me one. One concrete sentence would help a lot, such as "Our treasurer, [name], now owns grant reporting and reports are calendared at award." Add it only if it's true.
+- **Questions a reviewer will likely ask that your facts can't answer yet:**
+  - Who pays for the van's insurance, fuel and maintenance?
+  - Is $11,000 in reserves enough to run on?
+
+  If you have answers, a sentence on each would strengthen the case. I've left both out rather than guess.
+- **Name:** I didn't have your food bank's name, so the draft says "our food bank." Swap in the name where it reads naturally.
+
+The draft is about 430 words.
+
+<final_document>
+**Project Narrative: Refrigerated Van**
+
+Each month our volunteer-run food bank hands out about 38,000 pounds of food to 610 households in a town of about 9,000 people. About 6,000 pounds of that is fresh produce, milk and eggs, roughly 10 pounds per household per month. Equipment limits how much fresh food we can offer. Supply does not.
+
+**Our history with the Foundation**
+
+In 2023 the Foundation granted us $12,000 for shelving. Our final report on that grant was four months late. That was our responsibility, and we know it is part of the record you will weigh in reviewing this request.
+
+**The problem**
+
+Last summer, local farms offered us roughly 9,000 pounds of produce over three months. We turned it down because we had no way to pick it up cold or store it. The food was offered and the households were waiting. What we lacked was a refrigerated vehicle.
+
+**The request**
+
+We are asking the Foundation for $50,000 toward a $68,000 refrigerated van. We will pay the remaining $18,000, more than a quarter of the cost, from our own reserves, which will bring them down to $11,000. We are making that commitment because the van removes the one obstacle that stops us from accepting fresh food that is already being offered to us.
+
+**What the van will do in its first year**
+
+With the van, we can accept the kind of farm donations we refused last summer. At last summer's level, that is about 3,000 additional pounds a month during the growing season. It raises our fresh food distribution in those months from about 6,000 pounds to about 9,000, an increase of half. Across 610 households, the fresh food each family receives in those months goes from about 10 pounds to about 15.
+
+Over the full year, last summer's offers alone would add about 9,000 pounds to the roughly 72,000 pounds of fresh food we now distribute. That is the increase the offers we have already received will support. Any further farm or grocery partners the van makes possible would add to it.
+
+**Who will run it**
+
+We have 23 regular volunteers. Four of them have committed to driving the van on a weekly schedule, so the van will have drivers from the week it arrives.
+
+**If we do not get the van**
+
+Local farms are likely to offer us produce again next summer. Without cold transport and storage, we will have to turn it down again, and the families we serve will continue to receive about 10 pounds of fresh food a month when roughly half again as much was within reach.
+</final_document>

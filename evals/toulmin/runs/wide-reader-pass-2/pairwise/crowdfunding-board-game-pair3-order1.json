@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-40-23Z",
+  "without_skill_run": "2026-11-16T19-19-25Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a wary backer who has been burned before, I'm persuaded by A's actual cost breakdown: the factory quote, shipping per copy, backers needed and leftover margin before fees. A also says plainly that the 8.1 rating isn't a sales record, while B only says costs are 'worked out' and is full of unfilled placeholders."
+}

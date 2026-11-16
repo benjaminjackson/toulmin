@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T19:41:04.952065+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 441
+  tags: []
+  notes: extracted 441 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 4
+    objections: 4
+    fit: 9
+  details:
+    agree: The need is well documented and the reserves commitment is strong, but
+      Marisol had to chase the last report for four months, and the draft gives her
+      no concrete reporting commitment, so she may not get past that history.
+    honest: 'The draft correctly drops the ''double in the first year'' claim the
+      facts cannot support and its arithmetic checks out, but it adds small details
+      the brief never gave: that the produce was ''offered free'' and ''grown in this
+      county.'''
+    works_the_facts: 'The figures are worked out correctly from the brief: about 10
+      pounds of fresh food per household, under a sixth of the total, 3,000 pounds
+      a month (a 50% increase in summer), 15 pounds per household, more than a quarter
+      of the cost paid from reserves, and most of the savings committed, each put
+      in its strongest true form.'
+    right_comparison: 'The alternative is stated plainly and matches the facts: without
+      the van, the farms offer and the food bank has to say no again. There is no
+      trend data to add, though the draft could have said a year-round fresh-food
+      gain is unknown.'
+    qualification: The commitment to measure results against the 9,000-pound benchmark
+      can be checked, but it gives no report date and no consequence if the target
+      is missed, which matters most for this reader.
+    objections: The late report is acknowledged with dignity but nothing is offered
+      to fix it, such as a reporting date or a named person responsible, and the draft
+      never addresses how the van will be insured, fuelled and maintained once reserves
+      are down to $11,000.
+    fit: It is a clearly sectioned project narrative of about 470 words, within the
+      500-word limit.

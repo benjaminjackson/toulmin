@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B gives me the underlying 15% growth outside the lost chain and the 37-customer math for standalone reminders, which makes the case for continued backing more concrete. A's explicit promise of on-time updates speaks directly to my complaint, so the gap is modest."
+}

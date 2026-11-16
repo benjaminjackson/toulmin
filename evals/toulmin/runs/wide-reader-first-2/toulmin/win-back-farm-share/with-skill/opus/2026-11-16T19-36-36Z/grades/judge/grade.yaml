@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:38:07.266502+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 194
+  tags: []
+  notes: extracted 194 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 6
+    objections: 5
+    fit: 9
+  details:
+    agree: The plain apology that names the missing refund and the single short email
+      speaks directly to this household's grievance, but nothing says what happens
+      to their $540 if hail hits again, so a resistant reader may still hold back.
+    honest: Every fact comes from the brief, and the 'three weeks of produce' is a
+      fair derivation, though 'came half full' drops the brief's 'about'.
+    works_the_facts: Turning six half-full weeks into about three lost weeks is good
+      work, but the email never puts a dollar figure on the loss (about $74 at roughly
+      $24.50 a week), and it never puts the $31,000 in terms of what members get from
+      it.
+    right_comparison: Last season is described accurately, but the email never sets
+      a storm year under the new setup (second field, nets) against last July, so
+      the reader can't see how much difference the changes would make.
+    qualification: '''I can''t stop storms'' is an honest hedge, and the email gives
+      a concrete date (March 15) and a share count (52), but it never says what members
+      would get if a crop failure happened anyway.'
+    objections: 'The silence and the apology are dealt with, but the reader''s main
+      objection, getting no refund or credit when the farm falls short, isn''t answered:
+      pause credit covers the member''s absences, not the farm''s crop losses, and
+      nothing commits the farm to communicating better next time.'
+    fit: It's a short, well-organized email of about 180 words, under the 200-word
+      limit, with a clear subject line and a clear call to action.

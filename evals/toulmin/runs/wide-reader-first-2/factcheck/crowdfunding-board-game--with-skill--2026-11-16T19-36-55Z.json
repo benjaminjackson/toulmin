@@ -1,0 +1,41 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-36-55Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Each session showed me something to fix, and I fixed it.",
+      "why": "The brief does not state what happened during the playtest sessions or that the designer fixed something after each one."
+    },
+    {
+      "quote": "watched strangers play it",
+      "why": "The brief says the creator took the game to two conventions, not that strangers played it there or that the creator watched them."
+    },
+    {
+      "quote": "those are 23 people who played an unfinished game",
+      "why": "The brief does not specify whether the 23 raters played the game or whether the version they rated was unfinished."
+    },
+    {
+      "quote": "My name is on this game",
+      "why": "The brief does not mention whether the creator's name appears on the game."
+    },
+    {
+      "quote": "The remaining $5,450 covers crowdfunding and payment fees.",
+      "why": "The brief does not state what the remaining $5,450 of the budget is allocated for, nor does it mention crowdfunding and payment fees."
+    },
+    {
+      "quote": "at kitchen tables",
+      "why": "The brief does not state where the non-convention playtest sessions took place."
+    },
+    {
+      "quote": "I made it to be played over a long evening",
+      "why": "The brief does not mention the game's playtime or that it was designed to be played over a long evening."
+    },
+    {
+      "quote": "the game is ready.",
+      "why": "The brief does not state whether the game's design and files are completely finished and ready for printing."
+    }
+  ],
+  "invented_count": 8
+}

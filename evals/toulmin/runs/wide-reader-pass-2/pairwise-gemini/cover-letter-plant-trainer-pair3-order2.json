@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-39-19Z",
+  "without_skill_run": "2026-11-16T19-19-29Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters smartly avoided the naive claim of cutting training time in half, which would have been an instant red flag in a GMP environment. However, Document B wins because it uses bullet points for easy skimming and explicitly defines the purpose of GMP records (proving floor readiness on current procedures), whereas Document A makes a slightly concerning comment that safety depends 'less on the written rules'—a mindset that clashes with regulated manufacturing."
+}

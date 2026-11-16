@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-39-46Z",
+  "without_skill_run": "2026-11-16T19-19-17Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both documents wisely avoid taking all the credit for the guest score increase after our renovation, which keeps the writer credible. However, Document A shows a stronger commercial instinct by calculating the exact number of training shifts saved (from 81 down to 25) and directly connecting that operational efficiency to how they will handle the payroll budget, whereas Document B's budget plan sounds like more hand-holding for me."
+}

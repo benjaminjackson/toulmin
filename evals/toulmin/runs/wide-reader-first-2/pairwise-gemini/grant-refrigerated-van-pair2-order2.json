@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-37-50Z",
+  "without_skill_run": "2026-11-16T19-19-01Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B addresses the four-month-late report right at the top without inventing a new board-reporting process or measurement tracking system that isn't in the facts. Both documents smartly avoid the brief's mathematically unsupported claim of doubling fresh food, sticking instead to the honest 50% summer increase."
+}

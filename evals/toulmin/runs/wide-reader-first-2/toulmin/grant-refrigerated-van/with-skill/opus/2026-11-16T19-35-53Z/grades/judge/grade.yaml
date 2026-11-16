@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:37:50.019233+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 375
+  tags: []
+  notes: extracted 375 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 5
+    objections: 5
+    fit: 9
+  details:
+    agree: Marisol gets a clear, believable case for the van, but the late-report
+      apology comes with no reporting commitment, so the reader who chased that report
+      has little reason to expect better this time.
+    honest: 'The draft rightly drops the unsupported ''double'' claim, but two lines
+      go further than the facts: ''at least 9,000 additional pounds'' (the brief says
+      the offer was roughly 9,000) and ''the same offers will come next summer''.'
+    works_the_facts: 'The derived figures are correct and well chosen: 62 lb per household,
+      fresh food under one-sixth of the total, 3,000 lb a month as ''half again''
+      the current fresh amount, about 5 lb per household, and the 26% local share;
+      it does not mention the van''s running costs.'
+    right_comparison: The alternative is put concretely as turning down the farm produce
+      again, though the draft states as certain that the offers will come back.
+    qualification: The target can be checked against monthly distribution figures,
+      but no reporting date is given and nothing is said about what happens if the
+      9,000 lb isn't reached.
+    objections: The late report is admitted openly but not fixed (for example, by
+      promising quarterly updates on set dates), and nothing answers the obvious question
+      of how the van will be run and maintained once reserves are down to $11,000.
+    fit: It's a well-organized grant narrative of about 390 words, comfortably within
+      the 500-word limit.

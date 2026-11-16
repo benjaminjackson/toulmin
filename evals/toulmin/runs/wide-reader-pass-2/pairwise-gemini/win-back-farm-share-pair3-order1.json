@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-38-21Z",
+  "without_skill_run": "2026-11-16T19-19-03Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A won me over by explicitly acknowledging that I paid for roughly three weeks of produce I never received, which showed the farmer truly understood my frustration. Inviting me to reply at the end also directly repairs the trust they broke when they went quiet last summer."
+}

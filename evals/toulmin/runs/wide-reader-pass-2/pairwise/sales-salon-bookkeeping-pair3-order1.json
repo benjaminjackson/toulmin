@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-38-46Z",
+  "without_skill_run": "2026-11-16T19-19-18Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "B talks like someone who knows my salon: booth rent, tips, commission splits, and Sundays and Mondays off, which are my days off too. That warmth makes me more willing to spend 20 minutes on a call, even with my cousin charging only $600. A is honest but dry, and neither page tells me why $199 a month beats what I pay him now."
+}

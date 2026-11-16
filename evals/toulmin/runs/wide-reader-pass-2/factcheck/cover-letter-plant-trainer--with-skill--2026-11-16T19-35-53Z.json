@@ -1,0 +1,29 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-35-53Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "In the seven years since, with about 140 students a year working in our labs, we have had no injury that needed more than first aid.",
+      "why": "The brief gives 2019 as the year the lab safety program was written, does not give the current year, and implies the writer teaches 140 students a year personally rather than that 140 students total work in the school's labs."
+    },
+    {
+      "quote": "The program works because it treats procedure as something to be taught and then checked, not something posted on a wall.",
+      "why": "The brief does not describe the methodology of the lab safety program or why it has been effective."
+    },
+    {
+      "quote": "Every year I take our new science teachers, about two a year, through roughly 12 hours of lab procedure training before they run a lab on their own.",
+      "why": "The brief states that new science teachers receive about 12 hours of training on lab procedures, not that this happens before they are allowed to run a lab on their own."
+    },
+    {
+      "quote": "I got there by finding where students were losing points and changing how I taught those topics.",
+      "why": "The brief gives the increase in the AP Chemistry pass rate from 41% to 58%, not the specific cause or teaching adjustments behind that increase."
+    },
+    {
+      "quote": "What I have done is write a safety procedure, train people to it and hold to it for seven years.",
+      "why": "The brief does not state the current year, so seven years since 2019 is an unstated time span."
+    }
+  ],
+  "invented_count": 5
+}

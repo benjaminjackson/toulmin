@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:36:36.183189+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 165
+  tags: []
+  notes: extracted 165 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 4
+    right_comparison: 4
+    objections: 5
+    fit: 9
+  details:
+    agree: The plain apology and concrete changes may win back a hesitant member,
+      but the reader's main grievance was the farm going quiet, and the email makes
+      no promise about how the farm will communicate or compensate if a crop fails
+      again, so the wary household may still hold back.
+    honest: Every fact matches the brief and nothing is overstated; the only addition,
+      that the second field means the crops aren't all in one place, is a fair reading
+      of 'a second field on higher ground'.
+    works_the_facts: 'The figures are restated but none are worked out: the email
+      never gives the weekly price (about $24.55) or the rough value the reader lost
+      (about $74 over six half-boxes), and never shows what the pause credit could
+      be worth to them.'
+    right_comparison: The only comparison is the unchanged price; the email doesn't
+      spell out how this season differs from last for a member hit by bad weather,
+      and it doesn't say that the nets protect only tomatoes and peppers while the
+      other crops stay exposed.
+    qualification: The email makes no conditional claims or forecasts that need hedging,
+      and the deadline and remaining shares are given as plain dates and numbers.
+    objections: It owns up to the missing refund and the silence, but it doesn't address
+      what happens to members if hail or another loss strikes again, and the pause
+      credit is a different thing from crop-loss credit, so the reader's actual worry
+      is only partly answered.
+    fit: It's a short, direct email of about 170 words, under the 200-word limit,
+      with a subject line, a clear call to action and an invitation to reply.

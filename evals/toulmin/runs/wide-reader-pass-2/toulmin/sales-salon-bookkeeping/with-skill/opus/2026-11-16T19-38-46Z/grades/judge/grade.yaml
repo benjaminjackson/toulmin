@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:40:17.624208+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 305
+  tags: []
+  notes: extracted 305 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 3
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 2
+    qualification: 7
+    objections: 3
+    fit: 9
+  details:
+    agree: She pays her cousin $600 a year and likes him, and the page never says
+      why $199 a month, about $2,388 a year, is better than that, so it gives her
+      little reason to book the call.
+    honest: Nearly every claim matches the brief and the setbacks are stated openly,
+      but 'One of them saved $800' turns a client's report into a plain fact, and
+      'you won't spend months teaching me' is a promise the brief doesn't support.
+    works_the_facts: 'The figures are only restated: there''s no annual cost, nothing
+      about 9 of 31 clients reporting lower accountant fees, no on-time rate (9 of
+      12 closes), and no point that no client has ever left because of the service.'
+    right_comparison: The real alternative, a once-a-year catch-up from a relative
+      while she handles payroll and sales tax herself, never appears, so the $800
+      saving and the monthly fee aren't measured against anything she knows.
+    qualification: The 10th-of-the-month deadline, the three misses last year and
+      the 10-staff payroll cap are specific and checkable, but nothing says what happens
+      if a close is late.
+    objections: 'The page answers objections nobody raised, such as the price rise
+      and being a one-person business, and leaves her main one unanswered: ''my cousin
+      already does this for much less.'''
+    fit: It runs about 340 words, is laid out like a sales page and ends with the
+      booking button as asked.

@@ -1,0 +1,21 @@
+{
+  "task": "staff-branch-closures",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-17-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Your manager and someone from HR will meet with each of you individually by [date] to go over your offer, the shift schedule, and training. You'll have until [date] to decide.",
+      "why": "The brief does not mention individual meetings with managers and HR or a decision deadline process."
+    },
+    {
+      "quote": "Your jobs and hours aren't changing.",
+      "why": "The brief says nothing about whether the jobs or hours of staff at the other five branches will remain unchanged."
+    },
+    {
+      "quote": "If you have questions, talk to your manager, contact [HR name, email/phone], or come to an open Q&A on [date/time/location].",
+      "why": "The brief does not state that an open Q&A will be held or specify a process for handling staff questions through managers and HR."
+    }
+  ],
+  "invented_count": 3
+}

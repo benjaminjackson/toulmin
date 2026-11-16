@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A stays strictly honest to the facts, whereas Document B speculates beyond the brief about the parking lot already being paved and the specific demographics on the waiting list. Additionally, Document A contextualizes the numbers more persuasively for a skeptical room—such as breaking the traffic down to five trips per apartment and noting the project clears one-sixth of the waiting list—and ends on a gracious note toward the neighbors."
+}

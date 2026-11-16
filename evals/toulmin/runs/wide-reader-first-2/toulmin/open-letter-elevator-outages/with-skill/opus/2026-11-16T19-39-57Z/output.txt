@@ -1,0 +1,46 @@
+I've written the letter below at about 400 words. I didn't show you the planning step first because nobody could answer during this session. Here are the main choices I made:
+
+- **Main request.** Management has already turned down the second elevator, so asking for it again gives them an easy no. The letter asks for something they can say yes to and that people can check: a written date for installing the part, posted in the lobby. The petition is still in the letter, but it asks them to share the assessment behind "can't be done."
+- **The inspection.** Management will point to the September certificate, so the letter raises it first. It agrees the elevator is safe, then says a certificate doesn't mean the elevator will keep running.
+- **Figures I worked out:**
+  - 41 days out of the 320 so far this year is about one day in eight.
+  - 74 of 112 households is two in three.
+  - June to now is five months.
+- **TV use.** Most sentences are short and carry one number each, so a reporter can quote them or read them aloud.
+
+**Two placeholders:** your association's name and the management company's name. I left the signature line as "Secretary" because I don't have your name.
+
+**What would make it stronger, if you can provide it:**
+- **A deadline for their reply** (for example, "by December 1"). I didn't make one up.
+- **A real example of how an outage affected a resident,** used with their permission. It would be stronger than the general description I wrote.
+- **A second request:** a written plan for helping residents who can't use the stairs during outages. I kept the letter to one request, but this is the next one I'd add.
+
+<final_document>
+**An Open Letter to [Management Company]**
+from the [Building Name] Tenants' Association
+
+Our building has nine floors and 112 apartments. It has one elevator.
+
+This year, that elevator has been out of service on 41 days. That is about one day in every eight. In August, it was out for 12 days in a row.
+
+When the elevator stops, the stairs are the only way up or down. Twenty-three of our neighbors are over 75. Six use wheelchairs or walkers. For them, a broken elevator is more than an inconvenience. It can mean being unable to leave home, or unable to get back to it.
+
+We know the city inspected the elevator in September and gave it a passing certificate. We are glad it is safe. But a certificate tells us the elevator is safe when it runs. It does not tell us it will run. The days it doesn't run are our problem.
+
+You have told us a new controller part is on order and should arrive in six to eight weeks. You told us the same thing in June. That was five months ago, and residents are still waiting.
+
+Seventy-four households signed our petition asking for a second elevator. That is two out of every three households in the building. You have told us a second elevator would cost about $400,000 and cannot be built here. We have heard that answer. We ask you to share the assessment behind it, so residents can see the reasons for themselves.
+
+If this building can only ever have one elevator, then keeping that elevator running matters even more.
+
+**What we are asking for:**
+A firm, written date for installing the new controller part, posted in this lobby. If that date changes, post the new date and the reason.
+
+That is one notice on one wall. It would tell 112 households when they can count on their elevator again.
+
+We would welcome a meeting with you to discuss it. We will share your reply with every household in the building.
+
+Sincerely,
+
+Secretary, on behalf of the [Building Name] Tenants' Association
+</final_document>

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-38-11Z",
+  "without_skill_run": "2026-11-16T19-18-58Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both emails are honest, and they make the same case for the same $11,500 ask. B is a little more persuasive to me because it names the specific title and state reading list and closes with a concrete request to talk this week. A's line that the job is 'the same as ever' undercuts its own argument a bit."
+}

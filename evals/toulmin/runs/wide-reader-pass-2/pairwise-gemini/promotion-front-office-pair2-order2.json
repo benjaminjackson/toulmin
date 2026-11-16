@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-37-32Z",
+  "without_skill_run": "2026-11-16T19-18-45Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B makes a much stronger financial case for a candidate who lacks formal budget experience by calculating the exact drop in training shifts from 81 to 25, proving they already understand what drives payroll. Document A relies on unverified placeholders for a training plan that actually creates more weekly work for me as GM, whereas Document B is a complete, ready-to-read memo."
+}

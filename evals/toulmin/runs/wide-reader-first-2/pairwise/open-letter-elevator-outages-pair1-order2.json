@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-18-00Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B is the more restrained letter, and that makes it harder for me to dismiss. It points out that the 74 signatures are two-thirds of the building, notes that the first 6-to-8-week promise ran out in the month of the worst outage, and asks for three specific things in writing, while the TV station mention adds quiet pressure. A covers similar ground but runs longer, makes more demands, and claims the delay has gone on five months, which the facts don't establish."
+}

@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:19:08.450498+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 415
+  tags: []
+  notes: extracted 415 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 7
+    objections: 8
+    fit: 9
+  details:
+    agree: The letter calls 74 households "about two-thirds of the building," which
+      undercuts the manager's view that the association is a few loud people, and
+      its specific, cooperative requests are easy to act on, though nothing raises
+      the cost of doing nothing.
+    honest: Most claims match the brief, but "five months later" and "one day in every
+      eight" depend on a current date the brief never gave, and the children carried
+      up the stairs are an added detail.
+    works_the_facts: It turns 41 days into roughly one in eight and 74 of 112 into
+      two-thirds, but it never points out that June plus 6 to 8 weeks put the part's
+      due date in August, the month of the 12-day outage.
+    right_comparison: It shows the repair estimate being repeated without progress,
+      but it doesn't spell out what the status quo looks like if outages continue
+      at this rate.
+    qualification: The requests carry checkable deadlines (a written reply in 14 days,
+      a meeting within 30, monthly reports), but none says what the association will
+      do if a deadline is missed.
+    objections: It answers the manager's likely defenses (the passing inspection,
+      the $400,000 cost and infeasibility, and the claim that only a few tenants object)
+      without raising objections the facts already settle.
+    fit: It is a properly formatted open letter of about 420 words, close to the 400
+      requested, and its tone suits both posting in the lobby and sending to the TV
+      station.

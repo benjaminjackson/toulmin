@@ -1,0 +1,45 @@
+I used the persuasion-writing skill. The person you need to persuade is the management company. Your neighbours and the TV station will also read the letter, so I kept it factual and firm, and left out threats.
+
+**Choices I made:**
+
+- **The inspection is in the letter, near the top.** Management will point to the passing certificate in September, and a reporter will ask about it. The letter's reply is that the elevator passed the safety check but still doesn't run reliably.
+- **The main request is a meeting with written answers, not a second elevator.** Management has already said no to a second elevator. If the letter demands it again, it's easy for them to say no again. Asking them to show the assessment behind their "no" is something they can agree to. It also keeps the issue in front of them. If your members want the letter to demand the second elevator outright, that's your decision.
+- **Numbers I worked out from your facts.** 74 of 112 households is about two-thirds. 41 days out of the 320 so far this year is about one day in eight. Eight weeks from any date in June ends by late August, which is when the 12-day outage happened.
+
+**Information that would make it stronger:**
+
+- **A reply deadline.** I didn't make one up. Something like "please respond by December 1" would give the TV station a date to follow up on.
+- **One real example**, used with the person's permission. For instance, a resident who missed a medical appointment during the August outage. I didn't invent one.
+- **Names to fill in.** The building, the association, the management company and your contact details are in square brackets.
+
+<final_document>
+**An Open Letter to [Management Company]
+from the [Building Name] Tenants' Association**
+
+Our building has nine floors, 112 apartments and one elevator. This year that elevator has been out of service on 41 days. That's about one day in every eight. The longest outage lasted 12 days, in August.
+
+We know the city inspected the elevator in September and gave it a passing certificate. We're glad it is safe. But that certificate doesn't tell us whether the elevator will be running tomorrow, and that's the problem we live with.
+
+Twenty-three of our neighbours are over 75. Six use wheelchairs or walkers. For a resident in a wheelchair on an upper floor, a broken elevator means being unable to get downstairs or out of the building. For many older residents it means choosing between nine flights of stairs and staying home.
+
+In June, you told us a new controller part was on order and would arrive in six to eight weeks. Those eight weeks ended in August, the month of our longest outage. Now you've told us the same thing again: six to eight weeks. We'd like to believe it. To do that, we need more than the same promise.
+
+Seventy-four households, about two-thirds of the building, signed our petition asking for a second elevator. You told us it would cost about $400,000 and can't be done in this building. We've heard that answer. We're not asking you to change it today. We're asking you to show residents how you reached it.
+
+**What we are asking for**
+
+Please meet with the association's officers and bring these in writing:
+
+1. **The controller part:** when the order was placed, which supplier it's with, and the delivery date that supplier has confirmed.
+2. **The next outage:** what you'll do for residents who can't use the stairs the next time the elevator stops.
+3. **A second elevator:** the assessment that found one can't be built here.
+
+We're ready to meet whenever you can. Please contact the association at [contact details].
+
+This letter is posted in our lobby so every resident can read it. We've also sent it to [TV station], because our neighbours aren't the only building in this city that depends on one elevator.
+
+Sincerely,
+
+[Name]
+Secretary, on behalf of the [Building Name] Tenants' Association
+</final_document>

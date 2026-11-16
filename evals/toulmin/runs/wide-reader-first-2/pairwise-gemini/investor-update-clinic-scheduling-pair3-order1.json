@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-39-35Z",
+  "without_skill_run": "2026-11-16T19-19-40Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document B wins back my trust by committing to a regular reporting cadence with specific metrics to track the new pivot, whereas Document A tries to spin flat revenue as '15% growth' by excluding only the largest churned customer while ignoring the other three losses. Document B also directly connects our 11-month runway to upcoming spending and fundraising decisions, which is the exact strategic awareness I expect from a founder after six months of silence."
+}

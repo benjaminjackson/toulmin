@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-39-22Z",
+  "without_skill_run": "2026-11-16T19-19-08Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B frames the statistics in a way that is much harder for me to brush off—pointing out that 74 signatures is two-thirds of the building challenges my belief that this is just a few loud people, and noting the elevator is out 'one day in every eight' makes this look like a PR nightmare if it reaches the press. Its three focused demands also feel more reasonable to respond to than Document A's micromanaging list of five."
+}

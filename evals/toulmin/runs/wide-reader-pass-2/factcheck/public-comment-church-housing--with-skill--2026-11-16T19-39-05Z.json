@@ -1,0 +1,21 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-39-05Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I drive through Alder and 4th every day.",
+      "why": "The brief says the speaker lives on Alder Road two blocks from the church, not that they drive through the intersection of Alder and 4th every day."
+    },
+    {
+      "quote": "I've read the study.",
+      "why": "The brief gives two findings from the traffic study, not that the speaker has read the study."
+    },
+    {
+      "quote": "It means a longer wait at that light, and I'll be one of the people waiting.",
+      "why": "The brief does not say that the intersection at Alder and 4th has a traffic light or that the speaker uses that intersection."
+    }
+  ],
+  "invented_count": 3
+}

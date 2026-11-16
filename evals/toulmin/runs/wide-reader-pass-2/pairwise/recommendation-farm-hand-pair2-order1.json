@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-37-39Z",
+  "without_skill_run": "2026-11-16T19-18-37Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters are persuasive and stick closely to the facts. B is slightly stronger because it explains why catching mastitis early matters and says plainly that his mix of stockmanship and comfort with technology is what the program builds on, which makes him an easy pick for a fast reader. A opens well on his technical work but ties it to the program less directly."
+}

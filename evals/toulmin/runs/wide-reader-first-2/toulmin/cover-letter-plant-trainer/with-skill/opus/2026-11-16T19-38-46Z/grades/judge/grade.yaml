@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:40:15.967836+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 338
+  tags: []
+  notes: extracted 338 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 3
+    objections: 7
+    fit: 9
+  details:
+    agree: The safety record and adult-training experience make a fair case for a
+      phone screen, but a skeptical HR manager may still see a teacher who hasn't
+      worked in GMP and offers no concrete plan for closing that gap.
+    honest: Every claim matches the brief, the seven years since 2019 is correct for
+      2026, and the letter leaves out the unsupported promise to halve training time
+      instead of asserting it.
+    works_the_facts: 'The figures are repeated as given and never developed: roughly
+      980 student-years without a serious injury, about 24 hours of adult training
+      a year, and a 17-point pass-rate gain (about 41% relative) are all left uncalculated.'
+    right_comparison: The letter compares new teachers with plant new hires, but it
+      never says what the plant's current training or onboarding looks like, so there
+      is no baseline to improve on, and the AP trend has no baseline either.
+    qualification: The hedge "I would need to learn the record-keeping rules and the
+      software" gives no timeline, target or way for the reader to check progress,
+      such as becoming proficient in the LMS within a stated number of weeks.
+    objections: It addresses the lack of regulated-industry, GMP-records and LMS experience
+      head-on and links it to procedural discipline, though "the habit I already have"
+      asserts more than it shows.
+    fit: It is a conventional cover letter that fits on one page, and dropping the
+      halve-training-time claim was a reasonable judgment call even though the user
+      asked for it.

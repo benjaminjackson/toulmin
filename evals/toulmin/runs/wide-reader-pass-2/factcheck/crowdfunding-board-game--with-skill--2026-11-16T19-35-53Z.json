@@ -1,0 +1,41 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-35-53Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "You and up to three others play as a lighthouse keeper's family.",
+      "why": "The brief says players 'see a lighthouse keeper's family through a winter', not that they play as the family members."
+    },
+    {
+      "quote": "I've spent three years making that goal worth fighting for.",
+      "why": "The brief only states that playtesting has happened 'since 2023' and gives no current year or total duration of development."
+    },
+    {
+      "quote": "That's 140 times I've watched people play it and then gone back to fix whatever didn't work.",
+      "why": "The brief only says 140 playtest sessions were run, not that the designer watched every session and made fixes after each one."
+    },
+    {
+      "quote": "On BoardGameGeek, the 23 people who have rated it so far give it an average of **8.1 out of 10**.",
+      "why": "The brief refers only to 'the main board game ratings site' and an average rating of 8.1, without naming BoardGameGeek or a 10-point scale."
+    },
+    {
+      "quote": "This is my first game.",
+      "why": "The brief states the creator hasn't 'published a game before' and that this is their first campaign, not that this is the first game they have ever designed."
+    },
+    {
+      "quote": "Getting a copy to a backer in the US costs about $9.",
+      "why": "The brief says shipping to backers would cost about $9 a copy, without specifying that this $9 cost to the creator is only for US backers."
+    },
+    {
+      "quote": "$28,000, built on those figures rather than a guess.",
+      "why": "The brief states the $28,000 goal and the printing/shipping quotes separately, without stating how the goal was calculated."
+    },
+    {
+      "quote": "If we reach $28,000, the game goes to the factory. If we don't, it stays a prototype on my table.",
+      "why": "The brief does not state that the campaign uses all-or-nothing funding or that the creator has no other way to print the game if the goal is not met."
+    }
+  ],
+  "invented_count": 8
+}

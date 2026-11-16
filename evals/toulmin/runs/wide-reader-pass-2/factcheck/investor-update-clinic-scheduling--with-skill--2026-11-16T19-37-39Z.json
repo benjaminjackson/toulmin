@@ -1,0 +1,17 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-37-39Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Without it, the rest of our customers grew from $35,500 to $41,000 a month, about 15% in a quarter.",
+      "why": "The brief does not state how much revenue the other three lost clinics paid, so the starting and growth figures for the remaining customers cannot be calculated."
+    },
+    {
+      "quote": "Ben",
+      "why": "The brief does not state the founder's name."
+    }
+  ],
+  "invented_count": 2
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-37-51Z",
+  "without_skill_run": "2026-11-16T19-19-01Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Both documents wisely avoid the mathematically impossible claim of doubling annual fresh food based only on 9,000 pounds of summer produce. However, Document B stays completely honest to the facts, whereas Document A invents a board governance structure, specific reporting procedures, and plans to approach grocers that are not in the brief—even though as a program officer I would normally want to hear how they'll fix the late reporting."
+}

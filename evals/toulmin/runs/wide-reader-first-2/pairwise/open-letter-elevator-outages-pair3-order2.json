@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-39-57Z",
+  "without_skill_run": "2026-11-16T19-19-08Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B asks for one cheap, concrete thing, a posted installation date with updates if it changes, and that's easy for me to say yes to even though I think we've handled this well. Document A gives me five demands, including a mobility-assistance program and engineering documents. It also claims some residents were stuck for almost two weeks, which goes beyond the facts, and all of that makes me more defensive."
+}

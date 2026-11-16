@@ -1,0 +1,21 @@
+{
+  "task": "grant-refrigerated-van",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-40-00Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "It was grown in this county and offered free, and it never reached the families who rely on us.",
+      "why": "The brief says the produce was offered by 'local farms' and had to be turned down, not specifically that it was grown within the county, offered for free, or that it never reached those families by other means."
+    },
+    {
+      "quote": "If we had owned one last summer, the produce we turned away would have increased our fresh-food distribution by half in each of those three months. We would have gone from about 6,000 pounds a month to about 9,000, or about 15 pounds per household instead of 10.",
+      "why": "The brief says 9,000 pounds was offered 'over three months' total, without stating it was offered in three equal monthly amounts of 3,000 pounds, and it also notes the food bank lacked storage ('or store it'), so owning a van alone would not guarantee they could have accepted it all."
+    },
+    {
+      "quote": "We are making that commitment because cold transport is the one thing standing between local farm produce and the 610 households we serve.",
+      "why": "The brief explicitly states they had to turn down the produce 'because we had no way to pick it up cold or store it,' meaning lack of cold storage was also an obstacle, not just cold transport."
+    }
+  ],
+  "invented_count": 3
+}

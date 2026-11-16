@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:19:29.635232+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 420
+  tags: []
+  notes: extracted 420 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 3
+    right_comparison: 4
+    qualification: 3
+    objections: 5
+    fit: 8
+  details:
+    agree: The letter is candid and well organised, which may help, but a skeptical
+      screener who expects teachers not to know how a plant works gets no concrete
+      evidence of regulated-environment readiness, so it might earn a phone screen
+      and might not.
+    honest: It correctly drops the unsupported 'cut training time in half' claim and
+      keeps every figure accurate, with only mild added inferences like 'runs every
+      day' and the long-term commitment.
+    works_the_facts: It repeats the raw figures without deriving anything from them,
+      such as roughly seven years and 900+ students without a serious injury, about
+      24 hours a year of adult training, or a 17-point (about 41% relative) rise in
+      the pass rate.
+    right_comparison: It never sets the candidate against the realistic alternative
+      (an applicant with GMP experience) or the plant's current onboarding, and offers
+      only a vague 'learn first, then measure' plan.
+    qualification: It names the GMP and LMS gaps, but the hedge is just a promise
+      ('I will hold myself to that standard', 'expect to learn quickly') with no checkable
+      step, date, or milestone.
+    objections: 'It meets the main objection head-on by admitting the gap, but answers
+      it with assurances instead of evidence, and doesn''t use its strongest counter:
+      written safety procedures and a sustained compliance record that resemble SOP
+      discipline.'
+    fit: It is a properly formatted, roughly one-page cover letter, as the brief asked.

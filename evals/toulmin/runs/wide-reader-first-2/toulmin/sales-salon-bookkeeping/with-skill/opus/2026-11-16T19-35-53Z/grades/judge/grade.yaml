@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:37:00.696049+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 309
+  tags: []
+  notes: extracted 309 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 4
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 2
+    qualification: 5
+    objections: 3
+    fit: 9
+  details:
+    agree: The page is clear and believable, but an owner paying her cousin $600 a
+      year sees $199 a month and nothing that tells her why it's worth about $2,388
+      a year, so she probably won't book.
+    honest: Every number matches the brief and the missed deadlines are stated openly,
+      but 'that person already knows your salon' says more than the facts show for
+      a new client.
+    works_the_facts: 'The raw facts are listed but never worked: 29 of 31 clients
+      kept (100% of those who didn''t sell), 9 of 12 closes on time, and the $800
+      saving set against the annual cost are all left for the reader to figure out.'
+    right_comparison: 'The real alternative is a relative doing the books once a year
+      at tax time, and the page never describes it: no monthly view, payroll and sales
+      tax handled by someone else or by her, and a year-end catch-up.'
+    qualification: The 10th-of-the-month deadline and the three misses give a date
+      and a number the reader can check, but the page never says what happens to her
+      when the deadline is missed.
+    objections: 'It deals with being a one-person business and with the missed deadlines,
+      but not the objection this reader actually has: cost compared with $600 a year,
+      and loyalty to a cousin she''s fond of.'
+    fit: About 330 words of main sales-page text with clear sections and a booking
+      button at the end, as the brief asked.

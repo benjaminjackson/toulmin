@@ -1,0 +1,59 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+The hotel's general manager, who decides who becomes front office manager. He likes the writer but is also interviewing an outside candidate who ran the front desk at a larger hotel, and he believes the rise in guest scores came mostly from the renovation.
+</reader>
+
+<brief>
+Help me write a case for my promotion. I'm the assistant front office manager at a 180-room hotel, and the front office manager job is open. I'm applying, and my general manager wants it in writing by Friday.
+
+Facts:
+- I've worked here 6 years, the last 2 as assistant manager.
+- Our guest score for check-in on the main review site went from 7.9 to 8.6 over the last 18 months. The lobby and all the rooms were renovated during the same time.
+- I rewrote the front desk training. New hires now work the desk alone after 5 shifts instead of 9.
+- Front desk turnover was 9 of 14 people in the year before I became assistant manager, and 5 of 14 last year.
+- I've covered the front office manager's job alone for the 7 weeks since she left.
+- I have never managed a budget. The front office manager owns a $1.1 million payroll budget.
+
+I want it to say I'm the main reason our guest scores went up. One page.
+</brief>
+
+
+
+<document>
+**To:** [General Manager]
+**From:** [Your name], Assistant Front Office Manager
+**Re:** Application for Front Office Manager
+
+I'm asking to be considered for the Front Office Manager role. I've worked at this hotel for six years, the last two as assistant manager. For the past seven weeks I've done the job alone.
+
+**I've already been doing the job.** Since the Front Office Manager left, I've run the front office alone. That's seven weeks of the day-to-day work, without a manager above me in the department. You've seen how the desk has run in that time, and I'd ask you to judge me on it.
+
+**I've made the front desk team more stable.** In the year before I became assistant manager, 9 of our 14 front desk staff left, which is 64%. Last year, 5 of 14 left, which is 36%. That is four fewer people to replace, and four fewer new hires learning the job in front of guests.
+
+**I've made new hires ready faster.** I rewrote the front desk training. New hires now work the desk alone after 5 shifts instead of 9. That is four fewer paid shifts for every hire before they're on their own, and they reach guests sooner.
+
+**Guests have noticed.** Over the last 18 months, our check-in score on the main review site rose from 7.9 to 8.6. The renovated lobby and rooms are part of that, and I won't pretend otherwise. But check-in is also the people at the desk. During the same period, the team I trained got steadier and more of them stayed. I'm proud of the part they played in that number.
+
+**What I haven't done yet.** I have never managed a budget, and this role owns a $1.1 million payroll budget. I know that is the biggest step up for me. Payroll is mostly front desk staffing, and I already handle that side of it: hiring, training and keeping people. I'm ready to learn the rest, and I'd like to talk with you about how to do that well.
+
+I'd welcome the chance to discuss this in person, and I'm happy to answer any questions before you decide.
+
+Thank you for considering me.
+
+[Your name]
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

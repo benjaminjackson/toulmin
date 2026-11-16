@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:37:28.656701+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 469
+  tags: []
+  notes: extracted 469 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 6
+    objections: 5
+    fit: 9
+  details:
+    agree: The terms are clear and respectful, but a long-tenured teller who doesn't
+      want phone work gets no answer on what the work is actually like, no decision
+      deadline, no contact person and no next step, so they have little reason not
+      to start looking elsewhere.
+    honest: It drops the brief's 'everyone's job better' to 'most of us' and admits
+      the hours won't suit everyone, though lines like 'members have been telling
+      us' and frustration carried 'at our counters' are interpretation presented as
+      fact.
+    works_the_facts: It turns the hours into 60 vs 40 a week, which helps, but it
+      never works out the severance (for example, 10 years = 20 weeks' pay) or puts
+      the 44% and 60% trends into concrete numbers for members or staff.
+    right_comparison: Falling visits and 9-minute hold times describe the status quo
+      with its trend, but it never says what happens if the branches stay open and
+      nothing changes.
+    qualification: The announcement sets no condition or forecast that needs a checkable
+      hedge.
+    objections: It meets the hours objection honestly, but it ignores the main one
+      (not wanting to work on the phones), never mentions the two weeks of rumours,
+      and gives remote work as the only upside of the new role.
+    fit: It is a COO-signed email with a clear subject line, at roughly the 400 words
+      the brief asked for.

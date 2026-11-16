@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-39-22Z",
+  "without_skill_run": "2026-11-16T19-19-08Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Letter A's three tight, reasonable asks are hard to dismiss as a few loud people complaining. Letter B adds a longer list of demands, which is easier to wave off, and it claims private requests already failed, a fact the brief doesn't support."
+}

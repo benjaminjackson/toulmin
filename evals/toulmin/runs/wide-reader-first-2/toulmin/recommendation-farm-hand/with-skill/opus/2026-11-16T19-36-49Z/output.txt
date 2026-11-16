@@ -1,0 +1,39 @@
+I recommend including both weaker points briefly and honestly. That's what the letter below does.
+
+- **The five-week absence:** the letter says he hasn't missed shifts, so leaving out a five-week gap would make that claim misleading. If the committee learned about it some other way, it would weaken everything else you say. The letter calls it a family emergency and notes he came back to the same shift. It doesn't mention the two days' notice. The committee has no reason to ask about it, and it says little about whether he can finish a course.
+- **His written English:** the college will see this in his application and any placement test. It reads better coming from you, next to the night class.
+
+A few other notes:
+
+- **Things to check:** I've assumed he returned to the 3 a.m. shift after the leave. I've also taken "last summer" and "last winter" as the most recent ones, so the letter doesn't give years. Fix either if that's wrong.
+- **Placeholders:** the header, signature and phone number need your details.
+- **What would make it stronger:** anything you can say about what the 9 early catches meant for the herd, such as cows kept in milk or a comment from your vet. Even one sentence on that is the most convincing evidence you could add for an agricultural technology program. If you'd rehire him or hold his job after he finishes, saying so would also help a lot.
+
+<final_document>
+[Farm name]
+[Address]
+[Date]
+
+Admissions Committee
+Agricultural Technology Program
+[State Technical College]
+
+Dear Members of the Admissions Committee,
+
+I am the manager of [Farm name], a 400-cow dairy. I am writing to recommend Tomás [Last name] for your two-year Agricultural Technology program. He has worked for us for three years, since he was 19, and he is one of the most capable people on our crew.
+
+What best shows he is suited to your program is his work with our herd management software. Nobody assigned it to him. He learned the system himself and now uses it to flag sick cows for our veterinarian. Last winter he caught nine cases of mastitis early, before they became serious. He has a good eye for animals, and he understands what the data is telling him. I believe your program would build on both.
+
+He is also completely dependable. Tomás runs our 3 a.m. milking shift on his own, five days a week. Nobody checks on him at that hour, and the work gets done right. In three years he has missed two shifts.
+
+The one long gap in his record came in the middle of last summer. His father became seriously ill in Mexico, and Tomás was away for five weeks to be with him. He then came back and took up the early shift again. I mention it so you have the full picture. I do not see it as a concern about whether he will finish a two-year program.
+
+You should also know that his spoken English is strong, but his written English is still catching up. He knows this and is taking a night class to improve it. That is typical of him. When he sees a gap in what he can do, he works on it without being told.
+
+Tomás already does the kind of work your graduates are trained for. I recommend him strongly. I would be glad to answer any questions; please call me at [phone number].
+
+Sincerely,
+
+[Your name]
+Farm Manager, [Farm name]
+</final_document>

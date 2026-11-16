@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-36-36Z",
+  "without_skill_run": "2026-11-16T19-18-32Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B directly quantifies the loss I felt ('about three weeks of produce you paid for and didn't get') and ends by asking what else would bring me back, which directly addresses my frustration with their silence last year without making promises that weren't in the facts."
+}

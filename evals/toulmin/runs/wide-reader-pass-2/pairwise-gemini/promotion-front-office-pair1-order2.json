@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B strikes a much better tone and makes a smarter argument about the $1.1 million payroll budget by connecting it directly to the training and turnover operational drivers the candidate already controls, rather than offering a generic 90-day plan that puts extra training burden on me. It also handles the renovation credit gracefully and remains completely faithful to the known facts without relying on speculative placeholders."
+}

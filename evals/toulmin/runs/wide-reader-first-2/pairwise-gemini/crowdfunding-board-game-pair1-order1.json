@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins my trust as a cautious backer by putting the exact factory quote ($17,400 for 1,500 copies) and shipping costs ($9/copy) right on the page, proving the creator has actually done the math. Document B hides those crucial numbers behind a placeholder and invents details about the gameplay and playtesters that weren't in the facts."
+}

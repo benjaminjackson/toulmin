@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-36-46Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A uses bullet points that make it much easier to scan during screening, and it directly shows an understanding of our industry by noting that in pharma manufacturing, complete and accurate records matter as much as the training itself. Document B invents details not in the brief (like acids and open flames) and reads a bit more like standard teacher essays."
+}

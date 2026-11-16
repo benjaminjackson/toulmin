@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters stay honest, leave out the false 'every other publisher pays $12,000' claim, and give the same sales, the same competing fee and the same $11,500 ask. A is a little more persuasive because it points out that $11,500 is less than the illustrator was paid elsewhere and ends by asking directly whether the fee works, which makes it easy for me to say yes."
+}

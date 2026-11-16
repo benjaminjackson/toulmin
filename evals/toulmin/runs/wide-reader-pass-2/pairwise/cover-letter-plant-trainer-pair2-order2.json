@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-37-16Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters are honest and drop the unsupported claim that new-hire training time could be cut in half. A wins slightly because it shows it understands that in a regulated plant complete, accurate records matter as much as the training itself, and it gives a measured plan for the first months. That speaks more directly to my doubt that teachers understand how a regulated plant works."
+}

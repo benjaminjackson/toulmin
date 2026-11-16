@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-39-05Z",
+  "without_skill_run": "2026-11-16T19-19-20Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B is more persuasive because it addresses the primary concern of traffic immediately and connects the parking spaces directly to keeping cars off our street. However, Document B makes up minor details not in the brief (specific jobs of future residents), while Document A stays strictly faithful to the provided facts and uses a strong, clean comparison of the waiting list numbers."
+}

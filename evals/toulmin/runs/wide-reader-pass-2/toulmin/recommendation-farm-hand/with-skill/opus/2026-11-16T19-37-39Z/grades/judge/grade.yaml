@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:39:43.687743+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 311
+  tags: []
+  notes: extracted 311 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 7
+    honest: 5
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 5
+    objections: 7
+    fit: 9
+  details:
+    agree: A quick-reading committee member gets a concrete, credible picture of reliability
+      and technical aptitude, and the weaknesses are handled before they can become
+      doubts, though the letter never sets him apart from 150 applicants in measurable
+      terms.
+    honest: 'Several claims go beyond the brief: that ''nobody asked him'' to watch
+      the data, that he did it ''because he saw it mattered'', and that he took the
+      early shift back after his absence are all invented, and leaving out the two
+      days'' notice softens the five-week absence.'
+    works_the_facts: The facts appear only in their raw form; it never works out that
+      two missed shifts is about 2 of roughly 780 scheduled (over 99.7% attendance),
+      or that he has run about 780 unsupervised 3 a.m. milkings.
+    right_comparison: 'There is no explicit comparison: it doesn''t show what the
+      farm or the herd would look like without his monitoring, or how his record compares
+      with a typical worker or applicant, and the only implied comparison is ''learned
+      on the job'' versus formal training.'
+    qualification: 'The one hedge, about his written English, names a real gap and
+      a night class, but it gives nothing the reader can check: no level, no completion
+      date, no result.'
+    objections: It meets the two likely objections, English and the long absence,
+      directly and with reasons, and it raises no doubts the facts already settle,
+      though the short notice he gave before leaving goes unaddressed.
+    fit: It is a one-page letter in the farm manager's voice with a proper letterhead,
+      salutation and contact close, as the brief asked.

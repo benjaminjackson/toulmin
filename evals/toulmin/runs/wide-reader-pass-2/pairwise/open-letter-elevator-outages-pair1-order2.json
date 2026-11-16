@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-18-00Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B's framing of the petition as 'two out of every three' households undercuts my belief that this is a few loud people, and its point about the certificate and its narrow, concrete asks are harder to dismiss. A is more collaborative but reads more like routine complaints I can manage."
+}

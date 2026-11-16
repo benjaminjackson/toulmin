@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:36:40.890058+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 188
+  tags: []
+  notes: extracted 188 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 6
+    objections: 5
+    fit: 9
+  details:
+    agree: The plain apology and concrete changes would soften this household, but
+      they are left asking whether the farm will credit them or keep them informed
+      if hail strikes again, so they may still hold back.
+    honest: Every claim matches the brief, and the hail nets are correctly limited
+      to tomatoes and peppers; only 'no longer depending on a single field' is a mild
+      inference from adding a second field.
+    works_the_facts: 'The figures are restated rather than worked: it never puts the
+      shortfall in dollars (about three weeks'' worth, roughly $74 of $540) or shows
+      what the $31,000 means per share.'
+    right_comparison: It sets this year against last year (same price, more protection),
+      but it never describes the reader's real alternative of buying vegetables elsewhere
+      or skipping a season.
+    qualification: The March 15 deadline and the 52 remaining shares are specific
+      and checkable, but nothing says what happens if a bad season hits again, which
+      is the hedge this reader most needs.
+    objections: It meets the 'you went quiet' complaint with an apology, but it doesn't
+      commit to credit or communication after future crop losses, and the pause credit
+      doesn't answer that.
+    fit: It is a well-formed email of about 180 words, under the 200-word limit, with
+      a subject line, placeholders and a clear call to action.

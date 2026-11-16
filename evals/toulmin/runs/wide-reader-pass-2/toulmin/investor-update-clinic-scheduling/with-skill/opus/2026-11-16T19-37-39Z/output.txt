@@ -1,0 +1,47 @@
+I've written the update below. It's about 330 words.
+
+- **The missed updates come first.** The investors haven't heard from you in six months, so the email starts by owning that, before any numbers.
+- **The lost customer explains the flat revenue.** Without the chain, the rest of your customers grew from $35,500 to $41,000 a month, about 15% in one quarter. That figure comes straight from your numbers. MRR (monthly recurring revenue) at the start of the quarter was $41,000, and $5,500 of it was the chain.
+- **Runway** is $480,000 ÷ $44,000, which is about 11 months. I've treated the $44,000 as your net monthly loss. If it's gross spend before revenue, the runway figure is wrong and needs fixing.
+- **The threat is named.** Investors will think of records systems with their own schedulers whether you mention them or not, so the email raises it. The answer comes from your own facts: the reminders work, and selling them on their own lets you sell to clinics that already have a scheduler.
+
+I didn't put in any promise or target you didn't give me. These three would make the email stronger:
+
+1. **A commitment to send updates every quarter from now on.** An apology lands better with this, and it's the one thing all 11 readers will be looking for.
+2. **A target for the reminder product, with a date and what you'll do if you miss it.** For example: a number of paying clinics by a set month, and if you're short, either cut spending or change direction. At $150 a month, covering the whole $44,000 monthly loss would take about 290 clinics. You probably won't want to put that number in, but someone will work it out.
+3. **A specific ask.** For example: introductions to clinic owners or chain operators, or your fundraising plans given about 11 months of cash. Eleven investors are worth asking for something.
+
+If you add any of these, they fit at the end of "What we're doing about it."
+
+<final_document>
+Subject: Quarterly update: flat revenue, a big loss, and what we're doing about it
+
+Hi all,
+
+First, an apology. I didn't send updates for the last two quarters, and you should have heard from me, especially given what follows. Here's where things stand.
+
+**The numbers**
+- Monthly recurring revenue: $41,000, the same as three months ago
+- Clinics: 9 added, 4 lost
+- Cash in the bank: $480,000
+- Net burn: about $44,000 a month, which gives us about 11 months of runway
+- Team: 6
+
+**What happened**
+Our largest customer, a 12-clinic chain paying $5,500 a month, left this quarter. They moved to the scheduler built into their electronic records system. That one loss is why revenue is flat. Without it, the rest of our customers grew from $35,500 to $41,000 a month, about 15% in a quarter.
+
+The reason they left matters more than the dollars. When a records system ships its own scheduler, a clinic has less reason to pay us for one. If records vendors keep building scheduling in, a scheduler alone gets harder to sell. I'd rather deal with that now than later.
+
+**What's working**
+Clinics that use our automatic text reminders have a no-show rate of 7%, compared with 13% before they started. That's close to half the missed appointments gone. It's the clearest evidence we have that we change a clinic's results, not just its calendar.
+
+**What we're doing about it**
+Next month we start selling the reminder feature on its own for $150 a month. Clinics that already have a scheduler, including one inside their records system, can still buy what we do best. That includes clinics like the chain we just lost. Until now, those clinics had to replace their scheduler to get our reminders.
+
+At current burn we have about 11 months to show this works.
+
+Questions are welcome. Just reply to this email.
+
+Thanks for your patience with me,
+Ben
+</final_document>

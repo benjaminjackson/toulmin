@@ -1,0 +1,39 @@
+I wrote the letter for an admissions committee choosing among applicants. It opens with what matters most to a technical program: he learned your herd software and caught nine mastitis cases early. His reliability comes next, then his written English along with the night class he's taking for it.
+
+**The five weeks.** I included them, in one sentence. The letter says he has missed only two shifts in three years, and that line would mislead the college if the five weeks were left out. They read as a family emergency, followed by his return to the same shift. I left out the two days' notice. It isn't something the college needs in order to judge him as a student. If a reference form asks you directly about notice or attendance, answer it plainly.
+
+**Things that would make it stronger, if they're true:**
+- He learned the software on his own initiative, or now trains or covers for other workers.
+- Something the vet said about his early calls, or what catching those cases saved the herd.
+- His job will still be there when he finishes, or he'll keep working part-time during the program.
+
+Fill in the bracketed items before sending.
+
+<final_document>
+[Farm Name]
+[Address]
+[Phone] · [Email]
+
+November 16, 2026
+
+Admissions Committee
+Agricultural Technology Program
+[State Technical College]
+
+Dear Admissions Committee,
+
+I am writing to recommend Tomás [Last Name] for your two-year Agricultural Technology program. I manage [Farm Name], a 400-cow dairy, and Tomás has worked for me for three years, since he was 19.
+
+What stands out most is how he has taken to the technical side of dairying. Tomás learned our herd management software and now uses it to flag sick cows for our veterinarian. Last winter he caught nine cases of mastitis early. Nobody asked him to become the person who watches the data. He did it because he saw it mattered for the herd. He learned this work on the job, and I believe your program is the right next step for him.
+
+He is also someone I trust completely with responsibility. Tomás runs our 3 a.m. milking shift on his own, five days a week. Nobody is there to check on him at that hour. I rely on him to show up, to do the job right, and to notice when something is wrong, and he does. He has missed two shifts in three years. His only longer absence was five weeks last summer, when his father fell ill in Mexico and he went home. When he came back, he took up the early shift again.
+
+His written English is not yet as strong as his spoken English, and he knows it. He is taking a night class to improve it, on top of a work shift that starts at 3 a.m. That tells you how he goes about things. When he sees a gap, he works on it.
+
+I recommend Tomás without reservation. I would be glad to answer any questions. You can reach me at [phone] or [email].
+
+Sincerely,
+
+[Your Name]
+Farm Manager, [Farm Name]
+</final_document>

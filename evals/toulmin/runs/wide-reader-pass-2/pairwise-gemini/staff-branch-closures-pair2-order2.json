@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-37-29Z",
+  "without_skill_run": "2026-11-16T19-18-40Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B immediately addresses what happens to us in the subject line and opening bullets, which is all we care about after two weeks of rumours. While Document B still claims the change will make work better, it is honest that the rotating shifts are a hard change and doesn't include Document A's defensive remark that nobody is losing their job unless they choose to."
+}

@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:39:03.558957+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 312
+  tags: []
+  notes: extracted 312 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 4
+    honest: 7
+    works_the_facts: 3
+    right_comparison: 2
+    qualification: 5
+    objections: 2
+    fit: 9
+  details:
+    agree: The page is clear and believable, but a four-chair owner who pays her cousin
+      $600 a year will see $199 a month and has no reason to give up a cheaper arrangement
+      she likes, so she probably won't book the call.
+    honest: No numbers are invented and the missed deadlines are admitted, but the
+      heading 'Clean books cost less at tax time' turns what 9 of 31 clients reported
+      into a general rule.
+    works_the_facts: 'Every figure is repeated raw and none is worked out: retention
+      could be stated as 29 of 31 with no one leaving over the service, and the yearly
+      price ($2,388) could be set against the $600 and the possible $800 tax saving.'
+    right_comparison: The only alternative described is the owner doing her books
+      at 11pm, while this reader's actual alternative is a once-a-year relative who
+      costs far less, and the page never deals with that.
+    qualification: The 10th-of-the-month deadline and the 3 misses give the reader
+      a date and a number she can check, but the page doesn't say what happens to
+      her if a close is late.
+    objections: The objections this reader will have (the price compared with her
+      cousin, loyalty to him, and whether a four-chair salon needs a monthly service)
+      go unanswered, while the page spends space on being a solo operator, which she
+      hadn't questioned.
+    fit: It is about 330 words of sales-page copy with clear sections and ends with
+      a button to book the call, as the brief asked.

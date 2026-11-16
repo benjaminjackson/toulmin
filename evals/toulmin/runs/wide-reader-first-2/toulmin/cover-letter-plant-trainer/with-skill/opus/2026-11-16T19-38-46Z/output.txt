@@ -1,0 +1,46 @@
+I wrote the letter without the "cut new-hire training time in half" claim, and I'd recommend leaving it out.
+
+**Why I left out the "half" claim:** It promises a specific result for a training program you haven't seen, in an industry you haven't worked in. Your experience shows you can train people to follow procedures safely and that your teaching gets better results. A hiring manager in a GMP plant will notice the gap between the two. They also know that training time there is partly set by required qualifications and sign-offs, so it can't simply be cut. A claim like that is likely to read as a sign that you don't know the setting.
+
+In its place, the letter offers to talk about how they train new hires now and where it could be faster. If you can give me a real number, such as a time you shortened your new-teacher training, I'd build a speed claim on that.
+
+**Other choices I made:**
+- **What comes first:** The opening leads with what this employer cares about most: getting people to follow procedures exactly where mistakes can hurt someone. Your safety record and your training of adult teachers carry most of the letter.
+- **The GMP gap:** The posting asks for GMP experience, so they'll spot the gap. The letter says it once, plainly, after your strengths, and then says what makes up for it.
+- **Numbers:** "Seven years" is 2019 to now. I didn't add up a total of teachers trained, because you didn't say how many years you've done it.
+- **To fill in:** your name, the date and the plant's details at the top.
+
+**What would make it stronger:**
+- Whether your safety program uses written sign-offs, checklists or training records. If so, say that. It's the closest thing you have to GMP documentation.
+- Any sign that your teacher training works, for example new teachers running labs on their own by a certain week.
+
+<final_document>
+[Your Name]
+[Address] · [Phone] · [Email]
+
+[Date]
+
+Hiring Manager
+[Company Name]
+[Plant Address]
+
+Dear Hiring Manager,
+
+I am applying for the Training Coordinator position. I have taught high school chemistry for nine years. The part of my work that fits your plant most closely is teaching people to follow procedures exactly, every time, where a skipped step can hurt someone.
+
+In 2019 I wrote my school's lab safety program. In the seven years since, our labs have had no injury that needed more than first aid. These are labs where teenagers handle chemicals, many of them for the first time. I teach about 140 students a year across five classes, and the program works because it doesn't depend on anyone remembering the rules. It's written down, taught and enforced the same way every time.
+
+I also train adults. Every year I give each new science teacher in our department about 12 hours of training on lab procedures, usually two new teachers a year. They arrive with degrees in their subject but don't yet know our procedures, and they need to be safe and working on their own in the lab quickly. That is close to what your new hires need on the floor.
+
+I also check whether my teaching is working. In the four years I've taught AP Chemistry, our pass rate has risen from 41% to 58%.
+
+I haven't worked in a regulated industry. I haven't kept GMP training records, and I've used Google Classroom rather than the learning management system you use. Still, the discipline GMP depends on is the same one my safety program runs on: written procedures, followed exactly, backed by training that holds up. I would need to learn the record-keeping rules and the software. The habit I already have.
+
+I live about 30 minutes from the plant. I'd welcome the chance to hear how you train new hires now and to talk about where that training could be faster or stronger.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+[Your Name]
+</final_document>

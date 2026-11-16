@@ -1,0 +1,17 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-37-35Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "This year that elevator has been out of service on 41 days, which is more than one day in every eight.",
+      "why": "The brief does not state the current date, so it cannot be worked out whether 41 days is more than one day in every eight so far this year (and out of a full 365-day year, 41 days is less than one in eight)."
+    },
+    {
+      "quote": "Five months later you are telling us the same thing: six to eight weeks.",
+      "why": "The brief states that the city inspection happened in September and that management gave the same excuse in June, but it does not state that the current month is November or that five months have passed since June."
+    }
+  ],
+  "invented_count": 2
+}

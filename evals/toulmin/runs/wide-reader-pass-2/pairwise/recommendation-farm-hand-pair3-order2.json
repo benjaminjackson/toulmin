@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-39-44Z",
+  "without_skill_run": "2026-11-16T19-19-09Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B ties Tomás's software and mastitis work directly to what the program teaches, and it brings up his written English before I would spot it myself. That makes B tight and easy to believe on a quick read. A is warm but adds claims the brief doesn't support, such as \"taught himself,\" \"not because anyone told him to,\" and \"on his own initiative.\" That makes A sound more like a standard glowing letter."
+}

@@ -1,0 +1,17 @@
+{
+  "task": "promotion-front-office",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-39-32Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "During the same period, the team I trained got steadier and more of them stayed.",
+      "why": "The brief does not state when the training was rewritten or that the drop in turnover happened during the same 18-month period as the check-in score increase."
+    },
+    {
+      "quote": "Payroll is mostly front desk staffing, and I already handle that side of it: hiring, training and keeping people.",
+      "why": "The brief does not say what the payroll budget mostly consists of, nor does it state that the applicant handles hiring."
+    }
+  ],
+  "invented_count": 2
+}

@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T19:37:32.280588+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 370
+  tags: []
+  notes: extracted 370 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 7
+    right_comparison: 5
+    qualification: 3
+    objections: 6
+    fit: 9
+  details:
+    agree: By conceding the renovation's share and leaning on turnover and training
+      numbers, the memo takes on the GM's main doubt, but the budget gap and the outside
+      candidate's experience at a larger hotel are left mostly unanswered, so a hesitant
+      GM may still lean toward the outsider.
+    honest: It drops the 'main reason' claim the facts can't support and gets every
+      number right, but 'a team that I built' and 'I have brought both down' credit
+      the writer more firmly than the brief allows, since the training rewrite's timing
+      and the causes of the turnover drop aren't established.
+    works_the_facts: It converts turnover to rates (about two in three falling to
+      one in three), counts four fewer departures and calls 5 versus 9 shifts almost
+      twice as fast, but it never adds up the paired shifts saved across hires or
+      links these figures to payroll dollars, which would have helped answer the budget
+      gap.
+    right_comparison: The outside hire is only described as needing to learn the hotel,
+      and the memo never takes on that candidate's actual strength of running a larger
+      front desk, which possibly included budget responsibility.
+    qualification: 'The budget gap is admitted but nothing checkable is offered against
+      it: no plan, no date such as a first payroll review with the GM, and no measure
+      the GM could hold the writer to.'
+    objections: The renovation objection is met directly and fairly, but the larger-hotel
+      comparison is answered only with familiarity, and the budget answer argues that
+      turnover is a stand-in for budget skill instead of offering a way to close the
+      gap.
+    fit: It is a clear written memo of about a page, addressed to the GM as asked,
+      with sections that are easy to scan.

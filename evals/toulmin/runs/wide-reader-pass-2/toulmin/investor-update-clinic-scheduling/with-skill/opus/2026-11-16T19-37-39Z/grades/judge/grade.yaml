@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:39:45.361458+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 321
+  tags: []
+  notes: extracted 321 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 3
+    objections: 5
+    fit: 9
+  details:
+    agree: The apology up front, plain bad news and an underlying 15% growth figure
+      would likely keep a cold investor reading, but there's no concrete milestone
+      or commitment to future updates, which is what would win back someone weighing
+      follow-on money.
+    honest: Every figure checks out against the brief, but the before/after no-show
+      drop is presented as proof that 'we change a clinic's results', which is a causal
+      claim slightly stronger than uncontrolled data can carry.
+    works_the_facts: It correctly works out 11 months of runway and the ex-chain growth
+      ($35,500 to $41,000, about 15%), but it never works out what the $150 product
+      needs to achieve, such as roughly 290 standalone clinics to cover the $44,000
+      monthly burn.
+    right_comparison: 'It names the records-system trend as the threat, but it doesn''t
+      show where the current path leads: 15% quarterly growth on $41,000 still leaves
+      the company far from break-even when the cash runs out.'
+    qualification: '''About 11 months to show this works'' gives a deadline but no
+      measurable target or checkpoint, and doesn''t say what happens if the standalone
+      product falls short.'
+    objections: It meets the complaint about missed updates with an apology and faces
+      the platform risk directly, but it doesn't promise a reporting cadence, explain
+      the silence, or address fundraising and the investor's follow-on decision.
+    fit: It's a well-structured investor email of about 370 words, inside the 500-word
+      limit and suited to 11 recipients.

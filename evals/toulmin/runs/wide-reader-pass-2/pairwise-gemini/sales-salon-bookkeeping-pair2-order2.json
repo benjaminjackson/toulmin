@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-36-53Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A speaks directly to my salon life—mentioning booth rent, tips, and being closed on Sundays and Mondays—while also making it clear I wouldn't have to fire my cousin at tax time, just hand him cleaner books instead of a shoebox. Document B also omits the fact from the brief that the price used to be $149 in Document A, whereas Document B includes all facts, wait—Document A left out the $149 price increase fact, but as a reader who hasn't seen the brief, Document A is much more persuasive because it shows they actually understand how a 4-chair salon works and reassures me I won't get a sales pitch."
+}

@@ -1,0 +1,51 @@
+I recommend opening with an apology for the two missed updates. After six months of silence, investors would distrust anything that came before it. All the bad news then comes in the first few lines, before the good news. Investors who have to work out the bad news from the numbers trust the rest of the letter less.
+
+Every figure comes from what you gave me or from arithmetic on it:
+- **Runway:** $480,000 ÷ $44,000 ≈ 10.9 months, so "about 11 months."
+- **Underlying growth:** you started at $41,000 including the chain's $5,500 and ended at $41,000 without it. So revenue from everyone else went from $35,500 to $41,000, up about 15%. That holds only if the chain was still paying at the start of the quarter. Check that before sending.
+- **No-shows:** going from 13% to 7% means about 46% fewer missed appointments, so "nearly halves."
+
+I signed it "Ben" from your account details. Change that if needed.
+
+**These facts would make the letter stronger.** I didn't make any of them up, so the draft has none of them:
+1. **A runway plan.** With 11 months left, every investor will ask when you raise or when you reach breakeven. For scale: covering $44,000 a month at $150 each would take about 293 reminder subscriptions, less whatever texting costs you. If you have a target, add it.
+2. **A target for the reminder launch with a date,** for example "X paying clinics by March." Investors can then check it in the next update.
+3. **A commitment to send an update every quarter from now on.** I didn't write it in because you haven't made it. It's the strongest answer to the missed updates if you're willing to make it.
+4. **Specific asks,** such as introductions to clinic groups, or to people who have sold against software built into EHRs.
+5. **Whether other customers are on EHRs with built-in schedulers.** Investors will wonder if the chain is a sign of more losses to come.
+
+<final_document>
+Subject: Quarterly update: flat revenue, our biggest customer left, and what we launch next month
+
+Hi all,
+
+First, I owe you an apology. This is the first update you've had from me in six months. I should have written after each of the last two quarters, and I didn't. This one covers where we stand now, including the bad news.
+
+**The numbers**
+- Monthly recurring revenue: $41,000, the same as three months ago
+- Clinics: 9 added, 4 lost (net +5)
+- Lost our largest customer, a 12-clinic chain paying $5,500/month
+- Cash: $480,000. Burn: about $44,000/month, which gives us about 11 months of runway
+- Next month: we start selling our text reminders on their own for $150/month
+
+**The loss**
+The chain moved to the scheduler built into their electronic records system. That's the biggest competitive threat we face: a records system that comes with a scheduler that's good enough. I'd rather tell you that plainly than leave you to work it out from the numbers.
+
+**What the flat number hides**
+Losing $5,500 a month from one customer and still finishing level means the rest of the business grew. Leaving the chain out, monthly revenue went from $35,500 to $41,000 this quarter, up about 15%. Nine new clinics signed on.
+
+**What's working**
+Clinics that use our automatic text reminders have a no-show rate of 7%, against 13% before they started. That nearly halves missed appointments. An empty slot is revenue a clinic can't get back, so this is the result our customers feel most directly.
+
+**Why we're selling reminders on their own**
+The reminders are the part of the product with the clearest, most measurable result. Selling them separately at $150/month means a clinic can buy them without giving up the scheduler it already has, including one built into its records system. That gives us a product to offer the kind of customer we just lost, instead of having to win them away from software they already have.
+
+**Runway**
+At our current burn we have about 11 months of cash. The reminder launch is the main thing I'll be watching, and it will be the center of the next update.
+
+If you'd like to go through any of this in more detail, reply here and I'll set up a call.
+
+Thanks for your patience, and for your support.
+
+Ben
+</final_document>

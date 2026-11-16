@@ -1,0 +1,13 @@
+{
+  "task": "win-back-farm-share",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-38-21Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "This winter we made these changes:",
+      "why": "The brief says the changes were made 'this year', not specifically during the winter."
+    }
+  ],
+  "invented_count": 1
+}

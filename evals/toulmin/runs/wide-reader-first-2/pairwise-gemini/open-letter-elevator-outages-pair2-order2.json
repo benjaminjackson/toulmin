@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-37-45Z",
+  "without_skill_run": "2026-11-16T19-18-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B asks three reasonable questions I can actually answer, and tying the June promise to the August outage exposes a gap in our response that is hard to defend. Document A feels like an aggressive list of demands—like monthly reporting and commissioning an independent engineering review—which just reinforces my belief that the association is a few loud troublemakers."
+}

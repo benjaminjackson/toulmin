@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:18:32.145019+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 189
+  tags: []
+  notes: extracted 189 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 6
+    objections: 5
+    fit: 9
+  details:
+    agree: The direct apology and concrete changes would soften this household, but
+      it never says what the farm will do or tell members the next time a storm thins
+      the boxes, which is what made them leave.
+    honest: Every figure matches the brief and nothing is invented, though 'so our
+      crops aren't all in one place' is a mild inference, and the email says they
+      didn't renew 'last year' when they didn't renew for this year.
+    works_the_facts: 'The facts are restated rather than worked: it never estimates
+      what the thin weeks cost a member (roughly $74 of a $540 share at about $24.50
+      a week), and it doesn''t set $31,000 against a price that stayed the same.'
+    right_comparison: The email only implies the comparison with last season, and
+      it doesn't admit that the nets protect just tomatoes and peppers, so it never
+      shows how a storm like July's would play out now.
+    qualification: The March 15 deadline and the 52 remaining shares are clear and
+      checkable, but nothing hedges how much protection the new field and nets actually
+      give against another storm.
+    objections: It names the silence and the lack of refunds, but it doesn't commit
+      to communicating or giving credit for crop loss in the future, and the credited
+      2-week pause doesn't cover a disaster.
+    fit: It is a short, plain email to lapsed members, close to but within the 200-word
+      limit, with a clear subject line and call to action.

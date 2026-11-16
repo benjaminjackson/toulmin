@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B puts the details about my job, pay, hours, and severance right at the top where I need them after two weeks of worrying about rumours. While both documents smartly avoid telling us that working on the phones with rotating 8-to-8 shifts will make our jobs better, Document A feels a bit better organized with concrete next steps like scheduled HR meetings, making it a very close call, though B's directness and personal offer to talk about scheduling conflicts wins me over slightly."
+}

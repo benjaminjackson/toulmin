@@ -1,0 +1,33 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-35-53Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Nobody asked him to learn our herd management software. He did it on his own",
+      "why": "The brief only states that he learned the herd management software, not that he was never asked to or that he learned it on his own."
+    },
+    {
+      "quote": "with very little formal training",
+      "why": "The brief does not mention how much formal training Tomás has had."
+    },
+    {
+      "quote": "Nobody is there to check on him at that hour",
+      "why": "The brief says he runs the 3 a.m. milking shift on his own, not that nobody else is present at the farm to check on him."
+    },
+    {
+      "quote": "his father became seriously ill",
+      "why": "The brief states that his father got sick, not that the illness was serious."
+    },
+    {
+      "quote": "He went home to help his family, and when he came back he picked up exactly where he had left off.",
+      "why": "The brief does not state that Mexico is his home, that he went to help his family, or how he performed upon returning."
+    },
+    {
+      "quote": "He knows this, and he enrolled in a night class to improve it on his own initiative",
+      "why": "The brief says he is taking a night class for his written English, not that he is aware of his weakness or enrolled on his own initiative."
+    }
+  ],
+  "invented_count": 6
+}

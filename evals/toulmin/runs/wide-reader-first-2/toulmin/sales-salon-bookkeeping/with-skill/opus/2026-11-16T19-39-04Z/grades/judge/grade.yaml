@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:40:24.455049+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 313
+  tags: []
+  notes: extracted 313 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 3
+    honest: 6
+    works_the_facts: 3
+    right_comparison: 1
+    qualification: 3
+    objections: 2
+    fit: 8
+  details:
+    agree: This owner pays her cousin $600 a year and would see $199 a month as $2,388,
+      and the page never explains why that's worth it or that she could keep her cousin
+      for the tax return, so she probably won't book.
+    honest: Most claims match the brief, but 'their bill shows it' states as a general
+      rule what only nine clients reported, and 'you won't spend your first month
+      explaining' is a promise the facts don't support.
+    works_the_facts: The page repeats the raw numbers without deriving anything, such
+      as 29 of 31 clients staying with only sale-driven exits, nine of twelve monthly
+      closes on time, or what the fee comes to over a year set against tax-time savings.
+    right_comparison: The reader's real alternative is a once-a-year relative at $600
+      who doesn't run payroll or sales tax, and the page never describes it, so it
+      never shows what she gets that she lacks now.
+    qualification: The 'I can't promise' hedge and the missed-deadline admission are
+      honest, but neither gives the reader a number to check, a date or what happens
+      when the 10th is missed.
+    objections: 'It answers objections this reader isn''t raising, such as client
+      churn and working with one person, and misses her actual ones: the price against
+      $600 a year and loyalty to her cousin.'
+    fit: It is a sales page of about 350 words with clear sections and a booking button
+      at the end, as the brief asked.

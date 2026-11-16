@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A sticks strictly to the facts, whereas Document B invents details about how the AP pass rate was raised and includes an encouraging—but fabricated—assurance about not removing steps required by our quality system. While both wisely softened the unrealistic claim about cutting training time in half, Document A earns the phone screen by translating teaching experience into plant terms without embellishing the facts."
+}

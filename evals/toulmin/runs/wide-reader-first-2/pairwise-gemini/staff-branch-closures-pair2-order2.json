@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-37-01Z",
+  "without_skill_run": "2026-11-16T19-18-40Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B speaks directly to the 14 of us right at the top, giving us the exact facts about our pay, hours, and severance immediately when we are anxious to confirm the rumours. While both documents wisely avoid claiming that working rotating shifts on the phones makes our jobs 'better,' B feels much more personal and respectful by not talking about us in the third person, and it doesn't invent promises about flexible scheduling or HR meetings that weren't in the facts."
+}

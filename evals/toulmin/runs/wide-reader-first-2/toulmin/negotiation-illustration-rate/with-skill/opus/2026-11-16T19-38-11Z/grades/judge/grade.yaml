@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:39:58.194882+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 183
+  tags: []
+  notes: extracted 183 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 5
+    right_comparison: 6
+    objections: 4
+    fit: 9
+  details:
+    agree: The warm tone, the sales record and the $12,500 rate from another publisher
+      give this editor solid reasons to offer more than $9,000, but she might still
+      answer with a figure between the two numbers, since nothing outweighs the $8,000
+      newcomer or makes clear the $11,500 matters.
+    honest: Every claim comes straight from the brief, and the writer dropped the
+      false 'every other publisher pays at least $12,000' line, so nothing is overstated
+      or invented.
+    works_the_facts: 'The raw figures are stated correctly but little is derived from
+      them: no four-year flat rate set against rising costs, no per-month earnings
+      ($2,250 over four months), and no ''$1,000 below what I was paid elsewhere''
+      to put the ask in its best form.'
+    right_comparison: Setting $11,500 against $12,500 elsewhere and the agent's $11,000
+      to $13,000 range is accurate, but the email doesn't show that $9,000 has lost
+      value in real terms over four years, and it doesn't weigh the risk of replacing
+      a proven illustrator.
+    qualification: This is a plain fee request with no forecast or condition that
+      needs hedging.
+    objections: The editor's real objections, a fixed $9,000 budget and a cheaper
+      illustrator available, are never answered directly, for example by tying the
+      two 20,000-copy books to revenue or offering a way to fit the fee into the budget.
+    fit: It's a short, well-organised email of about 190 words, under the 250-word
+      limit, with a clear subject line and a specific ask.

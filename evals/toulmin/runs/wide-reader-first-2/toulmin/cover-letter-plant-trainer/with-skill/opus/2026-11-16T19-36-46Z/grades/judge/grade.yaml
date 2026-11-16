@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:38:46.175047+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 395
+  tags: []
+  notes: extracted 395 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 4
+    objections: 6
+    fit: 8
+  details:
+    agree: A skeptical HR manager sees a candidate who writes and enforces procedures
+      for hazardous work and openly admits the GMP gap, which may earn a phone screen,
+      but nothing concrete shows plant-readiness.
+    honest: It rightly drops the unsupported 'cut training time in half' claim, but
+      it adds details the brief doesn't give, such as new teachers being 'experienced
+      professionals' and students handling 'acids, open flames and glassware.'
+    works_the_facts: 'Figures are restated rather than derived: it never adds up roughly
+      1,000 student-years without a serious injury since 2019, about 24 hours a year
+      (around 170 hours total) of adult training, or the 17-point (about 41% relative)
+      rise in the AP pass rate.'
+    right_comparison: It compares teacher onboarding to plant onboarding reasonably,
+      but it doesn't confront the real alternative, a candidate who already has GMP
+      experience, beyond admitting the gap.
+    qualification: The GMP and LMS hedge is only 'I expect to learn' and 'will learn,'
+      with no named course, timeline or checkable milestone the reader could hold
+      the applicant to.
+    objections: It meets the 'teachers don't understand regulated plants' objection
+      head-on and frames procedure discipline as transferable, but the answer stays
+      general and offers no evidence of preparation for GMP.
+    fit: It is a conventional one-page cover letter in a suitable register, though
+      it leaves out the time-halving claim the user asked for (defensibly, since nothing
+      supports it) without flagging that.

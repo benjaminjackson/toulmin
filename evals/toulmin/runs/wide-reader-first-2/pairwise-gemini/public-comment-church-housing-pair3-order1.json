@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-39-07Z",
+  "without_skill_run": "2026-11-16T19-19-20Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A stays strictly honest to the facts, whereas Document B speculates beyond the brief about the specific occupations and living arrangements of future tenants. Additionally, Document A's concise pacing and direct framing of the traffic trade-off — alongside the calculation that 64 units serves one in six families on the waitlist — are much more compelling in a live hearing."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both updates handle the apology and the bad news well, but Document A wins because it includes a specific 'How you can help' section and directly connects the new product test to spending and fundraising plans. Document B also makes a small logical error in claiming the standalone feature gives current customers another reason to stay, whereas Document A's ask for 20 minutes of strategic advice gives me a concrete reason to get back on the phone with the founder."
+}

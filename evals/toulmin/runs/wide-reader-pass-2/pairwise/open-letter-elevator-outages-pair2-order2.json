@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-37-35Z",
+  "without_skill_run": "2026-11-16T19-18-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is tighter and its three asks are easier to grant. It also counters the 'few loud people' view with '74 of our 112 households' and states plainly that the letter has gone to the lobby and the TV station, so ignoring it would be costly for me. A is cooperative but longer, and its five demands, including monthly reports, read more like a list I could put off."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-39-04Z",
+  "without_skill_run": "2026-11-16T19-19-18Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "A feels written for my salon: it names booth rent, tips and commission splits, and it guesses that Sunday and Monday are my days off too. It is also honest about the price increase and the missed deadlines. B is careful and honest, but it is plainer and less salon-specific. Neither one makes $199 a month look better than the $600 a year I pay my cousin."
+}

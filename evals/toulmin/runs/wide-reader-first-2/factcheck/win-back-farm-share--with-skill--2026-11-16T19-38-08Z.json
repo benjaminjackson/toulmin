@@ -1,0 +1,13 @@
+{
+  "task": "win-back-farm-share",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-38-08Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Thanks for the seasons you spent with us.",
+      "why": "The brief only says the recipients had a share last year and does not state that they spent multiple seasons with the farm."
+    }
+  ],
+  "invented_count": 1
+}

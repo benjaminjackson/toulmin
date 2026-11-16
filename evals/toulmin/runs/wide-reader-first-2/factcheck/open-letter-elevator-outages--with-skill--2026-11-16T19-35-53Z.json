@@ -1,0 +1,17 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-35-53Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The longest outage lasted 12 days, in August.",
+      "why": "The brief says the elevator was out for one stretch of 12 days in August, not that it was the longest outage."
+    },
+    {
+      "quote": "the month of our longest outage",
+      "why": "The brief does not state that the 12-day outage in August was the longest outage."
+    }
+  ],
+  "invented_count": 2
+}

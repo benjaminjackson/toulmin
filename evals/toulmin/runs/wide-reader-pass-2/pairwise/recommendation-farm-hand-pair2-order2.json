@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-37-39Z",
+  "without_skill_run": "2026-11-16T19-18-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B opens with his work in the herd software and catching nine mastitis cases early, which matters most for an ag-tech program. It is also tighter, and it closes on a concrete point: he is taking a night class on top of a shift that starts at 3 a.m. A gives the same facts with a bit more filler, and both letters add a little to the brief by saying he took on the software work on his own initiative."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-40-05Z",
+  "without_skill_run": "2026-11-16T19-20-01Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "As a program officer who had to chase their last report for four months, I need to know what operational changes will prevent a repeat on a much larger grant, and how they plan to pay for ongoing vehicle expenses when they are draining their reserves down to $11,000. Document A prompts the applicant to provide those exact details, whereas Document B offers only a vague apology and leaves the operational cost gap completely unaddressed."
+}

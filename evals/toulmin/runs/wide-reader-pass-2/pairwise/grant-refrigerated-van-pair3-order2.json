@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-40-05Z",
+  "without_skill_run": "2026-11-16T19-20-01Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "A tells me how the van will be paid for once bought, commits to tracking and reporting fresh-food pounds each month, and points to a concrete fix for the late reporting I had to chase, though its bracketed placeholders still need filling in. B is more polished and gives a sincere apology, but it offers no change to how reports get done and says nothing about operating costs, which leaves my main worry open."
+}

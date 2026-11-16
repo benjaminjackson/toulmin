@@ -1,0 +1,51 @@
+grader: judge
+graded: '2026-11-16T19:38:10.345333+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 185
+  tags: []
+  notes: extracted 185 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 6
+    objections: 5
+    fit: 9
+  details:
+    agree: An editor who already likes the work would take the request seriously,
+      but with a fixed $9,000 budget and an $8,000 newcomer available, the email gives
+      no clear reason why paying $2,500 more beats taking the cheaper option.
+    honest: It leaves out the unsupported claim that every other publisher pays at
+      least $12,000, and every number it uses comes straight from the brief.
+    works_the_facts: The $2,250-a-month figure and the point that the ask is below
+      last year's $12,500 are real derivations, but four years at a flat fee and two
+      of six books passing 20,000 copies aren't turned into sharper figures, such
+      as what those sales may have earned the publisher.
+    right_comparison: It fairly compares the flat $9,000 with outside market rates,
+      but the comparison that matters to this reader, a proven seller against an untested,
+      cheaper illustrator, is only implied by the sales record.
+    qualification: The email is a direct request and contains no conditions or hedges
+      that need checking.
+    objections: It never deals with the editor's likely objection that the budget
+      is fixed at $9,000, for example by offering a phased increase or a royalty or
+      bonus tied to sales, and the offer of a call only partly makes up for that.
+    fit: It's a short professional email of about 190 words, under the 250-word limit,
+      with a clear subject line and a clear ask.

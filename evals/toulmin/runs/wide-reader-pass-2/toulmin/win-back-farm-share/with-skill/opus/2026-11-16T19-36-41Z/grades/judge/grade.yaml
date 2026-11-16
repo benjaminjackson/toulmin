@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:38:20.623986+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 168
+  tags: []
+  notes: extracted 168 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 5
+    right_comparison: 5
+    objections: 6
+    fit: 9
+  details:
+    agree: The direct, specific apology and the concrete $31,000 of changes would
+      bring many wary households back, but a reader stung by the farm's silence gets
+      no assurance about how the farm would talk to members, or credit them, if the
+      next bad season comes.
+    honest: Every figure and claim comes from the brief, the hail nets are correctly
+      limited to tomatoes and peppers, and the only slight stretch is the inference
+      that crops are 'no longer all in one place.'
+    works_the_facts: It repeats the brief's numbers accurately but derives nothing,
+      such as the roughly three weeks' worth of produce (about $74) the household
+      lost, which would make the apology concrete, or the fact that 52 shares left
+      means some lapsed members may not get a place back.
+    right_comparison: Last season's single exposed field is set against this year's
+      second field and nets, and the price is held steady, but the reader's actual
+      alternative of not rejoining, or buying produce elsewhere, is never described.
+    qualification: The email makes no conditional promises that would need a hedge;
+      the deadline and remaining-share count are stated plainly.
+    objections: It owns both the missing refund and the single short email, but it
+      doesn't say how members would be kept informed or treated if crops are lost
+      again, which is the core of this reader's grievance, and the pause credit only
+      partly answers it.
+    fit: It is a short, scannable email of about 170 words with a subject line and
+      a clear call to action, so it fits the brief's under-200-word limit.

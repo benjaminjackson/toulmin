@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-37-01Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document B immediately convinces me this person truly understands salons by mentioning specific headaches like booth rent, tips, and retail vs. service income, and noting that salons are closed on Sundays and Mondays too. Also, since my cousin already does my taxes for $600 a year, Document B's mention of handing organized books to the tax preparer instead of a shoebox shows me I can hire this bookkeeper to take the monthly stress off my plate without having to fire my cousin."
+}

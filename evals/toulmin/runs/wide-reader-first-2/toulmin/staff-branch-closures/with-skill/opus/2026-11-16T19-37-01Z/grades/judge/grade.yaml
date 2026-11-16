@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:39:12.713055+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 464
+  tags: []
+  notes: extracted 464 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 6
+    objections: 6
+    fit: 7
+  details:
+    agree: The plain, respectful list of job, pay, hours and severance gives a long-serving
+      teller who doesn't want phone work real reasons to consider the role, but nothing
+      describes what the work will actually be like, so a reluctant reader is left
+      to imagine the worst.
+    honest: It drops the COO's unsupported claim that the change makes 'everyone's
+      job better', states each brief fact accurately and gets the severance example
+      right, though 'some of you chose these branches partly because of the hours'
+      is a mild assumption.
+    works_the_facts: The six-years-equals-12-weeks example is a useful worked figure,
+      but the 44% drop, the 60% rise and the 9-minute hold are only listed, never
+      tied to staffing need or to what happens if nothing changes, and the new 12-hour
+      window isn't turned into what a rotation means for one person's week.
+    right_comparison: Keeping the branches open is implicitly set against falling
+      visits and rising contacts, and leaving with severance is described accurately,
+      but it never says where the trend leads if the branches stay open.
+    qualification: The document makes firm commitments taken from the brief and doesn't
+      need hedges, although a decision deadline would help the reader (the brief doesn't
+      give one).
+    objections: It meets the objections about hours and losing member relationships
+      honestly, but it never directly addresses the main one, 'I don't want to work
+      on the phones', and it leaves out a decision deadline and what the 90 days of
+      training involve.
+    fit: It's a well-structured email from the COO with a clear subject line, but
+      at roughly 470 words it runs somewhat over the requested 400.

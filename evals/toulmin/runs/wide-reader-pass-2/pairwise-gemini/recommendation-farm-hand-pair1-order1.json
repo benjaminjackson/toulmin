@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B frames the candidate's English night class and his temporary absence much more effectively as strengths rather than warnings, which is persuasive when I am skimming 150 applications. However, Document B slightly stretches the facts by adding details not in the brief (like learning the software 'on his own initiative' and speaking 'clearly and confidently'), while Document A stays completely faithful to the facts and still makes a strong, direct case."
+}

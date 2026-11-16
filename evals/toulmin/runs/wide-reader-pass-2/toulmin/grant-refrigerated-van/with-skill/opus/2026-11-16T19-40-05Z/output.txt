@@ -1,0 +1,50 @@
+The narrative below is about 410 words. I didn't use the "double our fresh food" claim, because your figures don't support it.
+
+**Why I dropped "double"**
+
+- **What it would take:** you give out about 6,000 lb of fresh food a month, or 72,000 lb a year. Doubling means 72,000 lb more in the first year.
+- **What your facts show:** the farm offers you turned down add up to 9,000 lb a year. That's 12.5% more fresh food over the year. During the three summer months it's 50% more (9,000 lb a month instead of 6,000).
+- **How a reviewer would read it:** they'll do the same math. A claim eight times bigger than your evidence could make them doubt your other numbers too.
+
+So the narrative says what the facts support: 50% more fresh food in the harvest months, and nearly 15 extra pounds of produce for each household. If you have other cold food you've had to turn away, such as grocery or regional food bank donations, add those pounds. With enough of them, you could make a bigger claim.
+
+**Gaps a reviewer is likely to ask about.** I didn't fill any of these in, because I'd have had to guess:
+
+1. **Cold storage.** You said you turned the produce down because you couldn't pick it up cold *or store it*. A van solves the pickup but not the storage. You need a sentence saying where the extra produce will be kept. This is the biggest gap.
+2. **Running costs.** Insurance, fuel and maintenance will come out of $11,000 in reserves. One sentence on how you'll pay for them would answer the obvious question.
+3. **The late report.** The narrative admits it and apologizes, but it doesn't say what you'll do differently. If you can commit to something concrete, like a named person responsible for reports or a date, add it there.
+4. **Will the farms offer again?** A letter from one or two of them would make the summer numbers much stronger.
+
+I put the late report before the dollar amount on purpose. The foundation already knows about it, and it reads better if you raise it yourself before asking for money.
+
+<final_document>
+**Project Narrative: A Refrigerated Van for Fresh Food**
+
+Every month, our volunteer-run food bank distributes about 38,000 pounds of food to 610 households in a town of roughly 9,000 people. About 6,000 pounds of that is fresh produce, milk and eggs. That's the food families on tight budgets struggle most to afford, and the food we have the hardest time getting.
+
+**The food we had to turn away**
+
+Last summer, local farms offered us roughly 9,000 pounds of produce over three months. We turned all of it down because we had no way to pick it up cold or store it. Neighbors grew that food and offered it to us, and our neighbors needed it, but it never reached them.
+
+**What a refrigerated van changes**
+
+A refrigerated van lets us say yes. If we had had one last summer, those 9,000 pounds would have meant 50% more fresh food during the harvest months: 9,000 pounds a month instead of 6,000. That's nearly 15 extra pounds of fresh produce for every household we serve. Over a full year, it's 9,000 pounds of fresh food on top of the 72,000 we hand out now, all of it from offers we already know exist.
+
+**Who will run it**
+
+Our food bank is run by 23 regular volunteers. Four of them have committed to driving the van on a weekly schedule, so it will be on the road from the day it arrives without adding paid staff.
+
+**Our history with the Foundation**
+
+The Foundation has supported us before. Your $12,000 grant in 2023 paid for our shelving. Our final report on that grant reached you four months late. That was our failure, and we apologize. You were entitled to that report on time, and you will be entitled to the same on this grant.
+
+**Our request and our commitment**
+
+The van costs $68,000. We ask the Foundation for $50,000. We will cover the remaining $18,000 from our own reserves. That is more than 60% of what we hold, and it will leave us with $11,000. We are willing to commit that much because fresh food is where our neighbors' need is greatest and where we are falling furthest short.
+
+**If the van is not funded**
+
+Without a refrigerated van, next summer will look like last summer. Local farms will offer us fresh produce, and we will have to turn it away. Our fresh food distribution will stay at about 6,000 pounds a month for 610 households.
+
+With the Foundation's help, we can accept what our farmers are already offering and get it to the families who need it.
+</final_document>

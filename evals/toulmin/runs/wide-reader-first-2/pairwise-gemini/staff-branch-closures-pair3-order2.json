@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-39-13Z",
+  "without_skill_run": "2026-11-16T19-19-13Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B immediately gives us the facts about our jobs, pay, and severance without making us read through business justifications first, and it doesn't sugarcoat the new 8-to-8 hours. It also makes a genuine effort to value our counter experience and persuade us why we are needed in the new center, while Document A invents promises about scheduling flexibility and meetings that weren't in the facts."
+}

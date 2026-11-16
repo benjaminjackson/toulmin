@@ -1,0 +1,44 @@
+I used the persuasion-writing skill to plan this letter. Here is how it's built:
+
+- **Writing for management, with neighbours and TV viewers also reading.** Short sentences and one main number per sentence, so it works in the lobby or read aloud on air.
+- **The passing inspection is addressed head-on.** It's management's strongest reply, so the letter accepts it and then separates safety from reliability.
+- **The June promise is shown with dates.** "Six to eight weeks" from June meant mid-August at the latest. That was the month of the 12-day outage, and it's now November. The letter states the dates and leaves the reader to draw the conclusion, rather than calling it a broken promise.
+- **The second elevator gets an ask they can say yes to.** Management has already turned it down, so demanding it again invites a flat no. The letter keeps the petition's weight (74 of 112 households, two in three) and asks for something they can grant: the assessment behind the $400,000 and "can't be done," plus a meeting.
+- **The figures are your facts or simple arithmetic on them.** Two in three = 74 of 112. Eight flights of stairs = nine storeys. I didn't add any deadlines, promises or stories about residents.
+
+**Things to fill in or add:**
+1. The square brackets: the company's name, your building's name and your own name.
+2. A reply deadline. If the association agrees on one (for example, "by December 1"), add it to the sentence starting "We ask you to reply." A date viewers can check makes the request harder to ignore.
+3. A real example, if a resident agrees to be named. For instance, a missed medical appointment during the August outage. This would help most with the TV station.
+4. Any commitment the association is willing to make, such as posting management's reply beside this letter in the lobby.
+
+<final_document>
+**An Open Letter to [Management Company]**
+From the [Building Name] Tenants' Association
+November 16, 2026
+
+Our building has 112 apartments on nine floors. All of us share one elevator.
+
+So far this year, that elevator has been out of service on 41 days. One outage in August lasted 12 days in a row. For more than a month of this year, getting home meant climbing the stairs, as many as eight flights.
+
+For many of our neighbours, the stairs are not an option. Twenty-three residents are over 75, and six use wheelchairs or walkers. When the elevator stops, they cannot leave their homes. If they are already out, they cannot get back.
+
+We know the elevator passed its city inspection in September, and we are glad it is safe when it runs. But the certificate tells us nothing about how often it doesn't run. Our neighbours are not stuck indoors because the elevator is unsafe. They are stuck because it is so often out of service.
+
+In June, you told us a new controller part was on order and would arrive in six to eight weeks. That meant mid-August at the latest, which is the month the elevator was out for 12 days. It is now November, and we have been told the same thing again: six to eight weeks. Residents cannot plan around a date that keeps moving.
+
+**We ask you to reply in writing to all residents and answer three questions:**
+
+1. When was the controller part ordered, from whom, and what delivery date has the supplier confirmed?
+2. Until the repair is finished, how will residents who cannot use the stairs be helped during an outage?
+3. On the second elevator: what is the assessment behind the $400,000 estimate and the conclusion that it cannot be done in this building?
+
+That last question matters to most of this building. Seventy-four of our 112 households, two in every three, signed our petition asking for a second elevator. We are not asking you to ignore the cost. We are asking you to show residents how you reached your answer, so we can understand it and talk with you about what can be done.
+
+We would welcome a meeting with you to go through your reply. We want the same thing you do: a building where every resident can get to their own front door.
+
+Sincerely,
+
+[Name]
+Secretary, on behalf of the [Building Name] Tenants' Association
+</final_document>

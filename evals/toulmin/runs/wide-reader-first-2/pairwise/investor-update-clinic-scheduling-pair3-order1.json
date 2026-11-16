@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-39-35Z",
+  "without_skill_run": "2026-11-16T19-19-40Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "B commits to updates every quarter, names what it will measure next, and deals with runway and fundraising directly, which is what a lead investor who was ignored needs before trusting the founder again. A's '15% growth without the chain' reads as spin, and it makes no promise to keep updating."
+}

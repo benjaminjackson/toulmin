@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B makes the decision concrete for commissioners worried about traffic: a family that applies now waits until 2029, and saying no keeps the lot empty and the 412 households waiting. It also stays close to the facts, while A adds descriptions of the tenants that the brief doesn't support. Both are honest about the traffic impact and similar in tone, so the gap is small."
+}

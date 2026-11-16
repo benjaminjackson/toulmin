@@ -1,0 +1,25 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-35-53Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "That one loss is why revenue is flat.",
+      "why": "The brief reports that four customers were lost in total, not just the largest one, and does not provide the revenue figures for the other three lost customers or the nine added ones."
+    },
+    {
+      "quote": "MRR from every other customer went from $35,500 to $41,000 this quarter, about 15%.",
+      "why": "This calculation assumes the other three lost customers paid $0, whereas the brief gives no information on how much revenue was lost from those other three customers."
+    },
+    {
+      "quote": "Records-system vendors are building their own schedulers, and a large chain will often take the one that comes bundled.",
+      "why": "The brief only states that one specific customer moved to the scheduler built into their electronic records system, not a broader trend among vendors or large chains."
+    },
+    {
+      "quote": "Clinics can get it without switching schedulers. That includes clinics using the scheduler in their records system, like the customer we just lost.",
+      "why": "The brief only states they will sell the reminder feature on its own, without mentioning whether it is technically compatible with third-party or electronic records-system schedulers."
+    }
+  ],
+  "invented_count": 4
+}

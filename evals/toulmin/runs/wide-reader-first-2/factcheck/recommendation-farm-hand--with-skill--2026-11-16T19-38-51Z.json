@@ -1,0 +1,37 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-38-51Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Nobody else on the farm is awake at that hour.",
+      "why": "The brief says Tomás runs the 3 a.m. shift on his own, not that nobody else on the farm is awake."
+    },
+    {
+      "quote": "He is responsible for the herd, the equipment and whatever goes wrong, and he handles it.",
+      "why": "The brief only says he runs the 3 a.m. milking shift on his own, without specifying responsibility for equipment or handling whatever goes wrong."
+    },
+    {
+      "quote": "it was Tomás who spotted those cases, not the vet or me.",
+      "why": "The brief states that Tomás caught the nine cases early, not that the vet and manager failed to spot them."
+    },
+    {
+      "quote": "He reads the data, compares it with what he sees in the barn, and acts on it.",
+      "why": "The brief only says he learned the herd management software and flags sick cows, not how he compares data with observations in the barn."
+    },
+    {
+      "quote": "Last summer his father became seriously ill in Mexico, and Tomás went home for five weeks to be with him.",
+      "why": "The brief says his father got sick in Mexico, not that the illness was serious or that Mexico is Tomás's home."
+    },
+    {
+      "quote": "His spoken English is good, and he communicates clearly with me, the crew and our vet.",
+      "why": "The brief only says his written English is weaker than his spoken English, not that his spoken English is good or that he communicates clearly with the manager, crew, and vet."
+    },
+    {
+      "quote": "In my experience, when Tomás sees a gap in what he knows, he goes and fills it. He did that with our software",
+      "why": "The brief says he learned the software, not that he took the initiative to learn it on his own because he saw a gap in his knowledge."
+    }
+  ],
+  "invented_count": 7
+}

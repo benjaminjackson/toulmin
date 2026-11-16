@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a wary backer I'd trust B more: it shows the factory quote, the shipping cost and the number of backers needed instead of A's unfilled placeholder, and it still describes the 23 ratings honestly. Neither document overclaims, but only B lets me check the math, though it calls the $9 shipping figure a real quote when it's an estimate."
+}

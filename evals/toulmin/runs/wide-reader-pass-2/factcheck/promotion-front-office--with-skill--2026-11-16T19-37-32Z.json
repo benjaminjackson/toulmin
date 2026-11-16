@@ -1,0 +1,21 @@
+{
+  "task": "promotion-front-office",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-37-32Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The year before I became assistant manager, we trained 9 new hires for 9 shifts each, which is about 81 training shifts.",
+      "why": "The brief gives turnover as 9 of 14 people leaving and the old training length as 9 shifts, but it does not state how many new hires were actually hired and trained that year."
+    },
+    {
+      "quote": "At last year's turnover with the new training, it comes to about 25.",
+      "why": "The brief does not state how many people were hired last year or when the new 5-shift training was introduced."
+    },
+    {
+      "quote": "I've already brought both down.",
+      "why": "The brief states that turnover was lower last year than in the year before the applicant became assistant manager, not that the applicant caused the reduction in turnover."
+    }
+  ],
+  "invented_count": 3
+}

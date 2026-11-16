@@ -1,0 +1,25 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-39-44Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "connecting it to what he sees in the barn",
+      "why": "The brief states that he learned the herd management software and flags sick cows for the vet, not that he connects data to visual observations in the barn."
+    },
+    {
+      "quote": "and he went home to be with him.",
+      "why": "The brief states that he left when his father got sick in Mexico, not that Mexico is Tomás's home or that he went there to be with his father."
+    },
+    {
+      "quote": "His spoken English is strong.",
+      "why": "The brief only states that his written English is weaker than his spoken English, not that his spoken English is strong."
+    },
+    {
+      "quote": "He learned a software system he had never used and now catches problems with it that others miss.",
+      "why": "The brief says he learned the herd management software and caught nine cases of mastitis early, not that he had never used the system before or that he catches problems others miss."
+    }
+  ],
+  "invented_count": 4
+}

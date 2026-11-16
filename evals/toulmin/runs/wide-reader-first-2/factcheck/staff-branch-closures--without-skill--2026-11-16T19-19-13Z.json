@@ -1,0 +1,25 @@
+{
+  "task": "staff-branch-closures",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-19-13Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Over the same period, phone and chat contacts across the credit union rose 60%.",
+      "why": "The brief does not specify that the 60% increase in phone and chat contacts occurred over the same three-year period as the drop in branch visits."
+    },
+    {
+      "quote": "Before then, you'll each have a one-on-one conversation to go through the details and answer your questions.",
+      "why": "The brief does not mention that affected staff will have individual one-on-one meetings."
+    },
+    {
+      "quote": "Closing a branch means leaving a place where many of you have built relationships with members over years.",
+      "why": "The brief gives no information about the tenure of the staff at the closing branches or their history of building relationships with members over years."
+    },
+    {
+      "quote": "I'll be holding an open Q&A on [date/time/location or link].",
+      "why": "The brief does not say that the COO will hold an open Q&A session."
+    }
+  ],
+  "invented_count": 4
+}

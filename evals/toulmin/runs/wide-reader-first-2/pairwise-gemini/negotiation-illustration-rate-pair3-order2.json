@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-38-11Z",
+  "without_skill_run": "2026-11-16T19-18-58Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both emails wisely omit the false claim that every other publisher pays at least $12,000, and both make a warm, reasonable case for the $11,500 fee. Document A is slightly more effective because it jumps straight to our shared sales success rather than pointing out that the workload hasn't changed, and it includes helpful placeholders for the specific book and state reading list."
+}

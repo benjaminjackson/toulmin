@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-39-32Z",
+  "without_skill_run": "2026-11-16T19-19-13Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A immediately gives us the exact details of how this impacts our jobs and severance before getting into the business justifications, which is what we urgently want to know after two weeks of rumors. It also specifically validates our preference for face-to-face work and 9-to-5 hours, while staying completely honest to the facts without inventing extra meetings or HR contacts like Document B does."
+}

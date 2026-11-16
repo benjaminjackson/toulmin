@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-37-18Z",
+  "without_skill_run": "2026-11-16T19-18-48Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B builds immediate trust in a contentious room by upfront disclosing the speaker's membership in the church, whereas Document A hides that affiliation and makes the speaker look disingenuous to neighbors who likely already know them. Document B also uses the facts in the brief to make a sharp, concrete point—noting that 64 units covers 'about one in six' of the households on the waiting list—without resorting to the emotional extrapolations found in Document A."
+}

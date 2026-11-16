@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters stick to the facts in the brief and make the same case, but A sounds warmer. It names the specific reading-list title and presents $11,500 as the low end of the range because she values working with us. B's $2,250-a-month calculation reads a little like a guilt appeal, though its 'below what I was paid elsewhere' anchor is effective."
+}

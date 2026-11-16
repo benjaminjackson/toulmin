@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "I had to chase this food bank's last report for four months. Document A admits that and commits to quarterly updates with monthly tracking figures, which gives me a concrete reason to trust them again. Document B admits the late report up front but offers no fix, though both stay honest about the fresh-food gain instead of claiming it will double."
+}

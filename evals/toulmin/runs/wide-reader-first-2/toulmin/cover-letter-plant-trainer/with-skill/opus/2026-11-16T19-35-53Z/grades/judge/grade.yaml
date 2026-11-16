@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:36:46.124715+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 317
+  tags: []
+  notes: extracted 317 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 4
+    objections: 6
+    fit: 9
+  details:
+    agree: The safety program and the adult-training work speak to what a plant cares
+      about, but a skeptical screener sees the admitted GMP and LMS gaps with no plan
+      to close them, so a phone screen is plausible but not secured.
+    honest: 'It wisely leaves out the unsupported claim about halving new-hire training
+      time and reports the numbers accurately, but it adds a few things the brief
+      doesn''t support: the method behind the pass-rate gain (finding where students
+      got lost) and enforcing the procedures ''every class period''.'
+    works_the_facts: Turning 41% to 58% into a 17-point, roughly 40% relative gain
+      is correct and well chosen, but it misses easy totals like roughly 1,000 student-years
+      without a serious injury since 2019 or about 18 new teachers trained.
+    right_comparison: The pass-rate trend is shown against its starting point, but
+      the letter never sets the candidate against the real alternative (a hire who
+      already has GMP experience) or explains why transferable skill might outweigh
+      it.
+    qualification: The gaps are stated plainly, but there is no checkable commitment,
+      such as finishing a GMP course or getting up to speed on the LMS by a set date,
+      that would turn the admission into something the reader can verify.
+    objections: It meets the 'teachers don't know regulated work' doubt by framing
+      the work as exact procedure-following with real safety stakes and training adults,
+      but it raises the gaps without answering them, for example by pointing out that
+      moving from Google Classroom to another platform is a small step.
+    fit: It is a properly formatted, one-page cover letter in a plain professional
+      voice, as the brief asked.

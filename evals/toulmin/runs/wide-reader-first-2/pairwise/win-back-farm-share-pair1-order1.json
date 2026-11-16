@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-farm-share",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "The two emails apologize in almost the same words and list the same changes. B's subject line, \"We let you down last summer,\" and its \"I understand why\" admit the failure before I've even opened the email, which matters to someone who felt the farm went quiet. A's subject line sounds vaguer."
+}

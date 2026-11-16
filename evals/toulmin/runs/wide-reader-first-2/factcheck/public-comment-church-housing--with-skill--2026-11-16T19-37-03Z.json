@@ -1,0 +1,33 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-37-03Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I drive through that intersection.",
+      "why": "The brief states the speaker lives on Alder Road, two blocks from the church, but does not state whether the speaker drives or uses the intersection at Alder and 4th."
+    },
+    {
+      "quote": "I'll be one of the people waiting a little longer at that light.",
+      "why": "The brief does not mention that the intersection at Alder and 4th has a traffic light, nor that the speaker waits at it."
+    },
+    {
+      "quote": "The lot is 1.8 acres of asphalt.",
+      "why": "The brief says it is a 1.8-acre parking lot, but does not specify that it is paved with asphalt rather than concrete, gravel, or another surface."
+    },
+    {
+      "quote": "Nothing gets torn down.",
+      "why": "The brief states the apartments would be built on a back parking lot, but does not state whether any existing structures, sheds, or features on the lot would need to be torn down."
+    },
+    {
+      "quote": "I know some of my neighbors are worried about cars parked up and down our street.",
+      "why": "The brief gives the number of planned parking spaces, but says nothing about neighbors or their concerns about street parking."
+    },
+    {
+      "quote": "On one side, I wait a bit longer at a light at rush hour.",
+      "why": "The brief does not state that the intersection has a traffic light or that the speaker travels through it at rush hour."
+    }
+  ],
+  "invented_count": 6
+}

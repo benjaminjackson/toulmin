@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T19:40:58.735884+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 348
+  tags: []
+  notes: extracted 348 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 8
+    right_comparison: 6
+    qualification: 6
+    objections: 8
+    fit: 8
+  details:
+    agree: The ask is small and cheap (one posted date). The repeated 'six to eight
+      weeks' promise from June undercuts her view that the outages were handled well,
+      though a resistant manager could still post a date without making the repair
+      any faster.
+    honest: "Every figure is traceable to the brief or simple arithmetic from it (74/112\
+      \ \u2248 two in three, 41 days \u2248 one in eight by mid-November, June to\
+      \ now \u2248 five months), and claims about the elderly residents stay within\
+      \ what the facts carry."
+    works_the_facts: "Turns raw counts into telling forms (one day in eight, two of\
+      \ every three households, five months of the same promise). It could have gone\
+      \ further, for example the share of households affected or what another 6\u2013\
+      8 weeks of outages at this rate would mean."
+    right_comparison: The letter sets the status quo against a firm date and notes
+      that a single elevator makes reliability more important. It doesn't project
+      what continued outages at the current pace would mean before the part arrives,
+      so the trend is implied rather than shown.
+    qualification: The request carries a checkable condition (if the date changes,
+      post the new date and the reason), and the certificate concession is precisely
+      bounded. But the letter sets no deadline for management's reply and says nothing
+      about what happens if management doesn't respond.
+    objections: It anticipates and answers management's likely defences (the passing
+      certificate, the part on order, the $400,000 cost) and quietly rebuts 'a few
+      loud people' with 74 of 112 households, without raising objections the facts
+      already settle.
+    fit: It's a clear open letter of roughly 380 words, suited both to a lobby notice
+      and to a TV station, with a short, plainly stated ask.

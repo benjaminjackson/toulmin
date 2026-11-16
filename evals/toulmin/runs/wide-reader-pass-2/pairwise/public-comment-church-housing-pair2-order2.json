@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-37-18Z",
+  "without_skill_run": "2026-11-16T19-18-48Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B says up front that the speaker belongs to the church, which a skeptical room will trust, and it stays within the facts. A claims residents will park on the site and not on our street, and that the delay is 'a few extra seconds'; the brief supports neither. Both speeches face the Alder Road traffic concern head-on, but B is more credible to a room that opposes the project."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-39-44Z",
+  "without_skill_run": "2026-11-16T19-19-09Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is more persuasive, authentic, and sticks strictly to the facts in the brief, while Document B invents details (like claiming he taught himself the software without being told to) and needlessly explains basic dairy farming concepts to an agricultural admissions committee. Document A also leads with his technical aptitude and connects his written English directly to what I will see in his application packet."
+}

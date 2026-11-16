@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:39:52.994409+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 183
+  tags: []
+  notes: extracted 183 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 5
+    objections: 6
+    fit: 9
+  details:
+    agree: The plain admission that they paid for about three weeks of food they didn't
+      get, and that the farm went quiet, will disarm this household; the concrete
+      changes and unchanged price give them a real reason to come back, though nothing
+      says what would happen with refunds or updates if a storm hit again.
+    honest: Every claim matches the brief, the three-weeks figure is correctly worked
+      out from six weeks at half, and the email never claims the nets or the new field
+      guarantee against loss.
+    works_the_facts: It works out the shortfall as about three weeks and pairs the
+      $31,000 spent with an unchanged price, but it never puts the loss in dollars
+      (about $74), which this reader would recognise at once.
+    right_comparison: The email sets this season against last season's failure, but
+      it doesn't describe what the household gives up by not signing up, beyond the
+      closing date and the 52 shares left.
+    qualification: The email makes no claim that needs hedging; it lists the changes
+      without promising they will prevent losses, and the only condition, the deadline,
+      is already concrete.
+    objections: 'It meets the complaints about going silent and giving no credit,
+      and it invites a reply, but the reader''s real worry about what happens next
+      time crops fail gets only part of an answer: pause credit doesn''t cover crop
+      loss, and nothing is said about better communication.'
+    fit: It's a short, plain email under 200 words with a clear subject line, a deadline
+      and a call to action, as the brief asked.

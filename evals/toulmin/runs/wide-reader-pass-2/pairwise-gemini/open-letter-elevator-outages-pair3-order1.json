@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-39-22Z",
+  "without_skill_run": "2026-11-16T19-19-08Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is much harder for me to brush off because it explicitly translates the petition signatures into \"two households in every three,\" dismantling my assumption that this is just a few loudmouths, and its three focused demands feel far more reasonable than Document B's micromanaging list. Furthermore, Document A sticks strictly to the facts, whereas Document B makes up claims about previous private requests and emergency safety hazards."
+}

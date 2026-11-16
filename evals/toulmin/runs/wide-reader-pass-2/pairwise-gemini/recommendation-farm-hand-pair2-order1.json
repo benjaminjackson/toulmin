@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-37-39Z",
+  "without_skill_run": "2026-11-16T19-18-37Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters are very similar in structure, tone, and how they handle the facts, including the minor exaggeration that Tomás learned the software on his own initiative. Document B is slightly more effective because it highlights his combination of stockmanship and technical comfort, and the phrasing feels just a bit more natural for a farm manager."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-37-01Z",
+  "without_skill_run": "2026-11-16T19-18-40Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "After two weeks of nervous rumours, Document A immediately gives me all the facts I need about my pay, hours, and severance right at the top, and it speaks directly to us rather than talking about us in the third person like Document B does. Crucially, Document A stays completely honest to the facts without inventing unauthorized promises about flexible scheduling or extra meetings."
+}

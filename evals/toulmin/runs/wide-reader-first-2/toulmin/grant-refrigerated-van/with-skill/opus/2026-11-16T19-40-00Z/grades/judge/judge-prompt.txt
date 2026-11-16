@@ -1,0 +1,66 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+Marisol Ortega, the program officer at the county community foundation, who reads the application first and recommends yes or no to the grants committee. She funded this food bank's shelving in 2023 and had to chase its final report for four months.
+</reader>
+
+<brief>
+I need help with the narrative section of a grant application. I'm the director of a volunteer-run food bank in a town of about 9,000 people, and we're applying to our county community foundation for a refrigerated van.
+
+What I have:
+- We hand out about 38,000 pounds of food a month to 610 households. About 6,000 pounds of that is fresh produce, milk and eggs.
+- Last summer, local farms offered us roughly 9,000 pounds of produce over three months that we had to turn down because we had no way to pick it up cold or store it.
+- The van costs $68,000. We're asking the foundation for $50,000 and covering the other $18,000 from our reserves, which would leave us with $11,000.
+- We have 23 regular volunteers. Four of them have said they would drive the van on a weekly schedule.
+- The foundation gave us $12,000 for shelving in 2023. Our final report on that grant was four months late.
+
+I want the narrative to say the van will let us double the amount of fresh food we hand out in the first year. The narrative is limited to 500 words.
+</brief>
+
+
+
+<document>
+**Project Narrative: Refrigerated Van**
+
+In 2023 the Foundation granted us $12,000 for shelving. Our final report on that grant reached you four months late. You were entitled to it on time, and we understand that you will weigh it as you read this request.
+
+**The need**
+
+Our food bank is run entirely by volunteers and serves a town of about 9,000 people. Each month we distribute about 38,000 pounds of food to 610 households. About 6,000 pounds of that is fresh produce, milk and eggs. That works out to roughly 10 pounds of fresh food per household each month, and less than a sixth of everything we hand out.
+
+The fresh food is not limited by supply. Last summer, local farms offered us about 9,000 pounds of produce over three months. We turned it all down because we had no way to collect it and keep it cold. It was grown in this county and offered free, and it never reached the families who rely on us.
+
+**What the van changes**
+
+A refrigerated van lets us collect farm produce and other perishable donations without them spoiling on the way. If we had owned one last summer, the produce we turned away would have increased our fresh-food distribution by half in each of those three months. We would have gone from about 6,000 pounds a month to about 9,000, or about 15 pounds per household instead of 10.
+
+Our goal for the van's first summer is to accept the farm produce we are offered instead of refusing it. We will measure our results against the 9,000 pounds we had to turn away last year and report them to the Foundation.
+
+If we cannot buy the van, nothing about last summer changes. The farms will offer, and we will have to say no again.
+
+**Who will drive it**
+
+We have 23 regular volunteers. Four of them have committed to driving the van on a weekly schedule, so pickups will not depend on any one person.
+
+**The cost and our share**
+
+The van costs $68,000. We are asking the Foundation for $50,000. We will pay the remaining $18,000 from our own reserves. That is more than a quarter of the purchase price and most of the savings we hold. After the purchase, our reserves will be $11,000. We are making that commitment because cold transport is the one thing standing between local farm produce and the 610 households we serve.
+
+**Our request**
+
+We respectfully ask the Foundation for $50,000 toward the purchase of a refrigerated van. We would be glad to answer any questions or provide more detail on any part of this request.
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

@@ -1,0 +1,21 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-18-37Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "What sets him apart is that he has gone beyond the work he was hired to do.",
+      "why": "The brief does not state what specific work Tomás was originally hired to do or whether his current duties go beyond his original job description."
+    },
+    {
+      "quote": "He learned our herd management software on his own initiative",
+      "why": "The brief states that he learned the software, but does not say whether he did so on his own initiative or was required and trained to do so by the farm."
+    },
+    {
+      "quote": "he found those cases by paying attention to the data and to the animals.",
+      "why": "The brief does not specify how he detected the nine mastitis cases, whether solely through the software data, by observing the animals directly, or both."
+    }
+  ],
+  "invented_count": 3
+}

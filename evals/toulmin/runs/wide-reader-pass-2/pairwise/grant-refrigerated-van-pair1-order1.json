@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Both stay honest and drop the 'double' claim, but B speaks to my real worry: after chasing the 2023 shelving report for four months, I want to see quarterly updates with monthly tracking figures, and B commits to them. A only admits the report was late and offers nothing to keep it from happening again."
+}

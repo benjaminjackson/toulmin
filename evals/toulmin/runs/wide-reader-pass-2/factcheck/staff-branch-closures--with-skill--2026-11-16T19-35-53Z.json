@@ -1,0 +1,17 @@
+{
+  "task": "staff-branch-closures",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-35-53Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Over the same period, phone and chat contacts across the credit union rose 60%.",
+      "why": "The brief does not specify the time period over which phone and chat contacts rose 60%, only stating the three-year timeframe for the drop in branch visits."
+    },
+    {
+      "quote": "instead of the 40 our branches are open",
+      "why": "The brief states that the two closing branches were open 9 to 5, not whether they were only open on weekdays (which would be required to calculate 40 hours a week) or what the hours are for the credit union's other branches."
+    }
+  ],
+  "invented_count": 2
+}

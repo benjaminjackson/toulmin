@@ -1,0 +1,38 @@
+task:
+  name: open-letter-elevator-outages
+  type: open-letter
+  set: tune
+  reader: The regional manager of the property management company, who will read the
+    letter and decide what to do about the elevator. She believes the company has
+    handled the outages well and that the tenants' association is a few loud people.
+  prompt: 'I need help with an open letter from our tenants'' association to our property
+    management company. We plan to post it in the lobby and send it to the local TV
+    station. I''m the association''s secretary.
+
+
+    Facts:
+
+    - Our building has 9 stories, 112 apartments and one elevator.
+
+    - The elevator was out of service on 41 days this year, including one stretch
+    of 12 days in August.
+
+    - 23 of our residents are over 75, and 6 use wheelchairs or walkers.
+
+    - The management company says a new controller part is on order and should arrive
+    in 6 to 8 weeks. They said the same thing in June.
+
+    - The city inspected the elevator in September and gave it a passing certificate.
+
+    - 74 households signed our petition asking for a second elevator. Management says
+    that would cost about $400,000 and can''t be done in this building.
+
+
+    About 400 words.'
+config:
+  name: with-skill
+  runner: /Users/ben/github/toulmin/evals/toulmin/run-with-skill
+  model: opus
+started: '2026-11-16T19:35:53.041287+00:00'
+duration_seconds: 52.38
+exit_code: 0

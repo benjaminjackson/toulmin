@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:40:04.909686+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 415
+  tags: []
+  notes: extracted 415 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 5
+    honest: 6
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 2
+    objections: 4
+    fit: 8
+  details:
+    agree: The case for the van is clear and well grounded, but Marisol, who had to
+      chase the last report for four months, gets only an apology and no concrete
+      reporting plan, so she has little reason to recommend yes.
+    honest: It correctly drops the unsupported 'double' claim and its percentages
+      are accurate, but 'five more pounds every month', 'accept every offer' and the
+      closing '6,000 when they could have had 9,000' stretch a three-month summer
+      figure into a year-round one.
+    works_the_facts: 'It works out sound figures from the brief: 3,000 extra pounds
+      a month, a 50% rise, about 5 pounds per household, 26% of the cost and 62% of
+      reserves, though the per-household figure only covers the summer months and
+      is not labelled that way.'
+    right_comparison: The 'if not funded' section describes the status quo accurately
+      as continued refusals of produce, but it implies a gap of 3,000 pounds every
+      month when the facts only show one for three summer months.
+    qualification: There is no checkable commitment anywhere, such as a reporting
+      date, a target in pounds by a set month, or a consequence if a target is missed,
+      and the reporting promise is only 'we owe the Foundation better'.
+    objections: It names the late report but doesn't answer it with a schedule or
+      a named person responsible, and it leaves the obvious questions about running
+      costs (fuel, insurance, maintenance) on $11,000 of reserves, and about relying
+      on four drivers, unaddressed.
+    fit: It is a narrative under 500 words with sensible headings, which is the form
+      the brief asked for.

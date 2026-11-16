@@ -1,0 +1,37 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-19-40Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Q3 update",
+      "why": "The brief states that this is a quarterly update, but it does not specify that it is for Q3."
+    },
+    {
+      "quote": "This is the biggest competitive risk we face: a \"good enough\" scheduler bundled with software the clinic already pays for.",
+      "why": "The brief does not mention whether the electronic records system's scheduler is bundled for free with software the clinic already pays for, nor does it state that this is the company's biggest competitive risk."
+    },
+    {
+      "quote": "It's also the clearest proof we have that we deliver something the bundled schedulers don't.",
+      "why": "The brief does not state whether competing schedulers lack automatic text reminders or achieve worse no-show rates."
+    },
+    {
+      "quote": "A clinic doesn't have to give up its existing scheduler to buy it, including the scheduler in its records system, which is the one we just lost a customer to.",
+      "why": "The brief only says they will sell the reminder feature on its own, without stating the reasons for doing so or confirming that it integrates with third-party or electronic records schedulers."
+    },
+    {
+      "quote": "Next quarter's update will report how many clinics bought reminders on their own, how long those deals took to close, and whether any of them went on to buy the full scheduler.",
+      "why": "The brief does not specify what metrics will be tracked or reported in the next quarterly update, or that standalone buyers can upgrade to the full scheduler."
+    },
+    {
+      "quote": "At 11 months of runway, the early results from the reminder product will shape our next decisions on spending and fundraising.",
+      "why": "The brief makes no mention of future spending decisions or fundraising plans."
+    },
+    {
+      "quote": "Introductions to PT clinic owners or operators, especially groups of 3 to 15 clinics.",
+      "why": "The brief does not mention asking investors for introductions or targeting clinic groups of 3 to 15 clinics."
+    }
+  ],
+  "invented_count": 7
+}

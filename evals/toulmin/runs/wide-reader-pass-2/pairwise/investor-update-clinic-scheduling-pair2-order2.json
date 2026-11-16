@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-37-39Z",
+  "without_skill_run": "2026-11-16T19-18-51Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A still contains unfilled placeholders (\"[Company]\", \"[Your plan: ...]\", \"[Any other specific ask.]\"). To an investor already annoyed about missed updates, that looks careless, and it leaves the runway plan blank. B is complete and honest, shows the rest of the business grew about 15%, and ties the standalone reminder product directly to the churn threat."
+}

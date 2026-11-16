@@ -1,0 +1,39 @@
+task:
+  name: negotiation-illustration-rate
+  type: negotiation-email
+  set: tune
+  reader: The managing editor at a children's book publisher who has worked with this
+    illustrator for four years and likes her work. The editor has a $9,000 illustration
+    budget per picture book and a newer illustrator on the publisher's list who would
+    do the next book for $8,000. The editor decides whether to offer more.
+  prompt: 'I need to write an email asking for a higher fee. I''m a freelance illustrator
+    and I''ve done 6 picture books for a children''s publisher over the last 4 years.
+    They just offered me their next book at the same fee as always.
+
+
+    Facts:
+
+    - They pay me $9,000 per book: 32 pages, about 14 full spreads. I''ve been at
+    $9,000 since my first book with them.
+
+    - Each book takes me about 4 months.
+
+    - Two of my books with them have sold over 20,000 copies. One of those was on
+    a state reading list.
+
+    - Another publisher paid me $12,500 last year for a book of the same length.
+
+    - My agent says $11,000 to $13,000 is normal for an illustrator with my record.
+
+    - I''d like $11,500 for this book.
+
+
+    I want to tell them every other publisher pays at least $12,000 for this kind
+    of book. Keep it under 250 words.'
+config:
+  name: with-skill
+  runner: /Users/ben/github/toulmin/evals/toulmin/run-with-skill
+  model: opus
+started: '2026-11-16T19:36:41.429034+00:00'
+duration_seconds: 49.54
+exit_code: 0

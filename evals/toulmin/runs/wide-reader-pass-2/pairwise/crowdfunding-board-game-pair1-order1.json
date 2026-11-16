@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A spells out the real costs: a $17,400 factory quote for 1,500 copies, about $9 shipping per copy, and a goal that needs 572 backers. It also says plainly that no game is a hit before it's in a box, and that honesty is what a wary backer who has been burned before wants. B is more atmospheric, but it leaves placeholders exactly where the cost breakdown should be, so its promise of transparency feels empty."
+}

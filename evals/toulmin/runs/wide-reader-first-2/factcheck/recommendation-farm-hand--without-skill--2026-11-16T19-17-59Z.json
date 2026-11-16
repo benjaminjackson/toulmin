@@ -1,0 +1,29 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-17-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "That shift has no supervisor on site.",
+      "why": "The brief says Tomás runs the 3 a.m. milking shift on his own, not that there is no supervisor on site."
+    },
+    {
+      "quote": "until the rest of the crew arrives.",
+      "why": "The brief does not mention when or if another crew arrives."
+    },
+    {
+      "quote": "He has also grown well beyond the work he was hired to do.",
+      "why": "The brief does not state what duties Tomás was originally hired to perform."
+    },
+    {
+      "quote": "On his own initiative, Tomás learned our herd management software",
+      "why": "The brief states that he learned the software, not that he did so on his own initiative rather than being trained or asked to learn it."
+    },
+    {
+      "quote": "Tomás communicates clearly and confidently in spoken English.",
+      "why": "The brief only says his written English is weaker than his spoken English, not that his spoken English is clear and confident."
+    }
+  ],
+  "invented_count": 5
+}

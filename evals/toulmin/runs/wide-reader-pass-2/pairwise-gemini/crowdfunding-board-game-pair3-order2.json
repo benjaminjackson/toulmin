@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-40-23Z",
+  "without_skill_run": "2026-11-16T19-19-25Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins me over because it lays out the exact manufacturing and shipping math instead of asking for blind trust, proving that this first-time creator has a realistic financial buffer to actually deliver the game. Document A hides those critical numbers and even brings up red-flag distractions like stretch goals."
+}

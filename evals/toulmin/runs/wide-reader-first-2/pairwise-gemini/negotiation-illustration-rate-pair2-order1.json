@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-36-36Z",
+  "without_skill_run": "2026-11-16T19-18-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both emails wisely leave out the untrue claim about what every other publisher pays, though Document B adds a small detail not in the brief ('full-time work'). Document A is slightly more persuasive to me as an editor because it explicitly points out that $11,500 is $1,000 less than her recent fee elsewhere, making it feel like a genuine loyalty discount worth stretching my budget for rather than switching to the cheaper new illustrator."
+}

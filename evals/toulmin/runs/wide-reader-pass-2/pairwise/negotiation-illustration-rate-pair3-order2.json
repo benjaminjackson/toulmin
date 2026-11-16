@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-38-24Z",
+  "without_skill_run": "2026-11-16T19-18-58Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both are honest and make the same case, but B's note that my rate has gone up elsewhere, its specific scope (14 spreads, four months) and its warm relationship opener make the $11,500 ask a bit easier to justify against my budget. A's 'what we've built together' framing is nearly as effective."
+}

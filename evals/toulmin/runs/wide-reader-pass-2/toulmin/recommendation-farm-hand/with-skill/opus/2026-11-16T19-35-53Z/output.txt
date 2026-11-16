@@ -1,0 +1,39 @@
+I wrote the letter for the admissions committee, which has to judge two things: whether Tomás will finish a two-year program, and whether he has an aptitude for the technical side of farming. So the letter opens with his reliability and his work with the herd software. The two things a careful reader might worry about come later, briefly, each placed next to what offsets it.
+
+- **I mentioned the five weeks away.** The letter says he has missed two shifts in three years. That figure leaves out the five weeks, so if the committee learned about them later, it would look misleading. Described as a family emergency he came back from, it's simply honest. I left out that he gave you only two days' notice. That's for you to weigh as his employer, and it doesn't bear on whether he's ready for school. Add it back if you see it differently.
+- **I mentioned his written English.** The committee will probably see it in his application anyway. It reads better coming from you along with the night class than for them to find it on their own.
+- **I didn't add any facts you didn't give me.** For example, I didn't claim he learned the software without being asked. The one general point I added is that mastitis is easier to treat when caught early, so the committee understands why the nine cases matter.
+
+Two things you could add that would make the letter stronger, if they're true:
+- One sentence saying you'd hire him back or keep a place for him after the program.
+- Any other responsibility he's taken on, such as training other workers.
+
+Before you send it, fill in the bracketed items: date, farm name, college name, his last name, and your details.
+
+<final_document>
+[Date]
+
+Admissions Committee
+Agricultural Technology Program
+[State Technical College]
+
+Re: Tomás [Last Name]
+
+Dear Admissions Committee,
+
+I manage [Farm Name], a 400-cow dairy farm. Tomás has worked for us for three years, since he was 19, and I have supervised him the whole time. I recommend him for your agricultural technology program. On a working farm, he is already doing the kind of work your program teaches.
+
+Tomás runs our 3 a.m. milking shift on his own, five days a week. Nobody else is in the barn at that hour, so the milking gets done because he shows up. Apart from one family emergency, which I describe below, he has missed two shifts in three years.
+
+What sets him apart is how he has taken to the technology side of the job. He learned our herd management software and now uses it to flag sick cows for our veterinarian. Last winter he caught nine cases of mastitis early. Mastitis caught early is easier to treat and costs less in lost milk, so that work has real value to our farm. I believe your program can build on this. He knows the animals, and he has shown he can use data to decide when a cow needs attention.
+
+There are two things you should know. First, last summer his father became seriously ill in Mexico, and Tomás was away for five weeks to be with him. He came back afterward, and he still runs that 3 a.m. shift today. Second, his written English is not yet as strong as his spoken English. He knows this and is taking a night class to improve it.
+
+For three years Tomás has kept a 3 a.m. shift and learned new tools on the job. I am confident he will do well in a two-year program. I would be glad to answer any questions you have about him.
+
+Sincerely,
+
+[Your Name]
+Farm Manager, [Farm Name]
+[Phone] | [Email]
+</final_document>

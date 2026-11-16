@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-37-01Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B sounds like it understands my salon: it mentions booth rent, tips and commission, and it points out that salons are usually closed Sundays and Mondays too. That makes paying $199 a month instead of my cousin's $600 a year feel more worth a call. Still, its \"almost always\" for 3 missed deadlines and its \"no add-on fees\" claim stretch the facts a little, so it is only slightly ahead of A."
+}

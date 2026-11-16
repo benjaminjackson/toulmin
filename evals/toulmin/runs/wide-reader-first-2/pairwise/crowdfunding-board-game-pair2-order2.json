@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-36-55Z",
+  "without_skill_run": "2026-11-16T19-18-43Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B wins clearly. Its full budget math (about $11.60 a copy to make, roughly 572 backers needed) and its plain admission that 23 ratings isn't a big number earn the trust of a backer who has already been burned. A loses credibility with 'hundreds of tables' when the real figure is 140 sessions, and it reads unfinished with placeholder brackets left in, even though it does have a risks section and B doesn't."
+}

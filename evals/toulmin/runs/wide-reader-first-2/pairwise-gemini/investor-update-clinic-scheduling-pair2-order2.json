@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-37-27Z",
+  "without_skill_run": "2026-11-16T19-18-51Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A connects the strategic dots between the largest customer churning to a bundled EMR scheduler and the decision to unbundle the reminder feature, showing the founder is facing the existential market threat head-on rather than treating it as a fluke. It also earns back my trust by proactively addressing the 11-month runway and committing to specific metrics for the next update."
+}

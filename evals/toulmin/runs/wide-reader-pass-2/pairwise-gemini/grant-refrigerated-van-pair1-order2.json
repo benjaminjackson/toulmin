@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both documents smartly correct the math to promise a realistic 50% summer increase rather than an unsupported doubling of annual fresh food, while Document B stays completely honest to the facts in the brief without inventing new reporting promises. By simply owning the past late report up front and laying out the per-household math clearly, Document B gives me the straightforward, grounded case I need to take to the committee."
+}

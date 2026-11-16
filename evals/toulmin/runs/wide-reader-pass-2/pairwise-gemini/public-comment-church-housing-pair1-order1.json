@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both speeches effectively address the traffic concern upfront using the speaker's credibility as a 19-year resident of Alder Road. Document A edges out Document B because it sticks strictly to the verifiable facts and frames the final decision starkly for the commissioners, whereas Document B adds slight speculation about the demographics of the waiting list."
+}

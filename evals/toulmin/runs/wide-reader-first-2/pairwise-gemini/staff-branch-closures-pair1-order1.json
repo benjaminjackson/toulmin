@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "After two weeks of rumors, Document A immediately answers what happens to our jobs, pay, and hours at the very top, whereas Document B makes us read through corporate metrics first. Document A also feels much more honest and respectful about how hard it is to leave our branches and take on rotating evening shifts, while Document B invents HR meetings and deadlines not in the facts."
+}

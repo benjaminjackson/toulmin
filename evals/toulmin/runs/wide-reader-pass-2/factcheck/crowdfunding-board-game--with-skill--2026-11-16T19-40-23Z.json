@@ -1,0 +1,8 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-40-23Z",
+  "checker": "gemini-4-argon",
+  "invented": [],
+  "invented_count": 0
+}

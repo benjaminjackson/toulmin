@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Both documents are honest: neither claims the van will double fresh food, and both put the expected gain correctly at about 3,000 more pounds a month in summer, or roughly 12% over the year. A admits the late report but only apologizes, while B commits to a quarterly update with monthly figures, which is the concrete fix I'd want after chasing their last report for four months."
+}

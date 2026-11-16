@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-39-46Z",
+  "without_skill_run": "2026-11-16T19-19-40Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "A commits to sending an update every quarter from now on and says exactly what next quarter will measure: reminder-only sales, how long deals take to close, and whether those clinics go on to buy the full scheduler. It also asks for specific help, which rebuilds the trust I'd lost. B's 'up about 15% if you leave the chain out' reads as spin, coming from a founder who already went quiet on me for two quarters."
+}

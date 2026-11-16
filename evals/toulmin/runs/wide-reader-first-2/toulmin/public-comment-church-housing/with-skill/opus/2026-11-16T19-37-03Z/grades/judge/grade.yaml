@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:39:06.997960+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 325
+  tags: []
+  notes: extracted 325 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 7
+    objections: 7
+    fit: 9
+  details:
+    agree: Starting with traffic and speaking as a neighbour two blocks away gives
+      the two traffic-focused commissioners a reason to listen, but calling a C-to-D
+      drop 'waiting a bit longer at a light' may come across as brushing off their
+      main concern, and most opposed neighbours will not be moved.
+    honest: All the numbers match the brief, 'nearly one in six' is a fair rounding
+      of 64/412, and 'nothing gets torn down, no one gets moved out' follows reasonably
+      from the land being a parking lot, though 'a little longer' softens a rush-hour
+      rating drop that the speaker can't put a size on.
+    works_the_facts: It works out the share of the waiting list (about one in six)
+      and the parking ratio (over one space per unit), and it wisely leaves out the
+      weaker 64-of-2,100 figure, but it doesn't reframe the 310 trips per day, which
+      is roughly 5 per unit, spread across the whole day.
+    right_comparison: It fairly sets the project against the status quo of an empty
+      lot most of the week and a three-year wait, but it never says what that wait
+      looks like for a household if nothing is built.
+    qualification: The speech makes no conditional promises that need a checkable
+      hedge, and it states the traffic impact plainly as fact.
+    objections: The traffic objection is conceded honestly and weighed openly, and
+      the parking worry is answered with the 72-space figure, but nothing speaks to
+      whether the D rating could be mitigated, which is what the traffic-minded commissioners
+      actually need.
+    fit: At around 370 words in short spoken sentences with a clear ask at the start
+      and end, it fits within three minutes at the podium.

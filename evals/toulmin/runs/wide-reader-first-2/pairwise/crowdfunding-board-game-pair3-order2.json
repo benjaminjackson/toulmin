@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-39-04Z",
+  "without_skill_run": "2026-11-16T19-19-25Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B shows the actual factory quote, the per-copy shipping cost and how many backers are needed, and it is upfront that 23 ratings is a small number. That is exactly what a wary backer who lost money before wants to check from a first-time creator. A mentions the quote but hides the figures and leaves placeholders, so it reads more like marketing."
+}

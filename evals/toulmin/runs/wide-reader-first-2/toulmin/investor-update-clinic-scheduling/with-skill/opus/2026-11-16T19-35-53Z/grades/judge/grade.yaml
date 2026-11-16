@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:37:26.238233+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 327
+  tags: []
+  notes: extracted 327 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 5
+    qualification: 3
+    objections: 5
+    fit: 9
+  details:
+    agree: The candid opening and the 15% underlying growth figure would ease a cold
+      investor somewhat, but the apology makes no commitment to future updates and
+      there is no plan for the next raise, so they may stay wary.
+    honest: "Every number checks out against the brief ($35.5k to $41k, about 11 months\
+      \ of runway, 37 \xD7 $150 \u2248 $5.5k), but 'records-system vendors are building\
+      \ their own schedulers' generalises from a single lost customer."
+    works_the_facts: It derives runway, the 15% growth outside the lost chain, the
+      near-halving of no-shows and the 37-customer break-even, each in its most favourable
+      true form, though it doesn't work out the pace of reminder sales needed before
+      cash runs out.
+    right_comparison: 'It shows the underlying growth trend but never says what happens
+      if nothing changes: with MRR flat and $44k a month burn, cash runs out around
+      late 2027, before any fundraising timeline.'
+    qualification: The reminder launch and the 37-customer target have no date, no
+      checkpoint number, and no stated consequence if they are missed, and runway
+      is handed to investors as an open question.
+    objections: 'It meets the missed-updates complaint and the ''is the business shrinking''
+      worry, but leaves the resisting investor''s main questions unanswered: will
+      updates now arrive on time, when is the next round, and how fast can 37 reminder
+      customers realistically be signed?'
+    fit: It's a clear, scannable investor email of about 370 words, well under the
+      500-word limit.

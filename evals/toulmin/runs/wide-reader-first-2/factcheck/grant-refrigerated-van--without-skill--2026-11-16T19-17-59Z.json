@@ -1,0 +1,21 @@
+{
+  "task": "grant-refrigerated-van",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-17-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "These are the foods our families value most and the hardest for us to handle",
+      "why": "The brief does not state which foods the families value most or that fresh produce, milk, and eggs are the hardest foods for the food bank to handle."
+    },
+    {
+      "quote": "and the only thing missing was a cold vehicle.",
+      "why": "The brief says the food bank had no way to pick the produce up cold or store it, not that a cold vehicle was the only thing missing."
+    },
+    {
+      "quote": "The van will let us collect produce, dairy and eggs directly from local farms and keep them cold until distribution.",
+      "why": "The brief only mentions that local farms offered produce, not dairy and eggs, and does not state that the van itself will be used to keep food cold until distribution to solve the lack of cold storage."
+    }
+  ],
+  "invented_count": 3
+}

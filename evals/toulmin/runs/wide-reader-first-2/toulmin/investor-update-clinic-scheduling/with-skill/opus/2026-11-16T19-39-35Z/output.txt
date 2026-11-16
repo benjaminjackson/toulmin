@@ -1,0 +1,53 @@
+I've drafted the update. The plan behind it:
+
+- **The missed updates come first.** All 11 investors know you went quiet for two quarters, so the email apologises once, plainly, before any numbers.
+- **Losing the chain is stated directly.** It was 13% of revenue (5,500 ÷ 41,000).
+- **The flat MRR gets its true context.** The rest of the business grew from $35,500 to $41,000, about 15% in one quarter, which made up for the loss. This assumes the chain was still paying when the quarter began.
+- **Runway is spelled out.** $480,000 ÷ $44,000 is about 11 months, so into roughly October 2027. Investors will work this out themselves, so it's better they see it from you.
+- **The bigger risk is named.** Investors will ask whether built-in records schedulers threaten every customer. The email admits that, then says how standalone reminders respond to it.
+
+**Facts to check:**
+- The draft says standalone reminders don't require a clinic to switch schedulers. That's what "sold on its own" suggests, but you didn't confirm it works alongside records-system schedulers. If it doesn't, change that sentence.
+- The request for introductions to clinic owners is my suggestion. Remove it if it isn't what you want.
+
+**Additions that would make it stronger** (I left them out because you didn't give them):
+- **A promise to send updates every quarter from now on.** After two missed quarters, this would do the most to rebuild trust.
+- **A target for standalone reminders.** For example, a number of clinics signed up by a given date, and what you'll do if you miss it.
+- **A plan for the runway.** Whether you'll raise money, cut costs or aim for break-even, and when.
+
+The email is about 400 words. Fill in the sign-off with your name.
+
+<final_document>
+**Subject: Quarterly update: MRR flat at $41K, lost our largest customer, reminders launching on their own**
+
+Hi all,
+
+First, an apology. I didn't send updates for the last two quarters. You should have heard from me, especially going into a quarter like this one. Here is where things stand, good and bad.
+
+**The numbers**
+- **MRR:** $41,000, the same as three months ago
+- **Clinics:** 9 added, 4 lost
+- **Cash:** $480,000
+- **Net burn:** about $44,000/month, which gives us roughly 11 months of runway (into October 2027) at the current rate
+
+**We lost our largest customer**
+A 12-clinic chain paying $5,500/month left us for the scheduler built into their electronic records system. That was about 13% of our revenue.
+
+The rest of the business grew enough to cover it. Without that chain, MRR went from $35,500 to $41,000, about 15% growth in one quarter. That's why the headline number is flat rather than down.
+
+The risk is real all the same. Records systems that come with a scheduler are a threat to more customers than this one, and I'd rather say so than have you raise it first.
+
+**What's working: reminders**
+Clinics that use our automatic text reminders have a no-show rate of 7%, down from 13% before they started. That's nearly half as many missed appointments. It's the clearest result we deliver, and it's the reason for our next step.
+
+**What we're doing next**
+Next month we start selling the reminder feature on its own for **$150/month**. A clinic will no longer have to replace its scheduler to buy from us. That opens us up to clinics that are happy with the scheduler they already have, which is exactly the kind of customer we just lost.
+
+**Where you can help**
+- **Introductions:** if you know PT clinic owners or operators, especially ones using the scheduler in their records system, an introduction would help. They're the first audience for standalone reminders.
+- **Your view:** if you have thoughts on the standalone pricing or on our runway, I'd like to hear them. I'm glad to get on a call with any of you. Just reply to this email.
+
+Thank you for your patience over the last six months.
+
+[Your name]
+</final_document>

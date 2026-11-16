@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-37-39Z",
+  "without_skill_run": "2026-11-16T19-18-37Z",
+  "a_arm": "without-skill",
+  "winner": "tie",
+  "winner_arm": "tie",
+  "margin": "none",
+  "reason": "Both letters are equally persuasive, concise, and tailored to an agricultural technology admissions committee. While both slightly embellish the brief by claiming he learned the software on his own initiative, they handle the facts, tone, and structure with nearly identical effectiveness."
+}

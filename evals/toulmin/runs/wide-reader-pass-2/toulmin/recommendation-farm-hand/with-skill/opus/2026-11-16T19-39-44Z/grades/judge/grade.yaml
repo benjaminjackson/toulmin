@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:40:45.244273+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 339
+  tags: []
+  notes: extracted 339 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 7
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 5
+    objections: 8
+    fit: 9
+  details:
+    agree: A quick reader comes away with a clear, believable picture of a reliable
+      worker who already uses herd data, which should make them want to admit him,
+      though nothing sets him clearly above the other 149 applicants.
+    honest: Most claims stay with the brief, but 'catches problems with it that others
+      miss' and 'the cows are milked properly' are not in the facts; the letter also
+      leaves out that he gave only two days' notice before leaving for five weeks.
+    works_the_facts: 'The facts are restated rather than worked: the letter never
+      turns ''two missed shifts in three years'' into its stronger form (about 2 of
+      roughly 780 solo early-morning shifts) and never puts the nine mastitis cases
+      in proportion to the herd.'
+    right_comparison: There is no real alternative to compare against, though the
+      line 'nobody is there to check on him' does contrast his solo shift with supervised
+      work.
+    qualification: The hedge on his written English names something the reader can
+      check (a night class) but gives no timeline, level or expected result, so the
+      reader cannot judge when or whether it will be resolved.
+    objections: It deals with the two likely concerns, written English and the five-week
+      absence, by naming each one and giving context, without raising worries the
+      facts already answer.
+    fit: It is a one-page reference letter from the farm manager with suitable placeholders
+      and a sign-off, as the brief asked.

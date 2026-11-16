@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both are honest and put the traffic cost first, but B serves the traffic-focused commissioners better by breaking 310 trips down to about five per apartment, stating the cost as exactly one letter grade at rush hour, and showing that the project could house about one in six of the families on the waiting list. A adds an unsupported description of the future tenants as 'working families, seniors, and people starting over', though B's phrase 'the county's study' slightly misattributes the traffic study."
+}

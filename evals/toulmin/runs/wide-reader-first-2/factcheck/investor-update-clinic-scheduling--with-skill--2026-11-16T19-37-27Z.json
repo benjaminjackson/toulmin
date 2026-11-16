@@ -1,0 +1,13 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-37-27Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "New clinics, minus the other three we lost, added about $5,500 a month.",
+      "why": "The brief does not state the source of the $5,500 in offsetting revenue growth, which could have come from existing customers expanding or price changes rather than exclusively from the net new clinics."
+    }
+  ],
+  "invented_count": 1
+}

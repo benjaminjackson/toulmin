@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A hooks me immediately by naming the exact salon headaches I deal with—tips, commissions, and retail—and spells out that the $199 covers ongoing payroll and sales tax, which justifies paying more than the $600 a year my cousin charges at tax time. Plus, Document B mentions raising prices by $50 on existing clients, which makes me worry the price will keep going up."
+}

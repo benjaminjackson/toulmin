@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-39-04Z",
+  "without_skill_run": "2026-11-16T19-19-18Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins because it includes all the facts in the brief (except the price increase, which feels unimportant) without making up salon-specific accounting details like booth rent and commission splits that weren't in the brief. Also, as someone paying a cousin $600 a year, A's realistic disclaimer about accountant fees feels much more honest and respectful of my current setup than B's blanket claim that my accountant will charge less."
+}

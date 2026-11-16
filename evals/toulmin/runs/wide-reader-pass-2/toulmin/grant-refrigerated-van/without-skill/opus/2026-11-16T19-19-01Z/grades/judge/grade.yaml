@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:20:01.515579+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 461
+  tags: []
+  notes: extracted 461 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 8
+    right_comparison: 8
+    qualification: 6
+    objections: 7
+    fit: 9
+  details:
+    agree: Marisol gets a believable need, a modest target she can check, and a direct
+      admission of the late report with a fix, so she will probably recommend it,
+      though she may still ask about running costs and cold storage at the site.
+    honest: It drops the brief's unsupported 'double fresh food' claim, keeps every
+      number true to the brief, and says the possible extra gains are not counted;
+      the only stretch is calling 9,000 pounds a 'floor'.
+    works_the_facts: It works out a 50% increase over the three harvest months (18,000
+      to 27,000 pounds) and about 12% for the year, and it states the reserve left
+      after the purchase, though it never calculates cost per pound or per household.
+    right_comparison: 'The alternative is stated as the facts show it: without a van
+      the food bank keeps turning down about 9,000 pounds of farm produce each summer,
+      set against its current baseline of about 6,000 pounds a month.'
+    qualification: The 9,000-pound target and monthly tracking give Marisol a number
+      to check, but there is no reporting date and nothing says what happens if the
+      target or a deadline is missed.
+    objections: It meets the late-report concern, the drop in reserves and the question
+      of who will drive, but leaves out fuel, insurance and maintenance, and what
+      happens to cold food after it reaches the building.
+    fit: It is a sectioned grant narrative that appears to come in under the 500-word
+      limit.

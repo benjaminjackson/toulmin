@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a wary backer of first-time creators, I'd trust B more because it shows the real numbers: the $17,400 factory quote for 1,500 copies, about $9 per copy for shipping, and 572 backers needed to reach the goal. A only says the numbers exist and leaves blanks where they should be. B is also honest that 'no game is a hit before it's in a box', which builds my trust instead of making claims it can't back up."
+}

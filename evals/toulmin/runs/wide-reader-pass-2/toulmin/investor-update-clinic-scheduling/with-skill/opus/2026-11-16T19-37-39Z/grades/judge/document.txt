@@ -1,0 +1,30 @@
+Subject: Quarterly update: flat revenue, a big loss, and what we're doing about it
+
+Hi all,
+
+First, an apology. I didn't send updates for the last two quarters, and you should have heard from me, especially given what follows. Here's where things stand.
+
+**The numbers**
+- Monthly recurring revenue: $41,000, the same as three months ago
+- Clinics: 9 added, 4 lost
+- Cash in the bank: $480,000
+- Net burn: about $44,000 a month, which gives us about 11 months of runway
+- Team: 6
+
+**What happened**
+Our largest customer, a 12-clinic chain paying $5,500 a month, left this quarter. They moved to the scheduler built into their electronic records system. That one loss is why revenue is flat. Without it, the rest of our customers grew from $35,500 to $41,000 a month, about 15% in a quarter.
+
+The reason they left matters more than the dollars. When a records system ships its own scheduler, a clinic has less reason to pay us for one. If records vendors keep building scheduling in, a scheduler alone gets harder to sell. I'd rather deal with that now than later.
+
+**What's working**
+Clinics that use our automatic text reminders have a no-show rate of 7%, compared with 13% before they started. That's close to half the missed appointments gone. It's the clearest evidence we have that we change a clinic's results, not just its calendar.
+
+**What we're doing about it**
+Next month we start selling the reminder feature on its own for $150 a month. Clinics that already have a scheduler, including one inside their records system, can still buy what we do best. That includes clinics like the chain we just lost. Until now, those clinics had to replace their scheduler to get our reminders.
+
+At current burn we have about 11 months to show this works.
+
+Questions are welcome. Just reply to this email.
+
+Thanks for your patience with me,
+Ben

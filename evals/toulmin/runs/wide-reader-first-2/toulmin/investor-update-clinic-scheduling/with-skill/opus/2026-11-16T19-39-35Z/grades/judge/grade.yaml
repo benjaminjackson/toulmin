@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T19:40:57.108316+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 370
+  tags: []
+  notes: extracted 370 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 3
+    objections: 5
+    fit: 9
+  details:
+    agree: The open apology, plain bad news and clear plan would ease a cold investor
+      somewhat, but nothing commits to future updates or says when and how the company
+      will raise before cash runs out, so a wary angel deciding on the next round
+      is left uneasy.
+    honest: The figures are accurate, but 7% against 13% is about 54% of the old rate,
+      so 'nearly half as many missed appointments' overstates it slightly, and 'the
+      rest of the business grew' hides that 3 other clinics also left.
+    works_the_facts: It correctly works out runway of about 11 months, that the chain
+      was about 13% of revenue, and roughly 15% growth from the rest of the business,
+      which recasts flat MRR in its best true form; it gives no figure for how many
+      reminder customers would change the picture.
+    right_comparison: Comparing flat MRR with what would have been a drop, and giving
+      the current runway, fairly shows where things stand, but it never says what
+      happens if nothing changes, such as how the 15% growth rate compares with the
+      burn.
+    qualification: The standalone launch and the threat from records systems come
+      with no target, date or checkpoint the investor could use to judge whether the
+      new approach is working.
+    objections: 'It answers the missed updates and the lost customer head-on, but
+      leaves out the obvious questions for an investor with the right to join the
+      next round: when will you raise, will you cut burn, and will updates arrive
+      on time from now on?'
+    fit: It is a well-structured investor update of about 400 words, under the 500-word
+      limit, with a clear subject line and a specific request at the end.

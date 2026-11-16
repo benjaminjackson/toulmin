@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:18:58.488494+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 188
+  tags: []
+  notes: extracted 188 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 6
+    objections: 5
+    fit: 9
+  details:
+    agree: The letter is warm and well supported, so an editor who likes her would
+      probably offer more, but a $2,500 jump over budget with an $8,000 alternative
+      available makes a counteroffer below $11,500 more likely than full agreement.
+    honest: It correctly drops the unsupported claim that every other publisher pays
+      at least $12,000 and relies on the one real $12,500 data point plus the agent's
+      range, though "full-time" and "my fees elsewhere have gone up" (based on one
+      book) go slightly beyond the brief.
+    works_the_facts: It states the raw facts accurately but derives nothing from them,
+      such as the fee being flat across six books and four years, $9,000 over four
+      months coming to about $2,250 a month, or $11,500 still being $1,000 below what
+      she was paid elsewhere.
+    right_comparison: "It sets the flat $9,000 against the $12,500 paid elsewhere\
+      \ and the $11,000\u2013$13,000 market range, but it doesn't spell out that this\
+      \ publisher's rate hasn't changed while the market has, and it gives no reason\
+      \ why her proven sales are worth more than a cheaper, untested illustrator."
+    qualification: The document is a straightforward fee request and needs no conditional
+      hedge.
+    objections: The sales figures and reading-list placement answer "why pay more"
+      only by implication, and the letter never addresses the budget ceiling or the
+      cheaper-illustrator option by making the case that a proven seller lowers the
+      publisher's risk.
+    fit: It's a properly formatted email of about 200 words, well under the 250-word
+      limit, with a clear ask and a friendly tone.

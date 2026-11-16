@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "As someone who got burned before, seeing the actual factory quote and shipping costs in Document B would actually make me pause—because 570 backers paying $49 with shipping included leaves huge gaps for platform fees, freight, and fulfillment, making me worry the creator undercalculated. Document A catches that financial trap with a helpful prompt, paints a much better picture of the game, and handles the small sample size of ratings with disarming honesty."
+}

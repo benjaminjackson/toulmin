@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-18-00Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A is restrained and sticks closely to the facts. It points out that 74 households is two-thirds of the building, makes three narrow asks and says it isn't asking us to reverse the second-elevator decision, so it's hard for me to wave off as a few loud people; the TV mention adds quiet pressure. B makes more demands, sets a deadline and goes a little beyond the facts, for example saying residents can't get to doctor's appointments, which makes it easier for me to treat as advocacy."
+}

@@ -1,0 +1,25 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-39-57Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "That is about one day in every eight.",
+      "why": "The brief does not state the current date, so the number of days elapsed in the year cannot be known to calculate the ratio of 41 out-of-service days."
+    },
+    {
+      "quote": "That was five months ago, and residents are still waiting.",
+      "why": "The brief mentions events in June, August, and September, but does not state that the current month is November or that five months have passed since June."
+    },
+    {
+      "quote": "That is two out of every three households in the building.",
+      "why": "The brief states the building has 112 apartments, not that all 112 apartments are occupied by households."
+    },
+    {
+      "quote": "It would tell 112 households when they can count on their elevator again.",
+      "why": "The brief states the building has 112 apartments, not that there are 112 occupied households in the building."
+    }
+  ],
+  "invented_count": 4
+}

@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:40:33.081616+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 359
+  tags: []
+  notes: extracted 359 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 7
+    objections: 6
+    fit: 9
+  details:
+    agree: The 19-year Alder Road neighbour who admits the cost and accepts it is
+      persuasive, but the two traffic-focused commissioners get a values trade-off
+      rather than a reason to think the impact is small, so they may not change their
+      vote.
+    honest: The numbers are faithful and the church membership is disclosed, but 'I
+      drive through Alder and 4th every day' is invented, and 'those 412 households
+      stay on the list' slightly overstates what 64 units would change.
+    works_the_facts: It works out a few useful figures (one home for every six or
+      so waitlisted households, eight spare parking spaces), but it leaves the 310
+      trips as a raw daily total instead of per unit or per hour, and it does not
+      quantify what happens if nothing is built.
+    right_comparison: It names the real alternative, an empty lot and an unchanged
+      three-year waiting list, accurately, though it does not set the cost of doing
+      nothing over time against the traffic cost.
+    qualification: The speech makes no forecast or conditional claim beyond what the
+      study states, so no hedge is needed.
+    objections: It deals with traffic and parking directly and honestly, but it answers
+      traffic only by conceding the cost and weighing it, without shrinking or putting
+      the 310 trips and the D rating in context for the commissioners.
+    fit: At about 400 words of plain, spoken first-person text, it fits a three-minute
+      public comment slot well.

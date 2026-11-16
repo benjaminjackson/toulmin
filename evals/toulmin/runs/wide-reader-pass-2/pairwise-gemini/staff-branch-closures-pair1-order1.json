@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-35-53Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A puts the details about our pay, hours, and severance right at the top where we actually need them, and it stays honest to the facts without inventing HR meetings or Q&A sessions that weren't in the brief. It also doesn't open with a line about hearing this 'directly' from the COO when we've already been hearing rumors for two weeks."
+}

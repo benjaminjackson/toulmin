@@ -1,0 +1,46 @@
+I've drafted about 350 words, which is roughly two and a half minutes at a calm speaking pace. That leaves you some room in your three minutes. I used short sentences with one number each, so it's easier to say and easier to follow by ear.
+
+**How I built it:**
+- **Traffic comes early.** The commissioners have read the traffic study, and your neighbors in the room will bring up the C-to-D drop. Admitting it yourself, as someone who drives Alder Road every day, makes you more believable than skipping it.
+- **You say you're a church member.** People will find out anyway, and saying it first takes away the "you're not neutral" reply.
+- **I kept the parking claim narrow.** 72 spaces for 64 units is a space for every home plus eight more. Your facts don't show that no residents will park on Alder, so the speech doesn't claim that.
+- **Arithmetic I checked:** 64 units is about one in six of the 412 households on the waiting list (64 ÷ 412 is 15.5%).
+
+**Three things that would make it stronger, but only if they're true and you can confirm them:**
+1. **Where people park on Sundays once the back lot is built on.** Commissioners or neighbors are likely to ask. If the plan answers this, a one-line answer would help.
+2. **Whether a D rating meets the county's adopted traffic standard.** If it does, add "which is still within the county's standard." I left this out because it wasn't in your facts.
+3. **Any traffic changes the church has committed to**, such as signal timing or turn lanes. Add these only if they're actually in the plan.
+
+Fill in your name at the top, and read it aloud once with a timer before tonight.
+
+<final_document>
+Good evening, Commissioners. My name is ______.
+
+I've lived on Alder Road for 19 years, two blocks from the church. I'm also a member of that church, so I'll be upfront: I'm not neutral. I'm here to ask you to approve the 64 apartments on its back lot.
+
+I want to start with traffic. That's what my neighbors are worried about, and it's my street too.
+
+The traffic study says this project adds 310 car trips a day on Alder Road. It says the intersection at Alder and 4th drops from a C to a D at rush hour. I'm not going to pretend that's nothing. I drive through that intersection. I'll be sitting in that line too.
+
+So let me tell you what we get in return.
+
+The county's own housing report says we are short about 2,100 affordable homes.
+
+Right now, 412 households are on the housing authority's waiting list.
+
+The average wait is three years.
+
+Three years of waiting for a place they can afford.
+
+Every one of these 64 apartments would rent to a household earning under 60 percent of the area median income. That's enough homes for about one in six of the households on that list.
+
+And it doesn't take a single acre of open land. It goes on a 1.8-acre parking lot. Six days a week, that lot sits empty.
+
+On parking: the plan has 72 spaces for 64 apartments. That's a space for every home, plus eight more.
+
+So here is the trade, as plainly as I can put it. One intersection goes from a C to a D at rush hour. In return, 64 households get a home they can afford, on land that's already paved.
+
+I've been a neighbor on this street for 19 years. I'd be glad to have 64 more.
+
+Please vote to approve this project. Thank you.
+</final_document>

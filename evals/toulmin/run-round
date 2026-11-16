@@ -4,7 +4,7 @@
 # With a set name (for example original, tune or sealed), only the tasks whose task file has that value
 # in its `set` key are run and counted. A task file with no `set` key never matches a set name.
 # Pass an empty grader ("") to filter by set without grading.
-# Starts one worker per task and config, all at once. Each worker calls `smevals run` once per missing run,
+# Starts one worker per task and config, at most TOULMIN_MAX_PARALLEL at once (default 8). Each worker calls `smevals run` once per missing run,
 # with at most <n>+2 attempts so a failing runner cannot loop for ever.
 # With a grader name, each run is graded as it finishes (smevals run -g <grader>).
 # `smevals run -g` exits non-zero when a grade fails, so success is decided only by counting complete runs.
@@ -80,8 +80,14 @@ if [ ${#task_names[@]} -eq 0 ]; then
 fi
 
 # `&` starts each worker in the background; `wait` blocks until every worker has finished.
+# At most this many workers run at once, so a round does not overload the machine. Each worker is one headless claude session.
+maximum_parallel_workers=${TOULMIN_MAX_PARALLEL:-8}
 for task_name in "${task_names[@]}"; do
   for config_name in "${configs[@]}"; do
+    # `jobs -rp` lists the running background jobs; `wait -n` blocks until any one of them ends.
+    while [ "$(jobs -rp | wc -l)" -ge "$maximum_parallel_workers" ]; do
+      wait -n
+    done
     run_worker "$task_name" "$config_name" &
   done
 done

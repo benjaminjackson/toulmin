@@ -1,0 +1,17 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-35-53Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "with new clinics more than covering the three other customers we lost",
+      "why": "The brief does not state whether the revenue that offset the lost customers came from new clinics or from expansion within existing clinics."
+    },
+    {
+      "quote": "It's aimed at clinics like the one we just lost: clinics that are happy scheduling in their records system but still lose appointments to no-shows.",
+      "why": "The brief only states that the reminder feature will be sold on its own next month for $150 a month, not who the target customers are or why."
+    }
+  ],
+  "invented_count": 2
+}

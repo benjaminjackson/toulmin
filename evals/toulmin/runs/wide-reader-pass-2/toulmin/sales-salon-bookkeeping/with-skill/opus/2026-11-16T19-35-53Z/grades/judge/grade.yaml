@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:36:52.293927+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 288
+  tags: []
+  notes: extracted 288 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 3
+    right_comparison: 2
+    qualification: 6
+    objections: 3
+    fit: 9
+  details:
+    agree: A free 20-minute call is easy to say yes to, and the plain, honest tone
+      builds trust, but she pays her cousin $600 a year and this costs $2,388, and
+      nothing on the page tells her why paying the difference is worth it.
+    honest: The facts are reported faithfully and the missed deadlines and price rise
+      are disclosed openly, but 'One of them saved $800' states as fact what was only
+      the client's own report, and 'Clients stay until they sell' stretches a one-year
+      sample of two departures.
+    works_the_facts: 'Figures are restated rather than worked out: there is no annual
+      cost ($2,388), no retention rate (29 of 31), no on-time rate (9 of 12 closes),
+      and the $800 saving is never set against the price.'
+    right_comparison: The page never describes this reader's real alternative, a relative
+      doing the books once a year at tax time, or what monthly books give her that
+      a year-end catch-up doesn't.
+    qualification: The hedge on monthly closes gives a date she can check (the 10th)
+      and a count (missed three times last year), but it never says what happens to
+      her when a close is late.
+    objections: Her main objection, cost and loyalty compared with her $600 cousin,
+      is never met, while the space goes on the phone hours and the price-rise history,
+      which matter less to her.
+    fit: It runs to roughly 330 words of sales-page copy with clear sections and ends
+      on the booking button, as the brief asked.

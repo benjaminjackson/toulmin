@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-36-46Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters are honest about the missing GMP and LMS experience, and neither makes the unsupported claim that new-hire training time can be cut in half. B is easier to scan, shows a bit more understanding that training records count as much as the training itself, and gives a concrete plan for the first months focused on safe, compliant work, so it does more to ease my doubt that teachers understand plants."
+}

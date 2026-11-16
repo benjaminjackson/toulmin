@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-36-49Z",
+  "without_skill_run": "2026-11-16T19-18-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B opens with the software and mastitis work, which is the evidence most relevant to an ag-tech program, and it addresses the five-week absence directly as no threat to finishing a two-year course. A has the same facts but leads with the milking shift and only mentions the absence in passing. Both letters add a detail the brief doesn't support (that he learned the software on his own initiative), so neither wins on honesty."
+}
