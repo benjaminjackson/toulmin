@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-34-12Z",
+  "without_skill_run": "2026-11-16T20-23-48Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins back my trust by proactively disclosing the specific $3,800/month churn risk from the other two customers on the same records system, proving the founder is done hiding bad news. It also shows much better self-awareness by ruling out raising money right now, since trying to raise on flat revenue after six months of silence (as Document A considers) is a non-starter."
+}

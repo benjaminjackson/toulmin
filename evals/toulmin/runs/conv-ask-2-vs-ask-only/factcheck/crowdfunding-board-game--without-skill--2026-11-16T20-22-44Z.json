@@ -1,0 +1,17 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-22-44Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "put it in front of people who had never heard of it.",
+      "why": "Neither the brief nor the additional information states that the people who played the game at the conventions had never heard of it before."
+    },
+    {
+      "quote": "On BoardGameGeek, 23 players have rated it, with an average of 8.1 out of 10.",
+      "why": "The brief only refers to 'the main board game ratings site' and an average rating of 8.1, without naming BoardGameGeek or stating that the scale is out of 10."
+    }
+  ],
+  "invented_count": 2
+}

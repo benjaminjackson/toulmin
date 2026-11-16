@@ -1,0 +1,21 @@
+{
+  "task": "grant-refrigerated-van",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-21-45Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Families struggle most to afford these foods, and they are also the hardest for us to get.",
+      "why": "The brief does not state which foods families struggle most to afford or which foods are the hardest for the food bank to acquire."
+    },
+    {
+      "quote": "with all of it going to families already on our rolls.",
+      "why": "The brief does not specify whether the additional food will go only to the current 610 households or allow the food bank to serve new families."
+    },
+    {
+      "quote": "A refrigerated van is the one thing standing between that food and the 610 households we serve.",
+      "why": "The brief states the food was turned down because the food bank had no way to pick it up cold 'or store it,' meaning a lack of cold storage is also an obstacle."
+    }
+  ],
+  "invented_count": 3
+}

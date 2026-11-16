@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-23-23Z",
+  "without_skill_run": "2026-11-16T20-05-18Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses the commissioners' and neighbors' top concern by proposing a concrete, enforceable solution—making the developer-funded traffic signal a condition of the permit to keep the intersection at a 'C' rating. Document A merely asks us to accept worse traffic as a trade-off, which is much less persuasive to a skeptical room."
+}

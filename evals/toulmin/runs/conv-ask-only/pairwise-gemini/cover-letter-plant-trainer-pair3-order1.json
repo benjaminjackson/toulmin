@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-23-24Z",
+  "without_skill_run": "2026-11-16T20-01-37Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins me over for a phone screen because it includes concrete evidence that translates directly to a regulated plant: passing two state audits on signed training records, cutting teacher training from 20 to 12 hours, and proactively enrolling in a GMP course. Document B lacks these critical details, addresses me with generic placeholders, and invents claims about competencies and adapting to adult learners that aren't backed by the facts."
+}

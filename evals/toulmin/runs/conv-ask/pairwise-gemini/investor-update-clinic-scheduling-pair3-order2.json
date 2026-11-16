@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-15-21Z",
+  "without_skill_run": "2026-11-16T20-01-54Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly owns up to why the founder went dark, commits to a specific date for the next update, and proactively discloses the exact revenue at risk from the other two customers on that same records system. Document A reads like an unedited template with bracketed placeholders, which would infuriate me after six months of silence."
+}

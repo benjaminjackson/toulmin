@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-35-30Z",
+  "without_skill_run": "2026-11-16T20-24-39Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A leads its changes with the exact two things that made me quit—the lack of credits and the radio silence—and frames the $31,000 investment as a reassuring bonus rather than just another bullet point. Document B also needlessly rubs salt in the wound at the end by explicitly reminding me that I'm still getting no credit for last year's short boxes."
+}

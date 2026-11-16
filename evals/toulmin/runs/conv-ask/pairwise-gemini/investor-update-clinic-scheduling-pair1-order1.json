@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-13-02Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "After six months of silence, Document A actually rebuilds trust by owning the mistake without fluff, proactively disclosing the $3,800/month in additional churn risk, and committing to concrete reporting dates. Document B reads like a generic template that hides the ongoing EHR risk and invents an implausible upsell strategy for clinics that already chose their EHR's scheduler."
+}

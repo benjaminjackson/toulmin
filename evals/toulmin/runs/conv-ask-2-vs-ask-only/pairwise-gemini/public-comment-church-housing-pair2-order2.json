@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-33-03Z",
+  "without_skill_run": "2026-11-16T20-22-38Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is much more credible to skeptical neighbors and traffic-focused commissioners because it honestly admits she can't promise traffic won't get worse—unlike A, which overpromises that the traffic 'gets handled.' Document B also includes concrete concessions for the neighbors in the room, such as the construction oversight group and weekday parking access."
+}

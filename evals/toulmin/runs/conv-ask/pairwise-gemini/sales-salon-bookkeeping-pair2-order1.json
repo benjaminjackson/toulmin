@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-17-24Z",
+  "without_skill_run": "2026-11-16T20-06-07Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A immediately earns my trust by mentioning she actually managed a salon for six years, and putting the $199 price right near the top shows me that she handles ongoing headaches like payroll and sales tax that my cousin doesn't do at tax time. Even more importantly, Document A explains that she hands clean books over to my tax preparer, which means I wouldn't have to fire my cousin who I'm fond of—I'd just be making his job easier at the end of the year."
+}

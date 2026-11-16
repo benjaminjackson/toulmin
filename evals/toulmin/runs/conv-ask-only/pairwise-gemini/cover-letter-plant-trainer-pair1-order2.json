@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-21-45Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses my biggest concern about hiring a teacher by proving she already maintains signed training logs that have passed state audits and is proactively taking a GMP basics course. It also provides concrete evidence of her ability to streamline adult training without making unrealistic promises about our regulated plant."
+}

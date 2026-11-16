@@ -1,0 +1,25 @@
+{
+  "task": "staff-branch-closures",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-06-16Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "On March 31, we will close our Maple Street and Route 9 branches and open a new member phone and chat center.",
+      "why": "The brief states that the two branches will close on March 31, not that the new center will open on that specific date."
+    },
+    {
+      "quote": "Your manager and HR will meet with each of you one-on-one by [date] to go over the role, the schedule and your options.",
+      "why": "The user only committed to a one-on-one meeting with HR for anyone who wants one, not mandatory meetings with both a manager and HR for every employee."
+    },
+    {
+      "quote": "If you work at one of our other five branches, your location, role and hours aren't changing.",
+      "why": "Neither the brief nor the user's information states that staff at the other five branches will experience no changes to their locations, roles, or hours."
+    },
+    {
+      "quote": "I'll also hold an open Q&A session on [date and time] for anyone who wants to hear more.",
+      "why": "Neither the brief nor the user's information mentions that the COO will hold an open Q&A session."
+    }
+  ],
+  "invented_count": 4
+}

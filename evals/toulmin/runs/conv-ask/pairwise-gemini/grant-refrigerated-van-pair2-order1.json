@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-14-25Z",
+  "without_skill_run": "2026-11-16T20-01-17Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is a complete application that gives a real explanation for why I had to chase the 2023 shelving report, names the new treasurer responsible, and commits to quarterly reporting. Document B still has fill-in-the-blank placeholders for the organization's name and the reporting fix, and it makes a firm promise about farm donations that Document A is appropriately honest about."
+}

@@ -1,0 +1,17 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-31-58Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "In the seven years since, our labs have had no injury that needed more than first aid.",
+      "why": "The brief states the program was written in 2019, but neither the brief nor the user's additional information gives the current year or states that seven years have passed since 2019."
+    },
+    {
+      "quote": "Every student passes a lab safety quiz before working in the lab",
+      "why": "The user only stated that she keeps a signed training record for every student's lab safety quiz, not that every student passes the quiz before being allowed to work in the lab."
+    }
+  ],
+  "invented_count": 2
+}

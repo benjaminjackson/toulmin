@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-22-51Z",
+  "without_skill_run": "2026-11-16T20-01-11Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B rebuilds broken trust by honestly explaining why the founder went dark, committing to specific future dates, and proactively disclosing the $3,800/month in additional at-risk revenue alongside early traction for the new product. Document A offers only a vague apology, lacks key details, and leaves an unedited template placeholder in the middle of the runway section."
+}

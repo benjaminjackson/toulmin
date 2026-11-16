@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-15-53Z",
+  "without_skill_run": "2026-11-16T20-04-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B includes concrete details that carry weight with an admissions committee—specifically the $8,000 saved by his software use and the manager's commitment to keep him employed part-time on weekends while enrolled, which signals both high employer trust and student stability. Document A also fabricates that he learned the software 'on his own initiative,' which goes beyond the facts."
+}

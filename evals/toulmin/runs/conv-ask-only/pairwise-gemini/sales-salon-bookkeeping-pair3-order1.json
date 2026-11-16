@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-26-05Z",
+  "without_skill_run": "2026-11-16T20-06-39Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins me over because Carla introduces herself by name, shares that she actually managed a hair salon for six years, and backs up her deadline with a money-back guarantee. Explaining that the price increase happened because she added payroll makes the $199/month feel much more reasonable compared to the $600/year I currently pay my cousin just for year-end taxes."
+}

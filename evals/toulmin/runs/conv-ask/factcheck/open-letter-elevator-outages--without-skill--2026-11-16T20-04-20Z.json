@@ -1,0 +1,25 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-04-20Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "During an outage, some of them can't leave their apartments at all.",
+      "why": "Neither the brief nor the additional user knowledge states as a fact that residents have been completely unable to leave their apartments during outages."
+    },
+    {
+      "quote": "They miss medical appointments, can't get groceries, and can't get out in an emergency without help.",
+      "why": "While the user knew one resident missed two dialysis appointments, the brief does not mention this, and neither source states that residents couldn't get groceries."
+    },
+    {
+      "quote": "Other neighbors carry children, strollers and shopping up and down the stairs.",
+      "why": "Neither the brief nor the user's additional information mentions residents with children or strollers, or carrying shopping up and down the stairs."
+    },
+    {
+      "quote": "We pay our rent and we take care of our homes.",
+      "why": "The brief does not provide any facts about the residents' rent payment history or how they maintain their apartments."
+    }
+  ],
+  "invented_count": 4
+}

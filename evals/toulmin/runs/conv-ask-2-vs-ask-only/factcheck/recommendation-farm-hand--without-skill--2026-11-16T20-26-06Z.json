@@ -1,0 +1,17 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-26-06Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "November 16, 2026",
+      "why": "Neither the brief nor the user's additional information provides the date the letter is written, only that it is due on February 1."
+    },
+    {
+      "quote": "Nobody assigned him that work. He took it on",
+      "why": "The brief states that he learned the herd management software and flags sick cows, but does not say whether he was assigned to do so or took it on by himself."
+    }
+  ],
+  "invented_count": 2
+}

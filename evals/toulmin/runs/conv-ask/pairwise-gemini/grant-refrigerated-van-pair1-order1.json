@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-13-02Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is a complete, honest application that directly addresses my biggest hesitation—the late 2023 report—by naming the new treasurer responsible and committing to quarterly check-ins, while also backing up the farm partnerships with actual letters. Document B is an unfinished template full of bracketed placeholders, though it does remind me I'll need to ask Joan before the committee meets how they plan to pay for ongoing fuel and insurance since they are spending down their reserves."
+}

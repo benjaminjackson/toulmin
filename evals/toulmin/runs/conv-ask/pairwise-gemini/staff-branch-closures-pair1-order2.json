@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-16-18Z",
+  "without_skill_run": "2026-11-16T20-06-16Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B gives us actual details we need to make a life-changing decision—specifically the location, the exact timeline for offers, and the fact that our seniority counts when picking shifts. However, it also makes up facts the COO never gave (claiming they haven't decided on shift differentials or rotation frequency yet) and misses the two huge incentives that would actually convince us to try the phones: the $1.50/hr raise for tellers and the 6-month severance safety net."
+}

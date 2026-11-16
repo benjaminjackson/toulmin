@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-36-30Z",
+  "without_skill_run": "2026-11-16T20-25-10Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A directly acknowledges the high turnover in the phone center that we already know about and connects the six-month severance safety net to that concern, which makes me feel like Rachel is actually being honest with us. Document B leaves out the turnover problem and even left a '[Your name]' placeholder at the bottom, which makes a message about our livelihoods feel like a careless form letter."
+}

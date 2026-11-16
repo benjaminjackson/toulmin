@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-22-43Z",
+  "without_skill_run": "2026-11-16T20-04-35Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me hard facts I might have overlooked—specifically that check-in scores rose to 8.2 before the renovation even started, and that Daniela kept overtime under plan during the last seven weeks. Her concrete commitment to work weekly with our controller, Ben, and finish the company finance course also reassures me much more on the budget gap than the generic plan in Document B."
+}

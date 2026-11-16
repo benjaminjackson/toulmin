@@ -1,0 +1,13 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-03-02Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "we have not seen the reasoning behind it",
+      "why": "The brief says management claims a second elevator can't be done in the building, not whether the tenants have seen the reasoning behind that claim."
+    }
+  ],
+  "invented_count": 1
+}

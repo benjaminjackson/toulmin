@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-34-57Z",
+  "without_skill_run": "2026-11-16T20-23-48Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B puts the creator's actual name on the project and lays out the budget in a clean table, whereas Document A feels anonymous and invents a claim about non-US shipping not being priced yet. Document A's explicit admission that the ratings came from the creator's convention table is refreshing, though, making this a close call."
+}

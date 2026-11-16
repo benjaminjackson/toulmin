@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-24-21Z",
+  "without_skill_run": "2026-11-16T20-06-16Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes the exact commitments that actually make me willing to give the phone center a try: the $1.50/hour raise, shift priority for tenured staff, and the six-month trial period where I can still keep my severance if I hate it. Document B leaves all of those critical details out and uses blank placeholders instead of real dates and locations."
+}

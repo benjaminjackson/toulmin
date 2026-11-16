@@ -1,0 +1,13 @@
+{
+  "task": "negotiation-illustration-rate",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-22-36Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Last year another publisher paid me $12,500 for a 32-page book of the same scope.",
+      "why": "The brief says the other publisher's book was 'of the same length' (32 pages), not 'of the same scope' (which would also imply the same number of spreads or complexity)."
+    }
+  ],
+  "invented_count": 1
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-14-19Z",
+  "without_skill_run": "2026-11-16T20-01-11Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A rebuilds trust after two quarters of silence by explicitly admitting why the updates were skipped, disclosing the exact $3,800/month churn risk remaining on the platform, and committing to a specific date for the next update. Document B is an unfinished template with placeholders, vague promises, and less financial transparency, which is the last thing I want after sending a cold email about communication."
+}

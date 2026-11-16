@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-23-48Z",
+  "without_skill_run": "2026-11-16T20-04-20Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A drops the impossible demand for a second elevator to focus on actionable steps we can actually take right now, whereas Document B keeps pushing that unrealistic point and lacks basic details. More importantly, the specific, alarming detail in Document A about an eighth-floor resident missing two dialysis appointments presents a serious liability and PR risk that forces me to take this group seriously and act immediately."
+}

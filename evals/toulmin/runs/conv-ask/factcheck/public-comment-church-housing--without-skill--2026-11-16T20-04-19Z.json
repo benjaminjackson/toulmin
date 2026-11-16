@@ -1,0 +1,41 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-04-19Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I drive through that intersection every day, so I take that seriously.",
+      "why": "The brief does not state that the speaker drives through the intersection at Alder and 4th every day, or at all."
+    },
+    {
+      "quote": "A D rating means a longer wait at the light during peak hours.",
+      "why": "The brief does not state that there is currently a traffic light at the intersection of Alder and 4th (and the user's background notes indicate a traffic signal does not yet exist there)."
+    },
+    {
+      "quote": "That's three years of families paying rent they can't afford, doubling up with relatives, or moving away from their jobs, their kids' schools, and their churches.",
+      "why": "The brief gives no information about the current living situations or hardships of the households on the waiting list."
+    },
+    {
+      "quote": "These are the people on that waiting list. They're people who already work here, including cashiers, home health aides, teachers' aides, and seniors on fixed incomes.",
+      "why": "The brief does not state that the apartments will be filled from the county housing authority's waiting list, nor does it give the current residency, employment status, occupations, or age of the prospective tenants or waiting-list households."
+    },
+    {
+      "quote": "It's already paved and already served by roads.",
+      "why": "The brief calls the site a back parking lot on 1.8 acres, but does not state whether the surface is paved."
+    },
+    {
+      "quote": "I've watched this neighborhood change over 19 years, and I'd rather it change by making room for people than by pricing them out.",
+      "why": "The brief does not state that the neighborhood has changed over the past 19 years or that people are being priced out of it."
+    },
+    {
+      "quote": "Some of the people who would live here already worship at this church, shop on 4th Street, and work in this county. They just can't afford to live here right now.",
+      "why": "The brief does not say anything about who the future residents are, where they worship, shop, or work, whether there are shops on 4th Street, or whether they currently live outside the area."
+    },
+    {
+      "quote": "My neighbors and I can handle a slower light at Alder and 4th.",
+      "why": "The brief does not state that there is an existing traffic light at Alder and 4th, nor does it state how the speaker's neighbors feel about the traffic impact."
+    }
+  ],
+  "invented_count": 8
+}

@@ -1,0 +1,21 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-22-47Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "December 1, 2026",
+      "why": "The provided information only states that the letter will be posted on 'the 1st of next month' and does not specify December or the year 2026."
+    },
+    {
+      "quote": "The longest outage lasted 12 days in August.",
+      "why": "The brief states the 41 outage days included 'one stretch of 12 days in August,' not that this stretch was the longest outage."
+    },
+    {
+      "quote": "We have received nothing in writing beyond that estimate.",
+      "why": "Neither the brief nor the user's additional facts mention whether the previous estimate was in writing or whether the tenants have received anything else in writing."
+    }
+  ],
+  "invented_count": 3
+}

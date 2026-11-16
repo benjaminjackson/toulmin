@@ -1,0 +1,13 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-23-24Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I have run my classes through Google Classroom for years.",
+      "why": "The brief states only that the user uses Google Classroom, not that they have used it for years."
+    }
+  ],
+  "invented_count": 1
+}

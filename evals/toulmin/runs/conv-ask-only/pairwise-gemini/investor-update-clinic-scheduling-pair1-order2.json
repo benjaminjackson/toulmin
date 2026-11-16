@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-21-45Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B rebuilds broken trust by explicitly owning why the updates were skipped, committing to a concrete reporting date (January 7) and monthly metrics, and disclosing the ongoing $3,800/mo churn risk. Document A feels like a polished spin job that makes vague promises about future communication and leaves out critical facts about our exposure and early pipeline."
+}

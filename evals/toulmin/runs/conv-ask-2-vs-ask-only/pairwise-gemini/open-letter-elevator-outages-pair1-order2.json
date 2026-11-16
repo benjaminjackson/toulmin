@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-21-45Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A drops the impossible demand for a second elevator entirely, and citing the specific resident who missed dialysis alongside the explicit notice that local news is being contacted makes the PR and liability risks impossible to ignore. Document B fails to mention the missed dialysis or the news station, and it actually invents a new demand to see our internal engineering estimates for a second elevator."
+}

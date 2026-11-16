@@ -1,0 +1,25 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-15-58Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "their average rating is 8.1 out of 10.",
+      "why": "The brief states the average rating is 8.1 from all 23 ratings, not specifically the average of the subset who played at the convention tables, and does not state that the rating scale is out of 10 (though BGG uses a 10-point scale, the brief only calls it 'the main board game ratings site')."
+    },
+    {
+      "quote": "November 2027.",
+      "why": "The user only stated that expected delivery is 'November next year' without giving the current year, so the specific year 2027 is not given in the brief."
+    },
+    {
+      "quote": "You can watch someone with no stake in this campaign play it before you decide.",
+      "why": "Neither the brief nor the additional information states that the YouTube reviewer has no stake in the campaign (such as being unpaid or unsponsored) or that the video will show them playing the game."
+    },
+    {
+      "quote": "Back it now, and this winter will be on your table in November 2027.",
+      "why": "The brief only says expected delivery is 'November next year' and does not provide the current year to establish that next year is 2027."
+    }
+  ],
+  "invented_count": 4
+}

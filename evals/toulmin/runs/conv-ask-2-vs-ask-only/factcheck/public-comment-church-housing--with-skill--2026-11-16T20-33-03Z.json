@@ -1,0 +1,21 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-33-03Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Your own study says that with the signal, the intersection stays at a C.",
+      "why": "The brief refers to 'the traffic study' and does not say the study is the county's or the planning commission's own study."
+    },
+    {
+      "quote": "And it goes on land that's already paved.",
+      "why": "The brief says the site is a back parking lot, not whether it is paved rather than gravel or dirt."
+    },
+    {
+      "quote": "no trees come down.",
+      "why": "The brief does not mention whether there are trees in or around the parking lot that would need to be removed."
+    }
+  ],
+  "invented_count": 3
+}

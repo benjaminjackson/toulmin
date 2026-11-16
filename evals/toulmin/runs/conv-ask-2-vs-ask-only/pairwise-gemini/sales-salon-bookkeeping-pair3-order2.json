@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-37-17Z",
+  "without_skill_run": "2026-11-16T20-26-05Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins me over because it explicitly clarifies that my cousin can keep doing my annual taxes—and that I'd actually be making his life easier by handing him clean books. Plus, knowing there's no contract and only 30 days' notice makes it feel safe to try out a $199/month expense."
+}

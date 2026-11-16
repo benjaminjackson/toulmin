@@ -1,0 +1,17 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-24-13Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "There is no supervisor on the farm at that hour.",
+      "why": "The brief says Tomás runs the 3 a.m. shift on his own, not that there is no supervisor anywhere on the farm at that time."
+    },
+    {
+      "quote": "When he has needed time off, he has arranged cover for his shifts himself before he came to me.",
+      "why": "The provided facts only state that he got his cousin to cover his shifts before he left for Mexico, not that he arranged this before telling the manager or that he did so for other time off."
+    }
+  ],
+  "invented_count": 2
+}

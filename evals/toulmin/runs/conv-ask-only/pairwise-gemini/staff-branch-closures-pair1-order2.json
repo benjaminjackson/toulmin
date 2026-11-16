@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-24-21Z",
+  "without_skill_run": "2026-11-16T20-06-16Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B gives me the exact details I need to consider giving the phone center a shot: the $1.50/hour raise for tellers, seniority-based shift selection, the Elm Avenue location, and especially the six-month trial period where I can still keep my severance if I hate it. Document A lacks these crucial commitments and leaves dates as placeholders, which makes it much easier to just walk away now."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-23-48Z",
+  "without_skill_run": "2026-11-16T20-01-54Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly owns up to why the founder went dark, sets a concrete date for the next update, and offers monthly numbers to rebuild trust, whereas Document A brushes past the silence with a generic promise and leaves template placeholders in the text. Document B also gives specific pipeline numbers for the new feature and explicitly asks for the 20-minute call."
+}

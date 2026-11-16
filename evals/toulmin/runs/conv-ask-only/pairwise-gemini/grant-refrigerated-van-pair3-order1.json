@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-23-59Z",
+  "without_skill_run": "2026-11-16T20-02-05Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A directly addresses my two biggest red flags—the late report from 2023 and the ongoing operating costs of a vehicle—by naming a new responsible treasurer, committing to quarterly updates, and attaching actual letters of support from the farms. Document B completely ignores the late report that I spent four months chasing and fails to mention how they will afford insurance and fuel."
+}

@@ -1,0 +1,13 @@
+{
+  "task": "promotion-front-office",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-22-43Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "November 20, 2026",
+      "why": "The brief only mentions a deadline of 'by Friday' and does not provide the specific calendar date."
+    }
+  ],
+  "invented_count": 1
+}

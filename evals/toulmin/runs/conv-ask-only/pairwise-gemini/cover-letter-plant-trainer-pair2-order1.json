@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-22-36Z",
+  "without_skill_run": "2026-11-16T20-01-04Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A immediately sets this candidate apart from other teachers by showing she understands the core of regulated manufacturing: audited, signed training records and the rule that no one works until their training is documented. She also shows real initiative by already enrolling in a GMP course and provides concrete proof of streamlining adult training."
+}

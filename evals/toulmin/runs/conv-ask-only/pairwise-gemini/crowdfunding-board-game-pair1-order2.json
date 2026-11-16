@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-21-45Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B directly addresses my biggest fears about first-time creators by stating that both the art and rules are completely finished, providing a realistic delivery date, and explicitly explaining the math behind the shipping numbers. While Document A has a nicer thematic hook and didn't leave a placeholder for the title, Document B's no-nonsense transparency about the production status and BGG ratings makes me feel much safer pledging my money."
+}

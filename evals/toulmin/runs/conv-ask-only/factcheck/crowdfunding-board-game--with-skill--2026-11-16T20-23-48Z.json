@@ -1,0 +1,21 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-23-48Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "where strangers sat down and played it cold",
+      "why": "The brief only says the user took the game to two conventions and that people played at their table, not that those players were strangers who played it cold."
+    },
+    {
+      "quote": "before a single copy has been printed",
+      "why": "The brief does not state that no copies have been printed yet, and in fact notes that a YouTube reviewer already has a copy."
+    },
+    {
+      "quote": "Expected delivery: November 2027.",
+      "why": "The brief only states that expected delivery is 'November next year' without specifying the current year or 2027."
+    }
+  ],
+  "invented_count": 3
+}

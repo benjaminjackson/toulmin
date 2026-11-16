@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-34-12Z",
+  "without_skill_run": "2026-11-16T20-23-48Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins back my trust by proactively disclosing the specific $3,800/month churn risk from the other two customers on the same records system, proving the founder is finally done hiding bad news. It also gives me a much more concrete agenda for the 20-minute call—setting targets and failure conditions for the new feature—without floating the unrealistic idea of raising a round on six months of flat revenue."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-21-45Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B is completely candid about the organization's financial risks—specifically that this purchase leaves only $11,000 in reserves and that the $4,500 annual operating cost isn't budgeted yet—which builds the trust I need after having to chase their 2023 report for four months. Document A omits those crucial financial details and leaves in template placeholders, though it wisely avoids Document B's unanswered mention of a cold storage problem."
+}

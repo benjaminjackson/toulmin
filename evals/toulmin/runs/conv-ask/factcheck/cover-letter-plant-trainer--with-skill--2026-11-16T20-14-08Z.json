@@ -1,0 +1,17 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-14-08Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "without dropping any of the procedures they need to run a lab safely",
+      "why": "The provided information only states that the rewritten training went from 20 hours to 12, not that no procedures were dropped."
+    },
+    {
+      "quote": "In both cases I found out what people actually needed to learn and built the training around that.",
+      "why": "Neither the brief nor the user's additional facts explain the method or cause behind the reduced training hours or the higher AP Chemistry pass rate."
+    }
+  ],
+  "invented_count": 2
+}

@@ -1,0 +1,25 @@
+{
+  "task": "sales-salon-bookkeeping",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-25-13Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I'm Carla Benson, and Chair and Ledger has one kind of client: salon owners.",
+      "why": "The brief does not give the bookkeeper's name (Carla Benson) or business name (Chair and Ledger)."
+    },
+    {
+      "quote": "If I miss that date, you don't pay for that month.",
+      "why": "The brief does not mention a guarantee that a month's fee is free if the 10th deadline is missed."
+    },
+    {
+      "quote": "I'm available Tuesday to Saturday",
+      "why": "The brief states she does not answer the phone on Sundays or Mondays, which implies phone availability, not that she is available Tuesday to Saturday in general, nor does the brief explicitly state her Tuesday to Saturday schedule."
+    },
+    {
+      "quote": "Calls are Tuesday to Saturday.",
+      "why": "The brief does not state that the 20-minute calls take place Tuesday to Saturday, only that she does not answer the phone on Sundays or Mondays."
+    }
+  ],
+  "invented_count": 4
+}

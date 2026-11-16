@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-33-09Z",
+  "without_skill_run": "2026-11-16T20-22-51Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B wins my trust back because the founder proactively does the math on the new $150/month feature—acknowledging that 6 buyers is only $900/month and doesn't fix a $44,000 burn— rather than pitching it as a magic bullet. However, the margin is slight because B invents a 'Runway' section about deciding whether to raise or cut burn that wasn't in the facts provided, whereas A stayed strictly faithful to the brief and put the offer for monthly numbers right at the top where I wanted to see it."
+}

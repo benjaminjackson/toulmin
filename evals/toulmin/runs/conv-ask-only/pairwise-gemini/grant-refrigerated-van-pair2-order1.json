@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-22-53Z",
+  "without_skill_run": "2026-11-16T20-01-17Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A directly addresses my biggest hesitation—their four-month-late report from 2023—with a concrete explanation, a named person now in charge, and a commitment to quarterly updates. It also includes critical operational details that Document B leaves out or leaves in brackets, such as the letters of support from the farms, the ongoing fuel and insurance costs, and the exact state of their financial reserves."
+}

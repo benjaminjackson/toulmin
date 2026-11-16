@@ -1,0 +1,53 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-00-33Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "On a rocky stretch of coast, a lighthouse keeper's family faces the longest season of the year. Storms roll in. Supplies run low. And every night, no matter what, the lamp at the top of the tower has to be lit. Ships are counting on it, and so is everyone inside.",
+      "why": "The brief only says you see a lighthouse keeper's family through a winter, without giving gameplay or setting details about a rocky coast, storms rolling in, supplies running low, or a nightly requirement to light the lamp for ships."
+    },
+    {
+      "quote": "Each day you decide who tends the light, who keeps the household going, and what you can afford to give up before the thaw.",
+      "why": "The brief does not describe the game's mechanics, daily turn structure, or player decisions about tending the light, keeping the household going, or making sacrifices."
+    },
+    {
+      "quote": "This game wasn't designed in one burst of inspiration. It came from three years of watching people play it.",
+      "why": "The brief says playtesting started in 2023, but gives no current year to establish that three years have passed and does not describe how the game was conceived."
+    },
+    {
+      "quote": "families, longtime hobby gamers, and people who had never tried a cooperative game.",
+      "why": "The brief mentions 60 different people playtested the game, but gives no facts about who those players were or their gaming backgrounds."
+    },
+    {
+      "quote": "Nearly every session changed something. Rules got cut, choices got harder, and the tension got sharper.",
+      "why": "The brief states that 140 playtest sessions were run, but says nothing about what changed during those sessions or how the rules evolved."
+    },
+    {
+      "quote": "What's left is the version that kept people around the table saying \"one more winter.\"",
+      "why": "The brief does not contain this quote or state that playtesters asked to play again."
+    },
+    {
+      "quote": "on BoardGameGeek",
+      "why": "The brief only refers to \"the main board game ratings site\" and does not explicitly name BoardGameGeek."
+    },
+    {
+      "quote": "What you see on this page is what goes to the printer.",
+      "why": "While the user knows the art and rules are finished, neither the brief nor the user's information states that the visuals shown on the campaign page are the exact final files going to the printer."
+    },
+    {
+      "quote": "built from real quotes",
+      "why": "The user only mentions having a signed quote from the factory for manufacturing, not quotes for shipping or other costs."
+    },
+    {
+      "quote": "I'll post updates at every stage, including factory proofs, production photos, and shipping progress, so you always know where your copy is. If something goes wrong, you'll hear it from me first.",
+      "why": "The user committed to posting an update every two weeks, not to sharing factory proofs, production photos, and shipping progress at every stage."
+    },
+    {
+      "quote": "Backing on day one gets you the game at the campaign price",
+      "why": "The brief states the game costs $49 with US shipping, without mentioning a special \"campaign price\" as opposed to a higher post-campaign or retail price."
+    }
+  ],
+  "invented_count": 11
+}

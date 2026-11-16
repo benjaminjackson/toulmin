@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-16-07Z",
+  "without_skill_run": "2026-11-16T20-02-05Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses the four-month-late report from 2023—which is the first thing I'm thinking about when I see their name—and gives a concrete explanation and a named person responsible for timely quarterly and final reporting going forward. It also strengthens the case by noting that two farms have already provided letters of commitment, whereas Document A ignores the past reporting failure entirely."
+}

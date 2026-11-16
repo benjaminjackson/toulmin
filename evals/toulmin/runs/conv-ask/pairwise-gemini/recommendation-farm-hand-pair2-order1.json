@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-16-43Z",
+  "without_skill_run": "2026-11-16T20-05-29Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes concrete, convincing details—such as the $8,000 saved, arranging a trained replacement before his emergency trip, and the manager's commitment to keep a weekend job open for him during the program—that make the recommendation much stronger. Document B leaves placeholders and invents details not in the facts, like claiming he learned the software without being asked."
+}

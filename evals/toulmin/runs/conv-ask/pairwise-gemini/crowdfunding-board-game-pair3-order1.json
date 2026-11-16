@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-15-58Z",
+  "without_skill_run": "2026-11-16T20-02-19Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins my trust as a cautious backer by explicitly stating that the art and rules are 100% finished, providing the actual math on how 572 backers cover the print run and fees, and giving a realistic delivery date. Document B leaves out critical risk-mitigation details like the finished art, independent reviewer, and delivery timeline, while also making up details about who playtested the game."
+}

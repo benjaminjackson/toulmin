@@ -1,0 +1,21 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-33-09Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Subject: Investor update — November 2026",
+      "why": "Neither the brief nor the user notes give the year as 2026."
+    },
+    {
+      "quote": "and it's the result clinics care about most.",
+      "why": "Neither the brief nor the user notes state what result clinics care about most."
+    },
+    {
+      "quote": "I haven't decided yet whether we raise, cut burn or aim for break-even.",
+      "why": "Neither the brief nor the user notes state that the founder is undecided between raising, cutting burn, or aiming for break-even."
+    }
+  ],
+  "invented_count": 3
+}

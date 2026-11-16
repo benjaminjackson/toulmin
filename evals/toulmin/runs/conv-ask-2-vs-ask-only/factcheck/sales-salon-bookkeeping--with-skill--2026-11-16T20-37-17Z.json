@@ -1,0 +1,17 @@
+{
+  "task": "sales-salon-bookkeeping",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-37-17Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "including the ones who'd been with me for years",
+      "why": "The brief says she raised the price for existing clients, not that any of them had been with her for years."
+    },
+    {
+      "quote": "Nobody left over the new price.",
+      "why": "The brief gives who left last year, not whether anyone left in or after January when the price went up."
+    }
+  ],
+  "invented_count": 2
+}

@@ -1,0 +1,21 @@
+{
+  "task": "sales-salon-bookkeeping",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-36-19Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I'm Carla Benson, and Chair and Ledger is my business.",
+      "why": "The brief does not give the bookkeeper's name or the name of her business."
+    },
+    {
+      "quote": "So since January, if I miss the 10th, you don't pay for that month.",
+      "why": "The brief does not state that missing the 10th makes that month free or that such a policy began in January."
+    },
+    {
+      "quote": "If it isn't working for you, give me 30 days' notice and you're done.",
+      "why": "The brief does not mention a no-contract policy or a 30-day notice period to cancel."
+    }
+  ],
+  "invented_count": 3
+}

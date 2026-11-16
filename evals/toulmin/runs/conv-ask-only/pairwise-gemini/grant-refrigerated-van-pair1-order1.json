@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-21-45Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me the exact operational details I need to recommend a yes to the committee: it attaches letters of commitment from two farms, estimates annual operating costs, and explains the 2023 late report while naming the new treasurer, Dave Lin, as responsible for quarterly and final reporting. Document B leaves critical information like operating costs and the reporting fix as unfinished placeholders, which is an immediate red flag for an organization that already struggled with compliance."
+}

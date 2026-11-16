@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-37-17Z",
+  "without_skill_run": "2026-11-16T20-26-05Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A explicitly tells me that I don't have to fire my cousin who does my taxes, and instead I'll just be handing him clean books at tax time. Since jumping from $600 a year to almost $2,400 is a big step for my small salon, knowing there's no contract and I can cancel with 30 days' notice also makes me much more comfortable booking the call."
+}

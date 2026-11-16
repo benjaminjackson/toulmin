@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-26-04Z",
+  "without_skill_run": "2026-11-16T20-07-29Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives us the concrete details and protections we actually need to consider taking a phone job we don't want—specifically the $1.50/hour raise, shift priority for senior staff, and the 6-month trial period where we can still keep our severance if we hate it. It also respects us by being honest that the new hours won't suit everyone, rather than giving vague promises."
+}

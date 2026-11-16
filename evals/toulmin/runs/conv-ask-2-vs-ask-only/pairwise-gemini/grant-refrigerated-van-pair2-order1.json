@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-33-23Z",
+  "without_skill_run": "2026-11-16T20-22-53Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins my trust because it is completely transparent—especially about the $4,500 operating cost not yet being in their budget—and it sets clear, specific metrics for the quarterly check-ins, which I need after having to chase their 2023 report for four months. Document B glosses over the unbudgeted operating cost and leaves unedited '[Food Bank Name]' placeholders in the text, which is a red flag for an organization that already has a track record of administrative carelessness."
+}

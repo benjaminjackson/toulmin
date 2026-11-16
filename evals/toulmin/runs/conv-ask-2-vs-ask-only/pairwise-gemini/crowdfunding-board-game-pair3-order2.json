@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-34-57Z",
+  "without_skill_run": "2026-11-16T20-23-48Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B admits that the 23 BGG ratings came from people who met the designer at his convention table, which earns huge credibility with me as a burned backer, whereas Document A misleadingly claims strangers played it 'cold.' However, Document A includes the creator's actual name and reads like a better pitch, making it a close call, though B's radical honesty ultimately wins my trust."
+}

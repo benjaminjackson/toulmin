@@ -1,0 +1,25 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-23-48Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "where strangers sat down and played it cold",
+      "why": "The brief only says the user took the game to two conventions and that people played at his table, not that the players were strangers or played it cold."
+    },
+    {
+      "quote": "on BoardGameGeek, before a single copy has been printed",
+      "why": "The brief says the ratings are on 'the main board game ratings site' without naming BoardGameGeek, and does not state that zero copies have been printed (in fact, a YouTube reviewer already has a copy)."
+    },
+    {
+      "quote": "Expected delivery: November 2027.",
+      "why": "The user only gave the expected delivery as 'November next year' without specifying the year 2027."
+    },
+    {
+      "quote": "a family keeping a light burning through a long winter",
+      "why": "The brief says you see a lighthouse keeper's family through a winter, not that the family is keeping a light burning."
+    }
+  ],
+  "invented_count": 4
+}

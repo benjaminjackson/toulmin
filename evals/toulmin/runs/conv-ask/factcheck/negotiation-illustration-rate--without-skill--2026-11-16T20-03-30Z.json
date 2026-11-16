@@ -1,0 +1,17 @@
+{
+  "task": "negotiation-illustration-rate",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-03-30Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Each book also takes about four months of full-time work.",
+      "why": "The brief says each book takes about four months, but does not state that this is full-time work."
+    },
+    {
+      "quote": "That's below what I've been paid elsewhere, because I value working with you and your team.",
+      "why": "The brief states the writer wants $11,500, but does not give valuing the relationship with the publisher and their team as the reason it is lower than the $12,500 paid elsewhere."
+    }
+  ],
+  "invented_count": 2
+}

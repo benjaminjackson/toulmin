@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-21-45Z",
+  "without_skill_run": "2026-11-16T20-04-00Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me hard facts I can't argue with—specifically that the check-in score rose to 8.2 before the renovation even started, and that she has already kept overtime under plan during the last seven weeks. It also eases my worry about her lack of budget experience by showing she has already lined up weekly mentoring with our controller, Ben, rather than giving me a generic plan."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-34-54Z",
+  "without_skill_run": "2026-11-16T20-24-13Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A includes the full story of the five-week absence, which turns a potential red flag into a powerful example of responsibility and keeping one's word, while Document B slightly misrepresents the facts by saying he arranged cover before coming to the manager. Document A does miss the applicant's last name, which is annoying for a busy admissions officer, making this a close call."
+}

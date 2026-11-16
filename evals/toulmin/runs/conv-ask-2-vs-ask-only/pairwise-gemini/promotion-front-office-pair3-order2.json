@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-34-26Z",
+  "without_skill_run": "2026-11-16T20-23-49Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is complete and addressed to me by name, whereas Document A left unedited placeholders like '[GM name]' and invented a 30-day staffing plan that wasn't in the facts. Both documents smartly walked back the claim about guest scores by pointing to the pre-renovation jump to 8.2, which is a fair point I hadn't considered."
+}

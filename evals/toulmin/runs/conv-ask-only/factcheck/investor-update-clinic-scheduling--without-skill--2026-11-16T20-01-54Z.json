@@ -1,0 +1,25 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-01-54Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Q3 update",
+      "why": "The brief does not state which quarter the update is for, and the user's own facts indicate it is Q4 (launching next month on December 1)."
+    },
+    {
+      "quote": "This lets us sell to clinics that already use their records system's scheduler, including clinics like the chain we just lost. They get the no-show reduction without switching schedulers.",
+      "why": "The brief only states that the reminder feature will be sold on its own, without specifying that it is compatible with or targeted at clinics using their records system's built-in scheduler."
+    },
+    {
+      "quote": "Next quarter I'll report on:\n- New reminder-only customers and the revenue they bring in\n- Churn among our scheduling customers\n- Cash and runway",
+      "why": "Neither the brief nor the user's background information specifies the exact topics the founder commits to reporting on in the next quarter's update."
+    },
+    {
+      "quote": "especially groups that use the scheduler built into their records system. They're the main target for the reminder product.",
+      "why": "The user wants introductions to clinic chains generally, and neither the brief nor the user's notes say that groups using their records system's scheduler are the main target for the reminder product."
+    }
+  ],
+  "invented_count": 4
+}

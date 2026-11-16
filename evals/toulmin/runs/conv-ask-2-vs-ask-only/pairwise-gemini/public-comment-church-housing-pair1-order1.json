@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-21-45Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins our trust in a skeptical room by honestly acknowledging that traffic and 20 months of construction will be hard, while offering concrete mitigations like the neighbor construction group and weekday parking access. Document B omits the construction impacts and overpromises by claiming the project doesn't have to make traffic worse on Alder Road, even though the signal only maintains the rating at one intersection."
+}

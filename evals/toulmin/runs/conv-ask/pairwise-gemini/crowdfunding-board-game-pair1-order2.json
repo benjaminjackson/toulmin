@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-13-02Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A wins because it includes a clear budget breakdown that accounts for platform fees and a financial buffer, which is exactly what I look for after getting burned before, while staying completely honest to the known facts. Document B gives an expected delivery date of November 2027, which is promising for transparency, and mentions an upcoming third-party review, but it omits platform fees in its math and makes up details about whether the 60 playtesters were mostly strangers."
+}

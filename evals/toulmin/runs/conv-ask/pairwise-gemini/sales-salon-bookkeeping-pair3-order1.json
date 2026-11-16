@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-18-25Z",
+  "without_skill_run": "2026-11-16T20-06-39Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Knowing she actually managed a hair salon for six years makes me trust that she gets my daily reality, and the money-back guarantee if she misses the 10th is much more reassuring than just admitting she was late three times. Plus, seeing that I can keep my cousin for tax season while she takes daily payroll and sales tax off my plate makes the monthly cost feel worth a quick chat."
+}

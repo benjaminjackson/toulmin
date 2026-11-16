@@ -1,0 +1,33 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-13-02Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "into October 2027",
+      "why": "Neither the brief nor the additional notes state the current year, so the year 2027 cannot be known or calculated."
+    },
+    {
+      "quote": "Our reminders don't.",
+      "why": "Nothing in the brief or notes states that electronic records systems lack reminder features or do not compete with Cadence's reminders."
+    },
+    {
+      "quote": "A built-in scheduler doesn't give a clinic that drop",
+      "why": "The brief gives no information on the no-show rates or reminder capabilities of built-in schedulers."
+    },
+    {
+      "quote": "to clinics that keep whatever scheduler they already have. That includes clinics on the records system that cost us the chain.",
+      "why": "The brief does not state that the standalone reminder feature is compatible with any existing scheduler or specifically with the records system used by the chain that left."
+    },
+    {
+      "quote": "I haven't set a target for the reminder product yet. I also don't have a plan for what we do if it doesn't take off.",
+      "why": "Neither the brief nor the notes mention whether the founder has set a target for the reminder product or has a backup plan."
+    },
+    {
+      "quote": "I want your view on the reminder product, on what a sensible target would be, and on what we should do if we miss it.",
+      "why": "The notes state only that the founder wants 20 minutes on the phone with investors, without specifying these topics as the agenda for the call."
+    }
+  ],
+  "invented_count": 6
+}

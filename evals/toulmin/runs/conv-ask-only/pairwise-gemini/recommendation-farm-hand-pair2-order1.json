@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-25-16Z",
+  "without_skill_run": "2026-11-16T20-05-29Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes concrete details that carry weight in admissions—specifically the $8,000 saved and the promise of a weekend job while enrolled—and is ready to read without unfilled placeholders. However, by omitting the 5-week leave entirely while claiming he only missed two shifts in three years, Document A slightly distorts the record compared to Document B, though A is still far more persuasive to me as an admissions reader."
+}

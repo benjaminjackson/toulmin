@@ -1,0 +1,17 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-21-45Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "We have not been told whether this is the same part, or what happened to the first order.",
+      "why": "Neither the brief nor the user's additional information mentions whether management explained if this is the same part or what happened to the June order."
+    },
+    {
+      "quote": "We are posting this letter in the lobby of Harbor View on December 1",
+      "why": "The user stated the letter would be posted on 'the 1st of next month,' without specifying that next month is December."
+    }
+  ],
+  "invented_count": 2
+}

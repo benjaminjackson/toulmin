@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-34-26Z",
+  "without_skill_run": "2026-11-16T20-23-49Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both documents make the exact same strong points—proving the pre-renovation score increase, addressing the budget gap via Ben Oduya, and acknowledging the outside competition—and both resist overclaiming credit for the renovation. However, Document A is a complete memo addressed to me without unedited bracketed placeholders, and it wisely admits that controlling overtime for seven weeks isn't the same as managing a $1.1M budget, whereas Document B invents a 30-day staffing plan commitment not in the facts."
+}

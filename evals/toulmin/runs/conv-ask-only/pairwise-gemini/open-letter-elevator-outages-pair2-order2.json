@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-22-47Z",
+  "without_skill_run": "2026-11-16T20-03-40Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B drops the impossible $400,000 second elevator demand and focuses on actionable requests like a stair-climbing chair while offering practical help from the tenants. Furthermore, the specific fact about a resident missing two dialysis appointments creates a serious liability and PR risk that forces me to take them seriously and act immediately."
+}

@@ -1,0 +1,25 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-00-33Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "That record comes from clear written procedures, training that sticks, and holding people to the standard every day.",
+      "why": "The brief states that the user wrote the lab safety program and had no injuries needing more than first aid, but does not state the specific causes behind that safety record."
+    },
+    {
+      "quote": "I've learned how to turn what an experienced person knows into training a new person can act on, and how to check that they can actually do the work, not just recall it.",
+      "why": "The brief does not describe how the user designs the new-teacher training or how the user evaluates whether trainees can perform the lab procedures."
+    },
+    {
+      "quote": "I got there by tracking where students struggled and changing my teaching based on the data.",
+      "why": "The brief gives the increase in the AP Chemistry pass rate from 41% to 58%, but says nothing about what caused the increase or how the user achieved it."
+    },
+    {
+      "quote": "I've kept detailed records for years",
+      "why": "The brief does not mention the user keeping detailed records (and while the additional user notes mention keeping signed training records, they do not state that the user has kept detailed records for years)."
+    }
+  ],
+  "invented_count": 4
+}

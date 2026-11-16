@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-16-22Z",
+  "without_skill_run": "2026-11-16T20-06-23Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A directly addresses the two reasons I cancelled: the financial risk of bad weather (by offering a credit if boxes drop by more than a third) and the radio silence (by explaining why Sam went quiet and committing to weekly Thursday emails). Document B offers neither a weather-loss guarantee nor a communication commitment, and its unedited placeholders make it feel impersonal."
+}

@@ -1,0 +1,17 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-13-02Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I didn't get there by dropping requirements. I cut repetition and taught the reasons behind each procedure, so new teachers learned the steps faster and remembered them.",
+      "why": "The provided information states only that she rewrote the new-teacher lab training in 2020 and it went from 20 hours to 12, without explaining how she reduced the time or what changes she made to the curriculum."
+    },
+    {
+      "quote": "The same approach works in my classroom.",
+      "why": "The brief does not state what teaching approach raised the AP Chemistry pass rate or link it to the method used to shorten the new-teacher training."
+    }
+  ],
+  "invented_count": 2
+}

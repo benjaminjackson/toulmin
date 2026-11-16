@@ -1,0 +1,33 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-05-29Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "and he did it by paying close attention to the animals and the data together.",
+      "why": "The brief only states that he learned the herd management software and flags sick cows, not how he specifically detected the nine mastitis cases."
+    },
+    {
+      "quote": "Nobody required him to take on that responsibility. He saw the need and learned what he had to learn.",
+      "why": "The brief states that he learned the herd management software and flags sick cows, but does not say whether he was asked to do this or took it on voluntarily."
+    },
+    {
+      "quote": "caring for his father, who was seriously ill.",
+      "why": "The brief states that his father got sick in Mexico, not that his father was 'seriously ill' or that Tomás spent the five weeks caring for him."
+    },
+    {
+      "quote": "He came back and picked up his full responsibilities again.",
+      "why": "While the brief implies he returned, it does not state what his responsibilities were immediately upon returning."
+    },
+    {
+      "quote": "His spoken English is strong, and he communicates well with me, our vet, and the rest of the crew.",
+      "why": "The brief only says his written English is weaker than his spoken English, not that his spoken English is strong or that he communicates well with the manager, the vet, and the crew."
+    },
+    {
+      "quote": "He enrolled in a night English class on his own",
+      "why": "The brief states he is taking a night class for his written English, not that he enrolled in it on his own initiative."
+    }
+  ],
+  "invented_count": 6
+}

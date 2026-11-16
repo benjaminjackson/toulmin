@@ -1,0 +1,21 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-23-48Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "because they had no way to get down to the street.",
+      "why": "The provided facts state that a resident on the 8th floor missed two dialysis appointments during the August outage, but do not specify the exact cause or that they had no way to get down to the street."
+    },
+    {
+      "quote": "Five months later, we are being told the same thing: six to eight weeks.",
+      "why": "Neither the brief nor the user's notes specify the current month (November) or state that five months have passed since June."
+    },
+    {
+      "quote": "Earlier this year, 74 households signed a petition asking for a second elevator.",
+      "why": "The provided facts state that 74 households signed a petition, but do not state when the petition was signed."
+    }
+  ],
+  "invented_count": 3
+}

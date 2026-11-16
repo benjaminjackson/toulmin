@@ -1,0 +1,17 @@
+{
+  "task": "negotiation-illustration-rate",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-33-58Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The market has moved as well.",
+      "why": "The brief gives the current standard range for an illustrator with her record and a fee from another publisher, but does not state whether overall market rates have changed over time."
+    },
+    {
+      "quote": "Last year another publisher paid me $12,500 for a 32-page book of the same scope.",
+      "why": "The brief says the other publisher's book was of the \"same length\" (32 pages), not the \"same scope\" (such as also having about 14 full spreads)."
+    }
+  ],
+  "invented_count": 2
+}

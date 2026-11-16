@@ -1,0 +1,29 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-01-37Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I did that with clear procedures, repeated practice, and checks before anyone worked on their own.",
+      "why": "The brief does not state the specific methods used to get students to follow the lab safety program."
+    },
+    {
+      "quote": "I've learned to adjust that training for people who arrive with very different levels of experience.",
+      "why": "The brief does not mention the experience levels of the new science teachers or that the training was adjusted for them."
+    },
+    {
+      "quote": "I did it by finding where students got stuck and rebuilding those lessons until they worked.",
+      "why": "The brief does not explain what caused the AP Chemistry pass rate to increase or how the course was taught."
+    },
+    {
+      "quote": "I already work by keeping careful records, following written procedures, and documenting that people are competent before I sign off.",
+      "why": "The brief does not mention the user's record-keeping habits, signing off on competence, or following written procedures (though some of this appears in user_knows, it is not in the brief, and the document's use of placeholders shows the writer did not ask for user_knows)."
+    },
+    {
+      "quote": "I moved my courses fully onto Google Classroom",
+      "why": "The brief only states that the user uses Google Classroom, not that they migrated or moved their courses fully onto it."
+    }
+  ],
+  "invented_count": 5
+}

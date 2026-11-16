@@ -1,0 +1,21 @@
+{
+  "task": "grant-refrigerated-van",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-21-45Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Families struggle most to afford these foods, and they are also the hardest for us to get.",
+      "why": "Neither the brief nor the user's additional information states that fresh produce, milk, and eggs are the hardest foods for the food bank to obtain or the ones families struggle most to afford."
+    },
+    {
+      "quote": "with all of it going to families already on our rolls.",
+      "why": "The provided information does not state that all recovered fresh food will go exclusively to the households already being served rather than to additional households."
+    },
+    {
+      "quote": "A refrigerated van is the one thing standing between that food and the 610 households we serve.",
+      "why": "The brief states the food was turned down because the pantry had no way to pick it up cold \"or store it,\" and the user notes that the $4,500 annual cost for insurance and fuel is not in the budget yet."
+    }
+  ],
+  "invented_count": 3
+}

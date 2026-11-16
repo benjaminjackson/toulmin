@@ -1,0 +1,29 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-00-33Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Q3",
+      "why": "Neither the brief nor the user's additional information states specifically that this update is for Q3."
+    },
+    {
+      "quote": "This answers the problem the chain exposed.",
+      "why": "The brief does not state that the standalone reminder feature was created in response to the chain leaving or to solve the problem of losing customers to EHR schedulers."
+    },
+    {
+      "quote": "Over the next quarter we'll be watching:\n\n1. How many clinics buy standalone reminders, and how quickly\n2. Whether those buyers later upgrade to the full scheduler\n3. Whether reminder results stay as strong with clinics that don't use our scheduler",
+      "why": "The brief does not mention any specific metrics or hypotheses the company plans to track over the next quarter."
+    },
+    {
+      "quote": "Within the next quarter we'll decide whether to cut burn or prepare to raise, and the standalone reminder numbers will drive that decision. I'll share our reasoning in the next update.",
+      "why": "The brief says nothing about a plan or timeline to decide between cutting burn and raising money, nor that standalone reminder numbers will drive that decision."
+    },
+    {
+      "quote": "Advice from anyone who has seen a company sell one feature on its own next to a full product: pricing, packaging, and whether it cannibalized the main product.",
+      "why": "The founder did not ask for advice on unbundling features, pricing, packaging, or cannibalization; they only wanted 20-minute phone calls and introductions to clinic chains."
+    }
+  ],
+  "invented_count": 5
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-34-49Z",
+  "without_skill_run": "2026-11-16T20-23-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is a finished, honest application that owns the late 2023 report with a concrete plan (naming Dave Lin and offering quarterly numbers) and is transparent about its remaining reserves and unbudgeted operating costs. Document B was submitted with unfilled bracketed placeholders and leaves out the critical financial detail that this purchase will drain their reserves down to $11,000."
+}

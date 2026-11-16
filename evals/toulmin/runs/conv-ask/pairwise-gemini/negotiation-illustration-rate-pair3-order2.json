@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-14-57Z",
+  "without_skill_run": "2026-11-16T20-03-30Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B gives me concrete justification to request extra budget—like the fourth printing, a firm sketch delivery timeline, and free marketing spots—which helps offset the temptation to just hire the $8,000 newcomer. It also clearly states she cannot take the project at $9,000, forcing me to take the counteroffer seriously while avoiding the unverified claim that every other publisher pays $12,000."
+}

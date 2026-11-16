@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-14-08Z",
+  "without_skill_run": "2026-11-16T20-01-04Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A stands out because the applicant shows she understands the reality of a regulated environment by mentioning signed training records, passing state audits, and enrolling in a GMP course on her own initiative. Both letters wisely pushed back on the unrealistic claim of cutting our training time in half sight-unseen, but A provides concrete proof of streamlining adult training (from 20 hours to 12) and addressing the compliance gap."
+}

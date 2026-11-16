@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-21-45Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A uses the actual book title and Elena's name rather than leaving placeholders, and it sweetens the ask by offering a concrete six-week sketch timeline and two free marketing spot drawings. Those extra deliverables and reliability guarantees give me something tangible to justify stretching my budget instead of switching to the cheaper, newer illustrator."
+}

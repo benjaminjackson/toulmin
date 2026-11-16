@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-33-13Z",
+  "without_skill_run": "2026-11-16T20-22-47Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B informs me that they are sharing this letter with Channel 7, which is a major PR liability I have to respond to immediately, while Document A leaves that crucial leverage out. Additionally, Document B avoids accusing us of lying about ordering the part, whereas Document A's demand for proof that it was \"actually ordered\" makes me defensive."
+}

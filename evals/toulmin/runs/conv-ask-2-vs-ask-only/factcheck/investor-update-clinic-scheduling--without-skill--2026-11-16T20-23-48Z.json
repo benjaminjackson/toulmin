@@ -1,0 +1,21 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-23-48Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "To be honest, $150 is a starting point and I haven't tested it.",
+      "why": "Neither the brief nor the additional user information states that the $150 price is an untested starting point."
+    },
+    {
+      "quote": "With about 11 months of cash, I need to choose between raising money and cutting costs. I haven't decided yet, and I'd like your input first.",
+      "why": "The provided information does not mention that the founder is undecided between raising money and cutting costs or wants investor input on that choice."
+    },
+    {
+      "quote": "I'd like your view on raising versus cutting costs, and on the reminder launch.",
+      "why": "The user only asked for a 20-minute call and did not specify that the topic of the call would be raising money versus cutting costs or the reminder launch."
+    }
+  ],
+  "invented_count": 3
+}

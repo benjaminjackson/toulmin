@@ -1,0 +1,25 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-13-02Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "From: The residents of Harbor View Apartments, 220 Grant Street",
+      "why": "The brief states the letter is from the tenants' association, and the user explicitly noted that they cannot speak for all 112 households in the building."
+    },
+    {
+      "quote": "December 1, 2026",
+      "why": "The user only stated that the letter would be posted on the 1st of next month, without giving the month or year."
+    },
+    {
+      "quote": "4. An independent engineer's study of whether a second elevator can be added to this building.",
+      "why": "The user listed only three demands (a written repair date, a stair-climbing chair with trained staff, and a rent credit) and did not say the association is asking for an independent engineer's study."
+    },
+    {
+      "quote": "and residents would accept a clear answer.",
+      "why": "Neither the brief nor the user's additional information states that residents have agreed to accept the findings of an independent study."
+    }
+  ],
+  "invented_count": 4
+}

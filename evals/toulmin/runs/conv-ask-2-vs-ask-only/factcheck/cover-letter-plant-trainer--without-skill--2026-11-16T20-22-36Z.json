@@ -1,0 +1,17 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-22-36Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I also already have the habit the role depends on: no one does the work until their training is complete and documented.",
+      "why": "Neither the brief nor the user's additional information states that students or new teachers are barred from doing lab work until their training is complete and documented, only that signed training records are kept."
+    },
+    {
+      "quote": "I kept the content that mattered and dropped what didn't.",
+      "why": "The provided information states that rewriting the new-teacher lab training reduced it from 20 hours to 12, but does not explain how the time was cut or state that content was dropped."
+    }
+  ],
+  "invented_count": 2
+}

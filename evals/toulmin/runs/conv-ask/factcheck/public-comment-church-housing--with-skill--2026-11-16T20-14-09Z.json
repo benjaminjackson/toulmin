@@ -1,0 +1,17 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-14-09Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I drive Alder every day.",
+      "why": "Neither the brief nor the user's additional facts state that the speaker drives or drives on Alder Road every day."
+    },
+    {
+      "quote": "the intersection my neighbors and I use every day",
+      "why": "Neither the brief nor the user's additional facts state that the speaker and her neighbors use the intersection at Alder and 4th every day."
+    }
+  ],
+  "invented_count": 2
+}

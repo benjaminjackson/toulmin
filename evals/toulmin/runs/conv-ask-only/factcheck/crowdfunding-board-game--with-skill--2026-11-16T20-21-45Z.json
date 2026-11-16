@@ -1,0 +1,41 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-21-45Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Every session showed me something to fix",
+      "why": "Neither the brief nor the user's additional facts state that every playtest session revealed something that needed fixing."
+    },
+    {
+      "quote": "On BoardGameGeek",
+      "why": "The brief only refers to 'the main board game ratings site' and does not name BoardGameGeek."
+    },
+    {
+      "quote": "every one comes from someone who sat down and played.",
+      "why": "The user only stated that most of the 23 ratings came from people who played at their convention table, not that all 23 ratings came from people who sat down and played."
+    },
+    {
+      "quote": "Expected delivery is **November 2027**.",
+      "why": "The user gave the expected delivery as 'November next year' without specifying the year 2027 or the current year."
+    },
+    {
+      "quote": "held as a buffer against the cost increases that every first print run seems to run into",
+      "why": "While the $2,650 remainder follows from arithmetic, neither the brief nor the user's additional facts state that this amount is held as a buffer against cost increases."
+    },
+    {
+      "quote": "The goal is set at what it actually costs to make the game and get it to you, plus a small margin for safety. It isn't padded.",
+      "why": "Neither the brief nor the user's additional facts state the reasoning behind how the $28,000 goal was set or that the remaining amount is a safety margin."
+    },
+    {
+      "quote": "three years of testing",
+      "why": "The brief states that playtesting started in 2023, but neither the brief nor the user's facts state the current year or that testing has lasted three years."
+    },
+    {
+      "quote": "including when things go wrong, and I'll tell you right away if anything changes the timeline.",
+      "why": "The user only committed to posting an update every two weeks until shipping is complete, not to reporting right away if the timeline changes or specifically when things go wrong."
+    }
+  ],
+  "invented_count": 8
+}

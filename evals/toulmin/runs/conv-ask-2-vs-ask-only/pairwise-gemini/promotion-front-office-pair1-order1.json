@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-21-45Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both documents make a compelling and honest case—especially by pointing out the 8.2 pre-renovation score and outlining a concrete plan with Ben Oduya for the budget—but Document A directly addresses the elephant in the room: the outside candidate from a larger hotel. Document B also leaves in fill-in-the-blank brackets instead of using our names, making A feel much more ready and personal."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-34-54Z",
+  "without_skill_run": "2026-11-16T20-24-13Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A includes the applicant's full name and frames his night classes alongside his 3 a.m. shift to show exceptional grit, which is very persuasive when reading 150 applications quickly. However, Document A glosses over the five-week emergency absence from the brief, while Document B addresses it honestly and turns how he handled it into a compelling example of responsibility, though B forgets to include his last name."
+}

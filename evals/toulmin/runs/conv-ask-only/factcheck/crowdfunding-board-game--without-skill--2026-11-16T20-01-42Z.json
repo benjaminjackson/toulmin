@@ -1,0 +1,45 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-01-42Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The supply boat won't come again until spring. Storms will test the lamp, the stores and the people who depend on each other to get through the dark months.",
+      "why": "The brief only states that players see a lighthouse keeper's family through a winter, without mentioning a supply boat, storms, a lamp, or stores."
+    },
+    {
+      "quote": "Every choice is shared: who climbs the tower tonight, what you ration, what you risk when the weather turns.",
+      "why": "The brief does not describe the specific gameplay choices or mechanics such as climbing the tower, rationing, or weather changes."
+    },
+    {
+      "quote": "That includes families, experienced hobby gamers, solo players and people who'd never played a cooperative game.",
+      "why": "The brief states that about 60 different people playtested the game, but gives no information about their backgrounds, experience levels, or player counts during testing."
+    },
+    {
+      "quote": "Every session changed something. The version you're backing has been taken apart and rebuilt many times by the people it was made for.",
+      "why": "The brief does not mention what happened during the playtest sessions or how many times the game was revised."
+    },
+    {
+      "quote": "23 players have given it an average of 8.1 out of 10",
+      "why": "The brief gives the average rating as 8.1 from 23 people, but does not state that the rating scale is out of 10."
+    },
+    {
+      "quote": "More than 1,240 people",
+      "why": "The brief states that 1,240 people have signed up for the launch email, not more than 1,240."
+    },
+    {
+      "quote": "I've worked on [Game Title] on evenings and weekends for years.",
+      "why": "The brief says the creator works full time as a land surveyor and has run playtests since 2023, but does not state that they worked on the game specifically on evenings and weekends."
+    },
+    {
+      "quote": "I'll post updates at each stage: final proofs, production, freight and fulfillment.",
+      "why": "The brief does not mention any plan or schedule for posting campaign updates, nor does it list those production stages."
+    },
+    {
+      "quote": "the game design is finished",
+      "why": "The brief does not state whether the game design is finished (and even if drawn from the user's unshared knowledge, the user only stated that the art and rules are finished)."
+    }
+  ],
+  "invented_count": 9
+}

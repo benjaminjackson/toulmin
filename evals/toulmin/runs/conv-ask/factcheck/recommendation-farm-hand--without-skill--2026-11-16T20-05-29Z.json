@@ -1,0 +1,37 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-05-29Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "On a dairy farm, that kind of reliability is rare, and it is the main reason I trust him with the shift.",
+      "why": "The brief does not state why the manager trusted Tomás with the 3 a.m. shift."
+    },
+    {
+      "quote": "he did it by paying close attention to the animals and the data together.",
+      "why": "The brief only states that he learned the herd management software and flags sick cows, not how he detected the mastitis cases."
+    },
+    {
+      "quote": "Nobody required him to take on that responsibility. He saw the need and learned what he had to learn.",
+      "why": "The brief does not say whether learning the herd management software and flagging sick cows was voluntary or required."
+    },
+    {
+      "quote": "Last summer Tomás spent five weeks in Mexico caring for his father, who was seriously ill.",
+      "why": "The brief only states that his father 'got sick' in Mexico, not that he was 'seriously ill' or that Tomás was personally caring for him."
+    },
+    {
+      "quote": "He came back and picked up his full responsibilities again.",
+      "why": "The brief does not explicitly state what duties he returned to after his trip."
+    },
+    {
+      "quote": "His spoken English is strong, and he communicates well with me, our vet, and the rest of the crew.",
+      "why": "The brief only states that his written English is weaker than his spoken English, not that his spoken English is strong or that he communicates well with specific people."
+    },
+    {
+      "quote": "He enrolled in a night English class on his own",
+      "why": "The brief states he is taking a night class for his written English, not that he enrolled in it on his own initiative."
+    }
+  ],
+  "invented_count": 7
+}

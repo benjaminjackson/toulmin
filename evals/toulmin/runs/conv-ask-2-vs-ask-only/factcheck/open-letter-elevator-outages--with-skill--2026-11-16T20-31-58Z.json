@@ -1,0 +1,41 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-31-58Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "To: Diane Weller, Regional Manager, Keystone Property Group\nFrom: The tenants' association of Harbor View Apartments, 220 Grant Street",
+      "why": "The brief does not name the regional manager, the management company, the apartment building, or its street address."
+    },
+    {
+      "quote": "That is about one day in every eight.",
+      "why": "The brief does not state the current date, so it is impossible to calculate that 41 days is one-eighth of the year so far."
+    },
+    {
+      "quote": "We know the city inspected the elevator in September and issued a passing certificate, and we are glad it is safe. But a safe elevator that keeps breaking down",
+      "why": "The brief does not specify that the city's passing certificate only measures safety rather than breakdown frequency."
+    },
+    {
+      "quote": "a resident on the ninth floor who cannot use the stairs",
+      "why": "The brief does not state which floors the residents who cannot use the stairs live on."
+    },
+    {
+      "quote": "1. **A written date for the repair.**\n2. **A stair-climbing chair, with trained staff to operate it,** for residents who cannot use the stairs while the elevator is out.\n3. **A rent credit for every day the elevator is out of service.**",
+      "why": "The brief does not specify these three demands as what the tenants' association is asking for."
+    },
+    {
+      "quote": "The association will keep a list of residents who need help on the stairs and share it with Keystone so they can be reached quickly in an emergency. We can meet with you any weekday evening.",
+      "why": "The brief does not state that the association will maintain an emergency list of residents or that it is available to meet on weekday evenings."
+    },
+    {
+      "quote": "We are not engineers",
+      "why": "The brief does not state whether the association has an engineer's opinion or whether any members are engineers."
+    },
+    {
+      "quote": "Rosa Delgado",
+      "why": "The brief does not give the name of the association's secretary."
+    }
+  ],
+  "invented_count": 8
+}

@@ -1,0 +1,49 @@
+{
+  "task": "sales-salon-bookkeeping",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-35-10Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I'm Carla Benson.",
+      "why": "The brief does not give the bookkeeper's name (this comes from <user_knows>, not the brief)."
+    },
+    {
+      "quote": "I managed a hair salon for six years before I became a bookkeeper.",
+      "why": "The brief does not mention her previous experience managing a hair salon (this comes from <user_knows>, not the brief)."
+    },
+    {
+      "quote": "I raised the price when I added payroll",
+      "why": "The brief does not state the reason for the price increase or that payroll was newly added (this comes from <user_knows>, not the brief)."
+    },
+    {
+      "quote": "including the ones who'd been with me for years.",
+      "why": "The brief only says she raised the price for 'existing clients' and does not state that clients had been with her for years."
+    },
+    {
+      "quote": "I don't do income tax returns. Your accountant or tax preparer keeps doing those. The difference is that they get clean books from me.",
+      "why": "The brief does not state that she doesn't do income tax returns or that the client's accountant continues doing them (this comes from <user_knows>, not the brief)."
+    },
+    {
+      "quote": "Since January, if I miss the 10th, you don't pay for that month.",
+      "why": "The brief does not mention a guarantee of a free month if she misses the 10th or that this policy started in January (this comes from <user_knows>, not the brief)."
+    },
+    {
+      "quote": "Chair and Ledger is just me.",
+      "why": "The brief does not state that the name of the business is Chair and Ledger (this comes from <user_knows>, not the brief)."
+    },
+    {
+      "quote": "I take calls Tuesday to Saturday.",
+      "why": "The brief only states she doesn't answer the phone on Sundays or Mondays, not specifically that she takes calls Tuesday through Saturday (this comes from <user_knows>, not the brief)."
+    },
+    {
+      "quote": "There's no contract. If it isn't working for you, give me 30 days' notice and you're done.",
+      "why": "The brief does not state that there is no contract or that clients can cancel with 30 days' notice (this comes from <user_knows>, not the brief)."
+    },
+    {
+      "quote": "Because I do all the work myself, I can only take on about 5 new clients this year.",
+      "why": "The brief does not mention a limit of about 5 new clients this year or the cause for that limit (the 5-client limit comes from <user_knows>, not the brief)."
+    }
+  ],
+  "invented_count": 10
+}

@@ -1,0 +1,21 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-31-58Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "About $2,650: freight from the factory and import costs",
+      "why": "While $2,650 is the remaining difference in the $28,000 goal, neither the brief nor the user's notes state that this money is for freight from the factory and import costs."
+    },
+    {
+      "quote": "Expected delivery: November 2027.",
+      "why": "The user's notes say expected delivery is 'November next year,' without specifying the current year or the year 2027."
+    },
+    {
+      "quote": "Without this campaign, Lantern Winter stays a finished game that nobody can buy.",
+      "why": "Neither the brief nor the user's notes state that the creator has no other way to fund or sell the game without this campaign."
+    }
+  ],
+  "invented_count": 3
+}

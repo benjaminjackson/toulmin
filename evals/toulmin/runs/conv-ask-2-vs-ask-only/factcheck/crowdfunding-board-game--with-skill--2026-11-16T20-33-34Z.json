@@ -1,0 +1,25 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-33-34Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Each session showed me something that needed fixing, and I fixed it.",
+      "why": "The brief only states that 140 playtest sessions were run, not that every single session revealed a flaw that was fixed."
+    },
+    {
+      "quote": "Then I took the game to two conventions and put it in front of strangers.",
+      "why": "Neither the brief nor the user's additional information states whether the people who played at the conventions were strangers or whether all playtesting happened before the conventions."
+    },
+    {
+      "quote": "But they sat down cold, played to the end and rated it highly.",
+      "why": "The brief does not state that the convention players sat down with no prior exposure to the game or that they all played to the end."
+    },
+    {
+      "quote": "Delivery in November 2027.",
+      "why": "The user's information specifies delivery in 'November next year' without giving the current year, so the specific year 2027 is invented."
+    }
+  ],
+  "invented_count": 4
+}

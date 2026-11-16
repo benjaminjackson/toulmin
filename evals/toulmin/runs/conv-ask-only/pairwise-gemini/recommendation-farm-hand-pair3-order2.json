@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-26-06Z",
+  "without_skill_run": "2026-11-16T20-06-05Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B includes concrete details that make the endorsement much stronger, such as the $8,000 saved, arranging a trained replacement before his five-week absence, and the manager's commitment to hold a weekend job for him during school. Document A lacks these specifics and leaves placeholder brackets for the farm and applicant names."
+}

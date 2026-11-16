@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-37-18Z",
+  "without_skill_run": "2026-11-16T20-26-22Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A wins me back by directly promising I won't be 'left in the dark again,' which hits the exact reason I felt frustrated last summer. Its bolded bullet points also make the new credit and communication guarantees immediately stand out."
+}

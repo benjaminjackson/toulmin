@@ -1,0 +1,21 @@
+{
+  "task": "sales-salon-bookkeeping",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-16-14Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "So now, if I miss the 10th, you don't pay for that month.",
+      "why": "By using 'So now,' the writer states that missing the deadline three times last year was the cause for introducing the free-month guarantee, a causal link the brief and user information do not state."
+    },
+    {
+      "quote": "I work Tuesday to Saturday.",
+      "why": "The provided information only states that she does not answer the phone on Sundays or Mondays and takes calls Tuesday to Saturday, not that she only works Tuesday to Saturday."
+    },
+    {
+      "quote": "Like most of the salons I work with, I don't answer the phone on Sundays or Mondays.",
+      "why": "Neither the brief nor the user information mentions whether the salons she works with answer the phone or are open on Sundays or Mondays."
+    }
+  ],
+  "invented_count": 3
+}

@@ -1,0 +1,21 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-15-10Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "November 16, 2026",
+      "why": "Neither the brief nor the user's known facts specify the date November 16, 2026."
+    },
+    {
+      "quote": "Every student passes a lab safety quiz before working in the lab",
+      "why": "The provided facts only state that she keeps a signed record for every student's lab safety quiz, not that students must pass it before working in the lab."
+    },
+    {
+      "quote": "without dropping any required content",
+      "why": "The provided facts state that rewriting the training cut it from 20 hours to 12, but do not mention whether any required content was dropped."
+    }
+  ],
+  "invented_count": 3
+}

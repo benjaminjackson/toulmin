@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-36-47Z",
+  "without_skill_run": "2026-11-16T20-26-06Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B includes concrete evidence of how the applicant rebounds from academic setbacks (passing the dairy safety written test on his second try) and stays strictly faithful to the provided facts without inventing details. Document A invents the claim that nobody assigned him the software work, and leaves unfilled placeholders at the bottom instead of the manager's actual phone number."
+}

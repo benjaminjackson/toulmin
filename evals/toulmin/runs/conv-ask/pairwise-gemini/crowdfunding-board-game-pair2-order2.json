@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-14-23Z",
+  "without_skill_run": "2026-11-16T20-01-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins my trust as a burned backer because it confirms the art and rules are already finished, accounts for platform fees in the budget math, and avoids the trap of stretch goals that derail first-time creators. It also gives an actual delivery date and is completely transparent about where the 23 BoardGameGeek ratings came from."
+}

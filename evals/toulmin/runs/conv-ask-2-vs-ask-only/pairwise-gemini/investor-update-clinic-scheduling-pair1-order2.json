@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-21-45Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Both emails rebuild trust by confronting the silence and the churn risk head-on, which makes me willing to take the call. However, Document A frames the 20-minute call around a specific strategic decision (whether to raise or cut costs), whereas Document B invents several baffling admissions of incompetence not in the facts—like not knowing if their own product integrates with EHR schedulers two weeks before launch, or not knowing why three customers churned."
+}

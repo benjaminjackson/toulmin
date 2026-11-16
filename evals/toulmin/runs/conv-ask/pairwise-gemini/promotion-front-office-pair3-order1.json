@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-15-31Z",
+  "without_skill_run": "2026-11-16T20-05-06Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me hard facts that address my exact hesitations: it proves check-in scores were already rising to 8.2 before the renovation started, shows she kept overtime under plan during the last seven weeks, and presents a concrete plan with our controller Ben Oduya to learn the budget without adding to my workload. Document B relies on placeholders, offers no evidence to separate her impact from the renovation, and asks me to spend time training her on the budget."
+}

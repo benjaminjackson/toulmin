@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-36-30Z",
+  "without_skill_run": "2026-11-16T20-25-10Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly acknowledges the elephant in the room—the high turnover on the current phone team—and links that reality to the six-month severance guarantee, which makes me feel like leadership is being genuinely transparent rather than just trying to fill empty seats. Additionally, Document A left a '[Your name]' placeholder at the bottom, which feels careless and impersonal during a stressful announcement about our livelihoods."
+}

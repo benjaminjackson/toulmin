@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-35-10Z",
+  "without_skill_run": "2026-11-16T20-24-18Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A clearly states that she doesn't do tax returns and that my cousin would keep doing them, which relieves the guilt of firing family and makes her service feel like a way to help him out. It also stays completely honest to the brief and explicitly states there is no contract, making it much safer for me to try out switching from $600 a year to $199 a month."
+}

@@ -1,0 +1,33 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-01-04Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "That's across seven years",
+      "why": "The brief states the program was written in 2019, and does not provide the current year to calculate that seven years have passed since then."
+    },
+    {
+      "quote": "most of them handling chemicals for the first time",
+      "why": "The brief does not mention whether the students had prior experience handling chemicals."
+    },
+    {
+      "quote": "These are experienced professionals",
+      "why": "The brief only describes them as 'new science teachers' and does not state whether they are experienced professionals or first-year teachers."
+    },
+    {
+      "quote": "they need to be working safely and independently within days",
+      "why": "The brief states the training is about 12 hours each, not that the teachers must be working independently within days."
+    },
+    {
+      "quote": "I got there by tracking where students struggled and changing what I taught to fix it.",
+      "why": "The brief states that the AP Chemistry pass rate went from 41% to 58%, but gives no explanation of what caused the increase."
+    },
+    {
+      "quote": "What I do have is nine years of reading regulations, writing procedures, and learning new classroom systems on my own",
+      "why": "The brief only states the user wrote the lab safety program in 2019 and uses Google Classroom, not that they have nine years of reading regulations and learning new systems on their own."
+    }
+  ],
+  "invented_count": 6
+}

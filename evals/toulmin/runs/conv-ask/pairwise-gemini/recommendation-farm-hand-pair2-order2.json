@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-16-43Z",
+  "without_skill_run": "2026-11-16T20-05-29Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B includes concrete, persuasive details that Document A lacks—specifically the $8,000 savings estimate, the way the applicant arranged shift coverage before his emergency leave, and the manager's commitment to employ him part-time during the program. Document A also leaves in bracketed placeholders and glosses over the two days' notice for the five-week absence."
+}

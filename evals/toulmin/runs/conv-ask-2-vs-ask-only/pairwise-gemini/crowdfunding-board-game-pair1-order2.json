@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-21-45Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who lost money on an unfulfilled campaign, Document B wins me over with concrete commitments that directly address my fears about first-time creators: bi-weekly updates, a full refund if delivery is more than three months late, no scope-creeping stretch goals, and an upcoming independent review. However, Document A handles the leftover $2,650 more honestly by calling it a buffer rather than inventing freight and import figures not in the facts."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-34-29Z",
+  "without_skill_run": "2026-11-16T20-23-24Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters do a great job of translating high school lab safety into audit-ready documentation habits and sensibly walking back an unrealistic promise to cut training time. However, Document B wins slightly because it focuses on what a manufacturing plant needs (doing things 'the same way every time') without volunteering scheduling constraints and a June start date that might make me hesitate to even set up a phone screen."
+}

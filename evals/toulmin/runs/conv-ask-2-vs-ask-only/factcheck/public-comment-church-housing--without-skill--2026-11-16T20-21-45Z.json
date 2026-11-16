@@ -1,0 +1,25 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-21-45Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I know that's what many of my neighbors are worried about",
+      "why": "Neither the brief nor the user's additional facts state what the neighbors are worried about."
+    },
+    {
+      "quote": "Those are exactly the families who are waiting.",
+      "why": "The brief does not state the income eligibility requirements for the housing authority's waiting list or that the households on it are families."
+    },
+    {
+      "quote": "Nothing gets torn down and no open land gets paved.",
+      "why": "The brief states the apartments would be built on a 1.8-acre back parking lot, but does not state that nothing will be torn down or that no open land will be paved."
+    },
+    {
+      "quote": "our busiest intersection",
+      "why": "Neither the brief nor the user's additional facts state that the intersection at Alder and 4th is the neighborhood's busiest intersection."
+    }
+  ],
+  "invented_count": 4
+}

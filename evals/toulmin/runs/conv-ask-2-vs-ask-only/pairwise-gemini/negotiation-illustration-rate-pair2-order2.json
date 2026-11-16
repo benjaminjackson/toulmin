@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-33-00Z",
+  "without_skill_run": "2026-11-16T20-22-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Since my budget is $9,000 and I have a cheaper illustrator available, Document B is much more likely to convince me to fight for the extra funds because it reminds me of the fourth printing and sweetens the deal with a fast sketch turnaround and free marketing art. Document A offers no added value for the higher price and even leaves a placeholder for her name after four years of working together."
+}

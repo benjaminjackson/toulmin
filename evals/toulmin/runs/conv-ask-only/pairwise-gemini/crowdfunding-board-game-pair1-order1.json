@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-21-45Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins because it includes a realistic delivery timeline, states that both the art and rules are completely finished, and openly acknowledges the small sample size of the 23 ratings. Document B omits the delivery date and rulebook completion while fabricating details about the playtesters that weren't in the facts."
+}

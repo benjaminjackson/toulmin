@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-33-13Z",
+  "without_skill_run": "2026-11-16T20-22-47Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B's specific detail about a resident missing two dialysis appointments makes me realize we have a serious liability and PR problem, whereas Document A only speaks in generalities. However, Document A's explicit mention that this is going to Channel 7 also makes the PR threat immediate, while Document B's accusation that we might be lying about ordering the part makes me defensive, making it a close call."
+}

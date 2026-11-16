@@ -1,0 +1,17 @@
+{
+  "task": "staff-branch-closures",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-18-28Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "We haven't set start dates for the center or for training yet.",
+      "why": "Neither the brief nor the user's additional information states whether start dates for the center or for training have been set."
+    },
+    {
+      "quote": "The colleagues who served them in person bring years of experience to that work.",
+      "why": "The brief does not provide the tenure or amount of experience of the 14 staff members."
+    }
+  ],
+  "invented_count": 2
+}

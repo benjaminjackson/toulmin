@@ -1,0 +1,37 @@
+{
+  "task": "sales-salon-bookkeeping",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-26-05Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I'm Carla Benson.",
+      "why": "The brief does not give the bookkeeper's name (this only appears in user_knows)."
+    },
+    {
+      "quote": "Before I became a bookkeeper, I managed a hair salon for six years.",
+      "why": "The brief does not mention that she previously managed a hair salon or for how long (this only appears in user_knows)."
+    },
+    {
+      "quote": "Now I run Chair and Ledger, and I work only with hair and nail salons.",
+      "why": "The brief does not give the business name 'Chair and Ledger' (this only appears in user_knows)."
+    },
+    {
+      "quote": "I'll keep the books, run payroll and file your sales tax, every month.",
+      "why": "The brief states she does monthly books, payroll, and sales tax filing, but does not say payroll and sales tax are run and filed every month."
+    },
+    {
+      "quote": "Since January, if I miss the 10th, you don't pay for that month.",
+      "why": "The brief does not state that a missed deadline makes the month free or that this policy started in January (this only appears in user_knows)."
+    },
+    {
+      "quote": "I raised it for everyone, including my existing clients, because I added payroll for up to 10 staff, which I didn't offer before.",
+      "why": "The brief does not give the reason for the price increase or state that payroll was not offered before (this only appears in user_knows)."
+    },
+    {
+      "quote": "Pick a time that works for you, any day from Tuesday to Saturday.",
+      "why": "The brief only says she does not answer the phone on Sundays or Mondays and does not state that booking calls are available Tuesday to Saturday (this only appears in user_knows)."
+    }
+  ],
+  "invented_count": 7
+}

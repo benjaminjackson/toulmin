@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-34-28Z",
+  "without_skill_run": "2026-11-16T20-23-48Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A makes the tenants seem much more reasonable by dropping the unrealistic demand for a second elevator and focusing entirely on immediate, actionable remedies that don't depend on our supply chain delays. Document B's added demand for a costly engineering feasibility study just reinforces my view that the association is a group of unreasonable agitators who won't take no for an answer."
+}

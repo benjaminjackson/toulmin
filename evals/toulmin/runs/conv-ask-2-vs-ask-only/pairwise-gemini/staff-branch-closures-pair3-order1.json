@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-37-39Z",
+  "without_skill_run": "2026-11-16T20-26-04Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B includes the specific $1.50/hour pay raise for tellers, which is a concrete incentive to consider a role we already dread, whereas Document A keeps the pay increase vague. However, Document A's framing of the 6-month severance grace period ('You don't have to know today... You can try it') is much more persuasive, and Document B leaves in template placeholders like '[Your name]', making it a close call."
+}

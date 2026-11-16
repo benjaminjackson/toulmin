@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-14-23Z",
+  "without_skill_run": "2026-11-16T20-01-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins my trust by confirming the art and rules are completely finished, having a signed factory quote, and deliberately skipping stretch goals—which is the #1 reason first-time projects fail. Document B leaves in placeholder text, invents details not in the facts, and fails to mention an expected delivery date or whether the artwork is actually done."
+}

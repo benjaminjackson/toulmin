@@ -1,0 +1,13 @@
+{
+  "task": "staff-branch-closures",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-07-29Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Your manager will meet with each of you one-on-one by [DATE]. They'll go through your offer, answer your questions, and talk through your schedule.",
+      "why": "Neither the brief nor the additional background says that branch managers will hold one-on-one meetings with each employee to review offers and schedules (the background only mentions optional one-on-one meetings with HR)."
+    }
+  ],
+  "invented_count": 1
+}

@@ -1,0 +1,17 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-16-43Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "During the winter of 2025–26 he caught nine cases of mastitis early.",
+      "why": "The brief only says this happened \"last winter\" and does not provide the years 2025–26."
+    },
+    {
+      "quote": "In summer 2026, Tomás's father became seriously ill in Mexico, and Tomás had to leave for five weeks with two days' notice.",
+      "why": "The brief only says this happened \"in the middle of last summer\" and that his father \"got sick,\" without providing the year 2026 or stating the illness was \"seriously\" ill."
+    }
+  ],
+  "invented_count": 2
+}

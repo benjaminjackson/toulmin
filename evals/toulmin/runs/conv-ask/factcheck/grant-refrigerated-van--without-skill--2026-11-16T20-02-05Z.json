@@ -1,0 +1,17 @@
+{
+  "task": "grant-refrigerated-van",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-02-05Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Each month we will track how many pounds of fresh food the van collects and how many we distribute, and we will report those figures to the Foundation.",
+      "why": "Neither the brief nor the user's additional facts state that the food bank will track the specific poundage collected by the van each month (the user only offered to report total fresh food pounds quarterly)."
+    },
+    {
+      "quote": "This would be the Foundation's second investment in our work, following its $12,000 grant for shelving in 2023.",
+      "why": "The brief mentions the 2023 grant for shelving, but does not say it was the Foundation's only previous grant or that the new grant would be its second investment."
+    }
+  ],
+  "invented_count": 2
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-13-02Z",
+  "without_skill_run": "2026-11-16T20-03-02Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes a specific incident—a resident missing two dialysis appointments—that represents a serious PR and liability risk if it goes to the news, forcing me to take the association seriously rather than dismissing them as a few loud voices. Additionally, A offers concrete cooperation by volunteering to maintain an emergency mobility list and meet on any evening, whereas B reads like a generic template with placeholders."
+}

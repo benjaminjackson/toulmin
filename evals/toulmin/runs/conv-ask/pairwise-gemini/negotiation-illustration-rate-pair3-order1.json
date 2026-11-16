@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-14-57Z",
+  "without_skill_run": "2026-11-16T20-03-30Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me concrete ammunition to take to my publisher for a budget increase, specifically the fourth printing milestone, the firm schedule guarantee, and the two free marketing illustrations. It also makes clear that $9,000 is a hard walk-away number while signaling through the $11,000–$13,000 range that we might be able to settle at $11,000."
+}

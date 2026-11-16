@@ -1,0 +1,17 @@
+{
+  "task": "promotion-front-office",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-31-58Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I trained most of the team now working the desk.",
+      "why": "The brief and additional facts state that she rewrote the front desk training, not that she personally trained most of the current front desk staff."
+    },
+    {
+      "quote": "The changes that brought turnover down and check-in scores up are mine",
+      "why": "The provided facts give correlation in timing for turnover and check-in scores during her tenure and mention she rewrote training, but do not state what changes caused turnover to drop or scores to rise or that those changes were hers."
+    }
+  ],
+  "invented_count": 2
+}

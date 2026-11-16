@@ -1,0 +1,21 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-01-11Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Q3 update",
+      "why": "The brief states that this is a quarterly update, but it does not specify that it is for Q3."
+    },
+    {
+      "quote": "Competing as a standalone scheduler against a free built-in option is a hard position",
+      "why": "The brief states that the lost customer moved to a scheduler built into their electronic records system, not that the built-in scheduler was free."
+    },
+    {
+      "quote": "New clinics made up for that loss and the other three, so MRR held steady.",
+      "why": "The brief does not say whether the flat MRR was due entirely to the 9 new clinics or if expansion/contraction among existing customers also played a role."
+    }
+  ],
+  "invented_count": 3
+}

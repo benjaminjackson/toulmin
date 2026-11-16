@@ -1,0 +1,21 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-01-11Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Q3 update",
+      "why": "The brief does not state that this update is for Q3."
+    },
+    {
+      "quote": "Records vendors are bundling scheduling, and multi-site chains are the most likely to consolidate onto one system.",
+      "why": "The brief only states that one 12-clinic chain moved to the scheduler built into their electronic records system, not that records vendors broadly are bundling scheduling or that multi-site chains are the most likely to consolidate."
+    },
+    {
+      "quote": "against a free built-in option",
+      "why": "The brief states that the scheduler was built into the customer's electronic records system, not that it was free."
+    }
+  ],
+  "invented_count": 3
+}

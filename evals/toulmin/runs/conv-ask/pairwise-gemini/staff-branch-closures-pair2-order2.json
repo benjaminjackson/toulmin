@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-17-21Z",
+  "without_skill_run": "2026-11-16T20-06-53Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B includes the six-month trial period with guaranteed severance and seniority-based shift selection, which makes it much safer for long-tenured staff who dread phone work and evening hours to at least try the new job instead of immediately walking away. Document A leaves key dates as placeholders and lacks the specific protections that would actually convince us to stay."
+}

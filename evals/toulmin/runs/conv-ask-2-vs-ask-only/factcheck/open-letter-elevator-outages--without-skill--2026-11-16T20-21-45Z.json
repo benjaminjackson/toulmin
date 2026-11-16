@@ -1,0 +1,21 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-21-45Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "because they had no way to get down to the street",
+      "why": "The user only stated that an eighth-floor resident missed two dialysis appointments during the August outage, without specifying that they had no way at all to get down to the street."
+    },
+    {
+      "quote": "We have not been told whether this is the same part, or what happened to the first order.",
+      "why": "The brief states that management gave the same six-to-eight-week message in June and now, but says nothing about whether management explained what happened to the June order or whether it is the same part."
+    },
+    {
+      "quote": "December 1",
+      "why": "The user stated the letter would be posted on 'the 1st of next month' after a September inspection, without specifying that next month is December."
+    }
+  ],
+  "invented_count": 3
+}

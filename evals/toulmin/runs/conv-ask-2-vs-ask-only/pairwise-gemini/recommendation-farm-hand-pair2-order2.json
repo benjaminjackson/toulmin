@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-35-49Z",
+  "without_skill_run": "2026-11-16T20-25-16Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B feels more credible and honest because it includes specific anecdotes about how Tomás handled a family emergency and overcame a failed written test, whereas Document A omits the five-week absence and only uses his first name. Knowing he pushed through a failed safety test reassures the committee that he has the grit to handle our written coursework despite his language barrier."
+}

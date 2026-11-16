@@ -1,0 +1,45 @@
+{
+  "task": "win-back-farm-share",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-25-30Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I was working 16-hour days trying to save what was left",
+      "why": "The brief does not mention working 16-hour days or why the writer only sent one short email."
+    },
+    {
+      "quote": "Many of you told us in our fall survey that you'd come back if we fixed how we handle bad weeks.",
+      "why": "The brief does not mention a fall survey or any feedback from former members."
+    },
+    {
+      "quote": "A credit for any week weather cuts your box by more than a third.",
+      "why": "The brief does not state that the farm is offering a credit when weather cuts a box by more than a third."
+    },
+    {
+      "quote": "A short email from me every Thursday of the season.",
+      "why": "The brief does not mention a commitment to send a weekly Thursday email."
+    },
+    {
+      "quote": "The nets don't cover the greens",
+      "why": "The brief says the hail nets are over the tomatoes and peppers, but does not mention greens or state that the nets do not cover them."
+    },
+    {
+      "quote": "a badly short box will be credited.",
+      "why": "The brief only mentions credit for pausing up to 2 weeks, not credit for a short box."
+    },
+    {
+      "quote": "at the farm stand.",
+      "why": "The brief says people pick up shares every Thursday, but does not state the pickup is at a farm stand."
+    },
+    {
+      "quote": "Sam Turner",
+      "why": "The brief does not give the name of the farm owner."
+    },
+    {
+      "quote": "Greenbank Farm",
+      "why": "The brief does not give the name of the farm."
+    }
+  ],
+  "invented_count": 9
+}

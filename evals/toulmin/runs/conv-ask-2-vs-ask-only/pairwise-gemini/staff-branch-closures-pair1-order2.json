@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-35-19Z",
+  "without_skill_run": "2026-11-16T20-24-21Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A gives me the exact pay bump ($1.50/hour above teller pay) and uses clear headings so I can immediately find the shift, pay, and severance details I care about right now. While Document B honestly addresses the high turnover in the phone center, leaving out the specific pay increase and talking about us in the third person for most of the email makes it less compelling as I decide whether to stay."
+}

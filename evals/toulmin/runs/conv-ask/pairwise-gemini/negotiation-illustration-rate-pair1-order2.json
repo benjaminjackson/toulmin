@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-13-02Z",
+  "without_skill_run": "2026-11-16T20-02-34Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B uses my name, eliminates placeholders, and reminds me that Elena's book just went into its fourth printing, which helps me justify going over my $9,000 budget rather than pivoting to the $8,000 newcomer. Furthermore, stating firmly that she cannot take on another book at $9,000 makes it clear I will lose her if I don't find more money, while still sounding warm and collaborative."
+}

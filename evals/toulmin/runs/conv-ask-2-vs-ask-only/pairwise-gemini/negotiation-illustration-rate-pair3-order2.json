@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-33-58Z",
+  "without_skill_run": "2026-11-16T20-23-23Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Because my budget is capped at $9,000 and I have a cheaper illustrator available, Document A gives me the concrete leverage I need to request extra funds from management by highlighting the fourth printing and offering specific bonuses like six-week sketches and free marketing art. Document B's ultimatums without those added deliverables make it easier to just move on to the $8,000 illustrator, though A is slightly hurt by leaving unfilled brackets."
+}

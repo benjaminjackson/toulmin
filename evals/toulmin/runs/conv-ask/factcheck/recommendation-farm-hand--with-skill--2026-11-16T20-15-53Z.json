@@ -1,0 +1,25 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-15-53Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "the parlor is left ready for the next shift",
+      "why": "The brief states that Tomás runs the 3 a.m. milking shift on his own, but does not mention a milking parlor or that he leaves it ready for the next shift."
+    },
+    {
+      "quote": "In three years he has missed two shifts.",
+      "why": "The brief specifies that he missed two shifts in three years *not counting* the five weeks he left for Mexico, making the unqualified statement that he only missed two shifts factually inaccurate based on the brief."
+    },
+    {
+      "quote": "His spoken English is strong",
+      "why": "The brief only states that his written English is weaker than his spoken English, not that his spoken English is strong."
+    },
+    {
+      "quote": "a night class he signed up for on his own",
+      "why": "The brief states that he is taking a night class for his written English, but does not state that he signed up for it on his own."
+    }
+  ],
+  "invented_count": 4
+}

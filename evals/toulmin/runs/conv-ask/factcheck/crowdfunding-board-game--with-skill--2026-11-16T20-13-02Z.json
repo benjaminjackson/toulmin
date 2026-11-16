@@ -1,0 +1,33 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-13-02Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The family has to get through to spring with the light still burning",
+      "why": "The brief only says you see a lighthouse keeper's family through a winter, not that a game objective is keeping the light burning."
+    },
+    {
+      "quote": "Some were friends, but most were strangers who owed me nothing.",
+      "why": "Neither the brief nor the additional information mentions whether the playtesters were friends or strangers."
+    },
+    {
+      "quote": "watched people I'd never met sit down, play to the end, and stay to talk about it afterward.",
+      "why": "The provided facts only state that the creator took the game to two conventions and that most of the 23 ratings came from people who played at his table there, not that they were strangers who played to the end and stayed to talk afterward."
+    },
+    {
+      "quote": "and their average is 8.1 out of 10.",
+      "why": "The brief gives the average rating as 8.1, but does not state that the rating scale is out of 10."
+    },
+    {
+      "quote": "and I got a signed factory quote before I set the goal.",
+      "why": "The provided information states that the creator has a signed quote from the factory, but does not say it was obtained before setting the campaign goal."
+    },
+    {
+      "quote": "Expected delivery is November 2027.",
+      "why": "The additional information states that expected delivery is \"November next year,\" without giving the current year to establish that next year is 2027."
+    }
+  ],
+  "invented_count": 6
+}

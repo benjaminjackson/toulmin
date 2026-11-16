@@ -1,0 +1,33 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-25-16Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "For the past three years Tomás has run our 3 a.m. milking shift on his own, five days a week.",
+      "why": "The brief states that Tomás has worked at the farm for three years and that he currently runs the 3 a.m. shift on his own, not that he has run that shift on his own for the entire three years."
+    },
+    {
+      "quote": "In three years he has missed two shifts.",
+      "why": "The brief states that he missed two shifts in three years 'not counting those 5 weeks' he left for Mexico, which the document omits."
+    },
+    {
+      "quote": "Tomás also took on more than his job required.",
+      "why": "The brief states that he learned the herd management software and flags sick cows, but does not state whether this was outside his job requirements."
+    },
+    {
+      "quote": "Nobody asked him to do that.",
+      "why": "The brief does not state that Tomás learned the software and began flagging sick cows without being asked."
+    },
+    {
+      "quote": "His spoken English is strong.",
+      "why": "The brief only states that his written English is weaker than his spoken English, not that his spoken English is strong."
+    },
+    {
+      "quote": "On his own initiative he is taking a night class to bring his written English up to the same level. He did not wait for anyone to tell him to.",
+      "why": "The brief states that he is taking a night class for his written English, but does not say that he enrolled on his own initiative without being told to."
+    }
+  ],
+  "invented_count": 6
+}

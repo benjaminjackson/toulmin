@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-33-00Z",
+  "without_skill_run": "2026-11-16T20-22-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As an editor with a $9,000 budget and an $8,000 backup option, Document A makes a much stronger case to stretch my budget by reminding me of the spring fourth printing, locking in our September 1 deadline with fast six-week sketches, and throwing in two free marketing illustrations. Document B omits those extra commitments and carelessly ends with a '[Your name]' placeholder."
+}

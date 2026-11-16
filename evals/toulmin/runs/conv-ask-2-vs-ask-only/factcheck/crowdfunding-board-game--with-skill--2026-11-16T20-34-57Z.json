@@ -1,0 +1,25 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-34-57Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Every rule in this game has been played, questioned and played again across those sessions.",
+      "why": "The brief states that 140 playtest sessions were run, but does not state that every rule was questioned and played again."
+    },
+    {
+      "quote": "The design work is done, after three years and 140 sessions.",
+      "why": "The brief says playtesting started in 2023, but does not give the current year or state that design work took three years."
+    },
+    {
+      "quote": "Shipping outside the US isn't priced yet.",
+      "why": "The brief only gives the US price with shipping and says nothing about shipping outside the US or whether it has been priced."
+    },
+    {
+      "quote": "Estimated delivery is November 2027.",
+      "why": "The user only specifies 'November next year' without giving the current year, so 2027 is not established by the brief."
+    }
+  ],
+  "invented_count": 4
+}

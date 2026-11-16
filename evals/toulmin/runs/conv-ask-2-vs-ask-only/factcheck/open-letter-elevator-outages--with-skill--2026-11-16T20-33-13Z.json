@@ -1,0 +1,17 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-33-13Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "December 1, 2026",
+      "why": "The user only stated that the letter would be posted on 'the 1st of next month' after September, without giving the specific month or the year 2026."
+    },
+    {
+      "quote": "Five months later, we are being told the same thing.",
+      "why": "The brief does not state what the current month is, so the writer could not know that five months had passed since June."
+    }
+  ],
+  "invented_count": 2
+}

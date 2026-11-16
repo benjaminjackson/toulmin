@@ -1,288 +1,73 @@
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL cover-letter-plant-trainer pair 2 order 1: no valid verdict
-FAIL cover-letter-plant-trainer pair 1 order 2: no valid verdict
-FAIL cover-letter-plant-trainer pair 1 order 1: no valid verdict
-FAIL cover-letter-plant-trainer pair 2 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL crowdfunding-board-game pair 1 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL cover-letter-plant-trainer pair 3 order 2: no valid verdict
-FAIL crowdfunding-board-game pair 1 order 2: no valid verdict
-FAIL cover-letter-plant-trainer pair 3 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL crowdfunding-board-game pair 2 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL crowdfunding-board-game pair 2 order 2: no valid verdict
-FAIL crowdfunding-board-game pair 3 order 2: no valid verdict
-FAIL crowdfunding-board-game pair 3 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL grant-refrigerated-van pair 1 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL grant-refrigerated-van pair 1 order 2: no valid verdict
-FAIL grant-refrigerated-van pair 2 order 2: no valid verdict
-FAIL grant-refrigerated-van pair 2 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL grant-refrigerated-van pair 3 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL grant-refrigerated-van pair 3 order 2: no valid verdict
-FAIL investor-update-clinic-scheduling pair 1 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL investor-update-clinic-scheduling pair 1 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL investor-update-clinic-scheduling pair 2 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL investor-update-clinic-scheduling pair 3 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL investor-update-clinic-scheduling pair 2 order 2: no valid verdict
-FAIL investor-update-clinic-scheduling pair 3 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL negotiation-illustration-rate pair 1 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL negotiation-illustration-rate pair 1 order 2: no valid verdict
-FAIL negotiation-illustration-rate pair 2 order 1: no valid verdict
-FAIL negotiation-illustration-rate pair 2 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL negotiation-illustration-rate pair 3 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL open-letter-elevator-outages pair 1 order 2: no valid verdict
-FAIL open-letter-elevator-outages pair 1 order 1: no valid verdict
-FAIL negotiation-illustration-rate pair 3 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL open-letter-elevator-outages pair 2 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL open-letter-elevator-outages pair 3 order 1: no valid verdict
-FAIL open-letter-elevator-outages pair 2 order 2: no valid verdict
-FAIL open-letter-elevator-outages pair 3 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL promotion-front-office pair 1 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL promotion-front-office pair 2 order 1: no valid verdict
-FAIL promotion-front-office pair 2 order 2: no valid verdict
-FAIL promotion-front-office pair 1 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL promotion-front-office pair 3 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL public-comment-church-housing pair 1 order 2: no valid verdict
-FAIL promotion-front-office pair 3 order 2: no valid verdict
-FAIL public-comment-church-housing pair 1 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL public-comment-church-housing pair 2 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL public-comment-church-housing pair 3 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL public-comment-church-housing pair 3 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL public-comment-church-housing pair 2 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL recommendation-farm-hand pair 1 order 2: no valid verdict
-FAIL recommendation-farm-hand pair 2 order 1: no valid verdict
-FAIL recommendation-farm-hand pair 1 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL recommendation-farm-hand pair 2 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL sales-salon-bookkeeping pair 1 order 1: no valid verdict
-FAIL recommendation-farm-hand pair 3 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL recommendation-farm-hand pair 3 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL sales-salon-bookkeeping pair 1 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL sales-salon-bookkeeping pair 2 order 1: no valid verdict
-FAIL sales-salon-bookkeeping pair 2 order 2: no valid verdict
-FAIL sales-salon-bookkeeping pair 3 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL sales-salon-bookkeeping pair 3 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL staff-branch-closures pair 2 order 1: no valid verdict
-FAIL staff-branch-closures pair 1 order 2: no valid verdict
-FAIL staff-branch-closures pair 1 order 1: no valid verdict
-FAIL staff-branch-closures pair 2 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL win-back-farm-share pair 1 order 1: no valid verdict
-FAIL staff-branch-closures pair 3 order 2: no valid verdict
-FAIL staff-branch-closures pair 3 order 1: no valid verdict
-FAIL win-back-farm-share pair 1 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL win-back-farm-share pair 2 order 1: no valid verdict
-FAIL win-back-farm-share pair 3 order 1: no valid verdict
-FAIL win-back-farm-share pair 2 order 2: no valid verdict
-FAIL win-back-farm-share pair 3 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL cover-letter-plant-trainer pair 1 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL cover-letter-plant-trainer pair 2 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL cover-letter-plant-trainer pair 1 order 2: no valid verdict
-FAIL cover-letter-plant-trainer pair 2 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL crowdfunding-board-game pair 1 order 1: no valid verdict
-FAIL cover-letter-plant-trainer pair 3 order 1: no valid verdict
-FAIL crowdfunding-board-game pair 1 order 2: no valid verdict
-FAIL cover-letter-plant-trainer pair 3 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL crowdfunding-board-game pair 3 order 1: no valid verdict
-FAIL crowdfunding-board-game pair 2 order 2: no valid verdict
-FAIL crowdfunding-board-game pair 3 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL crowdfunding-board-game pair 2 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL grant-refrigerated-van pair 1 order 1: no valid verdict
-FAIL grant-refrigerated-van pair 2 order 1: no valid verdict
-FAIL grant-refrigerated-van pair 1 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL grant-refrigerated-van pair 2 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL grant-refrigerated-van pair 3 order 1: no valid verdict
-FAIL grant-refrigerated-van pair 3 order 2: no valid verdict
-FAIL investor-update-clinic-scheduling pair 1 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL investor-update-clinic-scheduling pair 1 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL investor-update-clinic-scheduling pair 2 order 2: no valid verdict
-FAIL investor-update-clinic-scheduling pair 3 order 1: no valid verdict
-FAIL investor-update-clinic-scheduling pair 2 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL investor-update-clinic-scheduling pair 3 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL negotiation-illustration-rate pair 1 order 2: no valid verdict
-FAIL negotiation-illustration-rate pair 1 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL negotiation-illustration-rate pair 2 order 1: no valid verdict
-FAIL negotiation-illustration-rate pair 2 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL negotiation-illustration-rate pair 3 order 1: no valid verdict
-FAIL negotiation-illustration-rate pair 3 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL open-letter-elevator-outages pair 1 order 2: no valid verdict
-FAIL open-letter-elevator-outages pair 1 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL open-letter-elevator-outages pair 2 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL open-letter-elevator-outages pair 2 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL open-letter-elevator-outages pair 3 order 2: no valid verdict
-FAIL open-letter-elevator-outages pair 3 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL promotion-front-office pair 1 order 1: no valid verdict
-FAIL promotion-front-office pair 1 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL promotion-front-office pair 2 order 1: no valid verdict
-FAIL promotion-front-office pair 2 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL promotion-front-office pair 3 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL promotion-front-office pair 3 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL public-comment-church-housing pair 1 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL public-comment-church-housing pair 1 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL public-comment-church-housing pair 2 order 2: no valid verdict
-FAIL public-comment-church-housing pair 2 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL public-comment-church-housing pair 3 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL public-comment-church-housing pair 3 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL recommendation-farm-hand pair 1 order 2: no valid verdict
-FAIL recommendation-farm-hand pair 1 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL recommendation-farm-hand pair 2 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL recommendation-farm-hand pair 2 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL recommendation-farm-hand pair 3 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL recommendation-farm-hand pair 3 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL sales-salon-bookkeeping pair 1 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL sales-salon-bookkeeping pair 1 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL sales-salon-bookkeeping pair 2 order 1: no valid verdict
-FAIL sales-salon-bookkeeping pair 2 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL sales-salon-bookkeeping pair 3 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL sales-salon-bookkeeping pair 3 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL staff-branch-closures pair 1 order 2: no valid verdict
-FAIL staff-branch-closures pair 1 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL staff-branch-closures pair 2 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL staff-branch-closures pair 2 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL win-back-farm-share pair 1 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL staff-branch-closures pair 3 order 2: no valid verdict
-FAIL staff-branch-closures pair 3 order 1: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL win-back-farm-share pair 1 order 2: no valid verdict
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL win-back-farm-share pair 2 order 1: no valid verdict
-FAIL win-back-farm-share pair 3 order 2: no valid verdict
-FAIL win-back-farm-share pair 2 order 2: no valid verdict
-FAIL win-back-farm-share pair 3 order 1: no valid verdict
+ok   cover-letter-plant-trainer pair 2 order 2: with-skill (clear)
+ok   cover-letter-plant-trainer pair 1 order 2: with-skill (clear)
+ok   cover-letter-plant-trainer pair 2 order 1: with-skill (clear)
+ok   cover-letter-plant-trainer pair 3 order 2: with-skill (clear)
+ok   crowdfunding-board-game pair 1 order 1: with-skill (clear)
+ok   cover-letter-plant-trainer pair 1 order 1: with-skill (clear)
+ok   cover-letter-plant-trainer pair 3 order 1: with-skill (clear)
+ok   crowdfunding-board-game pair 1 order 2: with-skill (slight)
+ok   crowdfunding-board-game pair 3 order 1: with-skill (clear)
+ok   crowdfunding-board-game pair 2 order 1: with-skill (clear)
+ok   crowdfunding-board-game pair 2 order 2: with-skill (clear)
+ok   grant-refrigerated-van pair 1 order 1: with-skill (clear)
+ok   grant-refrigerated-van pair 1 order 2: with-skill (clear)
+ok   crowdfunding-board-game pair 3 order 2: with-skill (clear)
+ok   grant-refrigerated-van pair 2 order 1: with-skill (clear)
+ok   grant-refrigerated-van pair 2 order 2: with-skill (clear)
+ok   grant-refrigerated-van pair 3 order 1: with-skill (clear)
+ok   investor-update-clinic-scheduling pair 1 order 1: with-skill (clear)
+ok   grant-refrigerated-van pair 3 order 2: with-skill (clear)
+ok   investor-update-clinic-scheduling pair 2 order 1: with-skill (clear)
+ok   investor-update-clinic-scheduling pair 1 order 2: with-skill (clear)
+ok   investor-update-clinic-scheduling pair 2 order 2: with-skill (clear)
+ok   investor-update-clinic-scheduling pair 3 order 1: with-skill (clear)
+ok   negotiation-illustration-rate pair 1 order 1: with-skill (clear)
+ok   investor-update-clinic-scheduling pair 3 order 2: with-skill (clear)
+ok   negotiation-illustration-rate pair 2 order 1: with-skill (slight)
+ok   negotiation-illustration-rate pair 3 order 1: with-skill (clear)
+ok   negotiation-illustration-rate pair 2 order 2: with-skill (slight)
+ok   negotiation-illustration-rate pair 1 order 2: with-skill (slight)
+ok   negotiation-illustration-rate pair 3 order 2: with-skill (clear)
+ok   open-letter-elevator-outages pair 1 order 2: with-skill (clear)
+ok   open-letter-elevator-outages pair 1 order 1: with-skill (clear)
+ok   open-letter-elevator-outages pair 2 order 1: with-skill (clear)
+ok   open-letter-elevator-outages pair 3 order 1: with-skill (clear)
+ok   open-letter-elevator-outages pair 2 order 2: with-skill (clear)
+ok   promotion-front-office pair 1 order 1: with-skill (clear)
+ok   open-letter-elevator-outages pair 3 order 2: with-skill (clear)
+ok   promotion-front-office pair 1 order 2: with-skill (clear)
+ok   promotion-front-office pair 2 order 2: with-skill (clear)
+ok   promotion-front-office pair 3 order 1: with-skill (clear)
+ok   promotion-front-office pair 3 order 2: with-skill (clear)
+ok   promotion-front-office pair 2 order 1: with-skill (clear)
+ok   public-comment-church-housing pair 1 order 1: with-skill (clear)
+ok   public-comment-church-housing pair 1 order 2: with-skill (clear)
+ok   public-comment-church-housing pair 2 order 1: with-skill (clear)
+ok   public-comment-church-housing pair 2 order 2: with-skill (clear)
+ok   public-comment-church-housing pair 3 order 2: with-skill (clear)
+ok   public-comment-church-housing pair 3 order 1: with-skill (clear)
+ok   recommendation-farm-hand pair 1 order 2: with-skill (clear)
+ok   recommendation-farm-hand pair 1 order 1: with-skill (clear)
+ok   recommendation-farm-hand pair 2 order 1: with-skill (clear)
+ok   recommendation-farm-hand pair 2 order 2: with-skill (slight)
+ok   recommendation-farm-hand pair 3 order 2: with-skill (clear)
+ok   recommendation-farm-hand pair 3 order 1: with-skill (clear)
+ok   sales-salon-bookkeeping pair 1 order 1: with-skill (clear)
+ok   sales-salon-bookkeeping pair 1 order 2: with-skill (clear)
+ok   sales-salon-bookkeeping pair 3 order 1: with-skill (clear)
+ok   sales-salon-bookkeeping pair 2 order 2: with-skill (slight)
+ok   sales-salon-bookkeeping pair 3 order 2: with-skill (clear)
+ok   sales-salon-bookkeeping pair 2 order 1: without-skill (clear)
+ok   staff-branch-closures pair 1 order 2: with-skill (clear)
+ok   staff-branch-closures pair 1 order 1: with-skill (clear)
+ok   staff-branch-closures pair 2 order 1: with-skill (clear)
+ok   staff-branch-closures pair 2 order 2: with-skill (clear)
+ok   staff-branch-closures pair 3 order 1: with-skill (clear)
+ok   win-back-farm-share pair 1 order 2: with-skill (clear)
+ok   win-back-farm-share pair 1 order 1: with-skill (clear)
+ok   win-back-farm-share pair 2 order 1: with-skill (clear)
+ok   win-back-farm-share pair 2 order 2: with-skill (clear)
+ok   win-back-farm-share pair 3 order 1: with-skill (clear)
+ok   win-back-farm-share pair 3 order 2: with-skill (clear)
+ok   staff-branch-closures pair 3 order 2: with-skill (clear)
+pairwise: every pair is already judged

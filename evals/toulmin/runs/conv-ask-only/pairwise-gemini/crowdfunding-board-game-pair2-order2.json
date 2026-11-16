@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-22-44Z",
+  "without_skill_run": "2026-11-16T20-01-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who has been burned by an unfulfilled campaign, Document B earns my trust by stating that the art and rules are 100% finished—avoiding the number one cause of delays—and by doing the exact math on platform fees, shipping for 572 backers, and contingency margin. Document A invents details about who playtested the game and leaves the budget math vague, whereas B proves this first-time creator actually understands the financial realities of fulfillment."
+}

@@ -1,0 +1,21 @@
+{
+  "task": "staff-branch-closures",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-16-18Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Many of you have heard members complain about it.",
+      "why": "Neither the brief nor the user's additional information states that staff have heard members complain about the hold times."
+    },
+    {
+      "quote": "We haven't decided yet how often shifts will rotate or whether evening shifts will pay more.",
+      "why": "The provided information only states that shifts will rotate and does not mention whether decisions have been made about rotation frequency or evening shift pay differentials."
+    },
+    {
+      "quote": "Phone and chat is now how most of our members reach us",
+      "why": "The brief only states that phone and chat contacts rose 60%, not that they now represent how a majority of members reach the credit union."
+    }
+  ],
+  "invented_count": 3
+}

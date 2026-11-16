@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-21-45Z",
+  "without_skill_run": "2026-11-16T20-04-19Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A directly addresses the commissioners' main concern about traffic on Alder Road by proposing a concrete policy solution—making the developer-funded traffic signal a condition of approval to keep the intersection at a C rating. Document B ignores the traffic signal offer entirely and tells the hostile neighbors that they can just handle a slower intersection, which is far less persuasive."
+}

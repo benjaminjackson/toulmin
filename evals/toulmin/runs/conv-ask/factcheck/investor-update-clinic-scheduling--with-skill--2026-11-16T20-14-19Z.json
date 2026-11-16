@@ -1,0 +1,33 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-14-19Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "which lasts until about October 2027.",
+      "why": "Neither the brief nor the user's notes state the current year, and $480,000 at a burn rate of $44,000 a month lasts about 11 months (from November to October of the following year, the same year as the January 7 update)."
+    },
+    {
+      "quote": "Electronic records vendors are building their own schedulers",
+      "why": "The brief only states that one electronic records system already had a built-in scheduler that three customers use, not that vendors across the industry are building them."
+    },
+    {
+      "quote": "it's our first real test of whether clinics will pay for reminders alone.",
+      "why": "The brief does not say whether the company has ever tested selling standalone reminders before."
+    },
+    {
+      "quote": "I don't yet know which other records systems the reminders will work with.",
+      "why": "Nothing in the brief or user notes mentions technical compatibility with electronic records systems or that the founder does not know which systems the reminders will work with."
+    },
+    {
+      "quote": "The January 7 update will report how many clinics bought, and what we learned.",
+      "why": "The user only committed to sending an update on January 7 and did not specify what that update will report."
+    },
+    {
+      "quote": "I haven't decided between raising money, cutting costs or aiming for profitability on the cash we have.",
+      "why": "Neither the brief nor the user notes mention these three options or state that the founder has not decided among them."
+    }
+  ],
+  "invented_count": 6
+}

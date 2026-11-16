@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-33-34Z",
+  "without_skill_run": "2026-11-16T20-22-44Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Having been burned by an unfulfilled project before, Document B's commitment to biweekly updates, a full refund if delivery is more than three months late, and no feature creep from stretch goals addresses my exact fears about first-time creators. I also respect that the creator was upfront about the 23 BGG ratings coming from their own convention tables, though Document A's exact math on the budget margin was also very reassuring."
+}

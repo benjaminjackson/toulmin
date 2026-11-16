@@ -1,0 +1,29 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-00-33Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "That record comes from clear written procedures, training that sticks, and holding people to the standard every day.",
+      "why": "The brief does not state the specific causes for the school's injury-free lab record or what the safety program entailed."
+    },
+    {
+      "quote": "Each of them must be ready to run a lab on their own.",
+      "why": "The brief does not state that new science teachers are required to run a lab on their own after the training."
+    },
+    {
+      "quote": "I've learned how to turn what an experienced person knows into training a new person can act on, and how to check that they can actually do the work, not just recall it.",
+      "why": "The brief does not mention how the user develops training materials or how they assess new teachers' practical performance."
+    },
+    {
+      "quote": "I got there by tracking where students struggled and changing my teaching based on the data.",
+      "why": "The brief gives the increase in the AP Chemistry pass rate, but does not explain the cause or the methods used to achieve it."
+    },
+    {
+      "quote": "I've kept detailed records for years",
+      "why": "The initial brief does not mention keeping detailed records, and the writer appears not to have asked the user for the additional information where record-keeping is mentioned."
+    }
+  ],
+  "invented_count": 5
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-21-45Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me concrete evidence that this teacher understands the reality of a regulated environment: keeping signed training records, passing two state safety audits, and proactively enrolling in a GMP basics course. Document B relies on vague assurances about documentation rather than specific examples, making Document A a much stronger candidate for a phone screen."
+}

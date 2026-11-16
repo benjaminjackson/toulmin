@@ -1,0 +1,37 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-21-45Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Every session showed me something to fix",
+      "why": "Neither the brief nor the user's additional facts state that every one of the 140 playtest sessions revealed something to fix."
+    },
+    {
+      "quote": "On BoardGameGeek",
+      "why": "The brief only refers to 'the main board game ratings site' and does not name BoardGameGeek."
+    },
+    {
+      "quote": "every one comes from someone who sat down and played.",
+      "why": "The user only stated that most of the 23 ratings came from people who played at the two conventions, not that every single rating came from someone who played."
+    },
+    {
+      "quote": "Expected delivery is **November 2027**.",
+      "why": "The user stated expected delivery is 'November next year', without specifying the current year or 2027."
+    },
+    {
+      "quote": "held as a buffer against the cost increases that every first print run seems to run into",
+      "why": "Neither the brief nor the user's additional facts state what the remaining funds will be used for or that they are held as a buffer."
+    },
+    {
+      "quote": "What I can show you is three years of testing",
+      "why": "The brief says testing has run 'since 2023', but gives no current year from which to work out that this equals three years."
+    },
+    {
+      "quote": "I'll post updates throughout production, including when things go wrong, and I'll tell you right away if anything changes the timeline.",
+      "why": "The user only committed to posting an update every two weeks until every copy ships, not to reporting right away whenever something changes the timeline."
+    }
+  ],
+  "invented_count": 7
+}

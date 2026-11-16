@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-14-03Z",
+  "without_skill_run": "2026-11-16T20-03-03Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B's tone is much more collaborative and frame the $11,500 ask as a partnership discount rather than a hard ultimatum. Document A's blunt statement that she 'can't take on another one at $9,000' makes me more inclined to just move on to my $8,000 backup illustrator rather than fight for extra budget."
+}

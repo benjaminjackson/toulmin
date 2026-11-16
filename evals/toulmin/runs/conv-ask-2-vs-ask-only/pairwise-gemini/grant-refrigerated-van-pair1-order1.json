@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-21-45Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is fully transparent about the pantry's remaining $11,000 in reserves and the fact that the $4,500 in annual operating costs isn't budgeted yet, which builds the trust I need after their late 2023 report. Document B hides those financial vulnerabilities, glosses over the storage issue, and leaves in bracketed placeholders."
+}

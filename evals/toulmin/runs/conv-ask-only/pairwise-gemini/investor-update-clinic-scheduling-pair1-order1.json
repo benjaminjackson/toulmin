@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-21-45Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "After six months of silence, Document A actually rebuilds my trust by owning the exact reason for the delay, making concrete date commitments, and transparently quantifying the ongoing EHR churn risk ($3,800/mo) and initial pipeline for the new feature (6 clinics). Document B's promise of 'from now on you will' rings hollow without specific commitments, and it leaves out critical numbers that A uncovered."
+}

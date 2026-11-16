@@ -1,0 +1,17 @@
+{
+  "task": "grant-refrigerated-van",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-34-49Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "and no one else was assigned to the report.",
+      "why": "The provided information states that the previous treasurer was in the hospital for most of the time the report was late, but it does not state that no one else was assigned to the report."
+    },
+    {
+      "quote": "and it went to waste.",
+      "why": "The brief states that the pantry had to turn down the 9,000 pounds of produce from local farms, but it does not say what the farms did with the food afterward or that it went to waste."
+    }
+  ],
+  "invented_count": 2
+}

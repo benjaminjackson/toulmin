@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-18-28Z",
+  "without_skill_run": "2026-11-16T20-07-29Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B gives us actual dates for offers and decisions instead of placeholders, and the commitment that long-term staff will get to choose their shifts first makes a huge difference to those of us who have been here over ten years and dread working until 8 p.m. Document A also starts with 'I want you to hear this from me first' when we've been hearing rumours for two weeks, while B is much more honest and concrete."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-23-59Z",
+  "without_skill_run": "2026-11-16T20-02-05Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses my biggest concern—the four-month-late report on the 2023 shelving grant—by explaining what happened, taking accountability, and naming a specific person and timeline for future reporting. It also provides proof of farm partnerships via attached letters and acknowledges ongoing operating costs, whereas Document A ignores the past reporting failure and ongoing vehicle expenses while volunteering the red flag that they are draining their reserves to $11,000."
+}

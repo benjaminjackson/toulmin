@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-21-45Z",
+  "without_skill_run": "2026-11-16T20-03-02Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B drops the unrealistic demand for a second elevator, focuses on concrete solutions like a stair-climbing chair, and includes the specific detail about a resident missing dialysis—which combined with the explicit plan to go to the news on December 1 creates real PR and liability urgency I can't ignore. Document A wastes time demanding we commission an engineering study for a $400,000 elevator that can't be built and asks for vague 'advance notice' of unexpected breakdowns."
+}

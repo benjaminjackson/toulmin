@@ -1,0 +1,21 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-23-23Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Those are the kinds of households on that list.",
+      "why": "Neither the brief nor the user's information states the income qualifications or demographics of the households on the county housing authority's waiting list."
+    },
+    {
+      "quote": "Nothing has to be torn down and no land has to be bought.",
+      "why": "The provided facts state that the church wants to build on its back parking lot with a nonprofit builder, but do not specify whether any existing structures on the lot must be demolished or whether the land is being purchased or leased."
+    },
+    {
+      "quote": "We have a paved lot that sits unused most of the week",
+      "why": "The brief states that the lot is a back parking lot, but does not specify that it is paved rather than gravel or dirt."
+    }
+  ],
+  "invented_count": 3
+}

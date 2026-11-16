@@ -1,0 +1,21 @@
+{
+  "task": "promotion-front-office",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-04-35Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "No shifts went uncovered and service didn't slip.",
+      "why": "The brief only states that the applicant covered the front office manager's job alone for seven weeks, and says nothing about whether front desk shifts went uncovered or whether service levels were maintained during that time."
+    },
+    {
+      "quote": "The renovated lobby gave guests a better first impression.",
+      "why": "The brief states that the lobby and rooms were renovated during the same period the check-in score rose, but does not state that the renovated lobby gave guests a better first impression."
+    },
+    {
+      "quote": "Both mattered, and I led the staffing side.",
+      "why": "The brief does not establish what caused the check-in score to rise or whether both the renovation and the staffing changes contributed to the increase."
+    }
+  ],
+  "invented_count": 3
+}

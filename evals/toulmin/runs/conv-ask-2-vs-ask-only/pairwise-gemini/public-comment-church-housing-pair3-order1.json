@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-34-03Z",
+  "without_skill_run": "2026-11-16T20-23-23Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A wins more trust from both the skeptical neighbors and the traffic-focused commissioners by honestly acknowledging the 20-month construction impact and offering concrete concessions like weekday neighbor parking and a construction oversight group. Document B leaves out these practical neighborly commitments, though its choice to lead with traffic is also effective."
+}

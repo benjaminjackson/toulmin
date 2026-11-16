@@ -1,0 +1,21 @@
+{
+  "task": "staff-branch-closures",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-26-04Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "That's three more hours a day than our branches are open.",
+      "why": "The brief states the center will be open 8 a.m. to 8 p.m. (12 hours) and the branches were open 9 to 5 (8 hours), which is a difference of four hours a day, not three."
+    },
+    {
+      "quote": "For the people who join it, it means higher pay",
+      "why": "The brief states staff are offered jobs \"at the same pay or higher\" and the user only specifies that starting pay is above current teller pay, not that every employee joining the center will receive higher pay than they earn today."
+    },
+    {
+      "quote": "We'll share the center's opening date and the training schedule as soon as they're set.",
+      "why": "Neither the brief nor the additional user information mentions that the center's opening date and training schedule are not yet set or promises to share them later."
+    }
+  ],
+  "invented_count": 3
+}

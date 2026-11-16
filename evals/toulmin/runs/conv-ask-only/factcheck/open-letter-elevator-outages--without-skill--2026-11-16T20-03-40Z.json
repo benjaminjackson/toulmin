@@ -1,0 +1,17 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-03-40Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Five months later, you are telling us the same thing.",
+      "why": "The brief only notes an inspection in September and a statement in June, so it does not specify that the current month is November (five months after June)."
+    },
+    {
+      "quote": "We have had no explanation for the delay and no firm delivery date.",
+      "why": "The brief does not state whether or not management has given an explanation for the delay in the controller part order."
+    }
+  ],
+  "invented_count": 2
+}

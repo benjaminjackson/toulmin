@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-33-34Z",
+  "without_skill_run": "2026-11-16T20-22-44Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins my trust by being completely transparent about the small convention sample size for the 8.1 rating, rather than trying to pass 23 ratings off as proof of a hit. More importantly, having lost $85 on an unfulfilled campaign before, A's explicit commitments to biweekly updates, no stretch goal bloat, and a late-delivery refund directly address my biggest fears about backing a first-time creator."
+}

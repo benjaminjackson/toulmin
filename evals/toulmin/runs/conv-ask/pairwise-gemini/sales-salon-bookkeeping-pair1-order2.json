@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-16-14Z",
+  "without_skill_run": "2026-11-16T20-05-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins me over because Carla gives her name, shares that she actually managed a hair salon for six years, and makes it clearer that she prepares clean monthly books to hand off to my cousin at tax time rather than replacing him. I also much prefer her 'free month' guarantee if she misses a deadline, whereas Document A bringing up a recent price hike and missed deadlines without a guarantee made me hesitate."
+}

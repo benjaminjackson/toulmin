@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-13-02Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A immediately addresses my main hesitation about hiring teachers by highlighting signed training records that have passed state audits, enrolled GMP coursework, and an understanding that plant procedures are fixed requirements. Document B relies on generic teacher-to-corporate translation, compares Google Classroom to a regulated LMS, and doesn't even have the placeholders filled in."
+}

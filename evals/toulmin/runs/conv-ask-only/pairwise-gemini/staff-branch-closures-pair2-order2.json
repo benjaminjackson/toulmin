@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-25-10Z",
+  "without_skill_run": "2026-11-16T20-06-53Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B gives me the actual details I need to decide whether to stay—including the $1.50 raise, seniority for shift picks, and the Elm Avenue location—rather than leaving placeholders. Most importantly, the six-month guarantee that I can try the phone role and still keep my ten-plus years of severance if I hate it makes me much more willing to give the new job a shot."
+}

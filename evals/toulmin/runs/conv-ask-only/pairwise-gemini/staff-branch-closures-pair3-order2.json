@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-26-04Z",
+  "without_skill_run": "2026-11-16T20-07-29Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B gives us the concrete details we actually need to decide—like the $1.50 raise, Elm Avenue location, seniority for shift picks, and especially the 6-month severance guarantee if we try the phones and hate it. Document A leaves out all those protections and doesn't even have real dates."
+}

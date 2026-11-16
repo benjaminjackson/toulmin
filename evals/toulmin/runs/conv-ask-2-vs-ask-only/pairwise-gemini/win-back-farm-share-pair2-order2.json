@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-36-24Z",
+  "without_skill_run": "2026-11-16T20-25-30Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both emails are nearly identical and hit all the right notes on accountability, communication, and concrete policies for bad weeks. Document B has a slight edge because its phrasing feels a bit warmer and more personal ('you deserved better', 'in good weeks and bad', 'I'd love to have you back'), though Document A's inclusion of a direct link is slightly more convenient."
+}

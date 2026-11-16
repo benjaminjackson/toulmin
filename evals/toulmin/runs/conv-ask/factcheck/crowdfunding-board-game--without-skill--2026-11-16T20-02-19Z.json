@@ -1,0 +1,45 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-02-19Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The supply boat stops coming in December.",
+      "why": "The brief does not mention a supply boat or the month of December."
+    },
+    {
+      "quote": "Together you ration what's in the stores, keep the lamp burning through storms, and look after each other when the cold and the quiet start to take their toll.",
+      "why": "The brief only states that players see a lighthouse keeper's family through a winter, without giving these specific gameplay actions or details."
+    },
+    {
+      "quote": "I've spent three years making sure this game works before asking anyone to pay for it.",
+      "why": "The brief states that playtesting has run since 2023, not that the creator has spent three years making sure the game works."
+    },
+    {
+      "quote": "from families to veteran gamers",
+      "why": "The brief only says the game was playtested with about 60 different people and gives no information about who those people were."
+    },
+    {
+      "quote": "where strangers sat down, played and told me what they thought",
+      "why": "The brief says the creator took the game to two conventions and got ratings from people who played at the table, not that those players were strangers who gave feedback."
+    },
+    {
+      "quote": "Every one of those sessions changed something. The game you're backing has been reworked again and again, based on what happened when real people played it.",
+      "why": "The brief does not state that every playtest session led to changes or that the game was repeatedly reworked."
+    },
+    {
+      "quote": "I've built this game in the evenings and on weekends.",
+      "why": "The brief says the creator works full time as a land surveyor, not that the game was built in the evenings and on weekends."
+    },
+    {
+      "quote": "plus a small buffer for the surprises every first-time creator is warned about",
+      "why": "Neither the brief nor the additional background mentions that the funding goal includes a financial buffer for surprises."
+    },
+    {
+      "quote": "Crowdfunding is the only way this game gets printed.",
+      "why": "The brief does not say that crowdfunding is the only way the creator can get the game printed."
+    }
+  ],
+  "invented_count": 9
+}

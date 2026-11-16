@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-21-45Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document B frames the request for a 20-minute call around getting my input on the critical runway decision, whereas Document A bizarrely boasts about having no timeline for deciding on an 11-month runway and invents technical doubts about a product launching next week. Document B also avoids the unfill-in-the-blank bracket placeholders if the writer had asked for the founder's name, though even with placeholders, B's business sense is much stronger."
+}

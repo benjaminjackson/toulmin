@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-35-19Z",
+  "without_skill_run": "2026-11-16T20-24-21Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B includes the specific $1.50/hour raise for tellers, which is a huge concrete incentive when we are dreading moving to the phones, whereas Document A leaves the pay increase vague. While Document A bravely addresses the 30% turnover on the phone team, Document B is much easier to read when we're stressed and gives us the exact financial numbers we need to weigh our options."
+}

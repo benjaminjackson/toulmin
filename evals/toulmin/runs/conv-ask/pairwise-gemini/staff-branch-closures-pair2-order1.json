@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-17-21Z",
+  "without_skill_run": "2026-11-16T20-06-53Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives us concrete dates, the exact location on Elm Avenue, and the crucial commitments that our seniority counts toward shift selection and that we can try the phone role for six months without losing our severance. Document B leaves key details as unfilled placeholders and lacks the six-month trial guarantee, which is the main thing that would convince those of us who hate phone work to give it a shot."
+}

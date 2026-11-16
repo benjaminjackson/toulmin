@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-15-13Z",
+  "without_skill_run": "2026-11-16T20-04-20Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A names me and the property directly, cites a specific missed dialysis appointment that poses a real PR and liability risk if it goes to the media, and shows the association is reasonable by conceding the second elevator issue and offering practical help with a resident list. Document B feels like a generic template and makes open-ended demands rather than offering a constructive, two-way solution."
+}

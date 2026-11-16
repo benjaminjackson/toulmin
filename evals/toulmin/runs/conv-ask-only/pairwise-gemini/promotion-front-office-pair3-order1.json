@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-23-49Z",
+  "without_skill_run": "2026-11-16T20-05-06Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me hard data that proves the front desk contributed to the guest score increase independent of our renovation—specifically the jump from 7.9 to 8.2 before construction started. It also directly mitigates my concerns about the $1.1M budget and the more experienced outside candidate by pointing to recent overtime control, an already-arranged mentorship with our controller Ben Oduya, and a concrete 30-day plan for Friday check-in waits."
+}

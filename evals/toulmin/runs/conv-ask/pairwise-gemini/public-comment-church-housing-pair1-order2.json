@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-13-02Z",
+  "without_skill_run": "2026-11-16T20-04-19Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses the commission's and neighbors' main concern by asking to make the builder-funded traffic signal a binding condition of the permit, which keeps the intersection at a C rating. Document A dismisses the traffic concern by telling angry neighbors they can handle a slower light, and it invents facts not in the brief (like who is on the waiting list and that a traffic light already exists at the intersection)."
+}

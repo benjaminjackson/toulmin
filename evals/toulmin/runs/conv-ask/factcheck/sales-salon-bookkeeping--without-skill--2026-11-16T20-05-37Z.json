@@ -1,0 +1,21 @@
+{
+  "task": "sales-salon-bookkeeping",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-05-37Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Every account reconciled and categorized, with a clear report showing where your money went.",
+      "why": "The brief only says she does \"monthly books\" and does not specify reconciling every account or providing a report."
+    },
+    {
+      "quote": "including ones who had been with me for years.",
+      "why": "The brief only states that the price was raised for \"existing clients\" and does not say how long any clients have been with her."
+    },
+    {
+      "quote": "There are no introductory deals and no surprise increases for new clients.",
+      "why": "The brief gives the current and previous monthly price, not a policy on introductory deals or future price increases."
+    }
+  ],
+  "invented_count": 3
+}

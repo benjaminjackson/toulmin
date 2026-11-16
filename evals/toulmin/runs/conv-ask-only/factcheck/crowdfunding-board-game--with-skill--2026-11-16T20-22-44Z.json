@@ -1,0 +1,25 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-22-44Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "put it in front of people who had never heard of it.",
+      "why": "Neither the brief nor the additional notes state whether the people who saw or played the game at the two conventions had heard of it before."
+    },
+    {
+      "quote": "On BoardGameGeek, 23 players have rated it, with an average of 8.1 out of 10.",
+      "why": "The brief only refers to 'the main board game ratings site' and does not name BoardGameGeek or specify that the rating is out of 10."
+    },
+    {
+      "quote": "That's exactly why I didn't launch until the hard parts were done.",
+      "why": "The provided facts do not state that being a first-time publisher or working full time as a land surveyor was the cause for finishing the art and rules before launching."
+    },
+    {
+      "quote": "That margin is there for the costs every first print run runs into. I've kept the budget small on purpose: printing and shipping make up most of it, and almost nothing else is left to go wrong.",
+      "why": "The provided facts give the numbers from which the remaining margin is calculated, but do not state why that margin exists or that the creator intentionally kept the budget small."
+    }
+  ],
+  "invented_count": 4
+}

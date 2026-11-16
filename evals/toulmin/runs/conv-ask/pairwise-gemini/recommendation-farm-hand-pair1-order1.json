@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-15-53Z",
+  "without_skill_run": "2026-11-16T20-04-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes concrete details that carry huge weight for an admissions committee—specifically the $8,000 saved using herd software and the manager's guarantee of weekend employment while enrolled—whereas Document B has unfilled placeholders and needlessly brings up a five-week absence without the mitigating context that he arranged his own coverage."
+}

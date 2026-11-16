@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-14-03Z",
+  "without_skill_run": "2026-11-16T20-03-03Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B uses our actual names rather than placeholders and clearly states that Elena cannot take on another book at $9,000. Knowing that $9,000 is no longer an option forces me to actually weigh finding extra budget against switching to the newer illustrator, whereas Document A feels more like a soft request I could push back on."
+}

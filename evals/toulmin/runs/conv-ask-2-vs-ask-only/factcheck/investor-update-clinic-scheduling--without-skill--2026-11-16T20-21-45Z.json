@@ -1,0 +1,17 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-21-45Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I also don't yet know how many of our clinics overall use a records system that has its own scheduler.",
+      "why": "Neither the brief nor the additional information mentions whether the founder knows how many clinics overall use an electronic records system with a built-in scheduler."
+    },
+    {
+      "quote": "I haven't decided whether to raise more money or cut costs, and I'd like your view before I do.",
+      "why": "The provided information only states that the founder wants 20 minutes on the phone with investors, without specifying that the purpose is to decide between raising money or cutting costs."
+    }
+  ],
+  "invented_count": 2
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-33-23Z",
+  "without_skill_run": "2026-11-16T20-22-53Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Both narratives do a great job of addressing the late 2023 report head-on and correcting the unrealistic math about doubling fresh food, which restores my trust after having to chase them down last time. However, Document B wins because it doesn't leave '[Food Bank Name]' placeholders in the text and is completely transparent about the $4,500 operating cost not yet being in their budget, whereas Document A hides that gap and overlooks their lack of cold storage."
+}

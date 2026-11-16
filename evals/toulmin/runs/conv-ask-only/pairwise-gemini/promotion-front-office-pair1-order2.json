@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-21-45Z",
+  "without_skill_run": "2026-11-16T20-04-00Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B convinces me much more effectively because it proves the check-in score rose to 8.2 before the renovation even began, rather than making a vague claim. It also addresses my concerns about the $1.1M budget by pointing out that overtime has already been kept under plan for the last seven weeks and that Ben Oduya has already agreed to weekly mentoring."
+}

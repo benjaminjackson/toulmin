@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-24-18Z",
+  "without_skill_run": "2026-11-16T20-05-37Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me a real person's name and tells me she actually managed a salon for six years, while also clarifying that I can keep my cousin for tax time and just hand him clean books. Plus, A offers a free-month guarantee on deadlines instead of unnecessarily telling me about recent price hikes and missed deadlines like B does."
+}

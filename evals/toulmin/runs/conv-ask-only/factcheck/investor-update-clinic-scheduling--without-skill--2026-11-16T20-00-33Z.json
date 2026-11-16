@@ -1,0 +1,33 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-00-33Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Q3 update",
+      "why": "The brief does not state that this is a Q3 update (in fact, the user context mentions the next month is December and the next quarter starts in January, which would make this Q4, though it appears the writer only used the initial brief)."
+    },
+    {
+      "quote": "This answers the problem the chain exposed.",
+      "why": "The brief states that the standalone reminder feature is launching next month, but does not state that it was created in response to losing the 12-clinic chain."
+    },
+    {
+      "quote": "Over the next quarter we'll be watching:\n\n1. How many clinics buy standalone reminders, and how quickly\n2. Whether those buyers later upgrade to the full scheduler\n3. Whether reminder results stay as strong with clinics that don't use our scheduler",
+      "why": "The brief does not mention any specific metrics or hypotheses the company plans to track over the next quarter."
+    },
+    {
+      "quote": "Within the next quarter we'll decide whether to cut burn or prepare to raise, and the standalone reminder numbers will drive that decision. I'll share our reasoning in the next update.",
+      "why": "The brief says nothing about plans or a timeline to decide between cutting burn and raising money, nor that standalone reminder sales will drive that decision."
+    },
+    {
+      "quote": "especially clinics that are happy with their EHR but still have trouble with no-shows. They're exactly who the new product is for.",
+      "why": "The brief does not state who the target audience for the standalone reminder product is, and the user context specifies wanting introductions to clinic chains rather than clinics happy with their EHR."
+    },
+    {
+      "quote": "Advice from anyone who has seen a company sell one feature on its own next to a full product: pricing, packaging, and whether it cannibalized the main product.",
+      "why": "Neither the brief nor the user context states that the founder is asking investors for advice on unbundling, pricing, packaging, or cannibalization."
+    }
+  ],
+  "invented_count": 6
+}

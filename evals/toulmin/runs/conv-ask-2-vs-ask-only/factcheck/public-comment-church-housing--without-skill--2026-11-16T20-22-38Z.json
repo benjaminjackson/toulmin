@@ -1,0 +1,13 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-22-38Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "We're talking about working people, seniors, and families who are already waiting.",
+      "why": "The brief only states that the apartments would rent to households earning under 60% of the area median income and that 412 households are on the waiting list, without specifying that these households are working people, seniors, or families."
+    }
+  ],
+  "invented_count": 1
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-34-49Z",
+  "without_skill_run": "2026-11-16T20-23-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is a complete, ready-to-submit narrative that is fully transparent about the pantry's remaining $11,000 in reserves and unbudgeted operating costs, while framing the 9,000-pound seasonal increase sensibly (a 50% boost during harvest months). Document A left unedited bracketed placeholders—including one where the operating cost explanation should be—which is a serious red flag when I am already worried about this applicant's attention to administrative detail."
+}

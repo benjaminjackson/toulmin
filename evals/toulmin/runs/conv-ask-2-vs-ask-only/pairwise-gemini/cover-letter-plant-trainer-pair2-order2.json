@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-33-17Z",
+  "without_skill_run": "2026-11-16T20-22-36Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A wins me over because it explicitly states the exact mindset a regulated plant requires: 'no one does the work until their training is complete and documented,' and she is honest that a state school audit isn't the same standard as GMP. Both letters do a great job of addressing my skepticism about teachers by focusing on signed records, state audits, and keeping required content when streamlining onboarding, making it a close call."
+}

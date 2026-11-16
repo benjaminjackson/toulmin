@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-13-02Z",
+  "without_skill_run": "2026-11-16T20-04-00Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A directly addresses my skepticism about the renovation by proving the scores were already rising before construction began, and it eases my concern about the $1.1M budget by pointing out that she has kept overtime under plan for seven weeks and already secured Ben Oduya's help. It also makes a strong point about avoiding another leadership transition compared to an outside hire, whereas Document B is an unfinished template lacking these specific, convincing details."
+}

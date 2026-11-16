@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-16-18Z",
+  "without_skill_run": "2026-11-16T20-06-16Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is much more direct and gives us the concrete details we actually need to make a decision—including exact dates, the center's location, and the crucial fact that senior staff get first pick of shifts. Document B feels like an unfinished corporate template with placeholders and doesn't offer the seniority benefit for scheduling."
+}

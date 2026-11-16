@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-17-24Z",
+  "without_skill_run": "2026-11-16T20-06-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B wins me over because she managed a salon for six years and explicitly explains that she hands clean books over to my tax person, meaning I wouldn't have to fire my cousin to work with her. However, it's a slight margin because Document A did a better job of spelling out the exact salon headaches—like booth rent, commission splits, and retail tax—that I deal with all year."
+}

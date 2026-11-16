@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-37-39Z",
+  "without_skill_run": "2026-11-16T20-26-04Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A gives us the actual dollar amount of the pay increase ($1.50 an hour above teller pay), whereas Document B only gives a vague promise of 'current pay or higher.' Document A also makes it much easier for a stressed employee to immediately find all the key terms—pay, hours, severance, and the 6-month trial period—in one clean list."
+}
