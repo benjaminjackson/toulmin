@@ -1,0 +1,68 @@
+#!/usr/bin/env bash
+# Measure how often the skill loads without being named, in a normal Claude Code session.
+# Argument: a directory for the raw event streams. Use a directory outside the repository: a normal session's event
+# stream holds the names of every skill, plugin and tool on this machine, and that does not belong in git.
+# Why: the eval sessions are stripped, so the toulmin skill is the only skill in them. A real session lists many
+# skills, and the model has to pick this one from its description alone.
+# What it does: sends the request of every task once to `claude -p` with the user's normal settings plus the plugin,
+# then prints one line per task and the share of sessions that called the skill.
+set -uo pipefail
+if [ $# -ne 1 ]; then
+  echo "usage: trigger-rate <output directory outside the repository>" >&2
+  exit 1
+fi
+output_directory=$1
+script_directory=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+repository_root=$(cd "$script_directory/../.." && pwd)
+maximum_parallel_sessions=${TOULMIN_MAX_PARALLEL:-8}
+mkdir -p "$output_directory"
+
+# Run one normal session for one task and save its event stream.
+# Arguments: task name, output directory. The session starts in a new empty directory so that no project file steers it.
+run_one_task() {
+  local task_name=$1
+  local task_output_directory=$2
+  local working_directory
+  working_directory=$(mktemp -d)
+  local request
+  request=$(/opt/homebrew/bin/yq -r '.prompt' "$script_directory/tasks/$task_name.yaml")
+  # The parentheses start a subshell, so the change of directory ends with it.
+  (
+    cd "$working_directory" || exit 1
+    printf '%s' "$request" | timeout 600 claude -p --model opus --plugin-dir "$repository_root/toulmin" --tools "Skill,Read,Glob,Grep" --allowedTools "Skill,Read,Glob,Grep" --output-format stream-json --verbose > "$task_output_directory/$task_name.jsonl" 2> "$task_output_directory/$task_name.stderr"
+  )
+  rmdir "$working_directory" 2>/dev/null
+  return 0
+}
+
+# Print the names of the skills one session called, one per line.
+# Argument: the path of an event stream. `fromjson?` skips any line that is not JSON instead of stopping jq.
+called_skills() {
+  jq -rR 'fromjson? | select(.type == "assistant") | .message.content[]? | select(.type == "tool_use" and .name == "Skill") | .input.skill' "$1"
+}
+
+if [ "${1:-}" != "" ] && [ "${TRIGGER_RATE_COUNT_ONLY:-}" != "1" ]; then
+  # export -f makes the function visible to the bash that xargs starts for each task.
+  export -f run_one_task
+  export script_directory repository_root
+  for task_file in "$script_directory"/tasks/*.yaml; do
+    basename "$task_file" .yaml
+  done | xargs -P "$maximum_parallel_sessions" -I {} bash -c 'run_one_task "$1" "$2"' run-one-task {} "$output_directory"
+fi
+
+session_count=0
+loaded_count=0
+for task_file in "$script_directory"/tasks/*.yaml; do
+  task_name=$(basename "$task_file" .yaml)
+  stream_path="$output_directory/$task_name.jsonl"
+  skills=$(called_skills "$stream_path" 2>/dev/null | sort -u | tr '\n' ' ')
+  session_count=$((session_count + 1))
+  # The plugin's skill is toulmin:toulmin. A bare "toulmin" is another copy of the skill installed on this machine.
+  if [[ " $skills" == *" toulmin:toulmin "* ]] || [[ " $skills" == *" toulmin "* ]]; then
+    loaded_count=$((loaded_count + 1))
+    echo "loaded      $task_name: $skills"
+  else
+    echo "NOT loaded  $task_name: ${skills:-no skill called}"
+  fi
+done
+echo "The skill loaded in $loaded_count of $session_count normal sessions."
