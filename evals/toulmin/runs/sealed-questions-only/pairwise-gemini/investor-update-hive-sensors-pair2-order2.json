@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-33Z",
+  "without_skill_run": "2026-11-16T21-02-25Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is a finished, transparent update that addresses my concerns about slow sales by committing to a concrete burn reduction, offering monthly cash reporting, and showing $250k in existing momentum alongside clear technical differentiation against the new competitor. Document A is an unfinished template full of bracketed placeholders that fails to answer the most critical questions about the business and the round."
+}

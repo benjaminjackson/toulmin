@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-20-41Z",
+  "without_skill_run": "2026-11-16T21-02-37Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes the extra $11,000 pledged by local businesses, showing that the town only needs to raise $49,000—virtually the exact amount ($47,000) we actually managed to raise during the failed campaign. Seeing that the goal is truly within reach this time, combined with the promise of public spending reports at the library and using the Majestic's actual name instead of placeholders, convinces me to chip in a small amount despite my tight budget this month."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-19-49Z",
+  "without_skill_run": "2026-11-16T21-02-07Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is a complete, ready-to-score summary that clearly accounts for the funding gap with a specific family fund pledge and explains how the new position is insulated from the October county contract renewal. Document B is an unfinished draft full of bracketed placeholders, leaving critical rubric items like the funding match and staff replacement unanswered."
+}

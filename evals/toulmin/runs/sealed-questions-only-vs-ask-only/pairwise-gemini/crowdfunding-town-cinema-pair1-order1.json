@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins because it does the math for me: showing that we only need $49,000 from the community—just $2,000 more than the $47,000 we actually raised last time—convinces me this campaign will succeed. Having Ruth's name at the bottom, the library spending reports, and the Thanksgiving reopening date also give me the confidence to chip in what I can even after my hospital donation."
+}

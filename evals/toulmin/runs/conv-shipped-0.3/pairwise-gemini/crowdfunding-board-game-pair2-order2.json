@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-23-38Z",
+  "without_skill_run": "2026-11-16T20-01-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses my fears as someone who has been burned by a failed campaign before: it confirms the art and rules are completely done, avoids the scope creep of stretch goals, breaks down the exact math including platform fees, and offers a concrete refund guarantee and bi-weekly update schedule. Document A feels like generic boilerplate that even makes up details about who the playtesters were and gives vague, standard reassurances in the risks section."
+}

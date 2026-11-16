@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins because the captain offers concrete commitments to share his trip logs and test a catch-reporting app with our staff, and provides specific, honest testimony that two other captains in his harbor plan to sell if bookings drop like 2016. Document B lacks these tangible offers of cooperation and leaves placeholders in the text."
+}

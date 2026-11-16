@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-49Z",
+  "without_skill_run": "2026-11-16T21-34-27Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters use the exact same facts to effectively counter my skepticism—specifically by offering to share purchase invoices, admitting where their data is incomplete, and showing that members in 14 counties face a 20-mile drive to a chain pharmacy. Document B is slightly better because it leads immediately with the July 1 contract renewal and what they are asking for, and it directly links the brand-name offset admission to the offer to review their invoices."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-44Z",
+  "without_skill_run": "2026-11-16T21-09-16Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B anticipates our most urgent practical concerns—like whether there are even enough desks, the cost of commuting for those who live further out, and whether this is permanent—and gives concrete answers including a $150 stipend and a six-month review. However, both documents contain a major timeline error by stating the end of next year is December 2027 while also setting the September 1 start date in 2027, which makes the promised grace period for the four distant employees only last four months."
+}

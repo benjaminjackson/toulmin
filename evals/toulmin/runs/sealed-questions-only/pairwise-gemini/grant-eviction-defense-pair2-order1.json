@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-33-21Z",
+  "without_skill_run": "2026-11-16T21-02-07Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document B is stronger because it has clear headings that match a grant rubric and accurately frames the request as expanding the staff to a third attorney. Document A changes the core premise of the application by stating the grant will merely replace the departing second attorney rather than adding a third."
+}

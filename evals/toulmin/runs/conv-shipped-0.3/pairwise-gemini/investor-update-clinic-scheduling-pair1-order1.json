@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-22-12Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins back my trust by admitting the exact reason for the silence, giving hard dates and commitments for future updates, and volunteering the $3,800 in additional revenue at risk. It also does the hard math on the $150 reminder product rather than spinning it as an easy fix, which makes me willing to take the founder's call."
+}

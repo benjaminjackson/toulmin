@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-27-53Z",
+  "without_skill_run": "2026-11-16T20-07-29Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses our biggest fears about the phone center—including the high turnover—and offers concrete protections like shift priority by seniority, a $1.50 raise, and a 6-month window to try the job without losing our severance. Document A lacks these critical details and even starts with 'I want you to hear this from me first' when we've been hearing rumors for two weeks."
+}

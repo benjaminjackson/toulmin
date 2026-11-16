@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-phd-applicant",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-21-36Z",
+  "without_skill_run": "2026-11-16T21-07-30Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is a finished letter with concrete details—ranking her in the top three of 17 years, noting she ran water sampling alone at the state lab, and giving an honest assessment of what her thesis needs to be publishable—that overcome my skepticism of small-college letters. Document A is an unfinished template full of bracketed placeholders, though both documents wisely avoided the false claim that a single-season study with missing data is ready for a top journal."
+}

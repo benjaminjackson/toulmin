@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-lease-renewal",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-03-39Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B uses my name, sets a clear June 1 deadline, and states plainly that $5,650 would force the restaurant to close, which lets me know they aren't just bluffing. While I wish they had directly acknowledged the two times I waived their late fees in 2024, Document A actually annoys me by claiming to be 'reliable' right before pointing out they've only paid on time for two years."
+}

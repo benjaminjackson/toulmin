@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-dental-office",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-42Z",
+  "without_skill_run": "2026-11-16T21-20-52Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A includes the fact that she has been using QuickBooks for the past four years as a volunteer treasurer, which goes a long way toward reassuring me about her seven-year employment gap, and it offers a concrete reference from the head vet. I do wince slightly at the mention of giving two weeks' notice since my last manager just did that to me, and it omits that her caregiver duties have concluded, whereas B omits the recent QuickBooks experience and the fact that her caregiving is over."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-19-29Z",
+  "without_skill_run": "2026-11-16T21-05-14Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly challenges my assumption that our members have plenty of chain alternatives by stating that in 14 counties the nearest chain is over 20 miles away, and that two pharmacies are already set to drop our plan. It also makes a specific, verifiable offer to share purchase invoices for those 20 drugs and meet before May 1, rather than making vague demands about PBM transparency."
+}

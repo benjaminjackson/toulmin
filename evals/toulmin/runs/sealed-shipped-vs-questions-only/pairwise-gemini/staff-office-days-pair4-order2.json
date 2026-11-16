@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-12-28Z",
+  "without_skill_run": "2026-11-16T21-38-45Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A includes two crucial facts that Document B leaves out: the commitment to review the policy with staff after six months, and the fact that five of the six project leads are already in the office three days a week. Both documents invent the year 2027, which makes the timeline for the four distant employees nonsensical (an extension from September to December is only four months, not 'until the end of next year'), though Document B makes this error much worse by claiming we are getting nine months' notice."
+}

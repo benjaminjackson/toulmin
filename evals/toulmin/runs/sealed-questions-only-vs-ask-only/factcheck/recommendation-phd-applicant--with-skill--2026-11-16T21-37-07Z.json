@@ -1,0 +1,8 @@
+{
+  "task": "recommendation-phd-applicant",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-37-07Z",
+  "checker": "gemini-4-argon",
+  "invented": [],
+  "invented_count": 0
+}

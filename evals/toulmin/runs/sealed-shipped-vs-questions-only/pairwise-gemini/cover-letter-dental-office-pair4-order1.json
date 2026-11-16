@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-dental-office",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-04-10Z",
+  "without_skill_run": "2026-11-16T21-34-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters make a strong case by showing she is already taking a Dentrix course and has a solid track record in billing, though I am mixed on the details in Document B: learning she kept her skills sharp using QuickBooks for the past four years eases my hesitation about the seven-year gap, while reading that she left her last clinic with only two weeks' notice hits a nerve right now. Because Document A avoids that sore spot while Document B gives me better reassurance about her recent bookkeeping skills, they come out about even, with a slight edge to A for not reminding me of my last manager quitting suddenly."
+}

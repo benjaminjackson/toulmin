@@ -1,0 +1,21 @@
+{
+  "task": "investor-update-hive-sensors",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-34-45Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Our sales are seasonal: most of the year's revenue arrives in a short window in spring.",
+      "why": "The brief states that 70% of the last six months' revenue came in March and April, not most of the full year's revenue."
+    },
+    {
+      "quote": "and I'll report what those three decide.",
+      "why": "Neither the brief nor the user's additional information mentions a commitment to report back on the three customers testing the competitor's sensor."
+    },
+    {
+      "quote": "With the cuts and the full bridge, and before counting any revenue, our cash lasts into autumn 2027.",
+      "why": "The brief gives no calendar year, and $940,000 total cash at $95,000 a month until February and $75,000 a month thereafter lasts roughly a year from the November/December update, which would reach winter rather than autumn."
+    }
+  ],
+  "invented_count": 3
+}

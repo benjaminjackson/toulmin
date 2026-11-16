@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-27Z",
+  "without_skill_run": "2026-11-16T21-20-22Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters are remarkably similar and use the exact same arguments, offers, and concessions to address my skepticism (especially the 20-mile distance to chain pharmacies in 14 counties, the honest admission about brand-name cross-subsidization, and the offer to show purchase invoices). Document A has a slight edge because it gets straight to the reimbursement issue in the first sentence and avoids giving a separate paragraph to the brand-name cross-subsidy, which I view as standard across-the-board pharmacy economics."
+}

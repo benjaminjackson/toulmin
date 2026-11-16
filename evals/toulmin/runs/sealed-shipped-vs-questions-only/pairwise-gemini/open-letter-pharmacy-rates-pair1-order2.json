@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-04-12Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters are remarkably honest—owning up to brand-name offsets and not exaggerating the reasons for past closures—and both hit the rural access point and invoice offer that would actually make me take a meeting. I give a slight edge to A because B's line about how 'the plan may say that its pharmacy benefit manager sets these rates' feels a bit needlessly combative, whereas A stays constructive while making the exact same points."
+}

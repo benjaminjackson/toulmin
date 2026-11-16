@@ -1,0 +1,21 @@
+{
+  "task": "recommendation-phd-applicant",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-21-36Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "including the winter months when most students would have found a reason to stay ashore",
+      "why": "While a 14-month period spans all seasons, the brief does not state that her kayak trips took place during the winter months."
+    },
+    {
+      "quote": "and it fits a question the field is actively working on",
+      "why": "Neither the brief nor the additional user information mentions what questions the field of marine ecology is actively working on or how her findings fit them."
+    },
+    {
+      "quote": "where she held her own in discussion with working scientists",
+      "why": "The brief only states that she presented the work as a poster at a regional conference, with no mention of discussions with working scientists."
+    }
+  ],
+  "invented_count": 3
+}

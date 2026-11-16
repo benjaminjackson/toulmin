@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-24-38Z",
+  "without_skill_run": "2026-11-16T20-05-06Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B provides concrete evidence that Daniela contributed to the rising check-in scores before the renovation even started, which directly challenges my skepticism. It also eases my concerns about the $1.1M budget by pointing out she has already kept overtime under plan for the last seven weeks and has arranged specific training with our controller, Ben, without putting the training burden on me."
+}

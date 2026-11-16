@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-20-13Z",
+  "without_skill_run": "2026-11-16T21-06-30Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters handle the March deadline error maturely by showing how she fixed the process with a second-person check and tying that directly to supervisory responsibility. Document A is slightly stronger because it includes specific timeline details (the January review cycle and meeting before December 15) and thoughtfully addresses whether a senior slot is currently open."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-52Z",
+  "without_skill_run": "2026-11-16T21-22-24Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B includes the offer of a monthly cash report for bridge investors, which gives me much-needed oversight given my concerns about their slow sales and burn rate. It also provides the correct December 1 reply deadline and a sharper operational explanation for why the cash is needed before the March inventory build."
+}

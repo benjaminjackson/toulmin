@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-38-12Z",
+  "without_skill_run": "2026-11-16T21-11-15Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A puts the $99 offer right in the subject line and includes the no-contract policy, which makes it tempting to book at least one discounted cleaning with no strings attached. Document B falsely claims I complained about cleaner turnover when I only left for the price, and it feels less credible with its unfilled placeholders."
+}

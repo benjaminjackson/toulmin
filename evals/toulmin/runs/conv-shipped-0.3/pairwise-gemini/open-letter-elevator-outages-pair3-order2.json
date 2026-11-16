@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-24-38Z",
+  "without_skill_run": "2026-11-16T20-04-20Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B includes the specific details that force me to take the tenants' association seriously, particularly the resident missing two dialysis appointments—which is a major PR and liability risk if it goes to the news—and their offer to help maintain an emergency assistance list. Document B also makes concrete, actionable requests and acknowledges that we may be right about the second elevator's feasibility, making them seem like a reasonable majority rather than just a few loud complainers."
+}

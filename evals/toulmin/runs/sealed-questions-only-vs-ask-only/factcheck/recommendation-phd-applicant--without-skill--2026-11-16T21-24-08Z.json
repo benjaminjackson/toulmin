@@ -1,0 +1,33 @@
+{
+  "task": "recommendation-phd-applicant",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-24-08Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Priya is one of the three best students I have taught in that time.",
+      "why": "The brief does not state how Priya ranks overall among all the students the professor has taught."
+    },
+    {
+      "quote": "Her senior thesis, which I supervised",
+      "why": "The brief states the professor has supervised about 30 senior theses and describes Priya's thesis, but does not explicitly state that the professor was the supervisor for Priya's thesis."
+    },
+    {
+      "quote": "Field projects at this scale usually fall apart for undergraduates.",
+      "why": "The brief says nothing about how often undergraduate field projects of this scale fail."
+    },
+    {
+      "quote": "where she discussed it with researchers outside our college.",
+      "why": "The brief says she presented a poster at a regional conference, but does not mention whom she discussed it with."
+    },
+    {
+      "quote": "For two weeks she ran the lab's water sampling program alone.",
+      "why": "The brief only states that she was a paid field assistant at a state shellfish lab and gives no details about her specific duties or running a water sampling program alone."
+    },
+    {
+      "quote": "Her supervisor there told me he would hire her again without hesitation.",
+      "why": "The brief does not mention any communication with or feedback from her shellfish lab supervisor."
+    }
+  ],
+  "invented_count": 6
+}

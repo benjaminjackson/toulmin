@@ -1,0 +1,17 @@
+{
+  "task": "grant-eviction-defense",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-19-49Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Because outside funds cover most of the new position's cost, it does not depend on that renewal.",
+      "why": "Neither the brief nor the user's additional information states that the new position does not depend on the renewal of the $60,000 county contract, especially since $13,000 of the position's cost comes from the clinic's general budget."
+    },
+    {
+      "quote": "Each year of the grant, we will report how many tenants we represented, how many we turned away, and our case outcomes, measured the same way as the 58% figure above.",
+      "why": "The user only committed to reporting every six months on cases opened and how they ended, not reporting annually or tracking and reporting the number of tenants turned away."
+    }
+  ],
+  "invented_count": 2
+}

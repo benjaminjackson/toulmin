@@ -1,0 +1,41 @@
+{
+  "task": "investor-update-hive-sensors",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-22-24Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "to get us through the 2027 pollination season",
+      "why": "Neither the brief nor the user's known facts specify the year 2027."
+    },
+    {
+      "quote": "That timing is what we expected from this market",
+      "why": "The brief does not say whether the company expected 70% of revenue to come in March and April."
+    },
+    {
+      "quote": "It's still the clearest real-world result we have, and we're working on cleaner comparisons for next season.",
+      "why": "The brief does not say this is the clearest result the company has or that they are working on cleaner comparisons for next season."
+    },
+    {
+      "quote": "We don't know of any deals won or lost against it yet. We're watching closely and haven't changed our pricing.",
+      "why": "The brief does not mention whether any deals have been won or lost against the competitor or whether the company has changed its pricing."
+    },
+    {
+      "quote": "Before the next update, we'll report three things:\n\n- how much of our revenue is recurring app fees versus one-time sensor sales\n- how many hives are paying for the app\n- how many of last year's customers renewed or expanded",
+      "why": "The user only offered to commit to a monthly cash report for bridge investors, not to reporting revenue breakdowns, paying hive counts, or customer renewals before the next update."
+    },
+    {
+      "quote": "Those figures will show whether the path to profitability holds up, and we'll set a target date from them rather than guessing.",
+      "why": "The brief does not state a commitment to set a profitability target date based on those specific figures."
+    },
+    {
+      "quote": "It also gives us a full season to show three things: growth in recurring revenue, retention against a cheaper competitor, and better colony-loss data. Those are what our next round will be raised on.",
+      "why": "The brief does not mention a next round of funding or what metrics it will be raised on."
+    },
+    {
+      "quote": "reply to this email and I'll set up a call this week. We need commitments by December 15.",
+      "why": "The brief does not offer to set up calls this week, and the user's facts state that investors who want in should reply by December 1 (whereas December 15 is the closing date)."
+    }
+  ],
+  "invented_count": 8
+}

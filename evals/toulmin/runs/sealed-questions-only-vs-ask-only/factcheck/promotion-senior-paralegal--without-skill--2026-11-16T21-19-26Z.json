@@ -1,0 +1,21 @@
+{
+  "task": "promotion-senior-paralegal",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-19-26Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "That covered our filing procedures, our case-management practices and the deadline system.",
+      "why": "The brief states that she trained the three paralegals, but does not specify the topics covered in that training."
+    },
+    {
+      "quote": "and I've been doing it informally for two years.",
+      "why": "The brief says she trained the three paralegals hired in the last two years, not that she has been informally supervising the paralegal team for two years."
+    },
+    {
+      "quote": "someone already has to coordinate their work.",
+      "why": "The brief does not state that someone is already coordinating the work of the other paralegals."
+    }
+  ],
+  "invented_count": 3
+}

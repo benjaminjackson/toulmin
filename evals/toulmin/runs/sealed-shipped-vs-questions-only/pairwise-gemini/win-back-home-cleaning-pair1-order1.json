@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-09-37Z",
+  "without_skill_run": "2026-11-16T21-35-50Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B's subject line claims they fixed why I left, which was price, when they actually haven't, and it falsely assumes I complained about inconsistent cleaners when I had no complaints. Document A has a much more appealing subject line that highlights the $99 offer right away and frames the survey feedback honestly as general customer trends rather than putting words in my mouth."
+}

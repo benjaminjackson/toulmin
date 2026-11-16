@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-11-11Z",
+  "without_skill_run": "2026-11-16T21-37-50Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A gives dedicated, empathetic attention to the 15 remote hires rather than burying the change in a bulleted list, and it respects the junior staff by explicitly stating that the slower progression is the firm's fault, not theirs. Document B also invents an alarming detail that Mondays and Fridays haven't been decided yet, making us fear a five-day return is coming, and both documents get the timeline for the long-distance exception wrong."
+}

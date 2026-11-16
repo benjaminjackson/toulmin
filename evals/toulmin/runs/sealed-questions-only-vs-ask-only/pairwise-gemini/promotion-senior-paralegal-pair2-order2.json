@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-07Z",
+  "without_skill_run": "2026-11-16T21-19-26Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A presents a clear, scannable business case without the awkward details in B (like telling me she wants me to hear about the mistake directly when I already raised it in her review, or citing the exact $9,000 raise). Document B also slightly invents facts by specifying 'June 2027' when the user only said 'next June', whereas A only marginally elaborates on what training covered."
+}

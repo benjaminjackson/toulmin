@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-dental-office",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-03-18Z",
+  "without_skill_run": "2026-11-16T21-33-52Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes her recent four years of bookkeeping in QuickBooks, which does a much better job of easing my mind about a seven-year gap in her work history. Document B omits that recent experience and instead brings up giving two weeks' notice, which is a sore spot for me right now."
+}

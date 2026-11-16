@@ -1,0 +1,17 @@
+{
+  "task": "investor-update-hive-sensors",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-21-11Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "We don't yet know whether we've lost any deals to them.",
+      "why": "Neither the brief nor the additional user information mentions whether the company has lost deals to the competitor or knows if it has."
+    },
+    {
+      "quote": "With the bridge closed, we have cash into autumn 2027 before counting any new revenue.",
+      "why": "The brief does not give the current year, so the year 2027 cannot be known or calculated from the provided facts."
+    }
+  ],
+  "invented_count": 2
+}

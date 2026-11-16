@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-38-12Z",
+  "without_skill_run": "2026-11-16T21-11-15Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B puts the $99 offer right in the subject line and proves that their new staffing policy actually works by mentioning that only one of 18 cleaners has left since July. Furthermore, unlike Document A, it doesn't falsely assume I complained about rotating cleaners when I only left for the price, and it assures me there is no contract if I want to try the discounted visit."
+}

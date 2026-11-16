@@ -1,0 +1,37 @@
+{
+  "task": "staff-office-days",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-11-11Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "**Subject: Working in the studio three days a week from 1 September 2027**",
+      "why": "The brief states the policy begins on September 1, but never specifies the year 2027."
+    },
+    {
+      "quote": "From 1 September 2027, everyone at the firm will work in the office on Tuesday, Wednesday and Thursday.",
+      "why": "The brief does not provide the year 2027 as the start date."
+    },
+    {
+      "quote": "From 1 September 2027, everyone works in the office on Tuesday, Wednesday and Thursday.",
+      "why": "The brief does not mention the year 2027."
+    },
+    {
+      "quote": "The four of you who live more than two hours away will stay fully remote until 31 December 2027.",
+      "why": "The brief states these four employees can keep working remotely until the end of next year, not the end of the same year (2027) that the policy starts."
+    },
+    {
+      "quote": "From January 2028, you'll come in one day a week.",
+      "why": "The brief does not specify the year 2028, and states they will come in once a week after the end of next year."
+    },
+    {
+      "quote": "We haven't yet decided how Mondays and Fridays will work. We'll confirm that before September.",
+      "why": "The brief says nothing about the partners being undecided on Mondays and Fridays or confirming plans for those days before September."
+    },
+    {
+      "quote": "We haven't yet settled how the office days will be organised, and we'd like to hear your ideas on Friday.",
+      "why": "The brief does not state that the organisation of office days is unsettled or that staff ideas on this will be solicited at the Friday meeting."
+    }
+  ],
+  "invented_count": 7
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-24-38Z",
+  "without_skill_run": "2026-11-16T20-04-20Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes specific details—like our company and building names, the missed dialysis appointments, and concrete offers from the association to maintain an emergency list—that show they are an organized, reasonable majority rather than just a few loud complainers. Document B reads like an unfinished template with placeholders, making it much easier to dismiss."
+}

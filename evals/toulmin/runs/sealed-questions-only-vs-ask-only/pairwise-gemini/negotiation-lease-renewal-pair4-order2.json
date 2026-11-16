@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-lease-renewal",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-58Z",
+  "without_skill_run": "2026-11-16T21-21-14Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters make a strong case by explaining the 2024 late payments and offering automatic bank transfers, which resolves my biggest concern. Document A is slightly better because putting the full counteroffer—including the automatic payments—right at the top in bullet points makes the terms clear immediately, whereas Document B includes a pointless note about what a new restaurant would spend on a hood that already belongs to my building."
+}

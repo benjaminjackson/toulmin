@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a grant reviewer scoring against a rubric, I need to see the risks and timeline realities addressed head-on rather than omitted. Document A earns my trust by disclosing the upcoming staff turnover, the county contract renewal risk, and the lack of baseline court data, whereas Document B hides these critical facts and makes a false promise of net-new capacity without mentioning that one of the two current attorneys is leaving."
+}

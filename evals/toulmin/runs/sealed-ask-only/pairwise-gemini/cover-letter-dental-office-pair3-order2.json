@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-dental-office",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-20-07Z",
+  "without_skill_run": "2026-11-16T21-02-23Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is a complete letter addressed to me and my practice rather than a template with brackets, and knowing she has already enrolled in a 20-hour Dentrix course is much more reassuring than a vague offer to start training. That initiative, alongside her eleven years of prior experience, makes me willing to overlook the seven-year gap and call her for an interview."
+}

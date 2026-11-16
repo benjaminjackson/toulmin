@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-12-32Z",
+  "without_skill_run": "2026-11-16T21-38-12Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Since I'm happy with my current app service and the $25 savings, Document B is more likely to make me reconsider because it explicitly points out that app contractors usually have no insurance on the visit, which makes me pause and think about the risk. It also frames the new staffing system better—promising that the person at my door will always be one of two people I know by name—and includes the actual phone number instead of a placeholder."
+}

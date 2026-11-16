@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-phd-applicant",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-37-07Z",
+  "without_skill_run": "2026-11-16T21-08-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A overcomes my skepticism of small-college letters by giving concrete benchmarks—ranking her in the top three of 17 years of students and noting she ran state lab water sampling solo for two weeks— while honestly assessing why her thesis isn't published yet. Document B relies on vague platitudes instead of hard rankings, and it invents facts not in the brief about her study design, statistical handling of missing data, and conference demeanor."
+}

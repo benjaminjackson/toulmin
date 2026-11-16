@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-37-23Z",
+  "without_skill_run": "2026-11-16T21-23-20Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A wins my trust immediately by being completely transparent about the limits of its A1C data, openly admitting the small sample size, self-selection, and lack of medication tracking. Plus, it writes directly in the dietitian's voice and offers a 15-minute phone call before I start, which makes me feel like I'm getting personal help rather than signing up for another faceless meal service I'll quit in two months."
+}

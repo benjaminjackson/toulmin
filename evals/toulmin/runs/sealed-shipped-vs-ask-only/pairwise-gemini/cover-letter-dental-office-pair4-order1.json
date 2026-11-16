@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-dental-office",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-04-10Z",
+  "without_skill_run": "2026-11-16T21-20-52Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Reading between patients, I need to know quickly if this person can actually do the job despite a seven-year gap. Document A is slightly more convincing because she explicitly clarifies that her mother has passed away, meaning her caregiving responsibilities are concluded, and she proactively names the head vet as a reference so I know her old bosses still vouch for her."
+}

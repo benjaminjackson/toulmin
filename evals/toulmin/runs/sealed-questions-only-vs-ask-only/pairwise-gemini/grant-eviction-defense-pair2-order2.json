@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-21Z",
+  "without_skill_run": "2026-11-16T21-19-49Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A stays faithful to the facts, whereas Document B falsely changes the purpose of the grant from expanding the clinic to three attorneys to merely replacing the departing second attorney. Document A also clearly explains the financial math, matched funding, and how the new position relates to the upcoming county contract renewal."
+}

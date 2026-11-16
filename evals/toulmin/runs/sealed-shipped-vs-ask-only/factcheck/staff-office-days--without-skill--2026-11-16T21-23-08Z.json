@@ -1,0 +1,37 @@
+{
+  "task": "staff-office-days",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-23-08Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Subject: Moving to three office days from September 1, 2027",
+      "why": "The brief states the change starts on September 1, but never specifies the year 2027."
+    },
+    {
+      "quote": "Starting September 1, 2027, everyone at the firm will work in the office on Tuesday, Wednesday and Thursday.",
+      "why": "The brief gives the date as September 1 without specifying the year 2027."
+    },
+    {
+      "quote": "When we asked the clients why, they both told us the same thing: our team seemed not to know each other.",
+      "why": "The brief says the clients told the firm that the team seemed not to know each other, not that the firm asked the clients why they lost."
+    },
+    {
+      "quote": "That isn't down to their talent. They have had less time sitting near experienced people, watching how decisions get made and asking questions as they come up.",
+      "why": "The brief only gives the review record statistic that junior staff take 30% longer to lead a project, without stating the specific causes for this delay."
+    },
+    {
+      "quote": "Office days: Tuesday, Wednesday and Thursday, starting September 1, 2027.",
+      "why": "The brief does not state that the year of the policy change is 2027."
+    },
+    {
+      "quote": "the four people in this group can keep working remotely through December 31, 2027. From January 2028 they will come in one day a week.",
+      "why": "The brief says these four employees can work remotely 'until the end of next year' rather than giving the specific years 2027 and 2028 (and if the change starts in September 2027, ' the end of next year' would be the end of 2028, not 2027)."
+    },
+    {
+      "quote": "I'll talk to each of you individually.",
+      "why": "Neither the brief nor the additional information mentions a commitment to speak individually with each of the four remote employees."
+    }
+  ],
+  "invented_count": 7
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-28Z",
+  "without_skill_run": "2026-11-16T21-33-22Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters are unusually credible because they admit where their data ends, acknowledge brand-name margins, and offer actual purchase invoices rather than just complaining. Document A edges out B because it lists the 38 specific pharmacies—letting my staff immediately verify the rural network access claims—while Document B slightly overstates the facts by claiming the brand-name offset doesn't cover the generic loss when the owners don't actually know by how much."
+}

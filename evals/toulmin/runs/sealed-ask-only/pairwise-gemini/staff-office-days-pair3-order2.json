@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-23-55Z",
+  "without_skill_run": "2026-11-16T21-10-19Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B includes crucial practical details like the $150/month commuting stipend, the exact policy on exceptions, and the specific meeting logistics, while also taking care not to make junior or remote staff feel personally blamed for the firm's struggles. However, its claim that September 2027 is 'almost ten months' before ' the end of next year' (2027) is a confusing timeline contradiction."
+}

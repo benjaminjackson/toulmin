@@ -1,0 +1,29 @@
+{
+  "task": "grant-eviction-defense",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-06-32Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The Tenant Defense Project",
+      "why": "The brief does not name the legal aid clinic."
+    },
+    {
+      "quote": "Beginning in January we will request court-wide outcome data from the county clerk, so that next year we can measure our results against it.",
+      "why": "The brief says nothing about requesting court-wide outcome data from the county clerk or doing so in January."
+    },
+    {
+      "quote": "a family fund has pledged $20,000 a year for both years, and we will cover the remaining $13,000 from our general budget.",
+      "why": "The brief does not mention a family fund, a $20,000 pledge, or covering the remaining $13,000 from the general budget."
+    },
+    {
+      "quote": "She will spend her final month training the new attorney.",
+      "why": "The brief does not give the departing attorney's gender or say that she will spend her final month training the new attorney."
+    },
+    {
+      "quote": "Every six months we will report to the foundation on cases opened and how they ended.",
+      "why": "The brief does not mention reporting to the foundation every six months on cases opened and their outcomes."
+    }
+  ],
+  "invented_count": 5
+}

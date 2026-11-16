@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-52Z",
+  "without_skill_run": "2026-11-16T21-03-47Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B includes the actual deal terms, existing $250k commitment, burn reduction plan, and product differentiation against the new competitor, whereas Document A is an unfinished template full of placeholders. Document B's transparency about not promising profitability next year and offering monthly cash reports builds the trust I need when I'm already skeptical about their slow sales."
+}

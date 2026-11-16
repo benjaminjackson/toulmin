@@ -1,0 +1,25 @@
+{
+  "task": "staff-office-days",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-24-55Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "1 September 2027",
+      "why": "The brief gives the start date as 'September 1' without specifying the year 2027."
+    },
+    {
+      "quote": "You can keep working remotely until 31 December 2027.",
+      "why": "The brief says they can work remotely 'until the end of next year' rather than the end of the same year (2027) in which the September policy starts, and does not provide any calendar years."
+    },
+    {
+      "quote": "From January 2028, we're asking you to come in one day a week.",
+      "why": "The brief says they will come in once a week after 'the end of next year' and does not specify January 2028."
+    },
+    {
+      "quote": "I know that gives you only four months longer than everyone else.",
+      "why": "Because the brief states the grace period lasts 'until the end of next year' rather than the end of the current year, the four-month duration is both an invented timeframe and a misreading of 'next year'."
+    }
+  ],
+  "invented_count": 4
+}

@@ -1,0 +1,25 @@
+{
+  "task": "staff-office-days",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-35-44Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "From September 1, 2027, everyone at the firm will work in the office on Tuesday, Wednesday and Thursday.",
+      "why": "The brief gives the date as September 1, but does not state the year 2027."
+    },
+    {
+      "quote": "Monday and Friday stay remote.",
+      "why": "The brief states that everyone works in the office on Tuesday, Wednesday, and Thursday, without stating that Monday and Friday remain remote days."
+    },
+    {
+      "quote": "That's the kind of work we most want to win, and we lost it because of how we came across as a team.",
+      "why": "The brief does not state that large hospital projects are the kind of work the firm most wants to win."
+    },
+    {
+      "quote": "The four of you who live more than two hours from the office can keep working remotely until December 31, 2027. From January 2028, you'll come in one day a week.",
+      "why": "The brief says they can keep working remotely until 'the end of next year' rather than giving the specific years 2027 and 2028 (which also contradicts the document's earlier claim that the current year is 2027)."
+    }
+  ],
+  "invented_count": 4
+}

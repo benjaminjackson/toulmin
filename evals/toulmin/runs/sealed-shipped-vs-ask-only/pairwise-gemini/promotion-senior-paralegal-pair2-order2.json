@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-58Z",
+  "without_skill_run": "2026-11-16T21-19-26Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B frames the March deadline error with genuine maturity ('I change the process so it doesn't depend on one person getting it right, including me') and stays completely honest to the facts, whereas Document A says 'I think you should know how I handled a mistake like that' as if I didn't already raise it in her last review, and invents details about what her training covered."
+}

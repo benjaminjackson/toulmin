@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-02-58Z",
+  "without_skill_run": "2026-11-16T21-19-54Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes the commitment to send a monthly cash report to bridge investors and sets a concrete $300,000 benchmark for March and April sales, which gives me the accountability I need when I'm worried about slow sales. Both documents make the mistake of confusing revenue with gross profit when calculating break-even (ignoring the $38 unit cost), and Document B left placeholder brackets for the company and founder names."
+}

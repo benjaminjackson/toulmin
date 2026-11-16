@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-phd-applicant",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-36-17Z",
+  "without_skill_run": "2026-11-16T21-08-04Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is a complete letter that overcomes my skepticism of small-college inflation by anchoring the student with a concrete ranking (top three in 17 years) and specific external validation from the state lab supervisor. Document B is an unfinished template full of placeholders and vague praise."
+}

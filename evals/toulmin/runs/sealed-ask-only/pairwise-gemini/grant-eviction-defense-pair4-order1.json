@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-22-09Z",
+  "without_skill_run": "2026-11-16T21-03-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is a nearly finished summary that gives me the exact matching funds ($20,000 family fund pledge and $13,000 general budget) and a realistic, honest explanation of how the clinic will handle the June departure. Document B leaves critical budget questions as unfilled placeholders and promises to hire two attorneys at once without explaining how they will pay for or recruit both."
+}

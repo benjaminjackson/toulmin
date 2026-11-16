@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-19-54Z",
+  "without_skill_run": "2026-11-16T21-02-25Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B gives me the actual details I need to evaluate this bridge—including the $250k soft-circled, the plan to cut burn to $75k, the specific product advantage over the $45 competitor, and the deal terms—whereas Document A leaves almost every critical section as a blank template. While B's breakeven math confuses revenue with gross margin, its radical honesty about not promising a fake profitability date builds the trust I need when sales have been slow."
+}

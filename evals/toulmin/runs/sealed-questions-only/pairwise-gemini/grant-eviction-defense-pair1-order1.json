@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me the exact numbers and commitments I need to score my rubric—especially how the $33,000 funding gap is covered and how they will fix their lack of baseline court data. Document B leaves critical budget and evaluation details as unfilled placeholders and hides the fact that one of their two current attorneys is leaving."
+}

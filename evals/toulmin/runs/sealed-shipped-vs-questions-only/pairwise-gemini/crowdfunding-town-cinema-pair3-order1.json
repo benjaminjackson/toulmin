@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-03-50Z",
+  "without_skill_run": "2026-11-16T21-33-57Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both pitches are honest and address my hesitation about the failed first campaign, especially by doing the math to show that the remaining $49,000 needed from the public is almost identical to the $47,000 we actually raised last time. Document A is slightly more convincing because it explicitly points out how close that $49,000 is to our previous $47,000 total, and explains that the $1 rent and volunteers will make the cinema sustainable once it reopens."
+}

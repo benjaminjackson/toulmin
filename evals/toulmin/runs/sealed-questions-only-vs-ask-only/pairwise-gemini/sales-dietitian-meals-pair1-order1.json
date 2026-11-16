@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-35-32Z",
+  "without_skill_run": "2026-11-16T21-21-43Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins my trust by being completely upfront about the limitations of the A1C data—specifically admitting she didn't track medication changes—and by telling me the menu repeats every four weeks so there are no surprises after I sign up. Including the 15-minute introductory call with the dietitian also makes this feel much more personal than the apps and meal service I quit before."
+}

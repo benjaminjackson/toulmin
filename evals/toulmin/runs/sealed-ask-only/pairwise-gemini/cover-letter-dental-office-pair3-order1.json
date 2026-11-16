@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-dental-office",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-20-07Z",
+  "without_skill_run": "2026-11-16T21-02-23Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes the specific fact that she has already enrolled in a 20-hour Dentrix training course, which eases my concern about her seven-year gap and lack of dental software experience far better than Document B's vague offer to train. It is also actually filled out with my name and practice name rather than leaving template brackets."
+}

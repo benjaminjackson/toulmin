@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-38-45Z",
+  "without_skill_run": "2026-11-16T21-10-58Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes crucial practical details—like the $150 commuting stipend, the plan for new desks, and the six-month policy review—that directly address our immediate concerns and make a difficult change easier to accept. It also notes that most project leads are already in three days a week, which makes the reasoning about mentorship much more convincing."
+}

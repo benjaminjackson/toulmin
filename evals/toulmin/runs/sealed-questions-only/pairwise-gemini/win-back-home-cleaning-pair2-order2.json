@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-36-38Z",
+  "without_skill_run": "2026-11-16T21-10-14Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B includes real specifics like the owner's name, the low turnover since July, and the fact that app contractors usually lack insurance, which makes me rethink the risk of my current cheaper service. Knowing there is no contract and I can cancel anytime also makes it easy to at least book the $99 cleaning."
+}

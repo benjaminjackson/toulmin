@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-10-37Z",
+  "without_skill_run": "2026-11-16T21-36-38Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B directly acknowledges the exact $25 price difference I'm currently saving ($165 vs. $140) and explains that the extra $25 goes toward paying employees a living wage and carrying insurance, which the app services don't have. Document A is slightly more concise and doesn't needlessly highlight past turnover, making it a close call, but B's specific framing of the price gap is more persuasive to me since price is the only reason I left."
+}

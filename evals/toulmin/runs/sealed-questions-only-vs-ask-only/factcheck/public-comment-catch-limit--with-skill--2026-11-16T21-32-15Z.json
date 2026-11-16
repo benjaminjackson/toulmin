@@ -1,0 +1,17 @@
+{
+  "task": "public-comment-catch-limit",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-32-15Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "and I never got back to 170.",
+      "why": "The brief only gives trip numbers for 2016 (170), the next season (138), two years later (155), and the current average (about 160), without stating whether bookings ever reached 170 in the other years since 2016."
+    },
+    {
+      "quote": "Each boat that goes takes crew jobs and customers that the docks, tackle shops and restaurants count on.",
+      "why": "Neither the brief nor the user's additional facts mention crew jobs, docks, tackle shops, or restaurants."
+    }
+  ],
+  "invented_count": 2
+}

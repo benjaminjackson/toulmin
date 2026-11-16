@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-27-53Z",
+  "without_skill_run": "2026-11-16T20-07-29Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes critical details that directly address our fears about working on the phones, specifically the $1.50/hour raise, shift priority for tenured staff, and a six-month trial period with the severance guarantee still intact. It also honestly acknowledges the high turnover in the phone center rather than using corporate platitudes like 'I want you to hear this from me first' after we've already heard the rumors for two weeks."
+}

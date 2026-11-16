@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-22-12Z",
+  "without_skill_run": "2026-11-16T20-03-02Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B drops the impossible $400,000 demand for a second elevator in favor of practical solutions like a stair-climbing chair, and offers constructive help from the association. It also makes the PR threat explicit by stating it is going to local TV news, which forces me to take them seriously and act immediately rather than dismissing them as a few loud complaints."
+}

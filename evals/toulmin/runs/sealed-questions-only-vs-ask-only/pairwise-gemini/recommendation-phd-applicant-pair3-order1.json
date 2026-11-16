@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-phd-applicant",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-37-07Z",
+  "without_skill_run": "2026-11-16T21-23-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A stays completely honest to the facts, whereas Document B invents claims not in the brief (that she designed the study herself and never missed a sampling schedule). Furthermore, Document A makes a much stronger, more direct case to a skeptical R1 committee for why her sustained field persistence and realistic path to publication outweigh the lack of an undergraduate paper."
+}

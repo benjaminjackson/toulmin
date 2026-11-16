@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is transparent about the operational realities a grant panel looks for—such as recruitment timelines, staff turnover, and the lack of baseline court data—and offers a concrete plan to track comparative outcomes. Document A hides key risks and makes a math error by confusing an open caseload of 80 with an annual caseload, while Document B leaves me feeling the applicant is candid and trustworthy."
+}

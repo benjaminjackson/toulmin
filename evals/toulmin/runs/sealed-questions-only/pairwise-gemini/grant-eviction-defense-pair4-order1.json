@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-35-51Z",
+  "without_skill_run": "2026-11-16T21-03-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is a complete, honest application that directly answers my rubric questions on matching funds, baseline data gaps, and reporting, whereas Document B is an unfinished template full of bracketed placeholders. Even setting the placeholders aside, Document A's candor about the lack of unrepresented tenant data and the pending county contract renewal builds far more credibility with me as a reviewer."
+}

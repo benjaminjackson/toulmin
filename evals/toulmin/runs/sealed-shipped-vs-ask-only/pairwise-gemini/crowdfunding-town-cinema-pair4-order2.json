@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-03Z",
+  "without_skill_run": "2026-11-16T21-21-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B convinces me to chip in even though my budget is tight this month because it shows we only need $49,000 from residents—just $2,000 more than we raised last time—making success feel guaranteed rather than another wasted effort. I also deeply appreciate the honesty about the roof estimate, film schedules, and the promise to post spending reports at the library."
+}

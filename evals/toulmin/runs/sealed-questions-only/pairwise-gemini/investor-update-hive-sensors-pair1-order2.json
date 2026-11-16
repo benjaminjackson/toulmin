@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B provides concrete answers on product differentiation against the new competitor, shows discipline by cutting monthly burn to $75,000, and already has $250,000 committed to the bridge on clear terms. Document A is an unfinished draft full of placeholders and makes an unrealistic profitability goal that the numbers don't support."
+}

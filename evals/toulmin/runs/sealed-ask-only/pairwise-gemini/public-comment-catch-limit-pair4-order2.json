@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-21-32Z",
+  "without_skill_run": "2026-11-16T21-09-11Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B is more persuasive because it stays honest by citing two specific captains who will sell rather than exaggerating, and it proposes viable conservation trade-offs like a shorter season. It also makes the strongest distinction between how a two-fish limit affects private anglers versus charter bookings."
+}

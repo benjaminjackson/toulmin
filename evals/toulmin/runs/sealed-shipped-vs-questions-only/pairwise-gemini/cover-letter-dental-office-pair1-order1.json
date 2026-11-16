@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-dental-office",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A includes her availability for our Tuesday and Thursday evening hours, which solves a huge scheduling headache right up front, and it actually includes her name at the bottom instead of form-letter placeholders. Both letters are a bit clumsy in volunteering that she only gave two weeks' notice at her last job—especially since I was just burned by that—but the medical emergency explains it, and A gives me all the practical details I need to call her."
+}

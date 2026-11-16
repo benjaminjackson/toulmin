@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-10-17Z",
+  "without_skill_run": "2026-11-16T21-37-23Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins my trust immediately by admitting the A1C data comes from a small group and doesn't account for medication changes, whereas Document A leaves out the medication caveat and slightly misstates the average drop. Offering a 15-minute phone call with the dietitian before I start also makes me much more willing to try another service after quitting my previous ones."
+}

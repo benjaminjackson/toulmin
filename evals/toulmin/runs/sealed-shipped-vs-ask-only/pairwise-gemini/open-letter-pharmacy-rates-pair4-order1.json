@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-08-09Z",
+  "without_skill_run": "2026-11-16T21-21-14Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters effectively counter my skepticism by avoiding exaggerated closure threats, offering to share actual purchase invoices for the 20 generics, and pointing out the 20-mile gap to chain pharmacies in 14 counties. Document A is slightly more persuasive because it reads like a finished, publication-ready open letter without placeholder brackets and explicitly acknowledges they don't know how much brand-name margins offset their generic losses."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-lease-renewal",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-08Z",
+  "without_skill_run": "2026-11-16T21-19-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses my ongoing frustration about the late payments by offering automatic bank transfers on the 1st of the month and commits to signing the lease within two weeks. It also makes a stronger business case by explicitly pointing out that keeping them means no vacancy gap or build-out downtime compared to bringing in the coffee chain or waiting like I have with the empty unit."
+}

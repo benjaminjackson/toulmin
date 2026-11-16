@@ -55,13 +55,13 @@ The shipped skill (plugin version 0.3.0) against Claude with no skill, on the 12
 - Invented facts per document: 1.2 with the skill, 2.2 without.
 - A person rated 10 of these pairs blind (`blind-check/packet.md`) and preferred the skill's document in all 10.
 - In a normal session that lists about 130 skills, the skill loaded in 21 of 29 sessions from its description alone, and in 28 of 29 and 27 of 29 (two runs) with the plugin's `UserPromptSubmit` hook (`trigger-rate`).
-- With the hook in place, the plugin repeated its tune-set result under the Opus judge: 36 wins in 36 pairs (`runs/conv-shipped-0.3`).
+- With the hook in place, the plugin repeated its tune-set result: 36 wins in 36 pairs under the Opus judge and under the Gemini judge (`runs/conv-shipped-0.3`).
 
-Where the gain comes from, from head-to-head rounds between three versions on the same sealed tasks (Opus and Fable judges; the Gemini account ran out of credit):
+Where the gain comes from, from head-to-head rounds between three versions on the same sealed tasks (numbers are for the Opus, Fable and Gemini judges, in that order):
 
-- A control that only says "ask the user questions first" (`variants/ask-only`) beats Claude with no skill in 45 or 46 of 48 pairs. Asking is most of the gain.
-- A control with the skill's question list and no framework (`variants/questions-only`) beats the ask-only control in 40 and 38 of 48 pairs. The specific questions are a second, reliable gain.
-- The shipped skill beats the questions-only control in 28 and 27 of 48 pairs, with 10 or 11 ties and 10 losses. The framework adds a small gain that this sample cannot separate from chance.
+- A control that only says "ask the user questions first" (`variants/ask-only`) beats Claude with no skill in 45, 46 and 45 of 48 pairs. Asking is most of the gain.
+- A control with the skill's question list and no framework (`variants/questions-only`) beats the ask-only control in 40, 38 and 37 of 48 pairs. The specific questions are a second, reliable gain.
+- The shipped skill against the questions-only control: 28 wins, 10 ties, 10 losses (Opus); 27, 11, 10 (Fable); 23, 9, 16 (Gemini). The framework adds at most a small gain in drafting, and the Gemini judge does not confirm it. Invented facts are about the same: 1.4 per document against 1.6.
 - In headless mode, where nobody answers the questions, the skill is only slightly better than Claude with no skill (tune tasks: 21-7-8 under Opus, 17-6-13 under Gemini).
 
 ### Planning and checking

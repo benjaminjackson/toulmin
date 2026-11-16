@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-09-05Z",
+  "without_skill_run": "2026-11-16T21-36-25Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A immediately earns my trust by opening its results section with \"I won't promise that your A1C will go down,\" and it directly addresses the food fatigue that made me quit other services. Document B feels more like standard marketing by bolding the A1C drop and putting medical disclaimers in italicized fine print at the bottom, though A slightly oversteps the known facts by claiming there is \"nothing to cancel\" after the trial week."
+}

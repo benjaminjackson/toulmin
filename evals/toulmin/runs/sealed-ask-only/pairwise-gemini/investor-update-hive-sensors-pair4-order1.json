@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-22-24Z",
+  "without_skill_run": "2026-11-16T21-03-47Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes critical concrete details I need to evaluate the bridge—specifically the $250k soft-circled, the note terms, the burn reduction plan, and the specific product differentiation against the new competitor—while Document B is an unfinished template full of bracketed placeholders. Document A also builds immense trust by being honest about what needs to be proven before promising profitability, rather than making unsupported claims."
+}

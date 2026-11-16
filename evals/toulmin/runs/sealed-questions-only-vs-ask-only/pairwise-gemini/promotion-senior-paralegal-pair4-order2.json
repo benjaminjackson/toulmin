@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-39Z",
+  "without_skill_run": "2026-11-16T21-20-58Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses my biggest concern about last March's near-miss by providing concrete proof that her new two-person check has worked across 600 subsequent entries, and it offers specific commitments for how she will supervise the team. Document A is weaker not only because it lacks those details and uses placeholders, but also because it claims without basis that the other groups in the firm use her new check."
+}

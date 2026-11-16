@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins me over by pointing out that the remaining $49,000 is only $2,000 more than we actually raised last time, and that it comes out to just $7.50 per resident—which makes me feel like a smaller pledge is still worthwhile after giving $200 to the ambulance fund. It is also completely honest about the potential 15% increase in the roof estimate, whereas Document B leaves that risk out."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-56Z",
+  "without_skill_run": "2026-11-16T21-33-54Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A handles the March deadline error much more naturally by integrating it directly into the history of the tracking sheet and connecting the fix to the supervisory role, whereas Document B says 'You should also hear this from me' about an incident I already discussed with her in her last review. Document A is also more direct and better structured overall."
+}

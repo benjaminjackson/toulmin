@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-dental-office",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-03-18Z",
+  "without_skill_run": "2026-11-16T21-33-52Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B includes her recent four years of experience keeping the church's books in QuickBooks, which does a lot to ease my hesitation about her seven-year gap out of an office. Document A skips that detail and instead mentions that she left her last job with two weeks' notice, which hits a nerve right now after my last manager just did the same to me."
+}

@@ -1,0 +1,29 @@
+{
+  "task": "open-letter-pharmacy-rates",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-35-21Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "the 20 generic drugs your members use most",
+      "why": "The brief says they are the 20 generic drugs the pharmacies fill most overall, not necessarily the ones plan members use most."
+    },
+    {
+      "quote": "more than one in five of our customers is a state employee or a family member of one",
+      "why": "The brief states that plan members make up about 22% of prescriptions, which does not automatically mean they make up more than 20% of customers."
+    },
+    {
+      "quote": "For the 20 generics we fill most, each one of those prescriptions now costs us more than the plan pays.",
+      "why": "The brief says the plan pays $1.80 less than cost on average across the 20 drugs, not that every single prescription is paid below cost."
+    },
+    {
+      "quote": "None of us can make it all back",
+      "why": "The user only stated that some pharmacies make up part of the loss on brand-name drugs and that they do not know by how much."
+    },
+    {
+      "quote": "The July 1 renewal is the one point this year when the plan can fix this.",
+      "why": "The brief only states that the contract comes up for renewal on July 1, not that it is the only time this year the plan can change the rates."
+    }
+  ],
+  "invented_count": 5
+}

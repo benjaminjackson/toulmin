@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-38-12Z",
+  "without_skill_run": "2026-11-16T21-24-24Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A directly points out that the app services I'm currently using likely don't insure their contractors on visits, which makes me question whether my $25 savings is worth the risk. It also includes the actual phone number, whereas Document B leaves an unedited '[phone]' placeholder and doesn't mention that app services lack insurance."
+}

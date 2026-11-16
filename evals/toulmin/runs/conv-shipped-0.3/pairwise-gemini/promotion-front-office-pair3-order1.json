@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-24-38Z",
+  "without_skill_run": "2026-11-16T20-05-06Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes concrete details that directly address my reservations: it proves the check-in score rose before the renovation started, shows she has already kept overtime under plan for seven weeks, and presents a concrete training plan with our controller to handle the budget. Document B leaves placeholders and relies on generalities where A has hard facts."
+}

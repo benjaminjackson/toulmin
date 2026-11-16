@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-24Z",
+  "without_skill_run": "2026-11-16T21-08-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B stands out from the usual charter complaints because the speaker offers concrete data-sharing commitments—his trip logs and testing a catch-reporting app with our staff—alongside specific conservation alternatives. He also maintains credibility by being honest about what he knows regarding other captains selling their boats rather than exaggerating."
+}

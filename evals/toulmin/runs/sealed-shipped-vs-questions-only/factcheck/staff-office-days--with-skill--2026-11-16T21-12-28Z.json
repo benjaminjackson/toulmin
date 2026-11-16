@@ -1,0 +1,29 @@
+{
+  "task": "staff-office-days",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-12-28Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Subject: Working in the office from September 1, 2027",
+      "why": "The brief gives the date as September 1, but does not state the year 2027."
+    },
+    {
+      "quote": "From September 1, 2027, everyone at the firm will work in the office on Tuesday, Wednesday and Thursday.",
+      "why": "The brief does not provide the year 2027 for the September 1 start date."
+    },
+    {
+      "quote": "From September 1, 2027, everyone works in the office Tuesday to Thursday.",
+      "why": "The brief only specifies September 1 and does not mention the year 2027."
+    },
+    {
+      "quote": "The four colleagues who live more than two hours from the office will keep working remotely until the end of 2027. From January 2028, they will come in one day a week.",
+      "why": "The brief states they can work remotely until the end of next year, without specifying the years 2027 or January 2028."
+    },
+    {
+      "quote": "We are telling you now, more than nine months ahead, so that anyone who needs to change childcare, travel or other arrangements has time to do it.",
+      "why": "The brief does not state the current date or mention that the announcement is being made more than nine months ahead of September 1."
+    }
+  ],
+  "invented_count": 5
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-lease-renewal",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-03-24Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A is much smarter strategically because it doesn't mention that the restaurant's sales are down 6%, which in Document B makes me worry they'll start missing rent again and pushes me toward the coffee chain. Also, the argument in both letters that a new tenant would save $40k on the hood system actually works against the current tenant by reminding me how easy it would be to attract another restaurant at full asking rent, though Document B makes it even worse by also telling me how to run my property regarding the coffee shop."
+}

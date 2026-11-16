@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-20-59Z",
+  "without_skill_run": "2026-11-16T21-02-51Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is a complete, ready-to-score summary that directly answers my biggest rubric questions—how the $33,000 annual funding gap is covered, what happens when the current attorney leaves, and how the clinic will measure its impact against unrepresented tenants. Document A leaves critical budget and staffing questions as unfilled brackets, and wrongly assumes 80 open cases equals 80 cases per year."
+}

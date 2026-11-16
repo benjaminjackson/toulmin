@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-dental-office",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-03-18Z",
+  "without_skill_run": "2026-11-16T21-20-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins me over because it includes her four years of recent work as a church treasurer using QuickBooks, which does a lot more to ease my hesitation about her seven-year employment gap than just managing one person's medical appointments. It also explicitly notes she lives in town and has managed a slightly larger staff than mine, which makes me feel like she can step in quickly and stay long-term."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-05-35Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B uses my name and firm timelines rather than placeholders, and it smartly connects her response to the March deadline error directly to how she would supervise and manage quality across the paralegal team. It also ends with a specific request to meet rather than Document A's awkward mention of pay."
+}

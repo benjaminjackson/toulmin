@@ -1,0 +1,21 @@
+{
+  "task": "open-letter-pharmacy-rates",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-33-22Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Every week we fill prescriptions for state employees, retirees and their families who are covered by your plan.",
+      "why": "The brief refers only to \"plan members\" at the \"state employees' health plan\" and does not specify that retirees and their families are covered or that prescriptions are filled for them every week."
+    },
+    {
+      "quote": "We lose money on every one of those prescriptions.",
+      "why": "The brief states that the plan pays an *average* of $1.80 less than the cost across the 20 generic drugs, not that the pharmacies lose money on every individual prescription."
+    },
+    {
+      "quote": "If the pharmacy in one of those towns stops taking your plan, your members there face a round trip of more than 40 miles for their medicine, or a wait for it in the mail.",
+      "why": "The brief states that the nearest *chain* pharmacy is more than 20 miles away, not that there is no other independent pharmacy closer than 20 miles away that still accepts the plan, nor does it mention mail-order options."
+    }
+  ],
+  "invented_count": 3
+}

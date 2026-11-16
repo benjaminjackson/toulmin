@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-32Z",
+  "without_skill_run": "2026-11-16T21-21-43Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins me over because it openly admits the dietitian didn't track whether those 14 customers changed their medication, and it offers a 15-minute phone call with her before I start. After quitting two apps and another meal service, having a real person talk to me about what I don't like—and being honest that the menu repeats every four weeks—makes me much more willing to risk $59."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-50Z",
+  "without_skill_run": "2026-11-16T21-22-10Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A puts the $99 offer right in the subject line, which immediately gets my attention since I only left to save money. Document B's subject line and opening falsely claim I complained about cleaner turnover when I left, and airing out that 7 of their 18 cleaners quit last year makes the company sound less stable."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-12-28Z",
+  "without_skill_run": "2026-11-16T21-24-55Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Both documents hallucinate the year 2027, which breaks the brief's timeline—giving the four distant staff only four extra months instead of until the end of next year—and Document B compounds this by inventing a nine-month notice period. Document A is clearly better because it includes the crucial commitment to a six-month policy review and handles the lack of exceptions with much more empathy."
+}

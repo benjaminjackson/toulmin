@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-dental-office",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-42Z",
+  "without_skill_run": "2026-11-16T21-02-51Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Even ignoring the unedited template brackets in A, Document B actually convinces me to look past the seven-year gap because she has been using QuickBooks for the last four years and is already enrolled in the 20-hour Dentrix course, plus she offers a direct reference from the head vet. I didn't love seeing that she also left her last job with only two weeks' notice, though for a sick mother it's understandable, and the concrete proof that her skills are current makes B an easy call for an interview."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-lease-renewal",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-04-31Z",
+  "without_skill_run": "2026-11-16T21-33-08Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A puts the full offer right up front, including the commitment to automatic bank transfers, which immediately addresses my biggest frustration about the late payments. It also frames the empty unit next door in terms of avoiding vacancy and turnover costs for me, rather than just telling me my asking price per square foot is too high."
+}

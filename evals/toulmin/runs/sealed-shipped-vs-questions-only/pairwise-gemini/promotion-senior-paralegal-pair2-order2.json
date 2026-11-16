@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-58Z",
+  "without_skill_run": "2026-11-16T21-33-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A awkwardly says 'I'd also like you to hear about one mistake from me directly,' which makes no sense since I'm the one who brought the March error up in her last review. Document B addresses that mistake naturally, connects her systemic fix directly to how she would supervise others, and omits A's slightly mechanical list of promises."
+}

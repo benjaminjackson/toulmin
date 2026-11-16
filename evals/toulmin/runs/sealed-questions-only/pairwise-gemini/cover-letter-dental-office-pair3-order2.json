@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-dental-office",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-52Z",
+  "without_skill_run": "2026-11-16T21-02-23Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B wins overall because she has already enrolled in the 20-hour Dentrix course and offers a concrete reference from the head vet, which reassures me despite the seven-year gap. However, I actually preferred Document A's decision to leave out the part about leaving her last job with two weeks' notice, as I was just burned by an office manager doing that to me."
+}

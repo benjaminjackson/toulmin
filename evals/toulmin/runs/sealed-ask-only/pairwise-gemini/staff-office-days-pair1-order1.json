@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-22-08Z",
+  "without_skill_run": "2026-11-16T21-09-16Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes concrete details that matter enormously to us as affected staff—specifically the $150 monthly commuting stipend, the six-month policy review, and clear honesty that there won't be individual exceptions—whereas Document B leaves all of that out and even contains placeholder signatures. Document A also takes more direct ownership of the partners' previous one-day-a-week attendance."
+}

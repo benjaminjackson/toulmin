@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-19-47Z",
+  "without_skill_run": "2026-11-16T21-02-01Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Since my budget is tight after donating to the ambulance fund, Document B's explicit guarantee that this is an all-or-nothing campaign where my money will be returned if it fails again gives me the peace of mind I need to pledge. It also feels much more authentic and reassuring because it uses the Majestic's actual name, is signed by Ruth Albers, and gives a concrete Thanksgiving reopening target."
+}

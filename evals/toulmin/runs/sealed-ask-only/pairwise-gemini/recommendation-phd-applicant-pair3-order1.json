@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-phd-applicant",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-23-22Z",
+  "without_skill_run": "2026-11-16T21-08-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins because it includes hard numbers and specific evidence that cut through the usual small-college grade inflation—specifically ranking her in the top 3 of 17 years of students and noting she ran a state lab's sampling solo for two weeks. Document B relies on vague, generic praise ('one of the most capable') and fabricates details not in the facts, such as how she handled the storm data gap in her analysis and how she answered questions at the conference."
+}

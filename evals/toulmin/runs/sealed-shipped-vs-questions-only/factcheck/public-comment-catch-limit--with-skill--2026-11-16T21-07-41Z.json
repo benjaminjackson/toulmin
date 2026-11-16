@@ -1,0 +1,17 @@
+{
+  "task": "public-comment-catch-limit",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-07-41Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Ten years later, I still haven't gotten back to where I was.",
+      "why": "The brief states that the previous cut was in 2016, but it does not state the current year or that ten years have passed since then."
+    },
+    {
+      "quote": "Charter boats land the least flounder in this state.",
+      "why": "The brief states that charter boats land about 9% and private boats land about 80%, which leaves 11% unaccounted for that could belong to one or more other categories landing less than 9% each."
+    }
+  ],
+  "invented_count": 2
+}

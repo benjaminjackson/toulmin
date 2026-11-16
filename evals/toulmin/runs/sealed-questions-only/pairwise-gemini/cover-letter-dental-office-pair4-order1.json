@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-dental-office",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-42Z",
+  "without_skill_run": "2026-11-16T21-02-51Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is a complete, personalized letter that addresses my reservations about the seven-year gap by showing recent QuickBooks work, enrolled Dentrix training, and a solid reference from the head vet (even if the mention of her two weeks' notice slightly reminds me of my last manager quitting). Document B still has unfilled brackets and template instructions, which looks careless for an office manager application."
+}

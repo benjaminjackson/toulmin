@@ -1,0 +1,21 @@
+{
+  "task": "public-comment-catch-limit",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-32-15Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "and I never got back to 170.",
+      "why": "The brief gives booking numbers for 2016, the next season, two years later (155), and the current average (about 160), but does not state whether bookings ever reached 170 in the intervening years."
+    },
+    {
+      "quote": "Each boat that goes takes crew jobs and customers that the docks, tackle shops and restaurants count on.",
+      "why": "Neither the brief nor the user's additional facts mention whether the harbor's charter boats employ crew or mention local docks, tackle shops, or restaurants relying on their customers."
+    },
+    {
+      "quote": "Either one lets the stock recover",
+      "why": "The brief says commission staff recommended the 2-fish cut and the user states he has no answer to the staff's stock numbers, providing no factual basis that a 3-fish limit or shorter season will let the stock recover."
+    }
+  ],
+  "invented_count": 3
+}

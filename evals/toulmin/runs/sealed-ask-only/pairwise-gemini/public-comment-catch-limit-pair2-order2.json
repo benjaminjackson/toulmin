@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-19-37Z",
+  "without_skill_run": "2026-11-16T21-07-58Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B brings concrete concessions and partnerships to the table—accepting a shorter season, sharing trip logs since 2016, and piloting a catch-reporting app with our staff—which gives us actionable alternatives that still respect our biological targets. It also conveys the severe threat to the harbor's fleet honestly without resorting to the hyperbolic claims we hear at every meeting."
+}

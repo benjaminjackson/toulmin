@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-lease-renewal",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-29Z",
+  "without_skill_run": "2026-11-16T21-20-25Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses my ongoing concern about the late payments by explaining the one-time emergency and offering automatic bank transfers on the 1st of the month. It also offers $5,100 instead of Document A's $5,000 (which changed the brief's facts) and commits to signing within two weeks."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-15Z",
+  "without_skill_run": "2026-11-16T21-19-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B builds enormous credibility by honestly admitting that 70% of this season's trips are already booked and explaining why the economic hit lags by a year, whereas Document A uses that same fact as a vague emotional appeal. Document A is also slightly preferred on finish because Document B leaves an unfilled '[HARBOR NAME]' placeholder, making this a close call, but B's candor and logical flow are much more persuasive to commissioners used to hearing exaggeration."
+}

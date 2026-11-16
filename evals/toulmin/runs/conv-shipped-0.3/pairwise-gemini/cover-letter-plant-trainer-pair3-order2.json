@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-24-28Z",
+  "without_skill_run": "2026-11-16T20-01-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B addresses my biggest hesitation about hiring a teacher by proving she has kept signed training records that passed two state audits and showing the initiative to take a GMP basics course. It also includes my name, our company name, and crucial scheduling details about her June start date, whereas Document A is an unpersonalized template with only vague promises about record-keeping."
+}

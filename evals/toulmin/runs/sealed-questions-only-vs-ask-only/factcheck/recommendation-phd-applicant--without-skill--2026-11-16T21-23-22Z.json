@@ -1,0 +1,17 @@
+{
+  "task": "recommendation-phd-applicant",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-23-22Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "She designed the study",
+      "why": "The brief states only that she did the fieldwork herself for her senior thesis, not that she designed the study."
+    },
+    {
+      "quote": "Priya never missed her sampling schedule.",
+      "why": "Neither the brief nor the additional user information mentions a sampling schedule or states that she never missed it."
+    }
+  ],
+  "invented_count": 2
+}

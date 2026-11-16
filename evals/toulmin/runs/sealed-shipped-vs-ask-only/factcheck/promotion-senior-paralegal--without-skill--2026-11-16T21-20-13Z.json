@@ -1,0 +1,17 @@
+{
+  "task": "promotion-senior-paralegal",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-20-13Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "That check now protects every group that uses the sheet.",
+      "why": "The brief states that two other groups use the tracking sheet and that a second-person check was added after an error last March, but it does not state whether the other groups adopted or use that check."
+    },
+    {
+      "quote": "whether the group's growth, with three new paralegals in two years",
+      "why": "The brief states that the group hired three paralegals in the last two years (and that one left), not that the group grew overall rather than replacing departing staff."
+    }
+  ],
+  "invented_count": 2
+}

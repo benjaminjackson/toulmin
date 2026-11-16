@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-dental-office",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-42Z",
+  "without_skill_run": "2026-11-16T21-20-52Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B wins me over on the seven-year employment gap by clarifying that her caregiving duty has ended, mentioning her recent QuickBooks experience as a church treasurer, and offering a reference from the head vet right away. However, because my last manager just left me scrambling with two weeks' notice, Document B's unnecessary mention that she also left her last job with two weeks' notice hits a nerve and keeps the margin slight."
+}

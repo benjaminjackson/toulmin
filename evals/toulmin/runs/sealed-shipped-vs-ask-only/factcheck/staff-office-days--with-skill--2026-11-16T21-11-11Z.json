@@ -1,0 +1,25 @@
+{
+  "task": "staff-office-days",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-11-11Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "1 September 2027",
+      "why": "The brief only gives the start date as 'September 1' without specifying the year 2027."
+    },
+    {
+      "quote": "The four of you who live more than two hours away will stay fully remote until 31 December 2027. From January 2028, you'll come in one day a week.",
+      "why": "The brief states that these four staff members can work remotely until the 'end of next year', which contradicts the document's claim that the policy both starts in September 2027 and ends for them in December 2027, as well as the invented years 2027 and 2028."
+    },
+    {
+      "quote": "We haven't yet decided how Mondays and Fridays will work. We'll confirm that before September.",
+      "why": "Neither the brief nor the user's notes mention any undecided policy or upcoming confirmation regarding Mondays and Fridays."
+    },
+    {
+      "quote": "We haven't yet settled how the office days will be organised, and we'd like to hear your ideas on Friday.",
+      "why": "Neither the brief nor the user's notes state that the organisation of the office days is unsettled or that staff ideas on this will be solicited at the Friday meeting."
+    }
+  ],
+  "invented_count": 4
+}

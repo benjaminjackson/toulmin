@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-36-44Z",
+  "without_skill_run": "2026-11-16T21-09-49Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B answers my immediate practical questions—about desk space, commuting costs, a six-month review, and whether the project leads I need to learn from will actually be there—and is honest about not granting exceptions, whereas Document A offers vague individual meetings that falsely imply the policy is negotiable. However, Document B confuses the timeline by stating the policy starts in September 2027 while also saying the distant remote workers get until December 2027 (which was meant to be the end of next year, not four months later)."
+}

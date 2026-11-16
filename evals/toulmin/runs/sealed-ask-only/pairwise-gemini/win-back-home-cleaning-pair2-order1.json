@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-22-54Z",
+  "without_skill_run": "2026-11-16T21-10-14Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes the real company name, phone number, and a no-contract guarantee, which makes it easy for me to book that $99 cleaning for a one-off savings without feeling locked into paying $165 again. It also gives me pause by explicitly noting that the $140 app cleaners I currently use likely aren't insured, whereas Document B is full of unfilled template placeholders."
+}

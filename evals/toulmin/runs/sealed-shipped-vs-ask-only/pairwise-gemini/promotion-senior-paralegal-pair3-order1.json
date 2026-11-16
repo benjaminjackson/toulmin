@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-06-56Z",
+  "without_skill_run": "2026-11-16T21-20-13Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A addresses the March deadline error with hard data—zero errors in 600 entries since April—which actually reassures me that the new system works. It also shows mature leadership by proposing concrete plans for supervision and addressing the retention issue, though the mention of the $9,000 pay bump was slightly awkward and the wording around the mistake ('You should also hear this from me') ignores that we already discussed it in her review."
+}

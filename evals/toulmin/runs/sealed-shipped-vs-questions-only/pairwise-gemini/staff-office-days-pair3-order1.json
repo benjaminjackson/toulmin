@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-11-11Z",
+  "without_skill_run": "2026-11-16T21-37-50Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document B is more empathetic—especially by making it clear that the slower progression of junior staff is the firm's failure rather than theirs—and its dedicated section for remote hires feels much more respectful. Document A also invents an alarming detail that Mondays and Fridays are still undecided, making me worry a five-day mandate is coming, whereas B sticks to the facts."
+}

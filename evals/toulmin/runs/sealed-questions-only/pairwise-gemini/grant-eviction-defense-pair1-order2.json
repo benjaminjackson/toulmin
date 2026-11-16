@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses the questions I would immediately have on the grant panel, specifically how the $33,000 funding gap will be covered and how the clinic plans to get baseline court data to prove its impact. It is also candid about the upcoming staff departure and realistic hiring timeline, whereas Document A leaves critical budget and evaluation details as blank placeholders."
+}

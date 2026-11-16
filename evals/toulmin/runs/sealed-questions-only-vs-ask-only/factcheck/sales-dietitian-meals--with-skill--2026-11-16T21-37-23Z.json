@@ -1,0 +1,21 @@
+{
+  "task": "sales-dietitian-meals",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-37-23Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Every Sunday we deliver ten cooked meals to your door.",
+      "why": "The brief says meals are delivered every Sunday within 25 miles of downtown, not specifically to the customer's door."
+    },
+    {
+      "quote": "We deliver to 88 customers each week",
+      "why": "The brief says there are 88 active customers and that customers can skip a week any time, not that all 88 receive a delivery every week."
+    },
+    {
+      "quote": "and the average drop across all 14 was 0.6 points.",
+      "why": "The brief says the average drop was 0.6 points, without specifying whether that average was calculated across all 14 customers or only the 10 whose A1C went down."
+    }
+  ],
+  "invented_count": 3
+}

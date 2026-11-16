@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-22-34Z",
+  "without_skill_run": "2026-11-16T21-09-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Because I've quit another meal service and two apps in the past, I need to know I won't get bored or locked in, and Document B gives me concrete details about swapping meals, a 4-week menu cycle, no contracts, and even a 15-minute call with Lena before I buy. Document A lacks those crucial operational details and left placeholder text in the copy, though both were refreshingly honest about the small A1C sample size."
+}

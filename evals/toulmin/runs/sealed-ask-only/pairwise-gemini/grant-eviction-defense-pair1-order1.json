@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me a complete, specific breakdown of how the $33,000 annual funding gap will be covered, which is the first question I have when reviewing a partial-salary request. Document B leaves critical budget details as unfilled placeholders, making it impossible to score the financial viability of the project."
+}

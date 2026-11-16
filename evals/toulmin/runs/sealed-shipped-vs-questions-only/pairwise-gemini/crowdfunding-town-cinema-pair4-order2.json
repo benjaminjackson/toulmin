@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-03Z",
+  "without_skill_run": "2026-11-16T21-34-54Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Because I already gave $200 to the ambulance fund this month and remember the failed campaign, I need to see right at the start why this attempt won't just end in another refund. Document B leads with the failed campaign and the new math—showing we only need $2,000 more from the public than we raised last time— while Document A's acknowledgment that I can 'pledge what I can' makes it easier on my tight budget, making it a close call, though B's radical honesty about the roof estimate and film distributors ultimately wins my trust."
+}

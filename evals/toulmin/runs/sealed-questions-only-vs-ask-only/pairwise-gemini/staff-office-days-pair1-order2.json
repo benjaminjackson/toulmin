@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-44Z",
+  "without_skill_run": "2026-11-16T21-22-08Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both documents miss the timeline by a year—saying the four remote staff who live far away only have until the end of 2027 instead of the end of next year—which is a huge discrepancy for those of us affected. However, Document B is slightly more convincing because it addresses the practical reality that we don't currently have enough desks and notes that five of the six project leads are already in three days a week."
+}

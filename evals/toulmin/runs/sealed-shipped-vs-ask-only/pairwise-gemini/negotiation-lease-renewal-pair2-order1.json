@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-lease-renewal",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-04-31Z",
+  "without_skill_run": "2026-11-16T21-19-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A directly addresses my main hesitation about the late payments by offering automatic bank transfers on the 1st of the month, and it promises a signed lease within two weeks. It also makes a sharp business point that a coffee shop would waste the $40,000 hood system already in the space, whereas the empty unit two doors down has been sitting at $28 a square foot."
+}

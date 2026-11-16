@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-07-57Z",
+  "without_skill_run": "2026-11-16T21-35-32Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B speaks directly to the daily exhaustion of counting carbs that made me quit apps before, and it admits that a four-week menu rotation means dishes come back around rather than pretending I won't get bored. I also vastly prefer B's low-pressure closing, which acknowledges the trial might not work for me instead of guilt-tripping me about cooking on my own."
+}

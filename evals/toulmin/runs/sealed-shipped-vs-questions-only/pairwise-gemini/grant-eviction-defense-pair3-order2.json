@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-04-31Z",
+  "without_skill_run": "2026-11-16T21-34-43Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B puts the funding request in the very first sentence and uses clear headings that make it effortless to score against a rubric in ten minutes. It also avoids Document A's unrealistic claim that an attorney leaving in June will train a new hire when the grant isn't even decided until May and their last hiring process took five months."
+}

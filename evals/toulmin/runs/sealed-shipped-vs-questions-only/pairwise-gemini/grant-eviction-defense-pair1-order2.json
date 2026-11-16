@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "As a reviewer scoring 40 applications against a rubric, Document A's bolded headings make it much faster to locate the required criteria. Additionally, Document B shoots itself in the foot by presenting an impossible timeline—claiming a departing attorney leaving in June will spend a month training a new hire when our grant decisions aren't even made until May and their last search took five months."
+}

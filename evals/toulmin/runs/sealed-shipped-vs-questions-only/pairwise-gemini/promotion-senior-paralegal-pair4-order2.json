@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-08-01Z",
+  "without_skill_run": "2026-11-16T21-34-39Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B reads like a natural, professional email and owns the March deadline error directly, whereas Document A bizarrely says 'I also want you to hear about a mistake I made' as if I didn't already raise it in her last review. Document B also skips the awkward mention of the $9,000 raise and is fully transparent about the trainees."
+}

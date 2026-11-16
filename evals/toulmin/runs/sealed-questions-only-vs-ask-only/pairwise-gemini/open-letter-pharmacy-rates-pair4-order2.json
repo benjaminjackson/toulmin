@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-21Z",
+  "without_skill_run": "2026-11-16T21-21-14Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A stays completely honest to the facts, whereas Document B claims 'None of us can make it all back' on brand-name drugs and 'each one of those prescriptions now costs us more than the plan pays' (instead of the $1.80 being an average), neither of which is supported by their data. As a skeptical director who hears rate complaints every year, I would immediately ask for proof of net losses in a meeting, so Document A's strict accuracy and scannable layout make it much more credible."
+}

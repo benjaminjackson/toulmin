@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-22-24Z",
+  "without_skill_run": "2026-11-16T21-03-47Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B provides the actual deal terms, shows a $250,000 lead commitment, and outlines a concrete burn reduction to $75,000, while Document A is full of unedited placeholders and makes an unrealistic claim that $600k will last through spring 2027 without cost cuts. I also strongly prefer Document B's candor about the competitor's features and why they cannot yet promise profitability over Document A's generic spin."
+}

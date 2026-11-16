@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-10-37Z",
+  "without_skill_run": "2026-11-16T21-36-38Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins me over because it directly names the exact $25 price difference ($165 vs. $140) I'm currently saving and clearly explains that it pays for insurance and employee wages, which makes me rethink the risk of my current app service. It also feels more transparent by sharing the specific turnover numbers without assuming I personally complained about cleaner consistency like Document B does ('You were right about the cleaners')."
+}

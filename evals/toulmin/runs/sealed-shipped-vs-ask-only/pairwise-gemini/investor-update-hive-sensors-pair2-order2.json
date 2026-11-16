@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-02-58Z",
+  "without_skill_run": "2026-11-16T21-19-54Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B includes the commitment to send a monthly cash report and sets a concrete $300,000 target for March and April that I can hold the founder accountable to in the May report. Both updates mistakenly equate $900,000 in revenue with covering $900,000 in operating expenses by ignoring the $38 hardware cost, which is concerning, but B's reporting commitment and clear springtime benchmark make me slightly more comfortable participating."
+}

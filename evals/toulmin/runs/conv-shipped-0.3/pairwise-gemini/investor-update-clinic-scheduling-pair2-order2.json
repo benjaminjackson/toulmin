@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-23-22Z",
+  "without_skill_run": "2026-11-16T20-01-11Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins because the founder actually admits why they went silent, gives a specific date for the next update, and offers monthly numbers, which is what it takes to start rebuilding my trust. It also honestly lays out the specific churn risk of the $3,800 in MRR on the same records system, whereas Document A feels like a generic template with placeholders and glosses over the silence."
+}

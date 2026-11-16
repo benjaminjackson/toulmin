@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-04-41Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly challenges my assumptions by offering to share actual wholesaler purchase invoices to prove their losses and by pointing out that the nearest chain pharmacy is over 20 miles away for most residents in 14 counties. It also omits the personal filler statistic of 3,100 prescriptions—which actually would have made me think their losses were trivial—and replaces vague demands with a concrete offer to meet before May 1."
+}

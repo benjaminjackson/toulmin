@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-38-19Z",
+  "without_skill_run": "2026-11-16T21-10-12Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who has already quit a meal delivery service, I need to know the practical details before I pay for a trial—and Document B tells me I can swap meals, cancel or skip anytime with no contract, and even talk to the dietitian by name for 15 minutes first. Both pages are refreshingly honest about the small A1C sample size, though A's explicit mention of untracked medication changes is also great."
+}

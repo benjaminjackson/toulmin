@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-24-17Z",
+  "without_skill_run": "2026-11-16T21-10-12Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Having quit another meal delivery service before, I need the practical details found only in Document A: the Dietitian's name, the ability to swap meals, the 4-week menu rotation, and an explicit promise that I can skip weeks or cancel anytime. Document B leaves out all of these logistics and also slightly misstates the A1C data by implying the 0.6-point average drop applies only to the 10 people whose numbers went down rather than all 14."
+}

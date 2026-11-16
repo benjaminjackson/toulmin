@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-dental-office",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-52Z",
+  "without_skill_run": "2026-11-16T21-20-07Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B's mention of leaving her last job with only two weeks' notice hits a raw nerve for me right now, even with a sympathetic reason, though having a named reference from seven years ago is reassuring. Document A avoids that red flag, frames the patient-side caregiving experience better, and takes direct credit for reducing the overdue invoices rather than saying they just 'fell.'"
+}

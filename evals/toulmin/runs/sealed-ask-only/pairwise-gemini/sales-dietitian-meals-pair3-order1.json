@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-23-20Z",
+  "without_skill_run": "2026-11-16T21-09-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me the practical details I need after quitting another meal service— specifically that I can swap meals, that there is no contract, and who the dietitian actually is, including a 15-minute phone call. Document B leaves out the cancellation policy and meal options, doesn't name the business or dietitian, and even left an unfinished '[day/time]' placeholder at the bottom."
+}

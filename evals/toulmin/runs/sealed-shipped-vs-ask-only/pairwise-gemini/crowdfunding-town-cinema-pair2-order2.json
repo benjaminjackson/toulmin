@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-02-41Z",
+  "without_skill_run": "2026-11-16T21-19-47Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B includes the $11,000 pledged by local businesses, showing that the town only needs to raise $49,000—just $2,000 more than we actually gave in the failed campaign. Breaking the remaining need down to $7.50 per resident also makes me feel good about giving a modest amount since my budget is tight after donating to the ambulance fund."
+}

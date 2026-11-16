@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-16Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both comments earn immediate credibility by accepting our staff's stock numbers and sticking to verifiable facts from the captain's own books. Document B is slightly more actionable because it includes the three-year duration of the proposed cut and closes with a concrete procedural ask—having staff model a three-fish limit or shorter season before next month's vote—rather than assuming those options will recover the stock equally well."
+}

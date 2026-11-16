@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-lease-renewal",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-03-24Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document B strikes a more respectful and reassuring tone, whereas Document A tells me our sales are down 6%, which makes me worry about their ability to pay rent over the next five years especially since they were already late twice in 2024. Document B also avoids giving me unsolicited advice about what a coffee chain would value in my building."
+}

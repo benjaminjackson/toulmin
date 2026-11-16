@@ -1,0 +1,17 @@
+{
+  "task": "promotion-senior-paralegal",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-32-15Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "In 2025 I supported four lawyers on 23 cases, two of which went to trial.",
+      "why": "The brief says this work happened 'last year,' without specifying the year 2025 or giving a current year from which 2025 could be calculated."
+    },
+    {
+      "quote": "I will also finish the state paralegal certification by June 2027.",
+      "why": "The user's notes state she can commit to finishing the certification by 'next June,' without specifying the year 2027 or giving a current year."
+    }
+  ],
+  "invented_count": 2
+}

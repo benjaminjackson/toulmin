@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-27-11Z",
+  "without_skill_run": "2026-11-16T20-06-05Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B provides concrete details that make the recommendation much more credible and compelling to an admissions committee, such as the $8,000 saved, arranging a trained replacement before his emergency trip, retaking and passing the safety test, and the manager's commitment to keep him employed on weekends."
+}

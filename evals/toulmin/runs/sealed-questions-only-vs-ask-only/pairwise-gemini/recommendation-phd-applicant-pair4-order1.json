@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-phd-applicant",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-38-08Z",
+  "without_skill_run": "2026-11-16T21-24-08Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters are nearly identical in content and effectively overcome my skepticism of small-college praise by providing concrete details—ranking her top 3 in 17 years, citing 90 solo kayak trips, and honestly noting the need for a second season of data before publishing. Document A edges out Document B only because it includes the recommender's name and institution, and its second paragraph isn't just a standalone sentence."
+}

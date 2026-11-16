@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-24-11Z",
+  "without_skill_run": "2026-11-16T20-03-30Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A makes a much stronger business case to justify stretching my budget by highlighting the fourth printing, firmly stating she cannot do another book at $9,000, and sweetening the deal with fast sketches and two free marketing illustrations. It is also ready to send with our actual names and project details, whereas Document B leaves in generic placeholders."
+}

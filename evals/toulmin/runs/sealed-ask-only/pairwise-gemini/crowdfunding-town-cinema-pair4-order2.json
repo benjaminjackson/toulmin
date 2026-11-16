@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-21-36Z",
+  "without_skill_run": "2026-11-16T21-03-12Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B uses the actual name of our theater and the organizer, and it explicitly guarantees an 'all or nothing' refund if they fall short again, which gives me the confidence to pledge a modest amount despite my tight budget this month. Document A feels like an unfinished template with placeholders, and it only mentions that they refunded people last time without explicitly promising to do so this time."
+}

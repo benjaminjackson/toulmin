@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-26-15Z",
+  "without_skill_run": "2026-11-16T20-05-29Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B provides concrete, persuasive details—such as the $8,000 saved, arranging shift coverage before his emergency leave, passing a failed written test on the second try, and the manager's offer of weekend employment while enrolled—that directly answer my concerns about his readiness and reliability. It also includes the actual names and contact info rather than placeholders."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-32Z",
+  "without_skill_run": "2026-11-16T21-08-31Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins my trust by giving the dietitian's real name and being completely honest that she didn't track medication changes for the A1C results. It also answers the practical questions that made me quit other services—like whether I can swap meals I don't like, how often the menu repeats, and that I can cancel or skip weeks anytime without a contract."
+}

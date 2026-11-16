@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-10-17Z",
+  "without_skill_run": "2026-11-16T21-37-23Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A won my trust immediately by speaking directly in the dietitian's voice and openly admitting that she doesn't track medication changes—a level of honesty I rarely see in health marketing. Including the 15-minute phone call with Lena before my first delivery also makes this feel like a real local service rather than just another faceless subscription I'll quit in two months."
+}

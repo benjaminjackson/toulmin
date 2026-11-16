@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-54Z",
+  "without_skill_run": "2026-11-16T21-21-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B convinces me that this campaign will actually succeed where the last one failed by pointing out that the remaining $49,000 needed after the bank and local business pledges is almost identical to the $47,000 the town raised last time. Including the Thanksgiving reopening target and the commitment to post spending reports at the library also makes me feel confident enough to chip in a modest amount, even with my budget stretched this month."
+}

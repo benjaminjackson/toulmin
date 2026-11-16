@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-dental-office",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-05Z",
+  "without_skill_run": "2026-11-16T21-01-53Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses my biggest anxieties after my last manager quit—it mentions that she has already enrolled in a 20-hour Dentrix course, kept her accounting skills fresh with QuickBooks during her seven-year gap, and can work our evening hours. While seeing the phrase 'giving two weeks' notice' briefly made me wince given my current situation, her proactive preparation, specific reference from the head vet, and readiness to start make her an immediate standout compared to the generic placeholders in A."
+}

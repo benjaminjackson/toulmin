@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-21Z",
+  "without_skill_run": "2026-11-16T21-02-07Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B provides the actual matching funds ($20,000 family fund pledge and $13,000 general budget) and a concrete plan to obtain baseline court data from the clerk, which lets me score the rubric immediately instead of looking at unfilled brackets. However, Document B alters the core premise of the request from hiring a third attorney to merely keeping two on staff, whereas Document A is honest to the facts of the request and cleanly flags the exact budget and staffing gaps the applicant needs to fill in."
+}

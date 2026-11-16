@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-54Z",
+  "without_skill_run": "2026-11-16T21-03-12Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B includes the local business pledges that bring the remaining public goal down to $49,000—almost exactly what we raised last time—which makes me believe it will actually succeed this time. It also explicitly promises a full refund if they fall short, quarterly spending reports at the library, and is signed by Ruth rather than leaving generic placeholders."
+}

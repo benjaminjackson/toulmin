@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-21-32Z",
+  "without_skill_run": "2026-11-16T21-09-11Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A includes the concrete fact that two other captains in the harbor plan to sell if bookings drop like they did in 2016, which gives the economic threat real weight without exaggerating. It also offers a shorter season as a viable conservation alternative to a two-fish limit, whereas Document B suggests a one-year review that wouldn't solve our three-year stock target."
+}

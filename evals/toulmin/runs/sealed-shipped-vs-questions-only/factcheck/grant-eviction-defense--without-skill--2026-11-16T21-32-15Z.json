@@ -1,0 +1,33 @@
+{
+  "task": "grant-eviction-defense",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-32-15Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Starting in January, we will request court-wide outcome data from the county clerk so we can compare our results against it.",
+      "why": "The brief does not mention a plan to request court-wide outcome data from the county clerk starting in January."
+    },
+    {
+      "quote": "We will begin recruiting as soon as the award is announced.",
+      "why": "The brief does not state when the clinic will begin recruiting for the position."
+    },
+    {
+      "quote": "Our last attorney search took five months.",
+      "why": "The brief does not mention a previous attorney search or that it took five months."
+    },
+    {
+      "quote": "a $20,000 annual pledge from [Family Fund] and $13,000 a year from our general budget would cover it",
+      "why": "The brief does not mention a $20,000 annual pledge from a family fund or using $13,000 a year from the general budget to cover the funding gap."
+    },
+    {
+      "quote": "Every six months we will report to the Foundation the number of cases the attorney opened and how each one ended.",
+      "why": "The brief does not mention a commitment to report case numbers and outcomes to the foundation every six months."
+    },
+    {
+      "quote": "Once the clerk's data is available, we will include the court-wide comparison.",
+      "why": "The brief does not mention obtaining data from the county clerk or including a court-wide comparison in reports."
+    }
+  ],
+  "invented_count": 6
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-19-37Z",
+  "without_skill_run": "2026-11-16T21-07-58Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A stands out from the usual public comments because the captain offers concrete cooperation—sharing his trip logs since 2016 and testing a catch-reporting app with our staff—while proposing specific regulatory alternatives like a shorter season or a three-fish limit. He also gives an honest, credible account of the economic risk in his harbor without exaggerating beyond what he knows."
+}

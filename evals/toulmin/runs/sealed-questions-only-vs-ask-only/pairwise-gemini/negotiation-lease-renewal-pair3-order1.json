@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-lease-renewal",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-05Z",
+  "without_skill_run": "2026-11-16T21-20-25Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A offers the accurate $5,100 starting rent from the brief rather than lowering it to $5,000 like Document B does. Furthermore, Document A directly addresses my annoyance over the 2024 late payments by explaining why they happened and offering an automatic bank transfer on the 1st of the month so it won't happen again."
+}

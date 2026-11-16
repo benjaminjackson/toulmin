@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-04-31Z",
+  "without_skill_run": "2026-11-16T21-20-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is much easier to score quickly against a rubric because of its clear headings, and it is strictly honest about the clinic's budget risks. Document B makes the unrealistic promise that a new hire will be trained in May by the departing attorney (when the foundation doesn't even decide until May and hiring takes five months) and overstates its financial security regarding the county contract."
+}

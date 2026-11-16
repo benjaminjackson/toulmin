@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins my trust and makes a pledge feel doable right now by pointing out that the remaining $49,000 is just $2,000 more than we actually raised last time, or about $7.50 per resident. Signing it personally from Ruth, promising quarterly spending reports at the library, and being honest upfront about the roof estimate and film distributors gives me the confidence to pitch in a small amount even after giving $200 to the ambulance fund."
+}

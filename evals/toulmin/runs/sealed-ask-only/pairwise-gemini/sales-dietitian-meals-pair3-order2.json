@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-23-20Z",
+  "without_skill_run": "2026-11-16T21-09-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Both documents earned my trust by being honest about the A1C numbers instead of overpromising, which is rare. However, Document B gave me the practical details I actually need before trying another service—like being able to swap meals, cancel anytime without a contract, and talk to the dietitian Lena by name—whereas Document A didn't even have a business name and left a placeholder at the bottom."
+}

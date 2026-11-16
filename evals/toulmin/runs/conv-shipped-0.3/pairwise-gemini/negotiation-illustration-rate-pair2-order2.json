@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-23-11Z",
+  "without_skill_run": "2026-11-16T20-03-03Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B uses our actual project details, confirms she can meet my September 1 deadline, and includes the fourth printing, which gives me stronger ammunition to take to my team to ask for more budget. She also makes it clear she cannot take the book at $9,000 while signaling $11,000 as her floor, so I know exactly where we stand before deciding whether to stretch the budget or go with the newer illustrator."
+}

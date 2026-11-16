@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-38-45Z",
+  "without_skill_run": "2026-11-16T21-24-55Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both documents misinterpret the brief's timeline ('until the end of next year') by giving the four remote staff who live far away only four extra months instead of sixteen, which would infuriate those employees. Between the two, Document A is slightly more persuasive because its second paragraph immediately and candidly acknowledges that the firm is breaking a promise to the 15 remote hires, without burying that acknowledgment after a line about the partners' schedules."
+}

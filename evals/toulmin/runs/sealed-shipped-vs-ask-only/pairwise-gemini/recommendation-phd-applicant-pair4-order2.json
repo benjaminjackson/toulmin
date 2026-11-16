@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-phd-applicant",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-10-42Z",
+  "without_skill_run": "2026-11-16T21-24-08Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters win me over by resisting small-college grade inflation and giving an honest assessment of the limits of her thesis data alongside concrete proof of her field grit. Document B is slightly better because it breaks down the math of the 90 kayak trips ('one trip every four to five days for more than a year') to emphasize her persistence, and includes the actual names rather than bracketed placeholders."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-38-19Z",
+  "without_skill_run": "2026-11-16T21-24-17Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both documents earn my trust by being honest about the A1C numbers and making it easy to cancel, which matters since I've quit other plans quickly. Document B wins because it includes a 15-minute phone call with the dietitian before starting, making it feel like personal support rather than just another faceless service."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-05Z",
+  "without_skill_run": "2026-11-16T21-02-01Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B convinces me to chip in even on a tight budget this month because it guarantees an all-or-nothing refund, includes the $11,000 already pledged by local businesses—meaning the town really only needs to match the $47,000 we raised last time—and shows real accountability with library spending reports and honest disclosures about the roof. Document A lacks the explicit refund guarantee for this round, misses the extra business pledges, and leaves in bracketed placeholders."
+}

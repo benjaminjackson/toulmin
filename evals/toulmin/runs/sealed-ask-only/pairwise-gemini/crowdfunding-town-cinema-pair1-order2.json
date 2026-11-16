@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B names our cinema, includes the extra $11,000 from local businesses which makes the remaining gap actually smaller than what we raised in the failed campaign, and explicitly promises an all-or-nothing refund if it falls short again. However, Document A's breakdown to 'less than $10 per resident' was very appealing since my budget is tight after giving $200 to the ambulance fund, and Document B invented the year 2027."
+}

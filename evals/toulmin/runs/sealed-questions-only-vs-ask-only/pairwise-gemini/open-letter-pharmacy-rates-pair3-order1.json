@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-27Z",
+  "without_skill_run": "2026-11-16T21-20-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters are remarkably honest—neither makes the wild closure claims I'm used to hearing, both admit they make back some margin on brand-name drugs, and both offer actual purchase invoices alongside the hard data about rural counties more than 20 miles from a chain. Document A edges out Document B slightly because including the specific volume at the writer's own pharmacy (3,100 fills) makes the impact on my members feel a bit more concrete."
+}

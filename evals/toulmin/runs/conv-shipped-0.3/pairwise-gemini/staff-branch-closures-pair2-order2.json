@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-26-49Z",
+  "without_skill_run": "2026-11-16T20-06-53Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses our biggest fears about working the phones by acknowledging the high turnover, giving senior staff priority on shift choices, and offering a six-month trial period where we can still keep our severance if we hate it. Document A leaves key dates as placeholders and offers none of these protections, which makes it much more likely we would just take the severance and leave immediately."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-24-24Z",
+  "without_skill_run": "2026-11-16T21-11-15Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly contrasts its insured employees with the uninsured contractors used by the app service I switched to, which gives me a strong reason to rethink my $25 savings. It also clarifies how the backup system works and includes the actual company details, contact info, and offer deadline rather than placeholders."
+}

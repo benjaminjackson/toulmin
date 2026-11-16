@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-57Z",
+  "without_skill_run": "2026-11-16T21-20-41Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins my trust and a modest pledge because Ruth puts her name on it, addresses the failed first campaign right away, and is upfront about the possible increase in the roof estimate and the limits on getting new releases. Document A invents a 2027 date that doesn't match the timeline and misses the personal, neighborly honesty of B, though A's explicitly pointing out that the remaining $49,000 is barely more than the $47,000 we raised last time was very persuasive."
+}

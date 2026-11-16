@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-22-12Z",
+  "without_skill_run": "2026-11-16T20-02-34Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B uses our actual names, includes the compelling detail about the fourth printing, and states clearly that Elena cannot take another book at $9,000. Knowing that $9,000 is a hard no forces me to either find room in the budget (perhaps around $11,000) or lose a proven, bestselling illustrator to a cheaper, untested alternative."
+}

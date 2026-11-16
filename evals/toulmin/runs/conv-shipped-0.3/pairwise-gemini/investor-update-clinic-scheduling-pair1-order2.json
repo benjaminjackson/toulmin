@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-22-12Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B rebuilds broken trust by honestly explaining why updates were skipped, giving a concrete date for the next one, and proactively disclosing the $3,800/month in additional customer risk. It also does the hard math on the new $150 feature rather than trying to spin it as a silver bullet, which makes me willing to take the founder's call."
+}

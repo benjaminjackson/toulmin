@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-dental-office",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-33-05Z",
+  "without_skill_run": "2026-11-16T21-01-53Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins because it includes the specific facts that ease my reluctance about a seven-year gap—namely her recent QuickBooks experience and that she already enrolled in a Dentrix course—while also addressing my immediate need for Tuesday/Thursday evening coverage. While her mention of leaving her last job with two weeks' notice gave me pause, having a ready reference from the head vet and a finished letter without template placeholders makes me much more likely to call her."
+}

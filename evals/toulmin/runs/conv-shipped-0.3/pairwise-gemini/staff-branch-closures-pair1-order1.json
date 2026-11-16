@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-25-40Z",
+  "without_skill_run": "2026-11-16T20-06-16Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me the actual details and safety nets I need to consider staying—specifically the $1.50/hr raise, shift priority for my ten-plus years of seniority, and the six-month window to try the phones without losing my severance. It also respects my intelligence by being honest about the tough realities of the call center instead of giving me vague placeholders."
+}

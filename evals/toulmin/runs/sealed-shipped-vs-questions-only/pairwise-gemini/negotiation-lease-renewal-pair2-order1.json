@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-lease-renewal",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-04-31Z",
+  "without_skill_run": "2026-11-16T21-33-08Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B frames the vacant unit next door in terms of what matters to me—avoiding empty months, build-out costs, and a break in rent—rather than just calling out my square footage price like Document A does. B also puts the automatic bank transfer right in the main offer and addresses my annoyance about the late payments earlier and more reassuringly."
+}

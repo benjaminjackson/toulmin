@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-22-12Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who has been burned by an unfulfilled campaign before, Document B completely wins me over by offering concrete commitments—a bi-weekly update schedule, no scope-creeping stretch goals, and a full refund if delivery is more than three months late—rather than vague promises. It also shows incredible honesty by admitting the 23 ratings are from convention tables and mentioning an upcoming independent YouTube review."
+}

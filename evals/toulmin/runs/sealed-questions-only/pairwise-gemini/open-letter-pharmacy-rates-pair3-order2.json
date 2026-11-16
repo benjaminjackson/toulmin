@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-27Z",
+  "without_skill_run": "2026-11-16T21-06-02Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly challenges my assumption that members can just use chain pharmacies by noting that chains are over 20 miles away in those 14 counties. It also builds real credibility instead of sounding like the usual annual complaint by admitting they make up some losses on brand-name drugs, being honest about not knowing why the nine pharmacies closed, and offering to share their actual purchase invoices."
+}

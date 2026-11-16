@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-04-12Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters are credible because they admit they make money on brands, don't exaggerate why the nine pharmacies closed, offer to share invoices, and point out the 20-mile gap to chain pharmacies in 14 counties. Document A is slightly more persuasive because it anticipates and shuts down my easiest deflection—blaming the PBM—and leaves out the mention of mail-order that Document B hands me as an alternative."
+}

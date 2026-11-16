@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both documents make the exact same math mistake regarding the runway, claiming $940k at a $75k burn lasts until autumn or the end of 2027 (22–24 months instead of 12.5 months), which is a red flag for a cash-strapped company. However, Document B is slightly more convincing because it commits to a monthly cash report for bridge investors, shows the actual math on how far they are from breakeven, and avoids Document A's awkward phrasing about not having a plan."
+}

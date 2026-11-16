@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-33-15Z",
+  "without_skill_run": "2026-11-16T21-19-37Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As commissioners who hear sky-is-falling claims at every hearing, Document A wins our respect immediately by explicitly stating what the captain does not know and honestly admitting that 70% of his upcoming season is already booked, explaining the one-year lag in economic damage. Document B blurs the 70% booking figure into vague emotional rhetoric and stretches the facts by claiming we don't know if the 2016 cut was bigger or smaller."
+}

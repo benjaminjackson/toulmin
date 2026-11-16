@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-28Z",
+  "without_skill_run": "2026-11-16T21-19-29Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters impress me by dropping the usual sky-is-falling hyperbole, offering actual purchase invoices, and showing that our members in 14 counties face a 20-mile drive to a chain pharmacy. Document B is slightly more credible because it proactively admits that pharmacies offset some generic losses with brand-name dispensing, which is normally my first counterargument when independents complain about generic rates."
+}

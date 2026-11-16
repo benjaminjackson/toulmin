@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-dental-office",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-05Z",
+  "without_skill_run": "2026-11-16T21-19-25Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly puts my mind at ease about the seven-year gap by showing she kept her bookkeeping skills current with QuickBooks and already has the head vet lined up as a reference. It also saves me time between patients by confirming she can work our Tuesday and Thursday evenings, though mentioning she left her last job with only two weeks' notice hit a slightly sore spot for me."
+}

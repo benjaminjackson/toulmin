@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-20-58Z",
+  "without_skill_run": "2026-11-16T21-07-00Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B frames the March deadline mistake and subsequent fix directly within the responsibilities of supervising the team, while Document A's self-justification feels a bit preachy and awkwardly brings up the salary increase. However, Document B slightly stretches the facts by claiming that every group using the sheet now has the second-person check, making it a closer call."
+}

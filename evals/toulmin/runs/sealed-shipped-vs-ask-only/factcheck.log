@@ -1,204 +1,37 @@
-ok   cover-letter-dental-office with-skill 2026-11-16T21-04-10Z: 0 invented
-ok   cover-letter-dental-office with-skill 2026-11-16T21-02-19Z: 0 invented
-ok   cover-letter-dental-office with-skill 2026-11-16T21-01-22Z: 0 invented
-ok   cover-letter-dental-office with-skill 2026-11-16T21-03-18Z: 0 invented
-ok   cover-letter-dental-office without-skill 2026-11-16T21-19-25Z: 0 invented
-ok   cover-letter-dental-office without-skill 2026-11-16T21-20-52Z: 0 invented
-ok   crowdfunding-town-cinema with-skill 2026-11-16T21-01-22Z: 0 invented
-ok   cover-letter-dental-office without-skill 2026-11-16T21-18-42Z: 2 invented
-ok   crowdfunding-town-cinema with-skill 2026-11-16T21-02-41Z: 0 invented
-ok   crowdfunding-town-cinema with-skill 2026-11-16T21-03-50Z: 0 invented
-ok   crowdfunding-town-cinema without-skill 2026-11-16T21-19-47Z: 2 invented
-ok   crowdfunding-town-cinema without-skill 2026-11-16T21-18-42Z: 3 invented
-ok   crowdfunding-town-cinema with-skill 2026-11-16T21-05-03Z: 2 invented
-ok   grant-eviction-defense with-skill 2026-11-16T21-01-22Z: 1 invented
-ok   crowdfunding-town-cinema without-skill 2026-11-16T21-21-36Z: 0 invented
-ok   crowdfunding-town-cinema without-skill 2026-11-16T21-20-41Z: 2 invented
-ok   grant-eviction-defense with-skill 2026-11-16T21-04-31Z: 0 invented
-ok   grant-eviction-defense with-skill 2026-11-16T21-06-32Z: 0 invented
-ok   grant-eviction-defense with-skill 2026-11-16T21-03-06Z: 3 invented
-ok   grant-eviction-defense without-skill 2026-11-16T21-20-59Z: 3 invented
-ok   grant-eviction-defense without-skill 2026-11-16T21-19-49Z: 3 invented
-ok   grant-eviction-defense without-skill 2026-11-16T21-18-42Z: 2 invented
-ok   investor-update-hive-sensors with-skill 2026-11-16T21-01-22Z: 4 invented
-ok   grant-eviction-defense without-skill 2026-11-16T21-22-09Z: 4 invented
-ok   investor-update-hive-sensors with-skill 2026-11-16T21-02-58Z: 6 invented
-ok   investor-update-hive-sensors with-skill 2026-11-16T21-04-47Z: 6 invented
-ok   investor-update-hive-sensors without-skill 2026-11-16T21-18-42Z: 2 invented
-ok   investor-update-hive-sensors with-skill 2026-11-16T21-06-50Z: 5 invented
-ok   investor-update-hive-sensors without-skill 2026-11-16T21-21-11Z: 2 invented
-ok   investor-update-hive-sensors without-skill 2026-11-16T21-19-54Z: 4 invented
-ok   investor-update-hive-sensors without-skill 2026-11-16T21-22-24Z: 9 invented
-ok   cover-letter-dental-office without-skill 2026-11-16T21-20-07Z: 0 invented
-ok   negotiation-lease-renewal with-skill 2026-11-16T21-05-29Z: 0 invented
-ok   negotiation-lease-renewal with-skill 2026-11-16T21-03-24Z: 0 invented
-ok   negotiation-lease-renewal without-skill 2026-11-16T21-18-42Z: 0 invented
-ok   negotiation-lease-renewal with-skill 2026-11-16T21-04-31Z: 0 invented
-ok   negotiation-lease-renewal with-skill 2026-11-16T21-06-24Z: 4 invented
-ok   negotiation-lease-renewal without-skill 2026-11-16T21-20-25Z: 2 invented
-ok   negotiation-lease-renewal without-skill 2026-11-16T21-19-33Z: 0 invented
-ok   open-letter-pharmacy-rates with-skill 2026-11-16T21-05-28Z: 2 invented
-ok   negotiation-lease-renewal without-skill 2026-11-16T21-21-14Z: 0 invented
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL open-letter-pharmacy-rates with-skill 2026-11-16T21-08-09Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL open-letter-pharmacy-rates without-skill 2026-11-16T21-19-29Z: no valid reply
-ok   open-letter-pharmacy-rates with-skill 2026-11-16T21-04-12Z: 0 invented
-ok   open-letter-pharmacy-rates without-skill 2026-11-16T21-20-22Z: 0 invented
-ok   open-letter-pharmacy-rates without-skill 2026-11-16T21-18-42Z: 4 invented
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL promotion-senior-paralegal with-skill 2026-11-16T21-05-58Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL promotion-senior-paralegal with-skill 2026-11-16T21-06-56Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL promotion-senior-paralegal with-skill 2026-11-16T21-08-01Z: no valid reply
-ok   open-letter-pharmacy-rates without-skill 2026-11-16T21-21-14Z: 0 invented
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL promotion-senior-paralegal without-skill 2026-11-16T21-19-26Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL promotion-senior-paralegal without-skill 2026-11-16T21-20-13Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL promotion-senior-paralegal without-skill 2026-11-16T21-20-58Z: no valid reply
-ok   promotion-senior-paralegal with-skill 2026-11-16T21-05-01Z: 0 invented
-ok   promotion-senior-paralegal without-skill 2026-11-16T21-18-42Z: 5 invented
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL public-comment-catch-limit with-skill 2026-11-16T21-09-03Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL public-comment-catch-limit with-skill 2026-11-16T21-10-23Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL public-comment-catch-limit without-skill 2026-11-16T21-18-42Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL public-comment-catch-limit without-skill 2026-11-16T21-19-37Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL public-comment-catch-limit without-skill 2026-11-16T21-20-36Z: no valid reply
-ok   public-comment-catch-limit with-skill 2026-11-16T21-07-41Z: 1 invented
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL recommendation-phd-applicant with-skill 2026-11-16T21-07-29Z: no valid reply
-ok   public-comment-catch-limit with-skill 2026-11-16T21-06-16Z: 0 invented
-ok   recommendation-phd-applicant with-skill 2026-11-16T21-09-36Z: 0 invented
-ok   open-letter-pharmacy-rates with-skill 2026-11-16T21-06-49Z: 0 invented
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL recommendation-phd-applicant without-skill 2026-11-16T21-21-36Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL recommendation-phd-applicant without-skill 2026-11-16T21-22-26Z: no valid reply
-ok   recommendation-phd-applicant with-skill 2026-11-16T21-08-34Z: 0 invented
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL recommendation-phd-applicant without-skill 2026-11-16T21-24-08Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL sales-dietitian-meals with-skill 2026-11-16T21-07-57Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL sales-dietitian-meals with-skill 2026-11-16T21-09-05Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL sales-dietitian-meals with-skill 2026-11-16T21-10-17Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL sales-dietitian-meals with-skill 2026-11-16T21-11-22Z: no valid reply
-ok   recommendation-phd-applicant with-skill 2026-11-16T21-10-42Z: 1 invented
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL sales-dietitian-meals without-skill 2026-11-16T21-22-34Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL sales-dietitian-meals without-skill 2026-11-16T21-23-20Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL sales-dietitian-meals without-skill 2026-11-16T21-24-17Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL staff-office-days with-skill 2026-11-16T21-08-56Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL staff-office-days with-skill 2026-11-16T21-10-04Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL staff-office-days with-skill 2026-11-16T21-11-11Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL staff-office-days with-skill 2026-11-16T21-12-28Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL staff-office-days without-skill 2026-11-16T21-22-08Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL staff-office-days without-skill 2026-11-16T21-23-08Z: no valid reply
-ok   recommendation-phd-applicant without-skill 2026-11-16T21-23-22Z: 3 invented
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL staff-office-days without-skill 2026-11-16T21-23-55Z: no valid reply
-ok   sales-dietitian-meals without-skill 2026-11-16T21-21-43Z: 1 invented
-ok   win-back-home-cleaning with-skill 2026-11-16T21-09-37Z: 0 invented
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL win-back-home-cleaning with-skill 2026-11-16T21-11-34Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL win-back-home-cleaning with-skill 2026-11-16T21-12-32Z: no valid reply
-ok   win-back-home-cleaning with-skill 2026-11-16T21-10-37Z: 9 invented
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL win-back-home-cleaning without-skill 2026-11-16T21-22-10Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL win-back-home-cleaning without-skill 2026-11-16T21-23-39Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL win-back-home-cleaning without-skill 2026-11-16T21-24-24Z: no valid reply
-ok   win-back-home-cleaning without-skill 2026-11-16T21-22-54Z: 0 invented
-ok   public-comment-catch-limit without-skill 2026-11-16T21-21-32Z: 0 invented
-ok   staff-office-days without-skill 2026-11-16T21-24-55Z: 5 invented
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL promotion-senior-paralegal with-skill 2026-11-16T21-06-56Z: no valid reply
-FAIL open-letter-pharmacy-rates without-skill 2026-11-16T21-19-29Z: no valid reply
-FAIL promotion-senior-paralegal with-skill 2026-11-16T21-05-58Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL open-letter-pharmacy-rates with-skill 2026-11-16T21-08-09Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL promotion-senior-paralegal without-skill 2026-11-16T21-19-26Z: no valid reply
-FAIL promotion-senior-paralegal with-skill 2026-11-16T21-08-01Z: no valid reply
-FAIL promotion-senior-paralegal without-skill 2026-11-16T21-20-13Z: no valid reply
-FAIL promotion-senior-paralegal without-skill 2026-11-16T21-20-58Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL public-comment-catch-limit with-skill 2026-11-16T21-10-23Z: no valid reply
-FAIL public-comment-catch-limit without-skill 2026-11-16T21-19-37Z: no valid reply
-FAIL public-comment-catch-limit without-skill 2026-11-16T21-18-42Z: no valid reply
-FAIL public-comment-catch-limit with-skill 2026-11-16T21-09-03Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL recommendation-phd-applicant without-skill 2026-11-16T21-22-26Z: no valid reply
-FAIL recommendation-phd-applicant without-skill 2026-11-16T21-21-36Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL recommendation-phd-applicant with-skill 2026-11-16T21-07-29Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL public-comment-catch-limit without-skill 2026-11-16T21-20-36Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL recommendation-phd-applicant without-skill 2026-11-16T21-24-08Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL sales-dietitian-meals with-skill 2026-11-16T21-09-05Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL sales-dietitian-meals with-skill 2026-11-16T21-07-57Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL sales-dietitian-meals with-skill 2026-11-16T21-10-17Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL sales-dietitian-meals with-skill 2026-11-16T21-11-22Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL sales-dietitian-meals without-skill 2026-11-16T21-22-34Z: no valid reply
-FAIL sales-dietitian-meals without-skill 2026-11-16T21-23-20Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL sales-dietitian-meals without-skill 2026-11-16T21-24-17Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL staff-office-days with-skill 2026-11-16T21-10-04Z: no valid reply
-FAIL staff-office-days with-skill 2026-11-16T21-08-56Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL staff-office-days with-skill 2026-11-16T21-11-11Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL staff-office-days with-skill 2026-11-16T21-12-28Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL staff-office-days without-skill 2026-11-16T21-22-08Z: no valid reply
-FAIL staff-office-days without-skill 2026-11-16T21-23-08Z: no valid reply
-FAIL staff-office-days without-skill 2026-11-16T21-23-55Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL win-back-home-cleaning with-skill 2026-11-16T21-11-34Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL win-back-home-cleaning with-skill 2026-11-16T21-12-32Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL win-back-home-cleaning without-skill 2026-11-16T21-23-39Z: no valid reply
-FAIL win-back-home-cleaning without-skill 2026-11-16T21-22-10Z: no valid reply
-gemini_text: Gemini API error (HTTP 402): RESOURCE_EXHAUSTED: Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. 
-FAIL win-back-home-cleaning without-skill 2026-11-16T21-24-24Z: no valid reply
+ok   open-letter-pharmacy-rates with-skill 2026-11-16T21-08-09Z: 0 invented
+ok   promotion-senior-paralegal with-skill 2026-11-16T21-06-56Z: 2 invented
+ok   open-letter-pharmacy-rates without-skill 2026-11-16T21-19-29Z: 5 invented
+ok   promotion-senior-paralegal with-skill 2026-11-16T21-05-58Z: 0 invented
+ok   promotion-senior-paralegal with-skill 2026-11-16T21-08-01Z: 2 invented
+ok   promotion-senior-paralegal without-skill 2026-11-16T21-20-13Z: 2 invented
+ok   promotion-senior-paralegal without-skill 2026-11-16T21-19-26Z: 3 invented
+ok   promotion-senior-paralegal without-skill 2026-11-16T21-20-58Z: 1 invented
+ok   public-comment-catch-limit without-skill 2026-11-16T21-18-42Z: 0 invented
+ok   public-comment-catch-limit with-skill 2026-11-16T21-09-03Z: 2 invented
+ok   public-comment-catch-limit without-skill 2026-11-16T21-19-37Z: 1 invented
+ok   recommendation-phd-applicant with-skill 2026-11-16T21-07-29Z: 1 invented
+ok   public-comment-catch-limit without-skill 2026-11-16T21-20-36Z: 1 invented
+ok   recommendation-phd-applicant without-skill 2026-11-16T21-24-08Z: 2 invented
+ok   recommendation-phd-applicant without-skill 2026-11-16T21-21-36Z: 3 invented
+ok   sales-dietitian-meals with-skill 2026-11-16T21-07-57Z: 0 invented
+ok   sales-dietitian-meals with-skill 2026-11-16T21-09-05Z: 1 invented
+ok   sales-dietitian-meals with-skill 2026-11-16T21-10-17Z: 0 invented
+ok   sales-dietitian-meals with-skill 2026-11-16T21-11-22Z: 0 invented
+ok   sales-dietitian-meals without-skill 2026-11-16T21-23-20Z: 1 invented
+ok   sales-dietitian-meals without-skill 2026-11-16T21-22-34Z: 0 invented
+ok   sales-dietitian-meals without-skill 2026-11-16T21-24-17Z: 0 invented
+ok   recommendation-phd-applicant without-skill 2026-11-16T21-22-26Z: 0 invented
+ok   staff-office-days with-skill 2026-11-16T21-08-56Z: 2 invented
+ok   staff-office-days with-skill 2026-11-16T21-10-04Z: 5 invented
+ok   staff-office-days with-skill 2026-11-16T21-11-11Z: 4 invented
+ok   staff-office-days with-skill 2026-11-16T21-12-28Z: 5 invented
+ok   staff-office-days without-skill 2026-11-16T21-22-08Z: 4 invented
+ok   staff-office-days without-skill 2026-11-16T21-23-55Z: 4 invented
+ok   win-back-home-cleaning with-skill 2026-11-16T21-11-34Z: 0 invented
+ok   staff-office-days without-skill 2026-11-16T21-23-08Z: 7 invented
+ok   win-back-home-cleaning with-skill 2026-11-16T21-12-32Z: 0 invented
+ok   win-back-home-cleaning without-skill 2026-11-16T21-22-10Z: 0 invented
+ok   win-back-home-cleaning without-skill 2026-11-16T21-23-39Z: 1 invented
+ok   win-back-home-cleaning without-skill 2026-11-16T21-24-24Z: 0 invented
+ok   public-comment-catch-limit with-skill 2026-11-16T21-10-23Z: 0 invented
+factcheck: every scored run is already checked

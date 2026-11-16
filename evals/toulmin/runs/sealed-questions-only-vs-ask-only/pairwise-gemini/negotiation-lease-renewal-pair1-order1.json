@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-lease-renewal",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A directly addresses my annoyance over the 2024 late rent by explaining what happened, thanking me for waiving the fees, and offering automatic bank transfers on the 1st of the month. Document B completely ignores the late payments while ironically asking me to value \"steady rent from a tenant you already know.\""
+}

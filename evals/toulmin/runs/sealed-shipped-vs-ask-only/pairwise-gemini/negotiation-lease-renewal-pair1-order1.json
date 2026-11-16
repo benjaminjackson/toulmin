@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-lease-renewal",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-03-24Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A directly addresses my concern about the late rent from early 2024 by offering automatic bank transfers on the 1st of the month, whereas Document B completely ignores the issue and still has unedited placeholders. However, Document A works against itself a bit by reminding me that the $40,000 hood system stays with the building for a future restaurant tenant and admitting their sales are down."
+}

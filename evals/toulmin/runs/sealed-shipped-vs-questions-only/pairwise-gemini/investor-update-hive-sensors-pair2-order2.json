@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-02-58Z",
+  "without_skill_run": "2026-11-16T21-33-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B gives me a concrete sales milestone ($300,000 in March and April) to judge whether their slow sales are finally accelerating, although it makes an amateurish math error by confusing top-line revenue with gross margin when calculating break-even. Document A avoids the math error and is clearer, so it is a close call, but B's specific spring revenue target is slightly more persuasive for getting me to commit to the bridge."
+}

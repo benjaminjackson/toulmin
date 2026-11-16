@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-phd-applicant",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-37-07Z",
+  "without_skill_run": "2026-11-16T21-23-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B stays entirely true to the facts while effectively advocating for why a small-college student without a publication is ready for PhD fieldwork. Document A invents claims not supported by the brief, such as stating she designed the study herself and never missed a sampling schedule."
+}

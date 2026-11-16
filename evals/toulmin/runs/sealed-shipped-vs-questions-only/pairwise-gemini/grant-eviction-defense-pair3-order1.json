@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-04-31Z",
+  "without_skill_run": "2026-11-16T21-34-43Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A puts the request in the first sentence, uses clearer headings for scoring against a rubric, and explicitly notes that $65,000 of the position's funding does not depend on the unrenewed county contract. Additionally, Document B claims the departing attorney will spend her last month (May) training the new hire, which is an unrealistic promise since our grant decisions aren't even made until May and their last hire took five months."
+}

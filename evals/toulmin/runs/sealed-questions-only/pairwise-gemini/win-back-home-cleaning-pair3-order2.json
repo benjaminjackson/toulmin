@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-37-24Z",
+  "without_skill_run": "2026-11-16T21-10-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B includes the assurance of no contract and the ability to cancel anytime, making it completely risk-free for me to take the $99 cleaning (which is cheaper than my current app service) and see if the extra peace of mind is worth switching back. Document A also falsely claims I personally complained about cleaner turnover when I only left for the price, whereas B accurately frames it as general feedback from former customers."
+}

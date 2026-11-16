@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-38-19Z",
+  "without_skill_run": "2026-11-16T21-24-17Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A includes a 15-minute phone call with the dietitian before starting, which makes this feel like a personalized local service rather than the generic meal delivery and apps I've already quit. Both documents are refreshingly honest about the A1C numbers and easy cancellation, though I should note the brief's math is slightly flawed depending on whether the 0.6 average drop applies to all 14 people or just the 10 who improved."
+}

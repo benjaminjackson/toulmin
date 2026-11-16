@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-dental-office",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-04-10Z",
+  "without_skill_run": "2026-11-16T21-20-52Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B resolves my main hesitation about a seven-year employment gap by offering a specific, named reference (the head veterinarian) from her previous job, and by making it clear that her caregiving duties have concluded. It also reads more naturally and connects her past clinic's size directly to my own practice."
+}

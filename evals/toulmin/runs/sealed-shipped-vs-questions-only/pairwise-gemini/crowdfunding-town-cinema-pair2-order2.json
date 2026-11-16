@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-02-41Z",
+  "without_skill_run": "2026-11-16T21-33-05Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Because I already gave $200 to the ambulance fund this month and remember the failed campaign, Document B's math—showing that the remaining $49,000 needed from the public is only $2,000 more than we raised last time, or about $7.50 per resident—makes me believe the goal is actually reachable and that a small pledge from me is worthwhile. Document A leaves me doing that math myself and ends with an unaddressed warning about a 15% roof cost increase that makes me worry the campaign will fall short again."
+}

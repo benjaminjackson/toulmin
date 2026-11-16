@@ -1,0 +1,37 @@
+{
+  "task": "open-letter-pharmacy-rates",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-35-21Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "the 20 generic drugs your members use most",
+      "why": "The brief says these are the 20 generic drugs the pharmacies fill most overall, not specifically the ones plan members use most."
+    },
+    {
+      "quote": "That loss comes from what we pay the wholesaler for the drug",
+      "why": "The brief mentions what it costs to buy the drug, but does not state that the pharmacies buy from a wholesaler."
+    },
+    {
+      "quote": "more than one in five of our customers is a state employee or a family member of one.",
+      "why": "The brief states that plan members account for 22% of prescriptions, which does not mean they make up more than one in five customers, nor does the brief mention family members."
+    },
+    {
+      "quote": "For the 20 generics we fill most, each one of those prescriptions now costs us more than the plan pays.",
+      "why": "The brief states that the plan pays $1.80 less than cost on average across the 20 drugs, not that every single prescription among those 20 drugs is paid below cost."
+    },
+    {
+      "quote": "None of us can make it all back",
+      "why": "The user only stated that some pharmacies make up part of the loss on brand-name drugs and that he does not know by how much."
+    },
+    {
+      "quote": "no business can keep filling a fifth of its orders below cost.",
+      "why": "The brief says plan members make up 22% of total prescriptions, not that a fifth of all orders are for the 20 below-cost generics."
+    },
+    {
+      "quote": "The July 1 renewal is the one point this year when the plan can fix this.",
+      "why": "The brief states that the contract comes up for renewal on July 1, not that July 1 is the only time this year the plan can change the rates."
+    }
+  ],
+  "invented_count": 7
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-15Z",
+  "without_skill_run": "2026-11-16T21-07-58Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B builds massive credibility by admitting that 70% of this season's trips are already booked and by not exaggerating how many boats will close. Furthermore, offering concrete data-sharing commitments—like trip logs and testing a catch-reporting app—gives the commission and our staff something actionable to work with in exchange for a 3-fish compromise or shorter season."
+}

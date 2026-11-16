@@ -1,0 +1,21 @@
+{
+  "task": "staff-office-days",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-38-45Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "From September 1, 2027, everyone at the firm will work in the office on Tuesday, Wednesday and Thursday.",
+      "why": "The brief specifies 'September 1', but does not give the year 2027."
+    },
+    {
+      "quote": "the four of you can keep working remotely until December 31, 2027. From January 2028 you'll come in one day a week.",
+      "why": "The brief says they can work remotely until 'the end of next year', and because the writer invented the year 2027 for the current policy start, they not only invented the years 2027 and 2028 but also shortened ' the end of next year' to the end of the same year (December 31, 2027)."
+    },
+    {
+      "quote": "we will review how this is working with you six months in, in March 2028.",
+      "why": "The user committed to a review after six months, which would be March, but the year 2028 is invented based on the writer's invented start year of 2027."
+    }
+  ],
+  "invented_count": 3
+}

@@ -1,0 +1,21 @@
+{
+  "task": "investor-update-hive-sensors",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-01-22Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "We don't know of any deals lost to them",
+      "why": "Neither the brief nor the additional information states whether the company knows of any deals lost to the competitor."
+    },
+    {
+      "quote": "After the 2027 spring season, I'll send you a report on how many hives we're covering, what we sold and what that means for when we break even.",
+      "why": "The brief does not give the year 2027 or commit to a post-spring report on hive coverage, sales, and break-even (the user only offered a monthly cash report to bridge investors)."
+    },
+    {
+      "quote": "through the 2027 season and into late 2027",
+      "why": "Neither the brief nor the additional information mentions the year 2027 or gives a current year from which 2027 can be calculated."
+    }
+  ],
+  "invented_count": 3
+}

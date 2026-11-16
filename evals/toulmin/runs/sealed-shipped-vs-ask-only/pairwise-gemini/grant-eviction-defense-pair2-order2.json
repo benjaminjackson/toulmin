@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-03-06Z",
+  "without_skill_run": "2026-11-16T21-19-49Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document B misstates the core request by claiming the grant is to backfill a departing second attorney rather than to hire a third attorney, and invents the fact that they have no funding to refill the departing attorney's seat. Document A stays completely faithful to the facts while clearly presenting the need, budget, and reporting plan for a busy grant reviewer."
+}

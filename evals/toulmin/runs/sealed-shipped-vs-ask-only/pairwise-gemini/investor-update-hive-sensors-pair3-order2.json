@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-04-47Z",
+  "without_skill_run": "2026-11-16T21-21-11Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both documents make the same glaring math error by claiming the $600,000 bridge will extend our runway into autumn/October 2027 (instead of autumn 2026), and neither includes the monthly cash report commitment or the December 1 reply deadline. However, Document A is slightly better because it doesn't invent an unauthorized pricing strategy discussion like Document B does, and its structure is easier to scan."
+}

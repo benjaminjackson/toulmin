@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-07-41Z",
+  "without_skill_run": "2026-11-16T21-19-37Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "As commissioners who hear complaints from charter captains at every meeting, Document A stands out because Captain Dunn offers concrete cooperation—sharing his historical trip logs since 2016 and piloting a catch-reporting app with our staff. It also stays completely honest to the facts, whereas Document B makes the unsupported claim that charter boats land the 'least' flounder in the state."
+}

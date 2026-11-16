@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-08-01Z",
+  "without_skill_run": "2026-11-16T21-20-58Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses the March deadline error with hard evidence that her fix worked—zero errors in 600 entries—and ties that systemic mindset into concrete plans for how she will supervise the team. Document A is also strong, though it slightly overstates the facts by claiming every group using the sheet has the check, and lacks the persuasive proof that the new process actually works."
+}

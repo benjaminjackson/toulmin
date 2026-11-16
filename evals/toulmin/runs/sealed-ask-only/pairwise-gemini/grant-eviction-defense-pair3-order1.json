@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-20-59Z",
+  "without_skill_run": "2026-11-16T21-02-51Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is a complete, ready-to-score summary that directly answers my biggest rubric questions—how they will cover the $33,000 annual funding gap, how they are handling the departing attorney and uncertain county contract, and how they will measure outcomes. Document B is an unfinished template full of bracketed placeholders that leaves all the critical financial and staffing questions unanswered."
+}

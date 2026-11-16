@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-10-23Z",
+  "without_skill_run": "2026-11-16T21-35-28Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A stands out from the usual public comments we hear by explicitly accepting our staff's stock numbers up front and offering concrete collaboration—sharing trip logs and testing a catch-reporting app—which builds immense credibility. Document B also slightly stretches the facts by implying the 2016 dollar loss was $28,800 using today's prices, whereas Document A is completely transparent and gives us actionable reasons to work with the charter association."
+}

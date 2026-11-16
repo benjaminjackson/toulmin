@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-35-21Z",
+  "without_skill_run": "2026-11-16T21-21-14Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters are remarkably restrained, honest about what they know regarding closures and brand-name offsets, and provide concrete data on rural access and invoice verification. Document B is slightly more effective because Document A makes the unsupported claim that 'None of us can make it all back' on brand-name drugs, whereas Document B sticks strictly to what can be proven and uses helpful subheadings."
+}

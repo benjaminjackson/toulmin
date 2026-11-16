@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-23-08Z",
+  "without_skill_run": "2026-11-16T21-09-49Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A includes concrete details that actually help me evaluate this change—specifically the $150 commuting stipend and the six-month policy review—which shows the writer asked good questions to address staff concerns. However, Document A also introduces a confusing date error (putting the September start and the end of the grace period in the same year, 2027, reducing the 'end of next year' grace period to just four months), making its edge over Document B only slight."
+}

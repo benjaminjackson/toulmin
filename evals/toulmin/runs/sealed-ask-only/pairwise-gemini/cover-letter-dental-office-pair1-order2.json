@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-dental-office",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B addresses me and my practice by name, and the fact that she has already enrolled in the 20-hour Dentrix training course shows real initiative and eases my mind about both the software transition and her seven-year gap. Since I just lost my manager on two weeks' notice, I need someone who can hit the ground running rather than someone who just promises to start learning later."
+}

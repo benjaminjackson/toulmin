@@ -1,0 +1,8 @@
+{
+  "task": "public-comment-catch-limit",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-35-28Z",
+  "checker": "gemini-4-argon",
+  "invented": [],
+  "invented_count": 0
+}

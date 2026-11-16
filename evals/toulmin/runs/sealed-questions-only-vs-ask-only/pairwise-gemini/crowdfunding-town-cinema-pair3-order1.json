@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-33-57Z",
+  "without_skill_run": "2026-11-16T21-20-41Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins my trust by addressing the failed first campaign immediately, signing with a real neighbor's name, and being completely upfront about potential roof cost increases and film availability. Document B omits those honest caveats, stays anonymous, and invents a 2027 date that wasn't in the facts."
+}

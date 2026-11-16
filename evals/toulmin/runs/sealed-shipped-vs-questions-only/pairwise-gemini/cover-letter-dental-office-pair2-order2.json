@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-dental-office",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-02-19Z",
+  "without_skill_run": "2026-11-16T21-33-05Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters are very similar and regretfully mention that she gave only two weeks' notice at her last job, which makes me nervous since my last manager just did that to me. However, Document A is slightly better because it explicitly states that she is 'ready to return to full-time work' and avoids Document B's slightly presumptuous remark that her old clinic was 'a little larger than yours.'"
+}

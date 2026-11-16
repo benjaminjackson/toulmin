@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-06-49Z",
+  "without_skill_run": "2026-11-16T21-34-27Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A is more persuasive because it leads directly with the July 1 contract renewal and the specific ask, and it transparently admits they don't know how much they make back on brand-name drugs right before offering to share their invoices. Document B uses placeholders that aren't in the facts and tries to brush off the brand-name offset with an argument about how pricing should work rather than acknowledging the data gap."
+}

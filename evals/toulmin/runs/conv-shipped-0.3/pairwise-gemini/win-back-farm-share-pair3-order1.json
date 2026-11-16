@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-27-40Z",
+  "without_skill_run": "2026-11-16T20-07-18Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A directly addresses the two reasons I cancelled: the financial risk of bad weather and the silence when things went wrong. Knowing I will get a credit if a box is cut by more than a third, plus a guaranteed weekly email and honest transparency about what the hail nets don't cover, makes me trust Sam enough to sign up again."
+}

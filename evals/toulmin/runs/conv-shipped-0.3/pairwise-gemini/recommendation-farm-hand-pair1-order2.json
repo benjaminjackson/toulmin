@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-25-16Z",
+  "without_skill_run": "2026-11-16T20-04-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B provides concrete, persuasive details that directly answer an admissions committee's concerns—such as how he arranged his own shift coverage before his emergency trip, how he retook and passed a failed written test, and the $8,000 he saved the farm. Furthermore, the manager's commitment to keep him on part-time during the program is a huge plus for student retention, and the letter doesn't leave unedited placeholders."
+}

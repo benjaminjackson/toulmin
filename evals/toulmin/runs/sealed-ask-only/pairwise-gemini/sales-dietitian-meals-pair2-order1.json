@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-22-34Z",
+  "without_skill_run": "2026-11-16T21-09-07Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Having quit another meal delivery service before, Document A wins me over with concrete operational details—like the ability to swap meals, the 4-week menu cycle, the no-contract policy, and the offer of a 15-minute phone call with the actual dietitian—while being completely transparent about the small A1C sample size. Document B leaves in generic placeholders like '[Service Name]' and lacks the practical details about menu variety and cancellation that I need to trust a paid trial."
+}

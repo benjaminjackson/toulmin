@@ -1,0 +1,17 @@
+{
+  "task": "sales-dietitian-meals",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-24-17Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I don't use a template",
+      "why": "The brief says Lena plans each menu herself and that the menu repeats every four weeks, but does not state whether or not she uses a template."
+    },
+    {
+      "quote": "**Of the 14 who shared, 10 saw their A1C go down, by 0.6 points on average.**",
+      "why": "The brief says the average drop was 0.6 points without specifying whether that figure is the average among only the 10 whose A1C went down or the net average across all 14 customers who shared results."
+    }
+  ],
+  "invented_count": 2
+}

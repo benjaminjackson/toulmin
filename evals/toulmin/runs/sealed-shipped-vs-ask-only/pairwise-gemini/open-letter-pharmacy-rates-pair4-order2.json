@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-08-09Z",
+  "without_skill_run": "2026-11-16T21-21-14Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters use the exact same facts—including the crucial 20-mile distance to chain pharmacies in 14 counties, the honest admission about brand-name margins and closure causes, and the offer to share purchase invoices—to counter my usual skepticism. Document A is slightly better formatted for a busy director with its clear subheadings and bulleted action items, though it is a very close call."
+}

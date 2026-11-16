@@ -1,0 +1,17 @@
+{
+  "task": "recommendation-phd-applicant",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-21-36Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "and it fits a question the field is actively working on.",
+      "why": "Neither the brief nor the user's additional facts state how her finding relates to current research questions in the field."
+    },
+    {
+      "quote": "where she held her own in discussion with working scientists.",
+      "why": "The brief only states that she presented the work as a poster at a regional conference, with no mention of her discussions with scientists there."
+    }
+  ],
+  "invented_count": 2
+}

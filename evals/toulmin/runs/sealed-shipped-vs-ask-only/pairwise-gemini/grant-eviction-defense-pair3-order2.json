@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-04-31Z",
+  "without_skill_run": "2026-11-16T21-20-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B puts the funding request right in the first sentence, uses bold headings that make it effortless to score against a rubric in ten minutes, and is much more transparent about the financial risk surrounding the October county contract renewal. Document A also inserts '2027' dates that make the timeline confusing."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-24-17Z",
+  "without_skill_run": "2026-11-16T21-10-12Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Because I've quit another meal service before, Document B wins me over by giving the practical details I actually need to know—like being able to swap meals, skip weeks, and cancel anytime—plus the dietitian's real name and delivery radius. Both pages are refreshingly honest about the small A1C sample size, though I also appreciated Document A explicitly mentioning that medication changes weren't tracked."
+}

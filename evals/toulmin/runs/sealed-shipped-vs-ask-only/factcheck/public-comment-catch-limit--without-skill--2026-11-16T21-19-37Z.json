@@ -1,0 +1,13 @@
+{
+  "task": "public-comment-catch-limit",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-19-37Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "a two-fish limit for three years is a deeper cut held longer.",
+      "why": "Neither the brief nor the user's additional information states how deep the 2016 limit cut was or how long it remained in place."
+    }
+  ],
+  "invented_count": 1
+}

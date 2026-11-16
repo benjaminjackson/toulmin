@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-45Z",
+  "without_skill_run": "2026-11-16T21-21-11Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A includes the commitment to send monthly cash reports to bridge investors and specifies the December 1 reply deadline, both of which Document B leaves out. As an investor worried about slow sales and cash burn, that monthly visibility is a meaningful sweetener when deciding whether to put more money in."
+}

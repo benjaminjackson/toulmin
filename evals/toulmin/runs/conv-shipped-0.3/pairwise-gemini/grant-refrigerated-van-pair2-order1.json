@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-23-48Z",
+  "without_skill_run": "2026-11-16T20-01-17Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A directly addresses my main hesitation right up front by explaining why the 2023 report was late, naming the new treasurer who will own this report, and offering quarterly data check-ins, whereas Document B leaves that crucial section as a fill-in-the-blank template. Document A is also transparently honest about the farm letters, the harvest uncertainty, and the unbudgeted $4,500 operating costs, which makes me trust their numbers enough to recommend funding."
+}

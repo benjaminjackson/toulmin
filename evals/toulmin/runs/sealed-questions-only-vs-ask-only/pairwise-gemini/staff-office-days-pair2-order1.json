@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-36-44Z",
+  "without_skill_run": "2026-11-16T21-23-08Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes critical practical details that Document B omits—such as the fact that 5 of 6 project leads are already in three days a week, new desks are arriving in August, and the option to speak with HR—while both documents mistakenly interpret 'end of next year' as December 2027 instead of 2028. Additionally, Document B contradicts itself by stating exceptions are final right before offering to talk to people who can't make it work because the partner doesn't 'have a complete answer to that yet.'"
+}

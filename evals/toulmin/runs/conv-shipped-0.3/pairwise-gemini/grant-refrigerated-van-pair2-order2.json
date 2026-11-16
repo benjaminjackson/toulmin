@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-23-48Z",
+  "without_skill_run": "2026-11-16T20-01-17Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses my biggest concern right near the top—explaining why the 2023 report was late, naming the specific person responsible now, and offering quarterly check-ins—while Document A leaves bracketed placeholders where those crucial answers should be. Document B is also refreshingly honest about farm letters, harvest variability, and their operating budget gap, which makes me trust them much more than Document A's generic language."
+}

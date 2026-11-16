@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-36-25Z",
+  "without_skill_run": "2026-11-16T21-09-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins my trust by addressing the exact practical reasons I quit previous meal services—letting me know I can swap meals, skip weeks, or cancel anytime—and by putting the caveat about medication changes right in the main text instead of hiding it in the fine print. Document A leaves placeholders in the text and lacks the specific operational details that make this feel like a real, flexible service."
+}

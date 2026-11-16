@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-24-24Z",
+  "without_skill_run": "2026-11-16T21-11-15Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A makes a stronger case for the extra $25 by pointing out that the app services I'm using now don't insure the visit, and it explains exactly when the backup cleaner would show up. It's also a complete, ready-to-send email from the owner with a clear way to book and a deadline on the $99 offer."
+}

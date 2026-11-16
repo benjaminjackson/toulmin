@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-phd-applicant",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-10-42Z",
+  "without_skill_run": "2026-11-16T21-38-08Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters overcome my skepticism of small-college hype by providing concrete evidence of field grit (90 kayak trips over 14 months) and an honest, realistic assessment of why her thesis isn't ready for publication yet. However, Document A is slightly stronger because it calculates the actual sampling frequency (one trip every four to five days) to drive home the difficulty of the fieldwork and avoids the unfilled bracketed placeholders present in Document B."
+}

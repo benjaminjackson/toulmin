@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-35-50Z",
+  "without_skill_run": "2026-11-16T21-09-47Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me a real reason to rethink my current app service by pointing out that app contractors usually don't carry insurance, and it makes trying them again feel completely risk-free by noting there is no contract. It also includes actual company details and proof that their cleaner retention has improved since July, whereas B has unfilled placeholders."
+}

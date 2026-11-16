@@ -1,0 +1,45 @@
+{
+  "task": "grant-eviction-defense",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-33-21Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Tenant Defense Project",
+      "why": "The brief does not name the clinic."
+    },
+    {
+      "quote": "Our last attorney search took five months, so we need to begin recruiting as soon as funding is certain.",
+      "why": "The brief does not state how long the clinic's last attorney search took."
+    },
+    {
+      "quote": "A family fund has pledged $20,000 a year for both years.",
+      "why": "The brief does not mention a family fund or how the rest of the attorney's cost will be paid."
+    },
+    {
+      "quote": "The clinic will cover the remaining $13,000 a year from its general budget.",
+      "why": "The brief does not state that $13,000 a year will come from the clinic's general budget, nor can $13,000 be calculated without the unstated $20,000 family fund pledge."
+    },
+    {
+      "quote": "With this grant, we can hire promptly and keep two full-time eviction defense attorneys rather than one.",
+      "why": "The brief neither specifies that the attorneys are full-time nor states that the grant is to replace the departing attorney to stay at two attorneys rather than hire a third."
+    },
+    {
+      "quote": "Every six months, we will report to the Foundation the number of cases opened and how each one ended.",
+      "why": "The brief does not mention a commitment to report to the foundation every six months."
+    },
+    {
+      "quote": "Starting in January, we will request court-wide eviction outcome data from the [County] Clerk.",
+      "why": "The brief does not state that the clinic will request court-wide eviction outcome data from the county clerk starting in January."
+    },
+    {
+      "quote": "With that data, by the end of the first grant year we can compare outcomes for represented and unrepresented tenants and report the difference to the Foundation.",
+      "why": "The brief does not mention obtaining comparison data by the end of the first grant year or reporting that comparison to the foundation."
+    },
+    {
+      "quote": "Without this grant, the number of tenants we can represent will fall by half.",
+      "why": "The brief says the grant is to hire a third attorney, not that without the grant the clinic cannot replace the departing second attorney."
+    }
+  ],
+  "invented_count": 9
+}

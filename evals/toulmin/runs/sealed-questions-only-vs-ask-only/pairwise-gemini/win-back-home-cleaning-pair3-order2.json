@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-37-24Z",
+  "without_skill_run": "2026-11-16T21-23-39Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly acknowledges that I left because of price, and explicitly mentioning that there's no contract and I can cancel anytime makes it very tempting to take the $99 offer even though I'm happy with my current cheaper service. Additionally, Document A makes a false promise that 'nobody you haven't met will turn up,' whereas B stays honest that the backup is simply named ahead of time."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-38-19Z",
+  "without_skill_run": "2026-11-16T21-10-12Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Having quit another meal delivery service before, I need the practical details in Document A—like being able to swap meals, skip weeks, cancel anytime, and talk to Lena for 15 minutes first—before I will pay for a trial. Document B leaves out all of those details and doesn't even tell me the name of the company or the dietitian."
+}

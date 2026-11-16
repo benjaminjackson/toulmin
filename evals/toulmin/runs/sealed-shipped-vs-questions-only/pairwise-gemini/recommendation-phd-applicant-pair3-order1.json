@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-phd-applicant",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-09-36Z",
+  "without_skill_run": "2026-11-16T21-37-07Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Both letters earn my respect by being completely honest about the methodological limitations of a one-year undergraduate field study rather than inflating it. However, Document A is better because it translates the 90 kayak trips into a concrete frequency that immediately signals field grit, and it is a finished letter with the applicant's full name rather than a template placeholder."
+}

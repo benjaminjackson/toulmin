@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-50Z",
+  "without_skill_run": "2026-11-16T21-22-24Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B offers a monthly cash report to bridge investors, which directly addresses my concern about slow sales by giving me regular visibility into their progress rather than making me wait for the next half-year update. Document A actually makes me more hesitant by admitting they aren't yet reporting basic SaaS metrics like recurring versus one-time revenue or active hive counts, whereas Document B focuses tightly on cash discipline and clear deadlines."
+}

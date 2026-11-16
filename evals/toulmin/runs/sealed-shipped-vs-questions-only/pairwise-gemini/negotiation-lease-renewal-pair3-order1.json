@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-lease-renewal",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-05-29Z",
+  "without_skill_run": "2026-11-16T21-34-05Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A directly addresses my leverage with the coffee chain by reminding me of the lost rent and build-out costs I'd face during a turnover, whereas Document B ignores the coffee chain completely. Document A also tackles my annoyance about the late payments right up front and puts the whole counteroffer—including the auto-pay guarantee—into one clean list."
+}

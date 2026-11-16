@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-32Z",
+  "without_skill_run": "2026-11-16T21-35-51Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A uses clear section headings that map directly to a grant scoring rubric, making it much faster to evaluate when reviewing 40 applications. Additionally, Document B conflates carrying 80 open cases at a time with representing 80 tenants per year, while Document A stays strictly faithful to the facts."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-08-56Z",
+  "without_skill_run": "2026-11-16T21-35-44Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B uses clear headings and bullet points, making it much easier for someone affected by this huge change to quickly find out how the policy impacts them personally. It also softens the lack of exceptions with more empathetic phrasing and includes the time and location of Friday's meeting."
+}

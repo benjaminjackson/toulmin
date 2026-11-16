@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-10-04Z",
+  "without_skill_run": "2026-11-16T21-36-44Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A includes the vital fact that five of the six project leads are already in three days a week, which makes the promise of in-person mentorship believable, whereas Document B invents a nine-month timeline not in the brief and tells staff to talk to HR if the job no longer works for them, which sounds like an invitation to quit. Document A also misinterprets 'end of next year' relative to its invented 2027 date, giving the four distant employees only four months instead of sixteen, though both documents suffer from inventing the year 2027."
+}

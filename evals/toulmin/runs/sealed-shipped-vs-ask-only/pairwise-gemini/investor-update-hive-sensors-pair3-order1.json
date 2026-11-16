@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-04-47Z",
+  "without_skill_run": "2026-11-16T21-21-11Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a partner worried about slow sales, I strongly prefer Document A because it lays out the exact math required to break even, calculates the precise cash balance going into March, and models the margin impact of a potential price cut. Document B feels more evasive on the path to profitability and even leaves an unedited '[date]' placeholder in the ask."
+}

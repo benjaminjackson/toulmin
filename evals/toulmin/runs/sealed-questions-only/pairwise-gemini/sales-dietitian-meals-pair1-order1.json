@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-35-32Z",
+  "without_skill_run": "2026-11-16T21-08-31Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who has burned out on meal services before, Document A wins me over by including the practical details I need to feel safe trying again: the ability to swap meals, the 15-minute intro call with a named dietitian, and a clear promise that there's no contract and I can cancel anytime. Document B leaves out all of those specifics, making it feel too much like the generic services I've already quit."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-02-58Z",
+  "without_skill_run": "2026-11-16T21-33-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A gives me a clear, honest milestone—$300,000 in revenue in March and April—to judge whether sales are finally picking up enough to reach break-even. However, its math ignores the $38 hardware cost when claiming $450,000 in revenue covers $450,000 in burn, whereas Document B avoids bad math and slights no facts, making it a close call."
+}

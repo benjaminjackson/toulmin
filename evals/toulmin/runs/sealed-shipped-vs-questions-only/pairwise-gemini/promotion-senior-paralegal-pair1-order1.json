@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-05-01Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A addresses the March deadline error naturally without pretending I didn't already know about it, and it is complete with her actual name rather than a '[Your name]' placeholder. While I liked the specific supervisory commitments in Document B, its phrasing ('You should also know about a mistake I made') is jarring since I raised that exact mistake in her last review."
+}

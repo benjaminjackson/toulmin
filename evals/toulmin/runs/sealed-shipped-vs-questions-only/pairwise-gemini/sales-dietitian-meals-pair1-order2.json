@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-07-57Z",
+  "without_skill_run": "2026-11-16T21-35-32Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Having quit another meal delivery service before, I'm much more drawn to Document A because it treats the four-week menu rotation realistically ('you'll see dishes come back around, and if a dish doesn't suit you, you can swap it out') rather than claiming 'you won't get bored' like B does. Document A also frames the trial week in a low-pressure, grounded way and makes the 15-minute call with the dietitian feel like a built-in step to tailor the plan to my tastes."
+}

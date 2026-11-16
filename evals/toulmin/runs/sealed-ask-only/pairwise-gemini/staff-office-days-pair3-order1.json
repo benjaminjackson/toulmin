@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-23-55Z",
+  "without_skill_run": "2026-11-16T21-10-19Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes critical practical details that Document B omits, most notably the $150 monthly commuting stipend for those living over 30 miles away and the exact time and location of Friday's meeting. Furthermore, Document A speaks with greater candor and respect to the 15 remote hires by openly acknowledging that this changes their original hiring terms and creates hard personal choices, rather than using clichés or calling them out by exact headcount."
+}

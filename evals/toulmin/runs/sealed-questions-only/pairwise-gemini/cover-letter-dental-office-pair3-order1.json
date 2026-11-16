@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-dental-office",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-33-52Z",
+  "without_skill_run": "2026-11-16T21-02-23Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is addressed directly to me, shows real initiative by already enrolling in a 20-hour Dentrix course, and immediately reassures me about the seven-year gap by naming the head vet from her old clinic as a reference. Document B is full of unfilled bracketed placeholders and only offers a vague promise to learn Dentrix, though I did flinch slightly at Document A mentioning she left her last job with two weeks' notice."
+}

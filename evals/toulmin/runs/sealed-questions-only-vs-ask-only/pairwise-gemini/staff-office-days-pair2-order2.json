@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-36-44Z",
+  "without_skill_run": "2026-11-16T21-23-08Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B anticipates practical questions I'd immediately have—like whether there are enough desks and when the Friday meeting is—and reassures me that the project leads are already in the studio. Additionally, Document A gets the timeline wrong by ending the remote grace period at the end of this year (December 2027) instead of the end of next year, and then contradicts its own 'no exceptions' rule at the end."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-21-36Z",
+  "without_skill_run": "2026-11-16T21-03-12Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Since my budget is tight this month after giving to the ambulance fund and I remember the last campaign falling short, Document A wins me over by explicitly guaranteeing that this is an 'all or nothing' campaign where my money will be returned if they don't hit the goal. It also feels genuinely local by naming the Majestic and Ruth Albers, whereas Document B leaves generic placeholders at the bottom and never explicitly promises a refund for this new campaign."
+}

@@ -1,0 +1,25 @@
+{
+  "task": "staff-office-days",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-37-50Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Subject: Returning to the office three days a week from September 1, 2027",
+      "why": "The brief gives the date as 'September 1' and does not specify the year 2027."
+    },
+    {
+      "quote": "Starting September 1, 2027, everyone at the firm will work in the office on Tuesday, Wednesday and Thursday.",
+      "why": "The brief states that the policy starts 'From September 1' without giving the year 2027."
+    },
+    {
+      "quote": "You can keep working fully remotely until December 31, 2027.",
+      "why": "The brief says they can keep working remotely 'until the end of next year' and does not give the date December 31, 2027."
+    },
+    {
+      "quote": "From January 2028 you'll come in one day a week.",
+      "why": "The brief says 'After that, they come in once a week' and does not specify January 2028."
+    }
+  ],
+  "invented_count": 4
+}

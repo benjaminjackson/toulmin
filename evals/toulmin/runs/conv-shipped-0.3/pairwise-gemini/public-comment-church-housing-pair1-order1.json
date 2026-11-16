@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-22-12Z",
+  "without_skill_run": "2026-11-16T20-04-19Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A offers a concrete policy solution to the main concern on the table—conditioning approval on the builder-funded traffic signal to keep the intersection at a C rating—whereas Document B tells the hostile room to simply accept a worse traffic rating. Document A is also transparent upfront about the speaker's membership in the church, which builds credibility with skeptical neighbors."
+}

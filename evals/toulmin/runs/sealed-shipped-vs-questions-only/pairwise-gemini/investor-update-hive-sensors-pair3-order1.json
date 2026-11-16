@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-04-47Z",
+  "without_skill_run": "2026-11-16T21-34-45Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document B includes the offer of a monthly cash report to bridge investors and the December 1 reply deadline, both of which are critical for an existing investor concerned about slow sales and cash burn. Document A also invents a potential price cut to $45 that wasn't in the facts and weakens confidence in their margins."
+}

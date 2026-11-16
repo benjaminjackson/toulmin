@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-24-55Z",
+  "without_skill_run": "2026-11-16T21-10-58Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes essential practical details—like the $150 commuting stipend, the desk shortage plan, and the six-month review—and respects us enough to admit upfront that they are going back on their word to the 15 remote hires. Both documents strangely misread 'the end of next year' as only four months after September, which will cause confusion on Friday, but A is much more complete and transparent."
+}

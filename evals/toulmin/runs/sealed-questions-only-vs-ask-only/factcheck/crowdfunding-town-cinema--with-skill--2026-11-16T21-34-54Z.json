@@ -1,0 +1,8 @@
+{
+  "task": "crowdfunding-town-cinema",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-34-54Z",
+  "checker": "gemini-4-argon",
+  "invented": [],
+  "invented_count": 0
+}

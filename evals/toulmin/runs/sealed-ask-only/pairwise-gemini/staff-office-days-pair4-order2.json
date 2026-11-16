@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-24-55Z",
+  "without_skill_run": "2026-11-16T21-10-58Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B proactively answers our most urgent practical questions—specifically about desk shortages, commuting stipends, a six-month policy review, and whether we can ask for individual exceptions. Note that both documents mistakenly shorten the grace period for the four distant employees from 'the end of next year' to the end of this year (only four months after September), which will cause unnecessary panic."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-10-23Z",
+  "without_skill_run": "2026-11-16T21-21-32Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both comments do an excellent job of conceding our staff's stock numbers upfront, avoiding the usual hyperbole we hear from captains, and offering viable alternatives like a 3-fish limit or shorter season. Document B is slightly more effective because it leads with those workable compromises right in the opening paragraph, framing the entire comment around a realistic solution."
+}

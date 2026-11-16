@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-phd-applicant",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-35-27Z",
+  "without_skill_run": "2026-11-16T21-07-30Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me a specific numerical ranking ('one of the three best students' in 17 years) and concrete proof of competence from an outside state lab ('ran the lab's water sampling on her own' for two weeks), which overcomes my skepticism of small-college letters. Document B uses vague praise ('one of the most capable') and leaves critical evidence as unfilled bracketed prompts."
+}

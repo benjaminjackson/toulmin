@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-02-41Z",
+  "without_skill_run": "2026-11-16T21-33-05Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A does the math for me, showing that the $49,000 left to raise from residents is only $2,000 more than the $47,000 we actually raised last time, which makes this attempt feel genuinely achievable. Because my budget is tight after giving to the ambulance fund, seeing it broken down to $7.50 a person also makes me feel good about chipping in a modest $20 or $25 instead of skipping it."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is a complete update that includes essential decision-making details like the $250,000 existing commitment, specific cost-cutting plans, product differentiation against the new competitor, and honest projections about profitability. Document B is an unfinished template full of placeholders and lacks the crucial facts needed to evaluate the bridge round."
+}

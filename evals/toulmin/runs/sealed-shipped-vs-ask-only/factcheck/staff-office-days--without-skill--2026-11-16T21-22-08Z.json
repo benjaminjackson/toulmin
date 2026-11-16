@@ -1,0 +1,25 @@
+{
+  "task": "staff-office-days",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-22-08Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "September 1, 2027",
+      "why": "The brief specifies September 1, but does not give the year 2027."
+    },
+    {
+      "quote": "For the past few years the partners have come in one day a week.",
+      "why": "The brief states the partners have been coming in one day a week, but does not state this has been happening for the past few years."
+    },
+    {
+      "quote": "You can keep working remotely until the end of 2027.",
+      "why": "The brief says the four remote employees can keep working remotely until the end of 'next year', whereas the document makes this the end of 2027 (which neither matches the brief's unspecified year nor is 'next year' relative to the document's invented 2027 start date)."
+    },
+    {
+      "quote": "From January 2028, we'll ask you to come in one day a week.",
+      "why": "The brief does not provide the year 2028 (or January) for when the four remote workers must start coming in once a week."
+    }
+  ],
+  "invented_count": 4
+}

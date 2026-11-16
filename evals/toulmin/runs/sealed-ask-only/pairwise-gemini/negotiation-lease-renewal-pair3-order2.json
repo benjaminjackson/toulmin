@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-lease-renewal",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-20-25Z",
+  "without_skill_run": "2026-11-16T21-04-38Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A offers the actual $5,100 monthly rent from the brief, whereas Document B inaccurately lowers the offer to $5,000, making it much less appealing to me as a landlord. Additionally, while Document B acknowledges the late fees I waived, it fails to offer a concrete guarantee like automatic bank transfers to reassure me it won't happen again."
+}

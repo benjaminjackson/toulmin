@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-dental-office",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-20-52Z",
+  "without_skill_run": "2026-11-16T21-02-51Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is a complete, personalized letter addressed to me and my practice, and the fact that she has already enrolled in a 20-hour Dentrix course reassures me that her seven-year gap won't keep her from getting up to speed quickly. Document A still has unedited template brackets in it, though I did like how its closing paragraph specifically mentioned supervising my nine staff and three dentists."
+}

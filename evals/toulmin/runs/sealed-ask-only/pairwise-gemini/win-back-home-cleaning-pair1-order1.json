@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-22-10Z",
+  "without_skill_run": "2026-11-16T21-09-47Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me a compelling reason to rethink the $25 savings by pointing out that the app cleaners usually don't carry insurance on the visit, and it proves their turnover has actually stopped since July. Plus, reminding me there's no contract makes it feel risk-free to at least book the $99 cleaning."
+}

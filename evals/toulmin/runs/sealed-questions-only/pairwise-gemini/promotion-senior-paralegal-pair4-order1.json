@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-39Z",
+  "without_skill_run": "2026-11-16T21-07-00Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me concrete evidence that the new check system has worked across 600 entries since the March incident, and it includes specific commitments for how Jenna will supervise the team going forward. Although saying 'I want you to hear about a mistake' is slightly odd since I already brought it up in her review, the concrete track record and specific plans make it much stronger than Document B."
+}

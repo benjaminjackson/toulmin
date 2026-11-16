@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-07-24Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B wins our trust right away by validating our staff's 78% stock number upfront and explicitly speaking only to the captain's own books instead of exaggerating the impact on the whole harbor. It also gives us two actionable regulatory alternatives—a 3-fish limit or a shorter season—that still achieve the conservation goal."
+}

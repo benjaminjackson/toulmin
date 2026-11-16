@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-12-28Z",
+  "without_skill_run": "2026-11-16T21-38-45Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B includes the six-month review and notes that five of the six project leads are already in three days a week, which makes the change feel more collaborative and less permanent. However, both documents invent a 2027/2028 timeline that contradicts the brief's statement that the four distant staff have 'until the end of next year' (which would mean this email is sent in 2026 and the September 1 start date is this year, not nine months away)."
+}

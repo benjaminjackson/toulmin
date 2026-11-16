@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-07Z",
+  "without_skill_run": "2026-11-16T21-06-02Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B gives me the exact data I need to get past the March filing scare—600 subsequent entries with zero errors—and proposes concrete supervisory commitments like a weekly check-in and state certification. While phrasing the March error as if I didn't already know about it is slightly odd since we discussed it in her last review, the specific metrics and actionable plan make a much stronger case than the generic promises in Document A."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-22-12Z",
+  "without_skill_run": "2026-11-16T20-04-00Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A directly addresses my skepticism about the guest scores by showing they reached 8.2 before the renovation even began, and it calms my worry about the budget by pointing out that Daniela kept overtime under plan for the past seven weeks and already has a firm commitment from Ben to mentor her. Document B relies on generic placeholders and lacks the specific data that actually proves she can handle the job over the outside candidate."
+}

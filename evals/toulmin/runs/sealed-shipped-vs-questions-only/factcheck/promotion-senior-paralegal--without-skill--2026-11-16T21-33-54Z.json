@@ -1,0 +1,17 @@
+{
+  "task": "promotion-senior-paralegal",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-33-54Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Two are still with us",
+      "why": "The user only stated that one of the three paralegals left after eight months, not whether the other two are still with the firm."
+    },
+    {
+      "quote": "Completing the state paralegal certification by June 2027.",
+      "why": "The user committed to finishing the certification by 'next June', without specifying the year 2027 (and the current year is not provided in the brief)."
+    }
+  ],
+  "invented_count": 2
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-43Z",
+  "without_skill_run": "2026-11-16T21-20-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is straightforward, transparent, and relies strictly on the facts, which makes it very easy to score quickly against a rubric. Document B invents facts not in the brief—such as 2027 dates, children in schools, and a claim that the budget does not depend on the county contract—while confusingly framing the request as a replacement rather than a third attorney."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-51Z",
+  "without_skill_run": "2026-11-16T21-22-09Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B uses clear headings that map directly to a grant rubric, addresses the missing baseline data with a concrete plan, and includes six-month accountability reporting. Document A makes an unrealistic timeline promise (having a new hire start by May to train when the grant isn't decided until May) and implies the grant might just replace the departing second attorney rather than add a third."
+}

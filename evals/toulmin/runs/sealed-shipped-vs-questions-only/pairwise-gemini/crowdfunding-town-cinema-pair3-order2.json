@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-03-50Z",
+  "without_skill_run": "2026-11-16T21-33-57Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both pitches do a great job of showing that the remaining $49,000 is right in line with the $47,000 we raised last time, which makes me believe it can actually succeed this time. However, Document A wins me over by addressing the failed first campaign in the very first sentence rather than waiting until the fourth paragraph, and its layout makes the numbers much easier to see at a glance."
+}

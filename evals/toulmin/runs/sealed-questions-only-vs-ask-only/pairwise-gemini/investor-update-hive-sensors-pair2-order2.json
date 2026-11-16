@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-33Z",
+  "without_skill_run": "2026-11-16T21-19-54Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins because it commits to a monthly cash and revenue report for bridge investors, which is crucial for me since I'm already worried about slow sales. Document A also makes a major financial error by confusing revenue with gross profit when calculating break-even, completely ignoring the $38 hardware cost."
+}

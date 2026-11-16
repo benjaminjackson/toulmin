@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-01Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B frames the March deadline error with strong professional maturity, omits the awkward 'You should also know about a mistake' phrasing from Document A (since I already discussed it with her in her last review), and remembers to acknowledge that one of the trainees left. Document A also leaves '[Your name]' as a placeholder and includes a slightly unnerving line about not promising to never make another error."
+}

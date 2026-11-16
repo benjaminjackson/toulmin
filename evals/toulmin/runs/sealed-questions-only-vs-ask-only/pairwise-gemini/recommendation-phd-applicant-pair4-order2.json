@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-phd-applicant",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-38-08Z",
+  "without_skill_run": "2026-11-16T21-24-08Z",
+  "a_arm": "without-skill",
+  "winner": "tie",
+  "winner_arm": "tie",
+  "margin": "none",
+  "reason": "The two letters are nearly identical in structure, tone, and content. Both effectively overcome my skepticism of small-college letters by grounding their praise in concrete evidence of field grit (90 kayak trips, running state lab sampling alone) and offering an honest, realistic assessment of what it would take to publish her thesis."
+}

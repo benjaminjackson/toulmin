@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-37-24Z",
+  "without_skill_run": "2026-11-16T21-10-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes the actual company name, the no-contract policy, an expiration date, and real proof of low turnover since July, whereas Document B relies on unfilled placeholders and falsely claims I personally complained about cleaner consistency when I only left for price. Getting a $99 cleaning with no commitment and easy reply-to-book makes it worth doing at least once."
+}

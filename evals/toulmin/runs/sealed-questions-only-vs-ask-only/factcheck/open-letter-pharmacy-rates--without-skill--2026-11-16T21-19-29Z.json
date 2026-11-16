@@ -1,0 +1,29 @@
+{
+  "task": "open-letter-pharmacy-rates",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-19-29Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "To the Board of Trustees and Executive Director:",
+      "why": "The brief only says the letter is to the state employees' health plan and does not state that it is governed by a Board of Trustees or an Executive Director."
+    },
+    {
+      "quote": "Each of those prescriptions loses money.",
+      "why": "The brief states that the plan pays an average of $1.80 less than cost across the 20 generic drugs, not that every single prescription among those 20 loses money."
+    },
+    {
+      "quote": "No small business can keep doing a fifth of its work at a loss.",
+      "why": "The brief says plan members make up 22% of all prescriptions and that the 20 most-filled generics lose money on average, whereas the user notes that some pharmacies make up part of the loss on brand-name drugs, so it is not established that the entire 22% of work is done at a loss."
+    },
+    {
+      "quote": "But we do know that every pharmacy still open is now losing money on its most common plan prescriptions.",
+      "why": "The brief only provides cost and reimbursement data for the 38 pharmacies in the alliance, not for every independent pharmacy still open in the state."
+    },
+    {
+      "quote": "They are teachers, road crews, office staff and retirees.",
+      "why": "The brief does not specify the occupations or retirement status of the plan members."
+    }
+  ],
+  "invented_count": 5
+}

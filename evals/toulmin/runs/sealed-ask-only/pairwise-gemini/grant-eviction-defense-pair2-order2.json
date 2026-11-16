@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-19-49Z",
+  "without_skill_run": "2026-11-16T21-02-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is a complete, ready-to-score summary that clearly explains how the $33,000 annual funding gap will be covered (using a $20,000 family fund pledge and general budget) and addresses the risk of the October county contract renewal. Document A leaves critical budget and staffing questions as unfilled placeholders, though Document B does leave me wondering how they will replace the departing second attorney."
+}

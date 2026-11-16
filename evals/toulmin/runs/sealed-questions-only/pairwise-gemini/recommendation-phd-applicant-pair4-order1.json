@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-phd-applicant",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-38-08Z",
+  "without_skill_run": "2026-11-16T21-09-09Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins because the writer retrieved crucial details that overcome my skepticism of small-college letters: an explicit ranking (\"one of the three best students I have taught\" in 17 years) and concrete proof of external validation from the state lab (running water sampling alone for two weeks, and the supervisor wanting to rehire her). Document B relies on vague, invented filler for the classroom, conference, and lab sections rather than gathering these hard facts."
+}

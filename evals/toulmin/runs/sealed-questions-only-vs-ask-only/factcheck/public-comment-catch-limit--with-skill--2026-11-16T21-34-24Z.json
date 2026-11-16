@@ -1,0 +1,17 @@
+{
+  "task": "public-comment-catch-limit",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-34-24Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "and I've never gotten back to 170.",
+      "why": "The brief gives trip counts for 2016 (170), the next season (138), two years later (155), and the current average (about 160), but does not state whether bookings ever reached 170 in any of the other years since 2016."
+    },
+    {
+      "quote": "I can tell you it won't be none.",
+      "why": "The user explicitly states they cannot say how many boats in the harbor would close and only know their own books, whereas this statement asserts as a fact that at least one boat will close."
+    }
+  ],
+  "invented_count": 2
+}

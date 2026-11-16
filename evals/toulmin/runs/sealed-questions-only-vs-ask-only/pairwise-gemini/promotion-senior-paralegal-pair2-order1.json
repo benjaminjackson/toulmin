@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-33-07Z",
+  "without_skill_run": "2026-11-16T21-19-26Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A offers concrete commitments for the new role—weekly check-ins and finishing state certification—and stays strictly honest to the facts, including noting that one trainee left. Document B invents details about training curricula and makes a business case about the group's growth that isn't supported by the facts."
+}

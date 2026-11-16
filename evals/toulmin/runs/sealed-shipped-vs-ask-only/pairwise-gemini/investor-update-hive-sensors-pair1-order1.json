@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is much better structured for a skeptical investor, putting the bridge terms up front and explicitly tying the runway to proving out our sales against the new competitor and finding a path to break-even after the spring season. Document B buries the ask at the bottom and introduces an unprompted, worrying comment about potentially cutting prices while saying they 'don't have a plan' for profitability."
+}

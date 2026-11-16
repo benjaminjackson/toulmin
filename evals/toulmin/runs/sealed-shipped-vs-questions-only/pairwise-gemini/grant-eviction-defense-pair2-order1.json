@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-03-06Z",
+  "without_skill_run": "2026-11-16T21-33-21Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both documents falsely claim the clinic will drop to one attorney without the grant, even though the brief states they are applying to hire a third attorney. However, Document B is slightly better because it stays honest about recruitment realities instead of promising that an attorney leaving in June will train a new hire when the grant isn't decided until May and hiring takes five months."
+}

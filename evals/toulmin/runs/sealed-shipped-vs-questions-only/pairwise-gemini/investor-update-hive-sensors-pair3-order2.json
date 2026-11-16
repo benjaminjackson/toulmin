@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-04-47Z",
+  "without_skill_run": "2026-11-16T21-34-45Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A includes the commitment to send a monthly cash report to bridge investors and gives a clear December 1 reply deadline ahead of the December 15 close, both of which are missing in Document B. Additionally, Document B unnecessarily raises the prospect of cutting hardware prices to match the competitor, which worries me when I already think sales are too slow."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-09-37Z",
+  "without_skill_run": "2026-11-16T21-35-50Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B's subject line immediately catches my eye with the $99 offer, which is a great hook since I originally left over price. Also, Document A claims I gave two specific reasons when I cancelled, which feels inaccurate since I had no complaints about the cleaners and only switched to save money."
+}

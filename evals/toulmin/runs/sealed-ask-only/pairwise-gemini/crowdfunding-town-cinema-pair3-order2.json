@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-20-41Z",
+  "without_skill_run": "2026-11-16T21-02-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Because I already gave $200 to the ambulance fund this month and remember the first campaign failing, I need to feel confident this effort will actually succeed before I chip in again. Document B convinces me to make a smaller pledge by naming the Majestic, committing to quarterly spending reports at the library, and including the $11,000 in local business pledges—which brings the remaining community goal down to $49,000, making it feel completely achievable compared to the $47,000 we raised last time."
+}

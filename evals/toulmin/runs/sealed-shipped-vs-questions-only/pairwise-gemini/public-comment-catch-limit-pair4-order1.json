@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-10-23Z",
+  "without_skill_run": "2026-11-16T21-35-28Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "As commissioners who hear from charter captains constantly, Document B stands out because the captain backs up his economic claims by offering his actual trip logs since 2016 and commits his association to testing a catch-reporting app with our staff. That willingness to partner on data and verify his numbers gives us something concrete to take back to our staff as we weigh a three-fish limit or shorter season."
+}

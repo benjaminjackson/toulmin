@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-26-42Z",
+  "without_skill_run": "2026-11-16T20-06-51Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A directly addresses the two reasons I cancelled—the lack of refunds during bad weeks and the lack of communication—by offering a specific weather credit and a commitment to weekly emails. Document B only mentions physical farm improvements and vacation pauses, leaving me still worried I'd lose money and be left in the dark if another storm hits."
+}

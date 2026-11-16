@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-26-42Z",
+  "without_skill_run": "2026-11-16T20-06-51Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly fixes the two reasons I left: it commits to a weather credit if boxes are thin again and promises a weekly email so the farm never goes silent. Document A leaves me bearing all the financial risk if another storm hits the uncovered crops and doesn't commit to better communication."
+}

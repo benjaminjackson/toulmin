@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-03-06Z",
+  "without_skill_run": "2026-11-16T21-33-21Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Both documents reframe the request from hiring a third attorney to merely replacing a departing second attorney, which is a smart adjustment given the facts, though Document Bgoes a step too far by claiming the departing attorney will train her successor in May—impossible when the grant isn't decided until May and recruiting takes five months. Document A is more realistic about the hiring timeline, better organized for quick scoring against a rubric, and avoids volunteering the unprompted red flag about the county contract potentially disappearing."
+}

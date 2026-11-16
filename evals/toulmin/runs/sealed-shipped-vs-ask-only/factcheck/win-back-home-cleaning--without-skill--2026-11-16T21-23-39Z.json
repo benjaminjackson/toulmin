@@ -1,0 +1,13 @@
+{
+  "task": "win-back-home-cleaning",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-23-39Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Nobody you haven't met will turn up at your door.",
+      "why": "The brief and additional information state that customers get a regular cleaner and a \"named backup,\" not that customers will have met the backup cleaner in person before they turn up at the door."
+    }
+  ],
+  "invented_count": 1
+}

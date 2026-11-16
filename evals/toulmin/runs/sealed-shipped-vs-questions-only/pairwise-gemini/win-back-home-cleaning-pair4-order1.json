@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-12-32Z",
+  "without_skill_run": "2026-11-16T21-38-12Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A directly points out that the app cleaners I'm currently using are likely uninsured contractors, which gives me a strong, practical reason to reconsider my $25 savings. It also clearly states that I'll only ever have one of two people I know by name in my home and includes the actual phone number rather than a placeholder."
+}

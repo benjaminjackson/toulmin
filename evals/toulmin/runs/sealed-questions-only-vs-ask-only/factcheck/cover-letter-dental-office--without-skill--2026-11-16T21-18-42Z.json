@@ -1,0 +1,13 @@
+{
+  "task": "cover-letter-dental-office",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-18-42Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "which meant converting our files, setting up new routines and helping the whole team get comfortable with the new system",
+      "why": "The brief says she handled the clinic's move from paper records to software in 2014, but does not mention converting files, setting up new routines, or helping the team get comfortable with the system."
+    }
+  ],
+  "invented_count": 1
+}

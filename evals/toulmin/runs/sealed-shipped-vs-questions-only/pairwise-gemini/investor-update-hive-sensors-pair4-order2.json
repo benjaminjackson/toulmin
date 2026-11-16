@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-50Z",
+  "without_skill_run": "2026-11-16T21-35-52Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both documents are unusually honest about the slow sales, the mixed customer data, and the competitive threat, which builds the trust I need to consider a bridge. Document A edges out B because it makes the crucial operational point that they need cash before March to actually pay to manufacture the sensors for the spring sales window, and it explicitly commits to tracking customer retention and competitor trials as the key milestones for this capital."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-33-33Z",
+  "without_skill_run": "2026-11-16T21-02-25Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is a finished, transparent update that gives me the exact deal terms, existing angel traction, concrete burn reduction, and a clear technical advantage over the new competitor. Document B is full of unedited placeholders and makes a vague promise of 2027 profitability that the current numbers don't support."
+}

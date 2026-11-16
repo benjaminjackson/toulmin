@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-03-50Z",
+  "without_skill_run": "2026-11-16T21-20-41Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B builds much more trust by being signed by Ruth Albers, giving a concrete reopening target of Thanksgiving, and being completely honest about the potential 15% roof cost increase and film distributor limits. Document A also invents the year 2027, which conflicts with the fact that the cinema closed in 2022 and the first campaign was three years ago."
+}

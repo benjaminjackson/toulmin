@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-05-35Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Even though the phrasing in Document A acts as if I don't already know about last March's mistake, it gives me concrete proof that her fix worked—600 error-free entries since April—which directly addresses my biggest hesitation from her last review. It also offers specific commitments for how she will supervise the team and complete her certification, making a much stronger case for promotion than Document B."
+}

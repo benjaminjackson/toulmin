@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-33-54Z",
+  "without_skill_run": "2026-11-16T21-20-13Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A addresses the March deadline error with hard data—600 subsequent entries with zero errors since the two-person check was implemented—which directly reassures me that the system works. It also includes concrete commitments for how she will handle the supervisory role and has the actual names filled in rather than placeholders."
+}

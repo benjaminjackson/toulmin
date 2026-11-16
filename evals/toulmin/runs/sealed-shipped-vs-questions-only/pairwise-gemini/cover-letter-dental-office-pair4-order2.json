@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-dental-office",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-04-10Z",
+  "without_skill_run": "2026-11-16T21-34-42Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A includes that she has been using QuickBooks for the past four years as a church treasurer, which reassures me that her computer and bookkeeping skills are still current despite the seven-year gap. While her mention of leaving her last job with two weeks' notice hits a sore spot for me right now, the recent QuickBooks experience and specific insight into patient claims and referrals make her a stronger candidate on paper than Document B."
+}

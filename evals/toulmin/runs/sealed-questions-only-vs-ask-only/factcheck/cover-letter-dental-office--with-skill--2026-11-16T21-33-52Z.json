@@ -1,0 +1,13 @@
+{
+  "task": "cover-letter-dental-office",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-33-52Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I learned AVImark from scratch when our clinic moved off paper",
+      "why": "The brief says she used AVImark at the clinic and handled the 2014 move from paper records to software, but it does not say she learned AVImark from scratch during that move."
+    }
+  ],
+  "invented_count": 1
+}

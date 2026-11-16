@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-07-24Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B stands out from the usual charter captain complaints by immediately validating our staff's stock numbers, offering viable conservation alternatives like a shorter season, and committing to concrete data-sharing partnerships. It also builds high credibility by speaking honestly about what the captain knows from his own books and specific peers rather than exaggerating."
+}

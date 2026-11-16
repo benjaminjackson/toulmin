@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-43Z",
+  "without_skill_run": "2026-11-16T21-20-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B presents a clear, honest picture of the clinic's situation, including the pending county contract renewal, and is well-structured for quick scoring against a rubric. Document A invents future dates (2027) and makes an unsupported claim that the budget does not depend on the $60,000 county contract."
+}

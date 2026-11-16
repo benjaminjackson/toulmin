@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-33-15Z",
+  "without_skill_run": "2026-11-16T21-07-58Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A stands out from the dozens of charter captain comments we hear at every meeting because Captain Dunn is completely transparent—even volunteering that 70% of his upcoming season is already booked and refusing to exaggerate how many boats will close—while offering concrete compromises like trip logs and catch-reporting app testing. Document B is well-written, but it offers nothing in return from the fleet and reads much more like the standard testimony we hear every month."
+}

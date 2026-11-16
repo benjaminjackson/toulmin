@@ -1,0 +1,33 @@
+{
+  "task": "staff-office-days",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-36-44Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "1 September 2027",
+      "why": "The brief gives the start date as September 1, but does not state the year 2027."
+    },
+    {
+      "quote": "When we asked the clients why, they both said the same thing",
+      "why": "The brief states that the clients told the firm the team seemed not to know each other, not that the firm asked the clients why they lost."
+    },
+    {
+      "quote": "Projects like these keep a firm our size busy for years.",
+      "why": "The brief does not mention how long large hospital projects keep the firm busy."
+    },
+    {
+      "quote": "Five of our six project leads already come in on those days by choice",
+      "why": "The provided information states that five of the six project leads come in three days a week, not that they specifically come in on Tuesdays, Wednesdays, and Thursdays."
+    },
+    {
+      "quote": "You keep your current arrangement until 31 December 2027. From January 2028, you'll come in one day a week.",
+      "why": "The brief says the four remote employees can keep working remotely until 'the end of next year' rather than specifying 2027 and 2028 (and even if the current year were 2027, 'next year' would be 2028, not 2027)."
+    },
+    {
+      "quote": "around March 2028",
+      "why": "The provided information commits to a review after six months, without specifying the year 2028."
+    }
+  ],
+  "invented_count": 6
+}

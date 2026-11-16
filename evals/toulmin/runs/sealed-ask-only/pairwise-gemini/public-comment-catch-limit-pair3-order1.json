@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-20-36Z",
+  "without_skill_run": "2026-11-16T21-08-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes the specific, verified detail that two captains in the harbor plan to sell their boats if bookings drop like they did in 2016, which is much more convincing to us than Document B's generic extrapolations about tackle shops and restaurants. Document A also frames its proposed alternatives (a 3-fish limit or a shorter season) directly around meeting our staff's conservation target, making it an actionable request we can actually ask our staff to model."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-21-11Z",
+  "without_skill_run": "2026-11-16T21-03-05Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes the actual facts I need to make an investment decision—the $250,000 already committed, the round terms, the burn reduction to $75,000, and the exact technical differences between our sensor and the new competitor's. Document B is full of unfilled placeholders for critical details and makes an unrealistic profitability pitch that the numbers don't support."
+}

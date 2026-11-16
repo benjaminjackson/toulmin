@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-37-23Z",
+  "without_skill_run": "2026-11-16T21-09-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who has already quit a meal delivery service, I wouldn't buy from a nameless page with a '[day/time]' placeholder, whereas Document B gives me the dietitian's real name and the practical details I need—like meal swaps and no contracts—to risk $59. While I really appreciated Document A's explicit honesty about not tracking medication changes with the A1C numbers, Document B is still honest about results varying and gives me enough concrete facts about the service to actually try it."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-36-25Z",
+  "without_skill_run": "2026-11-16T21-09-07Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Because I've quit other meal services and apps after getting burned out, Document A wins me over by addressing the exact practical details I worry about—meal swaps, menu rotation, and skipping weeks—while being completely upfront in the main text that the A1C numbers aren't a scientific study. Offering a 15-minute phone call with the actual dietitian before I even pay makes this feel trustworthy enough to try."
+}

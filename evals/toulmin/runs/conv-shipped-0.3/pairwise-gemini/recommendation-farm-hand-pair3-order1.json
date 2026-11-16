@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-27-11Z",
+  "without_skill_run": "2026-11-16T20-06-05Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes concrete details that carry huge weight for a technical admissions committee: the $8,000 saved, arranging a trained replacement for his absence, overcoming a failed safety test, and the manager's commitment to keep him employed part-time during the program. Document B lacks these specifics and leaves placeholders where the names and contact information should be."
+}

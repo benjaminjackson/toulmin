@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-23-23Z",
+  "without_skill_run": "2026-11-16T20-04-35Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly changes my mind about the guest scores by pointing out they rose to 8.2 before the renovation even started, whereas Document A only offers a vague claim. Document B also gives me concrete confidence in her ability to handle the budget by noting she has kept overtime under plan for seven weeks and has already arranged weekly sessions with our controller, Ben."
+}

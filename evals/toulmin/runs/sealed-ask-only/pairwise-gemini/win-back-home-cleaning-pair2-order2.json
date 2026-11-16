@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-22-54Z",
+  "without_skill_run": "2026-11-16T21-10-14Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly contrasts their insured employees with the uninsured contractors used by the $140 app services, which makes me question the risk of my current $25 savings. It also reassures me that there is no contract and includes the actual company details and offer deadline, making it easy and low-risk to try a $99 cleaning."
+}

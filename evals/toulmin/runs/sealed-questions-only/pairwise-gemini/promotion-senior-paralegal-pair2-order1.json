@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-33-07Z",
+  "without_skill_run": "2026-11-16T21-06-02Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me the exact hard data I need to get past the March deadline error—specifically that the new second-person check has worked across 600 entries without an issue—and proposes concrete commitments like weekly check-ins and state certification. While it's slightly odd that she says 'I'd like you to hear about one mistake from me directly' when I already raised it in her last review, the specific details and tailored timeline make a much stronger case than B."
+}

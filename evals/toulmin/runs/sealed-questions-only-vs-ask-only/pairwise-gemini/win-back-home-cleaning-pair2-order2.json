@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-36-38Z",
+  "without_skill_run": "2026-11-16T21-22-54Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B gives me concrete proof that their new system works by sharing the specific turnover rate since July, and mentioning the $21 hourly wage alongside the insurance makes the extra $25 feel justified. Document A is also good, but quoting a specific 3-bedroom price risks not matching my actual home size."
+}

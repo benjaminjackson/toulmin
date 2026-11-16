@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A gives me the exact reassurance I need about the March deadline error—specifically that the new second-person check has handled 600 entries without an issue—and outlines concrete supervisory commitments like weekly check-ins. However, Document A weakens this slightly by writing 'You should also know about a mistake I made' when I already raised it in her last review, and by leaving a '[Your name]' placeholder at the bottom."
+}

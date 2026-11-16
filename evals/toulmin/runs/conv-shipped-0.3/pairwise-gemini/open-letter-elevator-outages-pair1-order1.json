@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-22-12Z",
+  "without_skill_run": "2026-11-16T20-03-02Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A drops the unrealistic demand for a second elevator, proposes a concrete solution like a stair-climbing chair, and offers practical help by maintaining an emergency resident list. Putting my name and the building's address on a letter going to local TV news with such reasonable requests makes it impossible for me to dismiss them as just a few loud complainers."
+}

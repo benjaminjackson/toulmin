@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is a nearly complete, scorable summary that answers my biggest question on the rubric—how they will cover the $33,000 annual funding gap—by naming the $20,000 family fund pledge and the $13,000 operating budget match. Document A leaves the funding match, clinic name, and project role as unfilled brackets, making it an unfinished template rather than a persuasive application."
+}

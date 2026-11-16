@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-35-51Z",
+  "without_skill_run": "2026-11-16T21-22-09Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A uses clear bold headings that map directly to a grant rubric, openly addresses the missing baseline data, and commits to specific reporting metrics. Document B omits accountability metrics, invents a 2027 date for the county contract, and confusingly reframes the grant as a replacement hire rather than the third attorney requested."
+}

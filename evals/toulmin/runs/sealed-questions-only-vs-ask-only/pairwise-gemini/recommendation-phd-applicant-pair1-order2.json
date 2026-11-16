@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-phd-applicant",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-27Z",
+  "without_skill_run": "2026-11-16T21-21-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Both letters win my trust by calibrating the student against a 17-year career and honestly acknowledging that the 14-month, 6-site thesis needs a second season to be publishable, rather than making the inflated claims I usually see from small colleges. Document B is clearly better because it sticks strictly to the verifiable facts and includes the applicant's full name, whereas Document A invents details not in the brief (such as how she performed in discussions at the conference)."
+}

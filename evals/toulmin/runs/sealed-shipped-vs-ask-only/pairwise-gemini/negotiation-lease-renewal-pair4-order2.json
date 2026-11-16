@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-lease-renewal",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-24Z",
+  "without_skill_run": "2026-11-16T21-21-14Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B addresses the late rent from early 2024 right away, which shows they take my biggest hesitation seriously instead of burying it after their counteroffer. It also gives me a clear June 1 deadline to respond, while Document A gives no timeline and leaves a '[Your name]' placeholder at the bottom."
+}

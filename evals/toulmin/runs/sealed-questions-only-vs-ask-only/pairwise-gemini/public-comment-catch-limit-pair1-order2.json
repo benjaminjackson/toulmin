@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is much more credible and actionable because the captain backs up his numbers by offering his 2016 trip logs to our staff and committing his association to test a catch-reporting app. It also honestly conveys the risk of boats going out of business by citing two fellow captains who plan to sell, whereas Document A lacks those concrete commitments and uses placeholders."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-dental-office",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-33-05Z",
+  "without_skill_run": "2026-11-16T21-19-25Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins because her recent QuickBooks experience as a church treasurer reassures me that her skills haven't gone rusty during the seven-year gap, and knowing she can work our Tuesday/Thursday evenings and provide a reference from the head vet saves me time right now. While mentioning she gave two weeks' notice hits a sore spot for me after my last manager's sudden exit, the practical details in A easily outweigh Document B, which wasn't even signed with her name."
+}

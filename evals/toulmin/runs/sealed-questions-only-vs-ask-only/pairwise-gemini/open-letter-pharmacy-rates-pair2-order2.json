@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-22Z",
+  "without_skill_run": "2026-11-16T21-19-29Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly acknowledges that pharmacies make back part of their generic losses on brand-name drugs, which anticipates my immediate pushback as a benefits director, whereas Document A implies all 22% of their plan business is done at a net loss. Including the list of the 38 pharmacies and their towns at the bottom of B also makes it immediately verifiable whether these pharmacies are actually in the 14 rural counties where my members lack chain alternatives."
+}

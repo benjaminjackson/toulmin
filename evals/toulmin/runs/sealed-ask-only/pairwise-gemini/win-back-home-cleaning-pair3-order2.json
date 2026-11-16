@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-23-39Z",
+  "without_skill_run": "2026-11-16T21-10-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B feels personal and credible with real company details, proof that their new staffing policy is actually working, and a clear way to claim the $99 offer. Document A relies on generic placeholders and falsely assumes I complained about rotating cleaners when I only left for a lower price."
+}

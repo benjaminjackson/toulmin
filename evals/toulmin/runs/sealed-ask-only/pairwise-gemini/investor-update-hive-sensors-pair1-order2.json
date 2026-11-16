@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is a complete, honest letter that includes the critical details I need to evaluate the bridge—specifically the $250k already committed, the terms, the burn reduction to $75k, and our product's differentiation against the new competitor. Document A is an unfinished draft full of bracketed placeholders, and it even gets the basic runway math wrong (claiming $600k covers 10 months of a $95k/month burn)."
+}

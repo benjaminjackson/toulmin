@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-04-41Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses my skepticism by acknowledging brand-name margins, offering to show actual purchase invoices for the 20 drugs, and quantifying the 20-mile distance to chain pharmacies in those 14 counties. Document A relies on generic assertions and unfilled placeholders that I can easily brush off as the usual annual complaints."
+}

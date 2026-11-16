@@ -1,0 +1,21 @@
+{
+  "task": "crowdfunding-town-cinema",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-18-42Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "A local bank has pledged $25,000 if we raise the rest by June 30, 2027.",
+      "why": "The brief gives the deadline as June 30, but does not state the year 2027."
+    },
+    {
+      "quote": "If we don't reach $85,000 by June 30, 2027, every pledge comes back to you in full.",
+      "why": "The provided information gives the deadline as June 30, but does not state the year 2027."
+    },
+    {
+      "quote": "whoever you used to see at the Saturday matinee",
+      "why": "Neither the brief nor the user's additional information mentions that the cinema held a Saturday matinee."
+    }
+  ],
+  "invented_count": 3
+}

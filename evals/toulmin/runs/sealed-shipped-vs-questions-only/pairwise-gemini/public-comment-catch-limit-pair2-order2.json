@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-07-41Z",
+  "without_skill_run": "2026-11-16T21-33-15Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A stands out from the usual public comments because the captain offers concrete commitments—sharing his trip logs to verify the 2016 drop and piloting a catch-reporting app with our staff—and is upfront about his current bookings. Document B also slightly stretches the math by assuming the worst single-year drop from 2016 would repeat across all three years."
+}

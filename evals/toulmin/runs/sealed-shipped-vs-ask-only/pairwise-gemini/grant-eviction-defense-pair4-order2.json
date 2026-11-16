@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-32Z",
+  "without_skill_run": "2026-11-16T21-22-09Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly hits the standard grant rubric criteria by clearly projecting the new hire's measurable impact (160 additional cases) and committing to specific reporting and baseline data collection. Document A muddles the pitch by framing the grant as a stopgap for a departing staff member rather than an expansion, and it relies on an unrealistic hiring timeline given the May award date and June departure."
+}

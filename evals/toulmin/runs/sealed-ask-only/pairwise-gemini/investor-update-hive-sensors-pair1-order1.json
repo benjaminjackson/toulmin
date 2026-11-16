@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes the actual terms of the bridge, the $250k anchor commitment, the burn reduction plan, and the specific product differentiators against the new competitor, whereas Document B leaves critical details as unfilled placeholders. Document A also builds credibility by being honest about not having a path to profitability next year rather than making an unsupported promise."
+}

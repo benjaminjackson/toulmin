@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-09-03Z",
+  "without_skill_run": "2026-11-16T21-34-24Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A puts a real name and boat to the comment and handles the risk of closures with striking honesty ('I can't tell you how many of our 11 boats would close. I can tell you it won't be none'), which builds high credibility with a commission tired of hyperbole. Document B also makes a minor factual assumption not in the record by claiming the 2016 cut only ran for one year."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-36-25Z",
+  "without_skill_run": "2026-11-16T21-22-34Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "As someone wary of health promises, Document B won my trust by explicitly stating that the A1C numbers weren't a study, came from people who chose to share, and didn't account for medication changes. Saying 'What I can promise is what's on your plate' felt grounded and realistic after my past failures with apps and meal services, making me comfortable enough to try the $59 week."
+}

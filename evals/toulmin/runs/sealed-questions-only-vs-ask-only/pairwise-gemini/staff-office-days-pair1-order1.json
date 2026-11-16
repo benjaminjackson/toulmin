@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-35-44Z",
+  "without_skill_run": "2026-11-16T21-22-08Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A answers the immediate practical questions I and my coworkers would have—like whether there are even enough desks for all 46 of us and when Friday's meeting is—and uses the fact that five of six project leads are already in three days a week to make a concrete, non-blaming case for why junior staff are missing out. Document B leaves out the desk situation and meeting details, while adding generic explanations about how mentorship works."
+}

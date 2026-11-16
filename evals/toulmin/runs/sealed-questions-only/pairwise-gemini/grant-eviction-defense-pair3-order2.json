@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-43Z",
+  "without_skill_run": "2026-11-16T21-02-51Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B provides the actual financial commitments, outcome evaluation plans, and staffing details I need to score the rubric, whereas Document A leaves critical budget and staffing questions as blank placeholders. Even though Document B frames the grant as maintaining capacity rather than expanding to a third attorney, its transparency about the matching funds, training plan, and data collection makes it a much more credible and complete application."
+}

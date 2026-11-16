@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins because it includes the $11,000 in local business pledges (meaning the town only needs to raise $49,000, which it already surpassed last time) and explicitly guarantees an all-or-nothing refund policy for this campaign. Document B fails to promise that my money will be refunded if this campaign falls short and leaves an unedited '[Bank name]' placeholder in the text."
+}

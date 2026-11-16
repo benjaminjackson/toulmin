@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-21-14Z",
+  "without_skill_run": "2026-11-16T21-06-50Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins me over because it offers to share actual purchase invoices, admits that they recover some losses on brand-name drugs, and doesn't pretend the nine recent closures were all due to our rates. It also directly challenges my assumption that members can just use chain pharmacies by pointing out that in 14 counties the nearest chain is over 20 miles away."
+}

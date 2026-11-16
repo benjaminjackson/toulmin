@@ -1,0 +1,17 @@
+{
+  "task": "public-comment-catch-limit",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-34-24Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "and I've never gotten back to 170.",
+      "why": "The brief gives trip numbers for 2016 (170), the next season (138), two years later (155), and a current average of about 160 trips a season, but does not say whether bookings ever reached 170 in any other year since 2016."
+    },
+    {
+      "quote": "I can tell you it won't be none.",
+      "why": "The user only knows his own books, cannot say how many boats would close, and only knows what two other captains told him they would do if bookings drop like they did in 2016."
+    }
+  ],
+  "invented_count": 2
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-phd-applicant",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-24-08Z",
+  "without_skill_run": "2026-11-16T21-09-09Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins me over because it gives a concrete ranking ('one of the three best students I have taught' in 17 years) and includes external validation from a state lab supervisor who let her run water sampling alone for two weeks. Document A relies on generic filler about her summer internship and fabricates a discussion about her study's second season that wasn't in the facts."
+}

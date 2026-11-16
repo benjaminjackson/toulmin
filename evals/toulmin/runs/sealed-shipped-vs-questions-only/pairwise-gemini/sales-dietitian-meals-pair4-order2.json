@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-11-22Z",
+  "without_skill_run": "2026-11-16T21-38-19Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B immediately wins my trust by openly admitting that 14 people is a small sample size and that she doesn't track whether those customers changed their medications. Furthermore, Document A implies the average 0.6-point drop applies only to the 10 people whose A1C went down, whereas Document B stays strictly honest to the facts by stating the average is across all 14."
+}

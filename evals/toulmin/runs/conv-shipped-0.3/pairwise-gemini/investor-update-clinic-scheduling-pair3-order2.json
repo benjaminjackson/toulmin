@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-24-38Z",
+  "without_skill_run": "2026-11-16T20-01-54Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly owns up to why the founder went dark, commits to a specific date for the next update, and provides complete, transparent numbers regarding customer risk and initial traction for the new product. Document A leaves in template placeholders and offers a generic, brush-off apology that fails to rebuild my trust."
+}

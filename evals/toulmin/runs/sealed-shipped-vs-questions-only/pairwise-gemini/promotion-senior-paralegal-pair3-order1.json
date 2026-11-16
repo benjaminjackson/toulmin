@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-06-56Z",
+  "without_skill_run": "2026-11-16T21-33-54Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B frames the March deadline error and subsequent system fix directly as the kind of systems-level thinking needed in a supervisor, whereas Document A says 'You should also hear this from me' about an incident I already raised in her last review. Document B also integrates the facts more naturally than Document A, which connects the departing paralegal to the weekly check-ins in a slightly forced way."
+}

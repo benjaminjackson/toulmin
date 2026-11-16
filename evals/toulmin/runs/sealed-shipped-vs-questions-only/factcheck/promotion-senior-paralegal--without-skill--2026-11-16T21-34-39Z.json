@@ -1,0 +1,17 @@
+{
+  "task": "promotion-senior-paralegal",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-34-39Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "making sure the group never misses a deadline",
+      "why": "The brief only states that the senior paralegal supervises the other paralegals, not that the role specifically includes making sure the group never misses a deadline."
+    },
+    {
+      "quote": "Completing the state paralegal certification by June 2027.",
+      "why": "The user only stated they could finish the certification by \"next June\", without specifying the year 2027."
+    }
+  ],
+  "invented_count": 2
+}

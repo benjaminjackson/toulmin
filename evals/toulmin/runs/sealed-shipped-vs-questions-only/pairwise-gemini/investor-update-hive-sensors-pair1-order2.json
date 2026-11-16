@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B frames the bridge round around a clear strategic milestone: getting through the spring selling season to prove customers prefer our product over the cheaper competitor. Although Document A includes a welcome commitment to monthly cash reports, its financial math is flawed because it confuses top-line revenue with gross profit when calculating break-even."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-lease-renewal",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-04-31Z",
+  "without_skill_run": "2026-11-16T21-19-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses my ongoing frustration with the 2024 late payments by offering automatic bank transfers on the 1st of the month, and it promises a signed lease within two weeks. It also makes a sharp point that leasing to the coffee chain would waste the $40,000 hood system already installed in the unit."
+}

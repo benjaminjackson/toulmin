@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-lease-renewal",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-58Z",
+  "without_skill_run": "2026-11-16T21-21-14Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B frames the bullet points around concrete terms the tenant is offering me now, whereas Document A's bullet points read a bit like a lecture on why I'm wrong. Document A also bizarrely points out that a new restaurant would spend $40,000 to install a hood system—which actually reminds me how valuable my newly upgraded space would be to a new tenant, working against the writer's case."
+}

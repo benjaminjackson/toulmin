@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-25-27Z",
+  "without_skill_run": "2026-11-16T20-05-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly relieves my biggest worry about firing my cousin by explaining that she doesn't do tax returns and my cousin can keep doing those with clean books from her. Knowing her name, that she actually managed a salon for six years, and that there is no contract makes jumping from $600 a year to $199 a month feel much safer to explore."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-23-08Z",
+  "without_skill_run": "2026-11-16T21-09-49Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B provides concrete concessions that make this difficult change easier to accept—specifically the $150/month commuting stipend and the six-month policy review—while being honest about the lack of further exceptions rather than giving false hope. However, it makes a confusing date error by putting the start date in September 2027 (giving the 2-hour-plus commuters only four months of grace until the end of 2027, rather than until the end of next year), making this only a slight win over Document A."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-05-35Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A connects the fix for the March deadline error directly to the mindset needed to supervise others, which directly addresses my biggest reservation about promoting her. It is also ready to send with real names and specific review dates, whereas B leaves placeholders and awkwardly brings up pay before I've even agreed to the promotion."
+}

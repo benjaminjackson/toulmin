@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-phd-applicant",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-09-36Z",
+  "without_skill_run": "2026-11-16T21-37-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B includes the applicant's full name rather than a template placeholder, and its dedicated, candid paragraph detailing the exact scientific limitations of the thesis makes the letter writer from an unknown small college immediately credible. By avoids pleading with the committee over a lack of publications and instead letting the concrete rigor of the fieldwork speak for itself, Document B reads as a much more professional endorsement."
+}

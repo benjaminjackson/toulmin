@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-06-16Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both comments do an excellent job of conceding our staff's stock data upfront, offering concrete alternatives and data-sharing commitments, and avoiding the exaggerated doom-saying we hear at every meeting. Document A edges out Document B because it includes the specific three-year duration of the proposed cut to show compounding economic harm, and it makes a specific procedural request for our staff to model the alternatives before next month's vote rather than vaguely claiming those alternatives will let the stock recover."
+}

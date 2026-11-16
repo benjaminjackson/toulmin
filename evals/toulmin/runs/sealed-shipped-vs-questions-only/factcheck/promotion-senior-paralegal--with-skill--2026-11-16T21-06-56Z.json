@@ -1,0 +1,17 @@
+{
+  "task": "promotion-senior-paralegal",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-06-56Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "complete the state paralegal certification by June 2027",
+      "why": "The provided information only states she can finish the certification \"by next June\" and does not give the current year or specify 2027."
+    },
+    {
+      "quote": "the supervision and training I already do",
+      "why": "The brief states that she trained three newly hired paralegals and added a second-person check to a tracking sheet, but does not state that she already supervises the other paralegals."
+    }
+  ],
+  "invented_count": 2
+}

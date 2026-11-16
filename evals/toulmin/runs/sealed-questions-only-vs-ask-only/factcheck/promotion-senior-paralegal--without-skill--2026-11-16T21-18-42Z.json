@@ -1,0 +1,17 @@
+{
+  "task": "promotion-senior-paralegal",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-18-42Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "That sheet was also where I made my most serious mistake.",
+      "why": "Neither the brief nor the user's notes state that the March filing deadline error was the most serious mistake of her career."
+    },
+    {
+      "quote": "I'm sending this ahead of the December 15 deadline so we have time to talk it over.",
+      "why": "While the user's notes say requests are due December 15, nothing indicates when the email is being sent or that it is being sent early."
+    }
+  ],
+  "invented_count": 2
+}

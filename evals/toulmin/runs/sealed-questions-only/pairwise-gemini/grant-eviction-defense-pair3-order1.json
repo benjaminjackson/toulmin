@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-43Z",
+  "without_skill_run": "2026-11-16T21-02-51Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A provides the concrete budget numbers, transition plan, and reporting commitments I need to score a rubric, though it strangely frames the request as replacing the departing attorney rather than adding a third. Document B correctly frames the hire as a third attorney, but leaves all the crucial funding and staffing details as unfinished bracketed placeholders, making it impossible to score."
+}

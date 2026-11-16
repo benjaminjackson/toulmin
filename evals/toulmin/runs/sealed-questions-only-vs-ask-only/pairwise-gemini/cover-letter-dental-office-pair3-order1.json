@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-dental-office",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-33-52Z",
+  "without_skill_run": "2026-11-16T21-20-07Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A includes a named reference from the head vet, which reassures me that her 11-year track record is real despite the seven-year gap. However, seeing 'two weeks' notice' in Document A makes me wince right now since my last manager just left me in the lurch with two weeks' notice, making Document B's cleaner framing a close contender."
+}

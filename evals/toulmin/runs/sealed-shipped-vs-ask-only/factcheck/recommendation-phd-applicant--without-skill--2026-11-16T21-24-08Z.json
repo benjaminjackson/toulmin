@@ -1,0 +1,17 @@
+{
+  "task": "recommendation-phd-applicant",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-24-08Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "where she discussed it with researchers outside our college",
+      "why": "The brief only states that she presented the work as a poster at a regional conference, not whom she discussed it with there."
+    },
+    {
+      "quote": "Her supervisor there told me he would hire her again without hesitation.",
+      "why": "The user only stated that the supervisor said he would hire her again, not that he would do so \"without hesitation.\""
+    }
+  ],
+  "invented_count": 2
+}

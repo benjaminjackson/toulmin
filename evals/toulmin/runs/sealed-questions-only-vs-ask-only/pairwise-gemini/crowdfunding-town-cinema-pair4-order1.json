@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-town-cinema",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-54Z",
+  "without_skill_run": "2026-11-16T21-21-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes the $11,000 pledged by three local businesses, which brings the remaining public goal down to $49,000—almost identical to the $47,000 we actually raised last time. Knowing this campaign is genuinely within reach, combined with the promise of a Thanksgiving reopening and quarterly spending reports at the library, makes me feel confident enough to chip in a small amount even on a tight month."
+}

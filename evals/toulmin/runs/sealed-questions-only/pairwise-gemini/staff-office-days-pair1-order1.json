@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-35-44Z",
+  "without_skill_run": "2026-11-16T21-09-16Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes critical practical details that Document B leaves out—specifically the $150 commuting stipend, the arrival of new desks, the six-month policy review, and the fact that project leads are already in the office. Knowing about the financial support, logistics, and upcoming review makes a tough mandate feel much more thought-out and fair."
+}

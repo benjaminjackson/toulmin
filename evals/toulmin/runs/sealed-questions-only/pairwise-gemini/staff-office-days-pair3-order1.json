@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-37-50Z",
+  "without_skill_run": "2026-11-16T21-10-19Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes critical practical details that directly affect my decision to stay—such as the $150 commuting stipend, the desk situation, and the six-month policy review—while taking a more empathetic, accountable tone. Note that both documents make an error on the date for the four long-distance staff: 'the end of next year' after September 2027 should be December 2028, not December 2027."
+}

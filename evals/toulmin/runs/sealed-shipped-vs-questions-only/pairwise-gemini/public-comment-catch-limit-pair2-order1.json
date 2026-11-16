@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-07-41Z",
+  "without_skill_run": "2026-11-16T21-33-15Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document B builds exceptional credibility with commissioners who hear routine complaints at every meeting by admitting upfront that 70% of his upcoming season is already booked and explicitly stating he cannot predict how many boats will close. Furthermore, his concrete offers to share trip logs and test a catch-reporting app give us real reason to work with the charter association on a compromise like a shorter season or 3-fish limit."
+}

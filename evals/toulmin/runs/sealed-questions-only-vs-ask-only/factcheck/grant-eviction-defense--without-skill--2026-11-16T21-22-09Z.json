@@ -1,0 +1,17 @@
+{
+  "task": "grant-eviction-defense",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-22-09Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The position does not depend on our $60,000 county contract",
+      "why": "The provided information states that $13,000 a year for the position comes from the general budget and the county gives $60,000 a year, but it does not state whether the general budget or the new position depends on the county contract."
+    },
+    {
+      "quote": "which comes up for renewal in October 2027.",
+      "why": "The brief states the county contract is up for renewal in October, but does not specify the year 2027."
+    }
+  ],
+  "invented_count": 2
+}

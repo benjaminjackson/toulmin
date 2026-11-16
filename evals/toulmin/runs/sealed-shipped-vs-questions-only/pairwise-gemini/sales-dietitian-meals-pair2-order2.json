@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-09-05Z",
+  "without_skill_run": "2026-11-16T21-36-25Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both documents win my trust by refusing to overpromise on A1C results and acknowledging that medication changes weren't tracked, which is refreshing after being burned before. However, Document A sticks strictly to the facts, whereas Document B implies Lena can accommodate allergies and lacks an action button near the top."
+}

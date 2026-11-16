@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-21-43Z",
+  "without_skill_run": "2026-11-16T21-08-31Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Because I've quit other meal services and apps before, Document B's specific details—that I can swap meals for 6 other choices, skip weeks or cancel anytime with no contract, and that the dietitian gives her actual name—make me feel much safer trying it out. Both documents are refreshingly honest about the A1C numbers without making big medical promises, which earns my trust."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-45Z",
+  "without_skill_run": "2026-11-16T21-03-05Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B builds immediate trust by addressing the competitive threat head-on with actual product differentiation, committing to concrete cost cuts, and being honest about profitability instead of making promises the current sales pace cannot support. It also provides the specific bridge terms and existing $250k commitment I need to evaluate the deal, whereas Document A leaves critical numbers and strategies as blank placeholders."
+}

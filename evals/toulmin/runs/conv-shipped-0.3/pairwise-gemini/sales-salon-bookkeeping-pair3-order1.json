@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-27-23Z",
+  "without_skill_run": "2026-11-16T20-06-39Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins me over because Carla explicitly states she doesn't do income tax returns—meaning I wouldn't have to fire my cousin—and knowing she actually managed a salon for six years makes me trust she understands my business. Plus, knowing there's no contract, a money-back guarantee if she's late, and a clear reason for her price increase makes booking a call feel completely safe."
+}

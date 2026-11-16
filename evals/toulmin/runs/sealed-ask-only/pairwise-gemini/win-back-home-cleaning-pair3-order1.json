@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-23-39Z",
+  "without_skill_run": "2026-11-16T21-10-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes the real company details, the $99 offer in the subject line, and the specific proof that only 1 of 18 cleaners has left since July. Document B leaves in placeholder text, lacks a clear deadline or contact method, and falsely claims I complained about cleaner turnover when I only left for a cheaper price."
+}

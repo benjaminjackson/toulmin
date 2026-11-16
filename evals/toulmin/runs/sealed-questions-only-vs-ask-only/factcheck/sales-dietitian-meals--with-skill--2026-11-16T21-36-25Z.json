@@ -1,0 +1,8 @@
+{
+  "task": "sales-dietitian-meals",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-36-25Z",
+  "checker": "gemini-4-argon",
+  "invented": [],
+  "invented_count": 0
+}

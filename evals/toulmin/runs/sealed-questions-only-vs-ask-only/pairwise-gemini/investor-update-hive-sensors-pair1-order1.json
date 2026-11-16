@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-hive-sensors",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As an existing investor worried about slow sales and tight cash, Document A wins me over by offering a concrete monthly cash report to bridge participants, which Document B leaves out. Document A also clearly lays out the math on what is needed to reach breakeven rather than just saying there is no plan for profitability."
+}

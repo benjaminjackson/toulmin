@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-26-49Z",
+  "without_skill_run": "2026-11-16T20-06-53Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes the exact commitments that would actually get us to try the phone center instead of walking away—specifically that seniority gets first pick of shifts and that we have a six-month trial period where we can still keep our full severance if we hate it. It also acknowledges the elephant in the room about the phone team's high turnover and avoids saying this is better for everyone, whereas Document B leaves out those protections and only gives us unfilled placeholders for dates and locations."
+}

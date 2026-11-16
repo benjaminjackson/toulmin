@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-phd-applicant",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-07-29Z",
+  "without_skill_run": "2026-11-16T21-35-27Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters win my trust by quantifying the student's rank against a 17-year baseline and honestly assessing the limitations of her thesis rather than overhyping it. Document A is slightly more persuasive because its assessment of publication potential ('with a second season of data I expect the work could reach a peer-reviewed journal') is more precise and realistic than Document B's unqualified 'I expect this work to lead to a publication.'"
+}

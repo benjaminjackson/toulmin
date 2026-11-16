@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A wins my trust by proactively acknowledging that pharmacies make up part of the generic loss on brand-name drugs, whereas Document B falsely claims they are losing money 'every time' they serve a member. However, Document A slips up by stating 'That covers only part of it,' which goes beyond what the writer actually knows about their brand-name margins."
+}

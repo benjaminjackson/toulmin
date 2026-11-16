@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-eviction-defense",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-06-32Z",
+  "without_skill_run": "2026-11-16T21-22-09Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A hits every item on my scoring rubric—clear expansion deliverables, matching funds, six-month reporting, and a plan to gather baseline comparison data—without inventing facts. Document B muddies the waters by framing the request as a replacement hire rather than a third attorney, omits the evaluation and reporting commitments, and invents an October 2027 renewal date."
+}

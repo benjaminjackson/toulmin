@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-20-22Z",
+  "without_skill_run": "2026-11-16T21-06-02Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly challenges my assumptions with hard evidence, noting that chain pharmacies are over 20 miles away in 14 counties and offering to share actual purchase invoices to prove their losses. It also builds credibility by admitting what it doesn't know about past closures and acknowledging brand-name margins, whereas Document A feels like standard lobbying that I would easily dismiss."
+}

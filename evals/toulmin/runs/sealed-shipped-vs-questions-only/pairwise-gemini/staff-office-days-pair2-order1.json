@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-10-04Z",
+  "without_skill_run": "2026-11-16T21-36-44Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both documents make the exact same serious timeline error—interpreting 'the end of next year' as the end of the same year the September policy starts (giving the four distant employees only four months of remote work before their one-day-a-week requirement begins, and stating this is 'more than nine months ahead'). However, Document B is slightly more persuasive because it mentions that five of the six project leads are already in the studio three days a week, which makes the promise of in-person mentorship feel real, whereas Document A's closing line ('if this change raises questions about whether the job still works for you') reads like a cold invitation to quit."
+}
