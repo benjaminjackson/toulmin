@@ -1,0 +1,55 @@
+I've written the memo, but I changed one thing you asked for. It presents replacing ad revenue within a year as a **target with milestones**, not a promise. Here's the math behind that:
+
+- **What full replacement takes:** $84,000 ÷ $96 a year is about **875 paying members**, which is 6.25% of your newsletter list.
+- **What the pilot shows:** 212 sign-ups with almost no marketing is about 1.5% of the list in 6 weeks. That's strong, so 875 is believable. But you don't yet know how many of those 212 are still paying.
+- **The first-year gap:** Even if you reach 875 by December, members join gradually through the year. Year-one membership income would be roughly $50–55K, not $84K. A flat "it will replace ads" claim would be wrong for most of the year.
+- **Your board:** Your two advertising and sales members will run these numbers. Showing them the math and the risk yourself makes you more credible and makes approval more likely.
+
+Other choices I made:
+- **The peer newsroom:** I kept it brief. You don't know their budget or how long it took them, so it works as encouragement, not proof.
+- **The ad decline:** If ads keep falling at about 20% a year, they'd bring in about $67K next year. I used that because it makes your case stronger.
+- **Your ad salesperson:** I put in brackets so you decide their role. My suggestion is a membership and sponsorships role if they want it. The board will ask, and the memo shouldn't skip it.
+
+Fill in the bracketed items before sending.
+
+<final_document>
+**MEMO**
+
+**To:** Board of Directors
+**From:** [Name], Executive Director
+**Date:** [Date]
+**Re:** Proposal to replace display advertising with reader membership, starting January
+
+**Request**
+I'm asking the board to approve ending display advertising and launching a reader membership program on January 1.
+
+**Why change now**
+Display ads brought in $84,000 last year, down from $131,000 two years ago. That's a 36% drop. If it keeps falling at the same rate, ads will bring in about $67,000 next year, and they'll keep shrinking. We would be spending staff time on a source of income we can't control and that is going away.
+
+**What the pilot showed**
+This spring we ran a 6-week membership test at $8 a month. **212 readers signed up**, and our only promotion was two mentions in the newsletter. That's 1.5% of our 14,000 newsletter subscribers, reached with almost no effort. [Add: number of pilot members still paying today.] A peer newsroom of our size in another state reports that membership now covers 40% of its budget.
+
+**The goal and the math**
+Replacing $84,000 takes about **875 members** at $8 a month, or 6.25% of our newsletter list. My goal is to reach that number by December 2027, using real promotion: regular newsletter asks, prompts on the website, and a year-end campaign.
+
+Members will join over the course of the year, not all at once. So first-year membership income will be lower than the annual figure. I estimate **$50,000–$55,000 in year one**, with a full $84,000 annual pace by year end. To cover the gap, I propose [a bridge from reserves / a targeted donor ask / a foundation request] of up to **$[X]**.
+
+**Milestones the board can hold me to**
+
+| Date | Paying members | Annual pace |
+|---|---|---|
+| March 31 | 400 | $38,400 |
+| June 30 | 600 | $57,600 |
+| December 31 | 875 | $84,000 |
+
+If we fall more than 25% behind at June 30, I'll come back to the board with options. These include raising prices, adding sponsorships, or adding back a limited amount of advertising.
+
+**Staffing**
+[Name], our part-time ad sales lead, has been with us for 11 years. I propose [moving them into a membership and sponsorships role / describe plan], which keeps their relationships and experience in-house.
+
+**Costs**
+Membership platform and payment fees: about $[X] a year. [Add any other costs.]
+
+**Decision requested**
+Approve ending display advertising and launching membership on January 1, with the milestone reviews above.
+</final_document>

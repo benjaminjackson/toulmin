@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T17:56:09.193255+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 312
+  tags: []
+  notes: extracted 312 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 7
+    objections: 6
+    fit: 7
+  details:
+    agree: A retired homeowner who has read the 'blank check' letter gets a clear
+      rate, a fixed end date, a named use for the money, and a concrete local loss
+      in July, which could move some but probably not most of a prior no-voter.
+    honest: "The math is correct ($640,000 \xD7 0.19/1,000 \u2248 $10.13 a month)\
+      \ and the misleading coffee line is rightly dropped, but 'many of the people\
+      \ who use this branch are retirees' is invented and 'busier than ever' stretches\
+      \ a 22% rise since 2021."
+    works_the_facts: It works out the Ridgeview-specific monthly and daily cost and
+      recasts 'failed 48 to 52' as 'by four points', though it leaves the $2.3 million
+      a year unused, along with the annual figure (~$122) that a fixed-income reader
+      might want.
+    right_comparison: 'It states the no-vote alternative plainly: the Ridgeview branch
+      closes in July, Sunday hours stay gone, and visits are rising. It could tie
+      the closure more sharply to that growing use.'
+    qualification: 'The conditional consequence is specific and checkable: if the
+      measure doesn''t pass, the branch closes in July, and the six-year term is stated
+      with its end. Few other hedges are needed, and none are vague.'
+    objections: It meets the 'blank check' and fixed-income objections directly with
+      the brief's facts, but the fixed-income reply leans on an invented claim about
+      retirees, and the renter rebuttal is of little use in a precinct of homeowners.
+    fit: "The core pitch runs about 60\u201390 seconds and the structure suits a card,\
+      \ though the objection section makes one side of a card tight."

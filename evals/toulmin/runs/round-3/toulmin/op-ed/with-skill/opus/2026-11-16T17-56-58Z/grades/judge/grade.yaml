@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T17:58:05.915472+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 600
+  tags: []
+  notes: extracted 600 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 4
+    objections: 6
+    fit: 9
+  details:
+    agree: The nurse's own visit log and the neighbouring district's results make
+      a credible case, but a parent who works an 8 a.m. shift gets only a promise
+      of a future plan, so a resistant reader may not be won over.
+    honest: 'The piece honestly turns down the brief''s request to promise a higher
+      graduation rate, but it makes two small overreaches: "It''s also why" ties the
+      AAP recommendation to the local survey, and "every high school student can actually
+      use" first period overstates.'
+    works_the_facts: It works out several useful figures (the 369 combined total,
+      "nearly three in four," "one in six"), but it never puts the $180,000 into a
+      per-student or per-day cost, which would have made it look smaller.
+    right_comparison: The status quo is described fairly as more of the same first-period
+      problems, and the brief has no trend data the piece leaves out.
+    qualification: The hedges ("won't claim a bell schedule alone will change that
+      number," a childcare plan "before the change takes effect") give no date, number
+      or consequence that a reader could check.
+    objections: It takes on cost, athletics and parent drop-off directly, but it never
+      answers the practices-after-dark point and it pushes the working-parent gap
+      off to a later district plan.
+    fit: This is a properly structured op-ed with a headline and byline, and at about
+      625 words it is under the 650-word limit.

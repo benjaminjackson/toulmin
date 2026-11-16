@@ -1,0 +1,57 @@
+I wrote the op-ed, but I didn't make a flat promise that graduation will go up, because your facts don't support it yet.
+
+**The gap.** Nothing you have measures graduation. The nearby district reported fewer tardies (down 31%) and slightly better attendance (up "about a point"). The 84% is only where you are now. The board will hear the bold version, and someone is likely to ask, "Did their graduation rate go up?" You have no answer to that, and the whole piece would be judged on it.
+
+**What your facts do support.** Kids miss first period, or sit in it exhausted, far more than any other period. The nearby district shows a later start brings them into class. Being in class is the first step toward graduating. So I made graduation the reason it matters, not a promise. I also gave the board a way to check: measure tardies, attendance and nurse visits after one year, and graduation when the first class finishes four years under the new times.
+
+If you'd rather go bold, it's mostly two sentences in paragraph 5. I'd still keep the qualified version, because readers who might be on the fence will believe it.
+
+**How I built the argument:**
+- **Claim:** The board should vote yes on 8:30 on April 14, because it targets the first-period problem that stands between some students and a diploma.
+- **Grounds:**
+  - 412 first-period visits, compared with 198 and 171 in second and third period. That's more than both combined and more than twice either one.
+  - 640 of 890 students (72%, nearly three in four) said they sleep under 7 hours.
+  - At the nearby district, tardies fell 31% and attendance rose about a point.
+  - An 84% graduation rate means about 1 in 6 students doesn't finish in four years.
+- **Warrant:** Students who are in class and awake at the start of the day are more likely to stay on track.
+- **Backing:** The American Academy of Pediatrics recommendation.
+- **Rebuttals:** Practices ending after dark, athletes missing last period, parents' 8 a.m. shifts, and the $180,000.
+
+**Things to check before you submit:**
+- I added one line saying that teenagers' body clocks run later. That's the main reason behind the AAP recommendation, but you didn't give it to me, so confirm it or cut it.
+- Your survey only counts students who answered, so the piece says "of the 890 who answered" and doesn't claim it covers the whole school.
+- Your facts don't answer the athletics, drop-off or cost objections. The piece admits they're real and weighs them against what the current schedule costs. It also asks the district to say what it will do for families with early drop-offs. If you know of an actual plan (opening the building early, a supervised room, lighted fields), adding it would make the piece stronger.
+- The superintendent's "about a point" is kept as their own words and credited to them.
+- Fill in your name and school in the byline.
+
+The piece is about 630 words.
+
+<final_document>
+**Our high school starts too early. On April 14, the board can fix that.**
+
+Every school morning I see what a 7:25 start does to our students.
+
+Last fall I logged 412 visits to my office during first period: headaches, stomachaches, kids who could not keep their eyes open. Second period brought 198. Third brought 171. First period alone sent me more students than the next two periods combined, and more than twice as many as either one.
+
+These are not kids gaming the system. They are kids short on sleep. When our health class surveyed students, 640 of the 890 who answered, nearly three in four, said they sleep less than seven hours on a school night. Teenagers' body clocks run later than adults' do, which is why the American Academy of Pediatrics recommends that high schools start no earlier than 8:30. We start more than an hour before that.
+
+On April 14 the school board votes on moving our start time to 8:30. I am asking board members to vote yes.
+
+We don't have to guess what happens next. A district two counties over made the same change three years ago. Their first-period tardies fell 31 percent, and their superintendent told our board that attendance went up "about a point."
+
+That matters for the number this community cares about most: our four-year graduation rate, which stands at 84 percent. About one student in six does not finish on time. Students rarely fall off track in a single day. They fall behind one missed first period, one class slept through, one morning on a cot in my office at a time. A later start will not close that gap on its own, and I won't claim the neighboring district has proved it will. But it goes straight at the first step toward a diploma: being in class, and awake, when the day begins.
+
+The objections to this change are real, and they deserve a straight answer.
+
+Our athletic director is right that from November on, practices would end after dark, and that away games would pull athletes out of last period. Many parents drop their kids off on the way to 8 a.m. shifts, and a later start makes those mornings harder. The district estimates the new bus contract would cost $180,000 a year.
+
+Those costs land on some students and some families, some of the time. The cost of the schedule we have now lands on most of our students every morning, and athletes are in those hallways at 7:25 too. Missing last period for an away game is a problem. Starting every school day short on sleep is a bigger one. Families who depend on an early drop-off deserve a plan, and before it votes, the board should ask the district exactly what it will offer them.
+
+As for the $180,000: it is real money in a tight budget, and the board will have to decide whether it is worth spending. Here is what I would weigh it against: 412 first-period trips to my office in a single fall, each one a class a student wasn't in.
+
+I'd also ask the board to do more than vote. Commit to measuring the results. Report first-period tardies, attendance and nurse visits after the first year, and report the graduation rate when the first class to spend four full years on the later schedule walks across the stage. If those numbers don't move, the board will know it, and so will the rest of us. If they do, we will have done right by every student who now spends first period with their head on a desk or in a chair outside my door.
+
+I see our students at their most tired, before most adults in this building see them at all. Seven twenty-five is too early. On April 14, I hope the board agrees.
+
+*[Name] is the school nurse at [School].*
+</final_document>

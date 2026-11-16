@@ -1,0 +1,43 @@
+I didn't write the line saying their gift guarantees every child a place. Your own numbers rule it out:
+
+- **What the guarantee would take:** 61 children × $1,150 = **$70,150**.
+- **The most this list could raise:** if all 340 lapsed donors gave their average $85, that's $28,900. With the full $15,000 match it comes to $43,900, which pays for about 38 children, not 61.
+- **What happened last year:** 9 gifts totaling $1,240. Even doubled by the match, that's about 2 children.
+- **Who will notice:** your former board member forwards these emails with comments. In January she'll be able to point out that children are still waiting, and that would hurt you with the people you most want back.
+
+So the draft makes a narrower claim that the numbers support. Matched, $575 pays for one child's full year. If returning donors give the full $15,000, the match brings it to $30,000, which pays for 26 children starting in January. The match is offered only to returning donors, so it's the strongest reason this group has to give now.
+
+The draft brings up the Eastside closure before the ask, because many of these readers are still holding it against you. It doesn't explain why you closed or what Eastside families have done since, because you didn't tell me. If any children on the waiting list are from Eastside, or Eastside families are being served some other way, one sentence about it would make the email much stronger.
+
+A reality check on the target: reaching the full $15,000 at about $85 a gift means roughly 175 gifts. Last year you got 9. That's why the email points to $575 as a full year for one child, and doesn't present filling the match as likely.
+
+The body is about 215 words. Fill in the bracketed names and the link.
+
+<final_document>
+Subject: 61 kids are waiting, and this month your gift counts twice
+
+Dear [First name],
+
+You used to give to [School name], and then you stopped. For many of you, that was after we closed our Eastside branch in 2022. Some of you told us plainly how you felt, and I understand why. I'm not writing to argue about that. I'm writing because of who is waiting now.
+
+Sixty-one children are on our waiting list for subsidized lessons. A year of weekly lessons costs us $1,150 per child.
+
+This month, a family foundation will match every gift from a returning donor dollar for dollar, up to $15,000, through December 31. Because you've given before, your gift qualifies.
+
+Here is what that means:
+
+- $85 becomes $170.
+- $575 becomes $1,150, which pays for a full year of weekly lessons for one child.
+- If returning donors give the full $15,000, the match turns it into $30,000, enough for 26 children to start lessons in January.
+
+That won't clear the whole list, and I won't pretend it will. But it would mean 26 children start lessons in January instead of waiting, and that happens only if people like you come back.
+
+We don't receive any part of the match that goes unmet, and those children keep waiting.
+
+[Give now. Your gift is matched through December 31.]
+
+With thanks,
+
+[Executive Director's name]
+Executive Director, [School name]
+</final_document>

@@ -1,0 +1,28 @@
+I didn't use "we cut picking errors in half" as a blanket claim. Only one of your three customers with error data got to half (4.1 to 1.9). Another went from 2.8 to 2.2, which is about a 21% drop. Dana runs 5 warehouses and has $600K at stake, so she may ask for references. If the second customer comes up, the blanket claim falls apart and so does her trust in you. So the draft names the result and who got it. 4.1 to 1.9 is a strong number, and tying it to a real distributor of similar size makes it more believable.
+
+**Before you send:**
+- **The WMS line:** I wrote that it "sits on top of" her system, which is what you told me. If setup needs any integration work, like an API connection, data feed or IT approval, don't hint that it doesn't. Her IT director will find out on the first call. If it really is close to zero-touch for IT, say that outright. It's the main objection you'll face.
+- **The price line:** $75K a year for all 5 sites, set against $600K+ in losses. I left out a projected savings figure because you can't promise she'll halve her errors.
+- Fill in the brackets.
+
+<final_document>
+Subject: Wrong-item returns at [Company]
+
+Hi Dana,
+
+Last spring you told [Magazine] that wrong-item returns cost [Company] north of $600,000 a year. That's the problem we work on.
+
+With [Product], pickers scan each item with a phone camera, and it flags a wrong item before the box is closed.
+
+A regional pet-supply distributor with 3 warehouses went from 4.1 mis-picks per 1,000 order lines to 1.9 in their first five months.
+
+It doesn't replace your warehouse management system. It sits on top of it. Setup takes about 3 weeks.
+
+For all five of your sites it would cost $75,000 a year.
+
+Would a 20-minute call be worth it to see if it fits?
+
+[Your name]
+Co-founder, [Company name]
+[Phone]
+</final_document>

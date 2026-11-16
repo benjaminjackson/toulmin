@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T17:56:14.078418+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 481
+  tags: []
+  notes: extracted 481 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 8
+    objections: 5
+    fit: 8
+  details:
+    agree: The arithmetic, the June checkpoint, the open admission of a $32,000 first-year
+      shortfall and the offer to the ad sales lead will persuade most of the board,
+      but the two ad-background members will still ask why ads can't run alongside
+      membership, and the memo never answers that.
+    honest: The firm 'will replace within a year' is offered as a commitment and the
+      risks are stated, but 'so the model works at our scale' rests on one anecdote,
+      'already shown it can grow faster' rests on a six-week pilot of the keenest
+      readers, and the job offer and 'knows our readers better than anyone' are not
+      in the brief.
+    works_the_facts: It derives the 20% annual decline, the 150-a-month pilot pace,
+      the 875 target, the 55-a-month pace needed, the 540 midpoint and the roughly
+      $52,000 2027 membership income correctly, but it calls the next year of decline
+      (about $67,000) '2027' when 2026 sits in between.
+    right_comparison: Doing nothing is shown as a falling trend with a projected figure
+      and the year-one cash gap is set against it, though the projection skips a year
+      and the hybrid option of keeping ads alongside membership is never considered.
+    qualification: The checkpoint gives a number (540), a date (30 June 2027) and
+      a consequence (a revised plan within 30 days), all of which the board can check,
+      though the consequence is fairly soft.
+    objections: It deals well with the ad sales lead, churn and the cash dip, but
+      leaves out the objection the ad-background members are most likely to raise,
+      which is why ads must stop entirely rather than run in parallel.
+    fit: It is a clean board memo with the decision up front, and it is about one
+      page, though slightly dense for that limit.

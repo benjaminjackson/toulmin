@@ -1,0 +1,31 @@
+I didn't write "we cut picking errors in half" as a general claim. Here's why, and what I wrote instead.
+
+- **What your numbers show:** your biggest customer went from 4.1 to 1.9, a drop of 54%. The only other customer with numbers went from 2.8 to 2.2, a drop of 21%. So "in half" is true for one customer out of two, not for your product in general. An operations VP who asks "is that typical?" would catch it, and you'd lose her trust early.
+- **What I used instead:** "more than half" for the named customer, with the second result next to it. Then I compared both results to the price. Five sites cost $75,000 a year, about 12.5% of her $600K. Even your smaller 21% result would be worth about $126K a year to her. So you don't need the bold claim. Your weaker result still pays for the product. If you'd still rather lead with "cut errors in half," attach it to the pet-supply customer by name.
+- **The IT director:** the email tells her early that you don't replace or change her warehouse system, and that setup takes about 3 weeks. That gives her an answer before she takes it to him. I didn't mention him or what you've heard about him.
+
+Things to check before sending:
+- The $126K figure assumes her return costs go down at the same rate as her mis-picks. That's reasonable, but she may push back on it.
+- Fill in the magazine name, your name and your company.
+- I asked for a call, not a pilot, because you didn't mention offering one.
+
+<final_document>
+Subject: Your $600K in wrong-item returns
+
+Hi Dana,
+
+Last spring you told [Magazine] that wrong-item returns cost your company "north of $600,000 a year." That's the problem we solve.
+
+Pickers scan each item with a phone camera, and our software flags a wrong item before the box is closed.
+
+Our largest customer is a pet-supply distributor with three warehouses. In their first five months, they went from 4.1 mis-picks per 1,000 order lines to 1.9, which cut their errors by more than half. Another customer went from 2.8 to 2.2.
+
+For your five sites, we'd cost $75,000 a year. Even our smaller result, a drop of about 20%, would be worth around $120,000 a year at your numbers.
+
+We don't replace or change your warehouse system. We sit on top of it, and setup takes about three weeks.
+
+Would you have 20 minutes for a call to see whether your numbers would look like theirs?
+
+[Your name]
+Co-founder, [Company]
+</final_document>

@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T17:57:34.854383+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 339
+  tags: []
+  notes: extracted 339 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 8
+    qualification: 7
+    objections: 8
+    fit: 7
+  details:
+    agree: The local stake (my branch closes in July) and the plain admission that
+      $10 a month is real money give a fixed-income former no voter a reason to reconsider,
+      though nothing offsets the cost for someone on a tight budget.
+    honest: The $122 a year and $10 a month figures are correct for a $640,000 home,
+      and the card refuses the coffee comparison, but 'people here use this branch'
+      leans on a 22% visit rise that the brief gives for the whole city, not for Ridgeview.
+    works_the_facts: The card works the rate out to Ridgeview's median home and pairs
+      the $2.3 million with its two uses, but it never notes the cheaper $78-a-year
+      city median or the six-year total, either of which could help the reader.
+    right_comparison: 'It states the alternative directly: the Ridgeview branch closes
+      in July and Sunday hours stay gone, set against rising visits.'
+    qualification: The volunteer note correctly hedges that the bill follows assessed
+      value while the rate stays fixed, and the July closure date gives a clear consequence,
+      but the reader isn't given a way to check their own bill.
+    objections: The 'blank check' charge is answered with the set rate, the six-year
+      end date and the named uses, and the fixed-income worry is met honestly, without
+      the card attacking the letter writer.
+    fit: The spoken part fits 60 to 90 seconds and the card fits one side, but it
+      deliberately drops the coffee line the field lead asked for, and it should explain
+      that choice to the field lead, not just put it in the volunteer notes.

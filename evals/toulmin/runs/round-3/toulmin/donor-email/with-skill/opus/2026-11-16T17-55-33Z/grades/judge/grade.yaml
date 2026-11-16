@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T17:56:28.753007+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 181
+  tags: []
+  notes: extracted 181 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 5
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 7
+    objections: 4
+    fit: 8
+  details:
+    agree: The doubled-gift framing and the concrete 61 kids would move a softened
+      lapsed donor, but someone still upset about Eastside gets an acknowledgment
+      with no reason or change behind it, which may not be enough to bring them back.
+    honest: 'It drops the brief''s false claim that a gift guarantees every child
+      a place, and every figure holds up: $575 doubled is $1,150, and the full $30,000
+      match funds 26 children rather than 61.'
+    works_the_facts: The doubling examples and the 26-children figure come straight
+      from the brief, but the email never states the full $70,150 needed or that about
+      35 children stay unfunded even if the match is met, so the size of the shortfall
+      is left vague.
+    right_comparison: '"Every child we can''t fund keeps waiting" correctly describes
+      what happens without gifts, but it doesn''t say how big that gap is or use last
+      year''s weak response to show the trend.'
+    qualification: The match comes with a cap ($15,000), a deadline (December 31),
+      and an eligibility rule (returning donors), all checkable, though it never says
+      plainly that unmatched gifts after the cap or deadline won't be doubled.
+    objections: The Eastside closure is named and the angry letters are acknowledged,
+      but there is no explanation, apology, or word on what happened to Eastside families,
+      so the objection is sidestepped by changing the subject to the 61 kids.
+    fit: It's a year-end email of about 190 words, under the 250-word limit, with
+      a subject line and a call to action, and it's signed by the executive director
+      as requested.

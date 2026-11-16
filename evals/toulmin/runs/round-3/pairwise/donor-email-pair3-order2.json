@@ -1,0 +1,11 @@
+{
+  "task": "donor-email",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T17-56-28Z",
+  "without_skill_run": "2026-11-16T17-56-03Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "reason": "As a donor still upset about the Eastside closure, I'd respond better to B because it opens by owning that closure and is honest about the numbers: even the full $15,000 match funds only 26 of the 61 children, and B admits it won't clear the list. A is also accurate, but it is vaguer about how far the money goes, so it feels more like a standard appeal."
+}

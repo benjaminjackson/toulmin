@@ -1,0 +1,11 @@
+{
+  "task": "outreach-email",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T17-55-27Z",
+  "without_skill_run": "2026-11-16T17-55-16Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "reason": "A gives me the math I'd otherwise do myself: $75K a year against a likely saving of about $120K, even at the vendor's weaker ~20% result. Showing a second customer's smaller gain makes it more believable than B, which only shows the best case. Both say up front that it won't touch our warehouse system."
+}

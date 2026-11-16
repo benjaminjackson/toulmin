@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T17:55:44.993735+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 119
+  tags: []
+  notes: extracted 119 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 2
+    objections: 6
+    fit: 9
+  details:
+    agree: Dana gets a clean, specific email that opens with her own $600,000 figure,
+      but it never shows how a $75,000 cost compares with what she could save, so
+      the case for taking a call is weaker than it could be.
+    honest: Every number traces back to the brief and the $75,000 total is right,
+      but the email shows only the best customer's result and doesn't say that another
+      customer improved only from 2.8 to 2.2, which leaves the impression that the
+      54% cut is typical.
+    works_the_facts: It works out the annual cost, but it doesn't turn 4.1 to 1.9
+      into the stronger form of 'more than half' or into roughly $300,000 a year in
+      avoided returns against her $600,000 figure.
+    right_comparison: Doing nothing means about $600,000 a year in returns, and that
+      figure appears in the opening line, but it never sits beside the $75,000 price,
+      so the status quo isn't framed as the real alternative.
+    qualification: The results vary a lot by customer, so the email needs a hedge,
+      such as what reduction Dana should expect and by when, but it gives none.
+    objections: '''Sits on top of it'' with a 3-week setup speaks to the IT director''s
+      resistance, but it doesn''t say plainly that the WMS stays untouched or say
+      how little IT work is needed, and that is the point Dana would have to make
+      to him.'
+    fit: It's a short cold email with short paragraphs that read easily on a phone,
+      as the brief asked.

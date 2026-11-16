@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T17:55:49.486998+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 346
+  tags: []
+  notes: extracted 346 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 8
+    objections: 8
+    fit: 7
+  details:
+    agree: Giving the exact Ridgeview cost of about $122 a year and saying the local
+      branch closes in July speaks directly to a fixed-income no-voter, but the 'every
+      vote counts' line in WHY NOW does little to move someone who has already voted
+      no.
+    honest: Every figure checks out against the brief, and the script rightly leaves
+      out the coffee comparison the brief asked for, which isn't true at the city
+      median of about $6.50 a month; saying the money 'pays for two named things'
+      goes slightly beyond what the brief shows about binding ballot language.
+    works_the_facts: "It works out the cost for the Ridgeview median correctly ($121.60\
+      \ a year, about 33 cents a day), restates the rate as $19 per $100,000 so homeowners\
+      \ can figure their own bill, and uses the 48\u201352 result to show how close\
+      \ the last vote was."
+    right_comparison: 'The alternative is stated as the facts show it: without the
+      levy the Ridgeview branch closes in July and Sunday hours stay gone, and the
+      script adds the 22% rise in library visits as the trend.'
+    qualification: The script makes no forecast that needs a hedge, since the six-year
+      end date and the July closure are both stated as plain facts.
+    objections: It answers 'blank check' with the fixed rate, the six-year limit and
+      the named uses, answers cost by working out the homeowner's own number, and
+      answers 'I voted no last time' with the July closure, all without bringing up
+      the association president or the letter.
+    fit: The main script runs about 60 to 90 seconds and fits on a card, though the
+      objection lines make one side tight, and the requested coffee line was left
+      out for good reason.

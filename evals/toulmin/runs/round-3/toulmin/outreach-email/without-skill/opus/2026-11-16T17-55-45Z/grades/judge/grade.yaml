@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T17:56:17.310970+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 145
+  tags: []
+  notes: extracted 145 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 2
+    objections: 6
+    fit: 8
+  details:
+    agree: Opening with Dana's own $600K quote and giving a clear price and setup
+      time could get her to take a call, but nothing in it would help her get her
+      protective IT director on board.
+    honest: The 4.1-to-1.9 drop is reported accurately as one customer's result, but
+      showing only the best of six customers, with no mention of the 2.8-to-2.2 result,
+      implies halving is typical when the facts don't support that.
+    works_the_facts: It works out the $75K annual cost correctly but never sets it
+      against what a similar cut would save on her $600K (roughly $300K at half, about
+      $125K even at the weaker 21%), which is the most persuasive figure available.
+    right_comparison: The status quo of over $600K a year in returns comes up only
+      as the opening hook and is never compared with the $75K price or with what happens
+      if she does nothing.
+    qualification: A claim resting on a single customer needs a hedge, such as results
+      ranging from about 21% to 54% or a pilot at one site with a checkable error-rate
+      target, and the email offers none.
+    objections: Saying it sits on top of the WMS rather than replacing it partly answers
+      the IT worry, but the email says nothing about how much IT work or integration
+      is involved, and that is exactly what the resistant director will ask.
+    fit: It is short, easy to scan on a phone, and has a specific subject line and
+      a single clear request.

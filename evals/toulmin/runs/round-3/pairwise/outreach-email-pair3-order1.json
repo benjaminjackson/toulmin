@@ -1,0 +1,11 @@
+{
+  "task": "outreach-email",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T17-56-06Z",
+  "without_skill_run": "2026-11-16T17-55-45Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "reason": "A connects the $75K yearly cost to my own $600K problem: even a 20% drop saves about $120K, which is a reason to take the call. B lists the price with nothing to weigh it against. B's \"cost [Company]\" placeholder is also confusing, and its \"Your $600K problem\" subject line feels presumptuous."
+}

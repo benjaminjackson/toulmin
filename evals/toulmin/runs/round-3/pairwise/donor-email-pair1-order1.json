@@ -1,0 +1,11 @@
+{
+  "task": "donor-email",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T17-54-45Z",
+  "without_skill_run": "2026-11-16T17-54-45Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "reason": "A is honest that the match covers 26 of the 61 children and gives a clear deadline, which makes me trust it after Eastside. B leaves an unfilled '[Optional…]' placeholder where it should say what has changed, and its 'as many as we can' feels vaguer."
+}

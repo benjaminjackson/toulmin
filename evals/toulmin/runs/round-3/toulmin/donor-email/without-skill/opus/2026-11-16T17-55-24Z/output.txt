@@ -1,0 +1,38 @@
+I left out the promise that this month's gifts will guarantee every child on the waiting list a place, because the numbers don't support it. Funding all 61 children costs $70,150 (61 × $1,150). Suppose every one of your 340 lapsed donors gave their old average of $85 and the full match came in. That would be about $43,900, and last December this group gave $1,240. If the email promises a place to every child, you'll either have to break that promise in January or quietly change what it meant. Your former board member forwards these emails with her comments, and she'll be the first to notice.
+
+The draft below sells the match and gives a clear unit instead: $575, once it's matched, pays for a full year of lessons for one child. That's true, it's specific, and people can see what their own gift does.
+
+A few things to check before you send:
+- **"Every child we fund this month can start lessons in January."** I've assumed you have the teachers and space to start funded children in January. If you don't, soften that line.
+- **The Eastside paragraph.** It acknowledges the closure without explaining or defending it. If something real has changed since then (for example, Eastside families now get lessons at another site), add one sentence saying so. Don't add anything you can't stand behind.
+- **If you send a December 31 reminder,** you could report how many children have been funded so far. That's an honest way to create urgency.
+
+The email is about 215 words.
+
+<final_document>
+**Subject:** 61 kids are waiting. This month, your gift counts twice.
+
+Dear [First name],
+
+Right now, 61 children are on our waiting list for subsidized music lessons. They're ready to start. What's missing is funding: a year of weekly lessons costs us $1,150 per child.
+
+You've supported [School name] before, and I'm writing to ask you to come back.
+
+Here's why this December is different. A family foundation will match every gift from returning donors, dollar for dollar, up to $15,000, through December 31. That means:
+
+- $85 becomes $170 toward a child's lessons
+- $575 becomes $1,150, which is a full year of lessons for one child
+
+We know some of you stepped away after we closed our Eastside branch in 2022. We understand why, and we're grateful for everything you gave. We would be honored to have you with us again.
+
+Every child we fund this month can start lessons in January. Please help us move as many of them as we can off the waiting list and into a lesson room.
+
+**[Give now and double your gift →]**
+
+With gratitude,
+
+[Executive Director name]
+Executive Director, [School name]
+
+P.S. The match ends December 31. A gift of $575 today gives one child a full year of music.
+</final_document>

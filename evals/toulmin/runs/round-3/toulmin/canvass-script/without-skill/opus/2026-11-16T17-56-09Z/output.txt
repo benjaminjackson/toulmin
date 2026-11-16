@@ -1,0 +1,47 @@
+I wrote the card below, but I left out the coffee line. Here's the math:
+
+- **Citywide median home ($410,000):** 410 × $0.19 = **$77.90 a year, about $6.50 a month.** That's roughly a café latte, not "less than a cup of coffee."
+- **Ridgeview median home ($640,000):** 640 × $0.19 = **$121.60 a year, about $10 a month.** That's well above a cup of coffee.
+
+Ridgeview is your first precinct. It's full of retirees on fixed incomes who will look at their tax bill, and the neighborhood association president is already calling this a blank check. If a volunteer says "less than a coffee" there and someone does the math, you lose credibility on the doorstep and in the letters page. The levy lost by 4 points last time, so you can't afford that. Exact numbers said plainly will hold up better. If you want a small-sounding figure, a per-day number is accurate: about 21¢ a day citywide and 33¢ a day in Ridgeview.
+
+Check these before printing:
+1. **Does the ballot text legally limit the money** to Sunday hours and the Ridgeview branch? The "blank check" answer depends on it. If the measure only names those uses without binding them, change "pays for" to "is planned for." Also, if there's an oversight committee or annual audit, add it. That's your strongest answer to "blank check."
+2. **Senior property-tax exemptions or deferrals.** If your state has one, add a line for Ridgeview. It would matter a lot to fixed-income homeowners. I didn't include one because I don't know your state's rules.
+3. I assumed the 19¢ rate is charged every year. If it's charged differently, the dollar figures change.
+4. Tell volunteers not to argue with or mention the association president at the door. They should answer the concern, not the person.
+
+The spoken path (opening, why, cost, close) is about 170 words, which comes to roughly 75 seconds at a natural pace.
+
+<final_document>
+**YES ON MEASURE 4: LIBRARY LEVY DOOR SCRIPT**
+
+**OPEN**
+"Hi, I'm [name], a volunteer with Yes on Measure 4. I live over on [street]. Measure 4 is the library levy on the March ballot. Do you have a minute?"
+
+**WHY IT MATTERS**
+"Without Measure 4, the Ridgeview branch closes this July. Measure 4 keeps it open and brings back Sunday hours at all five branches. People are using the library more than ever. Visits are up 22% since 2021."
+
+**ASK, THEN LISTEN**
+"Do you or anyone in your home use the library?"
+→ Connect what they say back to Ridgeview staying open or Sunday hours.
+
+**THE COST (give exact numbers)**
+"It's 19 cents per $1,000 of assessed value, for 6 years."
+- **Ridgeview:** "For a typical home here, that's about $10 a month, around $120 a year."
+- **Elsewhere in the city:** "For a typical home, that's about $6.50 a month, around $78 a year."
+
+**IF THEY SAY "IT'S A BLANK CHECK"**
+"I hear that. It's a set rate, it ends after 6 years unless voters renew it, and it pays for two specific things: keeping Ridgeview open and restoring Sunday hours."
+
+**IF THEY RENT**
+"This is about whether your neighborhood keeps its library, and your vote counts just as much as anyone's."
+
+**CLOSE**
+"The last library levy lost by just 4 points, so every vote matters. Can we count on your yes in March?"
+- **Yes:** "Thank you! Can I get your name so we can remind you before the election?"
+- **Undecided:** "That's fair. Can I leave this with you?"
+- **No:** "Thanks for your time. Have a good day."
+
+*Mark the response before you leave the door. Be polite, don't argue, and don't promise anything that isn't on this card.*
+</final_document>

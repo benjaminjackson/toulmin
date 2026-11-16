@@ -1,0 +1,16 @@
+Subject: Wrong-item returns: 4.1 to 1.9 per 1,000 lines
+
+Hi Dana,
+
+In your interview with [Magazine] last spring, you said wrong-item returns cost you "north of $600,000 a year." That's the problem we work on.
+
+With our software, pickers scan each item with a phone camera, and it flags a wrong item before the box closes. Our largest customer, a pet-supply distributor with three warehouses, went from 4.1 mis-picks per 1,000 order lines to 1.9 in their first five months. That's more than half.
+
+It doesn't replace your warehouse management system. It sits on top of it. Setup takes about three weeks.
+
+For all five of your sites, it would cost $75,000 a year. If your wrong-item returns dropped by just 20%, you'd save about $120,000.
+
+Do you have 20 minutes in the next couple of weeks to see if it fits?
+
+[Your name]
+Co-founder, [Company]

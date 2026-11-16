@@ -1,0 +1,27 @@
+I changed the "cut errors in half" claim. As a general statement it isn't accurate: only one of your three tracked customers got that result. The other went from 2.8 to 2.2, which is about a 21% drop, and the third hasn't shared numbers. If Dana asks "is that typical?" and you say "it's one customer," you lose her trust right away. So the draft gives the pet-supply numbers as one customer's result. It's still a strong number, and it's true.
+
+<final_document>
+Subject: Your $600K in wrong-item returns
+
+Hi Dana,
+
+Last spring you told [Magazine] that wrong-item shipments cost you "north of $600,000 a year" in returns. That's the problem we work on.
+
+[Product] has pickers scan each item with a phone camera. If it's the wrong item, it flags it before the box closes.
+
+Our largest customer is a pet-supply distributor with three warehouses. In their first five months, they went from 4.1 mis-picks per 1,000 order lines to 1.9.
+
+It doesn't replace your warehouse management system. It sits on top of it, and setup takes about three weeks.
+
+Would 20 minutes in the next couple of weeks be worth it to see whether your numbers could move the same way?
+
+[Your name]
+Co-founder, [Company]
+[Phone]
+</final_document>
+
+A few notes:
+
+- **Your IT director:** Saying it "sits on top of" the WMS speaks to his worry without bringing him up, since mentioning him would show you've been asking around about her team. Before you send, check whether setup needs any WMS integration work from their side. If it does, have an honest answer ready, because that's the first thing he'll ask.
+- **Pricing:** I left it out. Five sites comes to $6,250 a month, or $75K a year, against her $600K+ problem. That math helps your case, but on a first cold email I'd hold it for the call. If you'd rather qualify her early, add one line: "For five sites, it's $6,250/month."
+- **Fill in before sending:** the magazine name and your product name. Also confirm the pet-supply customer is fine with being described this way, even without their name.

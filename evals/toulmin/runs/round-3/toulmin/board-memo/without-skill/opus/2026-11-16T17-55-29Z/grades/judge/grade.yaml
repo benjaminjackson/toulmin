@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T17:56:15.123418+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 413
+  tags: []
+  notes: extracted 413 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 8
+    objections: 6
+    fit: 7
+  details:
+    agree: The milestones, fallback, and plan for the ad seller help, but the two
+      board members from ad sales are not told why ads must end on January 1 instead
+      of running alongside membership until it proves itself, and the bracketed gaps
+      (bridge amount, costs, staffing plan) leave the decision underspecified.
+    honest: The memo frames replacing ad revenue as a goal with a target date rather
+      than promising it will happen within a year, as the brief wanted, and it asks
+      for retention data rather than inventing it; 'almost no effort' and 'they'll
+      keep shrinking' go only slightly beyond the facts.
+    works_the_facts: "The figures check out: a 36% drop, a compounded projection of\
+      \ about $67k, 875 members needed, 1.5% versus 6.25% of the list, and a first-year\
+      \ income estimate of $50\u201355k that matches the milestone ramp, though it\
+      \ never states the pace the pilot implies against the pace the target needs."
+    right_comparison: Keeping ads is shown as a declining stream projected to about
+      $67k, which matches the trend in the facts, but the memo doesn't weigh that
+      figure against what ad sales cost in staff time.
+    qualification: The June 30 checkpoint gives a member count, a 25% shortfall threshold,
+      and a consequence (return to the board with named options), so the board can
+      check it, though the consequence is fairly soft.
+    objections: The memo covers the ad seller, the first-year revenue gap, and a fallback,
+      but it leaves out the main ad-side objection, which is why the memo gives up
+      $84k of known revenue before membership is proven, and the bridge and staffing
+      answers are still placeholders.
+    fit: It is in proper memo form and close to one page, but the table and section
+      headers push it toward the limit, and the many bracketed placeholders make it
+      feel unfinished.

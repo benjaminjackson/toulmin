@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T17:56:06.538029+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 159
+  tags: []
+  notes: extracted 159 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 4
+    objections: 6
+    fit: 8
+  details:
+    agree: Opening with her own $600K quote and putting the $75K cost next to a $120K
+      conservative saving gives Dana a concrete reason to take a call, though she
+      gets little to bring to an IT director who resists change.
+    honest: Every number checks out ($75K, ~20%, ~$120K, 'more than half'), but 'Even
+      our smaller result' implies only two results exist when only two of six customers
+      report numbers and one won't share, and 'That's the problem we solve' claims
+      more than that thin evidence supports.
+    works_the_facts: It works out the annual cost for five sites and the conservative
+      saving, but it skips the strongest true figure, a 54% cut worth roughly $320K
+      a year against $75K, and never states the payback.
+    right_comparison: The alternative is her own stated $600K a year in returns continuing,
+      which matches the facts, and the brief gives no trend to describe.
+    qualification: The only hedge is 'see whether your numbers would look like theirs',
+      which has no checkpoint, date, threshold or consequence (for example, a pilot
+      measured at month three with an exit if errors don't fall).
+    objections: Saying it doesn't replace or change the warehouse system and takes
+      three weeks does address the IT worry, but it never says what IT has to do,
+      whether it touches integrations, or how Dana could put it to her IT director.
+    fit: It's short, the paragraphs are easy to read on a phone, and the subject line
+      and closing ask suit a cold email.

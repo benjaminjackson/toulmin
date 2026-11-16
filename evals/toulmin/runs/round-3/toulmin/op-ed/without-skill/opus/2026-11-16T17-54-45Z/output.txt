@@ -1,0 +1,41 @@
+I wrote the piece but changed one thing you asked for. It doesn't flatly say a later start **will** raise the graduation rate, because your numbers don't show that yet. The district two counties over reported fewer tardies and better attendance, but no graduation change. An editor could cut the claim, and a board member opposed to the change could use it to make the whole piece look like it overreaches. So the op-ed says what your evidence does support: graduation depends on students being in class, awake and on time, and a later start addresses exactly that. I think this argument is stronger because nobody can knock it down.
+
+A few other notes:
+
+- **Things to check before you submit:**
+  - The neighboring district's attendance figure is credited to their superintendent as "about a point," since that's how it reached you.
+  - The line about teens' sleep cycles shifting later (many can't fall asleep much before 11) is general background. Your figures don't cover it, so check it against the AAP statement if you like.
+  - If the district or that superintendent has graduation numbers from before and after the change, ask for them. If they went up, add them and you can make the stronger claim.
+- **About the survey:** the health class survey reflects the students who chose to answer, not the whole school. That's fine in an op-ed, and the wording says "students who responded." But don't call it "72% of our students."
+- **The objections:** the piece takes the athletic director's, parents' and budget concerns seriously instead of brushing them off, and asks the board for specific fixes. With readers who are on the fence, that usually helps more than it hurts.
+- **Length and blanks:** it's about 580 words. Fill in your name and school in the brackets.
+
+<final_document>
+**Our teenagers are tired. Let's stop scheduling school as if they weren't.**
+
+Every school day, my office fills up before most of the building is fully awake.
+
+I'm the nurse at [School Name], and last fall I kept count. During first period I logged 412 visits: headaches, stomachaches, students who had fallen asleep at their desks and couldn't shake it off. That's more than second period (198) and third period (171) combined. By mid-morning the line at my door thins out. The kids didn't get healthier between 7:25 and 9:30. They woke up.
+
+This isn't laziness. Around puberty, teenagers' internal clocks shift later, and many can't fall asleep much before 11 p.m. Asking a 16-year-old to sit alert in a classroom at 7:25 is asking that body to work at what feels like the middle of the night.
+
+Our own students confirm it. In a survey our health class ran, 640 of the 890 students who responded, 72 percent, said they sleep less than seven hours on school nights. That's why the American Academy of Pediatrics recommends that high schools start no earlier than 8:30 a.m. On April 14, our school board will vote on doing exactly that.
+
+We don't have to guess what happens next. A district two counties over moved its start to 8:30 three years ago. First-period tardies dropped 31 percent, and its superintendent told our board that attendance rose by about a point.
+
+Here's why that matters. Our four-year graduation rate is 84 percent. I can't promise that a later bell alone will push that number up, and no one honestly can. But graduation is built one school day at a time. Students who are in class, on time and awake are the ones who pass their courses and earn their credits. Students who miss first period week after week, or spend it in my office, fall behind in ways that add up. A later start goes straight at the things that come before a student falls off track: missed mornings, missed classes, and exhaustion that looks like not caring.
+
+I take the objections seriously, because they're real.
+
+Our athletic director is right that from November on, practices would end after dark, and away games would pull athletes out of last-period classes. Many parents drop their kids off on the way to 8 a.m. shifts and can't simply move their workday. And the district estimates the new bus contract would cost an extra $180,000 a year.
+
+These problems deserve real answers. Before voting, the board should ask for a concrete plan: supervised space for students dropped off early, a hard look at practice and game schedules, and a clear accounting of where the transportation money would come from.
+
+But let's be honest about what's on each side of the scale. The problems with an 8:30 start are about logistics. The problem with a 7:25 start is about our kids' health, and it walks into my office every single morning.
+
+$180,000 is real money. So is the cost of a school day a student sleeps through, or never shows up for.
+
+I see the effects of early mornings up close: the head down on the desk, the student who says they feel sick and really just needs sleep. We know what pediatricians recommend. A neighboring district has already shown it can be done. On April 14, I urge the board to vote yes on 8:30.
+
+*[Name] is the school nurse at [School Name].*
+</final_document>

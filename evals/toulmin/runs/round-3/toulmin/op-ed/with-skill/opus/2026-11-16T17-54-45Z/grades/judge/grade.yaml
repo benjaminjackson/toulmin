@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T17:55:51.908528+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 650
+  tags: []
+  notes: extracted 650 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 4
+    objections: 5
+    fit: 9
+  details:
+    agree: The piece is persuasive and fair, but the drop-off parent and the budget-minded
+      board member get acknowledgment and a request for a plan rather than an answer,
+      so a resisting reader may stay unconvinced.
+    honest: "It refuses to promise a higher graduation rate even though the brief\
+      \ asked for that, and it adds no figures, though 'has already helped with\u2026\
+      \ staying awake' goes slightly beyond the other district's tardy and attendance\
+      \ data."
+    works_the_facts: It correctly works out 72 percent, 'nearly three out of four',
+      'one in six' not graduating on time, and that 412 exceeds 198+171, but it leaves
+      comparisons such as first-period visits against the per-period average unused.
+    right_comparison: Saying no is shown concretely as keeping today's first-period
+      visits and short sleep, which is accurate, though the brief offers no trend
+      to build on.
+    qualification: The hedge names something checkable, the other district's first
+      four-year cohort, but it gives no date, no target number and no consequence
+      if the results disappoint.
+    objections: The athletics objection is answered with an explicit trade, but the
+      $180,000 and the parents on 8 a.m. shifts are handed back to the board to solve
+      rather than met.
+    fit: It is a properly structured op-ed with a headline, a clear ask and a byline,
+      at roughly 640 words, within the 650 limit.

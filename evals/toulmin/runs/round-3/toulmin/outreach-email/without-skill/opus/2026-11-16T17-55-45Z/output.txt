@@ -1,0 +1,36 @@
+I didn't use "we cut picking errors in half" as a general claim. Your data doesn't support it, and it's the kind of line a VP of ops will test on the first call.
+
+- **Your biggest customer:** 4.1 → 1.9 is a 54% drop, so "more than half" is true for them.
+- **The second customer that tracks:** 2.8 → 2.2 is about a 21% drop.
+- **Everyone else:** one customer hasn't shared numbers and three don't track error rates.
+
+If she asks "is that typical?" and you say "it's our best result," the email starts to look like overselling. So the draft says your largest customer cut errors by more than half. It's just as strong, and it holds up when she checks.
+
+**On her IT director:** I left out anything you heard secondhand. Mentioning it would show you've been asking around about her team. The email gets ahead of his objection by saying the software sits on top of the warehouse system and doesn't replace it. Before the call, be ready to say what it actually reads from their warehouse system and what (if anything) IT has to do during the 3-week setup. That's where he'll push.
+
+**On price:** I included it. Five sites comes to $75,000 a year, set against the $600K+ she said publicly. That comparison makes the case without you having to promise her a specific saving.
+
+Fill in the bracketed parts before sending.
+
+<final_document>
+Subject: Your $600K wrong-item problem
+
+Hi Dana,
+
+You told [Magazine] last spring that returns from wrong-item shipments cost [Company] north of $600,000 a year. That's the problem we work on.
+
+Our software has pickers scan each item with a phone camera. If it's the wrong item, it gets flagged before the box closes.
+
+Our largest customer is a pet-supply distributor with three warehouses. In their first five months they went from 4.1 mis-picks per 1,000 order lines to 1.9, a drop of more than half.
+
+A few specifics:
+- It doesn't replace your warehouse management system. It sits on top of it.
+- Setup takes about three weeks.
+- It's $1,250 per site per month, so about $75K a year for all five of your warehouses.
+
+Would a 20-minute call be worth it to see whether it fits your operation?
+
+[Your name]
+Co-founder, [Company]
+[Phone]
+</final_document>

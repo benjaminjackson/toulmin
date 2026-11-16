@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T17:56:03.172599+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 209
+  tags: []
+  notes: extracted 209 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 3
+    qualification: 6
+    objections: 4
+    fit: 9
+  details:
+    agree: The doubled-gift framing and the concrete $85/$575 figures might move a
+      lapsed donor, but someone still upset about Eastside gets only one vague sentence
+      of acknowledgment, with no reason for the closure and no sign that their gift
+      reaches the children they cared about.
+    honest: The writer rightly drops the unsupportable promise that every waitlisted
+      child is guaranteed a place and uses only figures from the brief, though 'every
+      child we fund this month can start lessons in January' assumes a January start
+      the brief never confirms.
+    works_the_facts: "The match arithmetic ($85 becomes $170, $575 becomes $1,150)\
+      \ is correct and well chosen, but the email never states the total gap (61 \xD7\
+      \ $1,150 = $70,150) or that a fully used $15,000 match would fund about 26 children."
+    right_comparison: It never says what happens to the 61 children if gifts don't
+      come in, and it never tells the reader how the whole goal compares with what
+      this group gave last year ($1,240).
+    qualification: The match's $15,000 cap and December 31 deadline are stated clearly,
+      but the email never names the consequence of missing them, such as the match
+      money going unused or children staying on the waiting list.
+    objections: 'The Eastside objection is named but not answered: there is no explanation
+      of why the branch closed and no link between these lessons and the families
+      that branch served, so the resisting reader has no new reason to return.'
+    fit: It is a year-end appeal of about 220 words, under the 250 limit, with a subject
+      line, a clear call to action and a P.S., signed by the executive director as
+      requested.

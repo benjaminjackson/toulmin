@@ -1,0 +1,33 @@
+I wrote a version that doesn't say "we cut picking errors in half," and I'd recommend sending it that way.
+
+**Why I changed your headline:** Only one customer halved their errors: your biggest one went from 4.1 to 1.9 per 1,000 lines, a 54% drop. Your other customer with numbers went from 2.8 to 2.2, which is 21%. A VP of operations who's interested will ask how your other customers did. If the email has told her "we cut errors in half," that answer will make the email look like a stretch. So the email names the one customer and the result precisely. It's still a strong, concrete number.
+
+**What I added from your facts:**
+- **Cost against her number.** Five sites at $1,250 a month comes to $75,000 a year. That pays for itself if it cuts her wrong-item returns by about an eighth (12.5% of $600K). Even your weaker 21% result would clear that. This works better than promising her $300K. It doesn't assume she'll match your best customer, and it gives her something she can check.
+- **Her IT director.** I used your own words: it doesn't replace the warehouse system, it sits on top of it, and setup takes about three weeks. I also offered to walk her IT team through how it connects before anyone commits. That lets her bring him in early, so he isn't surprised later. I didn't mention him or the rollout directly, because that would show you've heard about their internal politics.
+
+**Before you send:**
+- Fill in the brackets.
+- Be ready to say "about 21%" if she asks about other customers.
+- I didn't offer a pilot or a single-site trial because you didn't mention one. If you'd do one, a one-site start would make an easier yes.
+
+<final_document>
+Subject: Your $600K in wrong-item returns
+
+Hi Dana,
+
+In your [Magazine] interview last spring, you said wrong-item returns cost [Company] north of $600,000 a year. That's the problem we work on.
+
+With our software, pickers scan each item with a phone camera. If it's the wrong item, they find out before the box closes.
+
+Our largest customer is a pet-supply distributor with three warehouses. In their first five months, they went from 4.1 mis-picks per 1,000 order lines to 1.9, a drop of more than half.
+
+For your five sites it would cost $75,000 a year. It pays for itself if it cuts your wrong-item returns by about an eighth.
+
+It doesn't replace your warehouse management system. It sits on top of it, and setup takes about three weeks. I'd be glad to walk your IT team through exactly how it connects before anyone commits to anything.
+
+Do you have 20 minutes in the next two weeks?
+
+[Your name]
+Co-founder, [Company]
+</final_document>

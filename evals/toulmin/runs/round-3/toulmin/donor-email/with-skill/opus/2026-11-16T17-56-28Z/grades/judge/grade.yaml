@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T17:57:14.749394+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 234
+  tags: []
+  notes: extracted 234 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 8
+    right_comparison: 8
+    qualification: 8
+    objections: 6
+    fit: 9
+  details:
+    agree: The email names the Eastside closure without getting defensive, and it
+      gives a concrete doubled-gift reason to return, so a lapsed donor could plausibly
+      give this month; it does nothing to repair the grievance itself.
+    honest: "It drops the brief's false guarantee: 61 \xD7 $1,150 = $70,150, against\
+      \ a maximum of $30,000. It openly says the list won't be cleared, and every\
+      \ figure it uses comes from the brief or follows from it."
+    works_the_facts: 'The derived figures are correct and well chosen: $85 becomes
+      $170, $575 matched pays for one child, and $30,000 covers 26 children. It leaves
+      out the gap between last year''s $1,240 and the $15,000 needed to unlock the
+      full match.'
+    right_comparison: 'It states the alternative plainly: any part of the match that
+      goes unmet is lost, and those children keep waiting rather than starting in
+      January.'
+    qualification: 'The hedge is specific and checkable: 26 of 61 children, a $15,000
+      cap, a December 31 deadline, and a stated consequence if the match is missed.'
+    objections: It acknowledges the anger over Eastside respectfully but sets it aside
+      instead of answering it, and it raises no objections the brief already answers.
+    fit: It is a year-end email of about 240 words with a subject line and a call
+      to action, signed by the executive director; it rightly leaves out the requested
+      guarantee because the facts can't support it.

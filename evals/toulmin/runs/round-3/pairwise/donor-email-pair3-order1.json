@@ -1,0 +1,11 @@
+{
+  "task": "donor-email",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T17-56-28Z",
+  "without_skill_run": "2026-11-16T17-56-03Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "reason": "As a donor still upset about the Eastside closure, I'd trust A more. It mentions the closure first without defending it, and it admits the full match covers only 26 of the 61 children ($30,000 ÷ $1,150). B calls the closure \"a hard decision,\" which reads as a justification, and it stays vague about how many children the money can actually fund."
+}

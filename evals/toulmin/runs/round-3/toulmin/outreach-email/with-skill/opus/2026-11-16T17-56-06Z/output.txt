@@ -1,0 +1,30 @@
+I wrote the claim as **"more than half, at our largest customer"** rather than a flat "we cut picking errors in half." Here's why:
+
+- **The gap:** "We cut picking errors in half" sounds like what happens for every customer. Your numbers show it for one: 4.1 to 1.9, which is a 54% drop. Of the other two customers who track errors, one dropped 21% (2.8 to 2.2) and one hasn't shared numbers.
+- **The risk:** A VP of operations who's interested will ask "what about your other customers?" on the first call. If the email promised "half" as the norm, the 21% answer looks like you oversold. If the email named one customer, the same answer is just more detail.
+- **What still gets the bold number in:** Your best result goes in the email with real numbers. The cost case rests on your *weaker* result. A 20% drop in her returns is about what your second customer saw, and it would save about $120K a year. Five sites cost $75K a year ($1,250 × 5 × 12). So the deal pays for itself even without the headline number. This assumes her returns cost falls roughly in line with her mis-pick rate.
+
+If you'd still rather send the flat "half" version, you can change one sentence. I'd advise against it.
+
+**The IT director:** I left him out. Mentioning something you heard secondhand in a cold email would put her off. Instead, the email says plainly that you don't replace her warehouse system, you sit on top of it, so she can forward it to him without it reading as a threat. He'll still ask exactly what your software reads from or writes to their system. Have a one-line answer ready before the call. I didn't put one in the email because I don't know it.
+
+**Fill in before sending:** the magazine name, your name and your company name.
+
+<final_document>
+Subject: Wrong-item returns: 4.1 to 1.9 per 1,000 lines
+
+Hi Dana,
+
+In your interview with [Magazine] last spring, you said wrong-item returns cost you "north of $600,000 a year." That's the problem we work on.
+
+With our software, pickers scan each item with a phone camera, and it flags a wrong item before the box closes. Our largest customer, a pet-supply distributor with three warehouses, went from 4.1 mis-picks per 1,000 order lines to 1.9 in their first five months. That's more than half.
+
+It doesn't replace your warehouse management system. It sits on top of it. Setup takes about three weeks.
+
+For all five of your sites, it would cost $75,000 a year. If your wrong-item returns dropped by just 20%, you'd save about $120,000.
+
+Do you have 20 minutes in the next couple of weeks to see if it fits?
+
+[Your name]
+Co-founder, [Company]
+</final_document>

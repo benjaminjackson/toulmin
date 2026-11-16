@@ -1,0 +1,41 @@
+task:
+  name: outreach-email
+  reader: Dana Whitfield, VP of operations at a kitchenware distributor with 5 warehouses.
+    She gets many vendor emails. She knows her IT director finished a two-year rollout
+    of the current warehouse system last year and resists anything that touches it.
+    She decides whether to reply or take a call.
+  prompt: 'Draft a cold email for me. I''m a co-founder of a 14-person company that
+    makes pick-verification software for warehouses. Workers scan each item with a
+    phone camera and it flags a wrong item before the box closes.
+
+
+    Facts:
+
+    - Our biggest customer, a regional pet-supply distributor with 3 warehouses, went
+    from 4.1 mis-picks per 1,000 order lines to 1.9 over their first five months.
+
+    - We have 6 paying customers. Two others track error rates. One went from 2.8
+    to 2.2. The other hasn''t shared numbers.
+
+    - Setup takes about 3 weeks. It doesn''t replace the warehouse management system,
+    it sits on top of it.
+
+    - Price is $1,250 per site per month.
+
+    - The email goes to Dana Whitfield, VP of operations at a kitchenware distributor
+    with 5 warehouses. In a trade magazine interview last spring she said returns
+    from wrong-item shipments cost them "north of $600,000 a year."
+
+    - Her IT director led a two-year rollout of their current warehouse system that
+    finished last year, and from what I hear he shuts down anything that touches it.
+
+
+    I want to tell her we cut picking errors in half. Keep it short. She should be
+    able to read it on her phone.'
+config:
+  name: without-skill
+  runner: /Users/ben/github/toulmin/evals/toulmin/run-without-skill
+  model: opus
+started: '2026-11-16T17:55:16.910078+00:00'
+duration_seconds: 15.93
+exit_code: 0

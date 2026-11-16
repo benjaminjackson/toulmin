@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T17:56:58.498968+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 652
+  tags: []
+  notes: extracted 652 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 6
+    objections: 6
+    fit: 8
+  details:
+    agree: The nurse's first-hand numbers and the plain way the piece faces the objections
+      will win over undecided parents, but a parent with an 8 a.m. shift or a board
+      member worried about sports gets sympathy and a request for 'a plan' rather
+      than a solution, so they may not be moved.
+    honest: The piece declines the brief's request to promise a higher graduation
+      rate and says outright that the neighboring district hasn't proved it, and its
+      ratios are accurate; the small stretches are 'each one a class a student wasn't
+      in' and the unsourced line about teen body clocks.
+    works_the_facts: 'It turns the brief''s raw figures into vivid true forms: more
+      than twice either later period, nearly three in four students, and one in six
+      not graduating on time; it does little more with the attendance point or the
+      $180,000, such as a per-student or per-day cost.'
+    right_comparison: The status quo is set out fairly as a cost borne by most students
+      every morning against costs borne by some families some of the time, which matches
+      the facts, though the brief has no trend data to go further.
+    qualification: The commitment to report tardies, attendance and nurse visits after
+      one year, and graduation after the first full four-year class, can be checked,
+      but it gives no target numbers and the only consequence of a miss is that 'the
+      board will know it.'
+    objections: All three objections are named and given weight, but the after-dark
+      practices and the drop-off problem are answered by comparison and by handing
+      them to the district rather than by anything concrete, and it raises no objections
+      the brief already settles.
+    fit: It is a well-built op-ed of roughly 630 words, under the 650 limit, with
+      a headline, a clear ask tied to the April 14 vote, and a byline placeholder.

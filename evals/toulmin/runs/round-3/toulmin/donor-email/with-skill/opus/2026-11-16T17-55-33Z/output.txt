@@ -1,0 +1,41 @@
+I didn't include the line about guaranteeing every child a place. The numbers can't support it, and I recommend not sending it.
+
+- **What it would take:** places for all 61 children cost 61 × $1,150 = $70,150.
+- **The best case falls short:** if all 340 lapsed donors came back at their $85 average, that's $28,900. With the full $15,000 match it comes to $43,900, still about $26,000 short.
+- **The likely case:** last December brought in $1,240. Doubled by the match, that's about $2,500, enough for two children.
+- **It's a promise:** "guarantees" commits you to something you can't deliver. The former board member who forwards your emails with comments is the reader most likely to check it.
+
+So the email makes a claim the numbers do support. Each gift is doubled, and $575 from a donor funds a full year for one child. It also states the full-match outcome as a condition ("if returning donors meet the full match… 26 children"), so it's ambitious without overpromising.
+
+**The Eastside closure.** The email mentions it briefly, before the ask, because these donors left over it. Leaving it out would read as avoiding the subject. The paragraph doesn't apologize, explain or promise anything, because I don't know what your executive director is willing to say. They should approve the wording or cut it.
+
+**Check before sending:**
+- Does the foundation's definition of "returning donor" cover everyone who last gave between 2019 and 2022?
+- Can children funded in December actually start lessons in January?
+
+The draft is about 200 words.
+
+<final_document>
+**Subject:** 61 kids are waiting. Your gift counts double until Dec 31.
+
+Dear [First name],
+
+Right now, 61 children are on our waiting list for subsidized music lessons. A year of weekly lessons costs us $1,150 per child, and we don't yet have that funding for them.
+
+I know some of you stopped giving after we closed our Eastside branch in 2022. Several of you wrote to tell us exactly how you felt. Those letters mattered, and I'm not asking you to forget them. I'm asking you to think about these 61 kids.
+
+This month, a family foundation will match gifts from returning donors dollar for dollar, up to $15,000, through December 31. Because you've given before, your gift qualifies.
+
+- $85 becomes $170.
+- $575 becomes $1,150, which pays for a full year of lessons for one child.
+- If returning donors meet the full match, that's $30,000, enough for 26 children to start lessons in January.
+
+Every child we can't fund keeps waiting.
+
+[Give now. Your gift will be doubled.]
+
+With gratitude,
+
+[Executive Director name]
+Executive Director, [School name]
+</final_document>

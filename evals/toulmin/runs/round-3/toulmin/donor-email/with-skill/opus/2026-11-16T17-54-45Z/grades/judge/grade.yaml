@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T17:55:33.708367+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 233
+  tags: []
+  notes: extracted 233 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 7
+    objections: 5
+    fit: 8
+  details:
+    agree: The doubled match, the per-child cost and the honest '26 is not all 61'
+      line make a credible case. But a reader still sore about Eastside gets acknowledgement
+      and no reason to come back, so they may not act this month.
+    honest: It correctly drops the brief's claim that a gift guarantees every child
+      a place and says outright that 26 is not 61. The $15,000-to-26-children scenario
+      is accurate as a conditional, but it is offered with no hint of how unlikely
+      it is, given that last December brought in only $1,240.
+    works_the_facts: The $85-to-$170 doubling, the $575 half-share and the 26 children
+      from $30,000 are all derived correctly. It never uses last year's 9 gifts and
+      $1,240, or the 340-donor pool, to show what a realistic result would fund or
+      how far that is from the target.
+    right_comparison: 'It names the alternative plainly: after December 31 the match
+      ends and the children stay on the list. It does not describe the trend, such
+      as last year''s small response or whether the list is growing.'
+    qualification: The match is tied to a date (December 31), a cap ($15,000) and
+      a consequence (children stay on the list), all of which the reader can check.
+      It does not say what happens if the cap is only partly reached.
+    objections: It names the Eastside closure and says 'I understand why', which beats
+      ignoring it. But it explicitly declines to engage ('not writing to argue'),
+      gives no reason for the closure, and doesn't say whether these children include
+      former Eastside families, so the objection is acknowledged rather than met.
+    fit: It is a year-end email with a subject line and one clear call to action,
+      comes in under 250 words and is signed by the executive director, as the brief
+      asked.

@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T17:57:41.974270+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 473
+  tags: []
+  notes: extracted 473 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 8
+    honest: 8
+    works_the_facts: 9
+    right_comparison: 9
+    qualification: 8
+    objections: 7
+    fit: 8
+  details:
+    agree: The memo is clear about the risk, sets checkpoints the board can hold the
+      director to, and offers resuming ads as a fallback, which should win most of
+      the board; the two members from ad sales may still want to see what membership
+      will cost to run, and the memo doesn't say.
+    honest: Every figure is either taken from the brief or worked out correctly from
+      it, and the memo turns the brief's "replace within a year" into a carefully
+      worded run-rate target with a 2027 cash estimate; its one stretch is calling
+      the $131k-to-$84k fall "twelve months" when the brief only says "two years ago".
+    works_the_facts: It works out the pilot's annual value, the share of the list
+      that joined, the 875-member target, the 55-a-month pace needed against the roughly
+      150 a month the pilot reached, the $34k ad projection, and the roughly $52k
+      of membership income in the build-up year, and all of these are correct.
+    right_comparison: It sets membership against ads on their actual downward trend
+      ($34k projected for 2027) rather than a flat $84k, and compares the partial-year
+      membership income with that same declining figure.
+    qualification: It names early-adopter bias and cancellations as the risks and
+      sets three dated member counts, but only the March checkpoint has a stated consequence
+      (options to the board in April, including resuming ads).
+    objections: It answers "why not run both" and handles the ad colleague with care,
+      but it doesn't address what the membership program and its marketing will cost,
+      or whether more selling effort could slow the ad decline, which the members
+      from sales are likely to raise.
+    fit: It is a proper board memo with a clear decision request and tight sections,
+      at about one page, perhaps running slightly over.

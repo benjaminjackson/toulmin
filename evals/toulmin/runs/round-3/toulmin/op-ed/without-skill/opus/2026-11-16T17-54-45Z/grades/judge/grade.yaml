@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T17:55:40.119889+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 576
+  tags: []
+  notes: extracted 576 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 4
+    objections: 5
+    fit: 8
+  details:
+    agree: The nurse's first-hand counts and the neighboring district make a persuasive
+      case to a sympathetic parent, but a resisting reader who drops a child off before
+      an 8 a.m. shift or who backs the athletic director gets only a promise of a
+      'concrete plan' and is told their problems are 'logistics', which may not win
+      them over.
+    honest: The piece correctly refuses the brief's request to promise a higher graduation
+      rate and reports the figures accurately, but it adds unsupported specifics like
+      teens not falling asleep 'much before 11 p.m.' and the 9:30 mid-morning framing.
+    works_the_facts: It works out the 72 percent sleep figure and shows that first-period
+      visits exceed second and third period combined, but it leaves other useful numbers
+      unworked, such as first period being more than double either later period or
+      any per-student framing of the $180,000.
+    right_comparison: The status quo is described in concrete terms from the nurse's
+      log and the survey, but it is set against logistics in a rhetorical 'scale'
+      rather than a measured comparison, and the brief has no trend data to use.
+    qualification: 'The hedge that a later bell may not raise the 84 percent rate
+      is honest, but nothing in it can be checked: no target, no date for review,
+      and no consequence if attendance or tardies don''t improve.'
+    objections: All three objections are stated fairly, but the answers are vague
+      asks ('supervised space', 'a hard look', 'clear accounting') rather than real
+      solutions, and the athletics and working-parent concerns are partly brushed
+      aside as mere logistics.
+    fit: It is a well-shaped op-ed with a headline, a first-person voice, a clear
+      call to vote yes on April 14 and a byline, and it comes in under 650 words.

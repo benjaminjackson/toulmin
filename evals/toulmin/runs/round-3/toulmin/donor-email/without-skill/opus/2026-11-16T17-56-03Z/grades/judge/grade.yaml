@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T17:56:40.007257+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 184
+  tags: []
+  notes: extracted 184 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 5
+    honest: 9
+    works_the_facts: 5
+    right_comparison: 3
+    qualification: 6
+    objections: 4
+    fit: 8
+  details:
+    agree: The match and the $575-equals-a-year figure are concrete reasons to give,
+      but a reader still angry about Eastside gets an apology without a reason to
+      trust the school again, so many would stay lapsed.
+    honest: The email correctly drops the brief's unsupportable promise that every
+      waiting child gets a place, and every figure it uses comes from the brief, though
+      'every child we fund comes off the waiting list' is a circular line that only
+      sounds like a promise.
+    works_the_facts: The $85-to-$170 and $575-to-$1,150 conversions are good, but
+      the email never works out that the full list costs $70,150 or that a fully used
+      match ($30,000 total) would fund about 26 of the 61 children.
+    right_comparison: It never says what happens if the reader does not give (children
+      stay on the list, the match goes unclaimed), and it gives no sense of the shortfall
+      against last year's $1,240.
+    qualification: The $15,000 cap and the December 31 deadline are stated and checkable,
+      but 'until the match runs out' doesn't say that gifts after the cap go unmatched
+      or how close the match is to being used up.
+    objections: The Eastside closure is acknowledged with respect, but there's no
+      explanation, no word on what has changed, and no link between the waiting-list
+      children and the Eastside community, so the main objection is named rather than
+      answered.
+    fit: It's well under 250 words, set out as an email with a subject line and a
+      clear call to action, and signed by the executive director as the brief asked.

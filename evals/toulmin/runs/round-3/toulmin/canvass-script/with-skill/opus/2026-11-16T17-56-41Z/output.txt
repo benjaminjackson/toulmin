@@ -1,0 +1,57 @@
+I wrote the script, but I left out the coffee line. I'd recommend volunteers don't use it, especially in Ridgeview.
+
+**The math on the coffee line.** At 19 cents per $1,000:
+- **The city's median home ($410,000):** $77.90 a year, or about $6.50 a month. That's about what a café latte costs, so "less than a cup of coffee" is borderline even here.
+- **Ridgeview's median home ($640,000):** $121.60 a year, or about $10 a month. That's clearly more than a cup of coffee.
+- **Renters (38% of households):** they don't get a levy bill directly, so "the average household" doesn't match the home-value figure the cost is based on.
+
+The first doors are retired homeowners on fixed incomes. They know their assessments, and the neighborhood association president has a letter in the paper this week calling the levy "a blank check." If a volunteer gives a low number and the voter works out $10, that proves the opponent's point. Giving the real number first is what makes the rest of the pitch believable. The strongest thing you have in Ridgeview isn't the price anyway. It's that their own branch closes in July if the levy fails.
+
+**Before you print:**
+- **Branch location:** fill in the Ridgeview branch's street on the card.
+- **Ballot wording:** if the measure legally limits the money to these uses, add "by law" to the blank-check answer. That makes it much stronger. I didn't write it in because your facts don't say so.
+- **Senior help:** if your state or county has a senior property-tax exemption or deferral program, a one-line mention would help a lot with fixed-income voters. Check first, because I couldn't confirm one.
+- **"Set rate" wording:** the rate is fixed, but the dollar amount goes up if a home's assessed value goes up. The script says "set rate" and avoids "your cost won't change" for that reason. Volunteers shouldn't promise a fixed bill.
+- **Other precincts:** after Ridgeview, swap the cost line for "about $6.50 a month on a typical home in the city, $78 a year."
+
+The main script runs about 60 seconds, which leaves time for one objection inside 90.
+
+<final_document>
+**YES ON MEASURE 4: RIDGEVIEW DOOR CARD**
+
+**OPEN**
+"Hi, I'm [name], a volunteer with Yes on Measure 4, the library levy on the March ballot. Do you have a minute?"
+
+**THE CORE**
+"If Measure 4 doesn't pass, the Ridgeview branch on [street] closes this July. Measure 4 keeps it open, and it brings back Sunday hours at all five branches in the city.
+
+On a typical Ridgeview home it costs about $10 a month, $122 a year. It's a set rate, and it ends after six years.
+
+Library visits are up 22% since 2021. People here use this branch, and we'd like to keep it."
+
+**ASK**
+"Can we count on your yes vote in March?"
+
+**IF THEY SAY…**
+
+*"It's a blank check."*
+"It's a set rate, 19 cents per $1,000 of assessed value, and it ends after six years. It raises $2.3 million a year for two things: keeping this branch open and bringing back Sunday hours."
+
+*"I'm on a fixed income."*
+"That's fair, and I won't tell you $10 a month is nothing. What it pays for is keeping our branch open. Without it, the branch closes in July."
+
+*"Does anyone still use the library?"*
+"More people than before. Visits are up 22% since 2021."
+
+**CLOSE**
+- **Yes:** "Thank you! Can I leave this with you?" Hand over the literature and mark the card.
+- **Undecided:** "Can I leave this with you? The vote's in March." Mark the card.
+- **No:** "Thanks for your time." Mark the card and move on. Don't argue.
+
+**VOLUNTEER NOTES**
+- Give the real cost: $10 a month, $122 a year. Don't round it down or compare it to coffee.
+- Don't say the levy's cost will never change. The rate is set, but the bill follows the home's assessed value.
+- Don't mention or argue about the neighborhood association president or the letter in the paper.
+- If you don't know an answer, say so, and offer to have the campaign follow up.
+- The last levy lost 48–52. Every conversation counts.
+</final_document>

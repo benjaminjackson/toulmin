@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T17:57:34.123295+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 586
+  tags: []
+  notes: extracted 586 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 3
+    objections: 7
+    fit: 8
+  details:
+    agree: The nurse's office numbers and the AAP standard make a strong case. A parent
+      with an 8 a.m. shift or a board member weighing $180,000 a year, though, gets
+      proposed fixes that are vague and uncosted, so a resistant reader may stay unconvinced.
+    honest: The piece declines to promise a graduation increase and uses the brief's
+      numbers accurately. It does add a few unsupported details, such as students
+      on a bus before sunrise and the chain of failed first-period courses.
+    works_the_facts: 'It works out 72%, the 369 combined visits and ''one in six''
+      from 84%. It leaves easy gains unused: 412 visits is more than double either
+      later period, and one point of attendance is roughly two school days per student
+      per year.'
+    right_comparison: The current schedule is shown concretely through the morning
+      visits and the sleep survey, and the comparison district is reported fairly.
+      There is no trend data on whether things here are getting worse, and the costs
+      of the status quo are asserted, not quantified.
+    qualification: 'The hedge ''I can''t promise a specific bump'' is honest but gives
+      the reader nothing to check later: no target for attendance, tardies or nurse
+      visits, no date and no consequence if results fall short.'
+    objections: 'It names and answers all three real objections: athletics, working
+      parents and cost. But the answers are generic suggestions, and the supervised
+      early-arrival space would itself cost money the piece doesn''t acknowledge.'
+    fit: It is a properly structured op-ed with a headline, a clear ask, a call to
+      action and a byline, it comes in under 650 words, and it leaves sensible placeholders
+      for names.

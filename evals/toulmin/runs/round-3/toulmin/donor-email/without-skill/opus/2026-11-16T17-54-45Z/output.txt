@@ -1,0 +1,44 @@
+I left out the line saying their gift guarantees every child on the waiting list a place in January. The numbers don't support it:
+
+- **Cost to clear the list:** 61 × $1,150 = $70,150.
+- **Best case from this list:** If all 340 lapsed donors gave their average $85 and the full $15,000 match came in, you'd raise about $43,900. That still leaves about $26,000 to go.
+- **Realistic case:** Last year this group gave $1,240. Even if the match triples the response, you'd likely raise somewhere in the low thousands.
+
+People who give and then find out "every child" wasn't placed tend to stop giving again. Your former board member may also forward this email with comments. So the draft makes a promise you can keep: each $575, once matched, pays for one child's full year of lessons.
+
+**Before sending, check these:**
+1. **The Eastside paragraph.** Your lapsed donors left over Eastside, and some told you why. If the email ignores that, it reads like a form letter. I kept the acknowledgment short and didn't make any claims about what happened. Fill in the bracketed sentence only if something has actually changed, such as Eastside-area kids being on the waiting list or lessons being offered in that neighborhood. If nothing has changed, delete the sentence and keep the rest.
+2. **"Starts lessons in January."** Make sure you have the teachers and space to start funded kids in January.
+3. **Who counts as a returning donor.** Confirm the foundation's definition matches this list (gave 2019–2022, nothing since).
+
+The email is about 220 words.
+
+<final_document>
+**Subject:** 61 kids are waiting, and your gift counts twice this month
+
+Dear [First name],
+
+You used to give to [School name], and it's been a while. I want to tell you plainly where things stand.
+
+Right now, 61 children are on our waiting list for subsidized lessons. A year of weekly lessons costs us $1,150 per child. That cost is the only thing between a kid who wants to learn an instrument and a kid who gets to.
+
+I also know some of you stepped away after we closed Eastside in 2022, and some of you told us why. Those notes were fair, and we read every one. [Optional: one true sentence about what has changed since then.]
+
+This December, a family foundation will match every gift from returning donors dollar for dollar, up to $15,000, through December 31.
+
+That means:
+- $85 becomes $170
+- $575 becomes $1,150, a full year of lessons for one child
+- Any amount you give is doubled
+
+Every $1,150 we raise moves another child off the waiting list and into lessons in January. We're working to place as many of the 61 as we can, and your gift goes twice as far toward that this month.
+
+**[Give now and double your gift]**
+
+If you've been waiting for a reason to come back, I hope this is it.
+
+With gratitude,
+
+[Name]
+Executive Director, [School name]
+</final_document>

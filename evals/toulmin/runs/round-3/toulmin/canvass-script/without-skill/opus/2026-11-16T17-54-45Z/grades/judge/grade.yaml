@@ -1,0 +1,52 @@
+grader: judge
+graded: '2026-11-16T17:55:22.293159+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 316
+  tags: []
+  notes: extracted 316 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 8
+    qualification: 7
+    objections: 7
+    fit: 9
+  details:
+    agree: For a retired Ridgeview no-voter, the July closure of their own branch
+      and a plain, honest cost figure have a fair chance of moving them, but the script
+      offers little to outweigh $122 a year on a fixed income.
+    honest: The script drops the coffee line, which would be false for Ridgeview,
+      and its figures are correct, but 'walking distance' and 'I'm a neighbor' go
+      beyond what the brief gives.
+    works_the_facts: It correctly turns the rate and the $640,000 median into $122
+      a year, about $10 a month and 33 cents a day, but it never uses a per-branch
+      or per-visit figure that could make the cost feel smaller.
+    right_comparison: 'It describes the no-vote alternative accurately: the branch
+      closes in July and Sunday hours stay gone, while visits have risen 22% since
+      2021.'
+    qualification: The one hedge, that the levy ends after six years unless voters
+      renew it, is concrete and checkable, but it gives no end year.
+    objections: It answers the 'blank check' charge directly with the fixed rate,
+      the end date and the specific uses, and handles fixed income with candour, though
+      without much to offset the cost.
+    fit: It fits one side of a card, the spoken script runs about 60 to 90 seconds,
+      and the branches and tally boxes are practical for volunteers.

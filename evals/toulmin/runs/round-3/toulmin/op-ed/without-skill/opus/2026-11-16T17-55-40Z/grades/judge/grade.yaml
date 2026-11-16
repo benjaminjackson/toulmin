@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T17:56:40.398107+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 642
+  tags: []
+  notes: extracted 642 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 3
+    objections: 6
+    fit: 8
+  details:
+    agree: The nurse's first-period evidence and the neighbouring district make a
+      warm, credible case, but a board member worried about the $180,000 gets only
+      a vague 'weigh it against what we're losing' and may stay unconvinced.
+    honest: It rightly declines to promise a higher graduation rate and gets 72 percent
+      and one in six right, but 'the first-period problem affects nearly all of them'
+      and 'lessons that never sink in' go beyond what 412 visits and a 72 percent
+      survey figure support.
+    works_the_facts: It works out 72 percent and one in six, but it never turns the
+      one-point attendance gain into school days, the 412 versus 369 gap into a daily
+      figure, or the $180,000 into a cost per student, so the strongest true forms
+      are left unused.
+    right_comparison: The status quo is drawn from the nurse's logs and set against
+      the district that already moved, but the brief has no trend data and the piece
+      doesn't say clearly what continuing at 7:25 would cost over time.
+    qualification: 'The graduation hedge is honest but gives the reader nothing to
+      check: no target for tardies or attendance, no date for review, and no consequence
+      if the results don''t come.'
+    objections: The athletics and parent drop-off objections get concrete answers
+      (adjusted practices and a supervised early room), but the cost objection is
+      acknowledged and never actually met.
+    fit: It is a proper op-ed with a headline, a direct ask tied to the April 14 vote
+      and a byline, and it appears to be within the 650-word limit.

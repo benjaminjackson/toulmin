@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T17:56:41.203938+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 258
+  tags: []
+  notes: extracted 258 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 8
+    qualification: 7
+    objections: 7
+    fit: 9
+  details:
+    agree: Being upfront about about $122 a year and naming the July branch closure
+      gives a skeptical retired homeowner a reason to listen, but nothing speaks directly
+      to a fixed income beyond 'about $10 a month', so a past no voter may stay a
+      no.
+    honest: "The script drops the brief's coffee line in favour of the correct Ridgeview\
+      \ figure ($640,000 \xD7 0.19 per $1,000 \u2248 $122 a year), though saying the\
+      \ money goes to 'two things' and calling $2.3 million 'a fixed amount' is a\
+      \ bit stronger than the brief supports."
+    works_the_facts: It works out the yearly and monthly cost for the precinct's own
+      median home, but it misses friendlier true forms like about 33 cents a day or
+      the six-year total set against keeping a neighbourhood branch.
+    right_comparison: It states the alternative plainly (the Ridgeview branch closes
+      in July and Sunday hours stay gone) and pairs it with the 22% rise in visits.
+    qualification: The conditions the reader can check are concrete, with closure
+      in July if the measure fails and the levy ending after six years, though there
+      is no explicit end date or reference to the March vote date.
+    objections: It answers the 'blank check' charge from the president's letter directly
+      with the fixed rate, the named uses and the sunset, but the fixed-income cost
+      worry gets no specific answer.
+    fit: It is a compact one-sided card that reads in about 60 to 90 seconds, with
+      clear branches for yes, unsure and no.

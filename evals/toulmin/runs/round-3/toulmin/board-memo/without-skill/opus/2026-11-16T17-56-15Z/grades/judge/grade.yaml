@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T17:57:04.338467+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 373
+  tags: []
+  notes: extracted 373 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 8
+    qualification: 7
+    objections: 5
+    fit: 8
+  details:
+    agree: The board gets a clear, sober case with sensible checkpoints, but the ad-background
+      members are never told why ads must end rather than run alongside membership,
+      and the open placeholders on cash gap, retention and staffing leave obvious
+      grounds to delay the vote.
+    honest: The memo softens the brief's 'will replace' to 'our goal is', attributes
+      the 40% figure to the other newsroom, and uses placeholders instead of making
+      up retention or bridge-funding figures; only small touches like 'better than
+      anyone' go past the facts.
+    works_the_facts: "The derived figures are correct (36% drop, about $20k a year,\
+      \ 1.5%, 875 and 680 members, the $60\u201367k projection), but the memo misses\
+      \ the strongest one: at the pilot's pace of about 35 sign-ups a week from two\
+      \ mentions, a full year would reach roughly 1,800, well above the 875 needed."
+    right_comparison: "The alternative is shown as it really is: ad revenue falling\
+      \ and projected to fall further to about $60\u201367k, not the $84k or $131k\
+      \ level."
+    qualification: The June 30 checkpoint has a number (400 members), a date and a
+      consequence (return to the board with options including sponsorships), and quarterly
+      reports add more points to check, though the bracketed cash-gap plan leaves
+      one hedge without substance.
+    objections: The memo deals with the long-serving sales person and offers sponsorships
+      as a fallback, but it never answers the ad-minded members' main question, 'why
+      not keep ads and add membership?', beyond one line about staff time and page
+      space.
+    fit: It is a tightly structured board memo of about one page that ends with a
+      formal motion, which matches what the brief asked for.

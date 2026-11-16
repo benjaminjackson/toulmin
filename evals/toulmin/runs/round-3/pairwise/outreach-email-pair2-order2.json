@@ -1,0 +1,11 @@
+{
+  "task": "outreach-email",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T17-55-27Z",
+  "without_skill_run": "2026-11-16T17-55-16Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "reason": "B tells Dana the payoff at her own numbers: even the weaker result, a drop of about 20%, would save about $120K a year against a $75K cost. It also shows a fuller set of results than A, which gives only the best one, and it says plainly that it won't change her warehouse system, which matters to her IT director."
+}

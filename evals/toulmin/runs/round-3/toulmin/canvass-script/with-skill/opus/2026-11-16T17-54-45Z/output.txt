@@ -1,0 +1,53 @@
+I wrote the script, but I left out the coffee line because the numbers don't support it, especially in Ridgeview.
+
+- **Typical home in the city ($410,000):** $77.90 a year. That's about $6.50 a month, $1.50 a week or 21¢ a day.
+- **Typical home in Ridgeview ($640,000):** $121.60 a year. That's about $10 a month, $2.34 a week or 33¢ a day.
+
+At $10 a month, a Ridgeview household pays well over the price of one coffee. Also, 38% of households rent, so "the average household" doesn't really fit a property tax. Ridgeview has a lot of retirees who know their assessed values, and the association president is already calling this a blank check. If one person at the door does the math and catches a volunteer rounding down, that's exactly the story the opposition wants.
+
+So the card uses the real Ridgeview figure ("33 cents a day") and gives volunteers a simple way to work out any home's cost: $19 a year for every $100,000 of assessed value. If you want a coffee comparison, "about a cup of coffee a week" is defensible in Ridgeview ($2.34 a week). Even so, I'd lead with the dollar figure.
+
+**Before printing, check:**
+- **Senior or fixed-income tax relief.** If your state or county has a senior or low-income property tax relief program, add a line about it. It's the best answer to "I can't afford it," but I didn't include one because I don't know whether it exists.
+- **Oversight in the ballot language.** If the measure includes an audit, citizen oversight or a restriction on how the money can be used, add it to the "blank check" answer. It would make that answer much stronger.
+- **The first line.** Volunteers should say "neighbor" only if they live in Ridgeview.
+- **Other precincts.** For later precincts, swap the cost line to $78 a year, about $6.50 a month.
+
+The spoken part runs about 170 words, or roughly 75 seconds.
+
+<final_document>
+**YES ON MEASURE 4: RIDGEVIEW DOOR SCRIPT**
+
+**OPEN**
+"Hi, I'm ___, a volunteer [and a neighbor] with Yes on Measure 4, the library levy on the March ballot. Do you have a minute?"
+
+**WHAT'S AT STAKE**
+"If Measure 4 fails, the Ridgeview library branch closes in July. If it passes, Ridgeview stays open and Sunday hours come back at all five branches in the city."
+
+**THE COST** *(homeowners only. With renters, skip to WHY NOW.)*
+"I know a lot of folks here are on fixed incomes, so I'll give you the exact number. It's 19 cents per $1,000 of assessed value, which is $19 a year for every $100,000. On a typical Ridgeview home, that comes to about $122 a year, or 33 cents a day. It lasts six years, then it ends."
+
+**WHY NOW**
+"Library visits are up 22% since 2021, so people are using it more than ever. The last library levy lost by just four points, so every vote counts."
+
+**ASK**
+"Can we count on your YES vote on Measure 4 in March?"
+- Yes: thank them and mark **1**.
+- Unsure: "What would help you decide?" Listen, use a line below, and mark **3**.
+- No: thank them, move on and mark **5**. Don't argue.
+
+---
+
+**IF YOU HEAR…**
+
+**"It's a blank check."**
+"I've heard that, but it's actually very specific. The rate is fixed at 19 cents per $1,000, it ends after six years, and the $2.3 million a year pays for two named things: Sunday hours at all five branches, and keeping Ridgeview open."
+
+**"I can't afford another tax."**
+"That's fair. Let's work out your actual number: $19 a year for every $100,000 your home is assessed at." *(Do the math with them, then let them decide.)*
+
+**"I voted no last time."**
+"Plenty of neighbors did. What's different this time is that our branch closes in July without it."
+
+*Stay friendly. Don't discuss the neighborhood association or the letter in the paper. Use real numbers only, and if you don't know something, say "I'll find out" and write it down.*
+</final_document>
