@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-02-58Z",
+  "without_skill_run": "2026-11-16T21-33-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks directly to my worry that sales are too slow. It gives a break-even revenue target and a specific March–April 2027 milestone I can check in the monthly cash report. A honestly declines to promise profit but gives me nothing to measure sales growth against."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-catch-limit",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-07-41Z",
+  "without_skill_run": "2026-11-16T21-19-37Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "A gives the commission what it needs to act: it accepts the staff's numbers, offers trip logs and a test of a catch-reporting app, and names a specific alternative, which makes it easier to back a 3-fish limit. B assumes no recovery to get its $80,000 figure, and its claim that charter boats land the least flounder goes beyond the facts."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "recommendation-phd-applicant",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-09-36Z",
+  "without_skill_run": "2026-11-16T21-37-07Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A reads as a calibrated, specific letter: it names the study's limits precisely (one year, two marsh sites, storm gap) and quantifies the fieldwork, which makes the praise credible to me from an unknown college. B leaves a '[Surname]' placeholder, leans on generic praise lines ('few undergraduates...', 'unless they have earned it'), and spotlights the lack of a publication in a pleading tone, though its offer to answer questions is a small plus."
+}

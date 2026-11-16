@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-33-22Z",
+  "without_skill_run": "2026-11-16T21-19-29Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A admits up front that some pharmacies make back part of the loss on brand-name drugs. That answers my first objection before I can raise it, and it keeps A's claims within the facts. B never mentions the brand-name offset. It also stretches the facts: it treats the loss on 20 generics as a fifth of all its work done at a loss, and says every pharmacy still open is losing money, though $1.80 is only an average."
+}

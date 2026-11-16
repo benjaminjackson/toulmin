@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-11-11Z",
+  "without_skill_run": "2026-11-16T21-23-55Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A treats the remote hires with much more honesty and respect by directly acknowledging the broken agreement and the hard choices we face, without inventing unsettling confusion about Mondays and Fridays like Document B does. Note that both documents get the timeline wrong for the four distant staff—saying 'until the end of next year' meant giving them a full extra year beyond the September start date, not cutting it off three months later in December."
+}

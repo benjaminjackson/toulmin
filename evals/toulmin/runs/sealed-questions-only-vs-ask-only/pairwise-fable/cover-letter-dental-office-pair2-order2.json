@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "cover-letter-dental-office",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-05Z",
+  "without_skill_run": "2026-11-16T21-19-25Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B answers the things I'm actually worried about: she left her last job properly with notice, kept her bookkeeping current during the gap, can start in two weeks, covers my evening hours, and names a reference; it's also signed, whereas A ends with a placeholder and leaves the gap and availability unaddressed."
+}

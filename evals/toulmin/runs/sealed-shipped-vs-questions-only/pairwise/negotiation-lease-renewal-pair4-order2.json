@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-lease-renewal",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-24Z",
+  "without_skill_run": "2026-11-16T21-34-58Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "As the landlord, the $40,000 a new tenant would spend on a hood system and the reminder that the $28 unit is still empty make A's offer look like it saves me money. B deals with the late payments earlier and more warmly, but it leaves out that replacement cost."
+}

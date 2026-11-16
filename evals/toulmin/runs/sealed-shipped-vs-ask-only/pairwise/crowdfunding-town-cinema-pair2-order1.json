@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-02-41Z",
+  "without_skill_run": "2026-11-16T21-19-47Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A shows that $36,000 is already committed, including $11,000 from businesses in writing. That leaves $49,000, only $2,000 more than the town gave last time, which eases my worry about another round of refunds. B leaves out the business pledges and says the town must give $13,000 more than before, which makes another failure feel more likely."
+}

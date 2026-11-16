@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-23-55Z",
+  "without_skill_run": "2026-11-16T21-10-19Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me things that affect my decision: the $150 commuting support, a plain statement that there are no further exceptions, the meeting time, and a named partner who admits this breaks what remote hires agreed to. B leaves out the commuting money, ends with unfilled \"[Partner name]\" placeholders, and its \"act now rather than wait for more evidence\" line invites pushback."
+}

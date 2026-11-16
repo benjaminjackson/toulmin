@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-office-days",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-11-11Z",
+  "without_skill_run": "2026-11-16T21-23-55Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "As a remote hire, I'm more likely to stay and engage with B: it promises a six-month review with staff, admits remote work may not be the whole cause, says desks will be ready by August, and notes that most project leads already come in. Its line about Mondays and Fridays being undecided isn't in the brief, and A speaks to remote hires more warmly, but A's lack of any review makes leaving look more final."
+}

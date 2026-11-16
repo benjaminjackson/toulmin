@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-office-days",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-12-28Z",
+  "without_skill_run": "2026-11-16T21-38-45Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "B gives me the same facts plus a six-month review with staff, so I have a real channel to push back instead of just leaving. It also notes that five of six project leads already come in, and that the slower junior progress is not a judgement on them, which makes the change feel fairer and less of a decree."
+}

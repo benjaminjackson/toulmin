@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-37-50Z",
+  "without_skill_run": "2026-11-16T21-10-19Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me things that affect whether I stay: the $150 commuting support, a six-month review with staff, a plain statement that there are no other exceptions, the desk plan, and a named partner to talk to. B gives the same reasons but offers none of that and ends with unfilled \"[Partner name]\" placeholders, which reads as unfinished and less accountable."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "cover-letter-dental-office",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-42Z",
+  "without_skill_run": "2026-11-16T21-20-52Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A addresses the gap head-on, tells me she left her last job with proper notice for a clear reason, names a reference, and shows she kept her skills current with QuickBooks; B has more self-praise filler and leaves me wondering about the gap and who would vouch for her."
+}

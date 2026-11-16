@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:34:39.441050+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 300
+  tags: []
+  notes: extracted 300 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 6
+    objections: 8
+    fit: 9
+  details:
+    agree: The letter raises the March error before he can, owns it ('That was too
+      close'), and points to roughly 600 clean entries since, so a partner who doubts
+      her reliability is likely to at least take the meeting, though the case for
+      her supervisory readiness is thin.
+    honest: Every figure is one she supplied and 'June 2027' correctly reads 'next
+      June', but 'a second-person check to every entry' says a little more than 'added
+      a second-person check to the sheet' supports.
+    works_the_facts: 'She gives the raw numbers but derives nothing from them: the
+      90 hours (about 6%) over target is not stated, and the 600 error-free entries
+      are not set against the single error that came before.'
+    right_comparison: Hours are compared with the target and the sheet before and
+      after the fix, but the letter never says what the group loses without a senior
+      paralegal supervising three relatively new hires.
+    qualification: The commitments are checkable (weekly check-ins, certification
+      by June 2027) and the 'can't promise' hedge is honest, but nothing says what
+      happens if the certification deadline is missed.
+    objections: His known objection, the March deadline, is met head-on with a cause,
+      a fix and a track record since, and the trainee who left is disclosed briefly
+      without dwelling on it.
+    fit: It is a properly addressed letter of about 330 words, under the 400-word
+      limit, and it ends with a clear request for a meeting before December 15.

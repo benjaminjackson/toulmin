@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "win-back-home-cleaning",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-11-34Z",
+  "without_skill_run": "2026-11-16T21-23-39Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "I left over price, and A is the one that speaks to that directly: it names the $25 gap and tells me something I didn't know, that my app service's contractors carry no insurance on the visit. B is warmer and puts $99 in the subject line, but it leads with a cleaner complaint I never had, and \"nobody you haven't met will turn up\" promises more than a named backup supports."
+}

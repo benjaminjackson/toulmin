@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T21:09:37.791418+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 420
+  tags: []
+  notes: extracted 420 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 4
+    honest: 5
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 4
+    objections: 3
+    fit: 7
+  details:
+    agree: A reader who discounts small-college letters would see 'without reservation'
+      and generic praise, with nothing calibrated to separate Priya from everyone
+      else this professor praises, so the letter is likely to be discounted.
+    honest: 'It properly avoids the ''ready for a top journal'' claim, but it invents
+      details: ''every season and all kinds of weather'', the classroom questions,
+      the conversation about a second season, and ''audience of working scientists''.'
+    works_the_facts: 'It uses the 28-student class and the 90 trips over 14 months,
+      but it derives nothing from them (such as roughly 1.5 trips a week over a year),
+      and it leaves out the strongest facts: 40 letters written and 2 declined, top
+      3 of 17 years, she ran water sampling alone, and the supervisor would rehire
+      her.'
+    right_comparison: The only comparison is 'among the most ambitious' of 30 theses,
+      which is weaker than the user's 'one of the 3 best students in 17 years', the
+      benchmark a skeptical reader needs.
+    qualification: The hedge about publication names real limits (the storm gap and
+      one unrepeated cycle) but gives the reader nothing to check, such as an offer
+      to send the thesis, and no number or timeline.
+    objections: The central objection, that small-college letters praise everyone,
+      is never addressed, even though the 2-of-40 refusals and the top-3 ranking would
+      answer it directly.
+    fit: It is a properly formed one-page recommendation letter, though it is full
+      of placeholders for names the user could have supplied.

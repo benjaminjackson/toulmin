@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "win-back-home-cleaning",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-12-32Z",
+  "without_skill_run": "2026-11-16T21-38-12Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A tells me what my $25 saving is actually costing me (app cleaners are mostly uninsured contractors) and gives me a real phone number and the concrete promise of \"one of two people you know by name\". B leaves the price gap unanswered and still has a [phone] placeholder."
+}

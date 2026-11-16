@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-05-35Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is addressed to me by name, ties itself to the January cycle, admits the March error was \"much too close,\" and asks for a specific meeting. B still has placeholder names, treats the error more as a lesson learned, and brings up pay, so it reads as less finished and less self-aware about the thing I raised in her review."
+}

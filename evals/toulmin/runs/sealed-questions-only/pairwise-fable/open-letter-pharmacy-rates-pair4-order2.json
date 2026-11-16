@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-21Z",
+  "without_skill_run": "2026-11-16T21-06-50Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B answers my two standing objections: it shows chains are 20+ miles away in 14 counties and that two pharmacies will stop serving my members, and it offers invoices to verify the loss while admitting what it doesn't know (brand offsets, closure causes). A reads like the yearly complaint, leaves placeholders, and adds a transparency demand without giving me anything to check."
+}

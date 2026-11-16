@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:08:56.789390+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 306
+  tags: []
+  notes: extracted 306 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 8
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 6
+    objections: 8
+    fit: 9
+  details:
+    agree: The deadline error he remembers is answered directly, backed by a fix and
+      a clean record across about 600 entries, and the request ends with a concrete
+      ask for a meeting, so a doubtful partner has good reason to take it seriously.
+    honest: Every figure matches the facts given, including June 2027 as 'next June',
+      and the attrition is disclosed, though 'I already do much of what the senior
+      role involves' slightly overstates what the training facts show.
+    works_the_facts: 'The figures are stated as given but never derived: the 90 hours
+      (about 6%) above target and the trainee retention rate are left uncomputed,
+      and the error''s real cost (a filing that went in two hours early, with no harm
+      done) isn''t framed in its best true form.'
+    right_comparison: The before-and-after comparison on the sheet is clear, but the
+      letter never compares promoting her with leaving the role unfilled, which is
+      the choice the partner actually faces.
+    qualification: Honestly saying she can't promise no future errors, and committing
+      to certification by June 2027, gives a dated, checkable commitment, but neither
+      the weekly check-in nor the certification says what happens if it's missed.
+    objections: The objection he raised in her review is met head-on with the March
+      error, the April fix and roughly 600 clean entries since, and the one-trainee
+      departure is disclosed without being blown up into a new objection.
+    fit: It is a properly addressed email of about 340 words, inside the 400-word
+      limit and in a tone suited to a managing partner.

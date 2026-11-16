@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "grant-eviction-defense",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is complete and candid: it discloses the departing attorney, the missing comparison figure with a plan to get it, the full funding stack, and concrete six-month reporting. B is riddled with unfilled brackets (funding source, renewal status, sustainability, role), omits the June departure, and so reads as an unfinished draft I could not score well."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-07-24Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B opens by accepting our staff's 78% figure, limits itself to the captain's own books, and offers two concrete alternatives (3 fish or a shorter season) that we could actually adopt. A makes a similar case but concedes the science late, says he \"never got all the way back\" (more than his numbers show), and adds mortgage and crew details that are not in his facts."
+}

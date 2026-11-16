@@ -1,0 +1,46 @@
+task:
+  name: open-letter-pharmacy-rates
+  type: open-letter
+  set: sealed
+  reader: The director of pharmacy benefits at the state employees' health plan, who sets what the plan pays pharmacies. She thinks independent pharmacies complain about rates every year and that the plan's members have plenty of chain pharmacies to use.
+  prompt: 'Help me write an open letter. I own an independent pharmacy, and I''m writing for 38 independent pharmacies in our state to the state employees'' health plan. We''ll send it to the plan and to the two newspapers in the capital.
+
+
+    Facts:
+
+    - Since January the plan pays us on average $1.80 less per prescription than it costs us to buy and fill it, for the 20 generic drugs we fill most.
+
+    - Plan members make up about 22% of the prescriptions at our 38 pharmacies.
+
+    - 9 independent pharmacies in the state closed in the last 2 years. We don''t know how many closed because of rates.
+
+    - In 14 counties, the nearest pharmacy for most people is an independent one.
+
+    - The plan''s contract with its pharmacy benefit manager comes up for renewal on July 1.
+
+    - My own pharmacy filled about 3,100 prescriptions for plan members last year.
+
+
+    I want the letter to say that a third of the independent pharmacies in the state will close within a year if nothing changes. One page.'
+  user_knows: '- Our group is the Main Street Pharmacy Alliance. I''m Tom Reilly, owner of Reilly Drug in Carver.
+
+    - In those 14 counties, the nearest chain pharmacy is more than 20 miles away for most people.
+
+    - Two of our 38 pharmacies have told me they will stop filling for plan members if nothing changes.
+
+    - Some of us make up part of the loss on brand-name drugs. I don''t know by how much.
+
+    - What we want: the July 1 contract renewal should pay at least what the drug costs us, plus a fill fee.
+
+    - I can commit to sharing our purchase invoices for the 20 drugs with the plan.
+
+    - I can commit to meeting the plan''s staff any time before May 1.
+
+    - I cannot name pharmacies that will close, or say how many of the 9 closed because of rates. If it is pointed out that "a third within a year" goes past the facts, I accept a claim the facts support instead.'
+config:
+  name: without-skill
+  runner: /Users/ben/github/toulmin/evals/toulmin/run-with-skill
+  model: opus
+started: '2026-11-16T21:34:27.548366+00:00'
+duration_seconds: 41.18
+exit_code: 0

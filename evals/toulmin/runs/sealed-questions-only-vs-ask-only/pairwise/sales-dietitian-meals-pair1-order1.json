@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-35-32Z",
+  "without_skill_run": "2026-11-16T21-21-43Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A offers a 15-minute call with the dietitian before starting, which speaks directly to someone who has quit other programs, and it is more open about the A1C data: it gives the 0.6-point average and says medication changes weren't tracked. B leaves out the call, and its line that the dietitian doesn't use a template or an algorithm isn't supported by the facts."
+}

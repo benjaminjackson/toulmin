@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-01Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B answers my memory of the March error with evidence: about 600 deadlines since April with none wrong or missed. That shows the fix worked, where A only says a fix was made. B is also candid that one trainee left, and it asks what I'd want to see if the promotion isn't possible this cycle, which makes it more credible and easier to act on."
+}

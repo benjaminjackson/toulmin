@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-catch-limit",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-28Z",
+  "without_skill_run": "2026-11-16T21-09-11Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B accepts the staff's numbers, makes a specific ask (3 fish or a shorter season), and offers trip logs and a reporting-app pilot. It gives commissioners something they can act on and that is new compared with the usual captain testimony. Its claim about the two captains who would sell is also honestly hedged. A has placeholders, makes vaguer asks, and argues that the cut \"saves comparatively few fish,\" which the brief doesn't support."
+}

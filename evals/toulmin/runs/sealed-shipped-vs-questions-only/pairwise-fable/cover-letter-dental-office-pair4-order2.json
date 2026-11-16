@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "cover-letter-dental-office",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-04-10Z",
+  "without_skill_run": "2026-11-16T21-34-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B leads with the comparable practice size, the billing result and the Dentrix plan before the gap, and presents the caregiving years as skills kept in use. A flags the gap outright and mentions leaving on two weeks' notice, which stings given how my last manager left, though its QuickBooks treasurer detail is a real plus."
+}

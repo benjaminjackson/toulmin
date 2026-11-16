@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T21:22:54.774387+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 156
+  tags: []
+  notes: extracted 156 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 4
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 6
+    qualification: 7
+    objections: 5
+    fit: 8
+  details:
+    agree: A reader saving $25 a visit with no complaints might try the one $99 visit,
+      but nothing gives them a reason to stay at $165 when the app costs $140, so
+      winning them back for good is unlikely.
+    honest: Every figure matches the brief, and it rightly avoids promising the same
+      cleaner every time, though 'You'll always know who's coming' stretches slightly
+      past a regular cleaner plus a named backup.
+    works_the_facts: 'It gives raw prices but never works out the figures that would
+      persuade: the $99 visit costs $41 less than the app, staff turnover fell from
+      7 of 18 a year to 1 since July, and the old rate meant 4 in 10 customers had
+      their cleaner change.'
+    right_comparison: It describes the app alternative accurately on price and insurance
+      and shows the company's own turnover improving, but it doesn't say what the
+      price gap adds up to over a year.
+    qualification: 'The hedges are concrete and checkable: a named backup for sick
+      days and holidays, and an offer that ends December 31.'
+    objections: It faces the price objection directly, but it never explains why insurance
+      or employed cleaners should matter to someone with no complaint about the app,
+      so the $25 gap stays unanswered.
+    fit: It's a short email of about 160 words with a clear offer and ways to book,
+      close to the requested 150.

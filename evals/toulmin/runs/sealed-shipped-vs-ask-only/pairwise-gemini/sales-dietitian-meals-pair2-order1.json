@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-09-05Z",
+  "without_skill_run": "2026-11-16T21-22-34Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A earns my trust right away by putting the disclaimer first and explicitly admitting they don't track medication changes, whereas Document B bolds the A1C drop like a standard sales pitch and slightly misstates the 0.6 average as applying only to the ten who improved. Having quit a meal service before, I also appreciate that A directly addresses food fatigue and gives me a button to talk to Lena before handing over my credit card."
+}

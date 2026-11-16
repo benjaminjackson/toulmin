@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-35-32Z",
+  "without_skill_run": "2026-11-16T21-08-31Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "I've quit diet apps and meal services before, so what I need to know is that there's no contract, I can skip or cancel any time, I can swap meals, and I get a 15-minute call with the dietitian. A tells me all of that and also says plainly that medication changes weren't tracked, while B leaves those out and adds claims it can't back up, like protein and fiber content and why people stay."
+}

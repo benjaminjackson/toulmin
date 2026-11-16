@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T21:08:34.652577+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 360
+  tags: []
+  notes: extracted 360 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 4
+    objections: 4
+    fit: 9
+  details:
+    agree: 'The specific, measured detail helps this skeptical reader. It still leaves
+      out her strongest calibrating fact: in 17 years she has written about 40 letters
+      and declined to write a strong one for 2 students, so a reader who discounts
+      small colleges may still read the praise as routine.'
+    honest: The letter correctly drops the top-journal claim and states the study's
+      limits. However, 'without missing her sampling' is invented and sits awkwardly
+      with the three months of storm-lost data at one site.
+    works_the_facts: It works out a useful figure (90 trips over 14 months, about
+      six a month in every season). It does not turn '3 best' into something checkable
+      against about 30 theses or the 2-of-40 letter record.
+    right_comparison: Her rank is given only as 'one of the three best' and 'few undergraduates'
+      can manage the fieldwork. The letter never shows the comparison pool, such as
+      about 30 thesis students and 40 letters with 2 declined, that would make the
+      ranking credible.
+    qualification: "The hedge about the publication ('with a second season of data\u2026\
+      \ could reach a peer-reviewed journal') is honest, but it gives no timeline\
+      \ and no way for the reader to check it, such as an offer to send the thesis."
+    objections: 'The ''small colleges praise everyone'' objection goes largely unanswered:
+      the letter does not mention the 2 declined letters, offers no thesis on request,
+      and replaces a firm commitment to answer calls or email with a vague ''glad
+      to discuss.'''
+    fit: It is a properly formed recommendation letter that fits within one page.

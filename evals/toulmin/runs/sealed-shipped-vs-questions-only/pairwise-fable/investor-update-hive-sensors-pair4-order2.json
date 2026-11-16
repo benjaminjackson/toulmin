@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "investor-update-hive-sensors",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-50Z",
+  "without_skill_run": "2026-11-16T21-35-52Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B opens better and states the stakes more forcefully, but it asserts \"We haven't lost a customer to them,\" which the brief does not support. A stays closer to the facts, admits it doesn't know whether the three testers will switch, and names the three metrics I'd judge the next season on, which matters more to me as a partner worried about slow sales."
+}

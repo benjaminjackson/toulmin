@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-02-41Z",
+  "without_skill_run": "2026-11-16T21-33-05Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "As someone who saw the last campaign end in refunds and just gave to the ambulance fund, I trust A more because it tells me up front that the roof estimate could rise by 15% and promises a spending report every three months at the library. B's \"$7.50 each\" and \"only $2,000 more than last time\" are persuasive, but B leaves out the roof risk and the reporting promise, so it feels more like salesmanship."
+}

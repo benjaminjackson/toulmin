@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-04-47Z",
+  "without_skill_run": "2026-11-16T21-21-11Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A speaks directly to my worry that sales are too slow: it spells out that revenue must more than double to break even, ties that to the 2.6x growth in paying beekeepers, and shows the cash cliff and the margin at a $45 price. B stays vaguer and leaves the reply date as a placeholder."
+}

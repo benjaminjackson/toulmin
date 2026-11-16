@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-20-59Z",
+  "without_skill_run": "2026-11-16T21-02-51Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B gives a complete, fundable picture: the clinic is named, the $33,000 yearly gap is covered by a family-fund pledge and the general budget, the plan does not depend on the county contract, and it commits to six-month reports. Document A is full of bracketed placeholders and leaves $66,000 unfunded, which a rubric-scoring judge would mark down at once."
+}

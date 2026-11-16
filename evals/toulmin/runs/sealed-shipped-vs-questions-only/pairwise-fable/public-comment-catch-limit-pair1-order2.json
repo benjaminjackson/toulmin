@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-16Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both make the same case, but B stays inside what Captain Dunn can back up and asks that staff weigh a 3-fish limit or shorter season, which fits our trust in staff. A asserts that either alternative \"lets the stock recover\" and that he \"never got back to 170\", plus knock-on harm to docks and restaurants, none of which he has evidence for."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-32Z",
+  "without_skill_run": "2026-11-16T21-35-51Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B is more persuasive because it estimates the new attorney's impact (about 80 more tenants a year, roughly a quarter of those turned away). A only says the hire will take cases the clinic now turns away. B does stretch the facts a little, though: it reads the 80 open cases per attorney as an annual rate and drops A's frank note that county renewal is uncertain, so the gap is small."
+}

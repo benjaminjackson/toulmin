@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-28Z",
+  "without_skill_run": "2026-11-16T21-21-32Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Both accept our staff's stock numbers and ask for the same alternatives, but B admits what the captain cannot know about closures and offers trip logs and a catch-reporting pilot, which gives us something concrete beyond the hardship testimony we hear at every hearing. A's claim that either alternative 'protects the stock' is asserted without support and its 'never got all the way back' slightly overreaches."
+}

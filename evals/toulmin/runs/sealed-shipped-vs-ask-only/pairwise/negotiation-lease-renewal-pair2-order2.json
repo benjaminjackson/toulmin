@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-lease-renewal",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-04-31Z",
+  "without_skill_run": "2026-11-16T21-19-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks to my real worries. It offers automatic payment on the 1st, which answers my concern about the late payments. It points out that a coffee chain wouldn't use the $40,000 hood. It also commits to signing within two weeks. A is gracious, but it gives me less reason to turn down the coffee chain or to trust that rent will arrive on time."
+}

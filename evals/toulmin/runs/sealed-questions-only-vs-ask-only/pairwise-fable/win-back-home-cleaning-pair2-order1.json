@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "win-back-home-cleaning",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-36-38Z",
+  "without_skill_run": "2026-11-16T21-22-54Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both are honest that they can't match the app price and both make the $99, no-contract offer. A gives me more reason to pay the extra $25: cleaners paid $21 an hour, only 1 of 18 has left since the change, and most apps carry no insurance. B mainly restates the $165 vs $140 gap I already left over."
+}

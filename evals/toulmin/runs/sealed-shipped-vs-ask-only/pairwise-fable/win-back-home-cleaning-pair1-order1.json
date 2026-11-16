@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "win-back-home-cleaning",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-09-37Z",
+  "without_skill_run": "2026-11-16T21-22-10Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "I left over price, and B's \"We've worked on both\" sets me up to expect a lower price, then tells me it's still $165, which feels like a small bait. A says plainly that it hasn't matched the apps, explains what the $25 buys, and the 7-versus-1 turnover comparison makes the fix more believable."
+}

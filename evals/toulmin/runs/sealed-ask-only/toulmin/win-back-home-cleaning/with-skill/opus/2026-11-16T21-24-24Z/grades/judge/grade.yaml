@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:25:09.527752+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 142
+  tags: []
+  notes: extracted 142 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 4
+    honest: 7
+    works_the_facts: 3
+    right_comparison: 5
+    qualification: 7
+    objections: 4
+    fit: 8
+  details:
+    agree: 'This reader is happy saving about $25 a visit and has no complaint, so
+      the email gives them little reason to switch back: the $99 offer might get one
+      trial booking, but it never says what regular visits will cost after that or
+      that they can cancel any time.'
+    honest: Every figure is accurate and the email rightly avoids promising the same
+      cleaner every time, but the subject line 'We've fixed it' claims more than the
+      body does, since the price problem isn't fixed.
+    works_the_facts: 'The strongest numbers are missing: only 1 of 18 cleaners has
+      left since July, compared with 7 of 18 last year; $99 is $41 less than the app''s
+      $140; and the regular price gap is $25 a visit.'
+    right_comparison: It fairly says the app services mostly use contractors with
+      no insurance on the visit, but it gives neither side's actual price ($165 against
+      $140), which is the comparison this reader is making.
+    qualification: The offer has a checkable end date (December 31), and the backup
+      cleaner covers sick days and holidays, so the claim about regular cleaners is
+      honestly qualified; it gives no evidence (like the turnover figure) that the
+      regular-cleaner system is holding up.
+    objections: Pointing to employees and insurance only partly answers 'why pay $25
+      more?', and the email leaves out the no-contract, cancel-anytime commitment
+      that would make trying it again feel low-risk.
+    fit: It's a plain, roughly 150-word email with a clear call to action, and it
+      properly drops the 'same cleaner every time' promise the owner said she couldn't
+      keep.

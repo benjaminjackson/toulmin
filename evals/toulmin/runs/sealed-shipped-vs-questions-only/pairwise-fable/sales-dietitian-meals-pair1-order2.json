@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-07-57Z",
+  "without_skill_run": "2026-11-16T21-35-32Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both are honest about the small A1C sample and make no promise. A feels lower-pressure to me as a serial quitter: a clear how-it-works, a call about what I don't like, and a frank \"you've spent $59 and learned something\", where B adds a \"you won't get bored\" promise and a slightly pushy close. It is close, because B's caveat that customers chose to share their results is more candid and A ends with a stray tag."
+}

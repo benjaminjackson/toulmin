@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-04-41Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A answers my belief that members have plenty of chains to use: it says the nearest chain is more than 20 miles away in those 14 counties. It also offers invoices I can check, a meeting before May 1, and names two pharmacies that will stop serving our members, so it reads as something I can verify rather than the usual yearly complaint. B leaves out the chain distance, adds a PBM-disclosure demand that isn't in the facts, and offers nothing I can check."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "negotiation-lease-renewal",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-19-33Z",
+  "without_skill_run": "2026-11-16T21-04-11Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B addresses the late payments I still think about, explains them (cooler failure, nine-day closure), and thanks me for waiving the fees, while A ignores them entirely and arrives with unfilled placeholders. B also tells me plainly that $5,650 would close the restaurant and gives me a June 1 deadline, so I know the real choice and when to make it."
+}

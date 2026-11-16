@@ -1,0 +1,24 @@
+<final_document>
+Subject: You told us what went wrong. We've fixed it.
+
+Hi [First name],
+
+When you cancelled, you told us what went wrong. Two answers came up most often: price, and a different cleaner at the door each time.
+
+We've fixed the second one. Every customer now has their own regular cleaner, plus one named backup for sick days and holidays. You'll know them both by name.
+
+About price: we do cost more than the app services. Here's why. Our cleaners are employees paid $21 an hour, and every visit is insured. Most app services in our area use contractors, with no insurance on the visit.
+
+To make coming back easy, your first cleaning is $99. This offer ends December 31.
+
+Just reply to this email or call 555-0164, and we'll match you with your regular cleaner.
+
+Lisa Grant
+Owner, Brightway Home Cleaning
+</final_document>
+
+The email is about 140 words. A few notes:
+
+- **Cleaner wording:** I said "your own regular cleaner, plus one named backup" and avoided "never a stranger." On a day when both are out, a third person might show up, and that line would turn out to be false.
+- **Why I mentioned price:** Price was the top reason people left, so I addressed it. Saying it outright and explaining why you cost more comes across better than staying quiet about it. The contractor and insurance line is based on what you told me. Check that it's accurate before you send.
+- **A detail to settle first:** The email says nothing about whether the $99 cleaning requires going back on a regular schedule. If you'd want that, add it now. That's easier than turning down someone who books just one cleaning.

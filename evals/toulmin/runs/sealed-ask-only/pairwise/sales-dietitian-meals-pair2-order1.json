@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-22-34Z",
+  "without_skill_run": "2026-11-16T21-09-07Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who quit two apps and a meal service, I'd want to know I can leave easily and talk to a real person first. Document A tells me there's no contract, I can skip or cancel any time, and I can have a free 15-minute call with Lena, and it also offers meal swaps and a clear order deadline. Document B still has placeholders like [Service Name], and it has none of those reassurances."
+}

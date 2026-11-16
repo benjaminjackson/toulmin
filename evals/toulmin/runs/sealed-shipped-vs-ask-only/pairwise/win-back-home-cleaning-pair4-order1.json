@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-home-cleaning",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-12-32Z",
+  "without_skill_run": "2026-11-16T21-24-24Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "I left over price and the cleaner changes never bothered me, so A works better on me: it gives the real numbers ($99 then $165), says there's no contract and I can cancel any time, and shows that only 1 of 18 cleaners has left since July, which makes the $99 trial feel low-risk. B says 'you told us what went wrong' when I never complained, and it leaves out the regular price after the first visit, which makes me trust it less."
+}

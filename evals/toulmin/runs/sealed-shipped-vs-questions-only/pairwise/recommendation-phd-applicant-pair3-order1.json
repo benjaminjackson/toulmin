@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-09-36Z",
+  "without_skill_run": "2026-11-16T21-37-07Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives specific, carefully limited detail: the marsh effect rests on only two sites, the study covers one year, and a storm cost three months of data. That candor makes its praise believable to a skeptic who discounts small-college letters. Document B left a '[Surname]' placeholder in the letter, which looks careless and undercuts its credibility, even though it adds an offer to answer questions."
+}

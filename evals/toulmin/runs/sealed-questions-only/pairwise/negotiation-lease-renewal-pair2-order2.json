@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-lease-renewal",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-08Z",
+  "without_skill_run": "2026-11-16T21-04-11Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B brings up the late payments I still think about, gives the reason (the cooler failed), and fixes the problem with automatic payment. It also adds a fast signing date, the $40,000 hood replacement cost, and a June 1 deadline, which makes the deal concrete and easy to say yes to. A uses placeholder names, says nothing about the late payments, and offers less I can act on."
+}

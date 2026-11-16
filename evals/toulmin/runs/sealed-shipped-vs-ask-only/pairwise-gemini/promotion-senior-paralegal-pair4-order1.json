@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-08-01Z",
+  "without_skill_run": "2026-11-16T21-20-58Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A addresses the March deadline error with genuine candor rather than trying to spin it as a bullet point, and backs up the fix with the concrete result of 600 error-free entries since April. It also offers specific commitments for the supervisory role, whereas Document B invents a fact not in the brief (that every group using the sheet has the check) and relies on generic corporate language."
+}

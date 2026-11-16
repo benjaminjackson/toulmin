@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-lease-renewal",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-19-33Z",
+  "without_skill_run": "2026-11-16T21-04-11Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks to me by name and deals head-on with the two late payments I still bring up: it explains the cooler failure, notes they've paid on time since and thanks me for waiving the fees. It also says plainly that they can't pay $5,650, which makes $5,100 sound like a real offer, and it asks for an answer by June 1. A leaves out the late payments, which is the thing I care about, and still has placeholders like [Landlord's name] and [Restaurant name] in it, so it reads like a form letter."
+}

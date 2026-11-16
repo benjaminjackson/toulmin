@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "crowdfunding-town-cinema",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who remembers the refunds and has already given this month, B answers my doubts directly: it tells me exactly how much is left to raise ($49,000), when the cinema would reopen, that spending will be reported publicly at the library, and it is signed by a named person and candid about what it can't promise. A is honest about the earlier campaign but gives me less to go on and adds a year to the deadline that the facts don't state."
+}

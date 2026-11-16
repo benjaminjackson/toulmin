@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-22-26Z",
+  "without_skill_run": "2026-11-16T21-08-04Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A includes the specific details that would persuade a skeptical reader: she is one of the three best students in 17 years, she ran the lab's water sampling alone, and her supervisor said he'd hire her again. It also states plainly that the finding needs to be repeated. B is a template full of placeholders, and its broad praise such as 'most capable and committed' reads like the inflated praise I discount from small colleges."
+}

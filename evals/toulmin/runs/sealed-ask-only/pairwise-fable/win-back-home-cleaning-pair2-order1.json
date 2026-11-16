@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "win-back-home-cleaning",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-22-54Z",
+  "without_skill_run": "2026-11-16T21-10-14Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A tells me everything I need to decide: the real ongoing price ($165), no contract and cancel any time, a deadline, and a phone number, and it honestly admits it can't match the apps while explaining the insurance gap. B has unfilled placeholders for the company and owner name, no deadline, no post-offer price, and no mention that I can cancel, so it feels less trustworthy and gives me less reason to try the $99 visit."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "recommendation-phd-applicant",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-38-08Z",
+  "without_skill_run": "2026-11-16T21-24-08Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "The two letters give me nearly the same evidence and the same honest caveat about the unrepeated study, and neither tells me how selective this recommender is. B edges ahead because it names the college and the writer and stays within the facts, while A adds unsupported touches (\"without hesitation\", conversations with outside researchers at the poster) and \"without reservation\" boilerplate that I discount."
+}

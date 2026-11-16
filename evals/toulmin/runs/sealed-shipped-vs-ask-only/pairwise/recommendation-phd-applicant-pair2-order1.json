@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-08-34Z",
+  "without_skill_run": "2026-11-16T21-22-26Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "For a reader who distrusts small-college praise, A comes across as more credible because it names the limits itself: the storm cost one site three months of data, the result hasn't been repeated, and she has no publications. B leaves out the data gap and repeats her name awkwardly, though its offer to answer questions helps a little."
+}

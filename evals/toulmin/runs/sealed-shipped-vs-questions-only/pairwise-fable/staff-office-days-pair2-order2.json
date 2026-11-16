@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-10-04Z",
+  "without_skill_run": "2026-11-16T21-36-44Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both give me the same terms, but B admits the 30% figure doesn't prove remote work is the cause, shows concretely what juniors miss by not sharing a room, and openly invites a conversation if the job no longer works for me, which makes me trust it more as a remote hire. A's earlier acknowledgement of the remote hires and its project-leads fact are strong, so the gap is small."
+}

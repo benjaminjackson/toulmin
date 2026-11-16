@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "win-back-home-cleaning",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-24-24Z",
+  "without_skill_run": "2026-11-16T21-11-15Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is a finished email I can act on: it tells me the app service I now use likely carries no insurance on the visit, gives a deadline for the $99 offer, and tells me exactly how to book from a named owner. B has unfilled placeholders for the sender, company and booking link, no deadline, and doesn't give me a reason to doubt my cheaper service."
+}

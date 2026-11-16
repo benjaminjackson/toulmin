@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:20:13.180627+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 306
+  tags: []
+  notes: extracted 306 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 7
+    honest: 6
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 3
+    objections: 7
+    fit: 9
+  details:
+    agree: The March error is met directly with the second-person check and 600 clean
+      entries since then, which should satisfy a partner who remembers it, though
+      the case for supervision rests more on assertion than on commitments he could
+      hold her to.
+    honest: The claim that she has been supervising informally for two years stretches
+      'trained three hires' into supervision, and the training curriculum and the
+      budget uncertainty are added detail the facts don't supply.
+    works_the_facts: The 600 error-free entries are used well, but the 1,640 hours
+      against a 1,550 target is left raw instead of '90 hours, about 6% over target',
+      and nothing is derived from the 23 cases or the 4 lawyers.
+    right_comparison: The only alternative described is that someone must coordinate
+      three new hires anyway, and it brings in a budget question nobody raised instead
+      of showing what happens if the role stays unfilled.
+    qualification: She doesn't give the checkable commitments she had, the state certification
+      by next June and a weekly check-in, so the request carries no dated, verifiable
+      condition.
+    objections: The deadline error is raised before he can raise it and answered with
+      the fix and its result, but the unprompted budget objection hands him a reason
+      to defer.
+    fit: It is a clear email to the managing partner, well under 400 words, with a
+      specific meeting request.

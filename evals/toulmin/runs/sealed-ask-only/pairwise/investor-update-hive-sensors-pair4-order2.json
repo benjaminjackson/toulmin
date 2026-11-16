@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-22-24Z",
+  "without_skill_run": "2026-11-16T21-03-47Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me what I need to decide: real note terms, $250K already committed, a concrete cut to $75K a month in spending, and an honest disclosure that three customers are testing the cheaper sensor. A still has placeholders where the terms, the competitive response and the profitability plan should be, and it makes runway claims without numbers to back them. B does give the wrong reply deadline (December 15 instead of December 1), but that is a small flaw next to A's gaps."
+}

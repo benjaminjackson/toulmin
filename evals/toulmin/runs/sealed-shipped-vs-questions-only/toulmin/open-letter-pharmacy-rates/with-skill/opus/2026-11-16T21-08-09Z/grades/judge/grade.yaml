@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:09:16.879135+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 428
+  tags: []
+  notes: extracted 428 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 4
+    right_comparison: 7
+    qualification: 6
+    objections: 7
+    fit: 9
+  details:
+    agree: The offer of invoices and a pre-May 1 meeting, together with the 14-county
+      access gap, gives a skeptical director a concrete and low-cost reason to engage;
+      the letter states no dollar scale of loss that would make her act now.
+    honest: It drops the unsupported 'a third will close' claim, openly says it doesn't
+      know the brand-name offset or why the nine pharmacies closed, and invents nothing;
+      'they have to drive 20 miles' slightly firms up a 'for most people' fact.
+    works_the_facts: "Figures are restated, not worked: it never computes Reilly Drug's\
+      \ loss of roughly $5,580 a year (3,100 \xD7 $1.80) or the loss across the 38\
+      \ pharmacies, so the per-script loss stays small and abstract."
+    right_comparison: 'The alternative is described as the facts show it: two pharmacies
+      stop taking the plan, nine have closed in two years, and rural members face
+      a 20-plus-mile drive to a chain, though the trend gets no number beyond those.'
+    qualification: The 'if nothing changes' condition is tied to the July 1 renewal
+      and a May 1 meeting deadline, and the hedges on brand offset and closure causes
+      are honest, but no hedge names a number the reader could check against a consequence.
+    objections: The 'plenty of chains' belief is answered directly with the 14 counties
+      and 20-mile distance, and the 'they complain every year' belief is met by the
+      below-cost-since-January framing and the invoice offer; it raises no objection
+      the facts already settle.
+    fit: It is a one-page open letter with a clear ask, signed for the alliance, and
+      suitable for both the plan and newspapers.

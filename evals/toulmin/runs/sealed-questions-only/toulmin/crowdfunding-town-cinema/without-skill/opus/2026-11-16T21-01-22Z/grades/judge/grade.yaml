@@ -1,0 +1,62 @@
+grader: judge
+graded: '2026-11-16T21:02:01.165969+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 317
+  tags: []
+  notes: extracted 317 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 5
+    honest: 6
+    works_the_facts: 6
+    right_comparison: 7
+    qualification: 4
+    objections: 5
+    fit: 7
+  details:
+    agree: The warm local appeal and the 'why this time is different' list help, but
+      a reader who remembers the refunds and just gave to the ambulance fund isn't
+      told that pledges come back in full if the goal is missed, isn't told $11,000
+      is already committed, and isn't told how the money will be accounted for, so
+      they may give a token amount or wait.
+    honest: No numbers are invented and the math holds, but 'our plan is built to
+      succeed' and the flat claim that $85,000 'pays for' the repairs overstate things,
+      since the roof estimate dates from last fall and could rise by up to 15%; the
+      'price of one ticket' line also assumes a ticket price the brief never gives.
+    works_the_facts: It works out the 76-mile round trip, the $60,000 the public must
+      raise and the under-$10-per-resident figure, but it never subtracts the $11,000
+      already pledged to show the real gap of $49,000, never turns 180 tickets a week
+      into demand that would sustain the cinema, and never sets $85,000 beside the
+      $47,000 the last campaign raised.
+    right_comparison: The alternative is shown accurately as a 76-mile round trip
+      to the nearest screen with nothing opening locally, and the stakes of falling
+      short (losing the bank match and the $1 lease) are stated, though it doesn't
+      say how long the building would otherwise stay dark.
+    qualification: The June 30 deadline and the loss of the bank match are dated and
+      specific, but there is no all-or-nothing refund promise, no hedge on the roof
+      cost, no reopening date and no reporting commitment the reader could check.
+    objections: It raises the failed campaign head-on and answers with a smaller goal
+      and the bank match, but it leaves out the strongest answers to that worry (guaranteed
+      refunds, $11,000 already pledged, public spending reports every three months),
+      though it doesn't invent objections the facts already settle.
+    fit: It is a crowdfunding pitch of about 330 words, under the 350 limit, with
+      clear sections, but it still contains a '[Bank name]' placeholder and leaves
+      out the cinema's name, the Majestic.

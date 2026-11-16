@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-office-days",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-37-50Z",
+  "without_skill_run": "2026-11-16T21-23-55Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives remote staff more to stay for: it promises a review with staff after six months, admits the desk shortage and says when new desks arrive, and asks anyone facing serious problems to speak up early. A leaves out the review and the desks, so it reads as a final decision with no room for input."
+}

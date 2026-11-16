@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "sales-dietitian-meals",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-11-22Z",
+  "without_skill_run": "2026-11-16T21-38-19Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B tells me up front that fourteen people is a small group and that medication changes weren't tracked, which makes me trust the A1C numbers more, and it offers the dietitian call as a no-pressure option. A bolds the result so it reads as if the 0.6 average applied only to the ten who improved, leaves out the medication caveat, and oversells with \"a week off from carb counting\"."
+}

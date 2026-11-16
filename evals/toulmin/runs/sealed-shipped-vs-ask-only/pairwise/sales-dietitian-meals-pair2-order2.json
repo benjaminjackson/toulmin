@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-09-05Z",
+  "without_skill_run": "2026-11-16T21-22-34Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who has quit three services, I trust B more: it says up front that it can't promise my A1C will drop, it admits medication changes weren't tracked, and it deals with getting tired of the food, which is why I quit before. A credits the 0.6-point average drop to the ten who improved, though the brief only gives it as the average, and A leaves out the medication caveat, so it reads more like the sales pitches I've learned to distrust."
+}

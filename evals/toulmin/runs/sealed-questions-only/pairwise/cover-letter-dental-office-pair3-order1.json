@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-dental-office",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-33-52Z",
+  "without_skill_run": "2026-11-16T21-02-23Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is addressed to me by name and deals with my worries head-on. It says she gave two weeks' notice when her mother got sick, she has already enrolled in the 20-hour Dentrix course, and she names Dr. Kim as a reference. B still has unfilled placeholders and only offers to start training, so it reads like a generic template."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "negotiation-lease-renewal",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-06-24Z",
+  "without_skill_run": "2026-11-16T21-34-58Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both cover my late-payment grievance and offer auto-pay, but B gives me clearer reasons in my own terms: the hood would cost a new restaurant about $40,000, the neighbouring unit is still empty at $28, and there would be no gap in rent. A raises the late payments sooner, which I appreciate, but buries its arguments in one dense paragraph, so B edges it despite the unfilled name placeholder."
+}

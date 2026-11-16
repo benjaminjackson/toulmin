@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-21-32Z",
+  "without_skill_run": "2026-11-16T21-09-11Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both concede our staff's stock numbers and use the same 2016 and survey evidence. A gives me something I don't hear at every hearing (two named-harbor captains ready to sell) and ends on a tight two-option ask, while B's 'who pays' framing and three loosely defined alternatives feel more like the usual fairness argument, though its for-hire-limit idea is worth something."
+}

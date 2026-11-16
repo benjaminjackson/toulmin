@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-33Z",
+  "without_skill_run": "2026-11-16T21-19-54Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "A deals head-on with my worry that sales are too slow: it shows that break-even needs roughly double this half's revenue and admits it can't promise that. B leaves that gap out and adds a claim the facts don't support ('no customer has left us or asked for a lower price'), though its offer of monthly cash reports is appealing."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "recommendation-phd-applicant",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-07-29Z",
+  "without_skill_run": "2026-11-16T21-21-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters are candid about the unrepeated study and the lost data, but B gives the applicant's full name, quantifies the field effort and states the limits of the result more precisely, which reads as calibrated rather than small-college boosterism. A adds claims the facts do not support (she \"held her own\" with working scientists at the poster, \"a single season\" for a 14-month study) and has more of the generic praise I discount."
+}

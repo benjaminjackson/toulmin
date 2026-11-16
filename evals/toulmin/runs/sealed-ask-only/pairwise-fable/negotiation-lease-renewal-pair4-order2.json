@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "negotiation-lease-renewal",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-21-14Z",
+  "without_skill_run": "2026-11-16T21-05-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B addresses the late payments I still think about, explains the cooler failure, thanks me for the waivers, and offers autopay and a signature within two weeks; A calls them a 'steady tenant' with a 'proven record' while ignoring the late rent, which grates, and leaves placeholders for my name."
+}

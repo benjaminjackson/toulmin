@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "negotiation-lease-renewal",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-03-24Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B owns the late payments directly and answers my coffee-chain leverage head-on by pointing out the hood is worth $40,000 only to a restaurant tenant, while A leaves name placeholders and is vaguer on why $5,650 fails. B's admission that sales are down 6% makes me a bit warier of the tenant, which keeps the gap small."
+}

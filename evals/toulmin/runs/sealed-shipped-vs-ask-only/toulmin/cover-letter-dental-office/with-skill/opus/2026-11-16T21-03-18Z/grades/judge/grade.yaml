@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T21:04:10.627884+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 242
+  tags: []
+  notes: extracted 242 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 6
+    objections: 6
+    fit: 9
+  details:
+    agree: The gap and the Dentrix question are handled plainly and credibly, but
+      an owner who needs someone fast is never told she can start within two weeks
+      or cover the Tuesday and Thursday evenings, and he is given no reference to
+      call, so he has less reason to move her to the top of the pile.
+    honest: Every figure matches the brief; calling a 14-staff clinic only 'slightly
+      larger' than a practice with 9 staff undersells it but doesn't overstate anything,
+      and 'I reduced' is a fair reading of her role.
+    works_the_facts: 'The receivables numbers are given raw rather than as a cut of
+      about three-quarters ($29,000 recovered), and the size comparison isn''t put
+      in its strongest true form: she managed more staff than this job supervises.'
+    right_comparison: Comparing the clinic's size with the practice's is useful but
+      understated, and the letter never sets her readiness to start against the practice's
+      situation of being without a manager.
+    qualification: The Dentrix commitment names a checkable course and its length,
+      and it promises completion before a first day, but there is no date to tie it
+      to, such as the two-week start she could offer.
+    objections: It meets the gap objection head-on with recent, relevant work (insurance
+      claims and QuickBooks treasurer), but it leaves the reference question open
+      by not naming Dr. Kim, and it skips availability and evening hours, which a
+      short-staffed owner will worry about.
+    fit: It's a properly addressed cover letter of about 270 words, under the 300-word
+      limit and in the right tone.

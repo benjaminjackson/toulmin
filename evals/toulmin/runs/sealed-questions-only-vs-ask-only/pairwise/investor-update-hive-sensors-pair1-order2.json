@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks to my worry about slow sales: it says revenue averages about $35k a month and that breaking even at the lower spending needs roughly twice that. It also promises a monthly cash report to everyone in the bridge, which matters to me when deciding whether to put in more money; A leaves out both."
+}

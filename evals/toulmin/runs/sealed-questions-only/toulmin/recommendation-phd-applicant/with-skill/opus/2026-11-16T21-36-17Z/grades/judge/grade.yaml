@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:37:07.703705+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 391
+  tags: []
+  notes: extracted 391 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 4
+    objections: 4
+    fit: 9
+  details:
+    agree: The letter is concrete and credible, so it would earn a fair read, but
+      a skeptic who discounts small-college letters gets no evidence that this writer
+      is selective, so the letter may still be marked down.
+    honest: It declines to call the findings publishable and states the storm gap
+      and the single study period plainly, though 'all kinds of weather' and 'few
+      undergraduates' do a little embellishing.
+    works_the_facts: 'It restates the figures but derives nothing from them: no visit
+      every five days or so over 14 months, no top-3 rank against the hundreds of
+      students taught in 17 years, and no use of ''40 letters, 2 declined''.'
+    right_comparison: It sets her against applicants who already have publications
+      by arguing that her shown abilities lead to publications, but it never compares
+      her to the roughly 30 thesis students the writer has supervised.
+    qualification: 'The hedge about repeating the study is honest, but the reader
+      cannot check it: there is no offer to send the thesis, no timeline, and no data
+      the reader could inspect.'
+    objections: 'It addresses the missing publications but leaves the reader''s main
+      objection, inflated small-college praise, unanswered, even though the writer
+      had a direct answer: about 40 letters written, 2 strong letters refused, and
+      an offer to send the thesis or take a call.'
+    fit: It is a properly formatted recommendation letter of about one page, as the
+      brief asked.

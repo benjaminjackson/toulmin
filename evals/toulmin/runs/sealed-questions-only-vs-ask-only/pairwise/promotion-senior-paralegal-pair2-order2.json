@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-07Z",
+  "without_skill_run": "2026-11-16T21-19-26Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B handles the March error more convincingly for me: it says I should hear it from her directly, admits she can't promise there will be no more errors, and points to the check that has caught problems since. Its concrete commitments (weekly check-ins, certification by June 2027) and its candor about the trainee who left make B more credible than A, which claims she has already been supervising informally."
+}

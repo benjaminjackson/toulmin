@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T21:24:24.423835+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 157
+  tags: []
+  notes: extracted 157 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 3
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 6
+    objections: 3
+    fit: 8
+  details:
+    agree: This reader left over price and has no complaint about service. Most of
+      the email is about a cleaner-consistency problem they don't care about, and
+      a one-time $99 doesn't offset paying $25 more every visit afterwards, so they
+      probably won't book.
+    honest: 'Most claims are supported, but ''Nobody you haven''t met will turn up
+      at your door'' goes further than the facts: a named backup is not necessarily
+      someone the customer has met, and the email offers no cover for times when both
+      cleaners are unavailable. ''We''ve fixed it'' and ''It''s working'' also claim
+      more than the evidence shows.'
+    works_the_facts: The email gives 1 of 18 cleaners leaving since July but omits
+      last year's 7 of 18, which would make the improvement clear. It also never states
+      the $66 saving on the first visit or the actual $165 versus $140 gap.
+    right_comparison: The app services appear only as 'we cost more.' The email never
+      says that their contractors carry no insurance on the visit, so the reader's
+      current service looks like a cheaper version of the same thing.
+    qualification: The offer has a clear deadline of December 31, and the email names
+      sick days and holidays as the times the backup cleaner comes. It doesn't say
+      what happens if the backup can't come either.
+    objections: The reader's objection, the ongoing $25 per visit, is answered only
+      with justification. 'No contract, cancel any time' would lower the risk of trying
+      again, but it's missing. The email also spends its opening on a complaint this
+      reader never made.
+    fit: It's a short email of about 150 words with a subject line, a sign-off and
+      a clear way to book. It sensibly avoids the false 'every single time' promise
+      and still makes the consistency point strongly.

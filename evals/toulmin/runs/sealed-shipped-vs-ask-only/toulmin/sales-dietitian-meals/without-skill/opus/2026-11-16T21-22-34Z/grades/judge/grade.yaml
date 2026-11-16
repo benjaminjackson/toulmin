@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:23:20.890142+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 423
+  tags: []
+  notes: extracted 423 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 7
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 5
+    objections: 6
+    fit: 8
+  details:
+    agree: A wary reader who has quit before will find the candid A1C hedge, low-risk
+      $59 week, no-contract plan and offer of a call with the dietitian credible enough
+      to try one week, though nothing speaks directly to why this would last when
+      the earlier tries did not.
+    honest: It drops the 'will lower your A1C' promise and is open about the one customer
+      who went up, but it pins the 0.6-point average drop on the ten whose A1C fell
+      when the brief gives it as an overall average, it calls the call 'free' though
+      the brief never says so, and it leaves out that medication changes were not
+      tracked.
+    works_the_facts: The numbers are mostly repeated as given, with no per-meal cost
+      ($5.90 for the trial, $12.90 on the plan), no 10-of-14 shown as about 7 in 10,
+      and no 37-of-88 shown as a share that stays past six months.
+    right_comparison: The only alternative described is the work of planning and counting
+      carbs yourself, and the page never sets itself against the apps and delivery
+      services this reader has already tried and quit.
+    qualification: The A1C hedge is honest and names a real uncertainty, but it gives
+      the reader nothing to check, such as retesting A1C after three months with their
+      doctor and cancelling if it hasn't moved.
+    objections: Swaps, a 4-week menu cycle, no contract and the 37 customers past
+      six months quietly answer the 'I'll get bored and quit' worry, but the page
+      never names that worry or the reader's past dropouts outright.
+    fit: It is a clear, well-sectioned sales page close to the requested 400 words,
+      ending on the trial-week order button the client wanted.

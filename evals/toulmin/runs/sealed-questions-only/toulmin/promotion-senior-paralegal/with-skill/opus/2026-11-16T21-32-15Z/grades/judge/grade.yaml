@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T21:33:07.801283+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 324
+  tags: []
+  notes: extracted 324 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 8
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 7
+    objections: 9
+    fit: 7
+  details:
+    agree: It brings up the March deadline error before he can, takes responsibility
+      for it, and points to the fix and the 600 clean entries since, so a partner
+      who doubts her is likely to agree to the meeting and give the request serious
+      thought.
+    honest: Every figure matches what she supplied, but 'I know how each of them works'
+      glosses over the fact that one of the three trainees left after 8 months.
+    works_the_facts: The 600 error-free entries are used well, but the hours figure
+      is left bare instead of being stated as 90 hours (about 6%) over target, and
+      nothing is said about how many paralegals she would supervise.
+    right_comparison: The before-and-after for the sheet, with one person checking
+      alone versus two-person confirmation, is accurate and shows the trend, but the
+      letter never says what the group loses if no one takes on the supervising role.
+    qualification: The weekly check-ins and certification by June 2027 are concrete
+      and can be checked, and 'I can't promise I'll never make another error' is honest,
+      but no consequence is attached if either commitment slips.
+    objections: It meets the partner's specific objection directly, admits 'That was
+      too close,' and answers it with the system fix and its record without making
+      excuses.
+    fit: It is a properly formed promotion request well under 400 words, but it ends
+      with a '[Your name]' placeholder even though her name was available.

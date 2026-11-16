@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-33-15Z",
+  "without_skill_run": "2026-11-16T21-07-58Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A opens with a specific ask I can vote on, concedes our staff's numbers, admits what the captain doesn't know (how many boats would close) while giving the concrete fact that two captains would sell, and offers trip logs and a catch-reporting trial in return. B is the familiar charter-captain pitch, with an unsupported claim that private anglers will keep fishing and three diffuse asks with nothing offered back."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-07-29Z",
+  "without_skill_run": "2026-11-16T21-21-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A gives a precise, restrained account of the thesis's limits, which makes its praise more credible to a skeptic. B adds unsupported flourishes, such as the claims that she 'held her own with working scientists' and that the work fits 'a question the field is actively working on'. B also wrongly calls a 14-month study a 'single season', and these details read as the small-college inflation I discount."
+}

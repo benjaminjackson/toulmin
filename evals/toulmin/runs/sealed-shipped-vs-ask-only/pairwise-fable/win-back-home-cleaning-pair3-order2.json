@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "win-back-home-cleaning",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-11-34Z",
+  "without_skill_run": "2026-11-16T21-23-39Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "I left over price, and B addresses that directly: it names the $25 gap honestly and tells me my app service's contractors carry no insurance on the visit, which is the one fact that makes me question my savings. A mostly answers a complaint I never had, and its line that nobody I haven't met will turn up goes further than the facts support."
+}

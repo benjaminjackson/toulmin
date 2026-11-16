@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T21:20:57.922522+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 339
+  tags: []
+  notes: extracted 339 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 5
+    honest: 6
+    works_the_facts: 3
+    right_comparison: 3
+    qualification: 3
+    objections: 5
+    fit: 7
+  details:
+    agree: The partner who remembers March sees the mistake admitted and a fix described,
+      but nothing shows the fix has worked (about 600 entries with no errors since
+      April), so the letter may not change a mind that is already doubtful.
+    honest: Most claims match the brief, but citing the group's 'growth' from three
+      hires leaves out that one of them left, and 'protects every group' says more
+      than the brief supports.
+    works_the_facts: 'The figures are listed as raw numbers: it never works out that
+      1,640 hours is 90 over target (about 6%), and it leaves out the strongest derived
+      fact, about 600 error-free entries since the check went in.'
+    right_comparison: It never shows what the group gets by leaving her where she
+      is versus promoting her, such as supervision staying informal or new paralegals
+      being trained without a formal lead.
+    qualification: The only hedge is an uncheckable 'I don't know whether a position
+      is open', which adds doubt; the firm commitments that could be checked (certification
+      by June, weekly check-ins) are missing.
+    objections: It raises the deadline error openly and frames the fix as a systems
+      lesson, but it gives no evidence that the fix worked and makes no supervisory
+      commitments to answer 'can she be trusted with others' work?'
+    fit: It is a letter under 400 words addressed to the managing partner, as asked,
+      but it leaves the [Name] and [Your name] placeholders unfilled.

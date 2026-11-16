@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-04-41Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B goes straight at my belief that members have plenty of chains to use: it says the nearest chain is more than 20 miles away in those counties, and that two of the signers will stop filling for plan members. It also lets me check the numbers myself by offering the invoices and a meeting before May 1, and it makes one specific contract request, so it doesn't read like the usual yearly complaint. A asks for vaguer things and doesn't answer my point about chains."
+}

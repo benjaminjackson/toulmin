@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-05-35Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A takes on the March deadline error I already raised in her review head-on. It shows results since the fix (about 600 entries with no errors), admits it can't promise there will be no future mistakes, and makes concrete supervision commitments: weekly check-ins and certification. B says the safeguard works but gives no evidence, raises pay before I've agreed, and leaves my name as a placeholder."
+}

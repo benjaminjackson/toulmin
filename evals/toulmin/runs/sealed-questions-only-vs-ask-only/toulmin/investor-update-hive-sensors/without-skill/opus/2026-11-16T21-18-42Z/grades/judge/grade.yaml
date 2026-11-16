@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T21:19:54.082150+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 431
+  tags: []
+  notes: extracted 431 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 7
+    qualification: 5
+    objections: 4
+    fit: 9
+  details:
+    agree: The candid cash picture and the angel's $250k commitment make a credible
+      ask, but a partner who already thinks sales are too slow sees no sales-pace
+      evidence and no monthly cash report to reassure them.
+    honest: The draft openly refuses to promise profit and limits the customer-outcome
+      claim, but 'we don't know of any deals lost' and 'haven't decided on pricing'
+      are not in the facts provided.
+    works_the_facts: "It derives the $17 unit margin, the 520 saved colonies, the\
+      \ early-March runway and the autumn-2027 runway correctly, but never turns 12\u2192\
+      31 into a growth rate or compares sales pace with what breakeven would need."
+    right_comparison: The no-bridge case (cash runs out in early March, just as spring
+      orders arrive) is stated plainly and tied to seasonality, though it ignores
+      that the cut to $75k would stretch that slightly.
+    qualification: The spending cut has a date and a number, but there's no checkable
+      consequence if it's missed, and the offered monthly cash report to bridge investors
+      is left out.
+    objections: 'The selling-too-slowly concern goes largely unanswered: no hive count,
+      no revenue per customer, no pipeline, and no reporting commitment, though the
+      competitor threat is handled well.'
+    fit: It is a well-structured investor update of about 470 words, under the 600-word
+      limit, with a clear ask and deadline.

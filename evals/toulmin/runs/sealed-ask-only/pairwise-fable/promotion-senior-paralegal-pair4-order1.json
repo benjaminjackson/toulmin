@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "promotion-senior-paralegal",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-20-58Z",
+  "without_skill_run": "2026-11-16T21-07-00Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both cover the same facts, but B addresses the March deadline error the way I'd want: it says plainly that it was too close and explains why she is raising it. A files her own mistake under \"Managing risk\", which reads as spin to someone who raised it in her review."
+}

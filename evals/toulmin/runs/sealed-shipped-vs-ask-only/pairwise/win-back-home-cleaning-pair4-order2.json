@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-home-cleaning",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-12-32Z",
+  "without_skill_run": "2026-11-16T21-24-24Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B tells me plainly that I'd pay $99 and then $165, shows that only 1 cleaner has left since July, and says there's no contract. That makes a trial booking feel low-risk even though I'm happy with the $25 savings. A doesn't mention the regular price after the first cleaning, which leaves me suspicious of the offer."
+}

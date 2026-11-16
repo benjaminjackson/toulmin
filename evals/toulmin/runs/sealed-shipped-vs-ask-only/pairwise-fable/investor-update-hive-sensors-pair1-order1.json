@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "investor-update-hive-sensors",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A puts the ask, terms and deadline up front, and tells me what the bridge buys: a full selling season to test whether beekeepers choose them over the cheaper rival, with a promised post-season report on the path to break-even. B is equally honest and adds the useful 520-colony figure, but \"we don't have a plan that shows it\" and undecided pricing leave me, already worried about slow sales, with less reason to commit."
+}

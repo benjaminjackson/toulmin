@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-01Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B directly addresses my main hesitation by providing concrete proof that the new second-person check has worked across 600 deadlines without an error since April. However, mentioning the $9,000 raise and offering an easy out for this cycle slightly weakens the close compared to A's more confident request to meet."
+}

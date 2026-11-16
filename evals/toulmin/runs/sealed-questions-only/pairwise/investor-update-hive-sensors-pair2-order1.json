@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-33-33Z",
+  "without_skill_run": "2026-11-16T21-02-25Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is complete and specific. It gives the terms, notes the $250k already committed, commits to the spending cut and monthly cash reports, and honestly declines to promise profit, which speaks to my worry that sales are slow. B is full of unfilled placeholders and states a 2027 profitability goal the numbers don't support."
+}

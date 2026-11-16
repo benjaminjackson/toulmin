@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "negotiation-lease-renewal",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-04-31Z",
+  "without_skill_run": "2026-11-16T21-19-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me concrete things that address my worries: automatic payment on the 1st answers the late-rent issue, signing within two weeks shows commitment, and the point that a coffee shop wouldn't use the $40,000 hood while my vacant unit sits at $28 makes me rethink the chain. B is warmer but offers nothing new on reliability."
+}

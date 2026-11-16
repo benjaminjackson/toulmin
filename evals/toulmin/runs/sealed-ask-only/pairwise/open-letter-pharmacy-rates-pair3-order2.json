@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-20-22Z",
+  "without_skill_run": "2026-11-16T21-06-02Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B answers my two doubts directly: it says the nearest chain is more than 20 miles away in those 14 counties, and it offers to share invoices for checking and to meet before May 1. Its frank admissions about brand-name offsets and the unknown cause of the closings make it read as more than the usual yearly complaint. A asserts the same losses without offering proof and leaves my 'members can use chains' view untouched."
+}

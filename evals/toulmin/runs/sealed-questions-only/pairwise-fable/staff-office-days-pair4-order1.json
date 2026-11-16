@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-38-45Z",
+  "without_skill_run": "2026-11-16T21-10-58Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a remote hire deciding whether to stay, A gives me what I need to weigh it: the $150 commuting support, a six-month review with staff, the desk plan, a straight answer that there are no further exceptions, and a named partner to contact. B gives the same rationale but none of those practical commitments, and it ends with unfilled partner-name placeholders."
+}

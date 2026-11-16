@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:33:52.335034+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 259
+  tags: []
+  notes: extracted 259 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 6
+    objections: 6
+    fit: 9
+  details:
+    agree: A busy owner who needs someone soon gets a plain account of the seven-year
+      gap, a fix for the missing Dentrix experience, a start date within two weeks
+      and coverage for the evening hours, which should get Linda an interview even
+      from a reader who is unsure about the gap.
+    honest: Every fact comes from what the user supplied, though 'led our move' is
+      slightly stronger than 'handled', and 'I reduced' claims sole credit for a drop
+      the brief only says happened.
+    works_the_facts: The receivables drop is given only as raw figures and not as
+      the stronger 76% cut, and the letter never points out that 14 staff is more
+      than the 9 she would supervise here or that 4 vets is more than 3 dentists.
+    right_comparison: The letter lists the clinic's size but never sets it against
+      Brookside's smaller team, which is the comparison that would show she has already
+      run a larger office.
+    qualification: The commitments are concrete and checkable (a 20-hour course done
+      before day one, a start within two weeks, Tuesday and Thursday evenings), but
+      they carry no dates or stated progress on the course.
+    objections: It handles the gap, Dentrix and references well, but it volunteers
+      that she left with two weeks' notice to an owner who has just been hurt by exactly
+      that, which raises a worry the letter didn't need to raise.
+    fit: It is a properly addressed cover letter of about 280 words, under the 300-word
+      limit, in a plain register suited to a reader skimming between patients.

@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T21:03:06.657620+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 271
+  tags: []
+  notes: extracted 271 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 5
+    objections: 4
+    fit: 8
+  details:
+    agree: The judge gets a clear, checkable case with the match money in place, but
+      is left unsure whether the grant pays for a third lawyer or replaces the one
+      leaving, and the county-contract caveat is left hanging, so a sceptical reviewer
+      has reason to mark it down.
+    honest: The figures and arithmetic are accurate and the missing comparison figure
+      is admitted openly, but 'January 2027' assigns a year the user never gave, and
+      the closing line states a forecast as if it were certain.
+    works_the_facts: 'It works out one in seven, the 83% share and the $13,000 balance.
+      It skips the more persuasive figures: about 95 tenants kept housed, about 35%
+      of those who asked being turned away, and roughly 80 more cases a year that
+      a third attorney could take.'
+    right_comparison: The 'no grant' case is shown as 300 turnaways a year continuing.
+      That ignores the June departure, which by the brief's own facts makes things
+      worse than last year, and it never says how far a third attorney would reduce
+      that 300.
+    qualification: 'The county-contract caveat gives a date (October) but no consequence:
+      it doesn''t say whether the $13,000 match survives if the contract isn''t renewed.
+      The five-month hiring history is mentioned but never set against the May decision
+      and June departure, so the reader can''t tell whether training can overlap.'
+    objections: 'The document raises two worries and answers neither: whether losing
+      the county contract endangers the match, and how a hire can be trained in June
+      when the decision comes in May and hiring took five months last time. The replacement-versus-addition
+      confusion also creates a third objection of its own.'
+    fit: At about 275 words it is under the 300-word limit and reads as a plain project
+      summary, though the request comes second rather than first.

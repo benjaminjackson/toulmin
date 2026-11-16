@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-04-12Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters stay honest and offer invoices and a meeting. B opens with the specific ask and heads off the 'the PBM sets the rates' deflection by pointing out that the plan signs the contract. That puts the decision on my desk in a way that's harder to wave off as the annual complaint."
+}

@@ -1,0 +1,25 @@
+I didn't include the promise of the same cleaner every single time. Seven of your 18 cleaners left last year, and your new system has a named backup for when the regular cleaner can't come. That promise would likely be broken for some customers, and these customers already left once over this exact problem. The email promises what you can keep instead: a regular cleaner and a backup they'll know by name.
+
+<final_document>
+Subject: You told us what was wrong. We fixed it.
+
+Hi [First name],
+
+When you cancelled, you told us two things: the price was high, and you never knew who would be at your door. You were right about the second one. Last year too many of our cleaners moved on, and too many customers kept seeing new faces.
+
+Here's what's different now: every customer has a regular cleaner and a named backup. You'll know who's coming, and they'll know your home.
+
+About price: yes, we cost more than the app services. That's because our cleaners are our employees, not contractors. We pay them $21 an hour and insure every visit, so you know who is in your home and that we stand behind them.
+
+If you come back, your first cleaning is $99.
+
+[Book your cleaning]
+
+Thanks for giving us another look,
+[Your name]
+[Company name]
+</final_document>
+
+Things to check before sending:
+- **Price after the first visit:** The email doesn't say what the second cleaning costs. If you'd like to say it up front, add a line like "After that, it's our regular rate," so the $165 on the second bill doesn't surprise anyone.
+- **Who it goes to:** It's written for the 64 people who cancelled. It assumes they gave you a reason, so for anyone who skipped the exit survey, change the first line to something like "Many customers who left told us…"

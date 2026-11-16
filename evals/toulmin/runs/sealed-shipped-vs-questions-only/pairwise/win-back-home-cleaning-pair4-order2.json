@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-home-cleaning",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-12-32Z",
+  "without_skill_run": "2026-11-16T21-38-12Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Since I left over price, B gives me a reason that might matter: the app cleaners I use now probably have no insurance on the visit, and that makes the extra $25 look like it buys something. B also gives a real phone number and says plainly that whoever shows up will be one of two people I know by name. A has a placeholder where the phone number should be, and it never says what I'm missing with the cheaper app."
+}

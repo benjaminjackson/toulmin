@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T21:20:41.292334+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 320
+  tags: []
+  notes: extracted 320 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 5
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 6
+    qualification: 5
+    objections: 4
+    fit: 9
+  details:
+    agree: The all-or-nothing promise and the lower goal reassure a reader who remembers
+      the refunds, but saying 'you need $13,000 more than last time' while leaving
+      out the $11,000 already pledged and the spending reports gives a reader who
+      just gave to the ambulance fund little reason to pledge much.
+    honest: Most claims track the facts, but 'the lights come back on this Thanksgiving'
+      turns a plan into a promise, and calling the bank's 29% 'a quarter' undersells
+      it slightly.
+    works_the_facts: The 76-mile round trip and the $60,000 public share are worked
+      out well, but the draft frames the gap as $13,000 more than last time when the
+      $11,000 in written business pledges would leave only $49,000, just $2,000 above
+      last time's total, and it never puts the ask in per-household terms.
+    right_comparison: The alternative is shown accurately as no screen in town and
+      a 76-mile round trip, set against a lease on offer now, though it doesn't spell
+      out that the $1 lease and the bank pledge both go away if the goal is missed.
+    qualification: The all-or-nothing condition is checkable, with a date, an amount
+      and a consequence, but the roof estimate that could rise by up to 15% is left
+      out, and Thanksgiving carries no hedge.
+    objections: The worry about another failed campaign is answered, but the trust
+      objection goes without the quarterly spending report, the draft raises its own
+      'more than last time' objection that the $11,000 already answers, and the pull
+      of competing local causes is never addressed.
+    fit: It is a signed, clearly sectioned crowdfunding pitch, well under 350 words.

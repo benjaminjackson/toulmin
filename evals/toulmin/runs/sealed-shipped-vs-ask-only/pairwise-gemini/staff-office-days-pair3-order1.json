@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-11-11Z",
+  "without_skill_run": "2026-11-16T21-23-55Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes critical commitments that Document B leaves out, such as the six-month policy review and the assurance that new desks will arrive in August. Furthermore, Document B invents a 2027 timeline and claims they are giving ten months' notice, which contradicts the brief's timeline where those living far away get until the end of *next* year."
+}

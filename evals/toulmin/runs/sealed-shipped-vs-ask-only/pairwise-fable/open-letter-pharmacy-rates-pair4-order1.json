@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-08-09Z",
+  "without_skill_run": "2026-11-16T21-21-14Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both stay honest and make the same verifiable offer of invoices and a meeting. A arrives finished and directly answers my assumption that members can just use a chain (\"can't switch to another store down the street\"), while B's unfilled brackets for the state, plan and PBM read as a draft, though its headings are easier to scan."
+}

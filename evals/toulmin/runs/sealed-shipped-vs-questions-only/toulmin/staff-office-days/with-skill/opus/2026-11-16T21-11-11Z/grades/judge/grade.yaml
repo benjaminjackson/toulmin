@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T21:12:28.198614+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 445
+  tags: []
+  notes: extracted 445 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 5
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 4
+    objections: 5
+    fit: 8
+  details:
+    agree: The tone is candid, the partners commit to the same three days, and the
+      stipend helps, so office-based staff will likely go along, but the eleven remote
+      hires who live within two hours get no real reason to accept a three-day commute
+      in place of the arrangement they say keeps them at the firm.
+    honest: The note is careful about the junior-progression cause, but it claims
+      as fact that the hospital bids were lost 'because of how we came across as a
+      team', which goes beyond what the clients said, and it brings in an undecided
+      'Mondays and Fridays' question that the brief never raised.
+    works_the_facts: 'The figures are passed on as given: the note never works out
+      that 15 of 46 is a third of the firm, that 11 remote hires face the full change
+      without any phase-in, or what the 30% delay means in months or in fewer project
+      leads.'
+    right_comparison: Staying fully remote is shown only through two lost bids and
+      a single progression figure, with no sense of a trend or of what keeps happening
+      if nothing changes, and the stipend and project-lead facts are not set against
+      it.
+    qualification: The six-month review has no date (it would fall around March 2028),
+      no measure for success and no stated consequence, and 'before September' for
+      the Monday/Friday decision is vague.
+    objections: The note admits it is changing the terms the remote hires joined on
+      and makes clear there are no further exceptions, but it does not speak to the
+      long commutes of the eleven, people's reasons for staying, or the desk shortage
+      in any concrete way.
+    fit: It is a clear, one-page email with a subject line that points readers to
+      Friday's meeting, as the brief asked.

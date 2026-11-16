@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "promotion-senior-paralegal",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-39Z",
+  "without_skill_run": "2026-11-16T21-20-58Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A addresses me by name, owns the March error directly (\"that was too close\"), and shows the fix has held across about 600 entries, plus concrete commitments on check-ins and certification. B leaves placeholders unfilled, spins the mistake I remember as \"managing risk\", and gives no evidence the fix worked."
+}

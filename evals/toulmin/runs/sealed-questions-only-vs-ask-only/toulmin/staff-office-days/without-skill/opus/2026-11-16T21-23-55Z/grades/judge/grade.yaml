@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T21:24:55.145657+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 448
+  tags: []
+  notes: extracted 448 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 3
+    objections: 5
+    fit: 8
+  details:
+    agree: The reasons are concrete, the partners commit to coming in too, and the
+      remote hires are told plainly that their terms are changing, so most staff will
+      accept it; a remote hire who is thinking of leaving is given little to stay
+      for beyond $150 a month.
+    honest: Every figure comes from the brief, but 'They weren't questioning anyone's
+      skill' and 'watching how we worked together in the room' add detail to the clients'
+      feedback that the brief doesn't support.
+    works_the_facts: 'The 30% figure and the 15 remote hires are repeated rather than
+      worked, and the email leaves out the strongest supporting fact: 5 of the 6 project
+      leads already come in three days a week.'
+    right_comparison: Staying fully remote is shown to cost hospital bids and slow
+      down junior staff, but this is two separate incidents and one ratio, with no
+      sense of whether things are getting worse or what continuing would cost.
+    qualification: The available commitment to review the policy with staff after
+      six months, a dated check readers could hold the firm to, is left out, so the
+      policy reads as permanent with nothing to check.
+    objections: It deals with the broken remote terms honestly and covers commuting
+      costs, but it says nothing about desks not arriving until August or the six-month
+      review, and it never answers a senior remote hire who asks why the junior-staff
+      argument applies to them.
+    fit: It is a one-page email with a clear subject line and headed sections, it
+      is signed by the partner, and it points to the Friday meeting as the brief asked.

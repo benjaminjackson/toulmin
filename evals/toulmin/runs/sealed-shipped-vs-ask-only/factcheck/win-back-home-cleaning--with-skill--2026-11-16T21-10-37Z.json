@@ -1,0 +1,45 @@
+{
+  "task": "win-back-home-cleaning",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-10-37Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Since July",
+      "why": "The brief does not state when the company started giving each customer a regular cleaner and a named backup."
+    },
+    {
+      "quote": "for sick days and holidays",
+      "why": "The brief does not specify that the named backup is for sick days and holidays."
+    },
+    {
+      "quote": "Since then, only 1 of our 18 cleaners has left.",
+      "why": "The brief does not mention how many cleaners have left since the new policy began."
+    },
+    {
+      "quote": "Most app cleaners here are contractors with no insurance on the visit.",
+      "why": "The brief does not say whether app cleaners are contractors or whether they carry insurance."
+    },
+    {
+      "quote": "There's no contract, and you can cancel any time.",
+      "why": "The brief does not mention whether there is a contract or what the cancellation policy is."
+    },
+    {
+      "quote": "The offer ends December 31.",
+      "why": "The brief does not give an expiration date for the $99 offer."
+    },
+    {
+      "quote": "or call 555-0164 to book.",
+      "why": "The brief does not provide a phone number or booking instructions."
+    },
+    {
+      "quote": "Lisa Grant",
+      "why": "The brief does not state the owner's name."
+    },
+    {
+      "quote": "Brightway Home Cleaning",
+      "why": "The brief does not state the name of the cleaning company."
+    }
+  ],
+  "invented_count": 9
+}

@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T21:33:33.840588+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 416
+  tags: []
+  notes: extracted 416 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 5
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 7
+    qualification: 5
+    objections: 4
+    fit: 9
+  details:
+    agree: The partner gets a clear and honest ask with a deadline, but nothing answers
+      their belief that sales are too slow, so a hesitant 8% holder has little reason
+      to commit.
+    honest: It drops the profit claim and handles the mite-treatment caveat honestly,
+      but 'no customer has left us' isn't in the brief, and 'roughly twice' revenue
+      to break even ignores that $38 of every $55 sensor sale is cost.
+    works_the_facts: Runway, monthly revenue and the break-even gap are worked out,
+      but customer growth is never framed as about 2.6x in a year, and recurring app
+      revenue and the sales pace needed are never calculated.
+    right_comparison: It states plainly that without the bridge, cash runs out in
+      March, just before the selling season, and it sets that against reaching the
+      end of 2027 with the bridge.
+    qualification: The close date, reply date, spending cut by February and monthly
+      reporting are all checkable, but the competitor trials have no date or consequence,
+      and nothing says what happens if the remaining $350k isn't raised.
+    objections: The resisting reader's main worry, slow selling, is never addressed
+      with a growth rate, a pipeline or a sales target for the bridge period, though
+      the competitor objection is met reasonably well.
+    fit: It's a well-structured investor update of about 520 words, under the 600-word
+      limit.

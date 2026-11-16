@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "win-back-home-cleaning",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-22-10Z",
+  "without_skill_run": "2026-11-16T21-09-47Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me things that actually bear on my $25 savings: the app services' contractors carry no insurance on the visit, only 1 of 18 cleaners has left since the change, no contract, a December 31 deadline and a real way to book. B has unfilled placeholders for the company and sender name, no deadline, and says nothing about the apps' lack of insurance, so it reads as less finished and gives me less reason to switch back."
+}

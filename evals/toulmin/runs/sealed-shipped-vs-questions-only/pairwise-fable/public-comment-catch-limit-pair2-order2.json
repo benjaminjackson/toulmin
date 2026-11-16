@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-07-41Z",
+  "without_skill_run": "2026-11-16T21-33-15Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "A earns more trust from commissioners who back their staff: it names the speaker, admits what he can't know (how many boats close, that bookings mask the damage at first), and offers trip logs and a catch-reporting app trial in return. B's case is similar but leans on an $80,000 three-year projection that ignores the partial recovery after 2016 and on unsupported claims (private anglers just get 'a shorter day', charters land 'the least'), and it offers the commission nothing."
+}

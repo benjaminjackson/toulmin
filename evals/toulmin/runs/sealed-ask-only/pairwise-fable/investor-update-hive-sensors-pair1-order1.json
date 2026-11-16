@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "investor-update-hive-sensors",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is a finished, sendable update with real terms, the $250k already committed, the competitor's temperature-only limitation, a concrete spending cut, and a candid refusal to promise profit; B is full of unfilled placeholders (terms, date, competitor response, hive count) and still floats a 2027 profitability goal it can't back, which would not move a skeptical investor."
+}

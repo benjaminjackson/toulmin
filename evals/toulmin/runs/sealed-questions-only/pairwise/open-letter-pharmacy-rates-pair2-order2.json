@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-22Z",
+  "without_skill_run": "2026-11-16T21-05-14Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B answers my belief that members have plenty of chains: it says the nearest chain is more than 20 miles away in those 14 counties and that two pharmacies will stop filling for our members. It also offers invoices I can check and a meeting before May 1, and it is signed by a named owner, so it is credible and easy to act on. A rests on general claims, and it has no signer and no offer I could hold them to."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "grant-eviction-defense",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-21Z",
+  "without_skill_run": "2026-11-16T21-02-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is a complete, submittable summary that tells me plainly the grant keeps the clinic at two attorneys, names the matching funds, and commits to concrete reporting and comparison data. A is riddled with unfilled blanks (funding source, county contract status, how the departing attorney is replaced) and asserts a 'net addition' and 'enough time to find housing' that the facts don't support."
+}

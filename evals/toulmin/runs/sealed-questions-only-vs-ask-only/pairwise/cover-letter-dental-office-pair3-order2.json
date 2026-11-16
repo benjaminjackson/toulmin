@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-dental-office",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-52Z",
+  "without_skill_run": "2026-11-16T21-20-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B answers the questions I'd have about the gap: how she left, that she's ready to come back full-time, and that the head vet will vouch for her. Her two weeks' notice stings a little given my situation, but a mother's diagnosis is a fair reason, and A leaves those questions open."
+}

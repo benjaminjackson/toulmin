@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "sales-dietitian-meals",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-38-19Z",
+  "without_skill_run": "2026-11-16T21-10-12Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A answers the things that made me quit before: I can swap meals, skip or cancel with no contract, talk to the named dietitian first, and I know the order deadline and delivery area. B is more candid about the A1C data (it admits medication changes aren't tracked), which I respect, but it leaves out those practical details and claims to know why people stay, so A edges it."
+}

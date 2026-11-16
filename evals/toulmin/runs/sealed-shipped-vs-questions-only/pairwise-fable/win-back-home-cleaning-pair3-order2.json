@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "win-back-home-cleaning",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-11-34Z",
+  "without_skill_run": "2026-11-16T21-37-24Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "I left over price, and B is the only one that gives me a concrete reason the extra $25 might be worth it: my app service's contractors carry no insurance on the visit. Its candid numbers also make it more believable, though A's \"no contract, cancel any time\" does make the $99 trial feel safer."
+}

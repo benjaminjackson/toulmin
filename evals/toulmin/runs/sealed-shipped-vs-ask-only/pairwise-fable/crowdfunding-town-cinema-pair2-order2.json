@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "crowdfunding-town-cinema",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-02-41Z",
+  "without_skill_run": "2026-11-16T21-19-47Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B tells me $36,000 is already committed and the remaining $49,000 is only $2,000 more than the town gave last time, about $7.50 a head, so a modest pledge after my ambulance gift feels worthwhile and likely to succeed. A tells me we need $13,000 more than last time's failed effort, which makes me doubt it will get there, even with the refund promise."
+}

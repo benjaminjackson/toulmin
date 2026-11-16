@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-20-13Z",
+  "without_skill_run": "2026-11-16T21-06-30Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B speaks to my memory of last March more directly. It admits the filing was 'too close', explains that no deadline is relied on until a second person verifies it, and links that fix to supervising other paralegals. It also asks for a specific meeting before December 15. Its paragraph wondering whether a senior position is even open weakens it a little, so the gap is small."
+}

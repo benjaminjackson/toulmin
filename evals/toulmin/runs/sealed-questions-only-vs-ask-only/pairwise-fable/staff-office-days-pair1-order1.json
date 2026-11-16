@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-35-44Z",
+  "without_skill_run": "2026-11-16T21-22-08Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both are honest and plain about the lack of exceptions. B makes the case more convincingly to me as a remote hire: it explains how juniors actually learn beside leads, says the delay isn't their fault, and has the partners own their one-day-a-week habit as part of the problem. A is more complete on practical details (desks, meeting time, Monday and Friday staying remote), which keeps the gap small."
+}

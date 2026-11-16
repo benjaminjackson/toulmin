@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-32Z",
+  "without_skill_run": "2026-11-16T21-08-31Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is more honest: it says the A1C sample was small and that nobody tracked medication changes. It also gives what a wary quitter like me needs to try it, which is no contract, skip or cancel any time, meal swaps, and a 15-minute call with the dietitian. A leaves all of those out and implies the results came from the meals."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-56Z",
+  "without_skill_run": "2026-11-16T21-33-54Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "A directly owns the error I raised in her review ('That was too close') and ties the fix to how she'd run the senior role. B's 'You should also hear this from me' reads oddly, because I'm the one who brought it up, and B also claims she's already doing much of the senior role. B handles the paralegal who left and the $9,000 well, but on the issue I care about most, A lands better."
+}

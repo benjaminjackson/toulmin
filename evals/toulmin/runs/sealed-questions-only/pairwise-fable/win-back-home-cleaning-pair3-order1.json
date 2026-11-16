@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "win-back-home-cleaning",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-37-24Z",
+  "without_skill_run": "2026-11-16T21-10-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A reads as a finished, sendable email with the things I need to act: no contract, cancel any time, a deadline, and how to book, plus proof the cleaner fix is holding (1 of 18 left). B has unfilled placeholders like [Company] and [Your name], no deadline or no-contract assurance, though its 'you're covered if something breaks' line is a nice touch."
+}

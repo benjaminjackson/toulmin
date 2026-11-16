@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-38-08Z",
+  "without_skill_run": "2026-11-16T21-09-09Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is more convincing because it gives facts I can check against my other files: she is one of the 3 best students in 17 years, she ran the shellfish lab's water sampling alone for two weeks, and her supervisor said he would hire her again. B relies on generic praise of the kind I discount from small colleges, and it adds details the facts don't support, such as her having already planned a second season and explaining her poster clearly to working scientists."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-54Z",
+  "without_skill_run": "2026-11-16T21-03-12Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Because of the last campaign's refunds and my $200 to the ambulance fund, B persuades me more. It promises all-or-nothing refunds and quarterly spending reports at the library. It also shows the $49,000 still needed is about what the town pledged last time, and it names Ruth and gives a Thanksgiving reopening date. A leaves out those safeguards and calls the bank's conditional pledge 'matching', which is slightly off."
+}

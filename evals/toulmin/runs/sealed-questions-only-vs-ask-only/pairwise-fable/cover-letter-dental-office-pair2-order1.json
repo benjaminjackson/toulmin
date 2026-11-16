@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "cover-letter-dental-office",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-33-05Z",
+  "without_skill_run": "2026-11-16T21-19-25Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A answers the things I actually worry about: she left her last job properly with notice, can start within two weeks, will cover my Tuesday/Thursday evenings, has kept books recently, and names a reference. B is signed \"[Your Name]\" and leaves the seven-year gap with nothing current to reassure me."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "cover-letter-dental-office",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-42Z",
+  "without_skill_run": "2026-11-16T21-02-51Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is addressed to me by name, is ready to send, explains the gap directly (including that she gave proper notice), names a concrete Dentrix training plan and a reference. B arrives full of unfilled brackets and placeholders, which reads as careless for an office manager applicant, and only vaguely claims she can learn Dentrix."
+}

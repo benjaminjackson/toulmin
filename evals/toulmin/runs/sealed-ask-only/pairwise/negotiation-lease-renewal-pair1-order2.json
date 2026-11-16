@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-lease-renewal",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-03-39Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "A's point that two months of vacancy would cost me more than a full year of the gap between our numbers is the argument most likely to move me, and its 'ready to sign now' line weighs well against the coffee chain. B is warmer and uses my name. But it says $5,740 by year five is more than my proposed figure, which compares their year five with my year one and feels slippery. Neither letter acknowledges the late fees I waived."
+}

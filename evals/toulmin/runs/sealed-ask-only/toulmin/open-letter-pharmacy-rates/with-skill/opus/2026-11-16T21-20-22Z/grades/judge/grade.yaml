@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T21:21:14.651771+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 404
+  tags: []
+  notes: extracted 404 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 3
+    right_comparison: 7
+    qualification: 6
+    objections: 7
+    fit: 9
+  details:
+    agree: The 20-mile gap in 14 counties, the offer to share invoices and the concrete
+      ask tied to July 1 give a skeptical benefits director something to check and
+      act on, though she gets no dollar figure to weigh.
+    honest: The letter drops the unsupported 'a third will close' claim and says plainly
+      that it can't attribute the nine closures to rates, but 'one of our biggest
+      groups of customers every day' slightly embellishes the 22% figure.
+    works_the_facts: It repeats the $1.80 and 22% figures without deriving anything
+      from them, leaving out the 3,100 prescriptions and the roughly $5,580 a year
+      that Reilly Drug alone loses on them.
+    right_comparison: 'It describes the status quo accurately: two pharmacies ready
+      to stop filling for plan members, nine closures in two years, and members in
+      14 counties facing a 20-mile drive or going without.'
+    qualification: The hedge on the closures is honest and the May 1 and July 1 dates
+      can be checked, but the warning that two pharmacies will stop filling has no
+      date and no checkable trigger beyond 'if the rates stay the same'.
+    objections: It answers 'members have plenty of chains' directly with the 14 counties
+      and the 20-mile distance, and it meets 'they complain every year' indirectly
+      by offering invoices, but it never says outright why this year is different.
+    fit: It is a one-page open letter signed on behalf of the Alliance, which suits
+      both the plan and the newspapers.

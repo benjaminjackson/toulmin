@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "investor-update-hive-sensors",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-02-58Z",
+  "without_skill_run": "2026-11-16T21-33-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks to my worry about slow sales: it gives a break-even threshold (about $450,000 per half at $75,000 a month) and a concrete test (March–April 2027 at $300,000 or more) that I can hold the company to, without promising profit. A is honest but says there is no break-even plan the founder would stand behind, which leaves me with no reason to think the bridge changes the sales picture."
+}

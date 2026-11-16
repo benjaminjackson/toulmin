@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-dental-office",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is addressed to me and my practice by name. It also answers my Dentrix concern with a specific step: she has enrolled in the 20-hour course and will finish it before her first day. B uses generic placeholders and only says she's 'ready to start learning,' so it feels like a form letter and leaves the Dentrix gap open."
+}

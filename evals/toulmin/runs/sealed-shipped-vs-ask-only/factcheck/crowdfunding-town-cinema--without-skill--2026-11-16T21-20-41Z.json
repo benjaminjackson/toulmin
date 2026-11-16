@@ -1,0 +1,17 @@
+{
+  "task": "crowdfunding-town-cinema",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-20-41Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "A local bank has pledged $25,000 if we raise the rest by June 30, 2027.",
+      "why": "The brief and additional facts give the deadline as June 30, but do not specify the year 2027."
+    },
+    {
+      "quote": "The campaign runs from May 1 to June 30, 2027.",
+      "why": "The provided information states the campaign opens May 1 and ends June 30, but never mentions the year 2027."
+    }
+  ],
+  "invented_count": 2
+}

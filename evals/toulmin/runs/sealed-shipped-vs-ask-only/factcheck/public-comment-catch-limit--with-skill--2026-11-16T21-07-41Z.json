@@ -1,0 +1,13 @@
+{
+  "task": "public-comment-catch-limit",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-07-41Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Charter boats land the least flounder in this state.",
+      "why": "The brief states that charter boats land about 9% and private boats land about 80%, leaving about 11% unaccounted for, which could be split among multiple other sectors (such as commercial or shore anglers) that land less than 9%."
+    }
+  ],
+  "invented_count": 1
+}

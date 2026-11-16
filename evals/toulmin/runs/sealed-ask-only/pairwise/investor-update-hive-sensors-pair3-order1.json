@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-21-11Z",
+  "without_skill_run": "2026-11-16T21-03-05Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me what I need to decide: real terms, the $250K angel commitment, a concrete cut to $75K a month, the weaknesses of the $45 competitor's temperature-only sensor, and an honest admission that profit next year isn't supported. That speaks directly to my worry that sales are too slow. B is full of placeholders, sets a 2027 profitability goal the numbers don't support, and gives no terms or committed money, so I can't act on it."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-11-22Z",
+  "without_skill_run": "2026-11-16T21-38-19Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a wary reader, I trust B more. It admits the sample is small and that medication changes weren't tracked, and it correctly gives the 0.6-point average across all fourteen people. A makes it sound like only the ten whose A1C fell averaged a 0.6 drop. B also offers a no-pressure call before ordering, which makes a $59 trial feel safer."
+}

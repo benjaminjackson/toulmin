@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-35-27Z",
+  "without_skill_run": "2026-11-16T21-07-30Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me checkable, specific evidence: a ranking (\"one of the three best in 17 years\") that sets her apart, a supervisor who would hire her again and who left her to run the water sampling alone. It also states the study's limits plainly, so it reads as calibrated, not small-college inflation. B is full of unfilled placeholders and generic praise, and it leaves out the strongest outside evidence, so it reads like a template."
+}

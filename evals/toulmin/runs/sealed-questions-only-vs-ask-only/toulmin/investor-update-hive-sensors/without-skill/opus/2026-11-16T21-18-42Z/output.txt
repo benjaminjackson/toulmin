@@ -1,0 +1,54 @@
+I didn't claim profitability. The update says plainly that you won't promise it, and then gives the claim your numbers do support: with the bridge and the cut to $75k a month, you have cash into autumn 2027 before counting any revenue. That gets you through next year's pollination season. Here's how I got there:
+
+- **Without the bridge:** you'd spend about $240k by February at $95k a month. That leaves about $100k, which runs out around early March, as the spring buying season starts.
+- **With the bridge:** you'd have about $700k left in February. At $75k a month that lasts about 9 months.
+
+I used your $95k figure as total spending, not spending minus revenue. If it's already net of revenue, tell me and I'll adjust the runway line.
+
+<final_document>
+**Subject: Half-year update, and a $600k bridge we'd like you in**
+
+Hi all,
+
+Here's where we are at the half year, including the hard parts. At the end I'm asking you to join a $600,000 bridge round that closes December 15.
+
+**Customers more than doubled**
+
+We now have 31 paying commercial beekeepers, up from 12 a year ago. Revenue for the half was $212,000. Seventy percent of it came in March and April, when beekeepers get their colonies ready for pollination season. That seasonality drives our cash position, and I come back to it below.
+
+Each sensor costs us $38 to make and sells for $55, so we make $17 a unit. On top of that, every hive pays $4 a month for the app.
+
+**What the sensors did for our largest customer**
+
+Our biggest customer runs 4,000 hives. He lost 18% of his colonies this past winter, down from 31% the winter before. That's roughly 520 more colonies alive going into the season. He says the sensors were part of it. He also changed his mite treatment over the same period, so we can't claim the whole improvement, and we won't.
+
+**A competitor has arrived**
+
+In May a large farm equipment company launched a hive sensor at $45, $10 below ours. Their sensor measures only temperature. Ours also measures sound and hive weight. Three of our beekeepers have asked to test theirs. We don't know of any deals lost to them so far, and we haven't decided whether to change our pricing.
+
+**Cash**
+
+We spend about $95,000 a month and have $340,000 in the bank. Without new money, that lasts until about early March, just as next spring's orders start to arrive. That leaves us no margin.
+
+We're cutting spending to $75,000 a month by February by not filling two open roles.
+
+I'm not going to tell you we'll be profitable next year. We don't have a plan that shows it, and I'd rather you hear that from me now than find out later. Here is what the numbers do support. With the bridge and the lower spending, we have cash into autumn 2027 before counting any revenue. That takes us through the 2027 pollination season, when most of our revenue comes in.
+
+**The bridge**
+
+- $600,000 convertible note, 20% discount, $6M cap
+- $250,000 already committed by an angel investor
+- $350,000 still open
+- Closes December 15
+
+If you'd like to take part, please reply to me by **December 1** with the amount. I'm happy to talk it through before then.
+
+Thank you for backing us,
+
+[Your name]
+</final_document>
+
+The update comes to about 450 words. Two additions would make it stronger if you can get them before sending:
+
+- **The number of hives paying for the app, and your churn.** This is your best answer to both the seasonality and the cheaper competitor.
+- **What the bridge gets you to,** such as a revenue level, a customer count or the next raise. Investors putting in money will want to know what it buys.

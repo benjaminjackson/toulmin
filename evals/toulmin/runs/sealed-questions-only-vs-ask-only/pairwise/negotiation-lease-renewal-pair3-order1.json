@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-lease-renewal",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-05Z",
+  "without_skill_run": "2026-11-16T21-20-25Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A offers the real $5,100 figure and shows that by year five it passes my $5,650 ask. It also explains the late payments, which were caused by a cooler failure, and offers autopay and a signing within two weeks, which speaks directly to my worry about late rent. B offers $5,000 instead of the $5,100 in the brief, doesn't mention autopay or a quick signing, and doesn't explain the late payments."
+}

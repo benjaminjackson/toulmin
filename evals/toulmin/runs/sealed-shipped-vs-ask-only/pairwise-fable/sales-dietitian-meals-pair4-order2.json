@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "sales-dietitian-meals",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-11-22Z",
+  "without_skill_run": "2026-11-16T21-24-17Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone burned by health promises, B wins my trust by saying outright that 14 people is a small group, that medication changes weren't tracked and that the results aren't a promise. It also offers a free call with the dietitian and makes the no-contract terms plain, while A's A1C wording is looser and its caveat reads like boilerplate."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-08-56Z",
+  "without_skill_run": "2026-11-16T21-22-08Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both give the same facts and reasons honestly, but A speaks more directly to me as someone hired remote: it admits the change is a real cost, says the junior delay isn't their fault, and invites me to say now if this will be hard. B adds useful details (desks, five of six project leads already in), but its tone is flatter and less likely to keep me from pushing back or leaving."
+}

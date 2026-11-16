@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "recommendation-phd-applicant",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-36-17Z",
+  "without_skill_run": "2026-11-16T21-22-26Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters are honest and neither gives me a way to calibrate this unknown college's praise. B is more candid, naming the storm data gap and the lack of publications outright, and it engages with the science of the marsh finding, so I trust it more than A, which is thinner and reads stiffly from repeating her name."
+}

@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:22:34.328645+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 395
+  tags: []
+  notes: extracted 395 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 6
+    objections: 5
+    fit: 8
+  details:
+    agree: The plain admission that A1C results can't be promised would earn some
+      trust from a wary reader, and the $59 no-commitment trial is an easy step, but
+      nothing speaks to why this reader would stick with it past two months when they
+      quit everything else.
+    honest: It drops the A1C promise and gives all 14 results, including the one that
+      went up, but it adds an unsupported claim ('I don't use a template or an algorithm'),
+      slightly overstates with 'you don't have to count', and leaves out that medication
+      changes weren't tracked.
+    works_the_facts: It works out $12.90 a meal but never turns 37 of 88 into a share
+      (42% staying more than six months), which is the figure that would matter most
+      to someone who has quit within two months before, and it drops the 0.6-point
+      average without explaining why.
+    right_comparison: It describes the daily work of counting and cooking alone, but
+      it never compares itself with the apps and delivery service this reader already
+      tried and dropped.
+    qualification: The A1C hedge is tied to real numbers and gives a reason the results
+      can't be generalised, but it gives the reader nothing they can check for themselves,
+      such as what result to look for after three months.
+    objections: It meets the fear of commitment and of health hype, but it leaves
+      out the 15-minute call with the dietitian and the 4-week menu rotation, both
+      of which would answer the objection 'I'll quit again' or 'I'll get bored.'
+    fit: It is a clear sales page of about 400 words with headings and a single trial
+      button, as the brief asked.

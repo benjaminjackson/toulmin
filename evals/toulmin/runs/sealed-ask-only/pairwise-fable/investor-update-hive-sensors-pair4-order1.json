@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "investor-update-hive-sensors",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-22-24Z",
+  "without_skill_run": "2026-11-16T21-03-47Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me complete, usable facts: bridge terms, $250K already committed, the competitor's temperature-only limitation, three customers testing it, a concrete cost cut to $75K, and an honest refusal to promise profit. B is full of unfilled placeholders on exactly the points I need (terms, competitive response, profitability plan), so I can't act on it."
+}

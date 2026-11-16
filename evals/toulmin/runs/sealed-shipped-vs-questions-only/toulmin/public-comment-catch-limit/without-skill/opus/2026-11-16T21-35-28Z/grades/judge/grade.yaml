@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:36:30.697362+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 285
+  tags: []
+  notes: extracted 285 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 6
+    objections: 5
+    fit: 8
+  details:
+    agree: Accepting the staff's numbers and offering logs and a reporting app will
+      earn some trust from commissioners, but a commissioner who wants the cut has
+      no evidence that 3 fish or a shorter season would still meet the rebuild target,
+      so they have little reason to change their vote.
+    honest: Every figure comes from the brief, the rejected 'every boat will close'
+      claim becomes 'some of us are that close to the edge', which the two captains'
+      statements support, and the speech openly says he can't tell how many boats
+      would close.
+    works_the_facts: 'It turns the 32 lost trips into about $29,000, but it leaves
+      easy wins unused: 41 of 70 is 59%, a lasting 15-trip shortfall is about $13,500
+      a year, and the 9% landings share is never used to show how little a charter
+      cut adds to conservation.'
+    right_comparison: The 2016 pattern is described accurately, partial recovery included,
+      but the proposed alternatives (3 fish or a shorter season) are never set against
+      the staff's rebuild goal, and the 9% vs 80% contrast is raised and then dropped.
+    qualification: The hedge on boat closures is honest, and the offers (logs from
+      2016, an app test next season) can be checked, but none comes with a date, a
+      number to hit, or a consequence if it is missed.
+    objections: It handles the 'you're disputing our science' objection by conceding
+      the stock numbers, but it leaves open whether a 3-fish limit would rebuild the
+      stock in time and why a survey run by the charter association should be trusted.
+    fit: At about 330 words of plain spoken prose it fits two minutes at the microphone,
+      though the [harbor name] placeholder still needs filling in.

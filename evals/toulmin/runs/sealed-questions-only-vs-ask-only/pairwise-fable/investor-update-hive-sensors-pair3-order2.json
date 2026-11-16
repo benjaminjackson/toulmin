@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "investor-update-hive-sensors",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-45Z",
+  "without_skill_run": "2026-11-16T21-21-11Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me what I need to act: the actual reply deadline (December 1), the monthly cash report commitment, the company name, and a concrete framing of the competitor test and the 520-colony result, while being equally honest about not reaching profit. A leaves a \"[date]\" placeholder, omits the cash report, and labels seasonality and thin margins as \"what went well,\" which reads as spin to a skeptic about slow sales."
+}

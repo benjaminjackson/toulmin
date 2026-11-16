@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-10-17Z",
+  "without_skill_run": "2026-11-16T21-37-23Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B admits the A1C numbers come from a small group and that medication changes weren't tracked. It also offers a 15-minute call with the dietitian before I start, and that honesty lowers the risk for someone like me who has quit services before. A leaves out the medication caveat and the call, and it could be read as saying the average drop covers all 14 customers, so it feels more like the sales pitches I've learned not to trust."
+}

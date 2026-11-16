@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-44Z",
+  "without_skill_run": "2026-11-16T21-09-16Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B tells me what I actually need to decide: the commuting stipend, desks, a six-month review, that there are no further exceptions, and who to contact and when, signed by a named partner. A acknowledges the remote hires but gives them nothing concrete and leaves placeholders for names, so it reads vaguer and less straight with me."
+}

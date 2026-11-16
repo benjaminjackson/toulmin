@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "recommendation-phd-applicant",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-24-08Z",
+  "without_skill_run": "2026-11-16T21-09-09Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me checkable, comparative evidence I can't discount as small-college boosterism: top three students in 17 years, ran the state lab's water sampling alone for two weeks, and an outside supervisor who would rehire her. B leans on generic praise (moved discussions forward, scientific maturity) and adds claims the brief's facts don't support, while omitting the ranking and the outside supervisor's endorsement."
+}

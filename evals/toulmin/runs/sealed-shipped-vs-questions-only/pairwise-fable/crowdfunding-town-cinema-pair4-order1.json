@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "crowdfunding-town-cinema",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-05-03Z",
+  "without_skill_run": "2026-11-16T21-34-54Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A opens with the failed campaign and tells me the awkward things up front (the roof estimate could rise 15%, no promise of opening-week films), which makes me trust it with money after last time's refunds; B is tidy but leaves those out. A's claim that \"most of the money has already been pledged\" overstates $36,000 of $85,000, which narrows the gap."
+}

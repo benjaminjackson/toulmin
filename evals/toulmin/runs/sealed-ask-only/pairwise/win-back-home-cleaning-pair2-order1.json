@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-home-cleaning",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-22-54Z",
+  "without_skill_run": "2026-11-16T21-10-14Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is complete and concrete. It names the company and owner, says the price is $165 after the $99 visit, and gives a deadline, a no-contract promise and a phone number. That makes a low-risk trial easy for someone happy with their savings. B has unfilled placeholders, doesn't say the price after the first visit, and has no deadline or no-contract assurance, so it feels less trustworthy and less urgent."
+}

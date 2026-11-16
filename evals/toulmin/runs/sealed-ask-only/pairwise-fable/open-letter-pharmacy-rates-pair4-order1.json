@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-21-14Z",
+  "without_skill_run": "2026-11-16T21-06-50Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A answers my two standing objections: it shows chains are more than 20 miles away in 14 counties and that two pharmacies will stop taking our plan, and it offers invoices so I can verify the $1.80 figure, while admitting brand-drug offsets and unknown closure causes. B reads like the annual complaint, implies losses on all plan prescriptions ('a fifth of its work'), and adds a transparency demand with nothing I can check."
+}

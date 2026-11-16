@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-52Z",
+  "without_skill_run": "2026-11-16T21-03-47Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me real terms, a deadline, a committed $250K anchor, a concrete spending cut and an honest admission about profitability and the three customers testing the competitor. A is full of placeholders, says nothing about how we'd sell faster, and still promises a profitability target the numbers don't back up."
+}

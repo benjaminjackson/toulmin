@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-50Z",
+  "without_skill_run": "2026-11-16T21-22-24Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me the December 1 reply deadline, commits to a monthly cash report, and treats the three competitor trials as a real test of whether customers will pay more. A asks for commitments by December 15 instead of the December 1 deadline and offers no ongoing reporting, which matters to me since I think they're selling too slowly."
+}

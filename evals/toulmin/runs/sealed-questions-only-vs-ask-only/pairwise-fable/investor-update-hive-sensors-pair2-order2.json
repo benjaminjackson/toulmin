@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "investor-update-hive-sensors",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-33Z",
+  "without_skill_run": "2026-11-16T21-19-54Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "A answers my worry about slow sales directly with the break-even arithmetic (about $900,000 a year, roughly double the current pace) and frames the 2027 season as the test. B offers a useful monthly cash report but gives no sales target, and it asserts that no customer has left or asked for a lower price, which the brief's facts do not support."
+}

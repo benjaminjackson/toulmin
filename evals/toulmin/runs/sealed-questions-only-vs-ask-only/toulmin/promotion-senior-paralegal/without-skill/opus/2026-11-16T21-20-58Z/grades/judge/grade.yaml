@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T21:21:43.764013+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 251
+  tags: []
+  notes: extracted 251 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 5
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 3
+    qualification: 3
+    objections: 5
+    fit: 7
+  details:
+    agree: The request is clear and owns the March error, but Kessler gets no proof
+      that the fix has worked and no firm commitments, so his doubt about her reliability
+      is not really settled.
+    honest: Most claims match the brief, but 'Every group that uses the sheet has
+      that check' is not in the brief, and 'I already do much of that work' stretches
+      training into supervision.
+    works_the_facts: The hours are given but not worked out (90 hours, about 6%, over
+      target), and the strongest available figure, roughly 600 entries with no errors
+      since April, is missing.
+    right_comparison: The letter never describes what the group has if it doesn't
+      promote her, such as untracked training and nobody owning the deadline process,
+      so there is no comparison to weigh.
+    qualification: Available checkable commitments, such as finishing state certification
+      by June and running weekly check-ins, are left out, so Kessler has no dated
+      standard to hold her to.
+    objections: The deadline error is raised directly and the fix is described, but
+      filing it under 'Managing risk' reads as spin, and without the 600 error-free
+      entries the answer rests on process rather than results.
+    fit: It is a well-formed letter well under 400 words, but it leaves '[Name]' and
+      '[Your name]' placeholders even though both names were known.

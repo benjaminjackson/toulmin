@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-21-14Z",
+  "without_skill_run": "2026-11-16T21-06-50Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks directly to my doubt that members have plenty of chains nearby: in those 14 counties the nearest chain is more than 20 miles away. It also offers invoices I can check and a meeting before May 1, and it admits plainly what the pharmacies don't know about the closures. A reads like the yearly rate complaint, with vague demands and nobody I can contact."
+}

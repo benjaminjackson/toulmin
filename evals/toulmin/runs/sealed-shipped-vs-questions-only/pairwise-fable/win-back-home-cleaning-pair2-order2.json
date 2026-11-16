@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "win-back-home-cleaning",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-10-37Z",
+  "without_skill_run": "2026-11-16T21-36-38Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "I left over price, not cleaners, so A's \"You were right about the cleaners\" misses me. B names the $165 vs $140 gap I already know and says what that $25 buys (insured employees), and is upfront that the $99 is followed by the regular price, which makes it more believable and a bit more likely to get me to try one visit."
+}

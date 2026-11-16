@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "crowdfunding-town-cinema",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-02-41Z",
+  "without_skill_run": "2026-11-16T21-33-05Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B answers my two real doubts: it shows the $49,000 still needed is only $2,000 more than the town gave last time, and at about $7.50 a head a small pledge after my ambulance gift still counts. A's spending reports, Thanksgiving date and candour about the roof build trust, but it leaves me unsure the goal is reachable and the roof caveat raises a worry it doesn't resolve."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "promotion-senior-paralegal",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-33-07Z",
+  "without_skill_run": "2026-11-16T21-19-26Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both own the March error and cite the 600 clean entries, but A adds concrete commitments (weekly check-ins, certification by June 2027) and a candid \"I can't promise I'll never make an error\", which is what I'd need to trust her supervising others. B says \"too close\", which I appreciate, but it overclaims that she has been \"supervising informally for two years\" and adds training details the facts don't support."
+}

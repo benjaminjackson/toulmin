@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:34:42.816559+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 244
+  tags: []
+  notes: extracted 244 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 5
+    objections: 6
+    fit: 9
+  details:
+    agree: 'A dentist who is short-staffed would find the letter credible and the
+      gap reasonably explained, but it leaves out the two points most likely to move
+      him: she can start within two weeks, and she can cover the Tuesday and Thursday
+      evening hours.'
+    honest: Every claim traces to the brief or to what the user supplied, though 'taught
+      me what patients need' is a soft inference rather than a fact.
+    works_the_facts: The $38,000 to $9,000 drop appears but is never stated as a cut
+      of roughly three-quarters, and the larger clinic (4 vets, 14 staff against 3
+      dentists, 9 staff) is flattened to 'close in size' when it could be shown as
+      handling more.
+    right_comparison: The only comparison, the size of the two practices, is accurate
+      but understated, and the letter never sets her against the owner's real alternative
+      of leaving the post empty for longer.
+    qualification: The Dentrix promise names a checkable course of 20 hours but has
+      no date and isn't tied to a start date, so 'before my first day' is all the
+      reader can hold her to.
+    objections: It deals openly with the gap, the missing Dentrix experience and the
+      reference, but leaves out her four years as church treasurer in QuickBooks,
+      the fact that best answers whether her skills have gone stale during the gap.
+    fit: It is a properly addressed cover letter of about 270 words, under the 300-word
+      limit, in a plain and suitable register.

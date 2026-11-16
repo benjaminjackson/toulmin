@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T21:06:02.810845+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 398
+  tags: []
+  notes: extracted 398 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 5
+    honest: 6
+    works_the_facts: 3
+    right_comparison: 5
+    qualification: 4
+    objections: 5
+    fit: 7
+  details:
+    agree: The specific $1.80 loss, the 14-county point and the offer of invoices
+      make this more than the usual yearly complaint, but it never tells her chains
+      are 20+ miles away, that two pharmacies will stop filling for her members, or
+      gives a deadline for meeting, so she has little reason to act now.
+    honest: It rightly drops the unsupported 'a third will close' claim and doesn't
+      link the 9 closures to rates, but 'losing money on a fifth of its work' stretches
+      a top-20-generics loss (possibly offset by brand drugs) to all plan work, and
+      the PBM-disclosure ask and 'known for years' line were added without support.
+    works_the_facts: 'The figures are only repeated, never worked: there is no sense
+      of total loss at the writer''s pharmacy or across 38 stores, no closure rate
+      from 9 in two years, and the 20-mile chain distance is never used.'
+    right_comparison: It shows what members lose if an independent closes in the 14
+      counties, but 'there isn't one' and 'go without their medicine' are asserted
+      rather than tied to the 20-mile fact, and there is no trend of what follows
+      if rates stay as they are.
+    qualification: The hedge on why the nine closed is honest, but there's no checkable
+      condition, such as two pharmacies stopping plan fills if the July 1 contract
+      doesn't pay cost plus a fee, and no May 1 meeting date.
+    objections: It deals partly with the 'plenty of chains' objection through the
+      14 counties and with the 'yearly complaint' objection through specific figures
+      and invoices, but leaves out the 20-mile distance and the two pharmacies' plans
+      to stop filling, which would answer both.
+    fit: It is a one-page open letter that suits both the plan and the newspapers,
+      though it uses placeholders instead of the alliance name and signer, and it
+      asks for cost only instead of cost plus a fill fee.

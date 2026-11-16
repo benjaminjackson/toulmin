@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-dental-office",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-04-10Z",
+  "without_skill_run": "2026-11-16T21-20-52Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A reads tighter and gives me something concrete I can check: a named reference, Dr. Sue Kim. It also points out that her old clinic was close in size to mine. B adds filler like 'I take pride' and 'kept a busy practice running smoothly,' and it stretches 'handled' into 'led.' Both explain the gap and the Dentrix training equally well."
+}

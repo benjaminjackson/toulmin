@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-dental-office",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-20-07Z",
+  "without_skill_run": "2026-11-16T21-02-23Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is addressed to me by name and comes from a real applicant, while A still has bracket placeholders, which looks careless. B also answers the Dentrix gap with a concrete step: she has already enrolled in a 20-hour course. A's \"happy to start training\" is vaguer and less convincing to someone deciding about a long work gap."
+}

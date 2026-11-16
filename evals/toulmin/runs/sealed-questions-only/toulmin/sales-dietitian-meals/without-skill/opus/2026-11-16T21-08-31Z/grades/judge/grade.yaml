@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T21:09:07.266718+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 391
+  tags: []
+  notes: extracted 391 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 5
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 3
+    qualification: 4
+    objections: 4
+    fit: 8
+  details:
+    agree: The honest A1C figures and the one-week trial would help with a wary reader,
+      but this reader has quit three services before and gets no reason to believe
+      this one will stick, such as no contract, cancel any time, meal swaps or a call
+      with the dietitian.
+    honest: The page drops the claim that the meals will lower A1C and reports 10
+      up, 3 flat and 1 up out of 14 honestly, but it invents 'less than most takeout'
+      and 'enough protein and fiber to keep you full,' and it leaves out that medication
+      changes weren't tracked.
+    works_the_facts: It works out $12.90 per meal, but it never turns 37 of 88 into
+      about 42% staying past six months, never notes the 14 are a small self-selected
+      group, and leaves the trial-week value vague.
+    right_comparison: The only comparison is an unsupported line about takeout, and
+      the page never sets itself against cooking at home or the apps and services
+      this reader already dropped.
+    qualification: '''I can''t promise any specific result'' and the see-your-doctor
+      note are fair hedges, but neither gives anything the reader can check, and the
+      untracked medication changes that could explain the A1C drops go unmentioned.'
+    objections: The main objection, that the reader always quits within two months,
+      is touched only by the retention figure, while no contract, skipping or cancelling
+      any time, 6 swap choices, a 4-week menu cycle and a 15-minute call with the
+      dietitian are all missing.
+    fit: It is a sales page of about 400 words with clear sections and a trial-week
+      button, though it leaves out practical details such as the delivery radius and
+      the Thursday order cutoff.

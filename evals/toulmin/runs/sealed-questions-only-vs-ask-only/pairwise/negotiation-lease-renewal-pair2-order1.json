@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-lease-renewal",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-33-08Z",
+  "without_skill_run": "2026-11-16T21-19-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A deals with my real worry, the late payments, by committing to automatic payment on the 1st and to signing within two weeks. It also gives me the $40,000 hood replacement cost, which shows what I'd lose by switching tenants. B is warmer but leaves out those commitments, so it gives me less reason to turn down the coffee chain."
+}

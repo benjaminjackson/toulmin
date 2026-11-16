@@ -1,0 +1,57 @@
+I've written the draft below, but I didn't have it say "we'll be profitable next year" as a flat statement. The numbers you gave me don't back that up yet, and this update is asking people for money. If the claim turns out to be wrong, the trust you'll need for the next raise is gone, and it could cause legal problems.
+
+- **The gap is large.** You spend $95k a month and brought in about $35k a month on average. Breaking even means roughly tripling gross profit within a year.
+- **The new competitor squeezes your price.** They're selling at $45, only $7 above your $38 cost. If you have to match them, each sensor makes much less money.
+- **Investors will check the math.** Most of the revenue came in March and April, and you have about 3.6 months of cash left. They will work out the burn and runway themselves.
+
+So I wrote it as a target with conditions. If you have a model that shows profitability (hive count, subscription revenue, cost cuts), put those numbers in and you can say it more strongly.
+
+<final_document>
+**Subject: Half-year update and $600K bridge round**
+
+Hi all,
+
+Here's where we are at the half: what's working, what's hard, and what we're asking of you.
+
+**Growth**
+We now have 31 paying commercial beekeepers, up from 12 a year ago. Revenue for the six months was $212,000. About 70% of it came in March and April, as operators got ready for pollination season. That pattern is now clear: our year depends on spring.
+
+**Unit economics**
+A sensor costs us $38 to make and sells for $55. On top of that we charge $4 per hive per month for the app. We now have [X] hives on subscription, which is $[Y] in recurring revenue a year. Growing that recurring revenue is what evens out the spring spike and moves us toward profitability.
+
+**What customers are seeing**
+Our largest customer runs 4,000 hives. Over the winter he lost 18% of his colonies, compared with 31% the winter before. He credits the sensors as part of that. He also changed his mite treatment, so we can't claim the whole improvement. This winter we're running a [controlled comparison / matched-yard analysis] with [customer(s)] so that next year we have cleaner evidence of our impact.
+
+**Competition**
+In May, a large farm equipment company launched a similar sensor at $45. This is the most important change in our market this year. It confirms there's demand, and it puts pressure on our hardware price. Our response:
+- [Differentiation, e.g. detection accuracy, alerts tied to treatment, support for large operations]
+- [Pricing response, e.g. bundling hardware into the subscription, volume pricing, cost reduction toward $X/unit]
+
+**Cash**
+We spend about $95,000 a month and have $340,000 in the bank, which gets us to roughly March. Because most of our revenue arrives in March and April, running short just before peak season is the worst timing we could have.
+
+**The bridge**
+We're raising a $600,000 bridge. With our current cash, that gives us about ten months of runway at today's spend and carries us through the 2027 spring season with room to spare. We'll use it to:
+1. Get into spring selling with enough inventory and sales capacity to capture peak demand
+2. [Cut sensor cost / build out subscription features]
+3. Produce the winter-loss data that sets us apart from a cheaper competitor
+
+**Path to profitability**
+Our goal is to reach profitability in 2027. To get there, we need [X customers / Y hives on subscription], a sensor cost of [$Z], and monthly spend held at [$W]. We'll report against each of these in every update so you can see how we're tracking.
+
+**The ask**
+We'd like you, our existing investors, to lead this round. You know the business, and your participation will matter to new investors. Terms: [instrument, cap/discount, minimum check]. We're aiming to close by [date].
+
+I'm happy to go through the numbers with any of you directly. Just reply and we'll find a time.
+
+Thank you for backing us,
+
+[Name]
+[Title], [Company]
+</final_document>
+
+A few things to fix or confirm:
+
+- **Bracketed items:** fill them in before sending. The most important is the number of hives on subscription. The update is much stronger with it.
+- **Timing:** the update is around 480 words now, so you have about 100 words of room if you add detail. Also, "the half" and "gets us to roughly March" assume the update goes out this month. If the six months you're reporting on aren't the most recent ones, change that wording.
+- **Profitability:** if you send me your projections (hive growth, subscription revenue per customer, planned cost changes), I can check whether "profitable in 2027" holds up and make that section firmer if it does.

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "sales-dietitian-meals",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-37-23Z",
+  "without_skill_run": "2026-11-16T21-23-20Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "As someone burned by health promises, A earns my trust by saying plainly that the A1C group is small and self-selected, that medication changes weren't tracked, and that Lena can't promise a drop. It also gives me a personal call with her before I start. B leaves out the medication caveat and the call, and reads more like the pitches I've quit before."
+}

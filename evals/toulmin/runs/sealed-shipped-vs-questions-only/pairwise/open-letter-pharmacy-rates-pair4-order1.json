@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-08-09Z",
+  "without_skill_run": "2026-11-16T21-35-21Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters stay with the facts and make the same ask. A is more careful: it admits the pharmacies can't say how much brand-name drugs offset the loss, while B claims 'none of us can make it all back' and implies all plan orders lose money, overreach a skeptical director would catch. B also still has unfilled placeholders."
+}

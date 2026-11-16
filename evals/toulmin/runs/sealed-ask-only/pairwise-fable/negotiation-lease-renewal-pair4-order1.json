@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "negotiation-lease-renewal",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-21-14Z",
+  "without_skill_run": "2026-11-16T21-05-07Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A addresses the thing I still bring up — the two late payments — with a real explanation (cooler failure, nine days closed), a thank-you, and automatic transfers on the 1st, plus a signing commitment within two weeks; B ignores the late rent entirely while calling the tenant \"steady\" with a \"proven record,\" which rings hollow to me, and it arrives with unfilled name placeholders."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-45Z",
+  "without_skill_run": "2026-11-16T21-03-05Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me what I need to decide: full note terms, the $250k already committed, the cut to $75k a month, the deadline, and an honest admission that the company won't be profitable next year. Document B has many unfilled placeholders, no terms, and a profitability goal its numbers don't support, which feeds my worry that sales are too slow."
+}

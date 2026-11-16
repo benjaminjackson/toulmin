@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-21Z",
+  "without_skill_run": "2026-11-16T21-02-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is the one I could score and fund. It names the clinic, fills the $33,000 gap with the pledged family fund plus general budget, explains why it needs funding now (an attorney leaves in June and the last hire took five months), and admits there's no comparison data yet while promising to collect it. A arrives full of blank brackets, with the funding gap and replacement plan unresolved, and claims without support that 60 days is enough time to find housing."
+}

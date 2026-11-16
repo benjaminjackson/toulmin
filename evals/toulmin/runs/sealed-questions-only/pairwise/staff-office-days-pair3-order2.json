@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-office-days",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-37-50Z",
+  "without_skill_run": "2026-11-16T21-10-19Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is more likely to win me over. It names a real person to contact, offers $150 a month toward commuting, admits there aren't enough desks yet, says no other exceptions will be made, and promises a review after six months. Those concrete details answer what a remote hire actually needs to know, while A leaves out the support and the review entirely and is signed with placeholder names."
+}

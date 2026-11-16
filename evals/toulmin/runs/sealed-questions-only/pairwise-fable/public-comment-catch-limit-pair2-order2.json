@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-15Z",
+  "without_skill_run": "2026-11-16T21-07-58Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B opens with a specific ask I can vote on, concedes our staff's numbers, admits what the captain can't prove and that bookings are already 70% filled, and offers trip logs and a reporting-app trial; that candor and the concrete give-back set it apart from the usual charter testimony. A is honest and well argued but ends with three diffuse asks and offers nothing in return."
+}

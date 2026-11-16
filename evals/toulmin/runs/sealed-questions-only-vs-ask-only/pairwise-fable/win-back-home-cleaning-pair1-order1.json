@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "win-back-home-cleaning",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-35-50Z",
+  "without_skill_run": "2026-11-16T21-22-10Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "I left over price and had no complaint, so A's \"you gave us two reasons\" and \"We fixed it\" misdescribe me and overpromise on a price that hasn't changed. B says \"the reasons we heard most\", which is accurate, and puts the $99 offer in the subject line, which is what would get a price-driven reader like me to open it and consider booking."
+}

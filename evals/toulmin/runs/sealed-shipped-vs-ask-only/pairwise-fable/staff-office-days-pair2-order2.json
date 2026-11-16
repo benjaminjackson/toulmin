@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-10-04Z",
+  "without_skill_run": "2026-11-16T21-23-08Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B is straighter with me: it admits the firm can't prove remote work caused the 30% slowdown, where A states the cause as fact. B also gives me the practical details I need to decide (desks arriving in August, a March 2028 review, HR as a contact, the meeting time, nine months' notice). A's acknowledgement of what remote hires gave up is warmer, but \"the decision is final\" alongside \"I don't have a complete answer\" leaves me more unsettled and less informed."
+}

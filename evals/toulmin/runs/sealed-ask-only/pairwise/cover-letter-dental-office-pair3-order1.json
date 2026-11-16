@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-dental-office",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-20-07Z",
+  "without_skill_run": "2026-11-16T21-02-23Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is addressed to me by name and says she has already enrolled in a 20-hour Dentrix course she'll finish before day one, which settles my main worry. B still has unfilled placeholders and gives only a vague offer to \"start training,\" so it reads like a template I'd set aside."
+}

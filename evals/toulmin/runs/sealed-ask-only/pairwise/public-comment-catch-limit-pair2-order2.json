@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-catch-limit",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-19-37Z",
+  "without_skill_run": "2026-11-16T21-07-58Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives the commission things it can actually act on: specific alternatives (a three-fish limit or a shorter season), plus concrete offers of trip logs and a catch-reporting app trial. It also states the harbor-wide risk honestly, citing the two captains who said they would sell. A has unfilled name placeholders and makes vaguer requests, so to commissioners it sounds like the usual charter complaint."
+}

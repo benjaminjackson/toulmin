@@ -1,0 +1,59 @@
+I've written the profitability section around what the numbers support. Without the bridge, the money runs out in March. With the bridge and the cut to $75,000 a month, it lasts to about the end of 2027.
+
+<final_document>
+**Subject: HiveSense half-year update and bridge round**
+
+Dear investors,
+
+This update covers our customers, revenue, competition and cash, and ends with what we're asking of you.
+
+**Customers**
+
+We have 31 paying commercial beekeepers, up from 12 a year ago.
+
+Our largest customer runs 4,000 hives. Last winter he lost 18% of his colonies, compared with 31% the winter before. He says the sensors were part of that. He also changed his mite treatment over the same period, so we can't yet say how much of the improvement came from us.
+
+**Revenue and margins**
+
+Revenue for the half was $212,000. 70% of it came in March and April, when beekeepers get their colonies ready for pollination season, so most of our sales come in the spring.
+
+Each sensor costs us $38 to make and sells for $55, leaving $17 per sensor. On top of that, each hive pays $4 a month for the app, so we have some income for the rest of the year.
+
+**Competition**
+
+In May, a large farm equipment company launched a hive sensor at $45, $10 below ours. Their sensor measures only temperature. Ours measures temperature, sound and hive weight, which together give a fuller picture of how strong a colony is. As far as we know, no customer has left us. Three have asked to test the competitor's sensor, and we'll tell you what they decide.
+
+**Cash**
+
+We spend about $95,000 a month and have $340,000 in the bank. Not counting new revenue, that lasts into March, just before the season when most of our sales come in.
+
+We're cutting spending to $75,000 a month by February by leaving two open roles unfilled.
+
+We are not forecasting a profit in 2027. Over the last half, revenue averaged about $35,000 a month. To break even at the lower spending level, we'd need roughly twice that.
+
+**The bridge round**
+
+We're raising $600,000 on a convertible note with a 20% discount and a $6 million cap. One angel investor has committed $250,000, so $350,000 is still open. The round closes on December 15.
+
+With the bridge and the lower spending, our cash lasts until about the end of 2027, before counting any revenue. That takes us through next year's pollination season, which is where most of our annual sales are won or lost.
+
+Everyone who invests will get a monthly cash report from me.
+
+If you'd like to take part, please reply to me by December 1.
+
+Thank you for your continued support.
+
+[Name]
+HiveSense
+</final_document>
+
+It's about 420 words. Some things to check before you send it:
+
+- **The revenue period doesn't add up.** If "the last six months" means May to October, it can't include March and April, which you say brought in 70% of the revenue. I wrote "the half" to get around this. Please confirm the period you mean and name it in the update.
+- **How I worked out the cash figures:**
+  - **Without the bridge:** $340,000 lasts into March if spending stays at $95,000 through December and January and drops to $75,000 from February.
+  - **With the bridge:** Adding $600,000 leaves about $750,000 at $75,000 a month from February, which lasts to about November 2027. Both figures ignore new revenue.
+  - **Two to check:** Whether $95,000 a month includes the cost of making sensors, and whether any of the cut has already happened. Either could change these figures.
+- **Things you said you didn't know, so I left them out:** the minimum investment, how many hives pay for the app, and any renewal numbers. If you can find out how many of the 31 beekeepers reordered for 2027, adding it would make the update much stronger.
+- **Your largest customer** isn't named or quoted. If he agrees to be quoted, one sentence from him would replace the "he says" line.
+- **Fill in** your name and the greeting.

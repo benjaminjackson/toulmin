@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-20-59Z",
+  "without_skill_run": "2026-11-16T21-02-51Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is complete and specific. It covers the training handoff, the $20,000 family-fund pledge with a budget that adds up, a plan that doesn't rely on the county contract, and reports every six months, and it says plainly when the grant would only replace the departing attorney. Document B is full of unfilled placeholders like [Clinic Name] and [source], and it claims a third attorney the facts don't support. A judge reading it would see an unfinished draft."
+}

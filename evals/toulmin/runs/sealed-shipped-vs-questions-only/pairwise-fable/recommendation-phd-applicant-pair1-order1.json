@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "recommendation-phd-applicant",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-07-29Z",
+  "without_skill_run": "2026-11-16T21-35-27Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters are candid about the unrepeated study and the storm gap, but B frames the shellfish lab supervisor's rehire comment as outside corroboration, which matters to me because I discount small-college praise, and it invites direct contact. A adds an unsupported claim (\"without missing her sampling\") that sits awkwardly beside the lost data, though B's unfilled placeholders keep the gap small."
+}

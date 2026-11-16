@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "grant-eviction-defense",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-19-49Z",
+  "without_skill_run": "2026-11-16T21-02-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is visibly unfinished, with bracketed placeholders for the clinic name, funding source, and the departing attorney's replacement, which a reviewer scoring against a rubric would mark down immediately. Document B is complete, names the clinic, and gives a concrete funding plan showing the position is covered and does not hinge on the county renewal."
+}

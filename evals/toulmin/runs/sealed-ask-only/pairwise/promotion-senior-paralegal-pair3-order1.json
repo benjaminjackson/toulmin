@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-20-13Z",
+  "without_skill_run": "2026-11-16T21-06-30Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A admits the March filing was 'too close' and explains that the fix relies on a process rather than on people never making mistakes, which answers my concern directly; it also ties the request to the January cycle and asks for a meeting before December 15. B handles the error well too but is more generic, so A wins only narrowly."
+}

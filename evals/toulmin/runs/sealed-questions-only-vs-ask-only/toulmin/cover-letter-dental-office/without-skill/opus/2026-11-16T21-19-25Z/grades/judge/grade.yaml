@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:20:07.102191+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 239
+  tags: []
+  notes: extracted 239 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 5
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 6
+    objections: 5
+    fit: 6
+  details:
+    agree: 'A dentist with an empty manager''s chair would find this credible, but
+      it leaves out the two points most likely to win him over: she can start within
+      two weeks and work the Tuesday and Thursday evenings.'
+    honest: Most claims follow the brief, but 'led' the move to software (the brief
+      says 'handled'), 'kept the office running smoothly throughout the change' and
+      'busy practice' are embellishments the facts don't support.
+    works_the_facts: It repeats the $38,000-to-$9,000 drop without working out the
+      stronger form, a cut of more than three-quarters or about $29,000 recovered,
+      and it never sets 14 staff against the 9 she would supervise.
+    right_comparison: It mentions four vets and fourteen staff but never sets them
+      against Brookside's three dentists and nine staff, which would show the new
+      job as a step within her proven range.
+    qualification: The Dentrix commitment names the course and its roughly 20 hours
+      and promises it will be done before day one, which he can check, but it gives
+      no date and says nothing about what follows if it is late.
+    objections: It deals with the gap and with Dentrix, but on the doubt about whether
+      her skills are current it leaves out her four years as church treasurer keeping
+      the books in QuickBooks, and it gives no reference, such as Dr. Kim, to back
+      her record.
+    fit: It is a proper cover letter well under 300 words, but it leaves '[Your Name]'
+      as a placeholder even though her name was known.

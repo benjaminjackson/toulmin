@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-57Z",
+  "without_skill_run": "2026-11-16T21-20-41Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is upfront about the roof estimate possibly rising 15% and admits it can't promise new releases, and it's signed by Ruth with a Thanksgiving opening target, which wins over someone wary from the last campaign. A leaves out that roof risk and adds a 2027 year the facts never gave."
+}

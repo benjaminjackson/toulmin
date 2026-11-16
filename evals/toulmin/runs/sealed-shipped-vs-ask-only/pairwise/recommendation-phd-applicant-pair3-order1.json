@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-09-36Z",
+  "without_skill_run": "2026-11-16T21-23-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A is candid and specific about the study's limits: one year, two marsh sites and three months of lost data. That precision makes its praise more believable to a reader who discounts small-college letters, and it handles the publication question carefully. B invents details that aren't in the facts: that she designed the study, that she never missed her sampling schedule, and that the supervisor would rehire her 'without hesitation'. B does gain some credibility by offering to answer questions."
+}

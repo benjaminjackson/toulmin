@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-06-49Z",
+  "without_skill_run": "2026-11-16T21-34-27Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters stay within the facts and answer my belief that members have chains nearby with the 14-county, 20-mile point. A leads with the July 1 ask, quantifies the 40-mile round trip and ends with three concrete steps, while B leans on emotional touches like the 'retired teacher' and slightly overstates losing money 'every time'."
+}

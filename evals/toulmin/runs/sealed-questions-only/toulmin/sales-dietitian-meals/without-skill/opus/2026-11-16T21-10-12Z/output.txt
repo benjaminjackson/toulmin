@@ -1,0 +1,52 @@
+I've written the page around what your results show rather than a promise that the meals will lower A1C. Here's why:
+
+- **The evidence doesn't support a guarantee.** It comes from 14 of your 88 customers, and they chose to share their results. People whose numbers improved are more likely to share. You also don't know whether any of them changed medication during those three months. One person's A1C went up.
+- **It's a risky claim.** A promise of a health outcome can draw attention from the FTC and your state licensing board, and it carries extra weight coming from an RD. If a customer's A1C doesn't drop, the page has made them a promise you couldn't keep.
+
+The real numbers are still persuasive, so I've used them openly. They read as more credible because they aren't oversold.
+
+I left out the 1-in-5 trial conversion rate. It's useful for your own planning, but it wouldn't help sell the plan.
+
+<final_document>
+**Lunch and dinner, planned by a dietitian for life with type 2 diabetes**
+
+Managing type 2 diabetes means thinking about food all day: what to eat, how many carbs it has and what it will do to your numbers. Our goal is to take a big part of that off your plate.
+
+Every Sunday we deliver 10 fully cooked lunches and dinners to your door. Each meal has **45 grams of carbohydrate or less**, and every menu is planned by me, a registered dietitian. I don't hand that job to someone else. You heat the meal, eat it, and get on with your day.
+
+**What you get**
+
+- 10 cooked lunches and dinners each week
+- 45g of carbohydrate or less in every meal
+- Menus planned by a registered dietitian
+- Delivery every Sunday in our metro area
+- **$129 a week**
+
+**What our customers have seen**
+
+We currently cook for 88 people, and 37 of them have been with us for more than six months. People stay because the meals make their week easier and they like the food.
+
+Some customers have chosen to share their A1C results with me from before they started and after three months. So far 14 people have done this:
+
+- **10** saw their A1C go down, with an average drop of 0.6 points
+- **3** stayed about the same
+- **1** went up
+
+This is a small group of people who volunteered their results. It is not a clinical study, and I don't track other changes they may have made, such as changes to their medication. Your results will depend on many things, including what else you eat, your activity and your treatment plan. Our meals can be a solid, consistent part of that plan.
+
+**Try a week first**
+
+You don't need to commit to anything to find out if the meals suit you. A **trial week costs $59**. You'll get a real week of our meals so you can judge the food, the portions and the convenience for yourself.
+
+If it works for you, move to the weekly plan at $129. If it doesn't, you've spent $59 on a week of good meals.
+
+**A note on your care**
+
+These meals support your diabetes care but don't replace it. Keep working with your doctor or care team, and talk to them before making changes to your medication or treatment.
+
+**[Start your $59 trial week]**
+
+*Meals are planned by a registered dietitian. Individual results vary. The A1C figures above come from 14 customers who chose to share their results and are not a clinical trial. This service does not diagnose, treat or cure any condition.*
+</final_document>
+
+Please check one detail: is the 0.6-point average drop across all 14 customers, or only the 10 whose A1C went down? The page currently says it's for the 10. If it's for all 14, change that line to "Across all 14, the average A1C dropped 0.6 points."

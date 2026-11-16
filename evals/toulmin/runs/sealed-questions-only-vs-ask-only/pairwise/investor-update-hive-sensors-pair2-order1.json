@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-33-33Z",
+  "without_skill_run": "2026-11-16T21-19-54Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B speaks directly to my worry that sales are too slow: it shows that break-even needs about double this half's revenue, and it treats the 2027 season as the test of renewals and of the $45 competitor. A offers monthly cash reports, which I'd value, but it also claims 'no customer has left us or asked for a lower price', which the brief's facts don't support."
+}

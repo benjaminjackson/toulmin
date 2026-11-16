@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:20:22.089987+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 424
+  tags: []
+  notes: extracted 424 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 7
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 7
+    qualification: 5
+    objections: 7
+    fit: 8
+  details:
+    agree: The 20-mile chain gap, the July 1 renewal deadline and the offer of invoices
+      and a meeting make a concrete case that a skeptical benefits director could
+      act on, though it never turns the loss into a dollar figure she would feel.
+    honest: It rightly drops the 'third will close' claim, but 'a fifth of its work
+      at a loss' and 'every pharmacy still open is now losing money' go further than
+      the facts, which show an average loss on the top 20 generics only, with possible
+      brand-name offsets; the list of members' jobs is also invented.
+    works_the_facts: 'It derives no figures: there is no estimate of yearly loss from
+      3,100 prescriptions at $1.80 and no closure pace from 9 in two years, and 22%
+      is only restated as ''one in five''.'
+    right_comparison: It describes the alternative accurately, as members driving
+      more than 20 miles to a chain in 14 counties, and notes the nine closures without
+      claiming they were caused by rates.
+    qualification: '''If nothing changes'' is tied to no date or threshold the reader
+      can check, though the July 1 renewal and the May 1 meeting window give some
+      anchor.'
+    objections: It answers 'members have chains' with the 20-mile fact and 'they complain
+      every year' with the invoice offer, but leaves open the obvious reply that losses
+      on generics may be offset by brand-name margins.
+    fit: It is a one-page open letter with a clear ask and a signature that suits
+      both the plan and the newspapers.

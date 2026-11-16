@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-06-32Z",
+  "without_skill_run": "2026-11-16T21-35-51Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A tells me what the money buys: about 80 more tenants a year, roughly 160 over the grant, and about a quarter of the 300 now turned away. That projection comes straight from the caseload figures. B has tidy rubric headings and is more candid about the county contract, but it never says how many more tenants would get a lawyer, so I'd have less to score on impact."
+}

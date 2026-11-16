@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "cover-letter-dental-office",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A answers what I'd actually worry about: she left her last job with proper notice, has kept current with QuickBooks books for four years, has a named reference, can start in two weeks and cover my evening hours. B is pleasant but leaves the gap unaddressed beyond caregiving and ends with unfilled placeholders instead of a name."
+}

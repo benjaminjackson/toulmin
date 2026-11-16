@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-21-43Z",
+  "without_skill_run": "2026-11-16T21-08-31Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who has quit diet apps and a meal service before, I care most about A's 'no contract, skip or cancel any time' and the weekly meal swaps, and B leaves both out. B also adds claims the facts don't support, such as 'enough protein and fiber' and 'less than most takeout.' A is open about the A1C results and names the RD who plans the meals, so I trust it more."
+}

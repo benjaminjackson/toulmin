@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-15Z",
+  "without_skill_run": "2026-11-16T21-19-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B puts the ask first, frames the 9%/80% split as a fairness point without A's shaky claim that the cut \"can't do much for the stock\", and is candid that he can't say how many boats would close and that the 70% booked trips will delay the damage. A's \"every one of us would be at risk\" and its muddled booked-trips line are weaker with me, though B's unfilled harbor placeholder narrows the gap."
+}

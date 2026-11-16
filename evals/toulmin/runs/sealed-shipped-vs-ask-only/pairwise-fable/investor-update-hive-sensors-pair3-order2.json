@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "investor-update-hive-sensors",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-04-47Z",
+  "without_skill_run": "2026-11-16T21-21-11Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B answers my worry about slow sales with numbers: revenue per hive, what matching the $45 price does to margin, the cash position in March without the bridge, and that revenue must more than double to break even. A is honest but vaguer on the path to profit and leaves a \"[date]\" placeholder in the ask."
+}

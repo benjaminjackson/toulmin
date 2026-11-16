@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "investor-update-hive-sensors",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-45Z",
+  "without_skill_run": "2026-11-16T21-21-11Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both are candid about profit and runway, but A gives me the December 1 reply deadline and commits to a monthly cash report for bridge investors, which matters to me as a sceptic on sales pace. B leaves the deadline as a placeholder and omits the report, though its $35k revenue against $95k spend comparison is useful."
+}

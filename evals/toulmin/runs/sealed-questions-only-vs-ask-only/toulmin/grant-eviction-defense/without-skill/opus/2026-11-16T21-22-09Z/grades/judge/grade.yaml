@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:23:11.024325+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 244
+  tags: []
+  notes: extracted 244 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 5
+    honest: 4
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 3
+    objections: 4
+    fit: 8
+  details:
+    agree: A judge would find the budget clear, but the closing paragraph turns a
+      'third attorney' request into a backfill, then a maybe-third, and that muddle
+      weakens the case.
+    honest: It says the new attorney will start before June, though the decision comes
+      in May and the last hire took five months; it also adds the year 2027 to the
+      October renewal and says the position doesn't depend on county money, which
+      the facts don't establish.
+    works_the_facts: "The funding arithmetic ($78k \u2212 $45k \u2212 $20k = $13k)\
+      \ is correct and useful, but it never works out the 14% representation rate\
+      \ or that turn-aways (300) were nearly double the tenants served (163)."
+    right_comparison: '''One attorney after June'' is a true no-grant baseline, but
+      the 58% has no stated comparison and the draft doesn''t say that none exists
+      or that court-wide data will be requested.'
+    qualification: The county renewal gets a date but is waved away, not treated as
+      a real risk, and the checkable commitments (six-month outcome reports, clerk
+      data from January) are left out.
+    objections: It answers 'how do you cover the rest of the cost' well, but not hiring
+      lag, the missing comparison for the 58%, or what happens after two years, all
+      of which the facts could have addressed.
+    fit: At roughly 270 words it is under the 300-word limit and reads as a proper
+      project summary, though the last paragraph is confusing.

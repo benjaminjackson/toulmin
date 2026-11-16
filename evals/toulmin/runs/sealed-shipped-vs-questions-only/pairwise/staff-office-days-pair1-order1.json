@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-office-days",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-08-56Z",
+  "without_skill_run": "2026-11-16T21-35-44Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B states up front that Monday and Friday stay remote, gives the meeting time and place, and is more open about the four being the only exceptions, so it's easier for a remote hire to take in and accept. A's explanation of mentoring is a little richer, but it leaves out the meeting details, and overall the two documents are close."
+}

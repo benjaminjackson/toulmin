@@ -1,0 +1,17 @@
+{
+  "task": "grant-eviction-defense",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-18-42Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The new attorney will carry a full caseload of about 80 tenants a year",
+      "why": "The brief states that each attorney carries about 80 open cases at a time, not that an attorney only handles 80 cases per year."
+    },
+    {
+      "quote": "Over the two-year grant, that means about 160 more households will have a lawyer in eviction court.",
+      "why": "This two-year total of 160 households is calculated from the invented claim that an attorney's caseload of 80 open cases equals 80 cases per year."
+    }
+  ],
+  "invented_count": 2
+}

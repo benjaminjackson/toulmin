@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "crowdfunding-town-cinema",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-03Z",
+  "without_skill_run": "2026-11-16T21-34-54Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B opens with the refunded campaign I remember and tells me the things that could go wrong (the roof estimate may rise 15%, no promise of opening-week films), which makes me trust the rest of it. It also explains why the cinema can last once open, with $1 rent and 180 tickets a week; A is tidy but tells me less."
+}

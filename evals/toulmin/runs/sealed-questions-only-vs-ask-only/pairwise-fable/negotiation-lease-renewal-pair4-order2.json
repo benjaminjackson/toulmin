@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "negotiation-lease-renewal",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-58Z",
+  "without_skill_run": "2026-11-16T21-21-14Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both make the same honest offer and explain the late payments, but B frames the case as what is in it for me, adds the $40,000 cost a new restaurant would face for a hood, and asks for my answer by June 1, which gives me something concrete to act on."
+}

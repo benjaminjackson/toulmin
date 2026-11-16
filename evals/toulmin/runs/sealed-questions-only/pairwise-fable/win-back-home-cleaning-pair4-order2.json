@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "win-back-home-cleaning",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-38-12Z",
+  "without_skill_run": "2026-11-16T21-11-15Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me what I need to decide: the real price gap stated plainly, proof the cleaner turnover is fixed (1 of 18 left since July), no contract, a deadline, and a concrete way to book from a named owner. A has unfilled placeholders, assumes I complained about things I didn't, and leaves out the deadline and cancel-anytime reassurance."
+}

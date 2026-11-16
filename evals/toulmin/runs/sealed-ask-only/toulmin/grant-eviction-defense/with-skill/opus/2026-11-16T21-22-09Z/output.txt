@@ -1,0 +1,21 @@
+Here's the summary. It runs about 250 words.
+
+<final_document>
+**Project Summary — Tenant Defense Project**
+
+Last year, 1,140 eviction cases were filed in [County]. The Tenant Defense Project represented the tenant in 163 of them. In 58% of those cases, the tenant stayed in the home or got at least 60 days to move. We turned away about 300 other tenants because no attorney was free to take their case.
+
+Our two attorneys each carry about 80 open cases, which leaves no room for more. In June, one of them is leaving.
+
+We request $90,000 over two years ($45,000 a year) to hire an eviction defense attorney. The position costs $78,000 a year with benefits. A family fund has pledged $20,000 a year for both years, and we will pay the remaining $13,000 a year from our general budget. The position does not depend on our $60,000 county contract, which comes up for renewal in October 2027.
+
+The new attorney will start before our departing attorney leaves. She has agreed to spend her last month training the new hire, so her cases can pass to the new attorney without a gap in representation.
+
+Without a new hire, we will have one attorney after June. With this grant, we will keep at least two full-time attorneys defending tenants in [County] for the next two years. If we also fill the departing attorney's position, the new hire will be our third attorney, and we can begin taking cases from the tenants we now turn away.
+</final_document>
+
+A few things to check:
+
+- **Third attorney or replacement:** You don't yet know if you'll rehire for the departing attorney's spot. So the summary says plainly that the grant at least keeps you at two attorneys, and makes three possible. Reviewers will likely work out the staffing math either way. Saying it up front protects your credibility. Once you know you'll rehire, change the last paragraph to say the grant creates a third position.
+- **The 58% figure:** I left it as your result and didn't compare it to tenants without a lawyer, since you don't have that number. If you find county or court data on unrepresented tenants, adding it would make the summary much stronger.
+- **Placeholders and dates:** Replace [County] with your county's name. I wrote "October 2027" for the county renewal and assumed the June departure is June 2027. Correct either one if I've got it wrong.

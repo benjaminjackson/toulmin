@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-23-22Z",
+  "without_skill_run": "2026-11-16T21-08-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives concrete, checkable signals a skeptical reader can weigh: she ranks among the three best students in 17 years, ran the shellfish lab's water sampling alone for two weeks, and her supervisor there would hire her again. A relies on generic praise, is full of placeholders, and invents or misstates details such as 'single season of data' and 'answered questions with confidence and precision.' B also adds one unsupported claim of its own ('never missed her sampling schedule'), but A has more of these problems."
+}

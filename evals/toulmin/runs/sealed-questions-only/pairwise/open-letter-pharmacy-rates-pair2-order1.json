@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-33-22Z",
+  "without_skill_run": "2026-11-16T21-05-14Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A answers my belief that members have plenty of chain pharmacies with a specific fact: the nearest chain is more than 20 miles away, and two pharmacies say they will stop serving our members. It also offers invoices I can check and a dated meeting. B says there is no store down the street without giving a distance, claims they lose money on a fifth of their work when the loss is only on 20 generics, and adds a demand that the PBM disclose its pricing, which wasn't in the facts."
+}

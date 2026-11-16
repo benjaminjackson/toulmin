@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-07-57Z",
+  "without_skill_run": "2026-11-16T21-21-43Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who has quit diet apps and a meal service before, I trust A more. It says plainly that 14 people is a small, self-selected group and that medication changes weren't tracked. It also offers a 15-minute call with the dietitian and tells me the menu repeats every four weeks, which speaks to why I quit before. B is honest, but it puts the \"10 went down\" result in bold and leaves out the call, so I'm less sure about spending $59."
+}

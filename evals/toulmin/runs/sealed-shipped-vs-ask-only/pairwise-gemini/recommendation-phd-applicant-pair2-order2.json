@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-phd-applicant",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-08-34Z",
+  "without_skill_run": "2026-11-16T21-22-26Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins my trust as a skeptical reader by candidly mentioning the three months of storm-lost data alongside the unrepeated nature of the study, proving this small-college professor isn't just blindly hyping her student. Furthermore, Document A reads awkwardly because it avoids pronouns and repeats 'Priya' in nearly every sentence."
+}

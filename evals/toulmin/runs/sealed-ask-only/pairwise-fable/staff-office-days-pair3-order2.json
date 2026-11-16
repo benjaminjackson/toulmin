@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-23-55Z",
+  "without_skill_run": "2026-11-16T21-10-19Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me concrete things that affect my decision — the $150 commuting support, a plain statement that there are no other exceptions, the meeting time and place, and a named partner and HR to talk to. A leaves placeholder signatures, offers nothing practical, and its \"we would rather act now than wait for more evidence\" invites pushback."
+}

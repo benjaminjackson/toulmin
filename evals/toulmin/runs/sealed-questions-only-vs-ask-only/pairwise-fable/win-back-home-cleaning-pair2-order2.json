@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "win-back-home-cleaning",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-36-38Z",
+  "without_skill_run": "2026-11-16T21-22-54Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both are honest and make the same offer, but B gives me more concrete reasons to pay the extra $25: cleaners paid $21 an hour, and only 1 of 18 has left since July, which is proof the regular-cleaner fix is real. A is clearer about the $165 ongoing price, but I already know what I used to pay."
+}

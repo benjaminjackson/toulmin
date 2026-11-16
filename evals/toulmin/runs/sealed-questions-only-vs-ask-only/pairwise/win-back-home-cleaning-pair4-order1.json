@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-home-cleaning",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-38-12Z",
+  "without_skill_run": "2026-11-16T21-24-24Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B gives me a reason to question my cheaper app: most app cleaners are contractors with no insurance on the visit. It also includes a real phone number. A is clearer that there's no contract, but its '[phone]' placeholder looks sloppy, and it only explains why I'd pay $25 more."
+}

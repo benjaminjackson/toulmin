@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "grant-eviction-defense",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B is easier to score against a rubric and gives a concrete deliverable (about 160 more households), but it arrives with unfilled \"[County]\" and \"[Foundation]\" placeholders and leaves out the June departure and the county contract risk while claiming the position is \"fully funded\". A is plainer but candid about the risks and the missing comparison data, and it offers a firmer evaluation plan (six-month reports, clerk data), which I would trust more as a judge."
+}

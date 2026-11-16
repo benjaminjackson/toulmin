@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:09:47.723036+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 285
+  tags: []
+  notes: extracted 285 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 4
+    honest: 6
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 3
+    objections: 5
+    fit: 8
+  details:
+    agree: 'The draft accepts the staff''s stock numbers and sounds reasonable, but
+      it gives commissioners nothing they haven''t heard from other captains: no trip
+      logs, no reporting-app offer, no worked-out alternative that meets the conservation
+      goal.'
+    honest: 'It wisely drops the claim that every boat will close, but ''never got
+      back to 170'' goes beyond the brief''s data, and it adds options the captain
+      never offered: a separate for-hire limit, and ''a shorter time frame'' where
+      he had said a shorter season.'
+    works_the_facts: It turns the 32 lost trips into about $29,000 and puts the survey
+      at nearly 60%, but it never projects the three-year cost, never states the 2016
+      drop as a 19% decline, and leaves out that two captains would sell and that
+      70% of this season is already booked.
+    right_comparison: It gives the 2016 drop and the partial recovery to 155, but
+      it slants the trend with an unsupported 'never got back,' and its 9% versus
+      80% point is muddled, since a uniform cut mostly falls on private boats.
+    qualification: The only hedge is a vague 'review after one season' with no measure
+      or consequence; it never uses the checkable commitments that were available,
+      such as trip logs from 2016 on or a reporting-app test next season.
+    objections: It meets 'trust the staff numbers' by accepting them, but it doesn't
+      show how a 3-fish limit or shorter season would still rebuild the stock, and
+      the 'saves comparatively few fish' argument invites an easy rebuttal.
+    fit: At about 330 words it fits a two-minute spoken comment and is laid out as
+      remarks from the podium.

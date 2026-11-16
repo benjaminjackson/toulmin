@@ -1,0 +1,60 @@
+grader: judge
+graded: '2026-11-16T21:22:29.194347+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 257
+  tags: []
+  notes: extracted 257 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 5
+    honest: 6
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 3
+    objections: 4
+    fit: 7
+  details:
+    agree: Accepting the staff's stock numbers and proposing alternatives earns a
+      hearing, but commissioners who trust their staff get no evidence that 3 fish
+      or a shorter season would reach the target, and no offer of the trip logs or
+      the reporting-app test that would give staff something to work with.
+    honest: It properly drops the claim that every boat in the harbor will close,
+      but 'I never got all the way back' goes beyond the data, which stops at 155
+      two years later, 'it decides whether the customer books at all' overstates a
+      survey where people said they'd book fewer trips, not none, and 'either one
+      protects the stock' is asserted without support.
+    works_the_facts: 'The $28,800 loss from 32 lost trips is correctly worked out
+      and made concrete, but the comment leaves other strong true forms unused: 41
+      of 70 is nearly 6 in 10, a full season is about $144,000, and the remaining
+      17 survey answers are never accounted for.'
+    right_comparison: The 2016 drop and partial recovery are shown fairly, and the
+      9% charter versus 80% private share is a useful comparison, but the proposed
+      alternatives are never compared against what staff need to reach the stock target.
+    qualification: The only hedge is the two captains' conditional plan to sell, and
+      nothing in the comment is checkable, with no date, number or consequence. The
+      available commitments (trip logs from 2016 on, the app test next season, 70%
+      of this season already booked) are left out.
+    objections: 'It meets the objection that charter captains dispute the science,
+      but the resisting commissioner''s real question goes unanswered: would 3 fish
+      or a shorter season actually get the stock to target within the plan?'
+    fit: At about 300 words it is the right length for two minutes at the microphone
+      and reads as spoken testimony, but it leaves [NAME] and [HARBOR] as placeholders
+      even though the user supplied their name and boat.

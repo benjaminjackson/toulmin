@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "negotiation-lease-renewal",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-05Z",
+  "without_skill_run": "2026-11-16T21-04-38Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B addresses the late payments I still think about, explains them, and offers autopay plus a quick signing and a deadline, and it shows year-five rent beats my ask; A ignores the late rent, claims a 'proven record', and lectures me on the market with placeholders unfilled."
+}

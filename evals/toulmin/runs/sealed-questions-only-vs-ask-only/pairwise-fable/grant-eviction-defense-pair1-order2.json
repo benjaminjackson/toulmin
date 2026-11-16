@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "grant-eviction-defense",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B is candid about what a careful reviewer would probe: the attorney leaving in June, the lack of a comparison figure (with a plan to get one), the county contract renewal, and six-month reporting. A reads cleanly and gives a concrete '160 households' figure, but that number is an extrapolation and it omits the departure and the funding risk, so its 'additional attorney' framing overstates the facts."
+}

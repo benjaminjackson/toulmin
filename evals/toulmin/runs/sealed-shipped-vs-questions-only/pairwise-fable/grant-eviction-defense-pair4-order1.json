@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "grant-eviction-defense",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-06-32Z",
+  "without_skill_run": "2026-11-16T21-35-51Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B opens with the ask and its labeled sections (Need, Results, Project, Budget, Accountability) let me score against a printed rubric quickly, and it is candid that the county renewal is uncertain. A's estimate of about 80 more tenants a year is useful, but I have to dig for the ask and the budget, so B wins narrowly."
+}

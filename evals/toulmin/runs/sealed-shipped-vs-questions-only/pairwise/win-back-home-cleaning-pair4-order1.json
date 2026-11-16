@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-home-cleaning",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-12-32Z",
+  "without_skill_run": "2026-11-16T21-38-12Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is the stronger email for me. It promises that whoever comes will be one of two people I know by name, and it points out that app cleaners usually have no insurance on the visit, which actually makes me think twice about my cheaper service. B still contains placeholders like [phone] and [First name], so I couldn't book from it even if I wanted to."
+}

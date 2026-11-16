@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-19-26Z",
+  "without_skill_run": "2026-11-16T21-06-02Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B deals directly with the March deadline error I raised. It admits the filing was too close and shows the fix worked: about 600 entries since with nothing wrong or missed. It is also addressed to me by name, ties into the January cycle and asks for a specific meeting. A only describes the fix without results and still has placeholders where the names should be."
+}

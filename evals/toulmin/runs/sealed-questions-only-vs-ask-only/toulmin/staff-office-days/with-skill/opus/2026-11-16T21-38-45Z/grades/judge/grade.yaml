@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:39:45.992847+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 434
+  tags: []
+  notes: extracted 434 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 5
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 5
+    objections: 6
+    fit: 8
+  details:
+    agree: The candid tone and the partners joining staff on all three days will persuade
+      the willing, but a remote hire who lives 90 minutes away gets no reason to stay
+      beyond a $150 stipend and a statement that there will be no exceptions.
+    honest: The facts are accurate, but 'That cost us two major projects', 'it will
+      cost us more' and the unstated assumption that remote work causes the 30% slower
+      progression all claim more than the clients' comments and the review records
+      show, and 'good design and good people' is added.
+    works_the_facts: 'The figures are only repeated, never worked: nothing says that
+      11 of the 15 remote hires go straight to three days, what 30% longer means in
+      months, or how many people get the commute support.'
+    right_comparison: The current arrangement appears only as two lost bids and a
+      vague 'it will cost us more', with no trend, no count of how many bids it actually
+      affected, and no fair account of what fully remote work has delivered.
+    qualification: The March 2028 review and the August desk delivery have dates,
+      but neither names a measure or says what happens if the review finds problems
+      or the desks arrive late.
+    objections: It openly admits that the 15 were hired on a remote basis and states
+      the no-exceptions limit plainly, but it doesn't address people who live one
+      to two hours away or those who said remote work is why they stay, beyond the
+      stipend.
+    fit: It is a one-page email with a clear subject line that points to Friday's
+      meeting, as the brief asked, though the years it adds (2027/2028) are inferred
+      rather than given.

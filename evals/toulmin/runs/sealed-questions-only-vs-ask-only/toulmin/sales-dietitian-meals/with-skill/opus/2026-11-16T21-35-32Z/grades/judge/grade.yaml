@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:36:25.460411+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 422
+  tags: []
+  notes: extracted 422 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 6
+    objections: 7
+    fit: 8
+  details:
+    agree: A wary reader who has quit before is likely to find a $59 trial, a 15-minute
+      call with the dietitian and no contract an easy, low-risk step, though the page
+      never speaks directly to their history of quitting.
+    honest: The page drops the 'will lower your A1C' promise, reports the 10/3/1 split,
+      admits the sample is small and medication changes weren't tracked, and makes
+      up no figures.
+    works_the_facts: It works out $12.90 a meal, but it leaves 37 of 88 as a raw count
+      instead of saying 'more than 4 in 10 stay past six months' and doesn't put 10
+      of 14 as a share, so its most persuasive facts aren't in their strongest true
+      form.
+    right_comparison: The only alternative it describes is daily carb counting and
+      label reading, and it never sets the service against the apps and earlier delivery
+      service this reader already dropped.
+    qualification: The A1C hedge names real limits (small group, medication not tracked)
+      and the trial puts the cost at $59, but it gives the reader no measurable point
+      to check, such as getting an A1C at three months.
+    objections: Swaps, an honest note that the menu repeats every four weeks, skip-or-cancel
+      anytime and the six-month retention figure answer the worry about quitting again,
+      though the page never names that worry outright.
+    fit: It is a clear sales page of about 450 words, close to the 400 asked for,
+      with a single order button at the end.

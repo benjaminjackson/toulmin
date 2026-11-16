@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-dental-office",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-02-19Z",
+  "without_skill_run": "2026-11-16T21-33-05Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B handles my Dentrix concern better: it points out that she has already moved one practice from paper records to software. It also notes that her old clinic was a little larger than mine, which makes her experience feel directly relevant. A handles the gap well with 'ready to return to full-time work,' but its closing is more generic, and overall B reassures me slightly more."
+}

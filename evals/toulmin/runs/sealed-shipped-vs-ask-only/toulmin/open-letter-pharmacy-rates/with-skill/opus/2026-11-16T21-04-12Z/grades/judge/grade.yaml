@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T21:05:28.441740+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 424
+  tags: []
+  notes: extracted 424 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 7
+    qualification: 7
+    objections: 7
+    fit: 9
+  details:
+    agree: Answers her belief about chain access with the 14 counties more than 20
+      miles from a chain and makes a checkable offer of invoices and a meeting, so
+      she will probably engage; but it never shows why this year differs from the
+      usual complaints, apart from the January start date.
+    honest: It drops the unsupported 'a third within a year' claim and openly says
+      it doesn't know why the nine pharmacies closed, but 'These are the prescriptions
+      plan members bring us most often' and 'We expect others to follow' go a little
+      beyond the facts.
+    works_the_facts: 'Apart from turning 20 miles into a 40-mile round trip, the figures
+      are only restated: it never combines the $1.80 loss with the 3,100 prescriptions
+      or the 22% share to show what the shortfall costs a pharmacy.'
+    right_comparison: 'It describes what happens if the contract renews unchanged
+      in the facts'' own terms: two pharmacies stop filling for plan members and members
+      in 14 counties drive 40+ miles. It also sets nine closures in two years beside
+      that, though that trend gets little weight.'
+    qualification: The conditions can be checked and have dates (renewal July 1, meeting
+      before May 1, two pharmacies stopping if terms don't change), and the uncertainty
+      about the closures is honestly bounded, though nothing gives a number for what
+      happens if the date passes.
+    objections: It deals head-on with 'the PBM sets rates' and 'plenty of chains',
+      and the invoice offer heads off any doubt about costs, but it never takes on
+      her 'they complain every year' view by showing this year is different.
+    fit: A one-page open letter with a signature, written so it works for both the
+      plan and the newspapers, as the brief asked.

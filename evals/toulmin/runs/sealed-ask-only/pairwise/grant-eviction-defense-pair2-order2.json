@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-19-49Z",
+  "without_skill_run": "2026-11-16T21-02-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is complete and gives a closed funding plan, with the family fund pledge and the clinic's own $13,000, so I can score it with confidence. Document A still has blank placeholders, makes an unsupported claim that 60 days is enough time to find housing, and leaves both the budget gap and the June departure unresolved."
+}

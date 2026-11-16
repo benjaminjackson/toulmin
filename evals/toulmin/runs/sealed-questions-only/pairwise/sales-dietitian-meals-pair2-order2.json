@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-36-25Z",
+  "without_skill_run": "2026-11-16T21-09-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is the one that would get me to try a week. It gives the things that matter to someone who has quit before: no contract, skip or cancel any time, meal swaps, a 15-minute call first, and it says plainly that the 14 A1C results aren't a study. A has placeholders where the name and delivery area should be and leaves out the cancellation terms, which makes it feel unfinished and less trustworthy."
+}

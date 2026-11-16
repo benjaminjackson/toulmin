@@ -1,0 +1,21 @@
+{
+  "task": "grant-eviction-defense",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-20-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "One of our two attorneys leaves in June 2027.",
+      "why": "The brief states only that the attorney is leaving in June, without specifying the year 2027."
+    },
+    {
+      "quote": "The plan does not depend on our county contract, which is up for renewal in October 2027.",
+      "why": "The brief states only that the county contract is up for renewal in October, without specifying the year 2027."
+    },
+    {
+      "quote": "Starting in January 2027, we will ask the county clerk for court-wide eviction outcome data.",
+      "why": "The provided facts state only that the clinic will ask the county clerk starting in January, without specifying the year 2027."
+    }
+  ],
+  "invented_count": 3
+}

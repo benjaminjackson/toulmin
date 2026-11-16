@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "recommendation-phd-applicant",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-21-36Z",
+  "without_skill_run": "2026-11-16T21-07-30Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is a finished, sendable letter with concrete calibrating evidence (one of three best in 17 years, ran water sampling alone, supervisor would rehire) and an honest statement of the thesis's limits, which makes me trust it despite the unknown college. B is full of unfilled placeholders, offers generic praise, and adds unsupported claims (she 'designed' the study, is 'eager' to extend it), so it reads like the small-college boilerplate I discount."
+}

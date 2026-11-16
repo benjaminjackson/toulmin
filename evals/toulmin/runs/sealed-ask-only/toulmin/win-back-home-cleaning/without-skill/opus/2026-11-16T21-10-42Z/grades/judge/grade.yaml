@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T21:11:15.120633+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 143
+  tags: []
+  notes: extracted 143 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 4
+    honest: 5
+    works_the_facts: 3
+    right_comparison: 4
+    qualification: 3
+    objections: 4
+    fit: 7
+  details:
+    agree: A reader who is happy saving $25 a visit gets a one-time $99 discount and
+      a vague insurance point, which gives little reason to pay more on every visit
+      after that, so most readers like this one would not book.
+    honest: It doesn't promise the same cleaner every time, but it tells each reader
+      'you told us two things' when the exit surveys only give overall results, and
+      this reader never complained about cleaners; 'we've fixed it' also claims more
+      than a few months of results can show.
+    works_the_facts: 'It works out none of the useful figures: not the $25 gap, not
+      what the $99 first visit saves, and not that only 1 of 18 cleaners has left
+      since July compared with 7 the year before.'
+    right_comparison: It admits the app services cost less and says they use contractors,
+      but never says their visits are uninsured, so the insurance point doesn't set
+      the two apart, and it gives no sign of the trend in cleaner turnover.
+    qualification: The backup cleaner for sick days is a fair hedge, but the $99 offer
+      has no December 31 deadline and the email gives no way to check that cleaners
+      now stay.
+    objections: It deals with price only partly and leaves out no-contract and cancel-any-time,
+      which would lower the risk of trying, while it spends space on a cleaner-turnover
+      complaint this reader never made.
+    fit: It is an email of about 150 words as asked, but it leaves placeholders for
+      the company and owner names that the writer knew, and it has no reply-to-book
+      option or phone number.

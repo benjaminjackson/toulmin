@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-lease-renewal",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-29Z",
+  "without_skill_run": "2026-11-16T21-20-25Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks directly to my worry about the late payments. It explains why they happened and offers automatic payment on the 1st, a signed lease within two weeks, and the $40,000 hood value. A opens at $5,000 instead of the $5,100 in the brief and gives me less reason to trust that rent will come on time."
+}

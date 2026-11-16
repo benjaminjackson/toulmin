@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T21:21:36.027092+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 312
+  tags: []
+  notes: extracted 312 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 6
+    objections: 6
+    fit: 8
+  details:
+    agree: The section on the last campaign and the all-or-nothing guarantee speak
+      directly to my memory of the refunds, so I'd likely pledge, but nothing helps
+      me decide how much right after giving $200 to the ambulance fund.
+    honest: The figures are accurate, but '2027' is supplied by the writer and not
+      stated in the brief, the risk that the roof estimate rises by up to 15% is left
+      out, and 'an audience that has been waiting' claims more than a past weekly
+      ticket count supports.
+    works_the_facts: The writer works out the $49,000 still needed, the 76-mile round
+      trip and the comparison with the $47,000 pledged last time, but gives no per-day
+      pace across the 61 days and no per-resident share in a town of 6,500 (about
+      $7.50 each).
+    right_comparison: The alternative of a 76-mile round trip is described concretely,
+      and the comparison with the failed campaign is framed honestly, since the gap
+      left this time is about what the community already gave.
+    qualification: The all-or-nothing condition names the $85,000 target, the June
+      30 deadline and full refunds if it's missed, but the roof estimate that could
+      rise by up to 15% isn't mentioned, and that risk bears on whether $85,000 will
+      be enough.
+    objections: The worry about refunds is met squarely, but the competing demand
+      on my giving and the question of what amount actually makes a difference are
+      left at 'pledge what you can', and the Thanksgiving reopening target is left
+      out.
+    fit: It's a clear crowdfunding pitch of roughly 320 words, under the 350-word
+      limit, with sensible headings.

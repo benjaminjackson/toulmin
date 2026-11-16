@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "negotiation-lease-renewal",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-05Z",
+  "without_skill_run": "2026-11-16T21-20-25Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A offers me more money ($5,100, ending above my ask by year five), explains the late payments with the cooler failure, and backs it with autopay on the 1st and a two-week signing. B offers only $5,000, which is not the figure in the brief, glosses over the late payments, and leaves a placeholder for the name."
+}

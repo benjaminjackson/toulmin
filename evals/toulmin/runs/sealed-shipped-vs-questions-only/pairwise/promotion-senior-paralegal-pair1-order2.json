@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-01Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "A deals with the March deadline error just as directly as B does, and it adds concrete supervisory commitments (weekly check-ins, finishing certification by June 2027) plus an in-person meeting. B offers no forward commitments and points out the trainee who left, and its line about having 'earned' the $9,000 reads as presumptuous, though A's unfilled name placeholder is a small flaw."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-22Z",
+  "without_skill_run": "2026-11-16T21-19-29Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both make the same verifiable case and offer invoices, but B admits up front that some pharmacies recoup part of the loss on brand-name drugs, the objection I would raise first, and avoids A's overreach that \"every pharmacy still open\" is losing money. That candour makes B's numbers more credible to me, though A's bolded ask and 3,100-prescription detail keep it close."
+}

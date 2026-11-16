@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "grant-eviction-defense",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-20-59Z",
+  "without_skill_run": "2026-11-16T21-02-51Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is a complete, submittable summary that names the clinic, closes the budget gap with specific sources, addresses the departing attorney and county contract risk, and commits to reporting; Document B is riddled with unfilled brackets and leaves the funding gap, staffing plan and sustainability blank, which I would score poorly against a rubric."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-home-cleaning",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-22-54Z",
+  "without_skill_run": "2026-11-16T21-10-14Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me a real deadline, says there's no contract, and lists a phone number, so booking one $99 cleaning to compare feels low-risk. It's also upfront that the regular price is $165. A reads like an unfinished template with [Company] placeholders, and it gives me no reason to act now."
+}

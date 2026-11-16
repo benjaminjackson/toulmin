@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "win-back-home-cleaning",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-09-37Z",
+  "without_skill_run": "2026-11-16T21-35-50Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "I left over price and had no complaint about cleaners, so A's \"you told us why you left, we fixed it\" puts words in my mouth and implies a price fix that isn't there. B says plainly that it hasn't matched the apps, explains what the extra $25 buys, and puts the $99 offer in the subject line, which is what would get me to try a visit."
+}

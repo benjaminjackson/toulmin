@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-24-55Z",
+  "without_skill_run": "2026-11-16T21-10-58Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a remote hire deciding whether to stay, B tells me what I actually need: commuting support, no exceptions beyond the four, a six-month review with staff, desks, a named partner and HR to contact, and that project leads already come in. A acknowledges the broken terms but leaves me guessing about exceptions and offers nothing concrete, so I'd arrive Friday more anxious and more resistant."
+}

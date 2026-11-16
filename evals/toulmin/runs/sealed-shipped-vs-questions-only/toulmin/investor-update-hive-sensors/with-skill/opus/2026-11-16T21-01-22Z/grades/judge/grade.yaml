@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T21:02:58.817467+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 471
+  tags: []
+  notes: extracted 471 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 5
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 7
+    qualification: 3
+    objections: 3
+    fit: 8
+  details:
+    agree: The ask and runway math are clear, and the $250,000 already committed helps,
+      but a partner who thinks sales are too slow gets nothing about sales pace and
+      no monthly cash report, so they may well hold back.
+    honest: It correctly declines to promise profit and hedges the customer's mite
+      treatment, but it invents 'we don't know of any deals lost to them,' and 'the
+      result our customers buy us for' goes further than the brief supports.
+    works_the_facts: The runway figures with and without the bridge are derived and
+      roughly correct, but it never states the $17 margin per sensor, the 2.6x growth
+      in customers, the roughly $16,000 a month the 4,000-hive customer brings in
+      from the app alone, or what break-even would take.
+    right_comparison: 'It describes the no-bridge case concretely: cash runs out around
+      March, just as the selling season starts, even after the spending cut.'
+    qualification: The promised report 'after the 2027 spring season' has no date
+      and no hive or sales target, and it says nothing about what happens if results
+      fall short, so the reader can't check it.
+    objections: The reader's main objection, slow selling, is never addressed with
+      pace numbers or targets, and the monthly cash report the founder could commit
+      to is left out.
+    fit: It's a well-structured investor update with a clear ask and deadline, and
+      it comes in well under 600 words.

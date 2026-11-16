@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T21:02:25.822971+00:00'
+outcome: pass
+score: 0.4
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 499
+  tags: []
+  notes: extracted 499 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.4
+  metrics:
+    agree: 3
+    honest: 5
+    works_the_facts: 4
+    right_comparison: 3
+    qualification: 3
+    objections: 2
+    fit: 5
+  details:
+    agree: A partner who already thinks sales are too slow gets no committed terms,
+      no deadline, no cost cut and no answer to the $45 competitor, only placeholders,
+      so they have little reason to write a cheque.
+    honest: The draft is candid about the customer's mite treatment, but it still
+      puts a profitability goal for 2027 at the centre without numbers to back it,
+      and it says $600,000 'gives us about ten more months' when it adds only about
+      six months; ten months is total runway including the cash already in the bank.
+    works_the_facts: It works out the $17 unit margin, the early-March runway and
+      the roughly 24,000 hives needed to break even, but it gets the bridge runway
+      wrong, leaves the current hive count as [X], and never models a $75,000 monthly
+      burn or the pace of customer growth needed against the 12-to-31 pace achieved
+      so far.
+    right_comparison: It says cash runs out in early March without the bridge, but
+      the competitor comparison is an empty placeholder even though the sensor-capability
+      difference was available, and the sales trend is never set against the target.
+    qualification: The hedges ('measure it more carefully', 'report every quarter')
+      carry no checkable number, no date and no consequence if missed; the monthly
+      cash report and the February spending target were not used.
+    objections: 'The reader''s main objection, slow selling, is never met: the competitor
+      response is a placeholder, the $250,000 angel commitment that would reassure
+      them is left out, and so are the three customers testing the rival sensor.'
+    fit: It has the right form for an investor update and comes in under 600 words,
+      but placeholders for the terms, date, name, hive count and competitor response
+      mean it cannot be sent as written.

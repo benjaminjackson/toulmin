@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-27Z",
+  "without_skill_run": "2026-11-16T21-20-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters stick to the facts and make the same offer of invoices and a meeting. B is a bit more persuasive to a skeptical director: it answers the brand-name cross-subsidy objection directly, it openly declines to blame the closures on rates, and it adds the concrete 3,100-prescription figure."
+}

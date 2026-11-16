@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-catch-limit",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-19-37Z",
+  "without_skill_run": "2026-11-16T21-07-58Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A comes from a named captain and boat. It accepts our staff's numbers and offers us workable alternatives, a three-fish limit or a shorter season. It also makes concrete commitments, trip logs since 2016 and a test of the reporting app, which give us better data, and it states honestly what it cannot promise. B still has [NAME] and [HARBOR] placeholders, makes broader requests and offers us no help with the data."
+}

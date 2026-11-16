@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-33-54Z",
+  "without_skill_run": "2026-11-16T21-20-13Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A deals with the March error I remember by showing proof: about 600 entries with no wrong or missed deadlines since the April check went in. It also makes specific commitments and is addressed to me by name. B handles the error with reasoning but no results, leaves the name fields as placeholders, and adds a side point about whether a position is open, which makes the request weaker."
+}

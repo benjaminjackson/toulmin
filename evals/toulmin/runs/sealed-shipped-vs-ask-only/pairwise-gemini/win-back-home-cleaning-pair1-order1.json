@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-09-37Z",
+  "without_skill_run": "2026-11-16T21-22-10Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A is more honest with me up front. Since I left specifically for the $140 app price, Document B's claim that they've 'worked on' price feels misleading when they immediately say it's still $165, whereas Document A's candor ('We haven't matched the app services on price... That difference pays for something') makes me respect them and seriously consider the insurance and consistency points."
+}

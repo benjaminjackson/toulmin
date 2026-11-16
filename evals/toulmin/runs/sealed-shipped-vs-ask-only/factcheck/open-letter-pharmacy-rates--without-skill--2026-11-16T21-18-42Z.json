@@ -1,0 +1,25 @@
+{
+  "task": "open-letter-pharmacy-rates",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-18-42Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "That's more than one in five people at our counters.",
+      "why": "The brief states that plan members make up about 22% of prescriptions, not that they make up more than one in five people visiting the pharmacies."
+    },
+    {
+      "quote": "Some are teachers and state troopers, others are office staff and retirees.",
+      "why": "Neither the brief nor the user's additional information mentions the specific occupations or retirement status of the plan members visiting the pharmacies (for instance, teachers are not always covered by state employee health plans)."
+    },
+    {
+      "quote": "at your current rates we're losing money every time we do.",
+      "why": "The brief only says they lose an average of $1.80 per prescription on the 20 most-filled generic drugs, and the user specifically noted that some pharmacies make up part of the loss on brand-name drugs, so they do not lose money every time they serve a plan member."
+    },
+    {
+      "quote": "That's the gap between what we pay our wholesalers and what the plan's pharmacy benefit manager pays us.",
+      "why": "The brief neither mentions wholesalers nor states that the $1.80 loss is solely the gap between wholesaler prices and PBM payments, as the brief says the $1.80 gap includes the cost to both 'buy and fill' the drug."
+    }
+  ],
+  "invented_count": 4
+}

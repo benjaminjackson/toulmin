@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "promotion-senior-paralegal",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-05-35Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B addresses me by name, is signed, ties to the January cycle with a concrete meeting ask, and squarely owns the March error ('much too close') while explaining what it taught her about supervising; A arrives with unfilled placeholders and a thinner treatment of the mistake I already raised."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B reads more persuasively, but it invents a figure (80 open cases becomes '80 tenants a year,' then '160 more households') and leaves out the June departure and the uncertain county renewal. A states the gaps and risks plainly and commits to six-month reports and a court-wide comparison, which a careful judge scoring against a rubric would trust more."
+}

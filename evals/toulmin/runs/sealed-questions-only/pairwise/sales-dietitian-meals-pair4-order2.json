@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-38-19Z",
+  "without_skill_run": "2026-11-16T21-10-12Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who has quit diet services before, I'm swayed by what B tells me: no contract, cancel any time, meal swaps, and a 15-minute call with the dietitian before I start. A is a bit more upfront that the A1C numbers aren't a study and that medication changes weren't tracked, but it never says I can cancel, so I'd worry about getting locked in."
+}

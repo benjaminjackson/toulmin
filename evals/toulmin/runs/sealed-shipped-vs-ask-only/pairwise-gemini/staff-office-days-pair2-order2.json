@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-10-04Z",
+  "without_skill_run": "2026-11-16T21-23-08Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Both documents weirdly invented the year 2027, which makes the timeline for the four distant employees nonsensical compared to the facts. However, Document B is much better because it addresses practical concerns we would immediately have—like the current lack of desks and the exact time and location of Friday's meeting—while Document A contradicts itself by saying no exceptions will be made right before hinting we should talk to Paul if we can't make it work."
+}

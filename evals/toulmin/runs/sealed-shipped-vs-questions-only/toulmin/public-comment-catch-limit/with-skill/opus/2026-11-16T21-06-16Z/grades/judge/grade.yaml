@@ -1,0 +1,62 @@
+grader: judge
+graded: '2026-11-16T21:07:41.759415+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 278
+  tags: []
+  notes: extracted 278 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 6
+    objections: 5
+    fit: 7
+  details:
+    agree: 'The asks are modest and credible: concede the stock numbers, offer trip
+      logs and an app trial, and ask staff to weigh three fish before the vote. But
+      a commissioner who trusts staff gets no reason to think three fish or a shorter
+      season would still rebuild the stock from 78%.'
+    honest: "The writer drops the 'every boat closes' claim, keeps the captain's account\
+      \ to his own books and the two captains who say they'd sell, and gets the arithmetic\
+      \ right (32/170 \u2248 19%, about 30 trips, $27,000); only 'decides whether\
+      \ the trip gets booked at all' goes a little past the survey."
+    works_the_facts: 'It turns the 2016 drop into ''one trip in five'' and a $27,000-a-year
+      loss and points out the incomplete recovery. It leaves value on the table: no
+      three-year total (about $81,000), no rate for the survey (59%), and nothing
+      on the harbor-wide stake across 11 boats.'
+    right_comparison: It describes the 2016 trend honestly, including the partial
+      recovery to 155, and contrasts it with this deeper, three-year cut. It never
+      shows how the proposed alternatives compare with two fish on stock recovery,
+      which is the comparison commissioners will actually weigh.
+    qualification: '''If this cut hits like the last one'' names a condition that
+      could go either way and that staff can check against the offered logs. But there
+      is no date or threshold for that check, and no stated consequence if the drop
+      doesn''t happen.'
+    objections: It defuses 'charter captains always cry ruin' with the captain's own
+      numbers and an admission that bookings recovered. It never meets the main objection,
+      that the stock is below target and needs the reduction, and it leaves the 9%-versus-80%
+      point hanging instead of turning it into an argument about where the cut does
+      its conservation work.
+    fit: 'It is shaped as a spoken comment: short paragraphs, a direct ask and a close.
+      At about 330 words, though, it probably runs a little over two minutes at the
+      microphone.'

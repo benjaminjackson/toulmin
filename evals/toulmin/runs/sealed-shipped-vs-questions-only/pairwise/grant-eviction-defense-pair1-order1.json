@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A reads as a finished summary. It states the risk to the county contract plainly and adds the departing attorney's month of training the new hire, which speaks to continuity. B has helpful rubric-style headings, but its bracketed placeholders make it look unfinished, and its promise to begin recruiting as soon as the award is announced isn't in the facts."
+}

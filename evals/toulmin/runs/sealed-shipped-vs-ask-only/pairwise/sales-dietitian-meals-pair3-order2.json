@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-10-17Z",
+  "without_skill_run": "2026-11-16T21-23-20Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both pages are candid that the A1C results come from a small group, which I'd want to see. A is a bit more careful: it adds that these customers chose to share their results and doesn't tie the 0.6-point average only to the 10 whose A1C went down, while B's wording reads as if it does. That makes A slightly easier to trust before paying $59, even though B's lines about cancelling if it doesn't help speak to my history of quitting."
+}

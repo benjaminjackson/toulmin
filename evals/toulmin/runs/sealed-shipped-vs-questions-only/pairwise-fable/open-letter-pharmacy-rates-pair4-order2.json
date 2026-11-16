@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-08-09Z",
+  "without_skill_run": "2026-11-16T21-35-21Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both make the same checkable offer of invoices and a meeting, and A puts the ask up front, but A overreaches where I would probe: it says \"none of us can make it all back\" on brands and implies a fifth of all orders are filled below cost, when the loss covers only 20 generics. B admits it does not know the brand offset and stays within its facts, so I trust it more despite the softer close."
+}

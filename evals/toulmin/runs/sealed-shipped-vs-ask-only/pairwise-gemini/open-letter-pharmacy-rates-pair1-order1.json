@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-04-12Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins my trust because it honestly acknowledges that pharmacies make up part of the generic loss on brand-name drugs, whereas Document B falsely claims they lose money 'every time' they serve a plan member and on 'one prescription in five.' Document A also leads with the concrete contract ask and preempts the PBM excuse, making it much harder for me to dismiss as the usual yearly complaining."
+}

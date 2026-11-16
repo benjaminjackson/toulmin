@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-09-05Z",
+  "without_skill_run": "2026-11-16T21-22-34Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B earned my trust immediately by explicitly stating she didn't track medication changes and couldn't give the meals all the credit, while Document A actually misread the data by claiming only the 10 who dropped had an average 0.6 reduction. Document B also spoke directly to why I quit past services—menu fatigue and cooking burnout—and gave me a button to book the phone call first."
+}

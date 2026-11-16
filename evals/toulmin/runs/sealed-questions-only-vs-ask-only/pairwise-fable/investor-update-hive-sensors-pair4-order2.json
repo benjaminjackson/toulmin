@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "investor-update-hive-sensors",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-52Z",
+  "without_skill_run": "2026-11-16T21-22-24Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me the runway math I need ($940K at $75K/month to about November 2027), names the company, sets a December 1 reply deadline, and commits to a monthly cash report for bridge investors, which speaks directly to my worry about slow sales. A is equally honest but vaguer on runway, omits the reporting commitment and reply date, and defers the metrics I want to a later update."
+}

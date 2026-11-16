@@ -1,0 +1,17 @@
+{
+  "task": "negotiation-lease-renewal",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-20-25Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "A new 5-year lease starting at $5,000 a month",
+      "why": "The brief states the user can pay $5,100 a month to start, not $5,000."
+    },
+    {
+      "quote": "3% increases each year after the first, which brings the rent to about $5,630 in year five",
+      "why": "The year five rent of $5,630 is calculated from the invented starting rent of $5,000 rather than the brief's $5,100 (which would work out to about $5,740)."
+    }
+  ],
+  "invented_count": 2
+}

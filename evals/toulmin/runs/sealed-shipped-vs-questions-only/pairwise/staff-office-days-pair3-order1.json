@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-office-days",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-11-11Z",
+  "without_skill_run": "2026-11-16T21-37-50Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B speaks directly to the 15 remote hires in their own section, admits that the change breaks the terms they joined on, and asks them to raise serious problems early, while still being clear that there are no further exceptions. A covers the same facts more briefly and adds an undecided point about Mondays and Fridays that isn't in the brief, which may make the plan seem less settled."
+}

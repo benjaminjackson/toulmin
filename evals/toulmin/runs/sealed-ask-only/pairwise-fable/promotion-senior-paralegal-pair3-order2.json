@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "promotion-senior-paralegal",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-20-13Z",
+  "without_skill_run": "2026-11-16T21-06-30Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both own the March error I remember and describe the second-person check, but B concedes plainly that it was \"too close\", explains concretely what the check does, and ties it to how she would supervise others. B also leads with the supervision the role requires and gives me a specific ask (30 minutes before December 15, January cycle), though its aside about whether a position is open slightly dilutes it."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "negotiation-lease-renewal",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-29Z",
+  "without_skill_run": "2026-11-16T21-34-05Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B deals with my two real concerns head-on: it opens with the late payments I still remember, and it answers the coffee chain interest by pointing out I'd avoid vacancy, build-out and new-tenant risk. A never mentions the chain, so my main alternative goes unanswered."
+}

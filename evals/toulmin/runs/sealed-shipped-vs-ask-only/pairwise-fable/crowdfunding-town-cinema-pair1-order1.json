@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "crowdfunding-town-cinema",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who already gave this month and remembers the refunds, A tells me exactly what's left ($49,000, about $7.50 a head, only $2,000 more than last time's total), when it would reopen, that spending will be reported publicly, and even the roof and film risks up front; B leaves me without the remaining gap or those accountability details and adds a year (2027) that wasn't in the facts."
+}

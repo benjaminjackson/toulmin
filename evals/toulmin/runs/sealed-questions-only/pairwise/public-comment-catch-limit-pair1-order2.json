@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-catch-limit",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-07-24Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B accepts our staff's stock numbers outright and offers alternatives we can actually vote for, a 3-fish limit or a shorter season. It also offers real help with data (trip logs and a test of a catch-reporting app), and its claims about closures stay within what the captain knows. A has unfilled placeholders, its argument about harvest share is muddled, and it gives us less to act on."
+}

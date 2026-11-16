@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-08-56Z",
+  "without_skill_run": "2026-11-16T21-35-44Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both give me the same facts and are honest that there are no further exceptions. A lets me find the section about remote hires straight away, tells me Monday and Friday stay remote, and says the policy 'isn't fixed forever' alongside the six-month review. B explains the mentoring case more vividly, but claims working apart is 'a large part' of the delay, which goes beyond the evidence."
+}

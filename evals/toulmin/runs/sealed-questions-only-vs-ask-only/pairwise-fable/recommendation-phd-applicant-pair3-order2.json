@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "recommendation-phd-applicant",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-37-07Z",
+  "without_skill_run": "2026-11-16T21-23-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters are candid about the single unrepeated study and the storm gap, which is what makes me trust either, but A adds claims the brief does not support (\"she designed the study\", \"never missed her sampling schedule\"). B stays within the facts and gives me a calibrated publishability claim and a plain account of what she lacks, though the leftover \"[Surname]\" placeholder and the slightly pleading closing paragraph keep the gap small."
+}

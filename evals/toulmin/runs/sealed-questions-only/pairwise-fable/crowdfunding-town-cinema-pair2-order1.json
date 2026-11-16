@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "crowdfunding-town-cinema",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-33-05Z",
+  "without_skill_run": "2026-11-16T21-02-01Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who remembers the refunds and has already given this month, A answers my real worries: it guarantees all-or-nothing refunds, shows $11,000 already pledged by businesses, promises public spending reports, gives a reopening date, and is upfront about the roof cost and film timing. B never says I'd get my money back, leaves the cinema's name blank, and its \"half of what we asked last time\" framing feels like spin."
+}

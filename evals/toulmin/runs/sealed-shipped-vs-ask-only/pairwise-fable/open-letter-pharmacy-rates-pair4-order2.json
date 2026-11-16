@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-08-09Z",
+  "without_skill_run": "2026-11-16T21-21-14Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both stay within the facts and make the same verifiable offer (invoices, meeting before May 1). A reads more businesslike and checkable, with a clear ask and less sentimental framing than B's \"must fix\" headline and emotional close, which suits my skepticism better, though its unfilled placeholders are a blemish."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-19-37Z",
+  "without_skill_run": "2026-11-16T21-07-58Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me something I rarely hear from charter captains: an alternative he would accept (three fish or a shorter season), an offer of trip logs and a catch-reporting pilot for my staff, and harbor-level stakes stated honestly (two captains would sell, no claim that every boat closes). A makes a sharper sector-split argument, but it has unfilled name and harbor placeholders and offers nothing in return."
+}

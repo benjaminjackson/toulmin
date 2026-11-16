@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T21:03:47.742500+00:00'
+outcome: pass
+score: 0.35
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 496
+  tags: []
+  notes: extracted 496 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.35
+  metrics:
+    agree: 2
+    honest: 5
+    works_the_facts: 3
+    right_comparison: 4
+    qualification: 2
+    objections: 2
+    fit: 4
+  details:
+    agree: A partner who already thinks sales are too slow gets a draft full of blanks
+      with no terms, no close date, no committed $250K anchor and no spending cut,
+      so there is little here to make them put in money.
+    honest: The figures given are accurate and the mite-treatment caveat is stated
+      honestly, but 'profitability in 2027' is still offered as a goal the numbers
+      don't support, and the controlled-comparison plan is invented.
+    works_the_facts: The runway figures (about March now, about ten months with the
+      bridge) are derived correctly, but the draft never works out the 158% customer
+      growth, the $17 per-sensor margin, the subscription revenue, or what happens
+      at $75K a month, and it leaves those as [X]/[Y] placeholders.
+    right_comparison: 'It does show what happens without the bridge: cash runs out
+      around March, just before the spring revenue peak. But it never sets the $45
+      temperature-only rival against HiveSense''s sound and weight sensing, and it
+      leaves out that three customers want to trial the rival.'
+    qualification: The profitability conditions are all blanks ([X customers], [$Z],
+      [$W]) with no dates or consequences, and the monthly cash report and the February
+      $75K spending target the reader could check are missing.
+    objections: The slow-sales worry is never addressed directly (no growth rate,
+      no sales plan), and the competitor threat is met only with placeholder bullets,
+      even though the facts that answer it (sound and weight sensing) were available.
+    fit: It is in investor-update form and under 600 words, but it is so full of brackets
+      that it can't be sent as written.

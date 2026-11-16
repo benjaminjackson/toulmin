@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "promotion-senior-paralegal",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-05-01Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "The near-miss is my main reservation, and A answers it with evidence: about 600 entries since the second-person check with none wrong or missed. B only describes the fix. A is also candid that one trainee left, while B slightly overclaims that she already carries the supervisory responsibility."
+}

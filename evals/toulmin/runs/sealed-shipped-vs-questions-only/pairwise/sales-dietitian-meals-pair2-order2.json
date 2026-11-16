@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-09-05Z",
+  "without_skill_run": "2026-11-16T21-36-25Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B opens by saying it won't promise my A1C will go down, and it answers my real worry about getting bored and quitting again. It also invites me to talk through what I've tried before and gives me a call button, so it feels more trustworthy to someone burned twice. A is just as honest but reads more like a standard pitch."
+}

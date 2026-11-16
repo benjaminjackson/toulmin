@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:33:57.349546+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 288
+  tags: []
+  notes: extracted 288 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 7
+    qualification: 5
+    objections: 7
+    fit: 9
+  details:
+    agree: A wary former donor gets a lower goal, early commitments and an all-or-nothing
+      guarantee, so a pledge is likely, though nothing shows that the gap left is
+      about what the first campaign already raised.
+    honest: Nearly every figure comes from the brief, but 'the promise is the same
+      as last time' says the first campaign was formally all-or-nothing, which the
+      brief does not support; it says only that everyone was refunded.
+    works_the_facts: 'It works out the 76-mile round trip and the $35,000 drop in
+      the goal, but misses the strongest figure: $60,000 minus the $11,000 already
+      pledged leaves $49,000, close to the $47,000 the first campaign raised. It also
+      never turns the 15% roof risk into dollars.'
+    right_comparison: It states the alternative plainly (no cinema closer than a 38-mile
+      drive) and compares this campaign fairly with the failed one, though it says
+      nothing about any trend.
+    qualification: The roof hedge gives a number (up to 15%) but no dollar amount
+      and no plan for covering an overrun. The all-or-nothing condition does have
+      a date, a number and a consequence.
+    objections: The 'If you gave last time' section answers the refund worry directly,
+      but it leaves out the $49k-versus-$47k point that would settle that worry, and
+      it does not acknowledge that people are also giving to other local causes.
+    fit: It is a signed crowdfunding pitch with clear sections, about 310 words, which
+      is under the 350-word limit; the only gap is the unfilled group-name placeholder.

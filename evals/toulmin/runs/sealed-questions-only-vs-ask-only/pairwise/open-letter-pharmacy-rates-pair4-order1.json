@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-35-21Z",
+  "without_skill_run": "2026-11-16T21-21-14Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters stay within the facts and answer my belief that members have chain pharmacies nearby by citing the 20-mile distance. A slightly overstates the case by implying a fifth of their orders are filled below cost, when the $1.80 loss covers only the 20 generics. B's measured, well-organized request, with its offer to share invoices, reads as more credible to a skeptic like me."
+}

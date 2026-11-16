@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-catch-limit",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-09-03Z",
+  "without_skill_run": "2026-11-16T21-20-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Both accept the staff's stock numbers, use the 2016 drop, and ask for three fish or a shorter season. B also offers our staff trip logs from 2016 on and a catch-reporting app test, which gives us something concrete to act on. B also shows the loss lasting ten years, while A has unfilled placeholders and a stray markup tag."
+}

@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T21:19:47.776152+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 290
+  tags: []
+  notes: extracted 290 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 3
+    right_comparison: 7
+    qualification: 6
+    objections: 6
+    fit: 9
+  details:
+    agree: The refund history is answered openly and the all-or-nothing promise is
+      reassuring, but a reader who just gave $200 elsewhere isn't told how much is
+      still needed, when the cinema would reopen, or how the money will be tracked,
+      so a cautious small pledge is the likely result.
+    honest: It invents the year '2027' for the deadline, says 'the audience never
+      left' when the facts only give 180 tickets a week at closing, and implies every
+      dollar unlocks the bank's $25,000 when that money only comes if the full remainder
+      is raised.
+    works_the_facts: 'Apart from the 76-mile round trip, it derives nothing: it never
+      states the $60,000 needed from the public or the $49,000 still left after the
+      businesses'' $11,000, and it offers no per-household or per-ticket figure that
+      would make the gap feel reachable.'
+    right_comparison: The alternative of a dark screen and a 76-mile round trip is
+      described accurately from the facts, though it doesn't say plainly that a failed
+      campaign leaves things exactly as they are.
+    qualification: The all-or-nothing condition names a date, an amount and a consequence,
+      but the roof estimate that could rise by up to 15% is left out, so the reader
+      can't see that the $85,000 might not be enough.
+    objections: The objection about the last campaign's refunds is met directly with
+      the lower goal and the full-refund promise, but the quarterly spending report
+      and the Thanksgiving reopening target are omitted, and there's nothing for a
+      reader whose giving is already stretched.
+    fit: It's a clear crowdfunding pitch of about 300 words with sensible headers,
+      within the 350-word limit.

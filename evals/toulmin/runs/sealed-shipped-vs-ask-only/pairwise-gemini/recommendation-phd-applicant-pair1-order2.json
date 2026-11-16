@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-phd-applicant",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-07-29Z",
+  "without_skill_run": "2026-11-16T21-21-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B stays strictly faithful to the provided facts without inventing details (like how she performed at the conference), while using a candid, scientifically rigorous tone about the thesis limitations that builds high credibility with a skeptical admissions reader. It also properly includes the applicant's full name."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-56Z",
+  "without_skill_run": "2026-11-16T21-20-13Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks directly to the deadline error I remember. It gives evidence: about 600 entries with no wrong or missed deadlines since the check went in. It also admits she can't promise to be perfect, and it makes concrete commitments as supervisor. A has placeholders, offers no evidence the fix worked, and leans on a general claim about process."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-home-cleaning",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-23-39Z",
+  "without_skill_run": "2026-11-16T21-10-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is complete and concrete: it names the company, backs the cleaner fix with proof (only 1 of 18 cleaners has left since July), and gives a deadline and two easy ways to book. B is unfinished, with blank placeholders for the company, the sender and the booking link, and it wrongly tells me I complained when I had no complaint."
+}

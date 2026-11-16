@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "promotion-senior-paralegal",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-06-56Z",
+  "without_skill_run": "2026-11-16T21-20-13Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A answers my real concern about the March deadline error with evidence the fix has held (about 600 entries, none wrong or missed), declines to overpromise, and adds concrete commitments on supervision and certification. B arrives with unfilled \"[Name]\" placeholders, gives no proof the fix worked, and recasts the mistake as a selling point."
+}

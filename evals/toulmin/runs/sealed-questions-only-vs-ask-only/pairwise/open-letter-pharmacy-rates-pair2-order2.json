@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-22Z",
+  "without_skill_run": "2026-11-16T21-19-29Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B admits up front that some pharmacies make back part of the loss on brand-name drugs, which is the first objection I'd raise, and it even mentions mail order as the members' alternative, so it reads as more candid. A says the pharmacies do \"a fifth of its work at a loss,\" which overstates things because the loss is only on the top 20 generics."
+}

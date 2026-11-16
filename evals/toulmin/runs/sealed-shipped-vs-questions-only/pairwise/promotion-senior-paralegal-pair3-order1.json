@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-06-56Z",
+  "without_skill_run": "2026-11-16T21-33-54Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "As the partner who raised the deadline error in her review, I find B more persuasive. Its line \"That was too close\" treats the mistake as seriously as I did, and it turns the error into a commitment to build systems that catch mistakes. A's \"You should also hear this from me\" reads oddly because I already know about it, and its claim to be already doing much of the senior role feels slightly overstated."
+}

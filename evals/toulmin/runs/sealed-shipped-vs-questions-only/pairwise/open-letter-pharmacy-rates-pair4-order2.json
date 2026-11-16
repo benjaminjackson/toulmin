@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-08-09Z",
+  "without_skill_run": "2026-11-16T21-35-21Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters drop the unsupported 'a third will close' claim and offer invoices and a meeting. A overstates in places, though: it says a fifth of orders are filled below cost and that each prescription costs more than the plan pays, when only the 20 generics lose money and the $1.80 is an average. B stays closer to the facts, so it is harder for me to dismiss as the usual yearly complaint."
+}

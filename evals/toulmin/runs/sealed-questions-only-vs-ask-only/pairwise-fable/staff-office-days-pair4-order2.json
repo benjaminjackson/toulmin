@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-38-45Z",
+  "without_skill_run": "2026-11-16T21-24-55Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both give the same facts and dates, but A speaks more directly to me as a remote hire: it admits the firm is \"going back on that arrangement\", that people organised their lives around it, and that the four far-away colleagues get only four months extra, and it offers a private channel. B is slightly clearer to scan and reassures juniors, but its acknowledgement feels thinner and it adds an unsupported \"good design and good people\" claim."
+}

@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T21:10:04.581252+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 403
+  tags: []
+  notes: extracted 403 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 3
+    objections: 6
+    fit: 9
+  details:
+    agree: The lost hospital bids and the partners committing to all three days give
+      most staff a reason to go along, but the eleven remote hires who live within
+      two hours get nothing beyond the commuting subsidy, so the ones who stay mainly
+      for remote work may still push back or leave.
+    honest: Every figure matches what the writer was given, and the claim that working
+      apart causes the slower progression is correctly hedged as 'we think'; the only
+      additions are the inferred 2027/2028 dates and a general statement about how
+      people learn to lead.
+    works_the_facts: 'The numbers are repeated as given, not worked out: the memo
+      never says that 15 of 46 is about a third of the firm, never puts the 30% into
+      months or years of delay, and never says what continuing to lose bids would
+      cost.'
+    right_comparison: It implies that staying remote means more lost interviews and
+      slower development, and the five of six leads already in three days helps, but
+      it never sets out the status quo or its trend as a real alternative.
+    qualification: The six-month review has no date (around March 2028), no measure
+      of success such as bid results or time to lead, and no stated consequence, so
+      readers cannot check it.
+    objections: It says plainly that the remote hires' terms are changing and deals
+      with the desk and commuting concerns ahead of time, but it doesn't answer 'why
+      three days and not fewer' or say anything to remote hires who live close but
+      still face a real change to their lives.
+    fit: It's a short, clear email of about one page that points to Friday's meeting
+      and to who can take questions before it, as asked.

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-07-24Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A accepts our staff's stock numbers up front, speaks only for the captain's own books, and asks for alternatives (3 fish or a shorter season) that still deliver a cut. B covers the same ground but buries the concession, adds a mortgage and a 'never got all the way back' claim the facts don't support, and asks us to reopen the cut after one season."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-07-29Z",
+  "without_skill_run": "2026-11-16T21-21-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is better calibrated. It gives the full name and concrete numbers (about six trips a month), and it says plainly that the result is \"promising but not yet established.\" For a reader who distrusts small-college praise, that candor makes B more credible. A adds unsupported flourishes (\"held her own in discussion with working scientists,\" \"fits a question the field is actively working on\"), and a skeptical reader would discount those as the usual inflation."
+}

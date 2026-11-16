@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-03-50Z",
+  "without_skill_run": "2026-11-16T21-33-57Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both are honest about the refunds and the roof risk. B's point that the $49,000 still needed is only $2,000 more than the last campaign raised speaks directly to my worry, as someone who remembers the refunds, that this one will fail too. That makes my pledge feel more likely to count, though B's claim that the cinema will be 'far cheaper to run' isn't backed up."
+}

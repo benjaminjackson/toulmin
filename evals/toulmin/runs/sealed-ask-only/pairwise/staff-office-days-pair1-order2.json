@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-office-days",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-22-08Z",
+  "without_skill_run": "2026-11-16T21-09-16Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives remote staff concrete things they can act on: the $150 commuting support, the six-month review, a named person (and HR) to contact, and a plain statement that there are no other exceptions. A has placeholder signatures and leaves out the commuting help and the review. B's directness and practical help make it easier to go along with the change instead of leaving."
+}

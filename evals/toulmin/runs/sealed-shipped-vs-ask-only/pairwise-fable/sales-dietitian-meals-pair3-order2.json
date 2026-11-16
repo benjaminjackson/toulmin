@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "sales-dietitian-meals",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-10-17Z",
+  "without_skill_run": "2026-11-16T21-23-20Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both are honest about the small A1C sample and make no promise. B speaks more directly to my history of quitting (\"If it helps, stay. If it doesn't, cancel\"), says plainly it can't tell how much of the change came from the meals, and frames the call as my chance to ask questions. A's note that customers chose to share their results is a nice touch of candour, so it is close."
+}

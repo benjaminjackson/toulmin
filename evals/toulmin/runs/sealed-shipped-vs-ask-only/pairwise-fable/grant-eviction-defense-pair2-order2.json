@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "grant-eviction-defense",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-03-06Z",
+  "without_skill_run": "2026-11-16T21-19-49Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B is the more urgent and complete read, but it gets there by recasting the request as backfilling the departing attorney's position and asserting \"we have no other funding to refill her position\", which the brief does not say; the brief asks for a third attorney. A stays within the facts, states the ask and the funding plan cleanly, and is easy to score against a rubric, though it leaves the June departure unresolved."
+}

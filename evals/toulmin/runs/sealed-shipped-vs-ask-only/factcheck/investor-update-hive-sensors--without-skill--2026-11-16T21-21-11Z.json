@@ -1,0 +1,17 @@
+{
+  "task": "investor-update-hive-sensors",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-21-11Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "We don't yet know whether we've lost any deals to them.",
+      "why": "Neither the brief nor the additional information mentions whether the company has lost or knows if it has lost any deals to the competitor."
+    },
+    {
+      "quote": "With the bridge closed, we have cash into autumn 2027 before counting any new revenue.",
+      "why": "The brief gives no calendar year (such as 2027), and the total cash of $940,000 at $95,000 reducing to $75,000 per month only lasts about a year from closing in December, reaching late the following year rather than a second autumn."
+    }
+  ],
+  "invented_count": 2
+}

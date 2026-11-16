@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-21Z",
+  "without_skill_run": "2026-11-16T21-06-50Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks directly to my doubts. It says chains are more than 20 miles away in those 14 counties, notes that two pharmacies will stop filling for our members, and offers invoices so we can check the numbers. It is also honest about the closures. A reads like the usual yearly complaint and gives me nothing I can verify."
+}

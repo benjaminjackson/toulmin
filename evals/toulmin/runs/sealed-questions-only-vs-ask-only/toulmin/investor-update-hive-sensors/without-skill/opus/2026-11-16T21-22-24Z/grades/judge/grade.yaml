@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T21:23:28.412201+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 510
+  tags: []
+  notes: extracted 510 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 5
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 6
+    qualification: 3
+    objections: 3
+    fit: 6
+  details:
+    agree: The terms are clear, and the warning that cash runs out in March gives
+      the ask some urgency, but a partner who already thinks sales are too slow gets
+      no answer on sales pace and no monthly cash report, so the update probably won't
+      change that partner's mind.
+    honest: 'The update is careful about profit and about the mite-treatment confound,
+      but it gets the reply deadline wrong (December 15 instead of December 1) and
+      adds claims the brief doesn''t support: no deals won or lost to the competitor,
+      pricing unchanged, and cleaner comparisons underway.'
+    works_the_facts: The runway figures (out of cash around March, cash into autumn
+      2027 with the bridge) are worked out correctly, but the update never states
+      the 158% customer growth, the $17 margin per sensor, the $48 per hive per year
+      from app fees, or how revenue compares with the roughly $570K spent over six
+      months.
+    right_comparison: 'It shows what happens without the bridge: cash runs out in
+      March, just before the main selling months. It doesn''t say how long the spending
+      cut alone would stretch the cash (to about April), and it doesn''t show the
+      trend in sales pace.'
+    qualification: The profit hedge only promises to report three metrics, and it
+      gives no target numbers, no thresholds and no consequence if they come in short,
+      so the reader has nothing concrete to check.
+    objections: The reader's main objection, slow selling, is never addressed with
+      the customer growth rate or a sales plan, and the monthly cash report that would
+      reassure a doubtful partner is left out.
+    fit: It is a well-organised investor update with a clear ask, but at roughly 600
+      words it sits right at the limit and may go over.

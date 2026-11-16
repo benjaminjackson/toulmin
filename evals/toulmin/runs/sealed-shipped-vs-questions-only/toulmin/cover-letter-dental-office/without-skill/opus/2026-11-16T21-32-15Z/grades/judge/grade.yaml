@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:33:04.962959+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 244
+  tags: []
+  notes: extracted 244 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 6
+    objections: 5
+    fit: 7
+  details:
+    agree: The letter explains the seven-year gap plainly and sets it next to a concrete
+      collections result and a Dentrix plan, which could win over an undecided owner;
+      but it leaves out the Tuesday/Thursday evening hours and never says the vet
+      clinic was a larger operation than his.
+    honest: "The figures match the brief, but 'handled' the software move has become\
+      \ 'led' it, and 'I know medical billing\u2026 from the office's side' claims\
+      \ more than vet-clinic billing supports."
+    works_the_facts: The $38,000 to $9,000 drop is given as raw numbers rather than
+      as a cut of about three-quarters, and the 4 vets/14 staff versus 3 dentists/9
+      staff scale is never compared.
+    right_comparison: The letter never addresses the owner's real alternative, a practice
+      running without a manager while he keeps searching, beyond a passing 'start
+      within two weeks.'
+    qualification: The Dentrix gap is covered by a named 20-hour course and a promise
+      to finish it before day one, but there is no completion date he can check against
+      the 21st closing or a start date.
+    objections: The gap, the Dentrix gap and the missing owner reference are all handled,
+      but the evening-hours commitment is left out, and 'I gave two weeks' notice'
+      needlessly reminds an owner who was just burned by a two-weeks'-notice departure.
+    fit: It is a proper cover letter under 300 words, but the sign-off uses '[Your
+      name]' placeholders even though the writer was told her name is Linda Marsh.

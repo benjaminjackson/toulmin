@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T21:23:22.041619+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 306
+  tags: []
+  notes: extracted 306 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 5
+    honest: 7
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 5
+    objections: 4
+    fit: 8
+  details:
+    agree: The letter is concrete and believable, but a reader who discounts small-college
+      letters gets no calibration such as the 2 refusals among about 40 letters, and
+      no specific offer to send the thesis, so it may still be read as routine praise.
+    honest: It correctly refuses to call the findings publishable now, but it adds
+      an unstated detail ('without anyone checking'), calls the result 'clear' despite
+      one unrepeated study, and leaves out the three months of data lost to the storm.
+    works_the_facts: "The numbers are only restated: it never works out the field\
+      \ pace (a trip roughly every 4\u20135 days for 14 months), never compares 'top\
+      \ 3' against roughly 17 years of students, and never uses the 40-letters, 2-refused\
+      \ record."
+    right_comparison: Priya is ranked against the writer's own students but not against
+      a base the reader can judge, and the strongest comparison available, how rarely
+      this writer declines or writes strong letters, is missing.
+    qualification: It names a real condition (the study must be repeated) and a path
+      forward (another season), but gives no date, no sample size, no outcome if the
+      replication fails, and leaves out the storm data gap the reader could check.
+    objections: 'The small-college inflation objection is barely addressed: there''s
+      only a generic ''glad to answer any questions'', with no contact details, no
+      offer to send the thesis, and no calibration from the writer''s letter-writing
+      record.'
+    fit: It is a properly formed one-page recommendation letter of suitable length,
+      though repeating the name in place of pronouns reads a little stiffly.

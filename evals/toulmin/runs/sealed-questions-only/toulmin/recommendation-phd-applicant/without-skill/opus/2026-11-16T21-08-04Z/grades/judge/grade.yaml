@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T21:08:35.978285+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 433
+  tags: []
+  notes: extracted 433 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 4
+    honest: 5
+    works_the_facts: 4
+    right_comparison: 3
+    qualification: 4
+    objections: 3
+    fit: 6
+  details:
+    agree: A committee member who discounts small-college letters gets generic praise
+      like 'one of the most capable' and 'without reservation', with no calibration
+      showing the writer is selective, so the letter likely gets discounted with the
+      rest.
+    honest: The letter rightly drops the 'ready to publish' claim, but it calls a
+      14-month study 'a single season', and it invents that she 'designed' the study,
+      worked 'in every season and every kind of weather', and discussed results with
+      outside researchers.
+    works_the_facts: 'It uses top grade of 28 and the 90 kayak trips, but it never
+      works out the pace (about one trip every five days for 14 months), and it leaves
+      out the strongest facts: top 3 of the students in 17 years, about 40 letters
+      written with 2 refusals, she ran the lab''s water sampling alone for two weeks,
+      and her supervisor would rehire her.'
+    right_comparison: The only comparison is a vague 'most capable students I have
+      worked with'; it does not place her among the roughly 30 thesis students and
+      40 letter recipients, which is the comparison this reader needs.
+    qualification: It names the real limits (one run of the study, a storm data gap),
+      but it misstates them and gives the reader no way to check, such as an offer
+      to send the thesis on request.
+    objections: The objection that small-college letters praise everyone goes unanswered,
+      though the writer's record of turning down 2 of about 40 students and the offer
+      to take committee calls and send the thesis would answer it directly.
+    fit: It is a one-page recommendation letter in the right form, but it is full
+      of placeholders and '[Optional]' notes for her name, the college and the signer,
+      which the user could have supplied.

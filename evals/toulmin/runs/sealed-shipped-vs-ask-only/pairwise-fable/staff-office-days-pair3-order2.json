@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-11-11Z",
+  "without_skill_run": "2026-11-16T21-23-55Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B gives me more to work with as someone weighing whether to stay: a six-month review with staff, the desk plan, the fact that most project leads already come in, and an honest admission that remote work may not be the whole cause of the slower progression. A acknowledges the remote hires more warmly, but offers no review and closes with a blunt no-exceptions line; B's unexplained \"Mondays and Fridays undecided\" line keeps the gap small."
+}

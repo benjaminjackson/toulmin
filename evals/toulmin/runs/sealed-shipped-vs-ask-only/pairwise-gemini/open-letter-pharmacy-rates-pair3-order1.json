@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-06-49Z",
+  "without_skill_run": "2026-11-16T21-20-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters directly counter my assumptions by showing that chain pharmacies are over 20 miles away in 14 counties and by offering actual purchase invoices instead of just complaining. Document A is slightly more persuasive because it leads with the July 1 contract renewal and honestly admits they don't know how much they recoup on brand-name drugs, making their offer to share invoices more credible."
+}

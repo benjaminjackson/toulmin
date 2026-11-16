@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "win-back-home-cleaning",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-37-24Z",
+  "without_skill_run": "2026-11-16T21-23-39Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "I left over price, not cleaners, and B names price as a reason up front and tells me there's no contract and I can cancel any time, which makes a $99 trial feel low-risk. A leans on a complaint I never had and its \"nobody you haven't met will turn up\" line promises more than the facts support."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-lease-renewal",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-08Z",
+  "without_skill_run": "2026-11-16T21-19-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks directly to what still bothers me, the late payments: it offers automatic transfer on the 1st and a signature within two weeks, and it puts a $40,000 value on the hood a new tenant would need. A has only the bare $5,100 offer, and its claim that I'd get \"close to your number\" over the term is a stretch, because the rent only passes $5,650 in year five."
+}

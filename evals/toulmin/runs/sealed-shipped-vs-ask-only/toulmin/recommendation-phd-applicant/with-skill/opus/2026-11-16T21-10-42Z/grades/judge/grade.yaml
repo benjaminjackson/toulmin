@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T21:11:49.104098+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 348
+  tags: []
+  notes: extracted 348 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 7
+    right_comparison: 5
+    qualification: 4
+    objections: 4
+    fit: 9
+  details:
+    agree: The kayak-trip pace, the unsupervised lab work and the candid account of
+      the data gap give a sceptical reader concrete reasons to believe the letter,
+      but 'one of the three best' still has nothing to calibrate it against, so a
+      small-college discounter could set it aside.
+    honest: The letter correctly declines to call the findings ready to publish, but
+      calling a 14-month study 'a single season of work' gets the study wrong, and
+      'hers asked the most of its author in the field' is a ranking the facts don't
+      give.
+    works_the_facts: Turning 90 trips over 14 months into one trip every four to five
+      days, through every season, is a correct and persuasive figure, but the 40 letters
+      with 2 refusals, the strongest number available, is left unused.
+    right_comparison: It compares her to classmates (top of 28) and to about 30 theses,
+      but it never compares her to the other students the writer has recommended (2
+      refusals in about 40 letters), which is the comparison that would show this
+      praise is not given to everyone.
+    qualification: The hedge names a real open question (whether a second season confirms
+      the marsh effect), but it gives no date, no way to check it, and no offer to
+      send the thesis so the reader could judge the data.
+    objections: The reader's main objection, that small-college letters praise everyone,
+      is never met with the record of letters declined, and the offer to help is a
+      vague 'glad to answer any questions' rather than a committed email or phone
+      contact plus the thesis on request.
+    fit: It is a properly formed one-page recommendation letter of suitable length
+      and tone, though the signature gives no contact details.

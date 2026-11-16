@@ -1,0 +1,17 @@
+{
+  "task": "crowdfunding-town-cinema",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-05-03Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "most of the money has already been pledged.",
+      "why": "The brief and user information show only $36,000 ($25,000 from the bank and $11,000 from local businesses) has been pledged toward the $85,000 goal, which is less than half."
+    },
+    {
+      "quote": "With rent at $1 a year, what we take in at the door goes into the films and the building.",
+      "why": "Neither the brief nor the user's additional information states how box office revenue will be spent once the cinema reopens."
+    }
+  ],
+  "invented_count": 2
+}

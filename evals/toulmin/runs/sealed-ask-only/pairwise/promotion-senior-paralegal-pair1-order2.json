@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-05-35Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is addressed to me and signed by Jenna, admits the March error was 'much too close', and explains what she learned about supervision from it. It also ties the request to the January cycle and asks for a meeting. A has placeholder names, says less about the mistake and makes a vaguer ask."
+}

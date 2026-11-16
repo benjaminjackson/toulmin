@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-32Z",
+  "without_skill_run": "2026-11-16T21-22-09Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "A tells me plainly that this hire mainly keeps the clinic at two attorneys after June, and the stakes of dropping to one attorney are persuasive. B leaves out the reporting and data commitments I'd want, but it promises 80 more tenants a year and warns it will keep turning away 300. Both claims ignore the June departure, and once I noticed that, I'd doubt the rest of the application."
+}

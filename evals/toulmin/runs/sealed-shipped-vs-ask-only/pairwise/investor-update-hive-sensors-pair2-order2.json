@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-02-58Z",
+  "without_skill_run": "2026-11-16T21-19-54Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who thinks the company sells too slowly, I'd want a concrete milestone and a way to watch progress. B gives both: a $300k March–April 2027 target and a monthly cash report, plus a growth pace that makes break-even look possible. A leaves out the reporting commitment and ends on 'we'll see', though B's 'nobody has switched' and 'not changing our price' go slightly beyond the brief."
+}

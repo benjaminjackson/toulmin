@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-catch-limit",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-28Z",
+  "without_skill_run": "2026-11-16T21-21-32Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives the commission something it can use: Captain Dunn offers his trip logs and a catch-reporting app trial, and he admits he can't say how many boats would close, which makes him more credible than the usual captain at the microphone. A claims without support that either alternative protects the stock, and it offers nothing in return."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-24-17Z",
+  "without_skill_run": "2026-11-16T21-10-12Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "As someone who quit two apps and a meal service, I care most about A's no contract, skip or cancel any time, the weekly meal swaps and the clear Thursday cutoff, and B leaves all of those out. B is more open about the limits of the A1C numbers, including the volunteer sample and the untracked medication changes, which nearly closes the gap."
+}

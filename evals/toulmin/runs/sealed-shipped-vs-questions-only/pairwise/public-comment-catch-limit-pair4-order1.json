@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-catch-limit",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-10-23Z",
+  "without_skill_run": "2026-11-16T21-35-28Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "B accepts our staff's numbers without hedging and says honestly what it can't claim about closures. It also offers concrete help: trip logs since 2016 and a test of a catch-reporting app. That gives us a reason to trust the speaker and a way to act, which A's otherwise similar argument lacks."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "sales-dietitian-meals",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-09-05Z",
+  "without_skill_run": "2026-11-16T21-22-34Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who has quit three of these and distrusts health promises, B wins me over: it says up front it won't promise an A1C drop, admits medication changes weren't tracked, and speaks to why I quit before (getting bored of the food, being stuck in a plan) with \"nothing to cancel beyond that week.\" A is honest too, but it bolds the A1C result, leaves out the medication caveat and reads more like the pitches I've already fallen for."
+}

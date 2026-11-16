@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-catch-limit",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-09-03Z",
+  "without_skill_run": "2026-11-16T21-20-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A offers concrete help that matters to commissioners who trust their staff's data: Captain Dunn will hand over trip logs from 2016 on, and the association will test a catch-reporting app. It also asks for the alternatives cleanly, with no unsupported claims. B leaves [NAME] and [HARBOR] as unfilled placeholders, offers nothing to the staff, and says 'this cut is bigger' than the 2016 one, which nothing in the brief supports."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-catch-limit",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-15Z",
+  "without_skill_run": "2026-11-16T21-19-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B states its request up front and is plain about what it can't say, both about the stock and about how many boats would close. It also uses the 70% already-booked figure honestly, explaining that the damage would show up a season later. A claims the cut 'can't do much for the stock,' which commissioners would see is wrong, because the limit also applies to private boats. B's leftover [HARBOR NAME] placeholder is only a small flaw."
+}

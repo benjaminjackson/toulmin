@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-04-31Z",
+  "without_skill_run": "2026-11-16T21-20-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A is the more honest of the two. It says plainly that the general budget includes the uncertain county contract and that $65,000 of the cost doesn't depend on it, and it spells out what happens without the grant. B claims the plan doesn't depend on the county contract, which may not be true. Its line about growing to three attorneys also muddies the ask, though B does gain something from mentioning the training handoff."
+}

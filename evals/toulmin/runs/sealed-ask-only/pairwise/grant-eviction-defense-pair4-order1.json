@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-22-09Z",
+  "without_skill_run": "2026-11-16T21-03-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A reads as a finished, credible summary: it names the clinic and shows exactly how the $78,000 gap is covered ($45k grant, $20k family pledge, $13k general budget), with a training handoff and honest framing about the departing attorney. B is full of bracketed blanks, including the funding source for the remaining $33,000, and its estimate of 80 more tenants a year is not in the facts, so it would score poorly against a rubric."
+}

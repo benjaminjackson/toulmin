@@ -1,0 +1,9 @@
+name: judge
+checks:
+  - checker: ../checkers/transcript-check
+    required: true
+  - checker: ../checkers/extract-document
+    required: true
+    creates: document.txt
+  - checker: ../checkers/judge
+    model: opus

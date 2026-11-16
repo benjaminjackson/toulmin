@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-04-31Z",
+  "without_skill_run": "2026-11-16T21-34-43Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B puts the request and its stakes up front and uses headings that match a rubric. It also deals openly with the county-contract risk by noting that $65,000 of the position's cost does not depend on it. A raises the same contract but never explains whether it threatens the position."
+}

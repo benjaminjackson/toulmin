@@ -1,0 +1,61 @@
+grader: judge
+graded: '2026-11-16T21:24:51.636640+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 346
+  tags: []
+  notes: extracted 346 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 5
+    objections: 4
+    fit: 7
+  details:
+    agree: 'The specific ranking and the kayak fieldwork give a skeptical reader something
+      real, but the letter leaves out the calibration that would separate it from
+      routine small-college praise: only 2 refusals in about 40 letters, and an offer
+      to send the thesis.'
+    honest: 'The letter correctly declines to call the findings ready to publish,
+      but it calls fourteen months ''one season of data'' and adds details the brief
+      doesn''t support: ''without hesitation'', ''discussed it with researchers outside
+      our college'', and a claim that undergraduate field projects ''usually fall
+      apart''.'
+    works_the_facts: It uses the top-of-28 grades, the 90 trips and the two weeks
+      of solo sampling, but it never derives anything from them (for example, about
+      six kayak trips a month for fourteen months) and it leaves out the strongest
+      calibrating number, 2 refusals out of about 40 letters.
+    right_comparison: Ranking her among the top 3 of 17 years' students and first
+      in a class of 28 gives a fair comparison group, but nothing shows how selective
+      the writer is, and that is exactly what this reader questions.
+    qualification: 'The hedge correctly names replication and the storm gap as the
+      open question, but it gives no checkable route: no offer to send the thesis,
+      no timeline, and no statement of what changes if a second season doesn''t hold
+      up.'
+    objections: The objection that small colleges praise everyone gets only partial
+      answers, from the top-3 ranking and the outside lab supervisor; the letter leaves
+      out the refusal record and offers only a generic 'feel free to contact me' instead
+      of the committed phone and email availability and the offer to share the thesis.
+    fit: It is a one-page letter in the right form, but it leaves placeholders for
+      the name, college and signature, details the writer could have asked for and
+      filled in.

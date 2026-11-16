@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-03-06Z",
+  "without_skill_run": "2026-11-16T21-33-21Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B makes a clear case that is true to the facts. It adds real urgency with the five-month hiring time and a concrete plan for measuring results. A invents figures and claims: the 80-per-year capacity, the 380 turned away, and 'no other funding to refill her position.' A careful judge would distrust those if checked."
+}

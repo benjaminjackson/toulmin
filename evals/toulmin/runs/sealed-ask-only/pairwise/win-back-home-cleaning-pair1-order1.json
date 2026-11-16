@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-home-cleaning",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-22-10Z",
+  "without_skill_run": "2026-11-16T21-09-47Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a customer happy with my savings, I'd want a reason the extra $25 is worth paying. Document A gives me one: it says the app services mostly send uninsured contractors, that only 1 of 18 cleaners has left since July, and that there's no contract and a December 31 deadline, and it ends with a real name and phone number. Document B leaves out those points and still has unfilled placeholders, so it feels less concrete and less trustworthy."
+}

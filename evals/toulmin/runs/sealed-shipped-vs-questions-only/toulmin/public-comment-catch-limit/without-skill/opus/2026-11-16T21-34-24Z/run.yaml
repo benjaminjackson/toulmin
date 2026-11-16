@@ -1,0 +1,48 @@
+task:
+  name: public-comment-catch-limit
+  type: public-comment-speech
+  set: sealed
+  reader: The seven members of the state fish and wildlife commission, who vote next month on cutting the daily summer flounder limit. The commission's own staff recommended the cut, most commissioners trust their staff's stock numbers, and they hear from charter captains at every hearing.
+  prompt: 'Help me write a public comment. I run a charter fishing boat out of our harbor, and the state fish and wildlife commission is taking comment on cutting the daily summer flounder limit from 4 fish per angler to 2.
+
+
+    Facts:
+
+    - I''ve run my boat for 22 years. I take out about 160 trips a season at $900 a trip for up to 6 people.
+
+    - There are 11 charter boats in our harbor.
+
+    - In a survey our charter association ran, 41 of 70 past customers said they would book fewer trips if the limit drops to 2. 12 said they''d book the same number.
+
+    - The commission staff''s report says the flounder stock is at 78% of its target and recommends the cut for 3 years.
+
+    - Charter boats land about 9% of the state''s summer flounder. Private boats land about 80%.
+
+    - The last time the limit was cut, in 2016, my bookings dropped from 170 trips to 138 the next season and came back to 155 two years later.
+
+
+    I want to say this limit will put every charter boat in our harbor out of business. I get two minutes at the microphone.'
+  user_knows: '- I''m Captain Ray Dunn. My boat is the Sea Lark.
+
+    - I don''t dispute the staff''s stock numbers. I have no answer to them.
+
+    - We''d accept a 3-fish limit or a shorter season instead of 2 fish.
+
+    - Two other captains in our harbor have told me they would sell if bookings drop like they did in 2016.
+
+    - About 70% of my trips for this season are already booked.
+
+    - I can commit to giving commission staff my trip logs from 2016 on.
+
+    - Our charter association can commit to testing a catch-reporting app with the staff next season.
+
+    - I cannot say how many boats in the harbor would close. I only know my own books.
+
+    - I want to say every charter boat in the harbor will go out of business. If told that goes past the facts, I still want it as strong as possible, but in words that are not false.'
+config:
+  name: without-skill
+  runner: /Users/ben/github/toulmin/evals/toulmin/run-with-skill
+  model: opus
+started: '2026-11-16T21:34:24.320007+00:00'
+duration_seconds: 47.42
+exit_code: 0

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-23-20Z",
+  "without_skill_run": "2026-11-16T21-09-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "I've quit diet plans before, so B speaks to my worries better: no contract, cancel any time, swapping meals so I don't get bored, and a 15-minute call with a named dietitian before I start. A has the same honest A1C caveats, but it leaves a '[day/time]' placeholder in the text and doesn't tell me whether I'm locked in."
+}

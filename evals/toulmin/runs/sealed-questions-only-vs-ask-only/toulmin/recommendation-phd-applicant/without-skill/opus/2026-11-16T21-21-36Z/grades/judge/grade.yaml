@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T21:22:26.092509+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 377
+  tags: []
+  notes: extracted 377 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 5
+    honest: 4
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 4
+    objections: 3
+    fit: 8
+  details:
+    agree: The kayak fieldwork and the solo lab sampling are concrete and credible,
+      but a reader who discounts small-college praise gets nothing to calibrate it,
+      such as the 2 of 40 students she declined to write strong letters for, so 'one
+      of the three best' and 'without reservation' read like the usual inflation.
+    honest: It invents that Priya 'held her own in discussion with working scientists'
+      and that the result 'fits a question the field is actively working on', and
+      it wrongly calls a 14-month study 'a single season'; it does rightly drop the
+      top-journal claim.
+    works_the_facts: 'The figures are repeated as given and never worked: it doesn''t
+      say 90 trips in 14 months is roughly one every five days, give her top-three
+      rank against the hundreds of students taught, or use the 2-of-40 refusal record.'
+    right_comparison: 'The only comparison is a loose contrast with ''most students''
+      who just like the idea of field ecology, when the facts allow a firmer one:
+      her rank among about 30 thesis students and among everyone the writer has written
+      letters for.'
+    qualification: The hedge 'publishable with a second season of data' is honest
+      in direction, but it names no timeline, no condition the reader could check
+      and no consequence, and it misstates the study length.
+    objections: It never takes on the small-college discount directly with the refusal
+      record, and it gives only a generic contact line instead of the specific offers
+      of a phone call, email or a copy of the thesis that would let a skeptic check
+      the claims.
+    fit: It is a proper one-page recommendation letter in the right register, though
+      it uses only 'Priya' and never her full name, Priya Nair.

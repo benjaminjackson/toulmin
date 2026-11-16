@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-office-days",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-10-04Z",
+  "without_skill_run": "2026-11-16T21-36-44Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B gives a frank admission that remote work hasn't been proven to cause the slower progression, and it points out the nine months' notice and invites people to talk if the job no longer works for them. For a remote hire who is sceptical, that feels more trustworthy and respectful. A is also warm and does well with the detail about the project leads and the chance to ask in private, so the gap is small."
+}

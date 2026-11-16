@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-21-32Z",
+  "without_skill_run": "2026-11-16T21-09-11Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both accept our staff's stock numbers and use the same 2016 and survey figures. B adds the concrete, checkable point that two captains would sell, explains why two fish hits charters differently from private anglers, and ends with a narrower ask we could act on; A's menu of options is more diffuse and its human stakes are vaguer, though B's claim that either alternative \"protects the stock\" is unsupported."
+}

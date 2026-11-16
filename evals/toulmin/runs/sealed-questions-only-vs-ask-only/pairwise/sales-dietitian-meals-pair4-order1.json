@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-38-19Z",
+  "without_skill_run": "2026-11-16T21-24-17Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Both report the A1C numbers honestly, but A also offers a 15-minute call with the dietitian before I start and says outright that she can't promise a result. For someone who has quit two apps and a delivery service, that makes the $59 trial feel lower-risk and more personal. B leaves out the call entirely."
+}

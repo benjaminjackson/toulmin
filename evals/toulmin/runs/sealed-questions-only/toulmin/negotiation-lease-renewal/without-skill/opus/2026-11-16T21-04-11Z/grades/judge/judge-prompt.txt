@@ -1,0 +1,73 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+The landlord who owns the small strip of shops where the restaurant sits. He waived the late fees twice when the restaurant paid rent late in early 2024 and still brings it up, and a coffee chain has asked him about the space. He decides what rent to offer and whether to renew at all.
+</reader>
+
+<brief>
+Help me answer my landlord. I own a 40-seat Vietnamese restaurant, and my 5-year lease ends in August. He wants to raise the rent from $4,800 a month to $5,650, which is about 18%.
+
+Facts:
+- I've been in the space for 10 years, over two leases.
+- I paid rent late twice in early 2024, by 11 days and by 19 days. He waived the late fees both times. I've paid on time every month since.
+- I put about $70,000 into the kitchen in 2019, including a new hood system that stays with the building.
+- The empty unit two doors down has been for lease for 14 months at $28 a square foot a year. His number works out to about $29 for my space.
+- I can pay $5,100 a month if I get a 5-year lease, with 3% increases each year after the first.
+- He told me a coffee chain asked about my space.
+
+Keep it short and polite, under 300 words.
+</brief>
+
+The user also knew the following and gave some of it to the writer when asked:
+<user_knows>
+- The restaurant is Pho Lan. The landlord is Frank Halloran.
+- Rent was late in early 2024 because our walk-in cooler failed and we were closed for 9 days.
+- A new tenant would pay about $40,000 to put in a hood system like the one I installed.
+- Our sales are about 6% lower this year than last year.
+- I can commit to signing a 5-year lease within two weeks of agreeing on terms.
+- I can commit to paying rent by automatic bank transfer on the 1st of each month.
+- I cannot pay $5,650 a month and keep the restaurant open.
+- I want his answer before June 1, so I have time to plan before August.
+</user_knows>
+
+<document>
+Dear [Landlord's name],
+
+Thank you for sending the renewal terms. I've valued our relationship over the past ten years, and I'd like to keep [Restaurant name] in your building for a long time to come.
+
+I've thought carefully about the proposed $5,650. That's about an 18% increase, which is more than I can take on in one step. I'd like to propose this instead:
+
+- **A new 5-year lease starting at $5,100 per month**
+- **3% annual increases after the first year**
+
+That's a meaningful raise right away, and by the fifth year the rent would be about $5,740, higher than the figure you proposed. You would also have a committed tenant for five more years.
+
+A few things I hope you'll consider:
+
+- **Stability.** We've been here a decade and have built a loyal customer base on this block.
+- **Investment in the space.** In 2019 I put about $70,000 into the kitchen, including the new hood system that stays with the building.
+- **The current market.** The unit two doors down has been listed at $28 per square foot for over a year without a tenant. Your proposal comes to about $29 for my space, and a vacancy of any length would cost us both.
+
+I understand you've had interest from other businesses, and I respect that you have options. I'm hoping we can find terms that work well for both of us.
+
+I'd be glad to meet and talk it through whenever it suits you.
+
+Best regards,
+[Your name]
+[Restaurant name]
+[Phone]
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "grant-eviction-defense",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-19-49Z",
+  "without_skill_run": "2026-11-16T21-02-07Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is a finished summary that names the clinic, closes the funding gap with the family fund pledge and general budget, and addresses the county renewal risk. Document B is full of unfilled brackets and blanks (clinic name, county, source of the remaining $33,000, the departing attorney's replacement), which reads as an incomplete application, and it adds claims the facts do not support, such as 80 more tenants a year."
+}

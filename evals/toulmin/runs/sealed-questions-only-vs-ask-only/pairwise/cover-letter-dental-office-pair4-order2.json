@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-dental-office",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-42Z",
+  "without_skill_run": "2026-11-16T21-20-52Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks directly about the seven-year gap, which I'm unsure about. It explains why she left and that the caregiving has ended, and it names a reference I can call. It also shows she has learned recent software (QuickBooks), so I trust the Dentrix plan. A states the same core facts but quietly glosses over the gap and leaves me with more questions."
+}

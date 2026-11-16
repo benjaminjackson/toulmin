@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-11-22Z",
+  "without_skill_run": "2026-11-16T21-24-17Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins my trust by explicitly stating that 14 is a small sample size and that she doesn't track whether customers changed their medications, whereas Document A leaves out the medication caveat and relies on standard legal-style fine print. Offering a 15-minute phone call with the dietitian before I spend any money also makes me much more comfortable trying a new service after quitting others in the past."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "recommendation-phd-applicant",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-08-34Z",
+  "without_skill_run": "2026-11-16T21-22-26Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters are honest and give the same core evidence. B's candour about the storm gap and the lack of publications makes its praise more believable to me as a reader who discounts small-college letters, and its close ties her record to what a PhD actually demands; A reads a little stiffer and more generic, though it does offer to answer questions."
+}

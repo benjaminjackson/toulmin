@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T21:25:51.710785+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 426
+  tags: []
+  notes: extracted 426 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 5
+    honest: 7
+    works_the_facts: 4
+    right_comparison: 3
+    qualification: 3
+    objections: 6
+    fit: 9
+  details:
+    agree: The frank admission that the firm is going back on its word and the clear
+      no-exceptions line will earn respect, but the remote hires far from the office
+      get only a $150 subsidy and a four-month delay, so the ones who stay mainly
+      for remote work have little reason not to leave.
+    honest: The dates and figures match the brief, but 'we're seeing the same problem
+      inside the firm', 'capable of doing' and the claim that people learn to lead
+      by sitting next to leaders go beyond what the brief says and present a causal
+      link as settled.
+    works_the_facts: 'The facts are mostly restated rather than worked: the draft
+      never says that 15 of 46 is about a third, never uses the 5-of-6 project leads
+      as a measure of what already works, and puts the far-away concession in its
+      least favourable form (''only four months longer'').'
+    right_comparison: It never describes what happens if remote work continues, such
+      as more lost interviews or continued slow progression for juniors, so readers
+      have no picture of the alternative to compare against.
+    qualification: The six-month review is the only condition, and it gives no measure,
+      no threshold and no consequence, so readers cannot tell what might change the
+      policy or check whether it worked.
+    objections: 'It deals head-on with the broken hiring promise, desk shortages and
+      hopes of exceptions, and the partners'' own commitment answers the fairness
+      complaint, but it leaves out the obvious objections: why three days rather than
+      fewer, and whether remote work is really what slows junior progression.'
+    fit: It is a one-page email with a clear subject line and short headed sections,
+      and it ends by pointing to the Friday meeting, which is exactly the format the
+      brief asked for.

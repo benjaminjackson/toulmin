@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-11-22Z",
+  "without_skill_run": "2026-11-16T21-24-17Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is upfront about its limits: only 14 people, medication changes weren't tracked, and no promise. It also offers a free call with the dietitian, which helps a wary reader who has quit before feel safe trying it. A's line that the 10 people whose A1C went down dropped 0.6 points on average misstates the figure, since 0.6 was the average across all 14, and A leaves out the call."
+}

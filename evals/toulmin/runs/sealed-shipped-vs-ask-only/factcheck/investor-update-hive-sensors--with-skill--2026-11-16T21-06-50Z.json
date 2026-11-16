@@ -1,0 +1,29 @@
+{
+  "task": "investor-update-hive-sensors",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-06-50Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "to carry us through the 2027 pollination season",
+      "why": "Neither the brief nor the user's additional information states the current year or that the upcoming pollination season is in 2027."
+    },
+    {
+      "quote": "We don't yet have loss figures across our other customers.",
+      "why": "The brief only gives colony loss figures for the largest customer and does not say whether the company has loss figures for its other customers."
+    },
+    {
+      "quote": "We haven't lost a customer to them.",
+      "why": "The provided information states that three beekeepers have asked to test the competitor's sensor, but does not say whether any customers have been lost to the competitor."
+    },
+    {
+      "quote": "With the bridge and the lower spend, we have cash into late 2027 before counting any revenue.",
+      "why": "The brief and additional information do not give the calendar year (2027)."
+    },
+    {
+      "quote": "You backed us when we had 12 beekeepers.",
+      "why": "The brief states the company had 12 beekeepers a year ago and is addressing current investors, but does not state when those investors invested or how many beekeepers the company had at the time."
+    }
+  ],
+  "invented_count": 5
+}

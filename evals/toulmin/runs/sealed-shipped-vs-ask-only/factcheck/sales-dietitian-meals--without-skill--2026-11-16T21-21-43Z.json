@@ -1,0 +1,13 @@
+{
+  "task": "sales-dietitian-meals",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-21-43Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I don't use a template or an algorithm.",
+      "why": "The brief states that Lena plans each menu herself and that the menu repeats every 4 weeks, but does not state whether she uses a template or an algorithm."
+    }
+  ],
+  "invented_count": 1
+}

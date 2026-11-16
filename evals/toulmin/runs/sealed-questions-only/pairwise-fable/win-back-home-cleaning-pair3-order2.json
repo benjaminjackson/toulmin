@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "win-back-home-cleaning",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-37-24Z",
+  "without_skill_run": "2026-11-16T21-10-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is a finished email I can act on: it names the company, tells me to just reply, says no contract and cancel any time, gives a deadline, and backs the same-cleaner claim with the 1-of-18 turnover fact. A has unfilled placeholders and its insurance point, while good, doesn't outweigh B's low-risk, concrete path to trying the $99 cleaning."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-04-12Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A opens with the ask, answers my likely deflection that the PBM sets the rates, and admits the brand-name offset, which makes its numbers more credible to me. B is warmer but overstates with \"losing money every time we do\" and leaves out the offset, which reads like the usual annual complaint."
+}

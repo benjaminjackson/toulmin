@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both are honest and run the cash numbers correctly, but A speaks more directly to my worry about slow sales: it treats the bridge as one full selling season to prove beekeepers pick HiveSense over the cheaper rival, and promises a report after spring on hives covered and the break-even timeline. B's clean terms list and the 520-colony figure are strong, but saying it hasn't decided whether to change pricing leaves me less sure there's a plan."
+}

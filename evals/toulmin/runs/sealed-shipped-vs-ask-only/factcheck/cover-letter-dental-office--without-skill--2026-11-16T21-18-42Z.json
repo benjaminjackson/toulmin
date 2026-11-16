@@ -1,0 +1,17 @@
+{
+  "task": "cover-letter-dental-office",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-18-42Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "which meant converting our files, setting up new routines and helping the whole team get comfortable with the new system",
+      "why": "The brief states only that she handled the clinic's move from paper records to software in 2014, without mentioning converting files, setting up new routines, or training the team."
+    },
+    {
+      "quote": "I reduced unpaid invoices over 90 days from about $38,000 to $9,000.",
+      "why": "The brief states that unpaid invoices over 90 days went from about $38,000 to $9,000 during her last three years, but does not state that she caused the reduction."
+    }
+  ],
+  "invented_count": 2
+}

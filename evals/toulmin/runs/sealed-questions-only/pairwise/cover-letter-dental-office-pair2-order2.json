@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-dental-office",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-05Z",
+  "without_skill_run": "2026-11-16T21-01-53Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is addressed to me by name and deals with my real worries up front: it shows recent bookkeeping work during the gap, a 20-hour Dentrix course she has enrolled in, a two-week start, the evening hours and a named reference. A still has blank placeholders and only says she's confident she can learn Dentrix."
+}

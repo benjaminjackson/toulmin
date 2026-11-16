@@ -1,0 +1,21 @@
+{
+  "task": "grant-eviction-defense",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-03-06Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The Tenant Defense Project requests $90,000 over two years to fund one of our two staff attorney positions.",
+      "why": "The brief states the grant is to hire a third attorney, not to fund one of the existing two positions."
+    },
+    {
+      "quote": "Without it, our capacity to defend tenants facing eviction will be cut in half this June.",
+      "why": "The brief does not say that the clinic's capacity will be cut in half without the grant, as the grant is meant for a third attorney."
+    },
+    {
+      "quote": "In June one of our two attorneys is leaving, and we have no other funding to refill her position.",
+      "why": "Neither the brief nor the user's additional facts state that the clinic lacks the funding to refill the departing second attorney's position."
+    }
+  ],
+  "invented_count": 3
+}

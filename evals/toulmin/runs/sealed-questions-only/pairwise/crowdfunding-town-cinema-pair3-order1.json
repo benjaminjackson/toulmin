@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-33-57Z",
+  "without_skill_run": "2026-11-16T21-02-37Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A speaks to what I'm worried about. It promises an all-or-nothing refund, warns me the roof estimate could rise by 15%, commits to spending reports at the library, and shows that only $49,000 is left to raise, so I'd pledge. B has unfilled placeholders, and its refund promise is still in brackets. For someone who went through the last refund and just gave to the ambulance fund, that doesn't build trust."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "After the refunds last time, I most need to know my money is safe if they fall short again. A says outright that the campaign is all-or-nothing and that every pledge comes back in full, and it notes the $11,000 local businesses have already pledged in writing. B makes no refund promise, leaves a '[Bank name]' placeholder in the text and leans on a per-resident guilt figure."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-05-03Z",
+  "without_skill_run": "2026-11-16T21-21-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A tells me $36,000 is already pledged, so the town needs only $49,000, about what we gave last time. It is also open about the roof cost possibly rising and promises quarterly spending reports. That speaks to my memory of the refunds and gives me reason to pledge despite my hospital gift. B leaves out the business pledges, the roof risk and the reports, so the $60,000 ask feels heavier and less trustworthy."
+}

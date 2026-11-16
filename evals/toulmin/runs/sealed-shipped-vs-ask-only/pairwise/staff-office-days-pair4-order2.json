@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-office-days",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-12-28Z",
+  "without_skill_run": "2026-11-16T21-24-55Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "A includes the commitment to review the policy with staff after six months and openly says the four far-away colleagues get only four months more than everyone else, which gives remote staff like me a real reason to stay and push back through a proper process. B makes a more vivid case for the change and gives nine months' notice, but it leaves out the review entirely."
+}

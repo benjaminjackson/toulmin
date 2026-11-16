@@ -1,0 +1,64 @@
+task:
+  name: grant-eviction-defense
+  type: grant-proposal
+  set: sealed
+  reader: A volunteer reviewer on the state bar foundation's grant panel, a retired
+    judge who scores about 40 applications in two weeks against a printed rubric.
+    The reviewer has no view of this clinic yet and gives each application about ten
+    minutes.
+  prompt: 'Can you help me write the project summary for a grant application? I''m
+    the managing attorney at a two-lawyer legal aid clinic that represents tenants
+    facing eviction. We''re applying to our state bar foundation for $90,000 to hire
+    a third attorney for two years.
+
+
+    Facts:
+
+    - Last year 1,140 eviction cases were filed in our county. We represented the
+    tenant in 163 of them.
+
+    - In the cases where we represented the tenant, 58% ended with the tenant staying
+    in the home or getting at least 60 days to move. We don''t have a comparable number
+    for tenants without a lawyer.
+
+    - We turned away about 300 tenants last year because no attorney was free.
+
+    - Our two attorneys each carry about 80 open cases. One of them is leaving in
+    June.
+
+    - A third attorney would cost $78,000 a year with benefits. The foundation''s
+    maximum award is $45,000 a year.
+
+    - The county gives us $60,000 a year, and that contract is up for renewal in October.
+
+
+    The project summary has to be 300 words or less.'
+  user_knows: '- The clinic is the Tenant Defense Project. I''m Maria Chen, managing
+    attorney.
+
+    - The application is due March 3. The foundation decides in May.
+
+    - A family fund has pledged $20,000 a year for two years toward the new attorney.
+    The rest of the gap comes from our general budget.
+
+    - The attorney who is leaving in June has agreed to spend her last month training
+    the new hire.
+
+    - Our last attorney opening took 5 months to fill.
+
+    - I can commit to a report to the foundation every six months on cases opened
+    and how they ended.
+
+    - I can commit to asking the county clerk for court-wide outcome data starting
+    in January, so we have a comparison next year.
+
+    - I cannot promise the county will renew our $60,000 contract in October.
+
+    - I have no figure for what happens to tenants without a lawyer in our county.'
+config:
+  name: with-skill
+  runner: /Users/ben/github/toulmin/evals/toulmin/run-with-skill
+  model: opus
+started: '2026-11-16T21:22:09.164982+00:00'
+duration_seconds: 46.06
+exit_code: 0

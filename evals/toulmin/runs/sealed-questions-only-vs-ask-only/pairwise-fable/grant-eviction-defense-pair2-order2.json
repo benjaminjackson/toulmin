@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "grant-eviction-defense",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-21Z",
+  "without_skill_run": "2026-11-16T21-19-49Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B gives me more to score against a rubric: the urgency of the June departure and the five-month hiring lag, six-month reporting, and a candid admission that there is no baseline for unrepresented tenants, with a plan to get one. It wins only narrowly because the unfilled \"[County]\" placeholders look unfinished, its claim that capacity \"will fall by half\" without the grant goes beyond the facts, and A is the one that discloses the county contract risk."
+}

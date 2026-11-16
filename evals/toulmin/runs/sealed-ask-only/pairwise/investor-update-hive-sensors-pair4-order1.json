@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-22-24Z",
+  "without_skill_run": "2026-11-16T21-03-47Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me real terms, the $250K already committed, a concrete spending cut and runway, and it doesn't overpromise profit, which speaks to my worry about slow sales. B is full of unfilled placeholders, has no terms, and makes a profitability claim with no figures behind it. A does give the wrong reply deadline (Dec 15 instead of Dec 1), but it is still far more credible and actionable."
+}

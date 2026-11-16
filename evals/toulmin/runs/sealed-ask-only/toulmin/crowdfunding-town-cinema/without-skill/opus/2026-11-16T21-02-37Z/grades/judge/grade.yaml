@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:03:12.091594+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 298
+  tags: []
+  notes: extracted 298 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 7
+    qualification: 3
+    objections: 6
+    fit: 7
+  details:
+    agree: The frank account of the refunded campaign and the bank match would move
+      this reader, but the pitch leaves out the $11,000 already pledged, the Thanksgiving
+      reopening and the quarterly spending reports, all of which would have done more
+      to win over someone who just gave elsewhere and has been let down before.
+    honest: The numbers are accurate (85/120 is about 30% less), but 'no movies at
+      all' for many families goes further than the facts support, and leaving out
+      that the roof estimate could rise up to 15% hides a known risk.
+    works_the_facts: It works out the 76-mile round trip and the 30% cut, but it misses
+      that the $11,000 in written business pledges brings the public's share down
+      to $49,000, which is the most encouraging true figure it could have given.
+    right_comparison: It describes the alternative fairly as a dark screen and a 38-mile
+      drive, and it compares this campaign with the last one honestly, though it says
+      nothing about what happens to the building if this campaign fails.
+    qualification: The all-or-nothing refund promise is left as a bracketed, tentative
+      line with no amount or date attached to it, and the possible 15% rise in the
+      roof cost is never stated.
+    objections: It meets the 'last time ended in refunds' objection directly, but
+      it doesn't answer a donor with stretched finances who has just given to the
+      ambulance fund, and it doesn't say when the cinema would reopen or how the money
+      will be accounted for.
+    fit: It is an appropriately short crowdfunding pitch under 350 words, but the
+      unfilled placeholders for the cinema, bank and chair's name mean it isn't ready
+      to publish.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-43Z",
+  "without_skill_run": "2026-11-16T21-20-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is plain and internally consistent, and it is candid that the $13,000 general-budget share relies on a county contract up for renewal. B contradicts itself on whether the grant replaces the departing attorney or adds a third, and it overclaims ('without a gap', 'does not depend on our county contract'), which a judge would catch and hold against it."
+}

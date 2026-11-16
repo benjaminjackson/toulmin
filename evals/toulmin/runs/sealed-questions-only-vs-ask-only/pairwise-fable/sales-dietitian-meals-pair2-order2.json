@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "sales-dietitian-meals",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-36-25Z",
+  "without_skill_run": "2026-11-16T21-22-34Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone wary of health promises, B earns more of my trust: it admits the 14 people chose to share, that it isn't a study and that medication changes weren't tracked, then promises only what it can control (dietitian-planned meals at or under 45 g of carbs). A is honest too, but it leaves out the medication gap and words the 0.6-point drop as if it applied to the ten who improved, which reads slightly more like a pitch."
+}

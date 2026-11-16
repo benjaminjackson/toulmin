@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T21:39:10.814477+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 430
+  tags: []
+  notes: extracted 430 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 4
+    objections: 6
+    fit: 8
+  details:
+    agree: The low-risk $59 trial, the call with the dietitian, no contract and the
+      honest mixed A1C results make a wary reader willing to try one week, but nothing
+      speaks to why this time would last when other services didn't.
+    honest: The page drops the 'will lower your A1C' claim and reports the mixed results,
+      but it applies the 0.6 average to the 10 who improved (the brief doesn't say
+      which group it covers), leaves out that medication changes weren't tracked,
+      and calls 10 lunches and dinners 'a week off from carb counting'.
+    works_the_facts: It works out $12.90 per meal, but it doesn't give the trial's
+      $5.90 per meal or turn 37 of 88 into a 42% six-month retention rate, which is
+      the figure a serial quitter most needs to see.
+    right_comparison: The only alternative described is counting carbs yourself, and
+      the page doesn't compare the service with the apps and delivery services this
+      reader has already tried and dropped.
+    qualification: 'The hedges are general (''can''t promise'', ''results vary''),
+      with no checkable condition, and they skip the real caveats: 14 customers chose
+      to share results, out of 88, and medication changes weren''t tracked.'
+    objections: No contract, meal swaps, the call before starting and the six-month
+      retention figure partly answer 'I'll quit again', but the page never addresses
+      that objection head-on, and the 4-week repeating menu may raise a worry about
+      boredom that it doesn't answer.
+    fit: It's a clear sales page close to the requested 400 words, with a call to
+      action at the top and bottom that points to the trial order.

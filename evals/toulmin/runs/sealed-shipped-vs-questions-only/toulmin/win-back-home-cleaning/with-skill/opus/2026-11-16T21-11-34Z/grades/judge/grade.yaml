@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:12:31.986553+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 165
+  tags: []
+  notes: extracted 165 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 4
+    honest: 9
+    works_the_facts: 4
+    right_comparison: 7
+    qualification: 7
+    objections: 5
+    fit: 8
+  details:
+    agree: A reader who left over price and is happy with the savings might try the
+      $99 visit, but nothing makes the ongoing $25 extra a visit feel worth it, and
+      the email never says 'no contract, cancel any time', which would have made the
+      trial an easy yes.
+    honest: Every figure matches the brief, and the email promises a regular cleaner
+      and a named backup for sick days and holidays instead of the false 'same cleaner
+      every single time'.
+    works_the_facts: 'The email repeats the raw figures but derives almost nothing
+      from them: it never notes that $99 is $41 under the app price, never turns 7
+      of 18 versus 1 of 18 into a clear turnover rate, and never frames the $25 gap
+      in a more favourable way.'
+    right_comparison: It compares the app services fairly on price ($140) and on uninsured
+      contractors, and shows the drop in cleaner turnover since July, though it doesn't
+      say what an uninsured visit could cost the customer.
+    qualification: The offer has a checkable end date (December 31), and the backup
+      is tied to named cases (sick days and holidays), so the limit on the cleaner
+      promise is concrete and honest.
+    objections: It explains why the price is higher, but it doesn't spell out what
+      insurance protects the customer from, and it leaves out the no-contract commitment
+      that would answer this reader's fear of losing the savings.
+    fit: It's a plain email of about 170 words, close to the 150 asked for, and it
+      makes the regular-cleaner promise as strongly as the facts allow, with clear
+      booking steps.

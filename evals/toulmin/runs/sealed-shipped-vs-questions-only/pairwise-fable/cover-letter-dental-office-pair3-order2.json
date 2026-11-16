@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "cover-letter-dental-office",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-03-18Z",
+  "without_skill_run": "2026-11-16T21-33-52Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters are honest and cover the Dentrix gap equally well, but B tells me she has kept church books in QuickBooks for the last four years, which speaks directly to my doubt about seven years away. A's named reference is useful, but its mention of leaving on two weeks' notice lands awkwardly given how my last manager left."
+}

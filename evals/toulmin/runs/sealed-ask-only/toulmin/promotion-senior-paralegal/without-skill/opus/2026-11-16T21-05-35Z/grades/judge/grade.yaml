@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T21:06:02.577943+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 252
+  tags: []
+  notes: extracted 252 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 5
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 2
+    qualification: 2
+    objections: 5
+    fit: 7
+  details:
+    agree: The partner gets a clear, competent case and an open account of the March
+      error, but nothing shows the fix has worked or what she would commit to as a
+      supervisor, so a doubtful reader has little reason to approve now rather than
+      wait.
+    honest: Every figure matches the brief, but 'I'm already doing much of that work'
+      turns training three new hires into supervision, which claims more than the
+      facts support.
+    works_the_facts: It works out that she billed 90 hours over target, but it leaves
+      out the strongest available number (no wrong or missed deadlines in about 600
+      entries since April) and never shows the size of the case and trial load.
+    right_comparison: It never compares what the group gets if she is promoted against
+      keeping things as they are, or against someone else doing the supervising and
+      owning the deadline sheet.
+    qualification: A reader with doubts about her reliability needs checkable commitments,
+      such as certification by June or weekly check-ins, but the letter offers no
+      dated or measurable commitment at all.
+    objections: It raises the March error directly and owns it, but it answers with
+      the process change alone and gives no evidence that the change has worked, so
+      the partner's concern is only partly answered.
+    fit: It is a well-organized letter well under 400 words, but it leaves name placeholders
+      and asks to 'discuss' instead of requesting the in-person meeting before the
+      December 15 deadline.

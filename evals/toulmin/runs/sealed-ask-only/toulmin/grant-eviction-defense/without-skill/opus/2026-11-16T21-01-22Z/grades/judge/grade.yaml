@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T21:02:06.917897+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 267
+  tags: []
+  notes: extracted 267 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 4
+    honest: 5
+    works_the_facts: 5
+    right_comparison: 3
+    qualification: 3
+    objections: 3
+    fit: 5
+  details:
+    agree: A judge reading this in ten minutes sees a clear request but trips over
+      unfilled brackets for the clinic, the county, the matching funds and the reporting
+      schedule, and never learns that one of the two current attorneys leaves in June,
+      so the case for funding feels unfinished.
+    honest: Most figures match the brief, but the '[80] additional tenants' estimate
+      is not in the brief, and the claim that 60 days lets families move 'on their
+      own terms rather than under the pressure of an immediate lockout' goes beyond
+      the facts, since there is no figure for unrepresented tenants.
+    works_the_facts: Working out the 14% representation rate and the $33,000 annual
+      gap is useful, but the draft never sets the roughly 300 turned-away tenants
+      against one attorney's capacity of about 80 cases, and never says what happens
+      to capacity after June if nothing changes.
+    right_comparison: The real alternative is a one-attorney clinic after June, with
+      a five-month hiring lag, and the draft leaves that out; it also offers the 58%
+      outcome rate with no comparison and doesn't admit that none exists.
+    qualification: The October county renewal and the source of the matching funds
+      are left as brackets instead of being stated as checkable conditions, and the
+      draft drops the commitments to six-month reports and to requesting clerk outcome
+      data in January.
+    objections: A skeptical reviewer will ask whether the gap is really funded, whether
+      the 58% means anything without a baseline, and whether the hire can be made
+      in time; the $20,000 family-fund pledge and the departing attorney's training
+      month answer the first and third questions, and neither appears in the draft.
+    fit: It is under 300 words with clear section headings, but the many unfilled
+      placeholders mean it can't be submitted as written.

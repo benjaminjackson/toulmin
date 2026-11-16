@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T21:23:38.958282+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 154
+  tags: []
+  notes: extracted 154 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 4
+    honest: 8
+    works_the_facts: 3
+    right_comparison: 5
+    qualification: 7
+    objections: 5
+    fit: 8
+  details:
+    agree: This reader has no complaint and is enjoying the savings, so the $99 trial
+      may get a look, but nothing makes the $25-a-visit gap worth paying for over
+      time, and "you were right about the second" speaks to a complaint they never
+      had.
+    honest: It doesn't overpromise the same cleaner every time, and the claims about
+      price and insurance match the facts, though "we've fixed it" is a little strong
+      for a change that only started in July.
+    works_the_facts: It leaves out the strongest proof, that only 1 of 18 cleaners
+      has left since July compared with 7 the year before, and it never puts the price
+      gap in useful terms, such as $99 being $41 below an app visit or what $25 a
+      visit adds up to.
+    right_comparison: It compares $165 with $140 and employees with contractors, but
+      it never says what an uninsured visit means for the reader if something breaks
+      or someone is hurt, and it doesn't mention that cleaner turnover has fallen.
+    qualification: The offer has a clear end date of December 31 and states the $165
+      price afterwards, and the backup cleaner is tied to specific cases, sick days
+      and holidays, that the reader can check.
+    objections: It deals with price openly and gives a reason, but the reason is abstract
+      and never explains why insurance or employed cleaners matter to this reader,
+      so "I'm happy saving $25" goes mostly unanswered.
+    fit: It's a short win-back email of about 165 words with a subject line, an offer
+      and a clear call to action, which is close to the 150 words asked for.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-39Z",
+  "without_skill_run": "2026-11-16T21-07-00Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B answers my March concern directly with evidence: about 600 deadlines entered since April with no errors. It also admits she can't promise she'll never make another mistake and commits to weekly check-ins and certification, so I'm more confident giving her supervisory duties. A mentions the error but gives no proof that the fix worked, and it has no specific commitments or timing."
+}

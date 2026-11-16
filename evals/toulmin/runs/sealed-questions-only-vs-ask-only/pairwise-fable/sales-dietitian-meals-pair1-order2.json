@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-32Z",
+  "without_skill_run": "2026-11-16T21-21-43Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a wary serial quitter, B wins my trust: it gives the 0.6 average, admits the group is small and that medication wasn't tracked, and adds the 15-minute call with the dietitian and the 4-week menu rotation, which speak to why I quit before. A is honest too but leaves out those specifics and feels more like a standard pitch."
+}

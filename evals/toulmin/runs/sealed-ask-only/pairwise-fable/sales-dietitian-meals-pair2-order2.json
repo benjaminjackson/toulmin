@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "sales-dietitian-meals",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-22-34Z",
+  "without_skill_run": "2026-11-16T21-09-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is a finished page with a real name, delivery area, order deadline, meal swaps, no-contract/skip/cancel terms and a call with the dietitian, which answer the reasons I quit past services; A has unfilled placeholders and fewer specifics, though both are honest about the A1C numbers."
+}

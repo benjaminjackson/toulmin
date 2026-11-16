@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "promotion-senior-paralegal",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-20-13Z",
+  "without_skill_run": "2026-11-16T21-06-30Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both own the March error honestly, but A concedes outright that the filing \"was too close\" and explains what the second-person check actually does, which speaks to my concern more directly than B's \"I took that seriously\" and its claim that the mistake is part of the case for promotion. A also gives me a concrete next step (30 minutes before December 15, January cycle), though its aside about whether a position is open is a little off-topic."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-office-days",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-35-44Z",
+  "without_skill_run": "2026-11-16T21-22-08Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A gives remote staff more of the practical facts they'd weigh up before deciding whether to stay: desks arriving in August, Monday and Friday staying remote, and the evidence that 5 of 6 project leads already come in. B explains more warmly why juniors fall behind, but it leaves out the desk situation."
+}

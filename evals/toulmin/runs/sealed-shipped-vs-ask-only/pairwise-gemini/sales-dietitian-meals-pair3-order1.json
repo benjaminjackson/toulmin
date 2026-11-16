@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-10-17Z",
+  "without_skill_run": "2026-11-16T21-23-20Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A hits on the exact reason I quit other apps and meal plans right in the first sentence—the exhausting daily grind of cooking—whereas Document B invents details about the 15-minute phone call that aren't in the facts. Document A also clearly reassures me that the call happens *before* my first delivery and doesn't push an order button on me before I've even read how the service works."
+}

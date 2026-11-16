@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-28Z",
+  "without_skill_run": "2026-11-16T21-33-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B puts the ask and the July 1 contract up front, gives a concrete figure (3,100 prescriptions at one store), and admits that the PBM sets the rates while pointing out that the plan sets the contract terms. That speaks to how I actually think about this. Both letters stay honest and drop the 'a third will close' claim, and A is nearly as strong, so the gap is small."
+}

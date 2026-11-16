@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-28Z",
+  "without_skill_run": "2026-11-16T21-09-11Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B concedes our staff's stock numbers outright, makes one concrete ask (three fish or a shorter season), and offers something we rarely get from charter captains: trip logs and a catch-reporting pilot. A's ask is diffuse and its \"saves comparatively few fish\" line pushes against our staff's recommendation without support."
+}

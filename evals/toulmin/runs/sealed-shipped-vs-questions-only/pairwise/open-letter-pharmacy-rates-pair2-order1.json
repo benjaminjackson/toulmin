@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-05-28Z",
+  "without_skill_run": "2026-11-16T21-33-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters stay honest and answer my belief that members have plenty of chains by giving the 20-mile distance. A also says the plan sets the PBM contract terms, which stops me from passing the blame, and gives Reilly's own 3,100-prescription count. B's 38-pharmacy list adds weight, but its unfilled placeholders make it read as unfinished."
+}

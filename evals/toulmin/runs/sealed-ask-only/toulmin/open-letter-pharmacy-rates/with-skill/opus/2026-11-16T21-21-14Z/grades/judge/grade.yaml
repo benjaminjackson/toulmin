@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T21:22:10.797911+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 431
+  tags: []
+  notes: extracted 431 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 4
+    right_comparison: 8
+    qualification: 7
+    objections: 8
+    fit: 9
+  details:
+    agree: The offer to share invoices and the 20-mile chain gap answer both of her
+      doubts with things she can check, so a skeptical director may well take the
+      meeting, though nothing shows her what the losses add up to.
+    honest: It drops the unsupported claim that a third will close, refuses to tie
+      the nine closures to rates, and adds no facts; calling 22% "one in five" understates
+      a little.
+    works_the_facts: 'Every figure is quoted raw: it never multiplies $1.80 by Reilly
+      Drug''s 3,100 prescriptions to show about $5,580 a year lost at one store, and
+      it turns 22% into a smaller-sounding "one in five."'
+    right_comparison: It describes the alternative accurately (a drive of more than
+      20 miles to a chain, or mail order, in 14 counties) and adds the two pharmacies
+      that say they will stop filling, though it gives no trend beyond the nine closures.
+    qualification: The hedge on the closures is honest, and the ask is tied to checkable
+      dates (May 1 meeting, July 1 renewal) and a stated consequence (two pharmacies
+      stop filling), though the consequence has no date attached.
+    objections: Her "they complain every year" view is met by the offer to open the
+      invoices, and her "plenty of chains" view by the 14 counties where the nearest
+      chain is more than 20 miles away; it raises no objection the facts already answer.
+    fit: It is a signed open letter of about one page, suited both to the plan and
+      to newspaper readers.

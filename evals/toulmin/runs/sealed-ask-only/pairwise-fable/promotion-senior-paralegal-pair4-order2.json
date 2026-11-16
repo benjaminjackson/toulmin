@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "promotion-senior-paralegal",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-20-58Z",
+  "without_skill_run": "2026-11-16T21-07-00Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both disclose the March error and the fix, but A plainly concedes \"That was too close,\" which is the acknowledgement I'd be looking for, while B files my main concern under \"Managing risk\" as a credential, which reads as spin. B's concrete description of the check and the January timing are better, so the gap is small."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-37-07Z",
+  "without_skill_run": "2026-11-16T21-23-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B is frank that Priya has no publication and spells out what the thesis needs before it could be published, which makes the praise more believable to a reader who distrusts small-college letters. A adds claims the facts don't support ('designed the study', 'never missed her sampling schedule', 'without hesitation'). B's '[Surname]' placeholder is a small flaw that keeps the gap narrow."
+}

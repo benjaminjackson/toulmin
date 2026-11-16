@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-08-56Z",
+  "without_skill_run": "2026-11-16T21-22-08Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A includes practical details we immediately care about, like whether there are actually enough desks in the studio and that project leads are already in three days a week. Both documents make an error on the grace period timeline—giving the four distant staff only four months instead of until the end of next year—which will cause pushback at Friday's meeting."
+}

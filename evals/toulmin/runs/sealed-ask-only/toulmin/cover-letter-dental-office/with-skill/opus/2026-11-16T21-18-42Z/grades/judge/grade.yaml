@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T21:19:25.243486+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 239
+  tags: []
+  notes: extracted 239 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 4
+    right_comparison: 3
+    qualification: 5
+    objections: 6
+    fit: 7
+  details:
+    agree: 'The letter is clear and handles the gap and the Dentrix question openly,
+      but it leaves out the two things this owner needs most after a manager left
+      on two weeks'' notice: she can start within two weeks, and she has kept her
+      bookkeeping current as church treasurer.'
+    honest: Nothing in it is invented, but saying she "led" the move to software and
+      "converted files, set up routines, helped the whole team" goes further than
+      the brief's "handled."
+    works_the_facts: It gives the $38,000-to-$9,000 drop as raw numbers and never
+      states the stronger form, a cut of more than three-quarters, and it never notes
+      that she ran a larger staff (14) than the 9 people she would supervise here.
+    right_comparison: It never sets her against the owner's real alternative, which
+      is a seat left empty longer or a hire who needs ramp-up time, so her fast start
+      and transferable scale aren't framed as advantages.
+    qualification: The Dentrix commitment names the course and its 20 hours and ties
+      completion to her first day, but there is no date and no start-date commitment
+      that the owner could check it against.
+    objections: It answers the gap and the software mismatch directly, but leaves
+      open whether her skills are stale (her four years of QuickBooks would answer
+      that), whether she will be reliable (her reference from Dr. Kim), and whether
+      she can cover the practice's evening hours.
+    fit: It is a proper cover letter of about 260 words, under the limit, though it
+      signs off with a placeholder instead of Linda Marsh's name.

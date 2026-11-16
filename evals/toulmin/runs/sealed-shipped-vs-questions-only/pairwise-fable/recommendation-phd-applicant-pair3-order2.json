@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "recommendation-phd-applicant",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-09-36Z",
+  "without_skill_run": "2026-11-16T21-37-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Letter A leaves a \"[Surname]\" placeholder in the first line, which reads as a form letter and feeds my suspicion of small-college praise. Letter B names her, turns the fieldwork into a concrete rate (a trip every five days), and states the study's limits precisely without overclaiming, so I trust it more."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "crowdfunding-town-cinema",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-19-47Z",
+  "without_skill_run": "2026-11-16T21-02-01Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B tells me outright that my pledge comes back in full if the goal isn't met, names the Majestic, gives a Thanksgiving reopening and is signed by a real person; A has placeholder names, no refund promise, and wrongly says $60,000 is half of last time's ask."
+}

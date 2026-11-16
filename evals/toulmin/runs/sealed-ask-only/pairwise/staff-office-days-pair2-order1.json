@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-office-days",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-23-08Z",
+  "without_skill_run": "2026-11-16T21-09-49Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives remote staff concrete things to hold onto: the $150 commuting support, a staff review after six months, a named partner to talk to, and a plain statement that there are no other exceptions. B leaves out the stipend and the review, ends with placeholder names, and offers the other 11 remote hires one-to-one talks, which suggests there is room to negotiate when there isn't."
+}

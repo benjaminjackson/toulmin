@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-22-34Z",
+  "without_skill_run": "2026-11-16T21-09-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks to someone who has quit things before. It says there's no contract, you can skip or cancel any time, you can swap meals, and you can have a free 15-minute call with the dietitian. It also uses the real name, delivery area and order deadline, so it feels concrete. A has unfilled placeholders and leaves out the details about leaving the plan and having a choice of meals, which matter most to me."
+}

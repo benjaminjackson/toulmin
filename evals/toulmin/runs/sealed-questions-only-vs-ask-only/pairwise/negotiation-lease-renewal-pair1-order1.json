@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-lease-renewal",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A deals head-on with the late payments I still bring up. It thanks me for waiving the fees, explains the cooler failure and offers automatic transfer on the 1st. It also commits to signing within two weeks and points out that a new tenant would spend $40,000 on a hood. Document B never mentions the late payments, and it pushes its fifth-year figure as if that beats my number, which makes it less persuasive."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-09-03Z",
+  "without_skill_run": "2026-11-16T21-34-24Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both concede the staff's stock numbers and offer the same data and cooperation, but A puts the concrete ask (three fish or a shorter season) up front, repeats it at the close, and notes the alternative still cuts the catch and that the cut runs three years. B's candor about not knowing how many boats would close is credible, but \"it won't be none\" asserts more than the captain knows, the ask comes late, and it leaves an unfilled harbor-name placeholder."
+}

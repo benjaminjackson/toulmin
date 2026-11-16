@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:19:29.621171+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 412
+  tags: []
+  notes: extracted 412 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 7
+    honest: 6
+    works_the_facts: 3
+    right_comparison: 7
+    qualification: 6
+    objections: 7
+    fit: 9
+  details:
+    agree: The 20-mile chain gap and the offer to share invoices and meet before May
+      1 give a skeptical director something concrete to check, though the letter puts
+      no dollar total on the loss, so it still reads somewhat like a routine rate
+      complaint.
+    honest: It correctly drops the 'third will close' claim and hedges the nine closures,
+      but 'losing money every time we do' and 'that loss on one prescription in five'
+      stretch an average shortfall on 20 generics to all plan prescriptions and ignore
+      that some of the loss is made up on brand-name drugs.
+    works_the_facts: 'It derives no figures from the brief: it never uses the 3,100
+      prescriptions Reilly Drug filled, never gives a yearly loss for one pharmacy
+      or for the 38, and never turns the $1.80 into a total the reader could weigh.'
+    right_comparison: 'It describes the status quo as the facts show it: two pharmacies
+      ready to stop filling for plan members, nine closures in two years, and a drive
+      of more than 20 miles or a mail-order wait in 14 counties, though it doesn''t
+      spell out the trend.'
+    qualification: The hedge on the closures is fair and the May 1 and July 1 dates
+      are checkable, but no condition carries a number and a consequence the reader
+      could verify, such as how many members would lose their nearest pharmacy.
+    objections: It meets the 'plenty of chains' belief with the 14 counties and the
+      20-mile gap, and the invoice offer answers 'you complain every year', but it
+      leaves the obvious brand-drug offset objection unaddressed.
+    fit: It is a one-page open letter, signed and addressed correctly, and works both
+      for the plan and for newspaper readers.

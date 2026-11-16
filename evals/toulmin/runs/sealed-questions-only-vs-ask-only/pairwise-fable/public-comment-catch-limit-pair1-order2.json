@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B accepts our staff's numbers, asks for the alternative up front, and gives us something new beyond the usual captain's hardship story: two other captains who say they'd sell, plus concrete offers of trip logs and a catch-reporting pilot. A is honest and well argued but has placeholders for name and harbor and offers nothing in return, and its 'keep 4 with a shorter season' and 'either one still protects the stock' assert more than the speaker can back."
+}

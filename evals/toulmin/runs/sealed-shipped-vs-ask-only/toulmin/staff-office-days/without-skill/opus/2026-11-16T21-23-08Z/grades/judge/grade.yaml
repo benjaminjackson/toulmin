@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:23:55.863950+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 447
+  tags: []
+  notes: extracted 447 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 4
+    objections: 6
+    fit: 8
+  details:
+    agree: The candid acknowledgment of the remote hires' broken arrangement and the
+      partners matching the three days will persuade many, but a resistant remote
+      hire gets little beyond $150 and a vague 'come talk to me', so some will still
+      push back or leave.
+    honest: The figures and commitments match the brief, but the writer asserts as
+      fact that slower junior progression 'isn't down to their talent' and comes from
+      less time near experienced people, which the review records don't establish.
+    works_the_facts: 'The numbers are repeated rather than worked: there is nothing
+      on what 30% longer means in months, the fact that 5 of 6 project leads already
+      come in three days is left out, and the September-to-December window for the
+      four isn''t spelled out.'
+    right_comparison: Staying remote is shown only through two past lost bids and
+      slower development, with no picture of where that trend leads if nothing changes.
+    qualification: The six-month review has no date (about March 2028), no measures
+      and no stated consequence, so readers can't check it, and 'I don't have a complete
+      answer yet' is open-ended.
+    objections: It meets the 'you hired us as remote' objection directly and covers
+      commute cost, but it leaves out the obvious desk-shortage worry, though new
+      desks arrive in August, and it doesn't say what happens to remote hires who
+      can't comply.
+    fit: It is a well-structured one-page email ahead of Friday, but it leaves out
+      the meeting time and place (10 a.m., main studio) and the option to send questions
+      to HR.

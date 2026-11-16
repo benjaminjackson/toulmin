@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "promotion-senior-paralegal",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-05-35Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B addresses the deadline error I already raised head-on, says it was too close, and gives me evidence the fix works (about 600 entries with no errors since April), plus concrete commitments on supervision and certification and a request to meet. A admits the mistake but offers no proof the safeguard has held, and it leaves my name as a placeholder."
+}

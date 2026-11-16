@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "recommendation-phd-applicant",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-37-07Z",
+  "without_skill_run": "2026-11-16T21-08-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me checkable specifics that cut through my small-college discount: one of the three best students in 17 years, a lab supervisor who would rehire her and left her to run sampling alone, and a candid statement of the study's limits. B is full of unfilled placeholders and generic praise, and it adds details the brief does not support (she designed the sampling scheme, accounted for the storm gap in her analysis, handled poster questions with precision)."
+}

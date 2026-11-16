@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "promotion-senior-paralegal",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-01Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both own the March error and cite the 600 clean entries, and A adds useful commitments (weekly check-ins, certification). But A is unsigned with a \"[Your name]\" placeholder and tells me I \"should also know\" about a mistake I raised myself in her review, which undercuts her on attention to detail; B is finished, candid about the trainee who left, and asks what I'd need to see."
+}

@@ -1,0 +1,52 @@
+grader: judge
+graded: '2026-11-16T21:11:42.322197+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 147
+  tags: []
+  notes: extracted 147 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 3
+    honest: 6
+    works_the_facts: 3
+    right_comparison: 4
+    qualification: 2
+    objections: 4
+    fit: 6
+  details:
+    agree: This reader left over price and is happy with the savings, so a one-time
+      $99 visit followed by an unstated $165 rate gives little reason to switch back.
+    honest: It doesn't overpromise the same cleaner every time, but 'you told us two
+      things' presents a survey trend as every customer's own complaint, which isn't
+      true for this reader.
+    works_the_facts: 'It never states the actual prices or the $25 gap, and it leaves
+      out its strongest proof: only 1 of 18 cleaners has left since July.'
+    right_comparison: It contrasts employees with contractors, but it never says the
+      app services carry no insurance on the visit, and it doesn't show the improving
+      trend in cleaner turnover.
+    qualification: The $99 offer has no December 31 deadline, and the email doesn't
+      say there's no contract, so the reader has nothing concrete to check or act
+      on.
+    objections: It explains why the price is higher but never shows the extra $25
+      is worth paying, and it spends space on cleaner turnover, which this reader
+      never complained about.
+    fit: It's the right form and about the right length, but it leaves placeholders
+      where the names should be and gives no phone number or reply-to-book instruction.

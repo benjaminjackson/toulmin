@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-office-days",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-44Z",
+  "without_skill_run": "2026-11-16T21-22-08Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives the practical details a skeptical remote employee would ask about first: desks arrive before the start date, Monday and Friday stay remote, and the meeting is Friday at 10 a.m. in the main studio. It also strengthens the argument with the fact that 5 of 6 project leads already come in by choice. A is warm and honest but leaves those gaps open."
+}

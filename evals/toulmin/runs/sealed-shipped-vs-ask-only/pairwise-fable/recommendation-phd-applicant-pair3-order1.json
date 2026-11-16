@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "recommendation-phd-applicant",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-09-36Z",
+  "without_skill_run": "2026-11-16T21-23-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A's precise account of the study's limits (single year, two marsh sites, storm gap) and what a second season would add reads as calibrated judgment, which counters my discount for small-college praise. B is persuasive and offers contact, but it adds claims the brief does not support (\"designed the study\", \"never missed her sampling schedule\") and leaves placeholders unfilled."
+}

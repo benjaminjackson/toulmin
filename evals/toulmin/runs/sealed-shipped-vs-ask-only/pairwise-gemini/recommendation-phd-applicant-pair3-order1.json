@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-phd-applicant",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-09-36Z",
+  "without_skill_run": "2026-11-16T21-23-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a faculty member who generally discounts glowing letters from small colleges, I am immediately won over by Document A's explicit and candid paragraph detailing the exact scientific limitations of the thesis and what is needed to make it publishable. Additionally, Document B invents facts not in the brief (such as claiming she designed the study and never missed her sampling schedule), while Document A remains strictly honest to the facts provided."
+}

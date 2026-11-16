@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "win-back-home-cleaning",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-23-39Z",
+  "without_skill_run": "2026-11-16T21-10-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B speaks better to my price reason by spelling out what insurance means for me, but it has unfilled placeholders, wrongly says I complained about cleaners, and gives no deadline or phone number. A is a finished email from a named owner with a concrete way to book by December 31 and proof the fix is holding (1 of 18 cleaners left), though \"nobody you haven't met\" stretches a little."
+}

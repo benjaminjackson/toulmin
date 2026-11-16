@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-37-23Z",
+  "without_skill_run": "2026-11-16T21-09-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "I've quit two apps and a meal service, so B speaks to my worries: no contract, skip or cancel any time, meal swaps, and a clear delivery area and ordering deadline. A leaves those out and even has an unfilled \"[day/time]\" placeholder. Both report the A1C results honestly and with caveats, so B's practical reassurances are what would get me to start the trial."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-dental-office",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is addressed to me by name. It shows the gap was spent on real work: insurance claims, coordinating six specialists, and four years of QuickBooks bookkeeping. It also deals with Dentrix by naming a specific course she will finish before day one, and it gives a start date and a named reference. A still has blank placeholders and only says she is 'ready to start learning' Dentrix, so it reads like a template."
+}

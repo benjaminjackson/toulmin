@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-24Z",
+  "without_skill_run": "2026-11-16T21-20-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me something B does not: trip logs from 2016 on and a catch-reporting app trial with our staff, plus a candid admission that the captain cannot say how many boats would close. B makes the same case but offers nothing in return, leaves the speaker's name blank, and claims this cut is \"bigger\" than 2016's, which the facts do not establish."
+}

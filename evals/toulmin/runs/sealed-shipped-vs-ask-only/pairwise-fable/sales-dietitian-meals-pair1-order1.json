@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-07-57Z",
+  "without_skill_run": "2026-11-16T21-21-43Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "As someone burned by health promises, A earns more trust: it plainly says 14 people is a small group and that medication changes weren't tracked, and it offers a 15-minute call with the dietitian before I pay. B is clean, but it leaves out the call and softens the caveats, and it adds a \"no template or algorithm\" claim that isn't in the brief."
+}

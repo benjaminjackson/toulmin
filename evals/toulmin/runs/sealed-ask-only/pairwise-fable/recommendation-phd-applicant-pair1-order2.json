@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "recommendation-phd-applicant",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-21-36Z",
+  "without_skill_run": "2026-11-16T21-07-30Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is a finished letter that gives me calibrating specifics I can weigh from an unknown college: one of the three best students in 17 years, ran the state lab's water sampling alone, the supervisor would rehire her, and a candid \"publishable with a second season\" judgment. A is a template full of unfilled brackets with generic praise and no ranking, which reads like exactly the kind of small-college letter I discount."
+}

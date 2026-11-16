@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T21:04:12.292777+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 249
+  tags: []
+  notes: extracted 249 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 4
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 3
+    qualification: 2
+    objections: 3
+    fit: 5
+  details:
+    agree: The need case is clear and quick to score, but unfilled brackets for the
+      $33,000 source, the county renewal and the June replacement leave a skeptical
+      judge with nothing to trust on whether the position can be funded at all.
+    honest: The figures follow the brief, and the estimate of about 80 more tenants
+      a year fits 163 cases split between two attorneys, but placeholders like 'October
+      2027' and 'We will fill that position with [source]' suggest commitments the
+      brief doesn't support.
+    works_the_facts: It works out the one-in-seven share and that the new attorney
+      would cover about a quarter of turned-away tenants, but it doesn't show that
+      without action the clinic drops to one attorney in June, or that the foundation
+      would fund 58% of the position's cost.
+    right_comparison: It never says what happens without the grant, such as the drop
+      to one attorney after June or 300+ tenants still turned away, and it doesn't
+      admit that there is no figure for unrepresented tenants to compare against the
+      58%.
+    qualification: The one real uncertainty, the October county renewal, is left as
+      a fill-in blank instead of a stated condition with a consequence, and nothing
+      commits to six-month reports or to collecting comparison data in January.
+    objections: It does see that funding the gap and replacing the departing attorney
+      are the likely objections, but it answers them with blanks even though the facts
+      were available (the $20,000 family-fund pledge, the training handover), and
+      it never deals with the 58% having no baseline.
+    fit: It fits the length limit and uses sensible headings, but the many bracketed
+      placeholders and 'Optional' notes mean it can't be submitted as written.

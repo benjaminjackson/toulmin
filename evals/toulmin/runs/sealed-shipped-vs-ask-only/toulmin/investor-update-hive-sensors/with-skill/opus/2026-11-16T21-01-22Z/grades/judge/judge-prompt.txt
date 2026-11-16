@@ -1,0 +1,86 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+A partner at a small seed fund that owns 8% of the company and is deciding whether to put money into a $600,000 bridge round. The partner has read the last three updates and thinks the company is selling too slowly.
+</reader>
+
+<brief>
+Please help me write our investor update for the half year. We make sensors that sit inside beehives and tell commercial beekeepers when a colony is weak, so they can treat it before it dies. We're raising a $600,000 bridge round and I want our current investors in it.
+
+Where we are:
+- We have 31 paying beekeepers. A year ago we had 12.
+- Each sensor costs us $38 to make and we sell it for $55, plus $4 a month per hive for the app.
+- Revenue for the last six months was $212,000. 70% of it came in March and April, before pollination season.
+- Our biggest customer runs 4,000 hives and lost 18% of his colonies over the winter, against 31% the winter before. He says the sensors were part of it, but he also changed his mite treatment.
+- We spend about $95,000 a month and have $340,000 left.
+- A large farm equipment company launched a similar sensor in May at $45.
+
+I want the update to say we'll be profitable next year. Keep it under 600 words.
+</brief>
+
+The user also knew the following and gave some of it to the writer when asked:
+<user_knows>
+- The company is HiveSense. The bridge is a convertible note with a 20% discount and a $6 million cap. It closes December 15.
+- One angel has already committed $250,000 of the bridge.
+- The equipment company's sensor measures only temperature. Ours also measures sound and hive weight.
+- Three of our beekeepers have asked to test the equipment company's sensor.
+- I can commit to a monthly cash report to everyone who puts money into the bridge.
+- I can commit to bringing spending down to $75,000 a month by February by not filling two open roles.
+- I cannot promise profit next year. If that is pointed out, I accept a claim the numbers support instead.
+- Investors who want in should reply to me by December 1.
+</user_knows>
+
+<document>
+Subject: Half-year update and our $600,000 bridge round
+
+Hi all,
+
+This is where we stand after the last six months, and what we're asking of you.
+
+**The short version**
+
+We're raising a $600,000 bridge round on a convertible note with a 20% discount and a $6M cap. One angel has already committed $250,000, and we'd like the remaining $350,000 to come from you. If you want in, please reply to me by December 1. The round closes December 15.
+
+**What's working**
+
+- 31 commercial beekeepers now pay us, up from 12 a year ago.
+- We make money on every sensor. Each one costs $38 to make and sells for $55. Each hive also pays $4 a month for the app.
+- Revenue for the last six months was $212,000.
+- Our largest customer runs 4,000 hives. He lost 18% of his colonies last winter, down from 31% the winter before. He says the sensors were part of that. He also changed his mite treatment, so we can't claim the whole drop. But it's the result our customers buy us for.
+
+**What's hard**
+
+- We spend about $95,000 a month, well more than we bring in, and we have $340,000 in the bank.
+- Our revenue is seasonal. 70% of the last six months' revenue came in March and April, before pollination season. For most of the year we spend more than we earn.
+- In May a large farm equipment company launched a competing sensor at $45. Theirs measures only temperature. Ours also measures sound and hive weight. We don't know of any deals lost to them, but three of our beekeepers have asked to test their sensor.
+
+**What we're doing about it**
+
+We will bring spending down to $75,000 a month by February by not filling two open roles.
+
+I'm not going to promise you profitability next year. I don't yet have numbers solid enough to stand behind that. After the 2027 spring season, I'll send you a report on how many hives we're covering, what we sold and what that means for when we break even.
+
+**Why the bridge, and why now**
+
+Without it, our cash runs out around March, even after the spending cut and before counting any revenue. March is when the season that brings in most of our sales begins.
+
+With the bridge we'd have about $940,000. At the lower spending level, that carries us through the 2027 season and into late 2027 before counting any revenue. That gives us a full selling season to show that beekeepers choose us over a cheaper rival, and to give you real numbers on the path to break-even.
+
+You've backed us from 12 beekeepers to 31. I'd like you with us for the next season. If you have questions before you decide, reply or call me.
+
+Thank you,
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

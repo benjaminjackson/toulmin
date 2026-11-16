@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "sales-dietitian-meals",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-09-05Z",
+  "without_skill_run": "2026-11-16T21-36-25Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B says upfront that it won't promise my A1C will drop, which makes me trust the rest. It also speaks to why I quit before: getting bored of the food, being locked in, and it tells me there's nothing to cancel after the trial. A is honest too, but it reads more like a standard sales page with bolded results and fine-print disclaimers."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-dental-office",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-04-10Z",
+  "without_skill_run": "2026-11-16T21-34-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B links the clinic's size and the paper-to-software move to what my practice needs, and it presents the seven years as time that kept her billing and scheduling skills in use. A's mention of leaving with two weeks' notice touches the exact problem I'm dealing with, although A's recent QuickBooks work does help with my worry about the gap."
+}

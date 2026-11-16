@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-08-01Z",
+  "without_skill_run": "2026-11-16T21-20-58Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A owns the March mistake directly and backs up the fix with evidence: about 600 entries with no wrong deadlines since April. It also adds concrete commitments (weekly check-ins, the certification) and is addressed to me by name. B treats the error as a 'managing risk' credential, claims every group using the sheet has the check (which the brief doesn't support), and still has unfilled placeholders."
+}

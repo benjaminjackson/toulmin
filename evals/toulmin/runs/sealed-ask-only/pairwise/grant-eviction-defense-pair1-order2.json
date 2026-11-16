@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B names the clinic and shows the whole $156,000 cost covered by the grant, a pledged family fund and the clinic's own budget, so I can score it as a complete, funded plan. A leaves key gaps, including the source of the remaining $33,000, the county contract's status and how the position continues after year two, and it is full of brackets that read like an unfinished draft."
+}

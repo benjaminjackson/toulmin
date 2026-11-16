@@ -1,0 +1,46 @@
+task:
+  name: recommendation-phd-applicant
+  type: recommendation-letter
+  set: sealed
+  reader: A faculty member on the PhD admissions committee in marine ecology at a large research university, who reads about 200 files. The member has never heard of the writer's small college and discounts letters from small colleges because they praise everyone.
+  prompt: 'Help me write a recommendation letter. I teach biology at a small liberal arts college, and one of my students, Priya, is applying to PhD programs in marine ecology.
+
+
+    Facts:
+
+    - I''ve taught for 17 years and supervised about 30 senior theses.
+
+    - Priya took 3 courses with me and had the top grade in my class of 28 in two of them.
+
+    - Her senior thesis compared oyster growth at 6 sites in our bay over 14 months. She did the fieldwork herself, about 90 trips by kayak.
+
+    - She found faster growth at the 2 sites near the salt marsh. She hasn''t repeated the study, and one of the 6 sites lost its data for 3 months after a storm.
+
+    - She presented the work as a poster at a regional conference.
+
+    - She spent last summer as a paid field assistant at a state shellfish lab.
+
+
+    I want the letter to say her thesis findings are ready to publish in a top journal. One page.'
+  user_knows: '- I''m Dr. Anne Caldwell at Westbrook College. Her full name is Priya Nair. Most of her applications are due December 1.
+
+    - In 17 years I''ve written about 40 letters and told 2 students I could not write a strong one.
+
+    - She is one of the 3 best students I''ve taught.
+
+    - The shellfish lab supervisor told me he''d hire her again. She ran the lab''s water sampling alone for two weeks.
+
+    - She has no publications.
+
+    - I can commit to answering any committee member''s email or phone call.
+
+    - I can commit to sending her thesis to anyone on the committee who asks.
+
+    - I cannot say the findings are ready to publish without the study being repeated. If that is pointed out, I accept a claim the facts support instead.'
+config:
+  name: without-skill
+  runner: /Users/ben/github/toulmin/evals/toulmin/run-with-skill
+  model: opus
+started: '2026-11-16T21:24:08.479831+00:00'
+duration_seconds: 29.42
+exit_code: 0

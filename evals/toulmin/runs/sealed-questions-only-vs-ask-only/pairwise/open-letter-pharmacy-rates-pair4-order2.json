@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-21Z",
+  "without_skill_run": "2026-11-16T21-21-14Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "As a skeptical director, I'd notice that B goes beyond the facts in places: it says each prescription loses money when $1.80 is an average, says none of the pharmacies can make up the loss on brand-name drugs, and implies a fifth of their orders are filled below cost. A states the same facts plainly, including the 20-mile distance to a chain store that answers my point about access, so I'd find it more credible and more likely to act on."
+}

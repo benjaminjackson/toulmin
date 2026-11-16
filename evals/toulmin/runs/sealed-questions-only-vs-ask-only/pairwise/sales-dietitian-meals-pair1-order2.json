@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-32Z",
+  "without_skill_run": "2026-11-16T21-21-43Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B offers a 15-minute call with the dietitian and admits that medication changes weren't tracked, and as someone who has quit three times, that candor and personal contact make me more willing to risk $59. Document A is honest too, but it is more generic and leaves out both of those points."
+}

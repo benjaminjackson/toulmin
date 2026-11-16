@@ -1,0 +1,61 @@
+grader: judge
+graded: '2026-11-16T21:19:49.298816+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 277
+  tags: []
+  notes: extracted 277 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 5
+    honest: 5
+    works_the_facts: 5
+    right_comparison: 3
+    qualification: 2
+    objections: 3
+    fit: 8
+  details:
+    agree: A ten-minute reviewer gets a clear need, a closed budget and a fully funded
+      position, but a sceptical judge will ask what the 58% is measured against and
+      why the attorney leaving in June isn't mentioned, and nothing in the summary
+      answers either question.
+    honest: The figures quoted from the brief are accurate, but turning 80 open cases
+      into 80 tenants served per year and 160 households over the grant has no basis
+      in the facts, and the heading 'What representation achieves' suggests the lawyer
+      caused the 58% when there is no figure for unrepresented tenants.
+    works_the_facts: 'The ''one case in seven'' figure and the budget arithmetic ($90k
+      + $40k + $26k = $156k) are correctly derived and useful, but the summary misses
+      stronger true framings: about 300 tenants were turned away, nearly two for every
+      one represented, and capacity falls by half in June if no one is hired.'
+    right_comparison: The summary treats the alternative as today's two-attorney level,
+      but the facts show that without this hire the clinic drops to one attorney in
+      June, and that worsening is never stated.
+    qualification: Qualification is needed because there is no outcome figure for
+      unrepresented tenants and the $60k county contract is up for renewal in October,
+      yet the summary hedges neither point and does not mention the clerk-data comparison
+      planned for January.
+    objections: The objections a judge is most likely to raise (no baseline for the
+      58%, the risk of a five-month hiring gap after the June departure, and sustainability
+      if the county contract lapses) are left unanswered, even though the brief's
+      training handover and data commitments could answer them; the summary also commits
+      to annual reports when the clinic offered reports every six months.
+    fit: At about 275 words it is under the 300-word limit, and the labelled sections
+      suit quick scoring against a rubric, though the placeholders for county and
+      foundation names still need filling in.

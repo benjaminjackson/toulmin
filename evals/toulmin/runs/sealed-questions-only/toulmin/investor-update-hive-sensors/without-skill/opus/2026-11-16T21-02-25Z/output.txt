@@ -1,0 +1,66 @@
+I've drafted the update, but I left out a flat "we'll be profitable next year" line. Your numbers don't support it yet, and this goes to people deciding whether to invest more money.
+
+- **Burn vs. revenue:** You spend about $570K every six months and brought in $212K. Breaking even means roughly tripling revenue in a year, and a large competitor is undercutting your price.
+- **Margin:** Each $55 sensor makes $17 after the $38 it costs you. The $4/month app fee carries most of the path to profit, but I don't know how many hives are subscribed.
+- **Runway:** $340K at $95K a month runs out in about 3.5 months, around early March. That's right before the March–April season where you made 70% of your revenue. Your current investors can do this sum themselves.
+
+Saying you'll be profitable in a fundraising document without a plan behind it is a credibility risk. It can also become a legal one if the round goes badly. So the draft gives the target, the conditions it depends on and where you'll report progress. If you send me the hive count, the 2027 revenue plan and any planned cost cuts, I'll make that section firmer.
+
+I also kept the big customer's results honest, because he credits his new mite treatment too. Fill in the bracketed numbers before sending. Also check the dates: if "the last six months" means May–October, March and April fall outside it. I've written it as the first half.
+
+<final_document>
+**[Company] — Half-Year Investor Update, H1 2026**
+
+Thank you for backing us. Here's where we stand, what we're up against, and what we're asking for.
+
+**The numbers**
+
+- **Customers:** 31 paying commercial beekeepers, up from 12 a year ago.
+- **Revenue:** $212,000 for the half. About 70% came in March and April, when beekeepers get colonies ready for pollination contracts. Revenue is highly seasonal, and we plan around it.
+- **Unit economics:** Each sensor costs us $38 to make and sells for $55. The app adds $4 per hive per month, and [X] hives now pay for it.
+- **Burn and cash:** We spend about $95,000 a month and have $340,000 in the bank.
+
+**What customers are seeing**
+
+Our largest customer runs 4,000 hives. He lost 18% of his colonies this winter, down from 31% the winter before. He credits the sensors as part of that. He also changed his mite treatment this year, so we can't separate the two effects yet. We're working with him on a cleaner comparison this season, and we'll share it whether or not it flatters us.
+
+**Competition**
+
+In May, a large farm equipment company launched a similar sensor at $45. That's real pressure on hardware price, and we're not dismissing it. Our response:
+
+- **[Our edge, e.g., detection accuracy, the app's alerts, or support for large operations]**
+- **[Customer retention, e.g., X of 31 renewed or expanded]**
+- **[Pricing plan, e.g., bundling hardware with an annual subscription]**
+
+**Path to profitability**
+
+Our goal is to reach profitability in 2027. Here is what that depends on:
+
+- Growing to [X] customers and [X] subscribed hives by [date]
+- Recurring app revenue reaching [$X/month], so we rely less on the spring hardware spike
+- [Cost changes, e.g., lower unit cost at volume, reduced burn to $X/month]
+
+We'll report against each of these in every update.
+
+**The raise**
+
+We're raising a **$600,000 bridge round**, and we'd like our current investors in it first.
+
+At our current spend, cash lasts until about early March. That's just before the March–April window that produced most of this year's revenue. The bridge carries us through the 2027 pollination season, with runway to [month]. It funds:
+
+- [Inventory for spring orders]
+- [Sales to large commercial operations]
+- [Product work, e.g., improvements that keep us ahead of the $45 competitor]
+
+Terms: [instrument, valuation cap/discount, minimum check, close date].
+
+**How you can help**
+
+- Tell us if you plan to take part, and roughly how much, by [date].
+- Introduce us to commercial beekeepers, pollination brokers or agricultural investors.
+
+Happy to talk any of this through. Reply here or grab time at [link].
+
+[Name]
+[Title], [Company]
+</final_document>

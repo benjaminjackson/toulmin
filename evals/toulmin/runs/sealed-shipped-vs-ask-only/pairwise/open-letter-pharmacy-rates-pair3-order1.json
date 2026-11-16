@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-06-49Z",
+  "without_skill_run": "2026-11-16T21-20-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters stay honest and drop the unsupported 'a third will close' claim. A works a bit better on a skeptical director: it opens with the July 1 decision and a concrete three-part request, admits the brand-name offset up front and offers invoices instead of asking to be believed, while B still has placeholders and leans more on emotional appeals like 'or go without'."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-22-09Z",
+  "without_skill_run": "2026-11-16T21-03-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is complete and specific: it names the clinic, accounts for the full $78,000 with the family fund's pledge and the general budget, and plans for the June departure with a training handoff. It is also candid that the grant may only keep the clinic at two attorneys. Document A still has blanks where the funding source and contract status should be. It also promises a third attorney without saying how the departing attorney's position will be paid for, so a judge scoring it against a rubric would mark it as unfinished and unsupported."
+}

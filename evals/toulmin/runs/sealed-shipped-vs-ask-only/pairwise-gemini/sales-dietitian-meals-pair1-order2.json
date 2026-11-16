@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-07-57Z",
+  "without_skill_run": "2026-11-16T21-21-43Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Because I'm skeptical of health promises and have burned out on meal services before, Document B won me over by explicitly admitting she doesn't track medication changes for those A1C results and by offering a 15-minute phone call before I even spend the $59. Mentioning the 4-week menu rotation also directly addressed my worry about getting bored after a month or two."
+}

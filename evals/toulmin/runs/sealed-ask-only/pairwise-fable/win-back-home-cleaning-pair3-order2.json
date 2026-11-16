@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "win-back-home-cleaning",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-23-39Z",
+  "without_skill_run": "2026-11-16T21-10-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B reads like a real email from Lisa at Brightway, with a deadline, a way to book and proof the fix is holding (1 of 18 cleaners left since July). A is full of unfilled placeholders and wrongly says I complained, though its line about being covered if something breaks answers my price question better."
+}

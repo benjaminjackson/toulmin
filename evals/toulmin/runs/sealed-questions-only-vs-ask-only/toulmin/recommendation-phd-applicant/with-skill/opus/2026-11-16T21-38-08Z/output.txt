@@ -1,0 +1,30 @@
+I've written the letter using only the facts you gave me. I didn't say anything about how much of the study Priya designed or how strong the statistics are, because you don't know. I did mention the storm gap. The committee will see it in her thesis or poster anyway, and it's better coming from you as part of the reason a second season is needed.
+
+Fill in the bracketed parts before sending. It runs about 400 words, so it fits on one page with letterhead.
+
+<final_document>
+Dear Admissions Committee,
+
+I am writing in strong support of Priya [Last Name]'s application to your PhD program in marine ecology. I have taught biology at Westbrook College for seventeen years and have supervised about thirty senior theses. Priya is one of the three best students I have taught in that time.
+
+Priya took three of my courses. In two of them she earned the top grade in a class of 28.
+
+I supervised her senior thesis, which compared oyster growth at six sites in our bay over fourteen months. She did all of the fieldwork herself, making about 90 trips by kayak to reach the sites through every season of the year. Few undergraduates keep up field sampling that long, and she never let it slip. She found that oysters grew faster at the two sites near the salt marsh. One season cannot settle the question, and a storm cost one site three months of data. Even so, with a second season to confirm the pattern, her results are a solid basis for a publishable paper. She presented the work as a poster at [conference name], a regional meeting.
+
+Last summer Priya worked as a paid field assistant at [lab name], a state shellfish lab. For two weeks she ran the lab's water sampling on her own, and her supervisor there told me he would hire her again. Professional scientists trusted her with their own monitoring work, which says a great deal about her reliability.
+
+Doctoral research in marine ecology depends on long, demanding field seasons, careful sampling, and the persistence to keep going when conditions don't cooperate. Priya has already shown all three, both in her own project and in a professional lab. She is ready for graduate research, and I recommend her with enthusiasm.
+
+Please feel free to contact me at [email] or [phone] if I can tell you more about her.
+
+Sincerely,
+
+Dr. Anne Caldwell
+[Title], Department of Biology
+Westbrook College
+</final_document>
+
+You could make the letter stronger with a few details from Priya or your thesis records:
+- **Design:** if she chose the question or the sites herself, add one sentence saying so. Committees look hardest for evidence of independence.
+- **Results:** if the marsh-site difference was statistically significant, say that and give the size of the effect.
+- **Storm gap:** if she adjusted her analysis to handle the missing months, add a line about it. That shows judgment under pressure, which a committee will value.

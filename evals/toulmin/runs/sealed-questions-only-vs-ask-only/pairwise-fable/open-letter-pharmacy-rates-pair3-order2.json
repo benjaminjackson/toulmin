@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-27Z",
+  "without_skill_run": "2026-11-16T21-20-22Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both stay within the facts and make the same verifiable offer of invoices, but A opens directly with the below-cost claim and ties the 14-county, 20-mile point to my members in businesslike terms. B's lines that a pharmacy \"shouldn't have to rely\" on brand drugs and \"cannot stay open for long\" read like the annual complaint, and it ends on a plea."
+}

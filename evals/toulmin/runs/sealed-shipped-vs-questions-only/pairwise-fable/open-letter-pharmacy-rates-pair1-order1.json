@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-04-12Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters are honest and offer invoices and a meeting, but A opens with the ask and directly answers my likely deflection that the PBM sets the rates, not the plan. B hands me an out by mentioning mail order, though A's \"we expect others to follow\" goes slightly beyond what they can show."
+}

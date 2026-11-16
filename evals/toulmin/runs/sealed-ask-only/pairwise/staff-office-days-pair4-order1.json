@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-office-days",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-24-55Z",
+  "without_skill_run": "2026-11-16T21-10-58Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me concrete things I'd weigh before deciding whether to stay: the $150 commuting allowance, desks arriving in August, a staff review after six months, a plain statement that there are no other exceptions, a named sender, and the meeting time and place. B has none of these and is signed with placeholder names, so it reads as unfinished."
+}

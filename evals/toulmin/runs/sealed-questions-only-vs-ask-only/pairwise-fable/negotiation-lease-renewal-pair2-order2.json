@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "negotiation-lease-renewal",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-08Z",
+  "without_skill_run": "2026-11-16T21-19-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B directly addresses my late-payment worry with automatic transfer on the 1st and a commitment to sign within two weeks, and gives me the $40,000 hood value and a concrete no-vacancy, no-build-out comparison; A offers the same rent but none of those assurances and is signed only with the restaurant's name."
+}

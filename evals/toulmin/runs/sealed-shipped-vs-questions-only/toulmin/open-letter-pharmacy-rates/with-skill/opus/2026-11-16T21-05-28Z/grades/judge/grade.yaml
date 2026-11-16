@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:06:49.154640+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 452
+  tags: []
+  notes: extracted 452 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 7
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 7
+    qualification: 5
+    objections: 8
+    fit: 9
+  details:
+    agree: The invoice offer, the dated meeting, the single concrete contract term
+      and the 20-mile chain gap give a skeptical director a reason to check the claim
+      rather than file it as the usual yearly complaint, though nothing makes the
+      cost of inaction concrete enough to force her hand.
+    honest: "It rightly drops the 'third will close' claim and admits it can't link\
+      \ the nine closures to rates, but it stretches an average loss into 'every one\
+      \ of those\u2026 costs us money' and implies the whole 22 percent ('a fifth')\
+      \ is filled at a loss, when only the 20 generics are known to lose money."
+    works_the_facts: 'The figures are restated but never worked: there is no rough
+      dollar scale of the loss and no ''if nothing changes by July 1'' arithmetic,
+      so the $1.80 stays an abstract average.'
+    right_comparison: It describes the alternative accurately for the 14 counties
+      (the nearest chain is more than 20 miles away) and adds the trend of nine closures
+      in two years without overstating why they closed.
+    qualification: The July 1 renewal and May 1 meeting give dates, but the key hedge,
+      that two pharmacies will stop filling 'if nothing changes,' has no checkable
+      date or threshold, and the brand-drug offset is left vague.
+    objections: It meets 'they complain every year' with an offer to share invoices,
+      'members have chains' with the 20-mile fact, and 'the PBM sets rates' with the
+      plan's control of the contract terms, and it raises no objection that the facts
+      already settle.
+    fit: It is a one-page open letter in a plain voice, addressed and signed correctly,
+      and works for both the plan and the newspapers.

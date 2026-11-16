@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:07:00.013712+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 301
+  tags: []
+  notes: extracted 301 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 3
+    qualification: 3
+    objections: 6
+    fit: 8
+  details:
+    agree: Owning the March error helps, but it gives Kessler no proof that the fix
+      worked and no specific commitment, so he is left with a story about character
+      where he wanted evidence of reliability.
+    honest: The figures match the brief, though calling the senior role 'mainly' about
+      supervision goes further than the brief, which says only that a senior paralegal
+      supervises others.
+    works_the_facts: It works out the 90-hour surplus but never states the +6% or
+      the record since the second-person check (no misses in about 600 entries), and
+      it doesn't show how far the sheet's adoption reaches.
+    right_comparison: It never shows what the group has instead (three new paralegals
+      with no formal supervisor, and a deadline sheet before and after the safeguard),
+      so the reader has nothing to set against the promotion.
+    qualification: The only forward commitment is a vague 'keep improving'; it never
+      offers anything checkable, such as finishing the certification by June or holding
+      weekly check-ins, or says what follows if she misses them.
+    objections: It raises the March error directly and frames the safeguard well,
+      but it doesn't close the objection with the clean record since April, so the
+      doubt about reliability is still there.
+    fit: It is a short letter under 400 words with clear sections, but it still has
+      placeholder names and an open-ended meeting request where it should ask for
+      a meeting before the December 15 deadline.

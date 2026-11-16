@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-37-23Z",
+  "without_skill_run": "2026-11-16T21-09-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who has quit three services before, A's no contract and skip-or-cancel-any-time terms, along with weekly meal swaps, make the trial feel low-risk. B leaves out all of that, has an unfilled '[day/time]' placeholder and claims people stay because the food is good without backing it up, even though its A1C caveat is a bit more candid."
+}

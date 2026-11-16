@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-phd-applicant",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-10-42Z",
+  "without_skill_run": "2026-11-16T21-24-08Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters admirably earn my trust by being honest about the study's limitations rather than making inflated publication claims, and both highlight the grit required for 90 kayak trips. However, Document A is a complete letter with actual names and does a slightly better job of translating the facts into concrete proof of research readiness, whereas Document B leaves in bracketed placeholders and invents minor details."
+}

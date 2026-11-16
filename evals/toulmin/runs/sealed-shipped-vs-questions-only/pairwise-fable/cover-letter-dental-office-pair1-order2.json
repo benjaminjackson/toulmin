@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "cover-letter-dental-office",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B leads with the billing result and the comparison to my practice's size, deals with Dentrix before the gap, commits to my Tuesday/Thursday evening hours, and is signed with a real name; A leaves placeholder name and contact fields and omits the evening availability."
+}

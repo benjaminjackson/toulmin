@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-38-45Z",
+  "without_skill_run": "2026-11-16T21-10-58Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B answers the questions I'd actually have as an affected employee: commuting money, desks, whether exceptions exist, a six-month review, and who to contact. It is signed by a named partner, while A leaves placeholder names and gives me nothing practical to weigh beyond the rationale."
+}

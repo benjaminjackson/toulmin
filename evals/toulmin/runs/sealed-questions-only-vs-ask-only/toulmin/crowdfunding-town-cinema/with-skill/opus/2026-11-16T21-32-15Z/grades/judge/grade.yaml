@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T21:33:05.444336+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 279
+  tags: []
+  notes: extracted 279 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 7
+    qualification: 6
+    objections: 7
+    fit: 9
+  details:
+    agree: The all-or-nothing guarantee, the smaller goal and the money already pledged
+      answer this reader's memory of the refunds well, but nothing suggests how much
+      to give or helps a reader who has just given to the ambulance fund pick a modest
+      amount.
+    honest: The numbers are accurate, but "We can reopen it by Thanksgiving" turns
+      a plan into a promise, and leaving out the warning that the roof estimate could
+      rise by up to 15% makes $85,000 look more certain than it is.
+    works_the_facts: It correctly works out $49,000 still needed and the 76-mile round
+      trip, but it misses the strongest comparison (the public is asked for about
+      what the last campaign already reached, $47,000) and never gives the weekly
+      pace needed between May 1 and June 30.
+    right_comparison: It sets a dark building and a 76-mile round trip against reopening,
+      using the 180-tickets-a-week figure as evidence of demand, which is fair, though
+      it doesn't say the building stays empty if the campaign fails.
+    qualification: The June 30 / $85,000 / full-refund condition and the note about
+      opening-week films are concrete and checkable, but the roof estimate's possible
+      15% rise is a real either-way risk that is left out, along with who covers it.
+    objections: It meets the main objection, the refunded campaign, directly and with
+      specifics, and adds spending reports for accountability, but it doesn't address
+      other demands on local giving or the risk of the roof costing more.
+    fit: It is a tight, signed campaign pitch of about 300 words, under the 350-word
+      limit, with clear headings and a call to action.

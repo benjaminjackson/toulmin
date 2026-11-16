@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:24:08.361816+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 346
+  tags: []
+  notes: extracted 346 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 5
+    objections: 4
+    fit: 9
+  details:
+    agree: The letter is specific and believable, but a reader who discounts small-college
+      praise gets no evidence that this writer is selective, such as having written
+      about 40 letters and declined 2, so the scepticism stays.
+    honest: 'It rightly drops the ''ready to publish'' claim and calls the finding
+      preliminary, but it adds facts the brief doesn''t support: that she designed
+      the study, that she ''never missed her sampling schedule'', and the supervisor''s
+      ''without hesitation''.'
+    works_the_facts: The given numbers are repeated without being worked into anything
+      stronger, such as roughly six or seven kayak trips a month for 14 months, or
+      3 best out of about 17 years of students.
+    right_comparison: 'Top of a class of 28 and one of the three best in 17 years
+      are useful benchmarks, but it leaves out the most telling one: 2 refusals out
+      of about 40 letters, which shows how rarely this writer gives strong praise.'
+    qualification: The hedge names the single study and the three months of storm
+      data lost, but it gives the reader nothing to check, because it never offers
+      to send the thesis.
+    objections: 'The small-college inflation objection isn''t addressed: there is
+      no record of declined letters and no specific promise to answer calls or send
+      the thesis, only a generic ''please contact me''.'
+    fit: It is a proper one-page recommendation letter with suitable structure, tone
+      and signature block.

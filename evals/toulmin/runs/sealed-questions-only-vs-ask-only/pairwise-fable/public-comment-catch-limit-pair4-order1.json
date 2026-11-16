@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-35-28Z",
+  "without_skill_run": "2026-11-16T21-21-32Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A accepts our staff's numbers, admits plainly that the captain cannot say how many boats would close, and offers something we can use: trip logs and a catch-reporting app trial. B makes the same ask but asserts without support that a three-fish limit or shorter season \"protects the stock\", offers nothing in return, and leaves the speaker's name blank."
+}

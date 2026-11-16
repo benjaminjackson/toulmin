@@ -1,0 +1,60 @@
+grader: judge
+graded: '2026-11-16T21:10:45.931888+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 442
+  tags: []
+  notes: extracted 442 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 3
+    qualification: 5
+    objections: 4
+    fit: 8
+  details:
+    agree: 'The candid A1C data and the low-cost trial would make this wary reader
+      take it seriously, but there is nothing to reassure someone who has quit three
+      services: it never says the plan has no contract, that you can skip or cancel,
+      or that you can swap meals or call the dietitian first.'
+    honest: It rightly drops the promise that the meals will lower A1C and states
+      the limits of the 14-person sample, but it invents a reason customers stay ('they
+      like the food') and ties the 0.6 average drop to the 10 improvers when the brief
+      may mean the average across all 14.
+    works_the_facts: 'Figures are repeated rather than worked: it never turns 37 of
+      88 into the roughly 42% of customers still there after six months, a strong
+      point for a reader who quits within two months, and it never gives 10 of 14
+      as about 71%.'
+    right_comparison: The only alternative mentioned is losing $59 on the trial; the
+      page never sets itself against what this reader has actually done, which is
+      starting apps and services and quitting them, or against planning low-carb meals
+      alone.
+    qualification: Stating that the data is not a clinical study and that medication
+      changes weren't tracked is honest and specific, but 'your results will depend
+      on many things' gives the reader no checkpoint, date or number to judge it by.
+    objections: The trial week answers 'will I like it', but the main fears of someone
+      who has quit before (being locked in, getting bored of the food) go unanswered,
+      even though no contract, skip or cancel any time, six swap choices and a 15-minute
+      call with the dietitian were all available.
+    fit: It is a sales page of about 400 words with a clear call to action, though
+      it leaves out practical details such as the Thursday noon order cutoff, the
+      25-mile delivery area and the service's name.

@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T21:07:30.392040+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 343
+  tags: []
+  notes: extracted 343 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 4
+    honest: 7
+    works_the_facts: 3
+    right_comparison: 3
+    objections: 3
+    fit: 8
+  details:
+    agree: The letter is calm and specific, but it never offers proof (no invoices,
+      no meeting date) and never shows that chains are out of reach, so a director
+      who thinks this is the usual yearly complaint has little reason to change her
+      mind.
+    honest: It rightly drops the unsupported claim that a third of pharmacies will
+      close and invents no numbers, but "lose money on a fifth of its work" stretches
+      a loss on 20 generics to all plan prescriptions, "or go without" goes beyond
+      the facts, and it leaves out the partial offset from brand-name drugs.
+    works_the_facts: The figures are only repeated and none is worked into a result,
+      such as what $1.80 per fill means across 3,100 prescriptions or across 38 pharmacies,
+      so the loss stays abstract.
+    right_comparison: The alternative is described only as members driving "farther";
+      the letter never says that in those 14 counties the nearest chain is more than
+      20 miles away, which is the fact that answers the idea that members have plenty
+      of chains to use.
+    qualification: The letter makes no hedged or conditional claims, so qualification
+      doesn't apply here.
+    objections: 'Neither of her objections is met: the yearly-complaint doubt isn''t
+      answered with the invoice offer or the two pharmacies ready to stop filling
+      for plan members, and the chain-access doubt isn''t answered with the 20-mile
+      distance.'
+    fit: It is a one-page open letter with clear numbered requests tied to the July
+      1 renewal, which is the form and length the brief asked for.

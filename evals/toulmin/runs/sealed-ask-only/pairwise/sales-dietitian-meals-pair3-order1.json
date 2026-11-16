@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-23-20Z",
+  "without_skill_run": "2026-11-16T21-09-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "I've quit diet apps and a meal service before, so Document A's \"no contract, skip or cancel any time,\" weekly meal swaps, and 15-minute call with a named dietitian answer exactly what worries me. Document B leaves all of that out, still has a \"[day/time]\" placeholder, and claims people stay \"because the food is good\" with nothing to back it up."
+}

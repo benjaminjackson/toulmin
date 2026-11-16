@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-07Z",
+  "without_skill_run": "2026-11-16T21-06-02Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B brings up the March error directly and backs up the fix with evidence: about 600 entries with no missed deadlines since the check went in. It also makes specific commitments, mentions the trainee who left, is addressed to me by name and asks for a meeting before the deadline. A has placeholders and vague promises, and it gives no proof that the fix worked."
+}

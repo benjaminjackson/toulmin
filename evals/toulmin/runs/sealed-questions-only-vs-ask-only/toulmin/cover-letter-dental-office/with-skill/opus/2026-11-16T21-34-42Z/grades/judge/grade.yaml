@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:35:32.378958+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 251
+  tags: []
+  notes: extracted 251 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 6
+    objections: 6
+    fit: 9
+  details:
+    agree: The gap is explained plainly and the Dentrix plan is concrete, but a dentist
+      in a hurry after a sudden departure doesn't learn that she can start within
+      two weeks or work the Tuesday and Thursday evenings, and he reads that she left
+      her own job on two weeks' notice.
+    honest: Every figure and claim comes from the facts given, and the letter avoids
+      saying she supervised the 14 staff, but 'serious illness' adds a detail she
+      never supplied.
+    works_the_facts: The $38,000-to-$9,000 drop appears only as raw numbers, not as
+      a cut of about three-quarters, and the letter never points out that she ran
+      a larger operation (4 vets, 14 staff) than the job she's applying for (3 dentists,
+      9 staff).
+    right_comparison: The letter never sets her clinic's size against Brookside's
+      and never speaks to what the owner faces if the post stays empty, so the comparisons
+      that favour her go unstated.
+    qualification: The Dentrix commitment names the course length and ties completion
+      to her first day, which the owner can check, but without the two-week start
+      window it has no actual date.
+    objections: The gap and the Dentrix gap are both met directly, and so is the reference
+      problem, by naming Dr. Kim, but volunteering that she left on two weeks' notice
+      raises exactly the worry this owner just lived through, without the reassurance
+      that would answer it.
+    fit: It is a properly addressed cover letter of roughly 285 words, under the 300-word
+      limit, with a clear, plain structure.

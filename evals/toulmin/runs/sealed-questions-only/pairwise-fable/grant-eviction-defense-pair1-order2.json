@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "grant-eviction-defense",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B reads as a finished, candid application: it names the matching pledge and budget share, discloses the June departure, the missing comparison figure and the county renewal, and commits to six-month reporting. A is riddled with unfilled brackets (funding source, sustainability, role, numbers), leaving me unable to score budget or evaluation, and it omits the attorney's departure."
+}

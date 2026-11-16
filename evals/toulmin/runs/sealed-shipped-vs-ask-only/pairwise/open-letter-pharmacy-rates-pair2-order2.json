@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-28Z",
+  "without_skill_run": "2026-11-16T21-19-29Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B anticipates my objections: it admits brand-name drugs make up part of the loss, which I would have raised, and it accepts that the PBM sets rates while noting that the plan sets the contract terms. That makes B more credible to a skeptic like me. A is clear and honest, but it reads more like the usual yearly complaint."
+}

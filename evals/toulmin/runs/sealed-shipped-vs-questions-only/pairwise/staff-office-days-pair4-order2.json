@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-office-days",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-12-28Z",
+  "without_skill_run": "2026-11-16T21-38-45Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "A includes the six-month review with staff and the fact that five of six project leads already come in. For remote hires deciding whether to stay, the review gives a real voice and makes going along with the change easier. B explains the mentoring case more vividly and points out the long notice period, but it leaves out the review and states 'no other exceptions' more bluntly."
+}

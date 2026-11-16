@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T21:11:38.221654+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 313
+  tags: []
+  notes: extracted 313 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 4
+    honest: 7
+    works_the_facts: 3
+    right_comparison: 3
+    qualification: 3
+    objections: 3
+    fit: 6
+  details:
+    agree: The reasons are clear and the partners admit their own part, but the 11
+      remote hires who live within two hours get sympathy and no support, so a resisting
+      reader has little reason to stay rather than push back or leave.
+    honest: No numbers are invented and the dates are read correctly, but 'how we
+      came across as a team cost us the project' goes further than the clients' comment,
+      which doesn't say it was what decided the outcome.
+    works_the_facts: 'The figures are repeated as given and never worked: the 30%
+      delay isn''t turned into time, nobody points out that 11 of the 15 remote hires
+      get no special arrangement, and there''s no estimate of what keeps happening
+      if nothing changes.'
+    right_comparison: The draft gives reasons but never describes what continuing
+      fully remote would look like, such as more lost bids or slower development,
+      and it leaves out that 5 of 6 project leads already come in three days, which
+      would show how far the change has already gone.
+    qualification: The partner offered a six-month review with staff, and the draft
+      doesn't mention it, so the policy reads as permanent with no date or measure
+      the reader can check.
+    objections: 'The objection ''you hired me as remote'' is acknowledged but not
+      met: the $150 commuting support, the desks arriving in August and the six-month
+      review are all left out, and the draft never says plainly that there are no
+      other exceptions.'
+    fit: It is a one-page email in a sensible order, but it is signed with placeholders
+      even though the writer knew Paul's name, and it leaves out the meeting time,
+      the room and the HR contact.

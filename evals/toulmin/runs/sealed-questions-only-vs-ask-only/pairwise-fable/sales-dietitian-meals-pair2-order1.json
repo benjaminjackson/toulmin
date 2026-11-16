@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "sales-dietitian-meals",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-36-25Z",
+  "without_skill_run": "2026-11-16T21-22-34Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both are honest and don't promise an A1C drop, but A earns more trust from me by admitting the 14 were self-selected, that it isn't a study, and that medication changes weren't tracked, then promising only what's on the plate. B leaves out the medication caveat and its \"ten went down, by 0.6 on average\" wording slightly reshapes the figure."
+}

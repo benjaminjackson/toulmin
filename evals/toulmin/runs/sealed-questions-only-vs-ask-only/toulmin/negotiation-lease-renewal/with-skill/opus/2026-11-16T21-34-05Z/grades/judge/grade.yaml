@@ -1,0 +1,60 @@
+grader: judge
+graded: '2026-11-16T21:34:58.759652+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 250
+  tags: []
+  notes: extracted 250 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 6
+    objections: 5
+    fit: 9
+  details:
+    agree: The firm $5,100 offer, the reliability commitments and the frank account
+      of the late payments give Frank something to accept, but the letter never mentions
+      the coffee chain he is weighing, so a landlord inclined to resist still has
+      an easy reason to wait.
+    honest: 'Every figure is true or correctly derived: $5,100 rising 3% a year does
+      reach about $5,740 in year five, and the $40,000 hood cost and the cooler failure
+      come from the user. The only stretch is setting the year-five rent against his
+      starting rent, which flatters the offer slightly.'
+    works_the_facts: 'The year-five figure is a useful calculation, but the letter
+      leaves strong numbers unworked: what 14 months of vacancy two doors down has
+      cost him, the offer as roughly $26 a square foot against the $28 asking rent
+      nobody has taken, and the hood as $40,000 a new restaurant tenant would not
+      need to spend.'
+    right_comparison: Frank's real alternative is a coffee chain or an empty unit,
+      and the letter only hints at the empty unit through the 14-month listing; it
+      never says that a coffee tenant would get no value from the hood or that the
+      unit would likely sit empty for months.
+    qualification: The June 1 deadline and the two-week signing window are concrete
+      and checkable, but the letter does not say what happens if June 1 passes without
+      an answer.
+    objections: The late payments, which Frank still brings up, are handled well with
+      the cause, thanks, the on-time record since and an autopay offer, but the coffee
+      chain, his most likely objection, goes completely unanswered.
+    fit: At about 250 words it is short, polite and well laid out, under the 300-word
+      limit; the one flaw is that it is signed with the restaurant's name rather than
+      the owner's.

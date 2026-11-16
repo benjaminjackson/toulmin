@@ -1,0 +1,75 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+The director of pharmacy benefits at the state employees' health plan, who sets what the plan pays pharmacies. She thinks independent pharmacies complain about rates every year and that the plan's members have plenty of chain pharmacies to use.
+</reader>
+
+<brief>
+Help me write an open letter. I own an independent pharmacy, and I'm writing for 38 independent pharmacies in our state to the state employees' health plan. We'll send it to the plan and to the two newspapers in the capital.
+
+Facts:
+- Since January the plan pays us on average $1.80 less per prescription than it costs us to buy and fill it, for the 20 generic drugs we fill most.
+- Plan members make up about 22% of the prescriptions at our 38 pharmacies.
+- 9 independent pharmacies in the state closed in the last 2 years. We don't know how many closed because of rates.
+- In 14 counties, the nearest pharmacy for most people is an independent one.
+- The plan's contract with its pharmacy benefit manager comes up for renewal on July 1.
+- My own pharmacy filled about 3,100 prescriptions for plan members last year.
+
+I want the letter to say that a third of the independent pharmacies in the state will close within a year if nothing changes. One page.
+</brief>
+
+The user also knew the following and gave some of it to the writer when asked:
+<user_knows>
+- Our group is the Main Street Pharmacy Alliance. I'm Tom Reilly, owner of Reilly Drug in Carver.
+- In those 14 counties, the nearest chain pharmacy is more than 20 miles away for most people.
+- Two of our 38 pharmacies have told me they will stop filling for plan members if nothing changes.
+- Some of us make up part of the loss on brand-name drugs. I don't know by how much.
+- What we want: the July 1 contract renewal should pay at least what the drug costs us, plus a fill fee.
+- I can commit to sharing our purchase invoices for the 20 drugs with the plan.
+- I can commit to meeting the plan's staff any time before May 1.
+- I cannot name pharmacies that will close, or say how many of the 9 closed because of rates. If it is pointed out that "a third within a year" goes past the facts, I accept a claim the facts support instead.
+</user_knows>
+
+<document>
+**An Open Letter to the [State Employees' Health Plan]**
+
+To [Director's name] and the plan's board:
+
+We are 38 independent pharmacies across [State]. Every week we fill prescriptions for state employees, retirees and their families who are covered by your plan. Your members account for about 22 percent of the prescriptions we fill, more than one in five.
+
+Since January, your plan has paid us an average of $1.80 less per prescription than it costs us to buy and fill the 20 generic drugs we dispense most. We lose money on every one of those prescriptions. Some of us make back part of that loss on brand-name drugs. Not all of us do, and no pharmacy can run for long on the hope that one prescription will cover the loss on another.
+
+This is already changing what we can offer your members. Two of our 38 pharmacies have told us they will stop filling prescriptions for plan members if the rates don't change. Nine independent pharmacies in [State] have closed in the past two years. We don't know how many of them closed because of rates, and we won't claim more than we know. We do know what happens to a town when its pharmacy stops serving the people who live there.
+
+In 14 counties, the nearest pharmacy for most residents is an independent one, and the nearest chain pharmacy is more than 20 miles away. If the pharmacy in one of those towns stops taking your plan, your members there face a round trip of more than 40 miles for their medicine, or a wait for it in the mail.
+
+Your contract with your pharmacy benefit manager comes up for renewal on July 1. That is the time to fix this. We ask that the new contract pay pharmacies at least what each drug costs us to buy, plus a dispensing fee for filling it.
+
+You don't have to take our word for the numbers. We will give your staff our purchase invoices for these 20 drugs so you can check them yourselves. We will also meet with your staff at any time before May 1 to go through them together.
+
+Your members count on us, and we want to keep serving them. Please write the July 1 contract so that we can.
+
+Sincerely,
+
+Tom Reilly
+Owner, Reilly Drug, Carver
+On behalf of the Main Street Pharmacy Alliance
+[Phone] · [Email]
+
+**Member pharmacies of the Main Street Pharmacy Alliance**
+[Pharmacy name, Town] × 38
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

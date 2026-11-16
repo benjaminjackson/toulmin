@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-35-52Z",
+  "without_skill_run": "2026-11-16T21-22-24Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A shows its runway math, includes the monthly cash report for bridge investors and gives the correct December 1 reply deadline. B leaves out the cash report and says commitments are due December 15, which conflicts with the real deadline. A is more convincing to a skeptical 8% holder and stays closer to the facts."
+}

@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T21:09:42.479363+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 447
+  tags: []
+  notes: extracted 447 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 5
+    honest: 9
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 7
+    objections: 4
+    fit: 6
+  details:
+    agree: A wary reader who has quit three services would find the honest A1C framing
+      and the six-month retention figure reassuring, but the page never answers their
+      real worry about getting bored and quitting again, and it says nothing about
+      the no-contract terms or the call with the dietitian.
+    honest: The page drops the requested 'will lower your A1C' promise, reports 10
+      down, 3 the same and 1 up out of 14 self-selected customers, and says medication
+      changes weren't tracked; the only soft spot is the unsupported claim that the
+      meals 'taste good'.
+    works_the_facts: 'The figures are reported accurately but barely worked: 37 of
+      88 isn''t turned into roughly 42% staying past six months, the full plan isn''t
+      given as about $12.90 per meal, and the trial isn''t shown as a cheaper per-meal
+      test.'
+    right_comparison: The alternative is a generic picture of counting carbs and reading
+      labels, not the reader's actual history of starting and dropping apps and services,
+      which the retention data could have answered directly.
+    qualification: 'The hedges are concrete and checkable: 14 self-selected customers,
+      three months, medication not accounted for, and a clear no-promise statement,
+      though none ties the result to a consequence.'
+    objections: The medication-and-doctor objection is handled well, but the main
+      objections of variety, commitment and getting stuck are left open even though
+      the facts covered them (meal swaps from 6 choices, a 4-week menu cycle, no contract
+      with skip or cancel any time, and a 15-minute call).
+    fit: It is a sales page close to the 400-word target with a clear order button,
+      but [Service Name], [Your Name] and [Metro Area] are left as placeholders, and
+      the Thursday-noon order cutoff and 25-mile delivery radius are missing.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-54Z",
+  "without_skill_run": "2026-11-16T21-20-13Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives evidence that the fix worked (about 600 entries with no errors since April) and makes specific commitments. It is also candid that one trainee left and that she can't promise she'll never make a mistake, so it addresses my concern about the March error. A leaves placeholders unfilled, gives no evidence that the fix worked and wanders into whether a position even exists."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-07-29Z",
+  "without_skill_run": "2026-11-16T21-35-27Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters are candid about the unrepeated study and the storm gap, which makes either one believable to a skeptical reader. A wins narrowly: B adds an unsupported claim that she sampled 'without missing' anything, which sits awkwardly beside the lost data, while A includes concrete contact details."
+}

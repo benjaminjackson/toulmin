@@ -1,0 +1,56 @@
+task:
+  name: promotion-senior-paralegal
+  type: promotion-case
+  set: sealed
+  reader: The managing partner of the law firm's litigation group, who approves promotions
+    to senior paralegal. He remembers that last March this paralegal entered a court
+    deadline wrong and the filing went in two hours before the cutoff, and he raised
+    it in her last review.
+  prompt: 'I want to write a request for promotion to senior paralegal. I''ve been
+    a paralegal in the litigation group of a 60-lawyer law firm for 5 years.
+
+
+    Facts:
+
+    - I support 4 lawyers and worked on 23 cases last year, including 2 that went
+    to trial.
+
+    - I built the group''s tracking sheet for court deadlines in 2023. Two other groups
+    in the firm now use it.
+
+    - Last March I entered a filing deadline wrong in that same sheet. Another paralegal
+    noticed, and we filed 2 hours before the court''s cutoff. After that I added a
+    second-person check to the sheet.
+
+    - I billed 1,640 hours last year. The group''s target is 1,550.
+
+    - I trained the 3 paralegals the group hired in the last 2 years.
+
+    - A senior paralegal is paid $9,000 a year more and supervises the other paralegals.
+
+
+    Keep it under 400 words. It goes to the managing partner of our group.'
+  user_knows: '- I''m Jenna Morales. The managing partner is David Kessler.
+
+    - Requests are due December 15. Promotions are decided in the January review cycle.
+
+    - Since the second-person check went in last April, the sheet has had no wrong
+    or missed deadlines in about 600 entries.
+
+    - One of the 3 paralegals I trained left after 8 months.
+
+    - I can commit to running a short weekly check-in with the paralegals I would
+    supervise.
+
+    - I can commit to finishing the state paralegal certification by next June.
+
+    - I cannot promise I will never make an error again.
+
+    - I''d like to meet with him in person to talk about it.'
+config:
+  name: with-skill
+  runner: /Users/ben/github/toulmin/evals/toulmin/run-with-skill
+  model: opus
+started: '2026-11-16T21:05:58.227128+00:00'
+duration_seconds: 45.55
+exit_code: 0

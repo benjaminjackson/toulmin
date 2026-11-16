@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T21:10:41.975630+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 351
+  tags: []
+  notes: extracted 351 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 5
+    objections: 4
+    fit: 9
+  details:
+    agree: The specifics, like 90 kayak trips, the top grade in two classes of 28
+      and the lab supervisor's rehire comment, do more than generic praise, but a
+      skeptic who discounts small-college letters gets nothing that shows this writer
+      is selective, so the 'top three' claim is still easy to discount.
+    honest: The letter states the limits plainly (not repeated, only two marsh sites,
+      three months of storm data lost) and drops the 'top journal' claim; 'a solid
+      basis for a publishable paper' pushes a little, and calling 14 months 'a single
+      year' slightly undersells the study.
+    works_the_facts: Turning 90 trips over 14 months into 'one trip every five days,
+      through every season' is a good derived figure, but the letter never uses the
+      40 letters written and 2 strong letters refused to back up its ranking.
+    right_comparison: It compares her with the writer's other students (top three
+      in 17 years, top grade in a class of 28), but it never sets her against the
+      writer's own record of refusing strong letters, which is the comparison that
+      would show this praise is selective.
+    qualification: The hedge names a real condition, a second season of data at the
+      marsh sites, but gives no timeline, and the letter leaves out the offer to send
+      the thesis, which would let the reader check the findings.
+    objections: 'The reader''s main objection, that small-college letters praise everyone,
+      is never met head-on: there is no 40-letter, 2-refusal record and no offer to
+      take calls or emails, even though the writer had both.'
+    fit: It is a properly formatted one-page recommendation letter in a suitable tone.

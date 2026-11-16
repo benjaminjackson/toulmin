@@ -1,0 +1,27 @@
+The email is about 170 words, a bit over your 150. Every number in it comes from what you gave me. I left the line about your price in on purpose, next to the reason for it. These readers already know the apps are cheaper, and pretending otherwise would undercut everything else in the email.
+
+<final_document>
+Subject: Your own regular cleaner, and $99 to come back
+
+Hello,
+
+When customers left Brightway last year, the top two reasons were price and a different cleaner showing up each time.
+
+We've fixed the second. Since July, every customer has their own regular cleaner, plus a named backup for sick days and holidays, so you'll know who's coming. Last year 7 of our 18 cleaners left. Since July, one has.
+
+We haven't matched the app services on price. Every-other-week cleaning for a 3-bedroom house is $165 with us, compared with about $140. That difference pays for something. Our cleaners are employees, paid $21 an hour, and insured on every visit. Most app services around here use contractors with no insurance on the visit.
+
+To make it easy to try us again, your first cleaning back is $99. That offer runs until December 31. There's no contract, and you can cancel any time.
+
+Reply to this email or call 555-0164.
+
+Lisa Grant
+Owner, Brightway Home Cleaning
+</final_document>
+
+A few things to check before you send it:
+
+- **Price after the $99 visit:** the email doesn't say what they'll pay after the first cleaning. Customers will ask. If it goes back to $165, adding "then $165 after that" makes the offer clearer.
+- **"Runs until December 31":** I kept your wording. Decide whether that means they book by then or get cleaned by then, because people will ask.
+- **Advance notice or a remedy:** if you later commit to telling customers ahead of time when the backup is coming, add one sentence about it. That's the strongest thing you could add to the cleaner promise.
+- **Greeting:** if your email tool can fill in first names, swap "Hello" for the customer's name.

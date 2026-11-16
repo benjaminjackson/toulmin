@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-senior-paralegal",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-05-01Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A gives me the exact data I need to get past the March incident: that the new check has gone 600 entries since April without a single wrong or missed deadline. It is also completely candid about one of the trainees leaving, though I wish it had avoided directly mentioning the $9,000 raise like Document B did."
+}

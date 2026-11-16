@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "promotion-senior-paralegal",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-56Z",
+  "without_skill_run": "2026-11-16T21-33-54Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both give me the fix and the 600 clean entries, but A says plainly that the near-miss \"was too close\" and claims only \"some\" of the senior role. B's \"you should also hear this from me\" rings odd when I raised the error in her review, and \"already doing much of that role\" slightly overreaches, though B does handle the paralegal who left better."
+}

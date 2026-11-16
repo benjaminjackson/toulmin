@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me everything I need to decide: the terms, the $250k already committed, the date to reply by, the spending cut to $75k and a runway figure I can check. It also honestly says it can't promise profit. B leaves the terms, the competitor response and the deadline as blanks and floats a 2027 profit goal it can't support, which matters to me because I already think sales are too slow."
+}

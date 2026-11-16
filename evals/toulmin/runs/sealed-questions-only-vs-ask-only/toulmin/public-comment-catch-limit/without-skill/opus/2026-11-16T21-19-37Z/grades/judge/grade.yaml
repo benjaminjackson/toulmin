@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T21:20:36.842474+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 323
+  tags: []
+  notes: extracted 323 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 5
+    honest: 6
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 5
+    objections: 4
+    fit: 6
+  details:
+    agree: The speech accepts the staff's stock numbers and offers trip logs and a
+      reporting-app trial, so it won't sound like the usual captain at the microphone,
+      but it never shows that a 3-fish limit or a shorter season would reach the staff's
+      target, and commissioners who trust staff need that to vote against their recommendation.
+    honest: It drops the brief's claim that every boat would close in favour of 'at
+      risk', which is right, but 'a deeper cut held longer' assumes the size of the
+      2016 cut, which the brief never gives, 'recovery took years' implies a full
+      recovery that never happened, and 'can't do much for the stock' goes beyond
+      the facts.
+    works_the_facts: It works out the $28,800 in lost bookings and the 15-trip shortfall
+      correctly, but it leaves the survey as a raw count instead of 59 percent and
+      doesn't give the 19 percent drop after 2016.
+    right_comparison: Comparing charter boats' 9% of landings with private boats'
+      80% suggests the cut falls mainly on charters, when the limit applies to every
+      angler, and nothing compares the requested alternative's effect on the stock
+      with the 2-fish limit.
+    qualification: The commitments to hand over logs and test the app next season
+      can be checked, and the 'if bookings drop like 2016' condition is tied to a
+      known number, but none of these says what happens if the condition is met or
+      the commitment is missed.
+    objections: It concedes the stock numbers up front, but it ignores the obvious
+      objection that a smaller cut may not rebuild the stock, and the private-boat
+      comparison invites an easy rebuttal that the limit covers private anglers too.
+    fit: It is a spoken public comment in the right register, but at about 370 words
+      it would run past the two-minute limit at a normal speaking pace.

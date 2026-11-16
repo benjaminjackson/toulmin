@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "crowdfunding-town-cinema",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-05Z",
+  "without_skill_run": "2026-11-16T21-19-47Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who remembers the refunds, B gives me more reason to believe this time will work: $11,000 already pledged in writing by businesses, quarterly spending reports at the library, and upfront honesty about the roof estimate and film availability. A instead stresses that the town must give $13,000 more than it managed last time, which feeds my doubt."
+}

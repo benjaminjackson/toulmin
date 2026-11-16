@@ -1,0 +1,25 @@
+I wrote the email, but I didn't include the promise of the same cleaner every single time. Your current setup is a regular cleaner plus a named backup, so customers who get the backup would see a broken promise. You also lost 7 of 18 cleaners last year, so a regular cleaner may leave. These are people who already cancelled once over this issue, and a second broken promise would likely lose them for good. What you can truthfully promise is still a big change, and the email leads with it.
+
+<final_document>
+Subject: You told us. We fixed it.
+
+Hi [First name],
+
+When you left [Company], many of you told us two things: the price, and seeing a different cleaner too often. You were right about the second one, and we've changed how we schedule.
+
+Every customer now has a regular cleaner who gets to know your home. You'll also have a named backup who covers if your regular is sick or on vacation. You'll always know who's coming.
+
+About price: we cost more than the app services. Our every-other-week cleaning for a 3-bedroom home is $165, and the apps charge about $140. That's because our cleaners are employees, not contractors. We pay them $21 an hour and insure every visit.
+
+To make it easy to try us again, your first cleaning back is $99.
+
+[Book your $99 cleaning]
+
+Thank you,
+[Your name]
+[Company]
+</final_document>
+
+Before you send it:
+- **Same cleaner every time:** If you'd still like to make a stronger promise, you could add a guarantee you can actually keep, like "If someone other than your regular or backup ever shows up, that cleaning is free."
+- **Price:** I named the $140 app price because price was the top reason people left. If you'd rather not mention competitors, you could cut that sentence and just say what the extra cost pays for.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-39Z",
+  "without_skill_run": "2026-11-16T21-07-00Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A meets my concern about the March deadline error with evidence: about 600 entries with no errors since the second-person check went in. It also makes concrete commitments and is addressed to me by name. B mentions the fix but gives no results, and it still has placeholders like [Name], so it reads as unfinished."
+}

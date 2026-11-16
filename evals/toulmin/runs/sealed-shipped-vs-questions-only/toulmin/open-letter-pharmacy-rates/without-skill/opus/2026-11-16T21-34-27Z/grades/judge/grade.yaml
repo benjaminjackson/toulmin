@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T21:35:21.354693+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 428
+  tags: []
+  notes: extracted 428 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 4
+    right_comparison: 8
+    qualification: 5
+    objections: 8
+    fit: 9
+  details:
+    agree: The 20-mile gap to the nearest chain and the offer to share invoices push
+      back on both of her assumptions, but the letter gives her no dollar figure or
+      deadline that makes this year different from earlier complaints.
+    honest: The letter drops the unsupported 'a third will close' claim and says outright
+      that it can't link the nine closures to rates; the only stretch is 'thousands
+      of state employees', which is likely true but isn't in the brief.
+    works_the_facts: Every figure is repeated exactly as given and none is worked
+      further, such as estimating Reilly Drug's yearly loss from its 3,100 plan prescriptions,
+      so the $1.80 never becomes a total she can feel.
+    right_comparison: 'It describes the realistic alternative accurately: in 14 counties
+      the nearest chain is more than 20 miles away, and two pharmacies have already
+      said they will stop serving plan members, which directly answers ''plenty of
+      chains''.'
+    qualification: The hedges on closures and on brand-name offsets are honest, but
+      the warning that two pharmacies will stop filling 'if nothing changes' gives
+      no date or threshold, and the July 1 renewal is never tied to a consequence
+      she could check.
+    objections: It meets the chain-access objection and the 'just complaining' objection
+      (with invoices and a meeting before May 1), and it deals with brand-name cross-subsidy
+      before she can raise it, without inventing objections.
+    fit: It is a one-page open letter with the right addressees, sign-off and contact
+      line, suitable for both the plan and the newspapers.

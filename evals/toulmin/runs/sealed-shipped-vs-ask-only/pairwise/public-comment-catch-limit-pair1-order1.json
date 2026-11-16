@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-catch-limit",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-06-16Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives us things we can use: it names Captain Dunn and the Sea Lark, offers his trip logs and a test of a catch-reporting app, and reports that two other captains say they would sell. B still has placeholders where the name and harbor should be, makes no offers, and claims without support that a 3-fish limit 'still protects the stock', which our staff hasn't found."
+}

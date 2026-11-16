@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "grant-eviction-defense",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B's headings map neatly onto a rubric, but it reaches me with unfilled blanks ([Clinic Name], [County], [Family Fund]), which reads as an unfinished application. A is complete, candid that the county contract may not be renewed, mentions the departing attorney training the new hire, and closes on the concrete cost of not funding."
+}

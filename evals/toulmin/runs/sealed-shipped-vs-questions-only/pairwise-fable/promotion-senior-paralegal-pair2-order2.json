@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "promotion-senior-paralegal",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-58Z",
+  "without_skill_run": "2026-11-16T21-33-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B calls the March deadline error a serious mistake that was \"too close\", which matches how I saw it, and ties the fix to how she would supervise. A offers useful commitments (weekly check-ins, certification), but it presents the error as something I should \"hear from her directly\" when I already raised it in her review, and it plays the error down as \"one mistake\"."
+}

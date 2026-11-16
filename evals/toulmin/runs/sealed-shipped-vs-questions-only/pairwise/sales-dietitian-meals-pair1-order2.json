@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-07-57Z",
+  "without_skill_run": "2026-11-16T21-35-32Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both are honest about the small A1C sample. A connects better with someone who has quit before: it admits that dishes come back around, makes the call with the dietitian a set first step, and ends with a low-pressure line about only risking $59. B claims 'you won't get bored', which a past quitter would doubt, though B's note that customers chose to share their results is a point in its favour."
+}

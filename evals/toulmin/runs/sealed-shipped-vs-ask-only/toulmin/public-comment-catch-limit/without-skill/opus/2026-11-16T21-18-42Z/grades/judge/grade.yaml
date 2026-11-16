@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T21:19:37.645398+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 275
+  tags: []
+  notes: extracted 275 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 4
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 3
+    objections: 5
+    fit: 8
+  details:
+    agree: Commissioners who trust their staff will like that the speaker accepts
+      the 78% figure. But the request for 3 fish or a shorter season comes with no
+      evidence that it meets the stock target, so they have little reason to set aside
+      the staff recommendation.
+    honest: It drops the unsupported claim that every boat will close, and its numbers
+      are accurate. However, 'Either one still protects the stock' is stated as fact
+      with nothing to back it, and the two-fish line goes beyond what the survey shows.
+    works_the_facts: 'It works out the $28,800 loss and notes the incomplete recovery.
+      It leaves out the 19% drop in bookings, the 59% survey share and the cumulative
+      loss over several years, and it doesn''t use the available commitments: the
+      trip logs and the reporting-app test.'
+    right_comparison: The 2016 drop and partial recovery are a fair guide to what
+      a 2-fish limit would do, and the speech notes that this cut runs longer. The
+      proposed alternatives, though, are never compared with the staff's conservation
+      goal.
+    qualification: The speech needs a checkable condition, such as offering trip logs
+      from 2016 on or an app-reporting test with a review date. Instead it states
+      the middle path as safe for the stock with no hedge, number or date.
+    objections: Accepting the staff's numbers heads off the usual reaction to charter
+      captains. The point that private boats land 80% doesn't answer that the limit
+      applies to everyone, and the main objection, whether 3 fish does enough for
+      the stock, goes unanswered.
+    fit: At about 300 words of plain spoken prose, it fits a two-minute public comment,
+      though the name and harbor are still placeholders.

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "recommendation-phd-applicant",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-07-29Z",
+  "without_skill_run": "2026-11-16T21-35-27Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters are candid about the study's limits, which is what makes me trust a small-college letter, and they are nearly equal in persuasiveness. B's \"without missing her sampling\" goes beyond the brief and sits awkwardly with the storm-lost data, while A stays within the facts and offers direct contact for follow-up."
+}

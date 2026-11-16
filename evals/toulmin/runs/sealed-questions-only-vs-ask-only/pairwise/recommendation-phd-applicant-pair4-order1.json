@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-38-08Z",
+  "without_skill_run": "2026-11-16T21-24-08Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters give the same concrete facts and are candid about the thesis's limits. A sticks closer to verifiable specifics. B adds puffery that a skeptical reader of small-college letters would discount, such as 'without hesitation' and 'without reservation', plus an unsupported claim that she discussed her poster with outside researchers."
+}

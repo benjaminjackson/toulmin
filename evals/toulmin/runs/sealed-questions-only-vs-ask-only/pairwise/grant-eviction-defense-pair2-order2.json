@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-21Z",
+  "without_skill_run": "2026-11-16T21-19-49Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is the stronger summary. It names the data gap openly and gives a concrete plan to fix it: court-wide outcome data from January and reports every six months. It also explains the urgency with the five-month hiring time and the coming loss of half the clinic's capacity. A reports only once a year, leaves out the comparison plan, and claims the position 'does not depend on' the county renewal, which the facts don't support."
+}

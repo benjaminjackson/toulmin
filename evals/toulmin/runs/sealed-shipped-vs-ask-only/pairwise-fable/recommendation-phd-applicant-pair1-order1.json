@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "recommendation-phd-applicant",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-07-29Z",
+  "without_skill_run": "2026-11-16T21-21-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A's explicit paragraph on where the results stand reads as a calibrated letter-writer I can trust, and it gives her full name and concrete numbers. B leans more on unsupported flourishes (she \"held her own\" with working scientists, the result \"fits a question the field is actively working on\") that sound like the small-college praise I discount, though A's \"without missing her sampling\" is also unsupported."
+}

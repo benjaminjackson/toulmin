@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-07-57Z",
+  "without_skill_run": "2026-11-16T21-21-43Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is open about the limits of the A1C numbers: it gives the 0.6 average, says the sample is small and self-selected, and admits medication changes weren't tracked, which earns my trust. It also offers a 15-minute call with the dietitian and a 4-week rotating menu with swaps, and both speak to why I quit the other services. A leaves out the medication caveat and the call."
+}

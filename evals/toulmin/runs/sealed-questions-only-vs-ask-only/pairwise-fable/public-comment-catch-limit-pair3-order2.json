@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-24Z",
+  "without_skill_run": "2026-11-16T21-20-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me something I can act on beyond the ask: trip logs and a catch-reporting pilot with our staff, plus a candid admission that the captain can't say how many boats would close, which makes the rest more credible. A is solid and honest but has unfilled name placeholders, a stray markup tag, and offers no cooperation beyond the alternative limits."
+}

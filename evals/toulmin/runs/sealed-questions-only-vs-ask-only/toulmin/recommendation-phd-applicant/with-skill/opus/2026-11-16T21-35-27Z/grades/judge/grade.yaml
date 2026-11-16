@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T21:36:17.865491+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 333
+  tags: []
+  notes: extracted 333 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 4
+    objections: 3
+    fit: 8
+  details:
+    agree: The kayak fieldwork and the shellfish-lab supervisor's endorsement are
+      concrete and believable, but a reader who discounts small-college letters gets
+      no reason to trust this writer's praise more than any other's, so the file probably
+      stays in the middle of the pile.
+    honest: The letter rightly drops the 'ready to publish in a top journal' claim
+      and states the study's limits openly; 'I expect this work to lead to a publication'
+      is a mild forecast the facts barely support, and 'few full-time undergraduates
+      could keep up that schedule' is an unbacked aside.
+    works_the_facts: 'It repeats the raw figures (90 trips, 14 months, 6 sites, top
+      of 28) but never works them out, for example roughly six trips a month for over
+      a year, and it leaves out the strongest number the writer had: about 40 letters
+      written in 17 years, with 2 students told she could not write a strong one.'
+    right_comparison: '''One of the three best students'' has no stated pool behind
+      it, and the letter skips the 40-letters/2-refusals record that would show this
+      writer does not praise everyone.'
+    qualification: The hedge correctly names the limits (no replication, the storm
+      gap) but gives the reader nothing to check, such as the offer to send the thesis
+      to any committee member, and no point at which the 'second season' would happen
+      or be judged.
+    objections: 'The reader''s main objection, that small-college letters praise everyone,
+      goes unanswered: the refusal record and the offer to send the thesis are both
+      missing, and the outside supervisor''s endorsement only partly fills the gap.'
+    fit: It is a properly formatted letter that fits on one page, with short, readable
+      paragraphs.

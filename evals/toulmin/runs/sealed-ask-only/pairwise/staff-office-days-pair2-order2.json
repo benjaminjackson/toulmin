@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-office-days",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-23-08Z",
+  "without_skill_run": "2026-11-16T21-09-49Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a remote hire, I'd be more likely to go along with B. It gives me concrete help: $150 a month toward commuting and a six-month review with staff. It's also signed by a named partner who openly admits there's no complete answer yet for people who can't make it work. A's offer of individual talks hints at exceptions the partners can't actually give, and it offers no practical support."
+}

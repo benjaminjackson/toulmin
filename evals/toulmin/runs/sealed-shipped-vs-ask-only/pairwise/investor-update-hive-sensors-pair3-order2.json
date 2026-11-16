@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-04-47Z",
+  "without_skill_run": "2026-11-16T21-21-11Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks directly to my worry that they're selling too slowly: it shows the break-even math (revenue has to more than double), the margin hit if they match the $45 price, and the March cash cliff, and it says plainly that this spring will settle the question. A is honest too, but it is vaguer and was sent with a '[date]' placeholder still in it."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-49Z",
+  "without_skill_run": "2026-11-16T21-20-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both stay within the facts and both answer my \"members can use chains\" assumption with the 14 counties and the 20-mile distance. B puts the July 1 ask first and closes with three concrete things I can act on (contract term, invoice review, meeting before May 1), which makes it somewhat easier to respond to than A, though its admission that they don't know how much brand-name drugs offset the loss gives me an opening."
+}

@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T21:21:36.753599+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 238
+  tags: []
+  notes: extracted 238 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 5
+    honest: 7
+    works_the_facts: 3
+    right_comparison: 2
+    qualification: 6
+    objections: 3
+    fit: 9
+  details:
+    agree: It reads as a competent, warm application, but a dentist who is unsure
+      about the gap and short-staffed after a sudden departure gets no answer to 'is
+      she free now?' or 'how fast can she start?', so he may not act on it.
+    honest: The figures are accurate, but 'led' the software move is stronger than
+      the brief's 'handled', and 'kept a busy practice running smoothly' is filler
+      the facts don't directly support.
+    works_the_facts: It repeats $38,000 to $9,000 without working it out as a cut
+      of about three-quarters ($29,000 collected), and it never compares the clinic's
+      4 vets and 14 staff with this practice's 3 dentists and 9 staff to show she
+      has run a larger operation.
+    right_comparison: There's no comparison with the dentist's real alternatives,
+      either leaving the seat empty longer or hiring someone who knows Dentrix but
+      has no record of collections or transitions.
+    qualification: The Dentrix commitment names a course and about 20 hours, so it
+      can be checked, but it has no completion date and doesn't say what happens if
+      the start date comes first.
+    objections: 'It mentions the gap but never says her caregiving has ended, and
+      it leaves out the facts that answer the reader''s worries: her 4 current years
+      doing church books in QuickBooks, starting within two weeks, Tuesday and Thursday
+      evenings, and Dr. Kim as a reference.'
+    fit: It's a properly addressed cover letter of about 270 words, within the 300-word
+      limit.

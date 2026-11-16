@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-05-35Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is addressed to me by name. It admits the March deadline was too close, and it backs the fix with evidence: about 600 entries with no errors since the second-person check went in. It also commits to weekly check-ins and certification and asks to meet before the January cycle. A mentions the mistake but gives no proof that the fix worked, so my concern is left unanswered."
+}

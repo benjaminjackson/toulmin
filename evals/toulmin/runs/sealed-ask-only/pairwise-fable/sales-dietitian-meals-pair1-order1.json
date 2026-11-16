@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-21-43Z",
+  "without_skill_run": "2026-11-16T21-08-31Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Having quit three services, I care most about what A tells me and B doesn't: no contract, skip or cancel any time, swap any meal for one of 6 others, and the order deadline. A is also candid that the 14 A1C results came from people who chose to share them, while B adds claims it can't back (\"people stay because the meals fit their lives\", \"less than most takeout\") that make me more wary."
+}

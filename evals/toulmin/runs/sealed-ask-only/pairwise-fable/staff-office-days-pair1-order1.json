@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-22-08Z",
+  "without_skill_run": "2026-11-16T21-09-16Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a remote hire, A tells me what I actually need to decide: there are no exceptions beyond the four, there is a $150 commuting subsidy, a six-month review with staff, and a named partner asking to hear from me. B leaves those out, ends with unfilled \"[Partner name]\" placeholders, and leaves me guessing whether I could negotiate."
+}

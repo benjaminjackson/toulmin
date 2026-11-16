@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-07-41Z",
+  "without_skill_run": "2026-11-16T21-19-37Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "A concedes our staff's numbers, admits it can't promise every boat closes, and offers something we can use: trip logs since 2016 and a catch-reporting app trial. B offers nothing and stretches the facts with a miscalculated $27,000 loss, an assumed $80,000 three-year figure and an unsupported claim that charters land the least flounder in the state."
+}

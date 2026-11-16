@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-52Z",
+  "without_skill_run": "2026-11-16T21-22-24Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives the exact runway math, promises a monthly cash report to bridge investors and gives the correct December 1 reply deadline, and it doesn't present slow customer growth as a win. A leaves out the cash report and tells investors commitments are due December 15, the closing date, instead of the December 1 reply date."
+}

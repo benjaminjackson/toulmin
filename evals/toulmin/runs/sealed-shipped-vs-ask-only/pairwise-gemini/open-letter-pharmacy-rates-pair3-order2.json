@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-49Z",
+  "without_skill_run": "2026-11-16T21-20-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters are remarkably honest about what they know and don't know, and both hit the exact two points that actually make me pause—the 20-mile gap to a chain in 14 counties and the offer to show purchase invoices before the July 1 renewal. Document B is slightly more effective because it leads immediately with the contract renewal and the specific ask, and connects the brand-name offset directly to the offer to open the books."
+}

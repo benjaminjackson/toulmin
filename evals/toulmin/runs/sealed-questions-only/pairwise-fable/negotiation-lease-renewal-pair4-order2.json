@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "negotiation-lease-renewal",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-58Z",
+  "without_skill_run": "2026-11-16T21-05-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B addresses the late payments I still think about, explains the cause, and offers automatic transfer on the 1st, plus a concrete $40,000 hood value, a signing commitment and a deadline; A ignores the late rent, calls the tenant \"steady,\" and leaves name placeholders unfilled."
+}

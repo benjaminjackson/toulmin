@@ -1,0 +1,54 @@
+Here's the draft. It doesn't promise profit next year. It says plainly that the numbers don't support that yet and focuses on what the bridge gets you.
+
+<final_document>
+**Subject: HiveSense half-year update, and a $600k bridge closing December 15**
+
+Hi [names],
+
+Here's where HiveSense stands after the first half of the year, and what we're asking of you.
+
+**The short version**
+We have more than doubled our paying customers. Our largest customer had a much better winter. A large competitor has entered the market. We're raising a $600,000 bridge on a convertible note, $250,000 is already committed, and we'd like you in the rest.
+
+**Customers and revenue**
+- 31 paying commercial beekeepers, up from 12 a year ago.
+- $212,000 in revenue over the last six months. 70% of it came in March and April, ahead of pollination season. Our sales are seasonal: most of the year's revenue arrives in a short window in spring.
+- Each sensor costs us $38 to make and sells for $55, a $17 margin per unit. Customers also pay $4 per hive per month for the app.
+
+**Results at our largest customer**
+Our largest customer runs 4,000 hives. He lost 18% of his colonies this winter, against 31% the winter before, which works out to about 520 more colonies alive. He says the sensors were part of that, but he also changed his mite treatment that year, so we can't claim the whole improvement. This winter is the next test.
+
+**Competition**
+In May, a large farm equipment company launched a similar sensor at $45. Theirs measures only temperature. Ours also measures sound and hive weight. Three of our customers have asked to try theirs. That will be the clearest test of whether beekeepers value the extra measurements enough to pay for them, and I'll report what those three decide.
+
+**Cash**
+We spend about $95,000 a month and have $340,000 in the bank. Counting spending alone, that runs out around the start of next spring's selling season, which is when most of our revenue arrives.
+
+We're cutting spending to $75,000 a month by February by not filling two open roles. With the cuts and the full bridge, and before counting any revenue, our cash lasts into autumn 2027. That takes us through a full spring season with more than twice last year's customers.
+
+On profitability: on today's numbers we won't be profitable next year, and I'm not going to tell you otherwise. What the bridge buys is a second spring of sales, a lower cost base and a direct comparison against a big competitor. After that we can show you a path to profit built on real numbers, not hopes.
+
+**The bridge**
+- $600,000 convertible note, 20% discount, $6M cap
+- $250,000 already committed by one angel
+- Closes December 15
+- Everyone who invests in the bridge gets a monthly cash report from me
+
+If you'd like to take part, please reply to me by **December 1**.
+
+Thank you for backing us this far.
+
+[Name]
+[Title], HiveSense
+</final_document>
+
+Please check these before you send it:
+
+- **The runway figures are my rough arithmetic. Check them.** I assumed $95k a month until February and $75k after, counted no revenue, and treated the bridge as fully raised.
+  - **Without the bridge:** $340k runs out around mid-March.
+  - **With the bridge:** about $940k lasts into roughly October or November 2027.
+  - If your own cash forecast says something different, use your dates.
+- **Sound and hive weight:** the draft only says your sensor measures them. If you can say in one line what they catch that temperature alone misses (for example, an earlier warning of queen loss or starvation), add it. That's your strongest answer to the $45 price.
+- **Subscription numbers:** if you can get the subscribed hive count and how much of the $212k was subscriptions versus sensor sales before you send, add them. Investors will ask how much of the revenue repeats.
+- **The customer:** I left him unnamed. If he agrees to be quoted, one sentence from him would make that section stronger.
+- **Investor questions:** you haven't set a minimum cheque size yet, so expect to be asked.

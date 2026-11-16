@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-06-32Z",
+  "without_skill_run": "2026-11-16T21-22-09Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B is upfront that one attorney leaves in June, so the grant really keeps the clinic at two attorneys. A calls the hire a 'third attorney', which the departure undercuts, and it turns '80 open cases' into an unsupported 80 extra tenants a year. A is more polished and includes the reporting and outcome-data commitments, but B's honest account of staffing earns more trust, despite its [County] placeholder."
+}

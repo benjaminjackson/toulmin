@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:20:52.261071+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 231
+  tags: []
+  notes: extracted 231 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 6
+    objections: 6
+    fit: 9
+  details:
+    agree: 'The letter is a credible case that would probably get Linda an interview,
+      but it leaves out the two points that matter most to an owner whose manager
+      just quit on two weeks'' notice: she can start within two weeks and can work
+      the Tuesday and Thursday evenings.'
+    honest: Every claim matches the brief, including the $38,000 to $9,000 figures,
+      the 20-hour Dentrix course and the move to software in 2014; 'I brought unpaid
+      invoices down' is a fair reading of what she reported.
+    works_the_facts: The receivables numbers are given raw rather than as a cut of
+      more than three-quarters, and the letter never points out that she ran 14 staff,
+      more than the 9 this job supervises.
+    right_comparison: 'The letter never sets her scale against this job''s: she has
+      run a larger team than he needs, and it doesn''t say so.'
+    qualification: The Dentrix promise names a course, a number of hours and a deadline
+      (before day one) that he can check, but no actual date ties it to a start within
+      two weeks.
+    objections: The Dentrix gap is handled well and the caregiving years are framed
+      plainly, but a reader still unsure about long gaps gets no evidence of recent
+      work, such as her four years doing church books in QuickBooks, and no reference
+      he can call, such as Dr. Sue Kim.
+    fit: It is a properly addressed cover letter of about 250 words, inside the 300-word
+      limit, in a tone that suits a small-practice owner reading between patients.

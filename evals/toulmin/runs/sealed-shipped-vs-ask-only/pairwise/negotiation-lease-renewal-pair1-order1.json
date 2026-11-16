@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-lease-renewal",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-03-24Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A addresses the two late payments I still think about: it explains the cooler failure, thanks me for waiving the fees and offers automatic transfers. It also commits to signing within two weeks, and those concrete reassurances make me more willing to accept the lower rent. Document B never mentions the late payments and still has unfilled placeholders, so it reads as unfinished and less trustworthy."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "recommendation-phd-applicant",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-27Z",
+  "without_skill_run": "2026-11-16T21-07-30Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me a calibrated ranking (one of the three best in 17 years), outside corroboration from the shellfish lab supervisor, and a frank statement of the study's limits, which makes the praise credible from an unknown college; A is riddled with unfilled placeholders, generic superlatives, and says she 'designed' the study, which I can't verify."
+}

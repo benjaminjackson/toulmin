@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-dental-office",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-04-10Z",
+  "without_skill_run": "2026-11-16T21-20-52Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B explains the gap fully: my mother died last spring, so she is free to work now. It also says her skills stayed in use, ties her clinic's size to mine and names a reference who will vouch for her. Those details settle the doubts I have about a long gap. A leaves the gap's ending vague, has no reference or contact details, and says she 'led' the software move when the facts only support 'handled'."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-21-43Z",
+  "without_skill_run": "2026-11-16T21-08-31Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who has quit three services, B answers my real worries: no contract, skip or cancel any time, swap meals for 6 other choices, order deadline and delivery area, and a named dietitian who admits the 14 results were self-selected. A is honest too but leaves out the cancel and swap terms I need before paying $59, and its 'real food you'll want to eat' line sounds like the promises I've heard before."
+}

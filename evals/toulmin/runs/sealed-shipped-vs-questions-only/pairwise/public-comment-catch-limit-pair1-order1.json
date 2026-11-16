@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-catch-limit",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-06-16Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both accept the staff's numbers and offer the same alternatives and data. A stays strictly within the facts and ends with a concrete request that staff evaluate a 3-fish limit or shorter season. B adds unsupported claims (\"This time looks worse,\" \"Either one lets the stock recover\"), which commissioners who trust their staff would discount."
+}

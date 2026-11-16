@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:03:05.106930+00:00'
+outcome: pass
+score: 0.35
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 442
+  tags: []
+  notes: extracted 442 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.35
+  metrics:
+    agree: 2
+    honest: 5
+    works_the_facts: 4
+    right_comparison: 3
+    qualification: 3
+    objections: 2
+    fit: 4
+  details:
+    agree: A partner who already thinks sales are too slow gets a draft full of brackets,
+      with no terms, no deadline, no committed lead money and no answer on sales pace,
+      so there is nothing here to act on.
+    honest: The draft handles the mite-treatment confound and the competitor's price
+      fairly, but it still sets a 2027 profitability goal that the margins and burn
+      don't support, and its placeholders invite made-up figures.
+    works_the_facts: It works out that cash runs out around early March, just before
+      the spring revenue window, which is useful, but it never states 12-to-31 as
+      2.6x growth, never shows the $17 hardware margin, and never shows how far revenue
+      is from covering the $95k monthly burn.
+    right_comparison: 'Running out of cash before spring is a real ''nothing changes''
+      baseline, but the competitor comparison is left as placeholders when the facts
+      were available: the $45 sensor measures only temperature, while this one also
+      measures sound and weight.'
+    qualification: 'The profitability conditions and the promise to ''report against
+      each'' contain no actual numbers or dates, and the available checkable commitments
+      are missing: the cut to $75k a month by February and the monthly cash report.'
+    objections: The reader's main objection, slow selling, is never addressed, and
+      facts that would reassure them, the $250k angel commitment and the $75k burn
+      cut, are left out.
+    fit: The structure and length are right for an investor update under 600 words,
+      but with this many unfilled brackets it is a template, not a document that could
+      be sent.

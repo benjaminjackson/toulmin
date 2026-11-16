@@ -1,0 +1,24 @@
+I've written it with the regular cleaner and named backup. Each claim in it comes from what you told me.
+
+<final_document>
+Subject: Your own cleaner, and a named backup
+
+Hello,
+
+When customers left Brightway this past year, the two reasons we heard most were price and a different cleaner showing up each time. The second one was on us. Last year 7 of our 18 cleaners left, and about 4 in 10 customers saw their cleaner change.
+
+So in July we changed how we work. Every customer now has their own regular cleaner, plus a named backup for sick days and holidays. Since then, only 1 of our 18 cleaners has left.
+
+On price: an every-other-week clean of a 3-bedroom home is $165 with us, about $25 more than the app services. That's because our cleaners are employees, paid $21 an hour and insured on every visit. Most app services here use contractors with no insurance on the visit.
+
+If you come back, your first cleaning is $99. The offer ends December 31. Reply to this email or call 555-0164.
+
+Lisa Grant
+Owner, Brightway Home Cleaning
+</final_document>
+
+- **Length:** It's about 165 words, a bit over your 150. The extra words go to admitting last year's turnover. These customers lived through it, so I think owning up to it earns trust for the July change. If you need to cut, the 7-of-18 sentence can go.
+- **Price after the $99 visit:** The email doesn't say, because you don't know yet. It's the first thing people who left over price will ask. If you can settle it before sending, one sentence would make the email stronger.
+- **How strong I could make it:** "Only 1 of 18 has left since July" is your best evidence, so I stated it plainly. But it covers only about four months, so the email doesn't say the change caused it.
+- **Unused details:** I left out "you'll always know who's coming" and anything about what the insurance covers, since you weren't sure about either. If you confirm customers are told their backup's name ahead of time, that line is worth adding.
+- **Greeting:** It's "Hello" because I didn't have a merge field. If your email tool supports one, swap in first names.

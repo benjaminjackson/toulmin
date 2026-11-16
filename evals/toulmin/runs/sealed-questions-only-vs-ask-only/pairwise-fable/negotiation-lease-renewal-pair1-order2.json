@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "negotiation-lease-renewal",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B addresses the thing I keep bringing up — the late rent — with an explanation (cooler failure), thanks, and a concrete fix (autopay on the 1st), plus a two-week signing commitment and the $40,000 hood value to a new tenant; A ignores the late payments entirely and its line that year-five rent is 'more than your proposed figure' feels like a stretch."
+}

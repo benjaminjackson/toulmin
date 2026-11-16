@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T21:22:07.867270+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 259
+  tags: []
+  notes: extracted 259 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 5
+    right_comparison: 5
+    objections: 7
+    fit: 8
+  details:
+    agree: The letter gives Frank a firm offer, explains the late payments and adds
+      automatic payment, but it never shows him what an empty space or a new tenant's
+      build-out would cost him, so a landlord who has a coffee chain interested has
+      little reason to drop $550 a month.
+    honest: Every figure matches the brief or what the user supplied (the $5,740 in
+      year five is correct compounding), and no claim is overstated.
+    works_the_facts: 'It works out the year-five rent but leaves the stronger numbers
+      unstated: $5,100 comes to about $26 a square foot against the $28 unit next
+      door, that unit has gone about $65,000 in rent unearned, and a new tenant would
+      pay about $40,000 for a hood.'
+    right_comparison: 'It points to the unit that has sat empty for 14 months at $28,
+      but it never spells out what Frank faces with the coffee chain: months with
+      no rent and a tenant who would need its own build-out, against a reliable tenant
+      at $5,100 rising to $5,740.'
+    qualification: The offer is firm and has no hedges that need a condition, though
+      leaving out the June 1 reply date the user wanted is a gap.
+    objections: It deals directly with the late payments (gives the cooler failure
+      as the cause, thanks him for waiving the fees, offers automatic transfer) and
+      with the coffee chain, but its answer to the chain is only 'I'm a tenant you
+      already know' and gives no figures.
+    fit: It is a short, polite email of about 280 words, under the 300-word limit,
+      though it has no reply-by date and says 'two things' where its list is a bit
+      mixed.

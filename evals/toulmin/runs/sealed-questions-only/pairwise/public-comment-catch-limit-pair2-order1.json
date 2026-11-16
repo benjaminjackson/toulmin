@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-catch-limit",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-33-15Z",
+  "without_skill_run": "2026-11-16T21-07-58Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives us a specific alternative we can actually vote on (3 fish or a shorter season), offers concrete help in return (trip logs and a reporting-app pilot), and is candid about what the captain can't claim, so it reads as more credible than the usual hearing testimony. Document B makes the same fairness argument but offers nothing in return and asks for broader changes, which makes it easier to set aside."
+}

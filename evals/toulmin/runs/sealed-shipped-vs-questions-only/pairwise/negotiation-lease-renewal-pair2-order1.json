@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-lease-renewal",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-04-31Z",
+  "without_skill_run": "2026-11-16T21-33-08Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A deals with the coffee chain head-on: it points out that a coffee shop wouldn't use the hood, and that his $29 asking rate is above the $28 the unit down the street hasn't rented at for 14 months. B handles the old late payments well and frames the cost of a vacancy nicely, but it never addresses the coffee chain and leaves a '[Your name]' placeholder in the signature."
+}

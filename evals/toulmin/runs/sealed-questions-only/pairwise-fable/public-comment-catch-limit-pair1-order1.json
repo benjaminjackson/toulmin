@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-07-24Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A accepts our staff's stock numbers outright, gives a concrete alternative, limits its claims to the captain's own books plus two named-in-kind captains, and offers trip logs and a reporting-app pilot we can actually use; B has unfilled placeholders, no data offer, and leans on a fairness argument we hear at every hearing."
+}

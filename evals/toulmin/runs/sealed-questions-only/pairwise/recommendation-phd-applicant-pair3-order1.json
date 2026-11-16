@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-37-07Z",
+  "without_skill_run": "2026-11-16T21-08-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives the concrete, checkable signals a skeptical reader needs from an unknown small college: a top-three ranking out of 17 years, a supervisor who would hire her again, and two weeks running the lab's water sampling alone. It is also candid about the unrepeated result. B is full of placeholders, relies on generic praise, and adds details the brief does not support, such as saying she designed the sampling scheme and that it was a 'single season.'"
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-05Z",
+  "without_skill_run": "2026-11-16T21-02-01Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who got a refund last time and just gave to the ambulance fund, I'd trust B more: it names Ruth and the Majestic, notes the $11,000 already pledged, and promises my money back if the goal isn't met. It also offers quarterly spending reports and is upfront about the roof cost possibly rising, while A has unfilled placeholders and doesn't say what happens if the campaign falls short."
+}

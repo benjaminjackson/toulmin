@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "investor-update-hive-sensors",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-45Z",
+  "without_skill_run": "2026-11-16T21-03-05Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me actual terms, the $250K already committed, a concrete spend cut, the competitor's real difference, and a straight admission that profit next year isn't supported; A is full of unfilled placeholders on exactly the points I'd need (terms, differentiation, path to profit) and still floats a 2027 profitability goal without numbers."
+}

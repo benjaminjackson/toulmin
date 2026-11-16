@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-dental-office",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is signed with her name and says she can cover my Tuesday and Thursday evening hours. It also puts her billing results up front and points out that the clinic she ran was larger than my practice. A ends with placeholder brackets, which looks careless, and it never mentions evenings."
+}

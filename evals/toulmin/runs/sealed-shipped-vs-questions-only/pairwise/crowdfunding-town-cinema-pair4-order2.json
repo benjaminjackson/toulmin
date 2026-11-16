@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-03Z",
+  "without_skill_run": "2026-11-16T21-34-54Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks to my doubts more directly. It openly says the roof estimate could rise by up to 15% and that new films may not open here in their first week, and it explains how $1 rent keeps the cinema running. That candour makes me trust it more after the refunds last time, while A reads as a tidier list of facts."
+}

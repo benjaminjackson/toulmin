@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-12-32Z",
+  "without_skill_run": "2026-11-16T21-24-24Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B puts the $99 offer right in the subject line and assures me there is no contract, making it a low-risk deal to take advantage of even if I'm currently happy with the cheaper app. Document A's subject line and opening assume something went wrong when I only left to save money, and it leaves out the no-contract policy."
+}

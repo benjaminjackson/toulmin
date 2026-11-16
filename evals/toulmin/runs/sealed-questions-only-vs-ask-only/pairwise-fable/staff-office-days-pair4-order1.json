@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-38-45Z",
+  "without_skill_run": "2026-11-16T21-24-55Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both give the same facts, but B opens with the decision, says outright that the firm is going back on what remote hires were promised, takes responsibility for the junior-staff gap, and invites private questions. As a remote hire I'd find that more respectful and credible than A's slightly more defensive, bullet-led version."
+}

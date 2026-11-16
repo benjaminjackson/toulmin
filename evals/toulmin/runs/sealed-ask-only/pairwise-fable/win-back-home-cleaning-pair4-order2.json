@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "win-back-home-cleaning",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-24-24Z",
+  "without_skill_run": "2026-11-16T21-11-15Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me what I need to act: a real deadline, a phone number and reply option, a named owner, and the point that my cheaper app service likely has no insurance on the visit, which is the one thing that makes me question my savings. A has unfilled placeholders, no deadline, and wrongly assumes my complaint was the cleaner when I had none."
+}

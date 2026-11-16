@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:34:24.236580+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 294
+  tags: []
+  notes: extracted 294 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 7
+    qualification: 5
+    objections: 4
+    fit: 7
+  details:
+    agree: The candour and the offer of trip logs earn some credibility, but a commission
+      that trusts its staff gets no reason to think 3 fish or a shorter season would
+      rebuild the stock, so most commissioners would probably still vote for the staff's
+      2-fish cut.
+    honest: It drops the 'every boat will close' claim and states exactly what is
+      known about the two captains, but 'the smallest share' and 'one of the biggest
+      hits' go a little past the 9%/80% split, and 'next summer' slightly restates
+      the brief's 'this season'.
+    works_the_facts: 'It works out the $28,800 loss and the 15-trip shortfall correctly,
+      but it leaves useful figures unused: the survey as 59% versus 17%, the 19% drop
+      in bookings, and the size of a season''s revenue (about $144,000).'
+    right_comparison: It uses 2016 as the model for what a cut does and gives the
+      partial recovery honestly, though it never says how much of the conservation
+      gain 3 fish or a shorter season would give up compared with 2 fish.
+    qualification: The note about 70% of trips already booked explains when the damage
+      would show, and the logs and app trial are checkable, but no hedge gives a date
+      or number that would show the prediction right or wrong, or says what follows
+      if it is wrong.
+    objections: The resisting commissioner's main question, whether anything short
+      of the staff's 2-fish cut meets the stock target, is never raised or answered,
+      and the point that private anglers face the same per-angler limit is left alone.
+    fit: It is spoken, direct and well paced for a public comment, but at about 330
+      words it may run a little over two minutes at the microphone.

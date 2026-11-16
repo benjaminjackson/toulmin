@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B puts the ask first, admits the problems in a plain 'What's hard' section, and offers a clear milestone: a report after the 2027 season on whether beekeepers choose HiveSense over the cheaper rival. That speaks more directly to my doubt about sales pace. A is more candid that revenue must roughly double to break even, but it reads more flatly and gives me less reason to act."
+}

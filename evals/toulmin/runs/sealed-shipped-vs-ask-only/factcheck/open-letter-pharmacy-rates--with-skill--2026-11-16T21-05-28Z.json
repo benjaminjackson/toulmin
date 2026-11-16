@@ -1,0 +1,17 @@
+{
+  "task": "open-letter-pharmacy-rates",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-05-28Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Every one of those that is one of the 20 generics now costs us money to fill.",
+      "why": "The brief states that the plan pays on average $1.80 less than cost across the 20 generic drugs, not that every single prescription among those 20 drugs loses money."
+    },
+    {
+      "quote": "We have filled prescriptions for your members for years",
+      "why": "The brief only gives prescription data for last year and since January, and does not state that the pharmacies have filled prescriptions for plan members for years."
+    }
+  ],
+  "invented_count": 2
+}

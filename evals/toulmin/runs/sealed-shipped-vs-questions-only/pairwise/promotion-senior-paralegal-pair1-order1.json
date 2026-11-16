@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-05-01Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B gives me concrete commitments for the supervisory role, namely a weekly check-in and certification by June 2027, along with an honest 'I can't promise I'll never make an error' and a request to meet in person, so it directly addresses my concern about the March error. B's unfilled '[Your name]' placeholder is sloppy, while A is clean, offers a fallback and discloses the trainee who left, which keeps the gap close."
+}

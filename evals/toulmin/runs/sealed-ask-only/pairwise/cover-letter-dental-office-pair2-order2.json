@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-dental-office",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-19-25Z",
+  "without_skill_run": "2026-11-16T21-01-53Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is addressed to me by name and names my practice, and it answers the Dentrix gap with a 20-hour course she has already enrolled in and will finish before her first day. A only says she is confident she can learn it, and its unfilled placeholders make it look like a form letter. Both handle the seven-year gap honestly, but B gives me a concrete reason to call her."
+}

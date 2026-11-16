@@ -1,0 +1,29 @@
+The comment is below, at about 290 words, which takes about two minutes at an unhurried pace. It doesn't say every boat will go out of business, because you can't back that up and the commission would know it. Instead it says every boat would be at risk, the real story behind that, and that you can't promise they'll survive. All of that is true.
+
+Some notes on choices I made:
+
+- **Dollar figures:** I worked them out from your numbers. 32 lost trips × $900 = $28,800, and 15 trips × $900 = $13,500.
+- **2016 recovery:** I said it took "years" because you gave me 2016 and two years later, but not the year in between.
+- **The 70% booked:** I used it to show that real customers are already involved. I didn't claim they booked expecting four fish, since you didn't tell me that.
+- **The stock numbers:** I agreed with them outright. Arguing against data you don't dispute would cost you more than it gains.
+- **Things I left out:** break-even, closures, and the other 17 survey answers.
+- **"Every trip from 2016 on":** I took this to mean your logs for every trip since 2016. If it's only some years, change that line.
+- **Written comment:** If one turns out to be allowed, the trip logs and full survey details belong there.
+
+<final_document>
+Good evening. I'm Captain Ray Dunn. I've run the Sea Lark out of this harbor for twenty-two years, about 160 trips a season, up to six people a trip.
+
+I'm not here to argue with your staff's numbers. The stock is at 78 percent of target, and I want it back at 100 as much as anyone. My living depends on it. I'm here to ask you to get there without going to two fish. Give us a three-fish limit or a shorter season instead.
+
+Here's why. I've been through this before. When the limit was cut in 2016, my bookings fell from 170 trips to 138 the next season. That's thirty-two trips, almost $29,000, gone in one year from one boat. Two years later I was still fifteen trips short. Recovery took years, and a two-fish limit for three years is a deeper cut held longer.
+
+Our charter association asked seventy past customers what they'd do at two fish. Forty-one said they'd book fewer trips. Only twelve said they'd book the same.
+
+There are eleven charter boats in this harbor. Two captains have told me that if bookings drop the way they did in 2016, they'll sell. I can't promise you every boat here survives this. I can tell you every one of us would be at risk, and that charter boats land about nine percent of the state's summer flounder. Private boats land about eighty. A cut that weighs this heavily on us can't do much for the stock on its own.
+
+About seventy percent of my trips are already booked. Those are real families and real paychecks.
+
+We'll help you get this right. I'll hand your staff my trip logs for every season since 2016, and next season our association will test a catch-reporting app with your staff. Let's rebuild this stock with better data and a three-fish limit or a shorter season, not by cutting to two.
+
+Thank you.
+</final_document>

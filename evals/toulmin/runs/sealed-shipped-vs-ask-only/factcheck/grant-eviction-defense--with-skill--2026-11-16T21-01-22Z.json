@@ -1,0 +1,13 @@
+{
+  "task": "grant-eviction-defense",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-01-22Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Starting in January 2027, we will request court-wide outcome data from the county clerk so that our results can be measured against it.",
+      "why": "The provided information states that the clinic will ask the county clerk for data starting in January, but does not give the year 2027."
+    }
+  ],
+  "invented_count": 1
+}

@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:08:09.270330+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 440
+  tags: []
+  notes: extracted 440 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 8
+    qualification: 7
+    objections: 8
+    fit: 9
+  details:
+    agree: A skeptical director gets a specific below-cost figure, a checkable invoice
+      offer, and the 14-county gap against her chain-pharmacy belief, so she is likely
+      to take the meeting even if she isn't won over on rates.
+    honest: The letter drops the unsupported 'a third will close within a year' claim
+      and says plainly that it can't tie the nine closures to rates, though 'Some
+      of us already can't' stretches a little past two pharmacies saying they will
+      stop filling.
+    works_the_facts: Turning '20 miles' into a 40-mile round trip and 22 percent into
+      'more than a fifth' are both good, but the letter never works out a dollar loss
+      (e.g., around $5,600 a year at Reilly Drug if those 3,100 prescriptions were
+      the 20 generics), so the $1.80 is never given its weight.
+    right_comparison: Against her belief that members have plenty of chains, the letter
+      shows the real alternative in 14 counties (a chain more than 20 miles away)
+      and points to the trend of nine closures in two years.
+    qualification: The brand-drug offset is stated as unknown and tied to invoices
+      the plan can check, and the requests carry the dates July 1 and May 1, but the
+      warning about two pharmacies stopping has no date.
+    objections: The 'they complain every year' objection is met by offering invoices
+      for all 20 drugs, the 'plenty of chains' objection by the 14-county distances,
+      and the brand-drug offset is raised honestly because the facts can't answer
+      it.
+    fit: It is a one-page open letter with a clear request and signatory, and it works
+      both for the plan and for newspaper readers.

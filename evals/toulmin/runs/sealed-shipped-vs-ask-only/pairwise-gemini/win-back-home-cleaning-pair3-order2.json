@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-home-cleaning",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-11-34Z",
+  "without_skill_run": "2026-11-16T21-23-39Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses why I left—the $25 price difference—and points out that my current app service likely uses uninsured contractors, which makes me reconsider my savings. Document A invents a promise that I will have met the backup cleaner beforehand, whereas Document B stays strictly honest to the facts."
+}

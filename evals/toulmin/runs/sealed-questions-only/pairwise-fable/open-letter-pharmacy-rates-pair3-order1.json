@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-27Z",
+  "without_skill_run": "2026-11-16T21-06-02Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A directly answers my two doubts: it tells me chains are more than 20 miles away in 14 counties, that two pharmacies will stop serving my members, admits the brand-drug offset and unknown closure causes, and offers invoices and a meeting before May 1 so I can verify. B reads like the yearly complaint, implies closures were rate-driven, and adds a PBM transparency demand without offering proof."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "promotion-senior-paralegal",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-05-35Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is addressed to me by name, signed, and ready to act on (January cycle, December 15, a meeting request), and it faces the March deadline error squarely—admitting it was too close and tying the fix to how a supervisor should respond. B arrives with unfilled placeholders for my name and hers, which is exactly the kind of carelessness I'd worry about given that error, and its treatment of the mistake is more glossed."
+}

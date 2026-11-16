@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "grant-eviction-defense",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-04-31Z",
+  "without_skill_run": "2026-11-16T21-20-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A states the ask up front and maps cleanly onto a rubric (Need, Results, Budget, Accountability), and it is candid about the missing comparison figure and the county contract risk. B overstates: it says the plan \"does not depend\" on the county contract though $13,000 a year comes from the general budget that contract feeds, promises a handover \"without a gap\", and adds unsupported detail about children and schools."
+}

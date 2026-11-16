@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-office-days",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-08-56Z",
+  "without_skill_run": "2026-11-16T21-35-44Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "As a remote hire, I find B a bit more convincing. It describes concretely what juniors miss by not sitting near the leads, it admits plainly that the partners haven't set that example, and it says the commuting money applies to everyone. A is warm and easy to scan, but it adds 'Monday and Friday stay remote', which isn't in the brief."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "promotion-senior-paralegal",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-58Z",
+  "without_skill_run": "2026-11-16T21-19-26Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B calls the March error a serious mistake, owns it without spin, and ties the fix directly to how she would supervise, which answers the concern I raised in her review. A files it under an \"Accountability\" heading as if it were a credential, overclaims that she has been informally supervising for two years, and raises a budget question nobody asked."
+}

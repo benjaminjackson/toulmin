@@ -1,0 +1,61 @@
+grader: judge
+graded: '2026-11-16T21:36:44.714950+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 413
+  tags: []
+  notes: extracted 413 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 4
+    objections: 7
+    fit: 9
+  details:
+    agree: "The note is candid and gives concrete support: the partners will also\
+      \ be in three days, there is a commuting stipend, desks are coming, and the\
+      \ policy will be reviewed. Most staff will go along, but a remote hire who lives\
+      \ 1\u20132 hours away gets no accommodation beyond the stipend and may still\
+      \ leave."
+    honest: 'The facts match what the writer had, and the link between the junior
+      delays and remote work is hedged properly (''we think that''s part of the gap'').
+      One line overreaches: ''we lost it because of how we came across'' states as
+      cause what the clients only gave as feedback.'
+    works_the_facts: 'The figures are repeated as given and never developed: the 30%
+      delay isn''t turned into months, the 15 remote hires aren''t shown as a third
+      of the 46 staff, and nothing says what the hospital losses cost or what continuing
+      as now would mean.'
+    right_comparison: The current setup is implied by the lost bids and the slower
+      development of juniors, and the partners' own one-day pattern is set against
+      the new rule. But the note never says outright what happens if nothing changes,
+      and it gives no trend.
+    qualification: The six-month review has a rough date. It has no measure, such
+      as interview wins or how fast juniors reach project lead, and no stated consequence
+      if the policy isn't working, so readers have nothing they can check.
+    objections: 'The note faces the main objection directly (''a real change to the
+      job you took on'') and covers the obvious practical concerns: desks, commuting
+      cost, and whether the partners will also come in. It doesn''t explain why three
+      days rather than fewer, and it offers nothing to remote hires who live under
+      two hours away but still far.'
+    fit: It is a one-page email with a clear subject line and short, headed sections,
+      and it leads into the Friday meeting as the brief asked.

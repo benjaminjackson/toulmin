@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:38:45.190902+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 451
+  tags: []
+  notes: extracted 451 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 4
+    objections: 5
+    fit: 8
+  details:
+    agree: "The plain acknowledgement of the broken remote promise, the partners committing\
+      \ to three days, and the commuting and desk details will bring most people along,\
+      \ but a remote hire who lives 60\u201390 minutes away gets no exception and\
+      \ only a vague 'talk to me', so some will still lean toward leaving."
+    honest: Most facts are reported accurately, but 'could have won' is the writer's
+      addition, and the paragraph on how architects learn by sitting nearby presents
+      the 30% slowdown as caused by remote work, which the brief only implies.
+    works_the_facts: 'The figures are only restated, and the strongest available fact
+      goes unused: 5 of the 6 project leads already come in three days a week by choice,
+      which would show the change follows how senior people already work.'
+    right_comparison: The alternative of staying remote is shown through the two lost
+      hospital bids and the slower progress of juniors, but nothing says whether these
+      problems are getting worse or what continuing as now would cost.
+    qualification: The six-month review is promised but has no date (around March
+      2028) and no stated outcome or criteria, and the offer to raise 'a serious problem'
+      clashes with the flat no-exceptions rule.
+    objections: It meets the 'you broke our deal' objection head-on and covers commuting
+      cost and desk space, but it does not answer 'why three days rather than two'
+      or what happens to remote hires who live between 30 miles and two hours away.
+    fit: It is a one-page email with clear headed sections, sent ahead of the Friday
+      meeting with the time, place and contacts given, as the brief asked.

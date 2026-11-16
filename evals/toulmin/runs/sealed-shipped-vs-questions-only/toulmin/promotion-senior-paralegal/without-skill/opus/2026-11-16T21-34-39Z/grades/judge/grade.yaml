@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T21:35:27.391865+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 328
+  tags: []
+  notes: extracted 328 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 7
+    right_comparison: 5
+    qualification: 5
+    objections: 8
+    fit: 9
+  details:
+    agree: The partner remembers the March error, and the letter brings it up without
+      being asked, then answers it with the second-person check and its record of
+      about 600 entries with no errors; that makes a meeting and serious consideration
+      likely, though it may not settle the decision.
+    honest: The numbers are accurate, but saying the senior role means 'making sure
+      the group never misses a deadline' and that she 'already do[es] much of that
+      work' goes further than the brief, which only says the role supervises the other
+      paralegals.
+    works_the_facts: It works out the 90 hours over target and uses the 600 clean
+      entries since April well, but it could have given the overage as a percentage
+      (about 6%) and pointed out that the sheet now protects three groups, not one.
+    right_comparison: Before and after the check is a useful comparison, but the letter
+      never describes what the group looks like if the promotion is not made, for
+      example the trained paralegals continuing without formal supervision.
+    qualification: The certification date (June 2027) and the weekly check-in can
+      be checked, but neither comes with a consequence if missed, and 'I can't promise
+      I'll never make another error' is an honest caveat that gives the reader nothing
+      to verify.
+    objections: It deals head-on with the deadline error the partner raised in her
+      last review, with a specific fix and a track record since, and it doesn't raise
+      any objection the facts already answer.
+    fit: It is a short promotion request email to the managing partner, about 370
+      words, under the 400-word limit, with clear sections and a specific request
+      for a meeting.

@@ -1,0 +1,25 @@
+{
+  "task": "grant-eviction-defense",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-22-09Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The position does not depend on our $60,000 county contract, which comes up for renewal in October 2027.",
+      "why": "The brief says the county contract is up for renewal in October, not October 2027, and does not state that the new position does not depend on the county contract (especially since $13,000 comes from the general budget)."
+    },
+    {
+      "quote": "The new attorney will start before our departing attorney leaves.",
+      "why": "While the departing attorney agreed to spend her last month in June training the new hire, the brief does not state as fact that a new hire will definitely start by then, especially since the foundation decides in May and the last opening took 5 months to fill."
+    },
+    {
+      "quote": "so her cases can pass to the new attorney without a gap in representation.",
+      "why": "The brief states that the departing attorney agreed to train the new hire, not that the new hire (who was meant to be a third attorney) will take over the departing attorney's caseload."
+    },
+    {
+      "quote": "With this grant, we will keep at least two full-time attorneys defending tenants in [County] for the next two years.",
+      "why": "The brief does not specify that the attorneys are full-time."
+    }
+  ],
+  "invented_count": 4
+}

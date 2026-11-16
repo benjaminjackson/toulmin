@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-dental-office",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is addressed to me by name and gives me something concrete on Dentrix: she's already signed up for a 20-hour course and will finish it before her first day. A has unfilled placeholders and only says she's \"ready to start learning.\" That leaves me with an open gap in her skills on top of the seven-year gap I'm already unsure about."
+}

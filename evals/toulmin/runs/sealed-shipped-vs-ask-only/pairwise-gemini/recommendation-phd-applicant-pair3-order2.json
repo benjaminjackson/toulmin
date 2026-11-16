@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-phd-applicant",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-09-36Z",
+  "without_skill_run": "2026-11-16T21-23-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B sticks strictly to the facts, whereas Document A invents details not in the brief (that she designed the study, never missed a schedule, and would be rehired 'without hesitation'). Additionally, as a skeptical faculty reader, I am won over by Document B's dedicated paragraph assessing the exact scientific limitations and publishability of the dataset."
+}

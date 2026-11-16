@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "grant-eviction-defense",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-43Z",
+  "without_skill_run": "2026-11-16T21-02-51Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is a complete, candid summary I can score against the rubric: it discloses the departing attorney, the missing comparison data, the full budget with matched funds, and reporting commitments. Document B is riddled with unfilled brackets (funding sources, sustainability plan, staffing) and asserts a net third attorney without showing how the departure is covered, so it reads as an unfinished draft."
+}

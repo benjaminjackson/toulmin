@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "win-back-home-cleaning",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-09-37Z",
+  "without_skill_run": "2026-11-16T21-22-10Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both give me the same facts and the same $99 offer, but B is plainer about what changed: it says outright that they fixed the cleaner problem and haven't matched the price, and the 7-of-18 versus one contrast makes the fix believable. A's \"We've worked on both\" made me expect a lower price that never came."
+}

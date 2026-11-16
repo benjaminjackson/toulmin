@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-10-04Z",
+  "without_skill_run": "2026-11-16T21-36-44Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B speaks to me as a remote hire in its second paragraph, admits the partners haven't set the example, adds that five of six project leads already come in, and states the no-exceptions line plainly with a private route for questions. A's candour about causation and the nine months' notice are good, but it leaves the broken-terms acknowledgement to a bullet further down."
+}

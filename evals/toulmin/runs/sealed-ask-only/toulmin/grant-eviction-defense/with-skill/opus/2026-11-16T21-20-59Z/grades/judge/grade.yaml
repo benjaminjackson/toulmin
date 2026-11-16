@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:22:09.095299+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 291
+  tags: []
+  notes: extracted 291 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 5
+    honest: 4
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 4
+    objections: 4
+    fit: 8
+  details:
+    agree: The need and the budget are clear enough to score well on a rubric, but
+      a skeptical judge would stop at the muddled 'keeps two / grow to three' logic
+      and the claim of a seamless handoff.
+    honest: The document says cases 'carry over without a gap' even though the foundation
+      decides in May, the departing attorney leaves in June and the last hire took
+      five months. It also says the plan 'does not depend' on the county contract
+      when the general budget's reliance on that money is unknown, and it adds 'keep
+      children in their schools,' which is not in the facts.
+    works_the_facts: It works out 'one in seven' and the $13,000 budget gap correctly,
+      but it never adds up total demand (about 463 tenants asked for help, so roughly
+      two in three were turned away) or shows what the caseload becomes after the
+      June departure.
+    right_comparison: 'It never states the real alternative: without the grant the
+      clinic drops to one attorney carrying 80 or more cases and turns away even more
+      tenants. It also leaves the 58% without a baseline until next year''s data arrives.'
+    qualification: The reporting schedule and the January clerk request have dates,
+      but the real risks (hiring delay and county non-renewal) are either asserted
+      away or left out, with no consequence named if they go wrong.
+    objections: It answers the funding-gap question, but it does not deal with hiring
+      timing or what happens after two years, and it creates a new objection by confusing
+      replacing the departing attorney with adding a third.
+    fit: At about 290 words, with clear sections suited to a project summary, it fits
+      the 300-word limit and the expected form.

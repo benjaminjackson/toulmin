@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-11-11Z",
+  "without_skill_run": "2026-11-16T21-23-55Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "As a remote hire, A gives me more to go along with: a six-month review with staff, the desk plan, the fact that five of six project leads already come in, and an honest admission that remote work may not be the whole cause. B speaks to remote hires more warmly and is clearer about no exceptions, but it leaves out the review and desks; A's unsupported line about Mondays and Fridays keeps the gap small."
+}

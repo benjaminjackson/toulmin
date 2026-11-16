@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-07-57Z",
+  "without_skill_run": "2026-11-16T21-21-43Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is franker about the A1C numbers: it gives the 0.6 average drop and admits the group is small, self-selected and not tracked for medication changes, which makes me trust it more. It also offers a 15-minute call with the dietitian and tells me the menu rotates every four weeks, both of which speak to why I quit before; A is honest but leaves those out and adds an unsupported \"no template or algorithm\" line."
+}

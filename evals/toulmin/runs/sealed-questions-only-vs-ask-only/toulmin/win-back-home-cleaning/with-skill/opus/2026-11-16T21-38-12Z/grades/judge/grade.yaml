@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:39:01.433017+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 168
+  tags: []
+  notes: extracted 168 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 4
+    honest: 9
+    works_the_facts: 3
+    right_comparison: 4
+    qualification: 7
+    objections: 5
+    fit: 7
+  details:
+    agree: This reader had no complaint about cleaners and likes saving $25 a visit,
+      so the cleaner fix doesn't apply to them, and paying more for 'employees earning
+      $21' helps the cleaners rather than the reader, which won't outweigh the savings;
+      the $99 offer may get a single trial at most.
+    honest: Every figure matches the brief, and the email avoids the false promise
+      of 'same cleaner every time' by naming the backup for sick days and holidays;
+      it says '1 of our 18 cleaners has left' without overstating it.
+    works_the_facts: 'Figures are restated rather than worked: the email never contrasts
+      7 of 18 leaving last year with 1 since July, never gives the $25 gap per visit,
+      and never says that $99 is $41 below the app price or $66 off the usual $165.'
+    right_comparison: The app services are described only by their $140 price, leaving
+      out the known fact that they mostly use contractors with no insurance on the
+      visit, which is the contrast that would make the extra $25 mean something to
+      this reader.
+    qualification: The offer has a clear end date (December 31) and states what happens
+      after it (regular price, no contract), and the backup-cleaner condition names
+      when it applies, though no check on cleaner continuity is offered.
+    objections: The email faces the price objection directly and honestly, but the
+      answer it gives (employees, wages, insurance) is never turned into a benefit
+      to the customer, such as their home being covered when the apps' visits are
+      not.
+    fit: It is a clear, plain email of about 170 words, close to the 150 asked for,
+      but it leaves a [phone] placeholder where 555-0164 was available.

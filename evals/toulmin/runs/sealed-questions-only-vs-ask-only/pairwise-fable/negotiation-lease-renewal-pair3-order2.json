@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "negotiation-lease-renewal",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-05Z",
+  "without_skill_run": "2026-11-16T21-20-25Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B explains why the rent was late, offers automatic payment on the 1st and a quick signing, which answers my main worry about reliability, and it shows the rent passing my $5,650 by year five and puts a $40,000 figure on the hood. A offers less money ($5,000, which is not the brief's $5,100), glosses over the late payments and gives me nothing new to secure on-time rent."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B reads more cleanly, but it invents a figure of 160 more households from an 80-open-case load. It also leaves out that one attorney is leaving, says nothing about the missing comparison data, and calls the position fully funded without mentioning the county contract risk. A gives the same core numbers plainly and openly states each weakness and the plan to address it, which a judge would trust more."
+}

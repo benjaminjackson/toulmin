@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-43Z",
+  "without_skill_run": "2026-11-16T21-02-51Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is finished and its budget adds up: $45,000 from the Foundation, $20,000 from a pledge and $13,000 from the general budget. It also states plainly that the new hire keeps the clinic from dropping to one attorney. B is full of unfilled placeholders and leaves a $66,000 gap marked '[source]'. It also says the grant adds a third attorney but gives no funding to replace the one who is leaving, so a judge would not score it well."
+}

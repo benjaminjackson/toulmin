@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "crowdfunding-town-cinema",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B answers my doubt about the failed first campaign with numbers: only $49,000 is left, about $7.50 a head and just $2,000 more than was raised last time, so a small pledge from me feels worthwhile and safe. It also gives a named chair, quarterly spending reports, a reopening date and honest caveats about the roof and film timing; A only tells me to \"pledge what you can\" and leaves me to work out the gap."
+}

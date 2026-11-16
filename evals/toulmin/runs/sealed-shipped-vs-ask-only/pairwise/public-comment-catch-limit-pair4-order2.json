@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-catch-limit",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-10-23Z",
+  "without_skill_run": "2026-11-16T21-21-32Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B states the ask at the start and points out that the three-year cut is longer than its own two-year recovery after 2016, which a commission that trusts its staff will find easier to follow. A uses placeholders and claims 'I never got all the way back,' which goes beyond the brief; B's 'still short of where I started' stays within it."
+}

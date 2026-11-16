@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T21:35:50.823138+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 262
+  tags: []
+  notes: extracted 262 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 7
+    honest: 6
+    works_the_facts: 6
+    right_comparison: 7
+    qualification: 6
+    objections: 6
+    fit: 9
+  details:
+    agree: Showing that the public share ($49,000) is about what the town gave last
+      time ($47,000), and that every pledge comes back if the goal is missed, answers
+      my memory of the refunds well. But nothing speaks to my having just given $200
+      to the ambulance fund, and nothing suggests what a pledge should be, so I'd
+      likely give something modest rather than stretch.
+    honest: Every number is accurate, but the document leaves out that the roof estimate
+      is from last fall and could rise by up to 15%, and it says "this town pledged
+      $47,000" when the brief only says the campaign reached that figure.
+    works_the_facts: It correctly works out the $49,000 still needed and sets it against
+      last time's $47,000, which is its strongest move, but it never works out the
+      per-resident share (about $7.50 across 6,500 people), the yearly attendance
+      (about 9,400 tickets), or the daily pace needed between May 1 and June 30.
+    right_comparison: It describes the alternative accurately (no cinema, with the
+      nearest one 38 miles away) and compares fairly with the earlier campaign, though
+      it doesn't say what happens to the building or the $1 lease if this campaign
+      fails.
+    qualification: The all-or-nothing condition is clear and checkable ($85,000, June
+      30, full refund), but the real open risk, a roof cost that could rise by up
+      to 15%, isn't mentioned or backed by a contingency.
+    objections: It meets the "last time ended in refunds" objection head on, but it
+      doesn't deal with competing local causes like the ambulance fund, or with worries
+      about running costs once the cinema reopens.
+    fit: It's a clear, well-organized crowdfunding pitch, well under 350 words and
+      signed by the chair.

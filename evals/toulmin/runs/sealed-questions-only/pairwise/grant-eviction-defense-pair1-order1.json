@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A fully accounts for the funding gap (family fund pledge plus general budget), names concrete reporting commitments, and admits there is no comparison data yet. B leaves key items as bracketed blanks, including the source of the $33,000 and the reporting frequency, and adds a caseload estimate the brief never gave, so a rubric scorer would see it as unfinished."
+}

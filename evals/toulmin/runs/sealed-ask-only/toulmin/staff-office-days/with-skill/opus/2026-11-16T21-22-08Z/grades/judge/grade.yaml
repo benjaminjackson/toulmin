@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T21:23:08.563261+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 428
+  tags: []
+  notes: extracted 428 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 6
+    qualification: 4
+    objections: 5
+    fit: 8
+  details:
+    agree: The lost hospital bids, the partners also coming in three days, and the
+      plain admission that this changes the remote hires' terms will persuade many
+      readers, but a remote hire who stays mainly for remote work gets only $150 and
+      a vague review, so the resisting reader may still push back or leave.
+    honest: The figures match the brief, but 'working remotely has meant much less
+      of that' treats remote work as the proven cause, and the September 1 start date
+      for the commuting subsidy appears nowhere in the facts given.
+    works_the_facts: 'The 30% figure is never turned into something concrete, such
+      as months of lost growth, and two useful facts go unused: 5 of 6 project leads
+      already come in three days, and 15 of 46 means about a third of staff were hired
+      remote.'
+    right_comparison: The status quo is shown fairly through the lost bids and slower
+      junior development, but there is no trend and no sense of what keeps happening
+      if nothing changes.
+    qualification: The six-month review has no date (around March 2028), no measure
+      of success, and no consequence, so the reader cannot hold the firm to it.
+    objections: The broken hiring terms and commuting costs are addressed, but 'why
+      three days and not fewer?' is not, and readers will ask whether there are desks
+      for everyone, a question the August desk delivery already answers but the email
+      leaves out.
+    fit: It is a one-page email set before the meeting as asked, but it leaves out
+      the meeting's time and place (10 a.m., main studio).

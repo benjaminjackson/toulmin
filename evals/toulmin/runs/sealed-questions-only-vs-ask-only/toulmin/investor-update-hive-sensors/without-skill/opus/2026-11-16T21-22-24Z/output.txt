@@ -1,0 +1,61 @@
+<final_document>
+**Subject: H2 update and our $600K bridge, closing December 15**
+
+Hi all,
+
+Here's our half-year update. It includes an ask: we're raising a $600,000 bridge to get us through the 2027 pollination season, and we'd like you in it.
+
+**What went well**
+
+We have 31 paying beekeepers, up from 12 a year ago.
+
+Revenue for the last six months was $212,000. 70% of it came in March and April, as beekeepers prepared for pollination. That timing is what we expected from this market, and it decides when we need cash, which I cover below.
+
+Our largest customer runs 4,000 hives. He lost 18% of his colonies this winter, down from 31% the winter before. He credits the sensors as part of that. He also changed his mite treatment this year, so we can't say how much of the improvement came from us. It's still the clearest real-world result we have, and we're working on cleaner comparisons for next season.
+
+Each sensor costs us $38 to make and sells for $55. On top of that, beekeepers pay $4 a month per hive for the app.
+
+**What's harder**
+
+In May, a large farm equipment company launched a hive sensor at $45. Theirs measures only temperature. Ours also measures sound and hive weight, and those signals help us spot a weakening colony early. Three of our beekeepers have asked to test the competitor's sensor. We don't know of any deals won or lost against it yet. We're watching closely and haven't changed our pricing.
+
+**Cash and costs**
+
+We spend about $95,000 a month and have $340,000 in the bank. At that rate, cash runs out around March, just before our biggest selling months.
+
+We're cutting monthly spending to $75,000 by February by not filling two open roles.
+
+**On profitability**
+
+I won't promise profit in 2027, because I can't yet show you the numbers behind that promise. Before the next update, we'll report three things:
+
+- how much of our revenue is recurring app fees versus one-time sensor sales
+- how many hives are paying for the app
+- how many of last year's customers renewed or expanded
+
+Those figures will show whether the path to profitability holds up, and we'll set a target date from them rather than guessing.
+
+**The bridge**
+
+- **Amount:** $600,000
+- **Instrument:** convertible note, 20% discount, $6M cap
+- **Close:** December 15
+- **Committed so far:** $250,000 from an angel investor
+- **Remaining:** $350,000
+
+With the bridge and the lower spending, we have cash into autumn 2027 before counting any new revenue. That covers the 2027 season, when most of our year's sales happen. It also gives us a full season to show three things: growth in recurring revenue, retention against a cheaper competitor, and better colony-loss data. Those are what our next round will be raised on.
+
+If you'd like to take part, or want to go through the numbers first, reply to this email and I'll set up a call this week. We need commitments by December 15.
+
+Thank you for backing us this far.
+
+[Name]
+[Company]
+</final_document>
+
+The update is about 480 words. A few things to check before you send it:
+
+- **Runway.** The "into autumn 2027" line assumes you keep spending $95K a month through January, drop to $75K from February, and close the full $600K. It ignores any revenue. On those assumptions the money lasts until about October. If any of those assumptions are off, change that line.
+- **Your largest customer.** I didn't name him and didn't quote him. If he agrees to be quoted, a sentence in his own words would make that section much stronger.
+- **The three reporting promises.** The update commits you to reporting recurring versus one-time revenue, paying hives and renewals before the next update. Only send it if you can pull those numbers in time.
+- **Placeholders.** Fill in [Name] and [Company] before sending.

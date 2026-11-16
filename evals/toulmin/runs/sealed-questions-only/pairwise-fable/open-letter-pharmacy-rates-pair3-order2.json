@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-27Z",
+  "without_skill_run": "2026-11-16T21-06-02Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B answers my two standing objections directly: it tells me the nearest chain is over 20 miles away in 14 counties and that two pharmacies will stop serving my members, and it offers invoices and a meeting before May 1 so I can verify the $1.80 figure. It also admits the brand-drug offset and that the closures can't be tied to rates, which makes it more credible than A, which is full of blank placeholders and adds a PBM-transparency demand without evidence."
+}

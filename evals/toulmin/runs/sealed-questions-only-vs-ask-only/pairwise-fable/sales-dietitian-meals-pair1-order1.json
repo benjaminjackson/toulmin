@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-35-32Z",
+  "without_skill_run": "2026-11-16T21-21-43Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is more candid about the limits of the A1C numbers (small group, medication not tracked) and gives me the actual 0.6 average, which makes me trust it more. It also offers a 15-minute call with the dietitian and tells me the menu repeats every four weeks, both of which matter to someone who has quit three services; B leaves those out and adds an unsupported 'no template or algorithm' line."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-lease-renewal",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-20-25Z",
+  "without_skill_run": "2026-11-16T21-04-38Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "B handles the late payments and the coffee chain more directly, but it offers $5,000, not the $5,100 the brief states. That is less money for me, and its year-five rent ends below the $5,650 I asked for. A sticks to the real offer, and its rent passes my number by year five, so A is the one I'd be more likely to accept, even though it leaves the placeholders unfilled and avoids the late payments."
+}

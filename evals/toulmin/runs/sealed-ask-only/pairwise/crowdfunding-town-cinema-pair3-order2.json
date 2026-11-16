@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-20-41Z",
+  "without_skill_run": "2026-11-16T21-02-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Since I remember the refunds and just gave $200 to the ambulance fund, B reassures me where A doesn't: it states the all-or-nothing guarantee plainly, promises quarterly spending reports at the library, and shows $11,000 already pledged, so only $49,000 is left to raise. A leaves the refund promise in brackets and has blank placeholders, which makes it feel unfinished."
+}

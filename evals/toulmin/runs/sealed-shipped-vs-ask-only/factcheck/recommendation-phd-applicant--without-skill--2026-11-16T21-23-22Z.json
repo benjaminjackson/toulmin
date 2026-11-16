@@ -1,0 +1,21 @@
+{
+  "task": "recommendation-phd-applicant",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-23-22Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "She designed the study",
+      "why": "The brief states that she did the fieldwork herself for her senior thesis, but does not state that she designed the study."
+    },
+    {
+      "quote": "Priya never missed her sampling schedule.",
+      "why": "Neither the brief nor the additional user information mentions whether she had or ever missed a sampling schedule."
+    },
+    {
+      "quote": "Her supervisor there told me he would hire her again without hesitation.",
+      "why": "The user only stated that the supervisor said he would hire her again, not that he would do so 'without hesitation.'"
+    }
+  ],
+  "invented_count": 3
+}

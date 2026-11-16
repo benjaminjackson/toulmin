@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-06-50Z",
+  "without_skill_run": "2026-11-16T21-35-52Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B speaks more directly to my worry about slow sales. It names what the bridge season will show (new beekeepers, hives staying on the app, whether customers stay against the cheaper sensor) and explains that the bridge is needed to pay for building sensors before the spring rush. A says 'we haven't lost a customer,' which the brief doesn't support, and 'every sale makes money' sounds like spin when the company burns $95,000 a month."
+}

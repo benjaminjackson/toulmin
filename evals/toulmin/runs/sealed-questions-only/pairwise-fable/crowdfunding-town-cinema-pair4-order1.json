@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "crowdfunding-town-cinema",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-54Z",
+  "without_skill_run": "2026-11-16T21-03-12Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who remembers the refunds and is short on spare cash, A answers my worries directly: all-or-nothing with full refunds, $11,000 already pledged in writing so only $49,000 is left (close to what we gave last time), a Thanksgiving reopening and public spending reports. B is warmer but asks for $60,000 without saying what happens to my money if it falls short, and it has unfilled name placeholders."
+}

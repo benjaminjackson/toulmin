@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-10-42Z",
+  "without_skill_run": "2026-11-16T21-38-08Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me concrete, calibrated details a skeptical reader can trust: she ranks against 30 supervised theses, made a trip every 4–5 days, and has no publications yet. It is also a finished letter. B leaves placeholders like \"[Last Name]\" and \"[conference name]\", which make it look unfinished and generic, the kind of small-college boilerplate I already discount."
+}

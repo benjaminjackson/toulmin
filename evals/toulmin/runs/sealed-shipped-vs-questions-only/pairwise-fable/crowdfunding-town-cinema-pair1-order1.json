@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "crowdfunding-town-cinema",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A answers my main doubt directly: what's left is only $2,000 more than they raised last time, and at about $7.50 a head I can see a small pledge mattering after my ambulance gift. It also tells me up front that the roof cost could rise 15%, which B leaves out, so I trust A more even though B is easier to scan."
+}

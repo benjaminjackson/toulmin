@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-04-41Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A answers my two standing objections: it shows members in 14 counties have no chain within 20 miles, names two pharmacies ready to stop filling for my members, and offers invoices so my staff can verify the $1.80 loss before a May 1 meeting. B is unfinished with placeholders, offers no way to check its numbers, and reads like the annual complaint I already discount."
+}

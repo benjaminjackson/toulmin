@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-dental-office",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A tells me she can cover our Tuesday and Thursday evenings and is signed with her name. B leaves out the evenings and still has '[Your name]' placeholders, which looks careless to me when I'm hiring someone to run my front office. Both handle the gap honestly, but A also opens by tying her clinic's size to ours, which makes it the more convincing letter."
+}

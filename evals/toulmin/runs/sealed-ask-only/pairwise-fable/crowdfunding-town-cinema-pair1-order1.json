@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "crowdfunding-town-cinema",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A tells me outright that this campaign is all-or-nothing and my pledge comes back in full if it falls short, and that $11,000 from local businesses is already pledged in writing, which answers my worry from the last campaign. B never says what happens to my money if it fails, and it leaves a \"[Bank name]\" placeholder in the text, though its \"less than $10 per resident\" framing is a nice small ask."
+}

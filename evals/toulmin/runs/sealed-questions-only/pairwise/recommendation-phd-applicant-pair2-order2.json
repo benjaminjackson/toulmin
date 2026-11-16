@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-36-17Z",
+  "without_skill_run": "2026-11-16T21-08-04Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me specific facts I can check: she's one of the three best students in 17 years, she ran a state lab's water sampling alone for two weeks, and her supervisor said he'd hire her again. It also names her missing publications and the study's limits directly. A has template placeholders and generic praise like \"without reservation,\" which is exactly the small-college inflation I discount."
+}

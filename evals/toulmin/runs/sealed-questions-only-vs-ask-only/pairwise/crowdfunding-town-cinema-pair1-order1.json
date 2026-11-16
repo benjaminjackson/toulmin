@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A tells me exactly how much is left to raise ($49,000) and promises a public spending report at the library every three months, which matters to me after the refunds last time and my ambulance-fund gift. B leaves out the spending report, adds a year that wasn't given, and says every dollar \"unlocks\" the bank's $25,000, which overstates it because the bank pays only if the full amount is raised."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "promotion-senior-paralegal",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-39Z",
+  "without_skill_run": "2026-11-16T21-07-00Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A addresses my concern about the March error directly with evidence (about 600 entries since the check with none wrong or missed), an honest admission she can't promise zero errors, and concrete commitments (weekly check-ins, certification); B leaves placeholders for my name and hers, offers no proof the fix worked, and frames the mistake under a self-congratulatory heading."
+}

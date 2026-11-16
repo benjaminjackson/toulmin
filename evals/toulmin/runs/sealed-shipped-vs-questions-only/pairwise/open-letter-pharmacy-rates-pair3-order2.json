@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-49Z",
+  "without_skill_run": "2026-11-16T21-34-27Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B puts the July 1 ask first, sets out three concrete steps, and answers my view that members can use chains by spelling out a 40-mile round trip per refill, so it is harder for me to dismiss as the usual yearly complaint. Both stay mostly within the facts. B's line that no pharmacy can fill a fifth of its prescriptions below cost slightly stretches the data, because the $1.80 loss applies only to the 20 most-filled generics, not to every plan prescription."
+}

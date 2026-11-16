@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-catch-limit",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-09-03Z",
+  "without_skill_run": "2026-11-16T21-20-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both comments earn immediate credibility by accepting our staff's stock science and restraining their claims about harbor closures to honest facts. However, Document B wins by putting concrete skin in the game—offering trip logs since 2016 and committing the association to test a catch-reporting app with our staff—while Document A slightly stretches the facts by assuming the 2016 cut wasn't also a multi-year or half-limit cut."
+}

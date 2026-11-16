@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A tells me up front that some pharmacies make up part of the loss on brand-name drugs, then answers that point, which is the first thing I'd raise. It also offers the invoices directly, with no padding. B adds 'teachers and state troopers', which isn't in the facts, and leaves out the brand-name offset, so it reads more like the yearly complaint I'm used to hearing."
+}

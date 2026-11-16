@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "promotion-senior-paralegal",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A answers the concern I raised in her review with evidence: about 600 entries since the second-person check with no wrong or missed deadlines, a candid admission that she can't promise zero errors, and concrete commitments (weekly check-ins, certification). B only says she fixed the system and slightly overclaims that she already carries the supervisory role; A's unfilled \"[Your name]\" placeholder is sloppy but doesn't outweigh that."
+}

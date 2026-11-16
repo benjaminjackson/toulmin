@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-37-07Z",
+  "without_skill_run": "2026-11-16T21-23-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "As a skeptic of small-college letters, I trust A more: it is frank about the unrepeated result, the lost data and the lack of publications, and it argues from those limits. B adds claims the brief doesn't support ('designed the study,' 'never missed her sampling schedule'), and its glowing tone reads like the usual small-college praise; both letters leave in placeholders."
+}

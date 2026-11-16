@@ -1,0 +1,49 @@
+I've written the page around your decisions. It's about 410 words.
+
+<final_document>
+# Steady Plate
+
+## Cooked lunches and dinners for adults with type 2 diabetes, planned by a registered dietitian
+
+Managing type 2 diabetes means thinking about carbohydrates at every meal. Steady Plate takes ten of those meals off your plate. Each Sunday we deliver 10 cooked lunches and dinners to your door. Every one has 45 grams of carbohydrate or less.
+
+**[Start a trial week: $59]**
+
+### Every menu planned by a dietitian
+
+I'm Lena Ortiz, RD, and I plan every Steady Plate menu myself. Each meal is built to keep carbohydrates in check so your blood sugar has a steadier day. You don't have to count, weigh or plan anything.
+
+### What our customers have seen
+
+Fourteen customers have shared their A1C results with me from before they started and after three months. Ten saw their A1C go down. Three stayed about the same, and one went up. Across all fourteen, the average drop was 0.6 points.
+
+These results aren't a promise. Fourteen people is a small group, everyone's body is different, and I don't track whether customers changed their medication during that time. The meals don't replace your doctor's advice either. Keep your care team informed, especially if you take medication that lowers blood sugar.
+
+People do stay with us. Of our 88 current customers, 37 have been with us for more than six months.
+
+### How it works
+
+- **10 meals a week for $129.** That's $12.90 a meal, delivered every Sunday.
+- **Order by Thursday at noon** for that Sunday's delivery.
+- **Choose what you eat.** Each week you can swap any meal for one of 6 other choices. The menu runs on a four-week cycle, so you'll get to know your favorites.
+- **No contract.** Skip a week or cancel at any time.
+- **Local delivery** within 25 miles of downtown.
+
+### Talk to me before you start
+
+Not sure this is right for you? Book a free 15-minute phone call with me before you order. Ask about the meals, your routine or anything else on your mind. You'll talk to the dietitian who plans your food, not a call center.
+
+### Try one week first
+
+You don't have to commit to anything to find out whether Steady Plate works for you. A trial week costs $59. Taste the food and see how it fits your week. If you like it, the full plan is $129 a week with no contract.
+
+**[Start a trial week: $59]**
+</final_document>
+
+Some things to check before this goes live:
+
+- **What's in the trial week.** I don't know how many meals it includes or whether it rolls into the full plan automatically, so the page doesn't say. Readers will want to know both. If the trial rolls over, the page has to say so next to the button.
+- **Delivery fees, allergies and HSA/FSA.** These are left out because you didn't know them. Allergies will matter to some readers. Even one line like "email us about allergies before ordering" would help.
+- **The call button.** The page says "Book a free 15-minute phone call" but has no link or phone number. Add one, or edit that line if the call isn't free.
+- **What "free" assumes.** I called the call free because you said anyone can have one.
+- **Medication line.** Advising readers to keep their care team informed "especially if you take medication that lowers blood sugar" is my addition. Your own carb limit makes it relevant, but cut it if you'd rather not give clinical advice on a sales page.

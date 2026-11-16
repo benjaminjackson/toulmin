@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:36:38.711623+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 173
+  tags: []
+  notes: extracted 173 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 4
+    honest: 6
+    works_the_facts: 5
+    right_comparison: 7
+    qualification: 7
+    objections: 5
+    fit: 8
+  details:
+    agree: This reader is happy with the savings and never complained about cleaners,
+      so the $99 trial might get one booking, but nothing gives them a reason to pay
+      $25 more per visit after that.
+    honest: It rightly avoids promising the same cleaner every time and keeps its
+      numbers accurate, but it tells every recipient 'you gave us two reasons,' which
+      is untrue for this reader, and the subject line 'We fixed it' implies a price
+      fix that doesn't exist.
+    works_the_facts: The figures are restated rather than worked, so it never points
+      out that the $99 first visit is $41 less than the app price, and it never puts
+      the $25 gap in a smaller, fairer form.
+    right_comparison: 'It describes the app alternative accurately at about $140 with
+      mostly uninsured contractors, and it shows the turnover trend: 7 of 18 cleaners
+      left last year, against 1 since July.'
+    qualification: 'The conditions are concrete and checkable: the offer ends December
+      31, there is no contract, and a named backup covers sick days and holidays.
+      It doesn''t say what happens if the backup is also unavailable.'
+    objections: It answers the price objection with employees and insurance, but never
+      says why insurance on the visit matters to the homeowner (who pays if something
+      breaks), so a reader focused on cost isn't moved.
+    fit: It is a signed email of roughly 160 words with a clear call to action, close
+      to the length the brief asked for.

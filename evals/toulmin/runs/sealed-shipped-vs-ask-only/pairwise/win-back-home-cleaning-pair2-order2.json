@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-home-cleaning",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-10-37Z",
+  "without_skill_run": "2026-11-16T21-22-54Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "I left over price, not the cleaner changing, so neither email gives me much reason to give up the $25 I'm saving. B makes a slightly better case: it shows the fix is working (only 1 of 18 cleaners has left since July) and says plainly that cleaners earn $21 an hour. A's 'You were right about the second' assumes a complaint I never had."
+}

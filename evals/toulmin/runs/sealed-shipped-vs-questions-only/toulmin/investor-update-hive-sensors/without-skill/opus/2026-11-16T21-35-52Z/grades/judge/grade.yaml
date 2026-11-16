@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:37:05.137175+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 485
+  tags: []
+  notes: extracted 485 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 5
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 3
+    objections: 4
+    fit: 8
+  details:
+    agree: The plain runway math, the cost cut and the frank no-profit stance build
+      trust, but a partner who thinks sales are too slow gets no target to believe
+      in, so a skeptical reader may stay out.
+    honest: Every figure matches the brief, the mite-treatment caveat is stated plainly
+      and the profit promise is dropped; the only assumption is that the app has no
+      hardware cost.
+    works_the_facts: It works out the unit margin, the runway to about March and the
+      runway with the bridge to about November 2027, but it never states growth as
+      a rate (about 2.6x in a year), recurring app revenue or average revenue per
+      customer, which are the figures that answer a slow-sales worry.
+    right_comparison: The no-bridge case is shown concretely, with cash running out
+      just as the key selling season starts, but the comparison leaves out the growth
+      trend and what the company looks like if it simply rides out the season.
+    qualification: The things it promises to show (beekeepers added, hives retained,
+      customers kept against the competitor) have no numbers, no dates and no consequence
+      if missed, and the three competitor trials have no deadline for reporting.
+    objections: The competitor worry is answered with the feature comparison and the
+      trials, but the reader's main objection, slow selling, is never addressed, and
+      no customer target for the 2027 season is given.
+    fit: It is a well-organized investor update under 600 words, with a clear ask,
+      terms and a reply deadline.

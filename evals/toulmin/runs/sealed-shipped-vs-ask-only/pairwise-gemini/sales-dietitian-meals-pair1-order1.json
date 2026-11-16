@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-07-57Z",
+  "without_skill_run": "2026-11-16T21-21-43Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins my trust by explicitly stating that she doesn't track medication changes alongside the A1C numbers, rather than bolding the positive results like typical sales copy. It also includes the 4-week menu rotation detail and the offer of a 15-minute phone call with the dietitian before starting, which directly addresses why I've quit other meal services and apps in the past."
+}

@@ -1,0 +1,55 @@
+I've drafted the update below. It's about 530 words, and in place of "profitable next year" it makes a claim the numbers support. Without new revenue, your current cash runs out around March, right when the spring selling window opens. With the bridge, it lasts until about November 2027.
+
+<final_document>
+**Subject: HiveSense half-year update and bridge round**
+
+Hi all,
+
+Here's where HiveSense stands at the half year. I'm also asking for something: we're raising a $600,000 bridge round, and I'd like you in it.
+
+**The numbers**
+
+- **Paying beekeepers:** 31, up from 12 a year ago.
+- **Revenue, last six months:** $212,000. 70% of it came in March and April, when beekeepers get colonies ready for pollination season. Our revenue is seasonal and will stay that way.
+- **Unit economics:** each sensor costs us $38 to make and sells for $55, a $17 margin. Each hive also pays $4 a month for the app, which has no hardware cost.
+- **Spending and cash:** about $95,000 a month, with $340,000 in the bank.
+
+**What customers are seeing**
+
+One customer runs 4,000 hives. This past winter they lost 18% of their colonies, against 31% the winter before. They say the sensors were part of that. They also changed their mite treatment, though, so we can't tell you how much of the improvement is ours. We're working to get comparable before-and-after numbers from more customers this winter.
+
+**Competition**
+
+In May a large farm equipment company launched a hive sensor at $45, which is $10 below ours. Theirs measures temperature only. Ours measures temperature, sound and hive weight. Three of our beekeepers have asked to test theirs. I don't know yet whether any of them will switch, and I'll tell you when I do.
+
+**Cutting spending**
+
+We are not filling two open roles. That brings monthly spending down from $95,000 to $75,000 by February.
+
+**Why a bridge, and why now**
+
+Even with that cut, if we count no new revenue, our $340,000 lasts until about March. That's the start of the March–April window that brings in most of our year's sales, and selling more sensors in that window means paying to build them first. Going into our most important season with only weeks of cash is a risk I'm not willing to take.
+
+With the bridge we'd have $940,000. At $75,000 a month, that lasts until about November 2027 before counting any revenue. It carries us through the whole 2027 selling season on cash we already hold.
+
+I'm not going to promise profitability next year. The numbers don't support that yet. The bridge buys us a second full season at lower spending, and in that season you'll see three things: how many beekeepers we add, how many hives stay on the app, and whether we keep customers against a cheaper competitor.
+
+**Terms**
+
+- Convertible note, 20% discount, $6M valuation cap.
+- One angel has committed $250,000, which leaves $350,000 open.
+- The round closes December 15. If you'd like to take part, please reply to me by **December 1**.
+- Everyone who invests in the bridge will get a monthly cash report from me.
+
+I'm happy to answer questions. Reply here or give me a call.
+
+[Your name]
+HiveSense
+</final_document>
+
+A few things to check before you send it:
+
+- **How I worked out the cash dates:** I counted from today (mid-November) and included no revenue. That's $95k a month through January and $75k a month from February. If the $340k balance is from an earlier date, the dates move.
+- **The big customer isn't named.** You don't know yet if he'll allow it. If he agrees to be named or quoted, adding that would make the update stronger than anything else you could add.
+- **I left out a few things you don't have yet:** hive count, app retention, whether any of last year's 12 customers left, and how much of your revenue comes from the biggest customer. Investors may ask about them, so it's worth pulling those numbers before the December 1 replies come in.
+- **I didn't claim that sound and weight catch more problems than temperature alone.** If you have data showing that, add one sentence about it in the Competition section. It's your best answer to the $45 price.

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-10-23Z",
+  "without_skill_run": "2026-11-16T21-35-28Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "B accepts our staff's stock numbers outright, admits the captain can't say how many boats would close, and offers something we rarely get from charter captains: trip logs and a catch-reporting pilot with staff. A makes a similar honest case, with a good point about the three-year duration, but gives us nothing new to act on beyond the familiar hardship argument."
+}

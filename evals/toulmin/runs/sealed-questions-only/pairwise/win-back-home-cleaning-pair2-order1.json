@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-home-cleaning",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-36-38Z",
+  "without_skill_run": "2026-11-16T21-10-14Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a customer who's happy with the savings, I'd be more tempted to try a $99 cleaning from A: it says there's no contract, gives a December 31 deadline and a phone number, and backs up the cleaner change with real evidence (only 1 of 18 cleaners has left since July). B falsely tells me I personally complained, still has [Company] placeholders and leaves out the no-contract point and the deadline."
+}

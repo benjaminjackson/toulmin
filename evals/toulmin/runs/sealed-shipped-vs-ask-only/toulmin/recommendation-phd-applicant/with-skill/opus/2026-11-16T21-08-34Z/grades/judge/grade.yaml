@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T21:09:36.195456+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 325
+  tags: []
+  notes: extracted 325 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 4
+    objections: 3
+    fit: 8
+  details:
+    agree: The specific numbers (90 kayak trips, sole water sampling for two weeks,
+      top of 28 twice) are believable, but a skeptical reader gets no evidence that
+      this writer turns students down, so 'one of the three best' and 'without reservation'
+      still read like the usual small-college praise.
+    honest: The letter openly declines to call the findings ready to publish and states
+      the storm gap and the lack of publications, though 'in bad weather' adds a detail
+      the brief does not give.
+    works_the_facts: Converting 90 trips over 14 months into 'more than six a month
+      for over a year' uses the facts well, but the letter never derives a selectivity
+      figure such as 3 best out of about 17 years of students, or 2 refusals in about
+      40 letters.
+    right_comparison: It compares her to a class of 28 and to 'the students I have
+      taught' but never gives the size of that pool or the writer's record of declining
+      weak candidates, which is the comparison that would give the praise weight.
+    qualification: 'The hedge that the result could become ''publishable with a second
+      season of data'' is honest, but it gives the reader nothing to check: no offer
+      to send the thesis, no timeline, and no say on what it would mean if the result
+      did not hold.'
+    objections: The reader's main objection, that small-college letters praise everyone,
+      goes unanswered because the letter leaves out the 2 refused letters out of 40
+      and the offer to take calls and send the thesis, which were the facts that would
+      answer it.
+    fit: It is a properly formatted recommendation letter of about one page, as the
+      brief asked.

@@ -1,0 +1,29 @@
+{
+  "task": "promotion-senior-paralegal",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-18-42Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "January review cycle",
+      "why": "The brief does not mention a January review cycle."
+    },
+    {
+      "quote": "Dear David,",
+      "why": "The brief does not give the managing partner's name."
+    },
+    {
+      "quote": "That sheet was also where I made my most serious mistake.",
+      "why": "The brief describes the March filing-deadline error, but does not say it was the writer's most serious mistake."
+    },
+    {
+      "quote": "I'm sending this ahead of the December 15 deadline so we have time to talk it over.",
+      "why": "The brief does not mention a December 15 deadline or state when the request is being sent."
+    },
+    {
+      "quote": "Jenna Morales",
+      "why": "The brief does not give the paralegal's name."
+    }
+  ],
+  "invented_count": 5
+}

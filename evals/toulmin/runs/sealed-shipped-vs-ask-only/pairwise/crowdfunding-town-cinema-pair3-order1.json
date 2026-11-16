@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-03-50Z",
+  "without_skill_run": "2026-11-16T21-20-41Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A is upfront about the roof estimate possibly rising 15% and about new releases not being guaranteed. As someone who remembers the refunds and just gave to the ambulance fund, that candour earns my trust. B's layout is tidy, but it leaves out those caveats and adds a 2027 date that isn't in the facts."
+}

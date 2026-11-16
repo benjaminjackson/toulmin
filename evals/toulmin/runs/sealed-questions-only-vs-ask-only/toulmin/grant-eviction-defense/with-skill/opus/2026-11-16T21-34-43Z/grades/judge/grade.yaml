@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T21:35:51.692372+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 262
+  tags: []
+  notes: extracted 262 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 7
+    qualification: 4
+    objections: 5
+    fit: 8
+  details:
+    agree: A judge skimming against a rubric gets a clear need, a fully covered $78,000
+      budget and a reporting commitment, but the unexplained county-contract risk
+      and the missing hiring timeline leave a cautious reviewer with doubts.
+    honest: The numbers are accurate and the missing comparison figure is admitted,
+      but presenting the training handover as settled hides the fact that the last
+      opening took 5 months to fill, and calling the 'third attorney' a replacement
+      is the writer's own reading of the facts.
+    works_the_facts: It works out the $13,000 gap and the 'about half as many tenants'
+      consequence, but it never states that 163 is only 14% of filings, that roughly
+      65% of the 463 tenants who asked for help were turned away, or that about 80
+      more tenants a year depend on this hire.
+    right_comparison: It names the real alternative, dropping to one attorney in June
+      with about half the capacity, though it could have put that in concrete numbers
+      of tenants lost per year and over the two years.
+    qualification: The county contract comes with a date (October) and an amount ($60,000),
+      but the summary never says what happens to the $13,000 share or the position
+      if the contract isn't renewed, so the hedge has no consequence the reader can
+      weigh.
+    objections: It answers the lack of a comparison figure with a dated plan to collect
+      court data, but by raising the county-renewal risk without addressing it, it
+      creates an objection it then leaves open, and it ignores the obvious timing
+      problem of a May decision, a June departure and a 5-month hiring history.
+    fit: It is a tidy summary of about 290 words with headed sections a rubric scorer
+      can scan, within the 300-word limit.

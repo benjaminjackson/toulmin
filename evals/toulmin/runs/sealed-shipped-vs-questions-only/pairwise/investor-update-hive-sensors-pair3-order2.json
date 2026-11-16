@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-04-47Z",
+  "without_skill_run": "2026-11-16T21-34-45Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B speaks to my worry about slow sales with real numbers: revenue has to more than double to break even, customer count grew 2.6 times, and cash falls below $30k by March without the bridge. Document A just says the company won't be profitable and asks me to wait. B misses the December 1 reply date, but it is the more convincing and still honest case."
+}

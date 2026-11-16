@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-20-36Z",
+  "without_skill_run": "2026-11-16T21-08-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A concedes our staff's science, gives the captain's own 2016 numbers accurately, adds the concrete fact that two captains would sell, and asks for something we can act on: have staff test a three-fish limit or shorter season against the target. B extrapolates the captain's loss across all 11 boats and to shore businesses without support, and its 'who pays' framing is weak because the same limit also falls on the private boats that land 80%."
+}

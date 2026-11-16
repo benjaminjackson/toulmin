@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "grant-eviction-defense",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-43Z",
+  "without_skill_run": "2026-11-16T21-20-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B states the stakes plainly (drop to one attorney, half as many tenants) and is candid that there is no comparison figure and that the county contract sits inside the general budget. A claims the plan \"does not depend\" on the county contract and promises a no-gap handover, neither of which the facts support, and its two-or-three-attorney framing is confusing. B's unfilled [County] placeholders are a visible flaw that keeps the gap narrow."
+}

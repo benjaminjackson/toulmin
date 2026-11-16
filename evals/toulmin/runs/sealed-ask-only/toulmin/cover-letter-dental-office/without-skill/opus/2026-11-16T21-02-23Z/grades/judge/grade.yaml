@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T21:02:51.872947+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 220
+  tags: []
+  notes: extracted 220 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 3
+    qualification: 3
+    objections: 5
+    fit: 6
+  details:
+    agree: The letter is competent and explains the gap, but a dentist who just lost
+      a manager on two weeks' notice gets no promise of a quick start, no evening
+      availability, and no named reference, so it gives him little reason to call
+      her before other candidates.
+    honest: Every number and claim matches the brief, and the only stretch is mild
+      wording like 'busy, multi-provider office' and the vague 'happy to start training'.
+    works_the_facts: The $38,000-to-$9,000 figure is given raw rather than as a drop
+      of about three-quarters, and the 14-staff clinic is never set against the 9
+      people she would supervise here, which would show she has run a bigger team.
+    right_comparison: 'Nothing addresses what the owner is actually choosing between:
+      a candidate who already knows Dentrix but needs time, or a front office left
+      unmanaged while he searches.'
+    qualification: The Dentrix hedge is just 'confident I can learn quickly' with
+      no checkable detail, even though she is enrolled in a roughly 20-hour course
+      she can finish before a first day.
+    objections: The gap is framed sensibly and Dentrix is acknowledged, but the letter
+      leaves out her four years doing church books in QuickBooks, which counters the
+      worry that her skills have gone stale, and it never says she can start within
+      two weeks.
+    fit: It is a proper cover letter under 300 words, but it is full of bracketed
+      placeholders for her name, the practice and Dr. Pierce, all of which the user
+      had and could have given.

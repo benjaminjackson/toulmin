@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-04-12Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters stay within the facts and answer my 'members have plenty of chains' view with the 14 counties where the nearest chain is more than 20 miles away. A edges ahead because it also heads off my 'the PBM sets the rates' response by pointing out that we sign that contract. B's mention of mail-order as a fallback suggests to me that members have an alternative after all."
+}

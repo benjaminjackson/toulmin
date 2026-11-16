@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-20-22Z",
+  "without_skill_run": "2026-11-16T21-06-02Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B answers my two standing objections directly: it shows chains are 20+ miles away in 14 counties and that two pharmacies will stop taking my members, admits the brand-name offset and that closures can't be tied to rates, and offers invoices and a meeting before May 1 so I can verify the $1.80. A reads like the annual complaint, implies the closures are rate-driven, and adds a PBM transparency demand without giving me anything to check."
+}

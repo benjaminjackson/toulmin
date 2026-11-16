@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "win-back-home-cleaning",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-10-37Z",
+  "without_skill_run": "2026-11-16T21-22-54Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "I left over price, and B gives me more reason to rethink the $25: it says the difference pays for $21-an-hour insured employees and shows the cleaner fix is working (only 1 of 18 left since July). A covers the same ground honestly but with less proof, and its \"you were right\" presumes a complaint I never had."
+}

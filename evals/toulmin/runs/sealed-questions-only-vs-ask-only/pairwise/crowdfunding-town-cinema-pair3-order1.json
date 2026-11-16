@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-33-57Z",
+  "without_skill_run": "2026-11-16T21-20-41Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone burned by the refunded first campaign, I trust A more: a named chair signs it, it tells me upfront the roof estimate could rise 15%, and it gives a Thanksgiving opening date and says new releases aren't guaranteed. B is well organized, and its point that $49,000 is close to last time's $47,000 is persuasive, but it leaves out the roof risk and adds a 2027 date that isn't in the facts."
+}

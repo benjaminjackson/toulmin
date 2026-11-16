@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-38-19Z",
+  "without_skill_run": "2026-11-16T21-10-12Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "I've quit diet apps and a meal service before, so the things that would get me to try another are in A: a 15-minute call with the dietitian, no contract, skip or cancel any time, and swapping any meal for one of 6 others. B is a little more open that the A1C numbers come from a small volunteer group and don't account for medication changes, but it never tells me I can leave whenever I want."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-lease-renewal",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-20-25Z",
+  "without_skill_run": "2026-11-16T21-04-38Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A brings up the two late payments I forgave and thanks me for it, which is the thing I keep bringing up. It also says plainly that $5,650 would close the restaurant and asks for an answer by June 1, so I'm more inclined to deal with it, even though its $5,000 opening is lower than B's $5,100. B never mentions the late payments while calling itself a 'proven record', and its placeholders make it feel less personal."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "promotion-senior-paralegal",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-39Z",
+  "without_skill_run": "2026-11-16T21-20-58Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B addresses the March error head-on, admits it was too close, and gives me the evidence I care about (about 600 entries since with none wrong or missed) plus concrete commitments; A files the mistake under \"managing risk\" as a strength, has unfilled name placeholders, and offers no proof the fix worked."
+}

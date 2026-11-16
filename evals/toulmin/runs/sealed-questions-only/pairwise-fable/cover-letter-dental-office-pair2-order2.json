@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "cover-letter-dental-office",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-05Z",
+  "without_skill_run": "2026-11-16T21-01-53Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is addressed to me by name, is ready to send, and answers the things I'm actually worried about: she left her last job with proper notice, the gap years included bookkeeping, she's already enrolled in Dentrix training, can start in two weeks, cover my evening hours, and has a named reference. A is full of blank placeholders and only says she's confident she can learn Dentrix."
+}

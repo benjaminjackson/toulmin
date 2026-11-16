@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-44Z",
+  "without_skill_run": "2026-11-16T21-22-08Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both are honest about the change to remote hires' terms, but B gives me more I can act on: Monday and Friday stay remote, desks arrive in August, the meeting time and place, and the fact that five of six project leads already come in. Its hedged claim (\"we think that's part of the gap\") and \"decided, but not fixed forever\" feel more credible than A's warmer but more assertive explanation."
+}

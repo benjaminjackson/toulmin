@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-07-29Z",
+  "without_skill_run": "2026-11-16T21-35-27Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters are candid about the thesis's limits, and that honesty makes them more credible to a reader who discounts small-college praise. B wins narrowly: it gives contact details and a direct invitation to get in touch, while A adds a claim the brief doesn't support ('without missing her sampling'), even though the storm cost one site three months of data."
+}

@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T21:04:31.262794+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 291
+  tags: []
+  notes: extracted 291 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 7
+    honest: 5
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 6
+    objections: 6
+    fit: 9
+  details:
+    agree: A rubric-driven judge gets a clear need, a costed plan with matched funds,
+      and reporting commitments in under ten minutes, though a sceptical reader may
+      notice the hiring timeline doesn't add up.
+    honest: The brief asked for a third attorney, but the document recasts the grant
+      as refilling a departing attorney's post and asserts 'we have no other funding
+      to refill her position,' which the brief never states. The 'one attorney could
+      represent about 80 a year' figure also treats an open caseload as an annual
+      count.
+    works_the_facts: It correctly works out about one in three (163 of 463 who asked),
+      roughly 380 turned away, the $13,000 gap and 83% coverage that doesn't depend
+      on the county, and it puts each figure in a favourable but true form.
+    right_comparison: The no-grant alternative of one attorney and more tenants turned
+      away is drawn concretely, but it rests on the unsupported claim that there is
+      no other funding, and it says nothing about what losing the county contract
+      would do to the clinic.
+    qualification: The county renewal is dated (October) and its effect on this grant
+      is defused by the 83% figure, and the comparison data has a January start, but
+      there is no date for when results will be reported and no consequence stated
+      if the clerk's data doesn't come.
+    objections: It meets the missing-comparison and county-risk objections well. It
+      ignores the obvious one that a May decision plus a five-month hiring history
+      makes the promised handover training before the June departure implausible.
+    fit: At about 290 words with a title and signature, it fits the 300-word project
+      summary format cleanly.

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "grant-eviction-defense",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-04-31Z",
+  "without_skill_run": "2026-11-16T21-34-43Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B opens with the ask and uses headings that map onto a printed rubric (Need, Results, Budget, Accountability), and it addresses the county contract risk head-on by showing $65,000 of the position does not depend on it. A leaves \"[County]\" placeholders that look unfinished and buries the request in the second paragraph, though it does include the training plan B omits."
+}

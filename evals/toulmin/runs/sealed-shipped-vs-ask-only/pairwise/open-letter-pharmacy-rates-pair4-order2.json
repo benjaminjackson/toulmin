@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-08-09Z",
+  "without_skill_run": "2026-11-16T21-21-14Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters stay within the facts and make the same offer to share invoices and meet. As the director, I'd find A a bit more credible: its plain sections are easy to skim, and it admits that members could use mail order. B leans harder on emotional lines like 'every month moves more of us closer' and 'make sure we can stay', which reads like the yearly complaint I expect."
+}

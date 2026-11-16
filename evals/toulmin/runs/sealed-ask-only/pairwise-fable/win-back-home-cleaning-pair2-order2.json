@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "win-back-home-cleaning",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-22-54Z",
+  "without_skill_run": "2026-11-16T21-10-14Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is a finished email from a named owner that tells me exactly what I'd pay ($99, then $165), admits it can't match the apps, says the app contractors aren't insured, and gives me no contract, a deadline and a phone number; A has unfilled placeholders, no ongoing price, no deadline, and wrongly assumes I left partly over cleaners when I had no complaint."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "sales-dietitian-meals",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-11-22Z",
+  "without_skill_run": "2026-11-16T21-38-19Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A earns my trust by admitting the A1C numbers come from only fourteen people and that medication changes weren't tracked, and it lets me try a week or call first without pressure. B bolds the A1C figure, drops the medication caveat, leans on \"real numbers from real customers\", and adds details that aren't in the facts (a 10-meal trial, an address checker), which reads like the pitches I've fallen for before."
+}

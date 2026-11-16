@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:02:51.544357+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 278
+  tags: []
+  notes: extracted 278 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 4
+    honest: 5
+    works_the_facts: 6
+    right_comparison: 3
+    qualification: 2
+    objections: 3
+    fit: 6
+  details:
+    agree: A judge working through 40 applications would see open placeholders like
+      [Clinic Name], [source], [status/expectation] and a blank about the June departure,
+      and would mark the summary down as unfinished and unsure about funding and staffing.
+    honest: Most figures are accurate, but 'that is enough time to find new housing'
+      has no support in the facts. Turning 80 open cases into 80 cases per year is
+      an unstated assumption, though 163 cases across 2 attorneys happens to fit it.
+    works_the_facts: 'It works out useful figures: 14% of filings represented, about
+      160 more tenants over the grant period, and about a quarter fewer turned away.
+      It does not work the June departure or the hiring timeline into those numbers.'
+    right_comparison: 'It never says what happens without the grant: the clinic would
+      drop to one attorney after June. It also gives the 58% with no baseline and
+      does not admit that no comparison figure exists.'
+    qualification: The county contract risk is left as an empty '[status/expectation]'
+      bracket, with no consequence if it is not renewed and no plan to collect comparison
+      outcome data.
+    objections: 'The objections a skeptical judge would raise go unanswered: whether
+      58% is good, where the $33,000 comes from, what happens if the county contract
+      lapses, and how long hiring takes. The family-fund pledge and the training handover,
+      which would answer some of these, are missing.'
+    fit: The sections are clear and it is roughly at the 300-word limit, but the placeholders
+      mean it is not ready to submit as written.

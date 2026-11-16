@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-lease-renewal",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-29Z",
+  "without_skill_run": "2026-11-16T21-34-05Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B starts with the late payments that still bother me and then takes on the coffee chain head-on, pointing out the vacancy and build-out risk I'd face with a new tenant. A never mentions the coffee chain, so its offer seems to ignore the option I actually have."
+}

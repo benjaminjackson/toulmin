@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-27Z",
+  "without_skill_run": "2026-11-16T21-07-30Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is the one that would win me over. It ranks her among the three best students in 17 years, quotes her lab supervisor saying he'd hire her again, notes she ran the water sampling alone for two weeks, and states the study's limits plainly, so it doesn't read like routine small-college praise. A is still full of bracketed placeholders and leans on generic praise, so it looks unfinished and generic."
+}

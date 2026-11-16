@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "recommendation-phd-applicant",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-10-42Z",
+  "without_skill_run": "2026-11-16T21-24-08Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A arrives as a finished, signed letter with concrete comparisons (the most field-demanding of about thirty theses, one trip every four to five days) and a frank statement of the study's limits, which helps offset my small-college discount. B has unfilled placeholders for the name, college and signer, and adds details I can't trust, such as \"without hesitation\" and conference discussions with outside researchers."
+}

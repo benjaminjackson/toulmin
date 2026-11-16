@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:38:08.054808+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 361
+  tags: []
+  notes: extracted 361 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 5
+    objections: 5
+    fit: 7
+  details:
+    agree: 'The candid limits and the shellfish lab''s trust make the letter credible,
+      but a reader who discounts small-college praise gets nothing that sets this
+      letter apart from routine praise: no letter-writing record, no offer to send
+      the thesis, and ''without reservation'' reads like the stock phrasing that reader
+      ignores.'
+    honest: It drops the 'ready for a top journal' claim and states the unrepeated
+      study and the storm gap plainly, but 'few undergraduates have shown it at this
+      scale' is an unsupported comparison.
+    works_the_facts: 'The facts are restated rather than worked: it never gives the
+      pace of about 6 to 7 kayak trips a month, never says ''three best'' is out of
+      17 years of students, and leaves out the 40 letters and 2 refusals, the strongest
+      calibration fact available.'
+    right_comparison: It gives some context by comparing her to typical undergraduates
+      and to a class of 28, but it never sets her against the writer's other strong
+      students or other thesis writers in a way a skeptical reader could check.
+    qualification: It names a real uncertainty (one study, three months of data lost
+      to the storm) and says the result needs another season, but gives no checkable
+      figure for what a replication would need to show.
+    objections: It meets the 'no publications' objection well, but it never answers
+      the small-college inflation objection with the letter record or the offer to
+      send the thesis, and it gives no email or phone contact.
+    fit: It is a one-page letter in proper form, but it ships with a '[Surname]' placeholder
+      and the signature has no contact details.

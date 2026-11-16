@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-36-25Z",
+  "without_skill_run": "2026-11-16T21-09-07Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "I've quit apps and services before, so Document A wins me over. It says plainly there's no contract and I can skip or cancel any time, it offers a 15-minute phone call with the dietitian, it lets me swap meals, and it's honest that the A1C numbers aren't a study. Document B still has placeholders like [Your Name] and leaves out the cancellation terms, the meal swaps and the call, so it feels unfinished and less trustworthy."
+}

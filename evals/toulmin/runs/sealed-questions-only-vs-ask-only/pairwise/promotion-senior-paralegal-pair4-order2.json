@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-39Z",
+  "without_skill_run": "2026-11-16T21-20-58Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks plainly about the March error I raised in her review, says it was too close, and shows the result: about 600 deadlines since the fix with none wrong or missed. It also makes concrete supervision commitments. A presents the mistake as 'managing risk' and claims every group using the sheet has the check, which the facts don't support."
+}

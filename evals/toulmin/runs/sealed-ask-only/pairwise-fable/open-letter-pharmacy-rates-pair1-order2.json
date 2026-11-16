@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-04-41Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B answers my standing objections: it tells me chains are 20+ miles away in 14 counties, that two pharmacies will stop taking my members, and offers invoices I can verify plus a meeting before May 1 with a specific ask (cost plus fill fee). A has placeholders, vaguer asks, and gives me nothing to check, so it reads like the usual yearly complaint."
+}

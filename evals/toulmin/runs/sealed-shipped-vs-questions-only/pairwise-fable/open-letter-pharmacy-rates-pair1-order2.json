@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-04-12Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B opens with the specific ask tied to the July 1 renewal and heads off my likely answer that the PBM sets the rates, while being candid about what the closures do and don't show. A is also honest and offers the same invoices and meeting, but buries the ask and doesn't address who controls the rate; B's \"we expect others to follow\" is its one soft spot."
+}

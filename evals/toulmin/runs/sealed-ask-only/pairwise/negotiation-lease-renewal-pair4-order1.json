@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-lease-renewal",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-21-14Z",
+  "without_skill_run": "2026-11-16T21-05-07Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A takes on the late payments I still bring up. It explains the cooler failure, thanks me for waiving the fees and offers automatic payment, and it promises a signed lease within two weeks, all addressed to me by name. B skips the late rent completely and has unfilled placeholders, so it reads like a form letter."
+}

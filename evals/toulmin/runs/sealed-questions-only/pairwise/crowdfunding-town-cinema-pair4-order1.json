@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-54Z",
+  "without_skill_run": "2026-11-16T21-03-12Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A speaks to my worries directly. It says every pledge comes back if the goal isn't met, it promises spending reports at the library every three months, and it shows only $49,000 is left to raise, about what the town gave last time. That makes a pledge feel safe even after my ambulance-fund gift. Document B leaves out the refund guarantee and the business pledges, calls the bank's conditional pledge a \"match,\" and still has blank placeholders."
+}

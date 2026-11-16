@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-03-50Z",
+  "without_skill_run": "2026-11-16T21-33-57Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "As someone who remembers the refunds, the line that $49,000 is only $2,000 more than the last campaign raised is what makes me believe this one can work and gets me to pledge. Document B is just as honest and handles the refund worry well, though A's claim that the cinema will be 'far cheaper to run' goes slightly beyond the facts."
+}

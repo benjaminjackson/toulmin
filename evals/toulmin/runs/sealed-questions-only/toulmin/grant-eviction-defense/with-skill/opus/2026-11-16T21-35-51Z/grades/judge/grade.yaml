@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T21:36:58.469683+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 257
+  tags: []
+  notes: extracted 257 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 5
+    honest: 9
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 5
+    objections: 4
+    fit: 8
+  details:
+    agree: A judge with a rubric would find the summary clear and credible, but it
+      never says what the third attorney will achieve (how many more tenants served)
+      or what happens without the grant, so a skeptical reviewer has little reason
+      to rank it above other solid applications.
+    honest: Every figure matches the brief, the 'one in seven' and $13,000-a-year
+      shortfall are correct, and the missing comparison for unrepresented tenants
+      and the uncertain county renewal are both stated plainly.
+    works_the_facts: 'It works out the representation rate and the budget gap, but
+      it misses the most useful figures: about 80 cases a year per attorney means
+      a third attorney could serve roughly 80 more tenants (about a quarter of those
+      turned away), and losing an attorney in June with a 5-month hiring record would
+      cut capacity.'
+    right_comparison: 'It honestly admits there is no baseline for unrepresented tenants,
+      but it never describes the real alternative: after June the clinic drops to
+      one attorney, and it may lose county funding in October, so without the grant
+      even more than 300 tenants would be turned away.'
+    qualification: The January data request is dated and can be checked, but the county-contract
+      hedge gives no consequence or contingency if renewal fails in October, which
+      leaves the reader with an unanswered sustainability worry.
+    objections: 'Two obvious reviewer questions go unanswered even though the facts
+      could have answered them: whether this is really a replacement hire rather than
+      a third attorney, given the June departure, and whether the position can survive
+      losing the county contract.'
+    fit: At about 275 words, with clear labeled sections suited to a quick rubric
+      read, it meets the 300-word project-summary format.

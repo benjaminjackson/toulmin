@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "cover-letter-dental-office",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-02-19Z",
+  "without_skill_run": "2026-11-16T21-33-05Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both give me the same facts, but B puts the Dentrix gap and her plan to close it right after her track record, ties it to having already moved a practice onto software, and notes her clinic was a bit larger than mine; A buries Dentrix after the caregiving story and adds a soft 'patient's side' line and a generic closer that do less for me."
+}

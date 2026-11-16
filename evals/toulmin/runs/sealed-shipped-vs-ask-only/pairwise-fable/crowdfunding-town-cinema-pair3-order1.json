@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "crowdfunding-town-cinema",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-03-50Z",
+  "without_skill_run": "2026-11-16T21-20-41Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both answer my worry about the last campaign's refunds and show the same $49,000 gap. A also tells me when it would reopen, why it would be cheaper to run, and admits the roof cost could rise and that opening-week films aren't promised. That candour makes me trust it more than B's tidier pitch, which leaves those out."
+}

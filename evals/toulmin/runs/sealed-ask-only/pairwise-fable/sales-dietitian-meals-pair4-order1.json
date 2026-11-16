@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "sales-dietitian-meals",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-24-17Z",
+  "without_skill_run": "2026-11-16T21-10-12Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A answers what made me quit before: I can swap meals, skip or cancel with no contract, and I know the order deadline and delivery area, while it still shows the full 10/3/1 A1C split without a promise. B is more candid that medication changes weren't tracked, which I value, but it leaves out those practical details and asserts why people stay without support."
+}

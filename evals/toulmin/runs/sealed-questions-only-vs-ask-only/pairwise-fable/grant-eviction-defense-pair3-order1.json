@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "grant-eviction-defense",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-43Z",
+  "without_skill_run": "2026-11-16T21-20-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B reads more smoothly and tells me who the clinic is, but it leans on assurances the facts don't support: that cases carry over \"without a gap\", that the plan \"does not depend\" on the county contract, and that children stay in their schools. A is candid that it has no comparison figure and that the county contract is at risk, which I trust more as a reviewer, despite its unfilled [County] placeholders."
+}

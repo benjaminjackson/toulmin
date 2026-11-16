@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-catch-limit",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-09-03Z",
+  "without_skill_run": "2026-11-16T21-34-24Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both accept the staff's numbers and make the same alternative ask. B is slightly more persuasive: it notes the cut would run three years, explains how the reporting app gives staff better data, and closes by saying either option still cuts the catch. A's line that the number of closing boats 'won't be none' claims more than the two captains' conditional statements support."
+}

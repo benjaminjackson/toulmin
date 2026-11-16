@@ -1,0 +1,60 @@
+grader: judge
+graded: '2026-11-16T21:34:43.002253+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 281
+  tags: []
+  notes: extracted 281 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 6
+    honest: 5
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 4
+    objections: 5
+    fit: 8
+  details:
+    agree: A judge on a ten-minute read gets a clear ask, a fully funded budget and
+      a reporting plan, but may hold back because the summary says nothing about sustainability
+      or about the county contract.
+    honest: The brief asks for a third attorney, but the summary presents the hire
+      as keeping two attorneys instead of one and says capacity will 'fall by half'
+      without the grant, which assumes the departing attorney's position would not
+      be refilled, a fact the brief never gives; it also promises a represented-versus-unrepresented
+      comparison that depends on the clerk supplying data.
+    works_the_facts: "The funding gap is worked out correctly (78 \u2212 45 \u2212\
+      \ 20 = 13), but obvious figures are missing: the clinic reached only about 14%\
+      \ of filings, it turned away nearly two tenants for every one it served, and\
+      \ about 95 households kept their home or got time to move."
+    right_comparison: The 'one attorney instead of two' comparison ignores that the
+      request is for a third position, and it leaves out the county's $60,000 contract,
+      which comes up for renewal in October and affects what the clinic's baseline
+      really is.
+    qualification: The summary honestly says it has no figure for unrepresented tenants,
+      but it does not hedge the clerk data request (no fallback if the data never
+      arrives) and does not mention the October county renewal at all, a real either-way
+      risk to the clinic's share of the cost.
+    objections: It answers 'does representation matter?' with the data plan and 'can
+      you cover the gap?' with the pledge, but it doesn't address what happens after
+      two years or the county funding risk, and it leaves out the departing attorney's
+      training month, which would have eased concerns about the five-month search.
+    fit: At about 280 words it fits under the 300-word limit, and it reads as a well-ordered
+      project summary with a title, the need, the request, the budget and evaluation.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-office-days",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-35-44Z",
+  "without_skill_run": "2026-11-16T21-09-16Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives remote staff what they need to decide whether to stay: up to $150 a month toward commuting, desks arriving before the start date, a six-month review with staff, and a plain statement that there are no exceptions beyond the four. It also names a real sender and gives the meeting time. B covers the same reasons but leaves out every one of those commitments and is signed with placeholder names, so it feels vaguer and less trustworthy."
+}

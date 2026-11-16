@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-lease-renewal",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-03-39Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B gives me something to set against the late payments I still remember: more than two years paid on time. It also shows that two months of vacancy would cost me more than a year of the gap between our numbers, which matters with the unit two doors down still empty. Calling itself 'reliable for a decade' glosses over the late months, and A has the June 1 deadline and my name, but B makes the stronger case for my money."
+}

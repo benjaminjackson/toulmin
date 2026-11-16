@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "crowdfunding-town-cinema",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-20-41Z",
+  "without_skill_run": "2026-11-16T21-02-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who remembers the refunds and has already given this month, B answers my doubts directly: it names the Majestic, shows $11,000 already pledged so only $49,000 is left, firmly guarantees all-or-nothing refunds and promises quarterly spending reports. A has unfilled placeholders and a bracketed, tentative refund line, which makes it feel unfinished and less trustworthy."
+}

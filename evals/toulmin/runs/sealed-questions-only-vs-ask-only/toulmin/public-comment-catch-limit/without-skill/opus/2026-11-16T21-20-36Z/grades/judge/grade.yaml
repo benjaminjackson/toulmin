@@ -1,0 +1,63 @@
+grader: judge
+graded: '2026-11-16T21:21:32.394298+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 279
+  tags: []
+  notes: extracted 279 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 5
+    objections: 6
+    fit: 8
+  details:
+    agree: The comment accepts the staff's numbers and asks for a specific, modest
+      alternative. A commission that trusts its staff could act on that, but the comment
+      offers no data or help, such as the trip logs or the reporting-app trial, so
+      the request is easy to set aside as one more captain asking for relief.
+    honest: The comment correctly drops the claim that every boat will close, and
+      its numbers check out. However, "This cut is bigger" compares it to the 2016
+      cut without knowing how big that cut was, and "it doesn't come back when the
+      stock does" is stated as fact when it is only an assertion.
+    works_the_facts: 'The comment works out the $29,000 loss and the 15-trip shortfall.
+      It leaves useful figures unused: 59% of surveyed customers would book fewer
+      trips and only 17% would book the same, about 70% of this season is already
+      booked, and halving charter landings would change the state total by only about
+      4.5 percentage points.'
+    right_comparison: The comment compares the proposal with real alternatives, a
+      3-fish limit or a shorter season. It describes the 2016 aftermath as still being
+      15 trips short and leaves out that bookings were recovering, rising from 138
+      to 155.
+    qualification: The comment includes a conditional (two captains will sell if bookings
+      drop as they did in 2016) and a request the commission can check (whether 3
+      fish or a shorter season meets the target). Neither has a date or a threshold,
+      and nothing says what happens if the condition is not met.
+    objections: The comment avoids the fight over the science by conceding the stock
+      numbers. It doesn't answer the doubt commissioners will raise, that captains
+      say this at every hearing, and offering the trip logs or the app trial would
+      have answered it. The 9%/80% point invites a reply, because the limit applies
+      to private anglers too.
+    fit: At about 330 words in plain spoken style, the comment fits a two-minute slot.
+      It still has [NAME]/[HARBOR] placeholders, although the captain's name and boat
+      were known, and a stray closing tag.

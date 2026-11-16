@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-21-36Z",
+  "without_skill_run": "2026-11-16T21-07-30Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B gives a skeptic the calibration and specifics that small-college letters usually lack: she ranks among the top three students in 17 years, she ran the lab's water sampling alone for two weeks, her supervisor would hire her again, and the letter is frank that the data come from one season with a three-month gap. Document A is generic and still full of placeholders. B's line about her holding her own with working scientists isn't in the facts I was given, but it is minor and doesn't change the outcome."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-01-22Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me what I need to decide: the note terms, the $250K already committed, the cut to $75K a month, how their sensor differs from the competitor's and an honest breakeven gap. B is missing the terms and the deadline and is still full of placeholders. It also sets a 2027 profit goal that its own numbers don't support, which feeds my worry that sales are too slow."
+}

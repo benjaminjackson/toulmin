@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "recommendation-phd-applicant",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-38-08Z",
+  "without_skill_run": "2026-11-16T21-24-08Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both give the same concrete evidence and are candid about the single season and the storm gap. A stays closer to the facts, while B adds unsupported touches (\"discussed it with researchers outside our college\", \"without hesitation\", \"without reservation\") that read like the small-college inflation I discount, and it leaves the college unnamed."
+}

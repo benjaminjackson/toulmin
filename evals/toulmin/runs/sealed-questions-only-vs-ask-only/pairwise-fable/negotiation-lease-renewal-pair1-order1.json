@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "negotiation-lease-renewal",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A deals head-on with the late rent I still bring up: it explains the cooler failure, thanks me for waiving the fees, and commits to automatic payment on the 1st and signing within two weeks. B never mentions the late payments at all, which leaves my main doubt about this tenant unanswered, even though its point that year-five rent tops my number is a good one."
+}

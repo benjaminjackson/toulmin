@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-office-days",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-10-04Z",
+  "without_skill_run": "2026-11-16T21-23-08Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes essential practical details that Document B omits—such as the time and location of Friday's meeting, the option to go to HR, and the answer to the obvious question of where everyone will sit—while also avoiding Document B's contradictory claim that it hasn't decided what happens if we can't comply right after stating no exceptions will be made. Document A is also much more honest and thoughtful about the junior staff data rather than treating correlation as proven fact."
+}

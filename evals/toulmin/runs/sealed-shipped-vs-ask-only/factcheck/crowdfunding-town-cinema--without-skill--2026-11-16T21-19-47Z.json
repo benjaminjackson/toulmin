@@ -1,0 +1,17 @@
+{
+  "task": "crowdfunding-town-cinema",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-19-47Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "as we said we would",
+      "why": "The brief states that the previous campaign refunded everyone, but does not state that they had promised in advance to do so."
+    },
+    {
+      "quote": "And there's a ten-year lease waiting for us.",
+      "why": "By listing the ten-year lease as one of the 'Three things have changed' since the last campaign, the document implies there was no ten-year lease offer three years ago, which the brief does not state."
+    }
+  ],
+  "invented_count": 2
+}

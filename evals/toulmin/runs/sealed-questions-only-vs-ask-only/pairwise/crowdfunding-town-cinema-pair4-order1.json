@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-54Z",
+  "without_skill_run": "2026-11-16T21-21-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A shows that, with the $11,000 already pledged by businesses, only $49,000 is left to raise, about what the town gave last time, and it promises a quarterly spending report at the library. That speaks to my worry about another refund and to my limited budget after the ambulance donation. B asks for $60,000 and leaves out both points."
+}

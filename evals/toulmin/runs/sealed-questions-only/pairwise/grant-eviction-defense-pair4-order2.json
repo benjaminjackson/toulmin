@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-51Z",
+  "without_skill_run": "2026-11-16T21-03-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is complete. It shows the whole funding gap is covered, admits there is no comparison figure but commits to getting the clerk's data, and promises reports every six months. A is full of bracketed placeholders, gives no source for the remaining $33,000, and makes an unsupported claim of 80 more tenants a year, all of which would cost it points on a rubric."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-09-03Z",
+  "without_skill_run": "2026-11-16T21-20-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B states its ask (three fish or a shorter season) up front and again at the close, and it offers something I rarely hear from captains: trip logs and a catch-reporting app trial with our staff. A makes the same economic case but leaves name and harbor placeholders unfilled, claims without support that this cut is \"bigger\" than 2016's, and offers us nothing beyond asking staff to look again."
+}

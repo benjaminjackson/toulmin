@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-35-27Z",
+  "without_skill_run": "2026-11-16T21-21-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a skeptical reader, I find A more credible: it gives the limits of the thesis plainly and sticks to checkable facts such as the full name, contact details and the lab supervisor's trust. B adds claims the brief doesn't support, such as that she 'held her own' with working scientists, that the result 'fits a question the field is actively working on' and that she works carefully 'without anyone watching', which is exactly the inflation I discount in small-college letters."
+}

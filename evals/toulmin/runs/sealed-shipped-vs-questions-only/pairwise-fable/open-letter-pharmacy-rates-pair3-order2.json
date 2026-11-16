@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-49Z",
+  "without_skill_run": "2026-11-16T21-34-27Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both stay honest and both answer my \"members have chains\" objection with the 14 counties and 20-mile fact. B puts the July 1 ask first, ties the 22% share to the below-cost loss, and ends with three concrete things I can act on, while A buries the ask and gets a bit sentimental and argumentative on the brand-name offset."
+}

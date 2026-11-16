@@ -1,0 +1,23 @@
+I left out the promise of the same cleaner every single time. Your own setup doesn't support it: you assign a regular cleaner **and a named backup**, so some visits will be done by the backup. And with 7 of 18 cleaners leaving last year, some regular cleaners will change again. These customers left partly because of that problem. If they come back on that promise and it's broken, you'll probably lose them for good. The email promises what you can actually deliver, which is still a big change from before.
+
+<final_document>
+Subject: You told us what was wrong. We fixed it.
+
+Hi [First name],
+
+When you cancelled with [Company], you told us two things: the price was high, and too often a different cleaner showed up at your door.
+
+We've fixed the second one. Every customer now has a regular cleaner who gets to know your home, plus a named backup for sick days and vacations. When we come, you'll know who it is.
+
+About price: yes, we cost more than the app services. That's because our cleaners are employees, not contractors. We pay them $21 an hour, and every visit is insured. If something breaks or someone gets hurt in your home, you're covered.
+
+We'd like the chance to show you the difference. Your first cleaning back is just $99.
+
+[Book your $99 cleaning]
+
+Thanks for considering us again,
+[Your name]
+Owner, [Company]
+</final_document>
+
+It's about 150 words. If you can say something true about keeping cleaners longer, like a raise or a lower turnover rate since you made the changes, adding it would make the consistency claim stronger.

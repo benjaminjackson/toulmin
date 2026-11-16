@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-19-47Z",
+  "without_skill_run": "2026-11-16T21-02-01Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B names the Majestic, is signed by Ruth Albers, and says outright that the campaign is all-or-nothing with every pledge refunded. That guarantee speaks directly to my memory of the last refunds, and it makes giving feel safe even though I just gave $200 to the ambulance fund. A still has a [Cinema Name] placeholder and never says what happens to my money if the campaign falls short."
+}

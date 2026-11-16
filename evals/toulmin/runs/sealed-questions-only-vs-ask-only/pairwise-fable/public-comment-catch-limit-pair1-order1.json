@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A accepts our staff's numbers, then gives us something new: two named-harbor captains who say they would sell, plus an offer of trip logs and a catch-reporting trial with staff, which makes a 3-fish or shorter-season alternative easier to vote for. B makes the same core case but has unfilled name and harbor placeholders, offers no cooperation on data, and leans on a fairness argument we hear at every hearing."
+}

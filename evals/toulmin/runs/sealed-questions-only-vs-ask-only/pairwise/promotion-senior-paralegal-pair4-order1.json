@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-39Z",
+  "without_skill_run": "2026-11-16T21-20-58Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A deals with the March deadline mistake directly. It says the filing was too close, then shows the result of the fix: about 600 entries with no errors since April. It also makes specific commitments, which answers the concern I raised in her last review. B labels the mistake as 'managing risk', which reads like spin. It leaves out the results of the fix, claims every group using the sheet has the check, which the brief doesn't support, and still contains placeholder names."
+}

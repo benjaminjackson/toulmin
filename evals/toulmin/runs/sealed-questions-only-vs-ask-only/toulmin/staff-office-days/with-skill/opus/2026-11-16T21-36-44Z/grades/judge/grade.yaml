@@ -1,0 +1,60 @@
+grader: judge
+graded: '2026-11-16T21:37:50.034003+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 447
+  tags: []
+  notes: extracted 447 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 4
+    objections: 6
+    fit: 8
+  details:
+    agree: The reasons are concrete, the email openly says the change breaks what
+      remote hires signed up for, and the partners commit to the same three days,
+      so most staff will probably go along; but the remote hires within two hours
+      get only the commuting money, so some of the ones who stay for remote work may
+      still leave.
+    honest: Most claims match the brief, but 'projects like these keep a firm our
+      size busy for years' is invented, and 'the people you'd most want to learn from
+      will be there' overstates what five of six project leads coming in actually
+      shows.
+    works_the_facts: 'The figures are passed on as given: the 30% delay is never turned
+      into months or into what it costs a junior''s career, and the email doesn''t
+      say that 15 of 46 is about a third or that partners go from one day a week to
+      three.'
+    right_comparison: The email never says what happens if fully remote work continues,
+      such as more lost bids or juniors moving up more slowly, and it doesn't compare
+      the plan with other options like two days or team-based days, so the alternative
+      is only implied.
+    qualification: The six-month review has a date (around March 2028), but there
+      is no measure or threshold that would change the policy, and the hedge 'we believe
+      part of the reason' names nothing the reader could check.
+    objections: It answers the 'I was hired as remote' complaint, commuting cost,
+      desk space and the partners' own attendance, but it leaves open whether being
+      in the office would actually have won the hospital bids and why it has to be
+      three days.
+    fit: It is a clear one-page email with the subject line, meeting time and contacts
+      the brief asked for, sent ahead of Friday's meeting.

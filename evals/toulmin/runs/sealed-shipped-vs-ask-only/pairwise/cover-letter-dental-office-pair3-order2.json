@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-dental-office",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-03-18Z",
+  "without_skill_run": "2026-11-16T21-20-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B mentions four years as volunteer church treasurer doing the books in QuickBooks, which shows recent bookkeeping work during the seven-year gap I'm unsure about. It also notes that her old clinic was slightly larger than my practice. A has neither, so it leaves the gap looking emptier."
+}

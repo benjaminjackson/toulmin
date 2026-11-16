@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:34:27.465774+00:00'
+outcome: pass
+score: 0.85
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 415
+  tags: []
+  notes: extracted 415 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.85
+  metrics:
+    agree: 7
+    honest: 10
+    works_the_facts: 5
+    right_comparison: 8
+    qualification: 6
+    objections: 8
+    fit: 9
+  details:
+    agree: The invoice offer and the 20-mile gap in 14 counties give a skeptical director
+      concrete reasons to engage, though without a dollar figure for total losses
+      she may still treat this as the usual annual complaint.
+    honest: The letter drops the unsupported claim that a third of pharmacies will
+      close, says plainly that it doesn't know why the nine closed, and states every
+      number within what the facts support.
+    works_the_facts: It derives the 40-mile round trip and puts 22% as 'more than
+      one in five', but it never turns the $1.80 loss and the 3,100 prescriptions
+      into a dollar figure, even a carefully bounded one, so the loss stays abstract.
+    right_comparison: It describes the realistic alternative for members in the 14
+      counties, a chain pharmacy more than 20 miles away or mail order, instead of
+      assuming chains are close by.
+    qualification: The hedges about brand-name offsets and the nine closures are honest,
+      and the May 1 and July 1 dates can be checked, but the warning that two pharmacies
+      will stop filling has no deadline or count of affected members attached.
+    objections: The 'plenty of chains' belief is answered directly with the 14 counties
+      and the 20-mile distance, and the 'they complain every year' belief is answered
+      by the offer to share invoices and meet; the brand-name offset objection is
+      raised and answered fairly.
+    fit: It is a one-page open letter with a signature, the alliance's name and space
+      for the member list, which suits both the plan and the newspapers.

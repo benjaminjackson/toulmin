@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T21:33:20.938496+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 256
+  tags: []
+  notes: extracted 256 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 4
+    objections: 4
+    fit: 8
+  details:
+    agree: A judge scoring quickly gets a clear need, an honest outcome figure and
+      a balanced budget, but would be unsure whether this is a third attorney or a
+      replacement for the one leaving in June, and is left uneasy about the county
+      contract.
+    honest: 'Every figure traces to the brief and the derived numbers are correct:
+      one in seven, the $13,000 gap and the $156,000 total; it also says plainly that
+      no comparison figure exists.'
+    works_the_facts: It derives the share of cases represented and the funding gap,
+      but it never says how many of the roughly 300 turned-away tenants a third attorney's
+      caseload of about 80 could absorb, or what capacity falls to once the June departure
+      takes effect.
+    right_comparison: The real alternative is the clinic dropping to one attorney
+      after June and turning away even more tenants, but the document never states
+      this and only notes that no figure exists for unrepresented tenants.
+    qualification: The clerk-data hedge has a start date, but the October county renewal
+      is raised with no consequence or contingency, and the five-month search is not
+      set against the June departure, so the training overlap is lost and the clinic
+      faces a staffing gap.
+    objections: Mentioning the county renewal raises a sustainability objection it
+      never answers, and it leaves unaddressed whether the Foundation is paying to
+      replace the departing attorney and how a hire around October fits that departure.
+    fit: The structure is clear and it comes in under 300 words, but the placeholders
+      for the clinic, county and fund names remain even though the writer had the
+      clinic's name.

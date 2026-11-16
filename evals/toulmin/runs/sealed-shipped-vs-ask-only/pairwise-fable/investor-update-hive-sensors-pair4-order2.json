@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "investor-update-hive-sensors",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-50Z",
+  "without_skill_run": "2026-11-16T21-22-24Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me what a skeptical investor needs to act: a monthly cash report for bridge participants, a December 1 reply deadline, a plain statement of what happens without the money, and a candid framing of the competitor trials as a test. A is honest too, but defers the key numbers to a later update and omits the reporting commitment and the reply date."
+}

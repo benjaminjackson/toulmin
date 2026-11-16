@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-lease-renewal",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-03-24Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks directly to the late payments I still bring up. It explains them, thanks me for waiving the fees and offers automatic payment and a quick signing, and it shows why the hood is worth more to a restaurant than to a coffee chain. A skips the late payments entirely and still has unfilled placeholders, so it reads as less serious."
+}

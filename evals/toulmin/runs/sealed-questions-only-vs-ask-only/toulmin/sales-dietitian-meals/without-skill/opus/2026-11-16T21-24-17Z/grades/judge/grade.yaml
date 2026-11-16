@@ -1,0 +1,52 @@
+grader: judge
+graded: '2026-11-16T21:25:08.076660+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 396
+  tags: []
+  notes: extracted 396 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 5
+    objections: 6
+    fit: 8
+  details:
+    agree: This wary reader is likely to try the low-risk $59 trial with no contract,
+      but the page never addresses why they quit diet apps and a meal service before.
+    honest: The page doesn't promise a lower A1C, but it ties the 0.6-point average
+      drop to only the 10 whose A1C fell, when the brief gives it as the overall average,
+      and it leaves out that medication changes weren't tracked.
+    works_the_facts: 'It repeats the raw counts without working them: 37 of 88 is
+      42% staying past six months, and the trial comes to $5.90 a meal against $12.90
+      on the plan.'
+    right_comparison: The only alternative described is counting carbs yourself, and
+      it ignores the apps and meal service this reader has already tried and dropped.
+    qualification: '''Results vary'' and the defer-to-your-doctor note are generic,
+      and the page doesn''t name the real limits the reader could check: only 14 self-selected
+      customers shared results, and medication changes weren''t tracked.'
+    objections: No contract, weekly swaps and the long-time customers help with the
+      fear of quitting again, but it leaves out the 15-minute call with Lena, which
+      would answer this wary reader best.
+    fit: It's a clear sales page of about 400 words with an order button at the top
+      and bottom, as the brief asked.

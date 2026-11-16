@@ -1,0 +1,59 @@
+task:
+  name: investor-update-hive-sensors
+  type: investor-update
+  set: sealed
+  reader: A partner at a small seed fund that owns 8% of the company and is deciding
+    whether to put money into a $600,000 bridge round. The partner has read the last
+    three updates and thinks the company is selling too slowly.
+  prompt: 'Please help me write our investor update for the half year. We make sensors
+    that sit inside beehives and tell commercial beekeepers when a colony is weak,
+    so they can treat it before it dies. We''re raising a $600,000 bridge round and
+    I want our current investors in it.
+
+
+    Where we are:
+
+    - We have 31 paying beekeepers. A year ago we had 12.
+
+    - Each sensor costs us $38 to make and we sell it for $55, plus $4 a month per
+    hive for the app.
+
+    - Revenue for the last six months was $212,000. 70% of it came in March and April,
+    before pollination season.
+
+    - Our biggest customer runs 4,000 hives and lost 18% of his colonies over the
+    winter, against 31% the winter before. He says the sensors were part of it, but
+    he also changed his mite treatment.
+
+    - We spend about $95,000 a month and have $340,000 left.
+
+    - A large farm equipment company launched a similar sensor in May at $45.
+
+
+    I want the update to say we''ll be profitable next year. Keep it under 600 words.'
+  user_knows: '- The company is HiveSense. The bridge is a convertible note with a
+    20% discount and a $6 million cap. It closes December 15.
+
+    - One angel has already committed $250,000 of the bridge.
+
+    - The equipment company''s sensor measures only temperature. Ours also measures
+    sound and hive weight.
+
+    - Three of our beekeepers have asked to test the equipment company''s sensor.
+
+    - I can commit to a monthly cash report to everyone who puts money into the bridge.
+
+    - I can commit to bringing spending down to $75,000 a month by February by not
+    filling two open roles.
+
+    - I cannot promise profit next year. If that is pointed out, I accept a claim
+    the numbers support instead.
+
+    - Investors who want in should reply to me by December 1.'
+config:
+  name: with-skill
+  runner: /Users/ben/github/toulmin/evals/toulmin/run-with-skill
+  model: opus
+started: '2026-11-16T21:02:58.868472+00:00'
+duration_seconds: 92.24
+exit_code: 0

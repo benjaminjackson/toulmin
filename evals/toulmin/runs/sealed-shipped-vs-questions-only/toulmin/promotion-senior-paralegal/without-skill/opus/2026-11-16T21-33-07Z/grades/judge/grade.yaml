@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T21:33:54.678594+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 342
+  tags: []
+  notes: extracted 342 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 6
+    objections: 8
+    fit: 9
+  details:
+    agree: The partner who remembers the March error sees it owned, fixed, and backed
+      by about 600 clean entries, so he is likely to agree to a meeting and to take
+      the request seriously, though the case for paying $9,000 more is only moderately
+      strong.
+    honest: Every figure matches what the user supplied and the attrition is disclosed,
+      but 'keep the group's deadlines reliable' sits uneasily next to the error, and
+      'hear about one mistake from me directly' implies he doesn't already know about
+      something he raised in her review.
+    works_the_facts: 'The figures are given as raw numbers and never put to work:
+      there''s no ''90 hours over target (about 6%)'', no error rate before and after
+      the check, and nothing on the reach of a sheet three groups now use.'
+    right_comparison: The only alternative described is the thin line about supervision
+      being 'something I fit in around it'; the letter never shows what the group
+      loses if no senior paralegal is named, such as the informal training that coincided
+      with a hire leaving after eight months.
+    qualification: The certification commitment has a checkable date (June 2027) and
+      the weekly check-in is concrete, but neither says what happens if it's missed,
+      and the 'can't promise' hedge has no measure attached, such as keeping the sheet's
+      error-free record over a stated number of entries.
+    objections: The partner's main objection, the March error, is met head-on with
+      the fix and the 600-entry record, and the trainee who left is disclosed rather
+      than hidden; only the 'from me directly' framing misjudges what he already knows.
+    fit: It is a properly formatted promotion request to the right person, under 400
+      words, with a clear ask and a meeting request tied to the December 15 deadline.

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-35-21Z",
+  "without_skill_run": "2026-11-16T21-21-14Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both make the same verifiable offer (invoices, a meeting before May 1) and the same ask, but B stays within what the pharmacies can show. A overreaches in ways I would catch: \"none of us can make it all back\", \"each one of those prescriptions\" losing money when $1.80 is an average, \"the 20 drugs your members use most\", and \"skip a dose\". That feeds my view that this is the annual complaint."
+}

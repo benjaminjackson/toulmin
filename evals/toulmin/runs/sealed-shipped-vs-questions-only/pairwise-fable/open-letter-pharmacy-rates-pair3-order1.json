@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-06-49Z",
+  "without_skill_run": "2026-11-16T21-34-27Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A opens with the July 1 ask, ends with three concrete actions I can take, and answers my assumption that members can use chains with the 40-mile round trip per refill. B has the same facts but buries the ask, leans on emotional appeals (retired teacher, trooper's family) and arrives with unfilled placeholders."
+}

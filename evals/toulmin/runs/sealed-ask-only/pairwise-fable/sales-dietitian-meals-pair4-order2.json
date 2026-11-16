@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "sales-dietitian-meals",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-24-17Z",
+  "without_skill_run": "2026-11-16T21-10-12Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B tells me what I need to know after quitting three services: no contract, skip or cancel any time, meal swaps, the order deadline, the delivery area and a named dietitian. A is more candid about the limits of the A1C numbers (it admits medication changes aren't tracked), which I respect, but B still reports all 14 results honestly and says results vary."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-office-days",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-37-50Z",
+  "without_skill_run": "2026-11-16T21-23-55Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A includes the six-month review with staff and the August desk arrival. As a remote hire weighing whether to stay, those two points give me a reason to go along with the change instead of leaving. Document B leaves both out, though it is otherwise similar in tone and honesty."
+}

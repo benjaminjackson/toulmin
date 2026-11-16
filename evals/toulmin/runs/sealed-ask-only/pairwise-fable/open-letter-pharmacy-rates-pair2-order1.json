@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-19-29Z",
+  "without_skill_run": "2026-11-16T21-05-14Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A answers my two standing objections directly: it tells me chains are 20+ miles away in 14 counties and that two pharmacies will stop taking plan members, and it offers invoices and a meeting before May 1 so I can verify the $1.80 figure. B is full of unfilled placeholders, adds a PBM disclosure demand, and gives me less concrete evidence that my members lack chain alternatives."
+}

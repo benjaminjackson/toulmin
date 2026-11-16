@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-04-12Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A anticipates the excuse I'd reach for, that the PBM sets the rates, by pointing out the plan signs that contract. It also turns the 20-mile chain distance into a concrete 40-mile round trip and stays careful with the facts. B is solid, but it suggests the loss applies to every plan prescription ('one prescription in five') when the figure covers only the 20 generics, and it adds colour that isn't in the facts, such as the teachers and state troopers."
+}

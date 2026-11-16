@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-lease-renewal",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-58Z",
+  "without_skill_run": "2026-11-16T21-21-14Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B gives me concrete reasons to accept, like the $40,000 it would cost a new restaurant to put in a hood like the one already here, and it sets a clear June 1 date for my answer, so it's easier to say yes. A has most of the same points and is just as polite, so the difference is small."
+}

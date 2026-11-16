@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-05-58Z",
+  "without_skill_run": "2026-11-16T21-33-07Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Both documents own the March deadline error and cite the 600 clean entries since then. B also makes concrete commitments, a weekly check-in and certification by June 2027, admits it can't promise zero errors, and asks to meet in person before December 15, which gives me something specific to act on. B's 'hear it from me directly' is a little odd because I already raised the error in the last review."
+}

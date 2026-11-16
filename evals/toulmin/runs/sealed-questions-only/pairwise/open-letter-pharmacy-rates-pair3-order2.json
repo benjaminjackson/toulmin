@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-27Z",
+  "without_skill_run": "2026-11-16T21-06-02Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B answers my two doubts head-on. It says the nearest chain is more than 20 miles away in those 14 counties, and it offers invoices and a meeting before May 1, so I can check the numbers instead of hearing the yearly complaint again. A has neither of those things and adds a PBM transparency demand that the facts don't back up."
+}

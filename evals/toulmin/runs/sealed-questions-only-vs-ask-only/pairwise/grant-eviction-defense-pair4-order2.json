@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-51Z",
+  "without_skill_run": "2026-11-16T21-22-09Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B's labeled sections (need, results, project, budget, accountability) are quick to score against a printed rubric. It is candid that there is no comparison baseline and that the county renewal is uncertain, and it commits to six-month reports. A leaves out accountability, invents an 'October 2027' date, and claims the position doesn't depend on county funding, which the brief doesn't support."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-10-42Z",
+  "without_skill_run": "2026-11-16T21-24-08Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is a finished letter with a real name, college and signature, while A still has placeholders like [Last Name] and [College], which make it look like a template. B also adds checkable calibration a skeptical reader can use: the most demanding of about 30 theses she has supervised, a trip every 4–5 days, and a plain statement that Priya has no publications. That reads as more credible than a small-college letter that praises everyone."
+}

@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:22:28.019292+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 281
+  tags: []
+  notes: extracted 281 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 5
+    right_comparison: 7
+    qualification: 6
+    objections: 5
+    fit: 9
+  details:
+    agree: The all-or-nothing promise and the frank account of the failed first campaign
+      would probably get this reader to pledge something, but nothing here makes the
+      case for a larger gift from someone who just gave $200 to the ambulance fund.
+    honest: The numbers are accurate, but 'Your money only goes into the project if
+      we can finish it' ignores a roof estimate that could rise by up to 15%, 'Many
+      of you gave then' is assumed, and the 'This time is different' list includes
+      $1 rent and volunteers without showing either is new.
+    works_the_facts: The 76-mile round trip and 'nearly a third' are good derivations,
+      but the draft leaves out the $11,000 already pledged in writing, which would
+      cut the public's ask to $49,000, and it never turns 180 tickets a week or the
+      $49,000 into a per-household or per-week figure.
+    right_comparison: 'It describes the alternative accurately: no cinema in town
+      and a 38-mile drive to the nearest one, plus steady attendance before closing,
+      without adding a trend the facts don''t support.'
+    qualification: The all-or-nothing condition gives a date (June 30), a figure ($85,000)
+      and a consequence (every pledge returned in full), but the draft says nothing
+      about the roof cost possibly rising 15% or the Thanksgiving reopening target.
+    objections: It deals with the refund history head-on, but it leaves out the quarterly
+      spending reports and the $11,000 in written pledges that would answer this reader's
+      trust and 'will it work this time' doubts, and it ignores the pull of competing
+      local causes.
+    fit: It is a clear, well-structured crowdfunding pitch, under 350 words, signed
+      by the chair.

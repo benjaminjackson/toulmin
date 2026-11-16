@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "investor-update-hive-sensors",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A gives me what a sceptic about sales pace needs: the break-even gap in numbers (about $35k a month against roughly twice that needed) and a monthly cash report for bridge investors, which B leaves out. B's 520-colonies figure and franker voice are stronger, but it adds an unsupported line about undecided pricing."
+}

@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:35:28.904464+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 278
+  tags: []
+  notes: extracted 278 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 7
+    qualification: 5
+    objections: 6
+    fit: 9
+  details:
+    agree: Accepting the staff science and offering trip logs and an app trial makes
+      the ask credible, but a commissioner who trusts staff gets no reason to think
+      three fish or a shorter season would bring the stock back to target.
+    honest: Every number matches the brief, but "it won't be none" turns two captains'
+      conditional intent to sell into a near-certainty, and "I've never gotten back
+      to 170" rests on the 155 and roughly 160 figures rather than a stated fact.
+    works_the_facts: 'It works out the 32-trip, roughly $29,000 loss, but leaves out
+      other strong derived figures: 41 of 70 is 59% versus 17% booking the same, the
+      cumulative trips lost during the recovery, and the 70% of this season already
+      booked.'
+    right_comparison: It sets the 2-fish cut against 3 fish or a shorter season and
+      describes the 2016 drop-and-partial-recovery trend accurately, but gives no
+      sense of how far the alternatives fall short of the cut's conservation effect.
+    qualification: It honestly says it can't predict how many boats close, and the
+      logs and next-season app trial are commitments staff could check, but there's
+      no date for the logs and no stated test of whether three fish works.
+    objections: It deals with the trust-the-staff objection by conceding the science
+      and uses the 9% share well, but it doesn't answer the core objection that a
+      3-fish limit may not cut harvest enough.
+    fit: At about 300 plain spoken words with a clear opening, ask and close, it fits
+      a two-minute public-comment slot.

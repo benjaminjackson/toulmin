@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-24-17Z",
+  "without_skill_run": "2026-11-16T21-10-12Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "As someone who has quit before, I'm more likely to start a trial with B: it names Lena Ortiz, says there's no contract, lets me skip or cancel anytime, offers meal swaps and a 4-week menu cycle, and gives the delivery area and order cutoff. A is more candid about the A1C numbers, though: it says they aren't a study and that medication changes weren't tracked. That keeps B's lead slight."
+}

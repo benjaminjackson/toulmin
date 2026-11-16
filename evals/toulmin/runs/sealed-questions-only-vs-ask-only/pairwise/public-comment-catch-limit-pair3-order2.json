@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-catch-limit",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-24Z",
+  "without_skill_run": "2026-11-16T21-20-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives us something to act on: Captain Dunn's trip logs and a catch-reporting app trial, along with the 3-fish or shorter-season alternative. It also admits openly that he can't say how many boats would close, which makes it more believable to commissioners who trust their staff. A makes a similar case but has unfilled placeholders and offers no help or data, though B's line that he 'never got back to 170' goes slightly past the facts given."
+}

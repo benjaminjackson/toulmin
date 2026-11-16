@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "crowdfunding-town-cinema",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-03Z",
+  "without_skill_run": "2026-11-16T21-21-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who remembers the refunds and has already given this month, B answers my doubts directly: only $49,000 is left (barely more than we pledged last time), businesses are already in, the risks (roof cost, no opening-week films) are disclosed, and there are quarterly spending reports and a Thanksgiving reopening. A is honest but gives me less reason to believe this time will succeed."
+}

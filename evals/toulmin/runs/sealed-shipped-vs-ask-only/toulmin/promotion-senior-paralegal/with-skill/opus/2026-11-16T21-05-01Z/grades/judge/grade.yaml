@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:05:58.163293+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 320
+  tags: []
+  notes: extracted 320 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 4
+    objections: 7
+    fit: 9
+  details:
+    agree: She raises the March error before he can and backs it with roughly 600
+      deadlines and no errors since the check went in, which should move a skeptical
+      partner, but she doesn't use the weekly check-in or certification commitments
+      and only offers to 'talk' rather than asking for a meeting in person.
+    honest: Every figure matches the facts she gave, and the error is called 'serious'
+      and 'too close' with no spin, though 'much of the training and process work
+      that the senior role involves' slightly stretches what the facts show.
+    works_the_facts: The 600-entry error-free record is used well, but the hours are
+      left raw instead of being put as 90 hours (about 6%) over target, and nothing
+      else is derived from the numbers.
+    right_comparison: The letter suggests she already does the senior work, but it
+      never spells out what the group keeps or loses if he doesn't promote her, such
+      as unsupervised paralegals or a training lead without the title.
+    qualification: 'The only hedge, asking what he''d want to see before the next
+      cycle, gives him nothing to check, and she leaves out the checkable commitments
+      she had: state certification by next June and a weekly check-in.'
+    objections: The deadline-error objection is met head-on with the fix and the clean
+      record since, but she mentions the trainee who left after eight months with
+      no context, which raises a doubt about her supervision without answering it.
+    fit: It's a properly addressed email to the managing partner, under 400 words,
+      in the right tone for a promotion request.

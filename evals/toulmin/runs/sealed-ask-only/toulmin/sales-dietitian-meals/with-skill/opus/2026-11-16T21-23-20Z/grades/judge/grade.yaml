@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:24:16.944676+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 376
+  tags: []
+  notes: extracted 376 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 6
+    objections: 7
+    fit: 9
+  details:
+    agree: The candid A1C section, the no-contract terms and the $59 call-plus-meals
+      trial give a wary, burned-before reader a low-risk reason to click, though nothing
+      speaks directly to why this attempt would last when the others didn't.
+    honest: The page drops the requested 'will lower your A1C' claim, reports the
+      10/3/1 split and the 0.6 average accurately, names the small self-selected sample
+      and the untracked medication changes, and invents nothing.
+    works_the_facts: 'It works out $12.90 a meal but leaves several favourable true
+      figures unstated: the trial at about $5.90 a meal, 37 of 88 as more than 4 in
+      10 staying past six months, and 10 of 14 as about 7 in 10.'
+    right_comparison: The alternative is only touched on with 'every meal means counting
+      carbs', with no concrete picture of cooking and counting yourself, what that
+      costs, or the apps this reader already quit.
+    qualification: The hedge honestly names the small sample, the self-selection and
+      the medication blind spot, but it gives the reader nothing checkable, such as
+      rechecking A1C with their doctor at three months and what to do if it hasn't
+      moved.
+    objections: Cost, commitment, food boredom and health hype are each met with facts
+      (trial week, no contract, swaps, honest numbers, retention), but the reader's
+      main worry, quitting within two months, is answered only indirectly by the six-month
+      figure.
+    fit: It is a sales page of about 400 words with clear sections and a repeated
+      order button, as the brief asked, and it swaps the overreaching A1C claim for
+      one the facts support, which the client accepts.

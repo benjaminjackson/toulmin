@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T21:01:52.974017+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 258
+  tags: []
+  notes: extracted 258 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 3
+    objections: 5
+    fit: 6
+  details:
+    agree: A dentist who is unsure about gaps gets a clear account of the seven years
+      and strong collections numbers, but nothing on recent skills, how soon she can
+      start, or evening availability, and those are what an owner short a manager
+      needs to hear.
+    honest: The facts match the brief closely, though 'ran the front office' and 'kept
+      a busy front office running every day' go slightly beyond what the brief says
+      about her role.
+    works_the_facts: It gives the $38,000 to $9,000 drop as raw figures and never
+      states the stronger form, a roughly 76% cut or $29,000 recovered, and it doesn't
+      compare the 14-person staff she handled with the 9 she would supervise here.
+    right_comparison: It ties the vet clinic's size and her software change to this
+      practice, but it never sets the clinic's 14 staff against the practice's 9 to
+      show this job is the same scale or smaller.
+    qualification: The Dentrix gap is hedged with only 'ready to start learning right
+      away', when she could have named the 20-hour course she has already signed up
+      for and said she will finish it before her first day.
+    objections: The gap and Dentrix objections are raised and partly met, but the
+      letter leaves out her four years doing church books in QuickBooks, which answers
+      the worry about rusty skills, and leaves out her two-week start, which matters
+      after a sudden departure.
+    fit: It is a cover letter under 300 words, but it uses placeholders for her name,
+      the practice and Dr. Pierce even though that information was available.

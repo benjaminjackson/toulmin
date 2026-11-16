@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-33Z",
+  "without_skill_run": "2026-11-16T21-02-25Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me what I need to decide: real terms, a deadline, $250K already committed, a concrete cut in spending, the competitor's temperature-only weakness, and a frank refusal to promise profit, backed by monthly cash reports. A is full of placeholders and sets a 2027 profitability goal it doesn't support, which feeds my worry that the company sells too slowly."
+}

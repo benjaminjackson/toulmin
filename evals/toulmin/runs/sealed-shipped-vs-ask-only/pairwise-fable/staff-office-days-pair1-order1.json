@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-08-56Z",
+  "without_skill_run": "2026-11-16T21-22-08Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both are honest and cover the key facts, but B speaks more directly to me as a remote hire: it says the slower progression isn't the juniors' fault, admits the real cost, states plainly what is fixed and what is open, and invites me to say if this will be hard. A adds useful details (desks, five of six project leads already in), but feels less like it is listening."
+}

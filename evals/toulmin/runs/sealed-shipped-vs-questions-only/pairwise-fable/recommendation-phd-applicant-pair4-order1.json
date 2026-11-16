@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "recommendation-phd-applicant",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-10-42Z",
+  "without_skill_run": "2026-11-16T21-38-08Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A arrives finished and reads as calibrated rather than boosterish: it turns 90 trips into a rate of one every four to five days, says plainly that she has no publications, and limits the thesis claim to what a second season could support. That candour counters my discount for small-college praise. B makes the same points with more generic praise and still has unfilled placeholders (last name, conference, lab, contact details), so it reads as a template."
+}

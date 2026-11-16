@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-09-03Z",
+  "without_skill_run": "2026-11-16T21-20-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both accept the staff's stock numbers and ask for three fish or a shorter season, but A also gives me something concrete to act on: trip logs from 2016 and a catch-reporting app trial with staff. B's request that staff check whether the alternatives meet the target is appealing, but it arrives with unfilled name and harbor placeholders and a stray tag, and it asserts this cut is bigger than 2016's without support."
+}

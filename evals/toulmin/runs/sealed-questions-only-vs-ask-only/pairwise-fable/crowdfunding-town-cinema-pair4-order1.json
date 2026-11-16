@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "crowdfunding-town-cinema",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-54Z",
+  "without_skill_run": "2026-11-16T21-21-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A answers my doubt about a repeat failure: with the bank and $11,000 in written business pledges, the public needs only $49,000, about what we pledged last time, and it adds a Thanksgiving reopening and quarterly spending reports. B asks for $60,000, more than we managed before, and tells me nothing about accountability or timing."
+}

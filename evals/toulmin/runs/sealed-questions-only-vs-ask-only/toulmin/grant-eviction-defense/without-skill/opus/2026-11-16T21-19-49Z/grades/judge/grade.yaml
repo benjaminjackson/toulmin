@@ -1,0 +1,61 @@
+grader: judge
+graded: '2026-11-16T21:20:59.313015+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 244
+  tags: []
+  notes: extracted 244 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 5
+    honest: 5
+    works_the_facts: 4
+    right_comparison: 3
+    qualification: 3
+    objections: 3
+    fit: 8
+  details:
+    agree: The judge gets a clear need (300 turned away, 80 cases per attorney) and
+      a funded ask, but with no baseline for the 58%, no estimate of how many more
+      tenants a third lawyer would serve, and an unclear answer on whether the hire
+      only replaces the departing attorney, a skeptical scorer will probably mark
+      it middling.
+    honest: The figures are accurate (65/78 is 83%), but saying the position "does
+      not depend on" the county renewal overstates things, since the $13,000 a year
+      comes from a general budget that leans on that $60,000 contract.
+    works_the_facts: The only derived figure is the 83% cost share; the draft never
+      works out that the clinic reached about 14% of filings, what the 300 turnaways
+      mean as a share of demand, roughly how many added cases a third attorney at
+      about 80 cases would cover, or what the June departure does to capacity.
+    right_comparison: The no-grant scenario is never spelled out (one attorney left
+      after June, even more tenants turned away), and the 58% appears with no note
+      that there is no figure for tenants without a lawyer, so the reader can't judge
+      it.
+    qualification: The October renewal is mentioned and then waved away instead of
+      qualified, there's no consequence if it lapses, and the checkable commitments
+      (six-month reports, a request for clerk comparison data starting in January)
+      are dropped or weakened to annual reports.
+    objections: The judge's likely questions (is this a third attorney or just a replacement,
+      what does 58% mean without a baseline, how quickly can someone be hired given
+      the 5-month last search and the June departure) go unanswered, even though the
+      facts about training and the clerk data were available to answer them.
+    fit: It is about 250 words, under the 300-word limit, with a clear title and labeled
+      funding and reporting sections that suit a project summary scored against a
+      rubric.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-02-58Z",
+  "without_skill_run": "2026-11-16T21-19-54Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me what I need to judge slow sales: a concrete test (March–April 2027 revenue of $300,000 or more), a monthly cash report so I can watch it, and the company and sender actually named. B leaves out the reporting commitment, still has [Company] and [Name] placeholders, and is vaguer about how we'll know whether sales are on track."
+}

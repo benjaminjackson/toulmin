@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-catch-limit",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-10-23Z",
+  "without_skill_run": "2026-11-16T21-35-28Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "A accepts the staff numbers, asks for a specific alternative and offers something new: trip logs from 2016 on and a test of a catch-reporting app. Commissioners who trust their staff and hear charter complaints at every hearing rarely get offers like that. B makes a sharp point about the 3-year cut outlasting the last recovery, but it offers nothing beyond the request."
+}

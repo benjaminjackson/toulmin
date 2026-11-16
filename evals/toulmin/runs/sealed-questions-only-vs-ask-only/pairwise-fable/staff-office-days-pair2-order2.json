@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-36-44Z",
+  "without_skill_run": "2026-11-16T21-23-08Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B gives me more to act on: the partners admit they haven't set the example, most project leads already come in, desks are being sorted, and I can raise questions privately with Paul or HR. A's empathy is warmer, but \"the decision is final\" next to \"we'll review it seriously\" and \"I don't have a complete answer\" leaves me more unsettled."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-07-24Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B opens by accepting our staff's stock numbers, asks for specific alternatives up front, explains why 2 fish hits charters differently than private boats, and offers trip logs and a reporting pilot; A has placeholders, a mortgage detail not in the facts, and a weaker ask."
+}

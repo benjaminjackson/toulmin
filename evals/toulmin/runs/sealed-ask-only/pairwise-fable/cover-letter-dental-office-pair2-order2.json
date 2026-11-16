@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "cover-letter-dental-office",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-19-25Z",
+  "without_skill_run": "2026-11-16T21-01-53Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B addresses me by name and names my practice, and it answers my Dentrix worry with a concrete fact (enrolled in the 20-hour course, done before day one) rather than A's \"confident I can learn quickly\"; A arrives with unfilled brackets, which looks careless for someone who would run my front office."
+}

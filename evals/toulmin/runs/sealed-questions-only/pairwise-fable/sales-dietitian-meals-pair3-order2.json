@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "sales-dietitian-meals",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-37-23Z",
+  "without_skill_run": "2026-11-16T21-09-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who has quit three of these, B answers what I actually worry about: no contract, skip or cancel any time, swapping meals, the delivery range and a real order deadline. It still states the A1C numbers without promising anything. A is candid about the data's limits, but its \"Real results\" heading sounds like a pitch, it has an unfilled \"[day/time]\" placeholder, and it tells me nothing about getting out or changing meals."
+}

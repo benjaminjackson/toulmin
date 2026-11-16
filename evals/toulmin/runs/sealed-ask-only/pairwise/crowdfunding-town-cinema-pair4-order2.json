@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-21-36Z",
+  "without_skill_run": "2026-11-16T21-03-12Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks directly to my worry from last time. It promises all or nothing, so every pledge is returned unless the full $85,000 is reached, and it's signed by a real person about the Majestic. A only says 'this time is different' and calls the bank's conditional pledge a 'match', which overstates it a little."
+}

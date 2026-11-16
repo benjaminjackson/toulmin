@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-catch-limit",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-24Z",
+  "without_skill_run": "2026-11-16T21-08-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A accepts the staff's numbers, gives grounded evidence (two captains say they'd sell, plus the honest line 'it won't be none'), and offers concrete help: trip logs and a test of a catch-reporting app. That gives commissioners who trust their staff a workable path. Document B multiplies one boat's loss across all 11 boats without support and proposes alternatives the captain never authorized, so it reads as the usual charter-hearing appeal."
+}

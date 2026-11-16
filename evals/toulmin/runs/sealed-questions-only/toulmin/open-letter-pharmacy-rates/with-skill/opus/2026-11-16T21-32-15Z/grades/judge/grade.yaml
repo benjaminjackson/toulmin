@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T21:33:22.697787+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 418
+  tags: []
+  notes: extracted 418 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 7
+    qualification: 6
+    objections: 8
+    fit: 9
+  details:
+    agree: The offer of invoices and a meeting before May 1, plus a concrete ask tied
+      to the July 1 renewal, gives a skeptical director something to check rather
+      than just another rate complaint, though the letter never shows her the size
+      of the loss in dollars.
+    honest: It drops the unsupported 'a third will close' claim and openly says the
+      cause of the 9 closures is unknown, but 'often the only pharmacy' and 'done
+      it for years' go a little beyond the facts, and 'a 40-mile round trip' understates
+      the 'more than 20 miles' it comes from.
+    works_the_facts: It never uses the 3,100 prescriptions at Reilly Drug and never
+      turns the $1.80 gap into a yearly loss per pharmacy or across the 38, so the
+      strongest numbers it could have built are left unused.
+    right_comparison: 'It describes the alternative the facts support: a chain more
+      than 20 miles away or mail order in 14 counties, against a background of 9 closures
+      in two years and two pharmacies ready to stop serving plan members.'
+    qualification: The invoice offer and the May 1 meeting deadline are things the
+      reader can check and are dated, but the letter never says what follows if the
+      July 1 contract leaves rates below cost, beyond the two pharmacies' general
+      threat.
+    objections: It answers 'members have plenty of chains' with the 14 counties and
+      the 20-mile distance, and answers 'they complain every year' with checkable
+      invoices and the January start date, without raising objections the facts already
+      settle.
+    fit: It is a one-page open letter with a clear signature and contact line, and
+      it works for both the plan and the newspapers.

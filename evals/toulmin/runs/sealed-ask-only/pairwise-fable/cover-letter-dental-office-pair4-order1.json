@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "cover-letter-dental-office",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-20-52Z",
+  "without_skill_run": "2026-11-16T21-02-51Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Letter A arrives addressed to me, signed, and ready to read, and it tells me she has already enrolled in the Dentrix course and will finish before day one. Letter B is full of unfilled brackets and placeholder notes, which as an application reads as unfinished and careless even though its closing about my nine staff and three dentists is nice."
+}

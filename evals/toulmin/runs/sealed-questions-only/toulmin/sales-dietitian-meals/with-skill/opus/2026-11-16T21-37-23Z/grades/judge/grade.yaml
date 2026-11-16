@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:38:19.658541+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 405
+  tags: []
+  notes: extracted 405 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 4
+    objections: 5
+    fit: 8
+  details:
+    agree: The $59 trial, the no-contract terms and the meal swaps make it easy for
+      a wary reader to start, but nothing tells someone who has quit three services
+      why this one would last past two months, so the reader may just see a fourth
+      attempt.
+    honest: The page correctly turns down the 'will lower your A1C' promise and gives
+      the 10/3/1 split, but it leaves out that medication changes weren't tracked,
+      which weakens the A1C figures, and it says the 0.6 average covers 'all 14',
+      which the brief doesn't establish.
+    works_the_facts: 'Figures are copied as given instead of worked: it doesn''t point
+      out that about 42% of customers have stayed past six months, doesn''t give the
+      $12.90-per-meal cost, and doesn''t compare the trial''s cost per meal.'
+    right_comparison: Cooking for yourself and counting carbs is described briefly
+      and fairly, but the page never sets the service against the apps and delivery
+      plans this reader has already dropped, and that's the comparison the reader
+      is actually making.
+    qualification: '''Results vary, and we can''t promise any result'' is a generic
+      hedge with nothing the reader can check; the only conditions with a date are
+      the Thursday-noon order deadline and the 25-mile delivery range.'
+    objections: Swaps, the 4-week menu rotation and cancel-any-time address boredom
+      and lock-in, but the page leaves out the 15-minute call with Lena and never
+      links the 37 long-term customers to the reader's worry about quitting again.
+    fit: It is a clearly organised sales page of about 430 words with a single order
+      button, close to the length and form the brief asked for.

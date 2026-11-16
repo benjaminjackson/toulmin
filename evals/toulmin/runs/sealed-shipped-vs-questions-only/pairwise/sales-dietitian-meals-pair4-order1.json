@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-11-22Z",
+  "without_skill_run": "2026-11-16T21-38-19Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is upfront that 14 people is a small group and that medication changes weren't tracked. That candor makes me trust it enough to try a $59 week. B wrongly attaches the 0.6-point average drop to the 10 people who improved, when it was the average across all 14, and it leaves out the medication caveat, so its numbers look more polished than the facts support."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-home-cleaning",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-50Z",
+  "without_skill_run": "2026-11-16T21-22-10Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both emails give the same $165 vs. $140 comparison and the same $99 offer. B tells me 'you gave us two reasons' and its subject line says 'We fixed it,' but I never complained about my cleaners, and the price gap still isn't fixed, so B reads as presumptuous. A is personalized and accurately says 'the reasons we heard most,' which makes me a bit more willing to try the $99 cleaning."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "win-back-home-cleaning",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-10-37Z",
+  "without_skill_run": "2026-11-16T21-22-54Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "I left over price, not cleaners, so B's \"You were right about the second\" misreads me. A doesn't presume my reason, backs its fix with real numbers (7 of 18 left, only 1 since July), and says what the extra $25 pays for ($21/hour employees, insured visits). Both are honest and make the same $99 no-contract offer, so it is close."
+}

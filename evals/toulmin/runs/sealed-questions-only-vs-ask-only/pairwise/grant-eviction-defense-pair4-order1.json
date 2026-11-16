@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-35-51Z",
+  "without_skill_run": "2026-11-16T21-22-09Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is clean and complete: it gives need, results with an honest note on the missing baseline, a balanced budget, and a reporting commitment. B leaves [County] placeholders, invents an 'October 2027' date, claims the job doesn't depend on the county contract, and quietly turns the third-attorney request into a replacement hire, which would make me doubt it."
+}

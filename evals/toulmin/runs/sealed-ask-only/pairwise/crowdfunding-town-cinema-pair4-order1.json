@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-21-36Z",
+  "without_skill_run": "2026-11-16T21-03-12Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A tells me plainly that if the full $85,000 isn't reached, every pledge comes back, and it names Ruth and the Majestic, which matters to someone who already lived through one refunded campaign and is stretched after giving to the ambulance fund. B leaves out that guarantee, still has blank placeholders for the name and group, and stretches a bit by calling the bank's conditional pledge a match."
+}

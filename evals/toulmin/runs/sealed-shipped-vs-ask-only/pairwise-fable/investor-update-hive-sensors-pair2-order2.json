@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "investor-update-hive-sensors",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-02-58Z",
+  "without_skill_run": "2026-11-16T21-19-54Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me what a slow-sales sceptic needs: a concrete test I can hold them to ($300,000 in March–April 2027), a monthly cash report, and the 520-colony figure, while still declining to promise profit. A is honest but leaves placeholders, omits the reporting commitment and sets no measurable milestone; B's small unsupported additions (no minimum, no price change, nobody switched) are minor by comparison."
+}

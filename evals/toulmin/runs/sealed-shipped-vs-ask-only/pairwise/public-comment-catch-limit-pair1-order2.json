@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-catch-limit",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-16Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives us things we can act on: trip logs for staff, a trial of the reporting app, and a specific request for staff to look at the alternatives. It also adds a named captain and the report that two other captains would sell. A leaves placeholders in the text and claims without support that a 3-fish limit or a shorter season 'still protects the stock'. Commissioners who trust their staff would doubt that claim."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-57Z",
+  "without_skill_run": "2026-11-16T21-02-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B speaks to my worries head-on. It promises my money back if the goal isn't met, says $11,000 is already pledged in writing so only $49,000 is left, and is upfront about the roof estimate possibly rising and about the quarterly spending reports. Document A leaves placeholders and puts the refund promise in brackets, so I can't count on it, and that matters to someone who has already had one refund and just gave to the ambulance fund."
+}

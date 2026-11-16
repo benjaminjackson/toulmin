@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-office-days",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-08-56Z",
+  "without_skill_run": "2026-11-16T21-22-08Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B gives me the practical facts I'd worry about as a remote hire: desks arrive in August before the change, and five of six project leads already come in, so there will be people there to learn from. That makes the mentoring argument more believable, even though A's tone is a little warmer and more open to hearing objections."
+}

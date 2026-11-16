@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "investor-update-hive-sensors",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a partner worried about slow sales, B gives me what I need to decide: the break-even gap in numbers (about $35k a month now, roughly double needed) and a commitment to monthly cash reports for bridge investors. A is equally honest, but it says \"we don't have a plan\" for profit and has no pricing decision, and it offers no reporting commitment, which leaves me less confident."
+}

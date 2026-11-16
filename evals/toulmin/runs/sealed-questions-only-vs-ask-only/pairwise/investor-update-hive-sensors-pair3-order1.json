@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-hive-sensors",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-45Z",
+  "without_skill_run": "2026-11-16T21-21-11Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A gives me a firm December 1 reply date and a monthly cash report for bridge investors. That matters to me because I worry the company sells too slowly. B is franker about revenue (about $35k a month against $95k in spending), but it leaves the reply date as a placeholder and drops the reporting commitment."
+}

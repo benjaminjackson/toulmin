@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-43Z",
+  "without_skill_run": "2026-11-16T21-20-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a retired judge, I find B's candor persuasive. It plainly says there is no comparison figure for tenants without a lawyer, and it admits the general budget relies on a county contract that is up for renewal. A claims the plan does not depend on that contract without support, and its 'at least two attorneys / grow to three' passage muddles what the grant actually pays for."
+}

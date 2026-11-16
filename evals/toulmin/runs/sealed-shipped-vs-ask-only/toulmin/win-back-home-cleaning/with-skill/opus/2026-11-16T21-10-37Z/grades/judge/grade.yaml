@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:11:34.688125+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 175
+  tags: []
+  notes: extracted 175 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 4
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 6
+    qualification: 8
+    objections: 5
+    fit: 7
+  details:
+    agree: The $99 trial and no-contract terms make a single booking low-risk, but
+      this reader is happy saving $25 a visit and has no complaint, so the insurance
+      argument alone is unlikely to bring them back at $165.
+    honest: Every figure matches the brief, and the email avoids the false 'same cleaner
+      every time' promise; 'You'll always know who's coming' is a little strong, but
+      a named backup supports it.
+    works_the_facts: 'It quotes the raw figures but works none of them out: it never
+      puts the $25 gap in a smaller form (about $12 a week), never notes that the
+      $99 first visit costs less than the app, and never turns 1 departure since July
+      into a retention rate set against 7 last year.'
+    right_comparison: It describes the apps truthfully as cheaper and run by uninsured
+      contractors, and it shows the company's own turnover trend improving, but it
+      says nothing about whether app customers get the same cleaner.
+    qualification: The offer has a clear end date (December 31), a stated price after
+      the first visit, and no contract, so the reader can check every term.
+    objections: It meets the price objection head-on with what the extra money pays
+      for, but it never says why insurance or employed staff should matter to this
+      particular householder, and it spends space on cleaner turnover, which this
+      reader never complained about.
+    fit: It is a well-built win-back email with a clear call to action, though at
+      about 170 words it runs somewhat over the requested 150.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-dental-office",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-42Z",
+  "without_skill_run": "2026-11-16T21-02-51Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is addressed to me by name and deals with the seven-year gap head-on. It also gives a concrete Dentrix plan (a 20-hour course finished before the first day) and names a reference, so I can act on it. A is full of bracketed placeholders and only hints at Dentrix training, which reads as unfinished. B's mention of giving two weeks' notice stings a little given my situation, but it comes with an honest reason."
+}

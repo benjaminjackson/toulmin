@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A tells me exactly what's left ($49,000, about $7.50 a head) and admits the roof could cost up to 15% more. It also promises quarterly spending reports at the library and is signed by a named chair, so after the last campaign's refunds I can trust it. B is warmer, but it leaves out the remaining amount, the roof risk and any accountability, and it adds a year that wasn't in the facts."
+}

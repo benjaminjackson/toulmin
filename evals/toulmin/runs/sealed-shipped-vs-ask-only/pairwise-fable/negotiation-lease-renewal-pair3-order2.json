@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "negotiation-lease-renewal",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-29Z",
+  "without_skill_run": "2026-11-16T21-20-25Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B deals with my main grievance head-on: it explains the late payments (cooler failure, nine days closed) and offers automatic transfer on the 1st, plus a higher starting rent ($5,100 vs $5,000), a signed lease within two weeks and the $40,000 hood value a new tenant would otherwise have to pay. A glosses over the late payments, offers less money and gives me nothing to reduce my risk."
+}

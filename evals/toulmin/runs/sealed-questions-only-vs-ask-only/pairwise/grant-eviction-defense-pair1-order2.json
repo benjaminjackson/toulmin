@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-eviction-defense",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B states the gaps a careful judge would catch: there is no comparison figure yet, but the clinic will request court data; one attorney leaves in June; and the last hire took five months. It also commits to reports every six months. A's claim of 160 more households treats 80 open cases as 80 a year, which overstates what the brief supports, and A leaves out the departure and the county contract risk."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-21-43Z",
+  "without_skill_run": "2026-11-16T21-08-31Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "I've quit diet apps and meal services before, so B's no contract, cancel or skip any week, 6 swap choices each week, and its note that the 14 A1C results came from people who chose to share them make it feel safe and honest enough to try. A leaves out the cancellation terms and meal choices, and its 'what our customers are seeing' framing reads more like a sales pitch."
+}

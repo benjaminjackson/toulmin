@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-01-22Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A tells me about the possible 15% rise in the roof cost, which B leaves out. It also points out that the $49,000 still needed is only $2,000 more than we raised last time, about $7.50 a person. Having seen the last campaign end in refunds and with my $200 to the ambulance fund already given, that openness and the numbers I can picture make me more willing to pledge."
+}

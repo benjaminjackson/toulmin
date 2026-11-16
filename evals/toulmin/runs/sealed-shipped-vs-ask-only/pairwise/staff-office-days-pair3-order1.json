@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-office-days",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-11-11Z",
+  "without_skill_run": "2026-11-16T21-23-55Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "As a remote hire, I'm more likely to go along with A. It promises a six-month review with staff, invites our ideas on how office days will work, and notes that five of six project leads already come in, so the change feels shaped with us rather than imposed. B speaks to remote hires more warmly but leaves out the review, which would make me more likely to look elsewhere."
+}

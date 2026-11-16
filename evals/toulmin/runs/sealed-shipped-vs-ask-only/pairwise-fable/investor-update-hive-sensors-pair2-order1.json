@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "investor-update-hive-sensors",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-02-58Z",
+  "without_skill_run": "2026-11-16T21-19-54Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me a concrete, checkable test for my worry about slow sales (March–April 2027 revenue of $300,000 or more, against $148,000 this year) plus a monthly cash report, while B leaves placeholders for the company and sender, omits the cash report and offers no milestone. A does add small claims not in the brief (nobody has switched, no price change, no minimum), but B's candour on the competitor does not make up the gap."
+}

@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T21:10:12.392396+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 416
+  tags: []
+  notes: extracted 416 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 5
+    objections: 4
+    fit: 7
+  details:
+    agree: The plain A1C numbers and $59 trial would build some trust with a wary
+      reader, but someone who has quit three services before gets no word on no-contract
+      cancellation, weekly swaps, menu variety or the call with the dietitian, so
+      they have little reason to think this one will last.
+    honest: The page drops the 'will lower your A1C' promise, reports 10/3/1 accurately
+      and says medication changes aren't tracked, but 'people stay because the food
+      is good' is an invented reason, and the unfilled order deadline leaves a blank
+      where a fact should be.
+    works_the_facts: 'It works out $12.90 a meal but leaves the most useful figures
+      uncalculated: about 42% of customers have stayed past six months, 10 of 14 is
+      about 71%, and the trial costs $5.90 a meal.'
+    right_comparison: 'It compares the service to planning and cooking yourself or
+      ordering takeout, but never to what this reader actually tried and quit: apps
+      and other delivery services.'
+    qualification: The A1C hedge is honest and names the confounders, but it gives
+      the reader nothing to check, such as retesting A1C at three months or a way
+      to judge the trial week.
+    objections: The doubt about health promises is handled well, but the reader's
+      main worry, quitting again, goes unanswered even though the facts that answer
+      it (no contract, skip or cancel any time, 6 swap choices, a 4-week menu, a 15-minute
+      call) were available.
+    fit: It is a sales page of about the requested 400 words with a clear call to
+      action, but it leaves out the service's name and the dietitian's name, and the
+      order deadline is still a placeholder.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-lease-renewal",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-34-58Z",
+  "without_skill_run": "2026-11-16T21-05-07Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A deals directly with the late payments I still think about. It gives the reason (the cooler failure), thanks me for waiving the fees and offers automatic payment on the 1st. It also commits to signing within two weeks and sets a clear deadline. B skips the late rent entirely and uses placeholders, so it feels less complete and less reassuring next to the coffee chain's interest."
+}

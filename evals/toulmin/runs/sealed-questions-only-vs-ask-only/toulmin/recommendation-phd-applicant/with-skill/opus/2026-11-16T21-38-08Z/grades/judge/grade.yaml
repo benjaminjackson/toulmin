@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:39:05.849555+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 325
+  tags: []
+  notes: extracted 325 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 4
+    objections: 4
+    fit: 6
+  details:
+    agree: 'The concrete details are solid: 90 kayak trips, sampling alone at a state
+      lab, and top grade of 28 twice. But a skeptical reader who discounts small-college
+      praise gets no calibration of the writer''s standards, so ''one of the three
+      best'' still reads like routine enthusiasm.'
+    honest: The letter drops the 'ready for a top journal' claim and states the limits
+      honestly (one study, the storm gap). Only small flourishes like 'she never let
+      it slip' go beyond the facts.
+    works_the_facts: 'It leaves out the strongest calibrating fact the user knew:
+      about 40 letters in 17 years, with 2 students told no. It also never puts ''top
+      3'' against roughly 30 theses or 17 years of students, so the numbers sit unused.'
+    right_comparison: Priya's real comparison is the inflated small-college letter
+      and other applicants, and the letter never places her against either beyond
+      an unanchored 'top three' and 'few undergraduates'.
+    qualification: The hedge 'with a second season to confirm the pattern' names a
+      real open question. But it gives the reader nothing to check, and it doesn't
+      use the user's offer to send the thesis to any committee member who asks.
+    objections: The resisting reader's main objection, that small-college letters
+      praise everyone, is never answered, even though the 40-letters/2-declined record
+      and the offer to send the thesis were available. The letter meets the weaker-data
+      objection head-on, which helps.
+    fit: It is a proper one-page letter, but it leaves '[Last Name]' as a placeholder
+      even though Priya Nair's full name was provided, and a committee member would
+      notice that.

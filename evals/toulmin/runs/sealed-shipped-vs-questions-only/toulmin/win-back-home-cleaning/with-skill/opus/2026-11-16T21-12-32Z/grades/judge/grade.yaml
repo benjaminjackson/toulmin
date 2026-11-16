@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T21:13:31.081870+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 184
+  tags: []
+  notes: extracted 184 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 5
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 7
+    qualification: 7
+    objections: 6
+    fit: 6
+  details:
+    agree: The $99 first visit and the no-contract terms make a trial cleaning cheap
+      to try, but this reader is happy saving $25 a visit and never complained about
+      cleaner changes, so the employee-and-insurance argument may not be enough to
+      bring them back for good.
+    honest: Every figure matches the facts the writer had, it keeps the promise to
+      a regular cleaner plus a named backup instead of claiming the same cleaner every
+      time, and 'one of two people you know by name' follows fairly from that commitment.
+    works_the_facts: Setting 7 of 18 cleaners leaving last year against 1 since July
+      is well chosen, but the email never states the $25 gap directly or works out
+      that the $99 first visit is $41 below the app price, which would be the most
+      favourable true framing.
+    right_comparison: The app services are described accurately at about $140 a visit
+      with mostly uninsured contractors, and the email shows its own turnover improving,
+      though it doesn't say what an uninsured visit means for the customer.
+    qualification: The backup is tied to sick days and holidays, the offer ends on
+      December 31, and the customer can cancel any time, so the conditions are concrete
+      and checkable, though the email doesn't spell out what happens if the regular
+      cleaner leaves.
+    objections: The price objection is met directly with what the extra money pays
+      for, plus a low-risk trial, but the email spends a lot of space on cleaner turnover,
+      which this reader didn't complain about.
+    fit: It is a clean, well-structured email, but at about 185 words it runs noticeably
+      over the roughly 150 words the brief asked for.

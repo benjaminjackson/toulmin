@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-11-11Z",
+  "without_skill_run": "2026-11-16T21-37-50Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "A speaks directly to the 15 remote hires in their own section, owns the broken understanding, and is plain about no exceptions while inviting me to raise problems early. B buries that in a bullet and adds undecided points about Mondays and Fridays and how office days will be organised that are not in the brief and leave me less sure what I'm agreeing to, though its admission that remote work may not be the whole cause is a point in its favour."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-home-cleaning",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-09-37Z",
+  "without_skill_run": "2026-11-16T21-22-10Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "The two emails are almost the same, and neither does much to beat my $25-a-visit savings. A is a little more believable because it says plainly that they haven't matched the price, while B's \"We've worked on both\" suggests a price fix that turns out to be only the one-time $99 offer."
+}

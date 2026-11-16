@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "sales-dietitian-meals",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-38-19Z",
+  "without_skill_run": "2026-11-16T21-24-17Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both report the A1C numbers honestly, but A says outright that it can't promise a result and offers a 15-minute call with the dietitian before I start, which matters to me after quitting three services. B's \"if not, you're done\" is reassuring, but it leaves out the call and adds an unsupported \"I don't use a template\" line."
+}

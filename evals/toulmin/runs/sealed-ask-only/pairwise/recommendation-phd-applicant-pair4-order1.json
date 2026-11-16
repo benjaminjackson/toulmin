@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-24-08Z",
+  "without_skill_run": "2026-11-16T21-09-09Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives a skeptical reader specific, checkable points: she ranks among the three best students in 17 years, she ran the shellfish lab's water sampling alone for two weeks, and her supervisor would hire her again. B relies on generic praise such as 'asked the questions that moved discussions forward', a vaguer account of the lab job, and claims the brief doesn't support, such as her having already planned a second season."
+}

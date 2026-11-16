@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-07-57Z",
+  "without_skill_run": "2026-11-16T21-35-32Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both are candid that 14 people is a small group and that my A1C may not drop, but A also says those customers chose to share their results and reports the 0.6 average accurately. B ties the 0.6 drop to just the 10 whose A1C fell, which a wary reader like me would see as a bit of spin, even though its 'start with a call' framing is warmer."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-05-28Z",
+  "without_skill_run": "2026-11-16T21-19-29Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A is more candid: it admits some pharmacies recover part of the loss on brand-name drugs, and it accepts that the PBM sets the rates while pointing out that the plan controls the contract terms. That makes it harder for me to dismiss as the usual yearly complaint. B goes slightly past the facts by saying 'every pharmacy still open' is losing money, when the facts only give an average, and it frames the ask less precisely for someone in my role."
+}

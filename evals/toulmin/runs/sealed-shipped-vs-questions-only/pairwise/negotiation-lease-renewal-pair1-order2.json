@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-lease-renewal",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-03-24Z",
+  "without_skill_run": "2026-11-16T21-32-15Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B says plainly that they paid late twice, which matters to me because I still bring it up. It also answers the coffee-chain interest directly by pointing out that a coffee shop has little use for the hood, and it's signed by a business I know. A is vaguer about the late payments, skirts the coffee chain and still has the [Your name] placeholders; B's mention of lower sales makes me a little uneasy, but overall B is more convincing."
+}

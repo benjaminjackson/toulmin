@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-office-days",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-37-50Z",
+  "without_skill_run": "2026-11-16T21-10-19Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a remote hire, Document A gives me what I need to decide whether I can make this work: the $150 commuting support, the promise that desks arrive before the start date, the six-month review, a clear statement that there are no other exceptions, and a named partner I can talk to privately before August. Document B admits the cost to us just as honestly, but it leaves out all of that practical support and is signed with placeholder names."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A admits up front that brand-name margins offset part of the loss, which is the first objection I would raise, and it makes the access problem concrete with the 40-mile round trip. B says they lose money \"every time\" they serve my members, which goes past the 20-generic figure, and leans on appeals like \"teachers and state troopers\" that read as the usual annual complaint."
+}

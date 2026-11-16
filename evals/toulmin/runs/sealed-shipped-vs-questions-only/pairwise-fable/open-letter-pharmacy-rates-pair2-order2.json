@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-28Z",
+  "without_skill_run": "2026-11-16T21-33-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both stay within the facts and both counter my assumption that chains are nearby, but B puts the $1.80 shortfall and the July 1 ask up front and pre-empts my likely deflection that the PBM sets the rates by noting the plan controls the contract terms. B also arrives finished and gives a concrete volume for one pharmacy, while A still has unfilled placeholders."
+}

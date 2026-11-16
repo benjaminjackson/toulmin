@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "promotion-senior-paralegal",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-08-01Z",
+  "without_skill_run": "2026-11-16T21-20-58Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A names the March error as her most serious mistake, gives me the evidence I care about (no wrong or missed deadlines in about 600 entries since the check), and adds concrete commitments; B files the error under a 'Managing risk' bullet as if it were an accomplishment, has no track record since, and arrives with unfilled placeholders for my name and hers."
+}

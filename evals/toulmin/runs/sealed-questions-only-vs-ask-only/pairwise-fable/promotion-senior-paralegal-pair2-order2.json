@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "promotion-senior-paralegal",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-33-07Z",
+  "without_skill_run": "2026-11-16T21-19-26Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Both own the March error and cite the 600 clean entries, but B is more candid (no promise of zero errors, one trainee left) and gives me concrete commitments: weekly check-ins and certification by June. A relabels the mistake as \"Accountability\" and overstates training as two years of informal supervision, which I would discount."
+}

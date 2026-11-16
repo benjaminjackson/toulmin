@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T21:10:42.182434+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 146
+  tags: []
+  notes: extracted 146 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 4
+    honest: 7
+    works_the_facts: 3
+    right_comparison: 4
+    qualification: 3
+    objections: 5
+    fit: 7
+  details:
+    agree: A reader who is happy saving about $25 a visit gets a one-time $99 cleaning
+      but no strong reason to go back to paying $165 every visit, so they might try
+      the $99 cleaning once and are unlikely to rebook.
+    honest: It rightly avoids promising the same cleaner every time, but 'you told
+      us why' assumes every reader gave both reasons, and 'fully insured' goes slightly
+      beyond 'carries insurance.'
+    works_the_facts: 'It leaves out the strongest figures it could have used: only
+      1 of 18 cleaners has left since July, the price gap is $25 a visit, and the
+      $99 first cleaning is $41 less than the app price.'
+    right_comparison: It calls app workers 'gig contractors' but never says they carry
+      no insurance on the visit, and it never shows that cleaner turnover has fallen
+      since July.
+    qualification: The named backup is a fair, checkable hedge, but the $99 offer
+      has no December 31 deadline, so there is no date to act by.
+    objections: It answers the price objection with what the extra money pays for,
+      but it never says there is no contract, which would answer a returning customer's
+      fear of being locked in.
+    fit: It is a clear email of about 150 words, but it leaves placeholders for the
+      company and owner names the writer could have filled in, and it states the cleaner
+      commitment less strongly than the facts allow.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-33-07Z",
+  "without_skill_run": "2026-11-16T21-19-26Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both own the March error, but A also gives me concrete commitments (weekly check-ins, certification by June 2027) and is upfront that one trainee left. That makes it more credible and easier to approve. B's 'That was too close' shows good ownership, but it leaves out the attrition and the commitments, and its claim of informal supervision is a bit of a stretch."
+}

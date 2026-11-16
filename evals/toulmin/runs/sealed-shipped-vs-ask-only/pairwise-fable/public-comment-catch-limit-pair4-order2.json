@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-10-23Z",
+  "without_skill_run": "2026-11-16T21-21-32Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B puts the ask and the acceptable alternatives up front and turns the 9% versus 80% landings split into a policy argument I can act on: the cut burdens the boats that catch the least. A leaves placeholders and makes claims past the facts (\"I never got all the way back\", \"either one protects the stock\"), though its point that the limit decides whether a customer books at all is strong."
+}

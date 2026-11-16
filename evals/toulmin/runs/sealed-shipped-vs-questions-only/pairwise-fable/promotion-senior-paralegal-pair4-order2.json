@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "promotion-senior-paralegal",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-08-01Z",
+  "without_skill_run": "2026-11-16T21-34-39Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both own the March error and cite the 600 clean entries, but A says \"I also want you to hear about a mistake\" as if I hadn't raised it in her review, and tells me about the $9,000 raise I already know. B names it as her most serious mistake, ties the fix to how she'd supervise, and asks what I'd need to see from her, which outweighs the unneeded mention of the trainee who left."
+}

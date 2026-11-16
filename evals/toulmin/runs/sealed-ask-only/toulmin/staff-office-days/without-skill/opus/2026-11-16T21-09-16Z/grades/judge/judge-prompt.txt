@@ -1,0 +1,79 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+The firm's 46 architects and designers. About a third were hired as fully remote in 2021 and 2022, some live more than two hours away, and several have said in reviews that remote work is the main reason they stay. They decide whether to go along with the change, push back, or leave.
+</reader>
+
+<brief>
+I need to tell our staff that we're ending fully remote work. I'm one of the three partners at an architecture firm with 46 architects and designers.
+
+What I can say:
+- From September 1, everyone works in the office on Tuesday, Wednesday and Thursday.
+- 15 of our people were hired as fully remote in 2021 and 2022. 4 of them live more than two hours from the office.
+- Those 4 can keep working remotely until the end of next year. After that, they come in once a week.
+- Last year we lost two large hospital projects in the final interview. Both clients told us our team seemed not to know each other.
+- Based on our review records, junior staff hired since 2022 are taking about 30% longer to reach the point where they lead a project.
+- The partners have been coming in one day a week. We'll be in all three days too.
+
+Keep it to one page. It goes out by email before an all-staff meeting on Friday.
+</brief>
+
+The user also knew the following and gave some of it to the writer when asked:
+<user_knows>
+- I'm Paul Whitaker, one of the three partners.
+- The all-staff meeting is Friday at 10 a.m. in the main studio. Questions before it can go to me or to HR.
+- We will pay up to $150 a month toward commuting for anyone who lives more than 30 miles away.
+- We don't have a desk for everyone yet. New desks arrive in August.
+- 5 of our 6 project leads already come in three days a week on their own.
+- I can commit that the 4 people who live far away can keep their current setup to the end of next year, as stated.
+- I can commit to a review of the policy with staff after six months.
+- I cannot offer exceptions to anyone beyond those 4.
+</user_knows>
+
+<document>
+**Subject: Moving to three office days from September 1**
+
+Dear all,
+
+From September 1, 2027, everyone at the firm will work in the office on Tuesday, Wednesday and Thursday. This ends fully remote work at the firm. We'd rather you hear it in writing before Friday's all-staff meeting, so you have time to think about it and bring your questions.
+
+**Why we're making this change**
+
+Two things have pushed us here.
+
+First, we're losing work. Last year we lost two large hospital projects at the final interview. Both clients gave us the same feedback: our team seemed not to know each other. In a shortlist interview, clients are judging whether we can work together as a team, and for those two projects we didn't show them that.
+
+Second, our people are developing more slowly. Our review records show that junior staff hired since 2022 are taking about 30% longer to reach the point where they lead a project. We think much of that comes from what people pick up by sitting near more experienced colleagues: overhearing a client call, getting a drawing marked up at the desk, being pulled into a problem as it happens. This is hard to replace remotely, and our junior staff are the ones losing out.
+
+**What this means for you**
+
+- **Most of you:** From September 1, you'll be in the office Tuesday, Wednesday and Thursday.
+- **Colleagues hired as fully remote:** We know 15 of you joined in 2021 and 2022 on fully remote terms, and that this is a real change to what you signed up for. We aren't taking that lightly.
+- **The four colleagues who live more than two hours away:** You can keep working remotely until the end of 2027. From then on, we'll ask you to come in one day a week. We'll talk with each of you individually.
+
+**What's changing for us**
+
+The partners have been coming in one day a week. That changes too. From September 1, all three of us will be in the office on Tuesday, Wednesday and Thursday. We can't ask you to be here for each other if we aren't.
+
+**Friday**
+
+We'll go through this at Friday's all-staff meeting and take questions. If you'd rather raise something privately, any of the three of us is happy to talk.
+
+Thank you. We know this asks a lot of some of you, and we think it's the right thing for the firm and for the people in it.
+
+[Partner name], [Partner name] and [Partner name]
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

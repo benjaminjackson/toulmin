@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-05-01Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "I still remember the March deadline. A answers it with proof: about 600 deadlines since April, none wrong or missed. B describes the fix but gives no evidence that it worked. B asks more directly for a meeting, but A's evidence about the error matters more to me."
+}

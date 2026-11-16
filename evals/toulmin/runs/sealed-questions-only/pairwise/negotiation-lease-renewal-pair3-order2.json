@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-lease-renewal",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-05Z",
+  "without_skill_run": "2026-11-16T21-04-38Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks directly to what bothers me most. It names the two late payments, explains the cooler failure, and thanks me for waiving the fees. It also offers autopay, a signature within two weeks, and the $40,000 hood replacement cost, which outweighs the coffee chain's interest. A says nothing about the late rent and reads like a template."
+}

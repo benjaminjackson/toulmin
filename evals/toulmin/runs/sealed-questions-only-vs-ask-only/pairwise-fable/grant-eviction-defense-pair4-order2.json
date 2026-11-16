@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "grant-eviction-defense",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-51Z",
+  "without_skill_run": "2026-11-16T21-22-09Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B opens with the ask and its labeled sections (need, results, budget, accountability) map straight onto my rubric, with candid notes on the missing baseline and uncertain county renewal plus concrete reporting commitments. A is frank that the hire may only replace the departing attorney, but it leaves \"[County]\" placeholders, asserts an October 2027 date and a start-before-June timeline the facts don't support, and offers no accountability."
+}

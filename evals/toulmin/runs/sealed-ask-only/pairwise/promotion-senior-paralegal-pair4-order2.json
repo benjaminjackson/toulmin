@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-senior-paralegal",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-20-58Z",
+  "without_skill_run": "2026-11-16T21-07-00Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Since I raised the March deadline error in her last review, I give more weight to A, which plainly says 'That was too close' and owns the mistake. B files it under 'Managing risk,' which reads a bit like spin, though B is otherwise well organized and names the January review cycle."
+}

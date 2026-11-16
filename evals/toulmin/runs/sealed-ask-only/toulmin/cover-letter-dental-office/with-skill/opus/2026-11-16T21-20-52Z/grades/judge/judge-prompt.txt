@@ -1,0 +1,63 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+The dentist who owns a three-dentist practice and is hiring an office manager after the last one quit with two weeks' notice. He reads every application himself between patients and has not decided what he thinks about long gaps in a work history.
+</reader>
+
+<brief>
+Can you write a cover letter for me? I'm 52 and I'm applying for an office manager job at a dental practice in my town. I've been out of work for 7 years caring for my mother, who died last spring.
+
+My background:
+- Before that I was office manager at a veterinary clinic for 11 years. It had 4 vets and 14 staff.
+- I handled scheduling, billing, and the clinic's move from paper records to software in 2014.
+- In my last three years there, unpaid invoices over 90 days went from about $38,000 to $9,000.
+- During the 7 years at home I managed my mother's insurance claims and her appointments with 6 specialists.
+- I haven't used Dentrix, which the posting lists. I used AVImark at the clinic.
+- The practice has 3 dentists. The posting says the manager supervises 9 people.
+
+Keep it under 300 words.
+</brief>
+
+The user also knew the following and gave some of it to the writer when asked:
+<user_knows>
+- My name is Linda Marsh. The practice is Brookside Family Dental, and the owner is Dr. Alan Pierce.
+- The posting closes on the 21st. Applications go by email to the practice.
+- For the last 4 years I have been the volunteer treasurer of my church, doing the books in QuickBooks.
+- I have signed up for the Dentrix online training course, about 20 hours, and can finish it before a first day.
+- I can commit to starting within two weeks of an offer.
+- I can commit to working the practice's evening hours on Tuesdays and Thursdays.
+- I cannot give a reference from the vet clinic's owner. He retired and moved abroad. The head vet, Dr. Sue Kim, will give one.
+- I left the clinic with two weeks' notice myself, when my mother was diagnosed.
+</user_knows>
+
+<document>
+Dear Dr. Pierce,
+
+I am writing to apply for the Office Manager position at Brookside Family Dental. For eleven years I was office manager at a veterinary clinic with four veterinarians and 14 staff. I handled scheduling and billing and kept a busy practice running smoothly for both the doctors and the clients.
+
+Two results from that job stand out. In 2014 I led the clinic's move from paper records to practice management software. In my last three years there, I brought unpaid invoices more than 90 days old down from about $38,000 to $9,000. I take pride in both because they took steady follow-through and clear communication with staff and clients.
+
+I spent the past seven years as my mother's caregiver, which included managing her insurance claims and her appointments with six specialists. That time showed me billing and scheduling from the patient's side, and how much a well-run office matters to the people it serves.
+
+I know your practice uses Dentrix. My experience is with AVImark, so I have enrolled in the Dentrix online course, about 20 hours of training, and I will finish it before my first day. Having taken one practice from paper to software, I am confident I can learn a new system quickly.
+
+I would welcome the chance to talk with you about how I can support your team and your patients. Thank you for your time and consideration.
+
+Sincerely,
+
+Linda Marsh
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

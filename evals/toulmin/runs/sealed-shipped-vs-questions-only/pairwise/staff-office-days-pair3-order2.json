@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-office-days",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-11-11Z",
+  "without_skill_run": "2026-11-16T21-37-50Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "As someone hired fully remote, I take A more seriously because it speaks to the 15 of us directly, admits the change has a real cost, and asks us to raise problems early, while still being honest that there are no other exceptions. B adds useful context, like the project leads and its frank 'can't prove' line, but it also says Mondays, Fridays and the office days haven't been decided, which the facts don't support and which makes the plan feel unsettled."
+}

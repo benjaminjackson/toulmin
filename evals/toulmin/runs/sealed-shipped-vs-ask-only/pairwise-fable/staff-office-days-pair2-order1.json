@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-10-04Z",
+  "without_skill_run": "2026-11-16T21-23-08Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A is more persuasive to me as a sceptical remote hire: it admits the firm can't prove remote work caused the slower progression, where B simply asserts it, and it gives me the practical facts I need (desks arriving in August, the March 2028 review, nine months' notice, the meeting time, HR as a contact). B is warmer about the broken terms and honest that it has no full answer for people who can't make it work, but \"the decision is final\" alongside a missing desk and meeting detail leaves me with less to go on."
+}

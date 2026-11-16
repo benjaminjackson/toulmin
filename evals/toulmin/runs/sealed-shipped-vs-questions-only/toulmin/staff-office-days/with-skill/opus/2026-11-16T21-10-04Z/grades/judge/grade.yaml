@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T21:11:11.347381+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 452
+  tags: []
+  notes: extracted 452 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 4
+    objections: 6
+    fit: 9
+  details:
+    agree: The partners committing to three days, the long notice, the commuting money
+      and the plain admission that this changes the terms people were hired on will
+      bring most staff along, but the eleven remote hires outside the far-away group
+      get nothing beyond $150 and a review with no stated criteria, so some will push
+      back or leave.
+    honest: The 30% figure is carefully hedged, but saying the clients' comment "cost
+      us both projects" and describing the team as "people who didn't work together
+      day to day" go further than what the clients actually said.
+    works_the_facts: 'The figures are repeated rather than worked: the draft never
+      says that 15 of 46 is a third of the firm, and it leaves out the strongest fact
+      available, that 5 of the 6 project leads already come in three days a week on
+      their own.'
+    right_comparison: The draft never spells out what happens if nothing changes,
+      such as more lost finals or juniors continuing to take 30% longer to lead projects,
+      so readers have no concrete picture of the status quo to weigh the change against.
+    qualification: The March 2028 review has a date, but it names nothing to be measured,
+      no threshold, and no outcome that could change the policy, and the hedge on
+      cause gives readers nothing they could check.
+    objections: It deals directly with the broken-terms objection and the desk shortage,
+      but it doesn't speak to remote hires who live just under two hours away, and
+      it doesn't say whether the six-month review could actually loosen the rule.
+    fit: It is a one-page email with a clear subject line and sensible headings, and
+      it ends with the Friday 10 a.m. meeting details and who to contact beforehand,
+      as the brief asked.

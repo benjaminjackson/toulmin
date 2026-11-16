@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T21:35:44.029080+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 280
+  tags: []
+  notes: extracted 280 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 6
+    objections: 7
+    fit: 9
+  details:
+    agree: Frank gets a firm, respectful offer that reaches about $5,740 by year five,
+      above his own asking rent, and the letter deals with the late payments directly,
+      so he is likely to accept or make a modest counter rather than walk away.
+    honest: Every figure matches the facts provided, including the correctly computed
+      $5,740 for year five, and the only claim stated with some confidence, 'no gap
+      in rent', is reasonable for a renewing tenant.
+    works_the_facts: The year-five figure is a strong derived number, but the letter
+      never gives the offer as about $26 a square foot, never totals the five-year
+      rent, and never prices what 14 months of vacancy would cost him on this unit.
+    right_comparison: The empty unit listed at $28 for 14 months is a fair picture
+      of the alternative, but the letter doesn't turn that into a cost to Frank, and
+      the $40,000 hood saving applies to a new restaurant, not to the coffee chain
+      he actually mentioned.
+    qualification: The June 1 deadline and the promise to sign within two weeks are
+      concrete and checkable, but the letter doesn't say what happens if June 1 passes
+      without an answer.
+    objections: The late payments are explained and backed by an automatic-payment
+      commitment, which answers Frank's main grievance well, but the coffee-chain
+      threat gets only one generic line.
+    fit: It is a short, polite letter of roughly 270 words with a clear subject line,
+      within the requested limit.

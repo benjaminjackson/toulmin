@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-35-21Z",
+  "without_skill_run": "2026-11-16T21-21-14Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both make the same verifiable offer (invoices, meeting before May 1), but B overreaches in ways I would catch: it says a fifth of their orders are filled below cost when the loss applies only to 20 generics, treats an average as \"each one\", and asserts \"none of us can make it all back\" and \"skip a dose\" without support. A stays inside what it can show and admits its limits plainly, so I trust it more and am more willing to take the meeting."
+}

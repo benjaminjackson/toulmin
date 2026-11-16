@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "grant-eviction-defense",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-32Z",
+  "without_skill_run": "2026-11-16T21-35-51Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "A puts the ask first and uses labeled sections (Need, Results, Budget, Accountability) that I can score against a printed rubric in minutes, and it is candid that the county renewal is uncertain. B's estimate of about 80 more tenants a year is useful, but it is buried in prose, and its closing line implies the grant would end the turn-aways when it would cover only about a quarter of them."
+}

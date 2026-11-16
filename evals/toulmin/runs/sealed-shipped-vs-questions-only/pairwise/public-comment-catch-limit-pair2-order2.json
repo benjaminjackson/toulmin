@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-catch-limit",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-07-41Z",
+  "without_skill_run": "2026-11-16T21-33-15Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "A gives commissioners something concrete in return: trip logs from 2016 on and a test of a catch-reporting app. It also earns trust by admitting it can't say how many boats would close and that this season is mostly booked already. B's $80,000 figure assumes the full 2016 drop lasts all three years, which inflates the damage and lacks A's offers."
+}

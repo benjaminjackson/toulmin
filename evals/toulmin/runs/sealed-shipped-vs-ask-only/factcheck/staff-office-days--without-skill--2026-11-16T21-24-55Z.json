@@ -1,0 +1,29 @@
+{
+  "task": "staff-office-days",
+  "arm": "without-skill",
+  "run": "2026-11-16T21-24-55Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "**Subject: Three office days a week from 1 September 2027**",
+      "why": "The brief states the change starts on September 1, but does not state the year is 2027."
+    },
+    {
+      "quote": "From 1 September 2027, everyone at the firm will work in the office on Tuesday, Wednesday and Thursday.",
+      "why": "The brief gives the date as September 1, without specifying the year 2027."
+    },
+    {
+      "quote": "You can keep working remotely until 31 December 2027.",
+      "why": "The brief says they can keep working remotely 'until the end of next year' (which would be at least 16 months after September 1 of the current year), whereas the writer invented the year 2027 and collapsed 'the end of next year' into the end of the same year the policy starts."
+    },
+    {
+      "quote": "From January 2028, we're asking you to come in one day a week.",
+      "why": "The brief states this requirement begins after 'the end of next year' without giving the year 2028."
+    },
+    {
+      "quote": "I know that gives you only four months longer than everyone else.",
+      "why": "The brief states the four remote staff have 'until the end of next year' (which would be 16 months after a September 1 start in the current year), not four months within the same calendar year."
+    }
+  ],
+  "invented_count": 5
+}

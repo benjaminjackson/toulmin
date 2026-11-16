@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-dental-office",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-20-52Z",
+  "without_skill_run": "2026-11-16T21-02-51Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is addressed to me by name and is ready to send. It says plainly that she has already enrolled in Dentrix training and will finish before her first day, and that answers my worry about software right away. B still has bracketed placeholders, such as '[Practice Name]' and '[one short phrase on how]', so it reads like an unfinished template. Its Dentrix point is only a vague promise, which makes it look careless next to A."
+}

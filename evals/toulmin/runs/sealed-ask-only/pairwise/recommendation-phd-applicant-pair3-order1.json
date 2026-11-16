@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-23-22Z",
+  "without_skill_run": "2026-11-16T21-08-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives specific evidence that holds up for a skeptical reader: a 'top 3 of 17 years' ranking, two weeks running the lab's water sampling alone, and a supervisor who would hire her again. Document B is full of unfilled placeholders, relies on generic praise, and adds claims the facts don't support, such as how she handled the storm gap, her poise at the poster session, and calling 14 months 'a single season'."
+}

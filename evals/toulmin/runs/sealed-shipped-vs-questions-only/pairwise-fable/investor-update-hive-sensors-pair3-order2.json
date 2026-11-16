@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "investor-update-hive-sensors",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-04-47Z",
+  "without_skill_run": "2026-11-16T21-34-45Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "As a partner worried about slow sales, B gives me what I need to judge the bet: per-hive revenue, the margin hit if they match $45, the exact cash position in March, and a break-even test (revenue must more than double this spring). A is honest but only promises a path to profit later. A's monthly cash report and December 1 reply date are real advantages that B omits, so the gap is narrow."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "staff-office-days",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-12-28Z",
+  "without_skill_run": "2026-11-16T21-38-45Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both are honest and acknowledge the broken terms. A gives me more to stay for: the six-month review with staff, the fact that five of six project leads already come in, and a warmer invitation to raise questions, whereas B's stronger mentoring explanation and nine-month notice point don't offset its omission of the review and its blunt \"no other exceptions\"."
+}

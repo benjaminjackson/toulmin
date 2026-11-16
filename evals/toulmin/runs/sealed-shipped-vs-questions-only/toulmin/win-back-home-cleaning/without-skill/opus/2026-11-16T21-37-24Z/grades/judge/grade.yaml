@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T21:38:12.387925+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 151
+  tags: []
+  notes: extracted 151 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 4
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 7
+    objections: 4
+    fit: 8
+  details:
+    agree: This reader left over price and is happy with the savings; a single $99
+      visit and a general line that 'every visit is insured' don't justify paying
+      about $25 more on every visit after that, so they probably won't book.
+    honest: The email turns 'same cleaner every time' into 'your own regular cleaner
+      plus a named backup' and 'you'll always know who's coming', which is true, and
+      every figure it uses is accurate.
+    works_the_facts: It never puts the price gap as a number ($25 a visit), never
+      says the $99 visit costs $41 less than the apps charge, and gives '1 of 18 left'
+      without setting it against last year's 7 of 18, so the improvement doesn't come
+      through.
+    right_comparison: The apps appear only as 'cheaper'; the email leaves out that
+      their cleaners are mostly contractors with no insurance on the visit, which
+      is the comparison that would make the higher price make sense.
+    qualification: The offer has a clear December 31 deadline, and the backup cleaner
+      is tied to sick days and holidays, so the reader can check what the commitment
+      covers.
+    objections: The price objection is admitted but answered only with facts about
+      Brightway's own staff and no contrast with the apps; the email also leads with
+      a fix for cleaner turnover, which this reader never complained about, and says
+      'you were right about the cleaners' to someone who didn't raise it.
+    fit: It's a short email of about 150 words with a subject line and a call to action,
+      but it leaves out the 555-0164 phone number as a second way to book.

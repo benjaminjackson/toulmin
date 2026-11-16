@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-town-cinema",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-05-03Z",
+  "without_skill_run": "2026-11-16T21-21-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B shows that only $49,000 is still needed once the businesses' $11,000 is counted, and it is open about the roof cost possibly rising and about which films it can't promise. It also commits to a public spending report every three months, which reassures me after the refunds last time and my recent ambulance gift. A leaves out the business pledges and makes the gap look like $60,000."
+}

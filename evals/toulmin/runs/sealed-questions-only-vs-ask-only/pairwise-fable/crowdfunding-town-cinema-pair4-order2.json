@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "crowdfunding-town-cinema",
+  "pair": 4,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-34-54Z",
+  "without_skill_run": "2026-11-16T21-21-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who remembers the refunds and is short on spare cash, B gives me more reason to believe it will work: $11,000 already pledged in writing leaves only $49,000, about what we raised last time, plus a Thanksgiving reopening date and quarterly spending reports at the library. A is honest and clear about the refund guarantee, but leaves me facing a $60,000 gap with no accountability or timeline."
+}

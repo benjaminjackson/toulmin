@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "negotiation-lease-renewal",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-03-39Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "A speaks to what I care about: it addresses the payment record (on time for over two years), puts the vacancy cost in dollars against the gap between our numbers, and says the tenant is ready to sign now. B skips the late payments entirely, tells me the restaurant can't survive my rent (which makes the coffee chain look safer), and sets me a deadline. A's \"reliable for a decade\" does gloss over the two late months, so the gap is small."
+}

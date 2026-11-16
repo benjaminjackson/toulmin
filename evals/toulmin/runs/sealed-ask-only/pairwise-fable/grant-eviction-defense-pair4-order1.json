@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "grant-eviction-defense",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-22-09Z",
+  "without_skill_run": "2026-11-16T21-03-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A reads as a finished summary: it names the clinic, accounts for every dollar of the $78,000 position, and is candid that the grant keeps two attorneys in place after the June departure. Document B is full of unfilled brackets ([Clinic Name], [source], optional sentences) and leaves the $33,000 gap and the replacement hire unexplained, so I could not score it as submitted."
+}

@@ -1,0 +1,60 @@
+task:
+  name: win-back-home-cleaning
+  type: win-back-email
+  set: sealed
+  reader: A former customer who cancelled every-other-week cleaning in the spring
+    and now pays a cheaper app-based service about $25 less a visit. The customer
+    liked the old company well enough and has no complaint, but is happy with the
+    savings so far. The customer decides whether to book a cleaning.
+  prompt: 'I need an email to win back customers who cancelled. I own a home cleaning
+    company with 18 cleaners.
+
+
+    What''s true:
+
+    - We have 212 regular customers. 64 cancelled in the last year. In exit surveys,
+    the most common reason was price, then a different cleaner showing up each time.
+
+    - An every-other-week cleaning for a 3-bedroom house costs $165 with us. The app
+    services in our area charge about $140.
+
+    - Our cleaners are employees, not contractors. We pay $21 an hour and carry insurance
+    on every visit.
+
+    - Last year 7 of our 18 cleaners left, so about 4 in 10 customers had their regular
+    cleaner change at least once.
+
+    - We now give each customer a regular cleaner and a named backup.
+
+    - Returning customers get their first cleaning for $99.
+
+
+    I want the email to promise that you''ll get the same cleaner every single time.
+    Keep it to about 150 words.'
+  user_knows: '- The company is Brightway Home Cleaning. I''m Lisa Grant, the owner.
+
+    - The $99 first cleaning offer ends December 31. Customers book by replying to
+    the email or calling 555-0164.
+
+    - Since we started giving each customer a regular cleaner in July, 1 of our 18
+    cleaners has left.
+
+    - App services in our area mostly use contractors who carry no insurance on the
+    visit.
+
+    - I can commit to a regular cleaner and a named backup for every customer.
+
+    - I can commit to no contract. Customers can cancel any time.
+
+    - I cannot match $140 a visit.
+
+    - I cannot promise the same cleaner every single time, because of sick days and
+    holidays. I still want the email to make that promise as strongly as it can without
+    saying something false.'
+config:
+  name: with-skill
+  runner: /Users/ben/github/toulmin/evals/toulmin/run-with-skill
+  model: opus
+started: '2026-11-16T21:24:24.547132+00:00'
+duration_seconds: 30.11
+exit_code: 0

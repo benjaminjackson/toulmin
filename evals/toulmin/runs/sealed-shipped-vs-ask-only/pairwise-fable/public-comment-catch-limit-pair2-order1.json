@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "public-comment-catch-limit",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-07-41Z",
+  "without_skill_run": "2026-11-16T21-19-37Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Both accept our staff's stock numbers and ask for a 3-fish limit or shorter season, but B gives us something we rarely get from charter captains: trip logs since 2016 and a catch-reporting app trial, plus a candid admission that he can't say every boat would close. A is tighter but offers nothing in return and stretches with \"charter boats land the least flounder,\" which the 9% and 80% figures alone don't establish."
+}

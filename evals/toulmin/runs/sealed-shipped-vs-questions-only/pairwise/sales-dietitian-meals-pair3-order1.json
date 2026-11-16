@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-dietitian-meals",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-10-17Z",
+  "without_skill_run": "2026-11-16T21-37-23Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A openly says the A1C group is small, that medication changes weren't tracked, and that it can't promise results. It also offers a 15-minute call with the dietitian before I start, which lowers the risk for someone who has already quit three services. B leaves out the call and the medication caveat, and it adds the claim that the meals are \"planned for blood sugar management,\" which made me trust it less."
+}

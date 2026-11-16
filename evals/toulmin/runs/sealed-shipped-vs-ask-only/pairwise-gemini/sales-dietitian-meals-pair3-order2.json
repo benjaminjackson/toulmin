@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-dietitian-meals",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-10-17Z",
+  "without_skill_run": "2026-11-16T21-23-20Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A wins my trust by explicitly acknowledging that the 14 customers chose to share their A1C results, whereas Document B slips in a misleading sentence implying the 0.6-point average drop applies only to the 10 whose numbers went down rather than the whole group of 14. Document A also frames the 15-minute call around learning what I like to eat, which directly addresses why I quit other meal services in the past."
+}

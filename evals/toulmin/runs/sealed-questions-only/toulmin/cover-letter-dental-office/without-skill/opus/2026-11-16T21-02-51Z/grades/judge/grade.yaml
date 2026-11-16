@@ -1,0 +1,60 @@
+grader: judge
+graded: '2026-11-16T21:03:24.557277+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 260
+  tags: []
+  notes: extracted 260 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 4
+    honest: 7
+    works_the_facts: 4
+    right_comparison: 3
+    qualification: 3
+    objections: 4
+    fit: 5
+  details:
+    agree: The letter handles the caregiving gap with dignity, but it never tells
+      a dentist who is suddenly short an office manager that she can start within
+      two weeks, cover the Tuesday and Thursday evenings, or has kept her bookkeeping
+      current, so a reader still unsure about long gaps has little reason to move
+      her to the top of the pile.
+    honest: Every stated claim follows the brief, apart from the mild padding of 'busy'
+      and 'an entire clinic', but the bracket asking her to add how she reduced the
+      invoices invites her to supply a method the brief never gave.
+    works_the_facts: It repeats $38,000 to $9,000 without converting it to the stronger
+      'cut by more than three-quarters', and it never points out that she ran 14 staff
+      and 4 vets, which is more than this practice's 9 staff and 3 dentists.
+    right_comparison: The obvious comparison, that she ran a larger multi-provider
+      office than the one she is applying to, is left unstated, and the letter does
+      nothing to contrast her with the rushed, uncertain hire the owner otherwise
+      faces.
+    qualification: 'The Dentrix gap is hedged only with ''confident I can learn it
+      quickly'' and an optional vague placeholder, when the facts allowed a checkable
+      statement: a 20-hour course already signed up for and finished before the first
+      day.'
+    objections: The gap and the Dentrix gap are raised and partly answered, but the
+      doubt about whether her skills are current goes unmet even though four years
+      as church treasurer in QuickBooks answers it, and so does the doubt about whether
+      she will stay and start soon.
+    fit: It is a cover letter under 300 words, but it is full of placeholders for
+      the practice, the owner, the clinic and her own name, so it can't be sent as
+      written.

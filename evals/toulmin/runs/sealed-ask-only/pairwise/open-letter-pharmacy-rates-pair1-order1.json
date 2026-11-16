@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-18-42Z",
+  "without_skill_run": "2026-11-16T21-04-41Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A answers my belief that members have plenty of chains: in those 14 counties the nearest chain is more than 20 miles away. It also gives a concrete sign of risk, with two of the 38 pharmacies saying they will stop filling for plan members, and it offers invoices I can check and a meeting before May 1, which makes it hard to dismiss as the usual yearly complaint. Document B has unfilled placeholders, doesn't mention the chain distance, and its asks are vaguer, with no offer to back up its numbers."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-catch-limit",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives commissioners more to act on: two named alternatives, a concrete offer of trip logs and a reporting-app test, and the two captains' sell warning, which it presents honestly. B has unfilled placeholders, makes no data commitments, and leans on a fairness argument about private boats that won't sway commissioners who already trust the staff's case for the cut."
+}

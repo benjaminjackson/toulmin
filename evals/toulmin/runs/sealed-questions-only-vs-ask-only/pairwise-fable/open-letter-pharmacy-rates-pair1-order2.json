@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-32-15Z",
+  "without_skill_run": "2026-11-16T21-18-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B opens with the below-cost figure and the July 1 contract, and it admits that brand-name margins offset part of the loss, which answers my first objection and makes the invoice offer more credible. A says they lose money \"every time\" and leans on \"we know what rates like these do\", which reads like the usual annual complaint."
+}

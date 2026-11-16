@@ -1,0 +1,13 @@
+{
+  "task": "recommendation-phd-applicant",
+  "arm": "with-skill",
+  "run": "2026-11-16T21-10-42Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Of the roughly thirty theses I have supervised, hers asked the most of its author in the field.",
+      "why": "Neither the brief nor the user's additional information states how the fieldwork demands of Priya's thesis compared to the other thirty theses supervised."
+    }
+  ],
+  "invented_count": 1
+}

@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T21:08:03.983611+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 402
+  tags: []
+  notes: extracted 402 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 3
+    honest: 6
+    works_the_facts: 3
+    right_comparison: 3
+    qualification: 3
+    objections: 2
+    fit: 6
+  details:
+    agree: A skeptical reader who discounts small-college letters gets generic praise
+      like "one of the most capable" and "without reservation," and many bracketed
+      placeholders, so the letter would likely be discounted along with the rest.
+    honest: 'The letter correctly drops the ''ready for a top journal'' claim, but
+      it adds things the brief doesn''t support: that she ''designed'' the study,
+      that she is ''eager to test'' the effect elsewhere, and that the results come
+      from ''a single season'' when the study ran 14 months.'
+    works_the_facts: It repeats the raw numbers (28, 90 trips, 14 months) but never
+      uses them to rank her, for example top 3 in 17 years or 2 of 40 letters declined,
+      and it leaves out the supervisor's 'would hire again' and her two weeks running
+      the lab's water sampling alone.
+    right_comparison: 'She is compared only to a vague pool of ''field researchers
+      I have worked with,'' when the facts allowed a concrete comparison: one of the
+      3 best students in 17 years, from a writer who has refused strong letters to
+      2 students.'
+    qualification: The hedge 'with further sampling this work has a real chance of
+      becoming a peer-reviewed publication' gives the reader nothing to check, because
+      the letter doesn't offer to send the thesis or say what replication would show.
+    objections: The reader's main objection, that small colleges praise everyone,
+      goes unanswered even though the writer's record of declining 2 of about 40 letter
+      requests answers it directly.
+    fit: It is a one-page letter in the right form, but it is full of placeholders
+      for her name, the college, the bay and the conference, though the user could
+      have supplied these.

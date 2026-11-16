@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-pharmacy-rates",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T21-06-49Z",
+  "without_skill_run": "2026-11-16T21-20-22Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters stay within the facts and answer my belief that members have plenty of chains to use with the 20-mile figure. B leads with the July 1 request, makes three specific asks I could act on, and pairs its admission about brand-name margins with the invoice offer, which makes it harder for me to write off as the usual yearly complaint."
+}

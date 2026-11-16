@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-phd-applicant",
+  "pair": 4,
+  "order": 1,
+  "with_skill_run": "2026-11-16T21-10-42Z",
+  "without_skill_run": "2026-11-16T21-24-08Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is a finished letter with a name, college and signature. It turns the 90 kayak trips into one trip every four to five days and states plainly that the thesis is not yet published. B has placeholders such as [Last Name] and [College], which make it look generic to a reader who already discounts small-college praise. B also adds an unsupported claim that she discussed the poster with outside researchers."
+}
