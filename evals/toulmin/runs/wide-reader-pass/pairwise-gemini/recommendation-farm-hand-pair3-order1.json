@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-28-08Z",
+  "without_skill_run": "2026-11-16T19-19-09Z",
+  "a_arm": "with-skill",
+  "winner": "tie",
+  "winner_arm": "tie",
+  "margin": "none",
+  "reason": "Both letters are extremely similar in structure, tone, and content, and both make a strong case for the applicant while grouping the attendance facts naturally in Document A. However, neither letter mentions the short two-day notice before the five-week leave, making them equally selective with the facts and virtually indistinguishable to a quick reader."
+}

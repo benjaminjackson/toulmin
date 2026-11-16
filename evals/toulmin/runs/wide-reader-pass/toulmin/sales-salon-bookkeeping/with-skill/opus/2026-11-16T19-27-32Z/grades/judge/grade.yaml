@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:28:14.963121+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 298
+  tags: []
+  notes: extracted 298 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 3
+    qualification: 6
+    objections: 3
+    fit: 9
+  details:
+    agree: The page is clear and believable, but a four-chair owner who pays her cousin
+      $600 a year sees $199 a month and finds nothing that answers the gap, so she
+      may well not book.
+    honest: Nearly every claim matches the brief, including the missed dates, but
+      'every client pays the same price' and 'tend to stay' go slightly beyond what
+      was given.
+    works_the_facts: Turning the $800 saving into 'about four months of my fee' is
+      a good move, but the page never gives the yearly cost or the on-time rate (9
+      of 12 months), and it doesn't say that none of the 31 clients left unhappy.
+    right_comparison: The real alternative for this reader is a relative who does
+      the books once a year at tax time, and the page only hints at it with an accountant
+      'sorting out' messy books, without setting monthly upkeep against year-end catch-up.
+    qualification: The 10th-of-the-month deadline and the 3 misses are stated plainly
+      enough to check, but the page doesn't say what happens to a client when a close
+      is late.
+    objections: Her main objection, the cost against a cheap relative she likes, is
+      never addressed, while the page spends space on the staff limit of more than
+      10, which doesn't apply to a four-chair salon.
+    fit: At about 330 words with clear sections and a booking button at the end, it
+      matches the form and length the brief asked for.

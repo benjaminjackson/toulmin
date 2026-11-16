@@ -1,0 +1,38 @@
+task:
+  name: investor-update-clinic-scheduling
+  type: investor-update
+  set: tune
+  reader: The lead angel investor, who put in $250,000 and has the right to join the
+    next round. The founder skipped the last two quarterly updates, and the investor
+    said so in a short, cold email last month. The investor decides whether to keep
+    backing the company and taking the founder's calls.
+  prompt: 'I need to send a quarterly update to our investors. I''m the founder of
+    a scheduling app for physical therapy clinics. We have 6 people.
+
+
+    Numbers for the quarter:
+
+    - Monthly recurring revenue is $41,000, the same as three months ago.
+
+    - We added 9 clinics and lost 4. One of the 4 was our largest customer, a 12-clinic
+    chain that paid $5,500 a month. They moved to the scheduler built into their electronic
+    records system.
+
+    - We have $480,000 in the bank and lose about $44,000 a month.
+
+    - Clinics that use our automatic text reminders have a no-show rate of 7%, against
+    13% before they started.
+
+    - I didn''t send updates for the last two quarters.
+
+    - Next month we start selling the reminder feature on its own for $150 a month.
+
+
+    Under 500 words. It goes to 11 investors.'
+config:
+  name: without-skill
+  runner: /Users/ben/github/toulmin/evals/toulmin/run-without-skill
+  model: opus
+started: '2026-11-16T19:17:59.988406+00:00'
+duration_seconds: 33.24
+exit_code: 0

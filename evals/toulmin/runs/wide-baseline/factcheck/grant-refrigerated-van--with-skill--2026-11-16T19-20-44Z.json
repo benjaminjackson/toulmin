@@ -1,0 +1,25 @@
+{
+  "task": "grant-refrigerated-van",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-20-44Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "We'd no longer be limited to whatever survives a trip in a volunteer's car.",
+      "why": "The brief does not state that volunteers currently use their personal cars to transport food."
+    },
+    {
+      "quote": "We are run entirely by volunteers",
+      "why": "The brief describes a \"volunteer-run food bank\" with a director, not that it has zero paid staff or is run \"entirely\" by volunteers."
+    },
+    {
+      "quote": "board calendar",
+      "why": "The brief does not mention that the food bank has a board or a board calendar."
+    },
+    {
+      "quote": "grown a few miles away",
+      "why": "The brief refers to \"local farms\" but does not specify that the produce is grown a few miles away."
+    }
+  ],
+  "invented_count": 4
+}

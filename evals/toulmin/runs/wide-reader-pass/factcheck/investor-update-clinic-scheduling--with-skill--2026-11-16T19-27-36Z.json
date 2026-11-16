@@ -1,0 +1,25 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-27-36Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Without that chain, the rest of the business grew from $35,500 to $41,000 in MRR, about 15% in the quarter.",
+      "why": "This calculation assumes the 3 other lost customers paid $0 in MRR; the brief does not state what the other 3 lost customers were paying, so the starting and ending MRR of the remaining customers cannot be calculated."
+    },
+    {
+      "quote": "The chain didn't leave because our product got worse. They left because their records system now includes a scheduler, and one less vendor was worth more to them than a better tool.",
+      "why": "The brief only says the chain moved to the scheduler built into their electronic records system, without stating when that scheduler was added, that the app's tool was better, or the chain's reasoning about vendor consolidation."
+    },
+    {
+      "quote": "That lets us sell to clinics that schedule inside their records system, like the chain we just lost, instead of competing with a tool they get bundled in.",
+      "why": "The brief only states that the reminder feature will be sold on its own next month, not that the standalone reminders can integrate with or be sold to clinics using their own records system's scheduler, nor that the records system's scheduler is bundled in at no extra cost."
+    },
+    {
+      "quote": "We'll get them a reminders trial in front of them as soon as the product launches.",
+      "why": "The brief does not mention offering a trial for the standalone reminders product."
+    }
+  ],
+  "invented_count": 4
+}

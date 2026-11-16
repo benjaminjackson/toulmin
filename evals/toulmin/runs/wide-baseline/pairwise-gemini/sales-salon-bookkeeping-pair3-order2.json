@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-19-22Z",
+  "without_skill_run": "2026-11-16T19-19-18Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A wins me over with the line about taking Sundays and Mondays off—as a stylist, that shows they actually understand salon life and makes me feel an instant connection. It also avoids the phrase 'the other 9 months' in Document B, which sounds like incorrect math for 31 clients."
+}

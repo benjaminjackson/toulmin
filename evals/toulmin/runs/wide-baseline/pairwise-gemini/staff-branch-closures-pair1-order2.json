@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-17-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both emails are refreshingly honest and avoid corporate spin by acknowledging that the new hours and phone work will be difficult for us. Document A edges out B because the bulleted list makes it much easier to quickly find the exact facts we are anxious about—pay, hours, remote work, and severance—and it specifically acknowledges how much we'll miss the members we've known for years."
+}

@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:19:33.355758+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 339
+  tags: []
+  notes: extracted 339 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 7
+    honest: 6
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 4
+    objections: 7
+    fit: 9
+  details:
+    agree: A quick reader comes away with concrete evidence of reliability and technical
+      aptitude, plus a candid note on written English, so the letter would likely
+      move this applicant up the pile, though nothing ties him to the program's specific
+      demands beyond one line.
+    honest: Most claims track the brief, but the letter says he went home 'to care
+      for' his father when the brief only says his father got sick, leaves out the
+      five-week length and the two days' notice, and calls the trip a family medical
+      emergency in a way that makes it sound smaller than it was.
+    works_the_facts: 'The letter turns the mastitis count into what it saved the farm,
+      but it never works out the strongest number available: two missed shifts out
+      of roughly 780 scheduled, about 99.7% attendance, left as a bare count.'
+    right_comparison: "It never sets Tom\xE1s against the typical applicant or the\
+      \ typical farm worker of his age, so the committee has nothing to measure '3\
+      \ a.m. alone, two misses in three years' against, beyond the line about not\
+      \ giving that shift to someone who needs checking."
+    qualification: 'The written-English caveat is named honestly, but the reader has
+      nothing to check: no class level, no start or finish date, no progress so far.'
+    objections: It deals with the two likely doubts, written coursework and reliability,
+      head on, though it handles the absence by leaving facts out rather than explaining
+      the short notice, which a sceptical reader could later hold against the letter.
+    fit: It is a one-page reference letter written as the farm manager with sensible
+      placeholders, which is exactly what was asked for.

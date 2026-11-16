@@ -1,0 +1,49 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-27-50Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The supply boat has stopped coming. The lamp still has to be lit every night.",
+      "why": "The brief only states the game is about seeing a lighthouse keeper's family through a winter, without mentioning a supply boat or lighting the lamp every night."
+    },
+    {
+      "quote": "not just friends and family",
+      "why": "The brief only says about 60 different people playtested the game, without specifying who those people were."
+    },
+    {
+      "quote": "where strangers sat down and played it",
+      "why": "The brief only says the creator took the game to 2 conventions, without stating that strangers sat down and played it there."
+    },
+    {
+      "quote": "on BoardGameGeek",
+      "why": "The brief refers only to 'the main board game ratings site' and does not name BoardGameGeek."
+    },
+    {
+      "quote": "every one of those ratings came from someone who played the game",
+      "why": "The brief says the game has an 8.1 average rating from 23 people, not that all 23 had played the game."
+    },
+    {
+      "quote": "Sixty people played it, broke it and told me what was wrong, and I fixed it.",
+      "why": "The brief states that about 60 people participated in playtest sessions, not that they broke the game, reported flaws, and had them fixed."
+    },
+    {
+      "quote": "which covers platform fees, payment fees and costs the quote doesn't include.",
+      "why": "The brief does not say what the remaining funds after manufacturing and shipping will be used to cover."
+    },
+    {
+      "quote": "I'll post an update every month until the game is at your door",
+      "why": "The brief does not mention a commitment to post monthly updates."
+    },
+    {
+      "quote": "If the campaign doesn't reach $28,000, no one is charged.",
+      "why": "The brief does not specify the crowdfunding platform or state that the campaign uses an all-or-nothing funding model."
+    },
+    {
+      "quote": "I've spent three years making sure this game works.",
+      "why": "The brief only says playtesting has run 'since 2023' and does not give the current year or state that development has taken three years."
+    }
+  ],
+  "invented_count": 10
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-54Z",
+  "without_skill_run": "2026-11-16T19-18-58Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A builds the case before naming the higher figure, and it avoids the slightly combative assertion in Document B that 'other publishers pay more for the same work,' instead presenting the $12,500 fee as a single concrete fact. Framing the $11,500 request as a discount given out of loyalty to our team makes me much more inclined to fight for a budget increase rather than moving on to the cheaper illustrator."
+}

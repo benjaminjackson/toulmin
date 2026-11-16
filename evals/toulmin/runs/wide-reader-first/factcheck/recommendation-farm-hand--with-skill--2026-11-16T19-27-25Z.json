@@ -1,0 +1,25 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-27-25Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "November 16, 2026",
+      "why": "The brief does not provide a date for the letter."
+    },
+    {
+      "quote": "He has also gone beyond what the job asked of him.",
+      "why": "The brief states that he learned the herd management software and flags sick cows, but does not state whether this was beyond his required job duties."
+    },
+    {
+      "quote": "That is the kind of work your program trains people to do, and he is already doing it with on-the-job training alone.",
+      "why": "The brief does not specify what the agricultural technology program's curriculum covers or that Tomás has had no other training besides on-the-job training."
+    },
+    {
+      "quote": "when he went home to Mexico because his father was seriously ill.",
+      "why": "The brief states that his father got sick in Mexico, not that Mexico is Tomás's home or that the illness was serious."
+    }
+  ],
+  "invented_count": 4
+}

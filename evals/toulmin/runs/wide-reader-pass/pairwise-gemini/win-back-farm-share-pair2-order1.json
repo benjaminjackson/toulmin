@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-27-29Z",
+  "without_skill_run": "2026-11-16T19-18-32Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both emails take accountability, but Document B feels much more human and directly addresses the communication breakdown by acknowledging we deserved a real explanation and promising to update us quickly and in detail if things go wrong again. Document A's opening feels a bit too blunt, and it misses the chance to reassure me that they won't go quiet during the next crisis."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-19-34Z",
+  "without_skill_run": "2026-11-16T19-19-29Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A shows a much better instinct for how a regulated plant actually works, whereas Document B says that safety 'depends less on the written rules'—a major red flag in a GMP environment where written procedures are law. However, Document A also invents the math that 2019 was 'seven years' ago and makes specific promises (like taking a GMP course before starting) that weren't in the brief, while Document B fabricates that the applicant is 'already working to understand GMP.' Because A's tone and framing are much better for a plant environment despite the slight extrapolations, A wins by a slight margin."
+}

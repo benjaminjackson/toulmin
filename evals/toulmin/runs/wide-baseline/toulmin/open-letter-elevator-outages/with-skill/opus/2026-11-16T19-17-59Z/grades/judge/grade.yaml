@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T19:19:02.437900+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 457
+  tags: []
+  notes: extracted 457 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 7
+    objections: 8
+    fit: 8
+  details:
+    agree: The tone is measured and the requests are concrete. The two-thirds petition
+      figure undercuts her idea that this is a few loud people, and the TV station
+      adds pressure, so she will probably act on at least the written date and the
+      outage plan, though she may still hold her view that the outages were handled
+      well.
+    honest: 'Every figure comes from the brief or is a fair derivation, and the wheelchair
+      point is hedged with ''may''. Two figures depend on the letter''s date, which
+      the brief never gives: ''five months later'' and ''one day in every eight''
+      both assume a date in mid-November.'
+    works_the_facts: 'It turns the raw numbers into stronger forms: about 1 day in
+      8, two-thirds of the building, and more than six weeks a year at this year''s
+      pace. Each derivation holds up and is put in its most favourable true form.'
+    right_comparison: 'The letter describes the status quo accurately: an elevator
+      out more than six weeks a year and a part promised as ''six to eight weeks away''
+      since June. It doesn''t overstate any trend, though it can''t show whether the
+      outages are getting worse.'
+    qualification: The demands have checkable deadlines (left as placeholders), and
+      the 'if nothing changes' projection names a consequence. However, the letter
+      doesn't say what the association will do if the dates are missed.
+    objections: It answers her likely objections directly. The passing inspection
+      is shown to be a safety point, not a reliability one. The $400,000 refusal gets
+      a request for the assessment behind it rather than a flat rejection. The 74
+      signatures rebut the 'few loud people' view.
+    fit: It is a proper open letter at roughly 450 words, close to the 400 requested,
+      with a clear numbered list of asks and placeholders the secretary can fill in.

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-28-31Z",
+  "without_skill_run": "2026-11-16T19-19-13Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B acknowledges that moving to phone work is a major adjustment from the in-person member relationships we've built over the years, whereas Document A feels a bit tone-deaf by claiming the call center will be a 'better way to work' for us. Both are honest about the tough change to rotating evening shifts and the severance option, making it a close call, but B treats our likely reluctance with more respect."
+}

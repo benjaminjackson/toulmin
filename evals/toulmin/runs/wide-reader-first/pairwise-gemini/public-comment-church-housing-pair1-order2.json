@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both speeches are exceptionally similar in structure and phrasing, effectively using the speaker's standing as an Alder Road resident to frame the traffic delay as a worthy trade-off for housing. However, Document B edges out Document A by offering the wavering commissioners a practical procedural off-ramp—attaching a condition to review signal timing—while Document A stays closer to the strict facts of the brief without inventing examples of who is on the waitlist."
+}

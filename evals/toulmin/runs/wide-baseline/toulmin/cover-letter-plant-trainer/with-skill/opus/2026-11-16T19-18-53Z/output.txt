@@ -1,0 +1,43 @@
+I recommend leaving the "cut new-hire training time in half" claim out of the letter. The letter below makes a narrower promise instead.
+
+**Why the 50% claim doesn't work:** You don't know how long their training takes now, how it's structured, or how much of it regulators require. Your facts show you can train people well and run safe procedures. They don't show that you can halve someone else's program. In pharma manufacturing, much of new-hire training is documented, required content. A hiring manager there may read "I'll cut it in half" as a sign that you don't yet understand GMP. That would make your biggest gap, no regulated-industry experience, look worse. It's also a number they could hold you to.
+
+**What the letter promises instead:** In your first 90 days you'll review their onboarding and bring back a written proposal. It will show where new hires could become competent faster without cutting required content. That's a promise you can keep, and they can check whether you kept it. If you still want the 50% figure, you could get their current training length from someone at the plant first. Then you'd at least know what you're claiming to halve.
+
+**Other choices I made:**
+- **The lab safety program comes first.** It's the closest match to their world: you wrote procedures, trained people on them, and can point to a measurable safety record. "Since 2019" with no injuries beyond first aid is seven years, which sounds stronger than "since 2019."
+- **I added up your totals:** about 1,260 students over nine years, and about 18 new teachers trained at 12 hours each. The AP pass rate going from 41% to 58% is a 17-point rise, about 40% better than where it started.
+- **The GMP gap is stated openly,** with a concrete plan for learning it. A plan is a better answer than hoping they won't notice. I didn't say you've already started studying GMP, because you didn't tell me that. If you have, add it, since that would help.
+- **The LMS gets one sentence.** It's a small gap, and you already run five classes a year through a similar system.
+- **Fill in** the bracketed details before you send it. Mention a specific product, process, or line from the posting if you can. It will show you've read it closely.
+
+<final_document>
+[Your Name]
+[Address] · [Phone] · [Email]
+
+[Date]
+
+[Hiring Manager Name]
+[Company Name]
+[Plant Address]
+
+Dear [Hiring Manager Name],
+
+I'm applying for the Training Coordinator position at [Company Name]. For nine years I've taught high school chemistry, and much of that work has been the job you're hiring for: writing procedures, training people to follow them exactly, and making sure they still follow them when no one is watching.
+
+In 2019 I wrote my school's lab safety program. In the seven years since, our labs haven't had a single injury that needed more than first aid. Each year, about 140 students, many handling chemicals for the first time, work under procedures I wrote and trained them on. That's about 1,260 students so far. I've learned that people follow a procedure when they understand why each step is there. A procedure they've only memorized doesn't hold up as well.
+
+I also train adults. Every year I bring our new science teachers up to speed on lab procedures in about 12 hours of training each. Over my time at the school that's been about 18 teachers. They're experienced professionals who need to learn our way of doing things quickly and correctly, which I expect is true of many of your new hires as well.
+
+I measure whether my teaching works. In the four years I've taught AP Chemistry, our pass rate has risen from 41% to 58%. I got there by finding where students were getting stuck and redesigning those parts of the course. I'd bring the same approach to your training program.
+
+I haven't worked in a regulated industry, and I haven't maintained GMP training records. I'd make learning them my first priority. I'd want to work alongside your Quality team in my first weeks so I understand your documentation requirements before I change anything. The same goes for your learning management system. I currently run five classes a year through Google Classroom, and I expect to learn your platform quickly.
+
+Within my first 90 days, I'd review your new-hire onboarding from start to finish. I'd then give you a written proposal showing where new employees could become competent on the floor sooner, without cutting anything your regulations require.
+
+I live about 30 minutes from the plant, and I'd welcome the chance to talk about how I can help your new hires get up to speed safely and correctly. Thank you for your consideration.
+
+Sincerely,
+
+[Your Name]
+</final_document>

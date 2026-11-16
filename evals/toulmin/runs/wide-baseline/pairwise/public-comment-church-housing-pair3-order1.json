@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-19-47Z",
+  "without_skill_run": "2026-11-16T19-19-20Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both speeches admit the traffic cost, but A does more to ease the commissioners' main worry: it explains that a D rating means some extra waiting, not a failed intersection, and it lays out the trade plainly. B's list of renters' jobs isn't in the brief, and its 'somewhere else' line may put off neighbours who are already skeptical."
+}

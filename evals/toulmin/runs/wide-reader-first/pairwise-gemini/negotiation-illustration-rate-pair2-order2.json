@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-24Z",
+  "without_skill_run": "2026-11-16T19-18-33Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A leads with our shared history and the commercial success of her books before making the financial ask, whereas Document B leads with a bolded dollar amount that feels a bit abrupt after four years of working together. Both wisely leave out the false claim about what every other publisher pays, though A does slightly stretch the brief by calling the four months 'full-time' work."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is more likely to get a phone screen. It shows some understanding of how a regulated plant works: being signed off to work alone, records that have to prove it, deferring to the quality team, and cutting training time without dropping documentation. It also gives a concrete plan for the GMP and LMS gaps. Document B relies on generic claims like 'I expect to learn quickly', which confirm my doubts about teachers rather than answering them."
+}

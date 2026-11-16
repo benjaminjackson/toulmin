@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both speeches effectively address the traffic concerns head-on, but Document B is slightly more persuasive to the hesitant commissioners because it translates the 64 units into a concrete fraction of the waiting list (one in six) and explicitly expresses support for attaching traffic-mitigation conditions to the permit. Document B also sticks strictly to the facts, whereas Document A speculates slightly on the specific demographics of the future tenants."
+}

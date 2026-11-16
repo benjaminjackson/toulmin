@@ -1,0 +1,33 @@
+{
+  "task": "promotion-front-office",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-19-17Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "the desk has kept running without a gap.",
+      "why": "The brief states only that the applicant covered the job alone for seven weeks, not how smoothly the desk ran or whether there were any gaps."
+    },
+    {
+      "quote": "I cut turnover sharply.",
+      "why": "The brief gives turnover numbers for two different years, but does not state that the applicant caused the reduction in turnover."
+    },
+    {
+      "quote": "The score rose while turnover dropped and new staff got up to speed faster",
+      "why": "The brief does not say when the training was rewritten relative to the 18-month period when the check-in score rose."
+    },
+    {
+      "quote": "our finance team.",
+      "why": "The brief does not mention that the hotel has a finance team."
+    },
+    {
+      "quote": "our labor forecasting and scheduling tools",
+      "why": "The brief does not state that the hotel uses labor forecasting and scheduling tools."
+    },
+    {
+      "quote": "The team already reports to me",
+      "why": "The brief says the applicant has been covering the manager's job, not that the team formally reports to the applicant."
+    }
+  ],
+  "invented_count": 6
+}

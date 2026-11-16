@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-24Z",
+  "without_skill_run": "2026-11-16T19-19-40Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a cold investor who was ignored for six months, I'd trust B more because it commits to a February 15 date and a target of 20 reminder-only customers by March, and it shows that 37 such customers would replace the lost chain. It also promises a decision on raising or cutting burn rather than a list of options. A is candid and well organized, but it puts off the runway decision and sets no targets."
+}

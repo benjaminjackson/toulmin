@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:19:13.725916+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 455
+  tags: []
+  notes: extracted 455 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 5
+    honest: 7
+    works_the_facts: 3
+    right_comparison: 5
+    qualification: 4
+    objections: 5
+    fit: 8
+  details:
+    agree: The guaranteed job at the same or higher pay and the clearly stated severance
+      will hold some of the 14, but a long-tenured teller who doesn't want phone work
+      gets little reason to choose the center over looking elsewhere.
+    honest: It wisely avoids claiming the change makes everyone's job better, but
+      it adds things the brief doesn't support, such as the pressure on current call
+      staff, a team that will 'answer them faster', branch members moving to other
+      branches, and a promise about when rotation details will be shared.
+    works_the_facts: 'Every figure is copied as given and nothing is worked out: no
+      severance example (ten years is 20 weeks, nearly five months'' pay), and no
+      figure showing what 12-hour days or 60 hours of weekly coverage mean.'
+    right_comparison: It points to the 44% fall in visits and the 60% rise in contacts,
+      but it never says where keeping the branches open would lead, such as visits
+      continuing to fall or the 9-minute hold growing.
+    qualification: The decision deadline and meeting date are blank placeholders,
+      and 'we will work with you where we can' names no condition the reader can check.
+    objections: It speaks to the schedule worry and values the staff's member knowledge,
+      but it never addresses the main objection, not wanting to work on the phones
+      or losing face-to-face work, and it ignores the two weeks of rumours.
+    fit: It is a COO email of about 430 words, close to the requested 400, with a
+      clear subject line and structure, though it softens rather than states the 'better
+      jobs' message the brief asked for.

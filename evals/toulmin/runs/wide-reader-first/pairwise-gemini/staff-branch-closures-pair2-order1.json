@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-27-32Z",
+  "without_skill_run": "2026-11-16T19-18-40Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B includes crucial practical details like the center's location and a decision deadline, while avoiding Document A's tone-deaf opening claim that 'you're hearing this from me first' when rumours have been circulating for two weeks. Document B also avoids making specific promises about scheduling accommodations and 1-on-1 meetings that weren't in the facts."
+}

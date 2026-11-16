@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-19-08Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A wins because it shows sharp commercial math—unpacking the 15% underlying growth and calculating the exact unit sales needed to replace the lost whale and cover burn—which restores my confidence in the founder's grasp of the business. Document B is also good, and Document A invents an arbitrary calendar date (October 2027), making the margin slight."
+}

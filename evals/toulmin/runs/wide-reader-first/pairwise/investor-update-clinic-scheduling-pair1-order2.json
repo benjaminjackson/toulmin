@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B gives me more of what I need after two missed updates. It says the chain was about 13% of revenue, shows that new sales covered that loss, and promises a decision on raising money or cutting spending while there is still runway. A covers the same facts but is a bit vaguer about what happens to runway and spending."
+}

@@ -1,0 +1,29 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-26-39Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Q3 update",
+      "why": "The brief asks for a quarterly update, but it never states that the current quarter is Q3."
+    },
+    {
+      "quote": "Customers added: 9. Customers lost: 4, including the chain.",
+      "why": "The brief says they added 9 clinics and lost 4, and it counts the single 12-clinic chain customer as 'One of the 4', meaning the numbers may conflate clinics and customer accounts, or the writer invented that all 9 added clinics are separate customers."
+    },
+    {
+      "quote": "New customers made up the full $5,500 we lost, plus whatever the other three lost customers were paying.",
+      "why": "The brief does not state whether the revenue replacement came solely from the 9 newly added clinics or also from price increases/expansion among existing customers."
+    },
+    {
+      "quote": "Records systems are adding their own schedulers, and some customers, especially large chains, will take the built-in option.",
+      "why": "The brief only states that one customer moved to the scheduler built into their electronic records system, not that records systems in general are newly adding schedulers or that there is a broader trend among large chains."
+    },
+    {
+      "quote": "That means a clinic doesn't have to switch schedulers to get the lower no-show rate, including clinics like the one we just lost.",
+      "why": "The brief only says they will sell the reminder feature on its own, without stating whether it integrates with or works alongside third-party schedulers."
+    }
+  ],
+  "invented_count": 5
+}

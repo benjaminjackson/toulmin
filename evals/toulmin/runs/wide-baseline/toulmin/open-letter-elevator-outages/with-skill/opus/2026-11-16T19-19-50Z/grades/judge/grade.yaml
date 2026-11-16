@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:20:39.385625+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 430
+  tags: []
+  notes: extracted 430 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 6
+    objections: 8
+    fit: 9
+  details:
+    agree: Showing that two-thirds of households signed undercuts her view that this
+      is a few loud people, and the four asks are concrete and cheap enough that she
+      could agree to most of them, though her belief that the outages were handled
+      well is only answered indirectly, through the repeated June promise.
+    honest: 'The figures are accurate, but the letter adds things the brief doesn''t
+      support: that management''s answer was only verbal, that there is "no explanation"
+      and "no plan", and an implied month of November.'
+    works_the_facts: 'It turns the raw numbers into stronger true forms: about one
+      day in eight out of service, and 74 of 112 households as two out of every three,
+      and it points out that the same promise has been repeated since June.'
+    right_comparison: 'It describes what happens if nothing changes as the brief''s
+      facts show it: the same ''on order'' promise as in June, with elderly and less
+      mobile residents going into winter, and a 12-day August outage as evidence of
+      the pattern.'
+    qualification: The 14-day written deadline and the meeting date can be checked,
+      but the letter never says what the association will do if they are missed.
+    objections: It deals with the passing inspection head-on (a certificate says nothing
+      about how often the elevator runs) and answers the $400,000 objection by asking
+      for the engineering assessment, without raising objections the brief already
+      settles.
+    fit: It is a proper open letter with placeholders for the names and dates, about
+      420 words, and suitable both for the lobby and for the TV station.

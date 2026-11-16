@@ -1,0 +1,33 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-18-37Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I don't have to check on that shift",
+      "why": "The brief states that Tomás runs the shift on his own, not whether the manager checks on the shift."
+    },
+    {
+      "quote": "he has gone beyond the work he was hired to do.",
+      "why": "The brief does not state what duties Tomás was originally hired to perform."
+    },
+    {
+      "quote": "He learned our herd management software on his own initiative",
+      "why": "The brief says he learned the software, not that he did so on his own initiative rather than being assigned or trained to do it."
+    },
+    {
+      "quote": "he found those cases by paying attention to the data and to the animals.",
+      "why": "The brief states that he caught nine cases of mastitis early and that he uses the software to flag sick cows, not the specific combination of methods he used to find those nine cases."
+    },
+    {
+      "quote": "when he went home to Mexico",
+      "why": "The brief says his father got sick in Mexico, not that Mexico is Tomás's home."
+    },
+    {
+      "quote": "He knows this",
+      "why": "The brief states that his written English is weaker and that he is taking a night class for it, not what Tomás himself knows or thinks about his English skills."
+    }
+  ],
+  "invented_count": 6
+}

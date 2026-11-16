@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both speeches effectively address the traffic concerns head-on, but Document A explicitly invites the commission to attach conditions to improve the intersection at Alder and 4th, which gives the two hesitant commissioners a practical path to a 'yes' vote. Document A also sticks strictly to the provided facts, whereas Document B speculates slightly about the demographics on the waiting list."
+}

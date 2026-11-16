@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-27Z",
+  "without_skill_run": "2026-11-16T19-19-29Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B shows it understands a regulated plant: it says plainly that classroom records are not GMP records, and it says it would measure training time before promising to cut it, while still offering 90-day changes that don't weaken compliance. A is honest, but it is vaguer and less sure of itself, and its line 'already working to understand GMP' goes beyond the facts in the brief."
+}

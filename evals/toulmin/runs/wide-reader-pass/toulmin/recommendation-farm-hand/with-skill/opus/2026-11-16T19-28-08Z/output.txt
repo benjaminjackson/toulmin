@@ -1,0 +1,38 @@
+I've written the letter for the college's admissions committee. Most readers there will know dairy, so I kept the farm detail short and let what Tomás has done carry the letter.
+
+**Two choices you should check:**
+
+- **The five-week leave is in the letter.** The 2-missed-shifts figure is his strongest reliability fact, but it's only true if it excludes those five weeks. If the college ever heard about the leave, a letter that left it out would look like it was hiding something. Put in plainly, a family emergency reads as a reason, not a mark against him. I left out that he gave two days' notice. It doesn't help the committee judge him as a student, and the letter doesn't suggest the notice was longer.
+- **His written English is in the letter.** The committee will probably see his writing in his application anyway. If you mention the night class first, it shows he's working on it rather than letting them find the weakness alone. If you'd rather leave it out, delete the second sentence of the fourth paragraph.
+
+**Before you send it:**
+
+- Fill in the bracketed parts: date, names, farm, college and contact details.
+- The letter says Tomás is "now 22," which I worked out from him starting at 19 three years ago. Check it's right.
+- Everything else comes from what you told me. I didn't add figures, outcomes or dates.
+
+<final_document>
+[Date]
+
+Admissions Committee
+Agricultural Technology Program
+[State Technical College]
+
+Dear Members of the Admissions Committee,
+
+I am writing to recommend Tomás [Last Name] for your two-year agricultural technology program. I manage [Farm Name], a 400-cow dairy, and Tomás has worked for me for three years. He started at 19. I would trust him with any job on this farm, and I expect him to do well in your program.
+
+Tomás runs our 3 a.m. milking alone, five days a week. Nobody else is in the barn at that hour, so there is no one to check his work or cover for him. He has done this reliably for years. In three years he has missed two shifts. The only other time he was away was a five-week leave last summer, when his father became seriously ill in Mexico. He went home to be with his family, came back, and took up his shift again.
+
+The main reason I am recommending him for a technology program is this: Tomás learned our herd management software and now uses it to flag sick cows for our veterinarian. Nobody assigned him that job. He took it on. Last winter he caught nine cases of mastitis early. Early detection is where the software pays off, and it only works if someone reads the data carefully and acts on it. Tomás does. He connects what he sees in the barn with what the records show, and that is the kind of skill your program builds.
+
+His spoken English is good, and he talks easily with me, the vet and the rest of the crew. His written English is not as strong yet, and he knows it. He is taking a night class to improve it, on top of his shifts. This is how he handles any gap: he sees it and works on it without being told.
+
+Tomás has already shown he can learn technical tools and use them well with real animals. I believe your program will give him the training to do much more. I recommend him without reservation. Please contact me if I can tell you more about his work.
+
+Sincerely,
+
+[Your Name]
+Farm Manager, [Farm Name]
+[Phone] · [Email]
+</final_document>

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-29-16Z",
+  "without_skill_run": "2026-11-16T19-20-01Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A deals with the late 2023 report right at the start and makes specific, checkable reporting promises: quarterly reports, firm deadlines and notice before any report runs late. That is exactly what I need after chasing their last report for four months. Document B still has bracketed placeholders, including the very fix it claims for late reporting, so it reads as unfinished, and its 'we will submit every report on time' promise has nothing behind it."
+}

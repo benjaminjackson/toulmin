@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-32Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B states the price rise from $149 plainly, says it missed the 10th three times without softening it, and puts the $800 saving next to the fee ('about four months') in a way I can compare with what my cousin charges. Document A sounds warmer and knows salons well, but it adds claims the facts don't support ('no add-on fees', 'on time') and calls missing the 10th three times 'almost always', which makes me trust it less."
+}

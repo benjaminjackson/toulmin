@@ -1,0 +1,41 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-26-39Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The storms are coming, the supply boat stops running in December, and the light can't go out.",
+      "why": "The brief only says you see a lighthouse keeper's family through a winter, and does not mention storms, a supply boat stopping in December, or a rule that the light cannot go out."
+    },
+    {
+      "quote": "That means about 60 strangers, friends and repeat players telling me what dragged, what broke and what made them lean over the table.",
+      "why": "The brief only says the playtests involved about 60 different people, without stating whether they were strangers or friends or what feedback they gave."
+    },
+    {
+      "quote": "But those 23 people sat down with a prototype, played it through, and came away rating it that highly.",
+      "why": "The brief states that 23 people rated the game on a ratings site, not that all 23 of them sat down with a prototype and played it all the way through."
+    },
+    {
+      "quote": "The remaining ~$5,450 covers platform and payment fees and a buffer for the unexpected.",
+      "why": "The brief does not explain what the money remaining after printing and shipping is designated for."
+    },
+    {
+      "quote": "Nothing depends on a second round of funding or on stretch goals.",
+      "why": "The brief does not state whether the campaign has stretch goals or depends on a second round of funding."
+    },
+    {
+      "quote": "A production update on the first of every month, from the end of the campaign until your game arrives. This goes out on time even when there's nothing new to report.",
+      "why": "The brief says nothing about the creator's schedule or policy for sending production updates."
+    },
+    {
+      "quote": "If something slips, I'll tell you as soon as I know, along with what caused it and the new date.",
+      "why": "The brief does not mention any commitment regarding how delays will be communicated."
+    },
+    {
+      "quote": "If production runs late, I'll publish a full breakdown of where the money has gone.",
+      "why": "The brief does not state that the creator will publish a financial breakdown if production is delayed."
+    }
+  ],
+  "invented_count": 8
+}

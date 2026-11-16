@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-18-00Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A is restrained and specific, and it accepts the passing inspection without arguing about it, so it's hard for me to write the association off as a few loud people. B adds points the facts don't establish, such as 'five months later,' 'no explanation for the delay' and fire-emergency scenarios, which makes it read as more of an attack and easier to push back on."
+}

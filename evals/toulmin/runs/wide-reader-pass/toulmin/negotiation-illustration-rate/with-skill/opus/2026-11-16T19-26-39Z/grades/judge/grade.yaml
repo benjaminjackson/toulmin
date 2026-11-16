@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:27:23.645021+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 169
+  tags: []
+  notes: extracted 169 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 6
+    honest: 10
+    works_the_facts: 7
+    right_comparison: 6
+    objections: 5
+    fit: 9
+  details:
+    agree: The four flat years, the sales record and the $12,500 outside fee make
+      a credible case to an editor who likes the work, but a $2,500 jump over a fixed
+      $9,000 budget, with an $8,000 illustrator available, more likely draws a counteroffer
+      than full acceptance.
+    honest: The email leaves out the unsupported claim that every other publisher
+      pays at least $12,000 and states only the facts in the brief at their true strength.
+    works_the_facts: It works out $2,250 a month and places $11,500 below the $12,500
+      outside fee and low in the agent's range, but it doesn't spell out that six
+      books at the same fee means no raise in four years, and it doesn't put a number
+      on the sales record.
+    right_comparison: It compares the fee fairly with the market and with what another
+      publisher paid, but the editor's real alternative is a cheaper, unproven illustrator,
+      and the email doesn't set the illustrator's proven sales against that untested
+      option.
+    qualification: The email is a direct request with an offer to talk, so no conditional
+      hedge is needed.
+    objections: The track record partly answers the 'someone cheaper could do it'
+      objection, but the email never deals with the fixed $9,000 budget or offers
+      the editor a way to justify the overage, such as tying it to sales.
+    fit: It's a short, polite, well-organized email of about 190 words, comfortably
+      under the 250-word limit.

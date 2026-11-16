@@ -1,0 +1,30 @@
+Subject: Quarterly update: MRR flat at $41k after losing our largest customer; reminders go on sale next month
+
+Hi all,
+
+First, an apology: this is the first update you've had from me in six months. That was a mistake. From now on you'll get one every quarter.
+
+**The numbers**
+- Monthly recurring revenue: $41,000, the same as three months ago
+- Clinics: 9 added, 4 lost (net +5)
+- Cash: $480,000. Net burn: about $44,000 a month, which is roughly 11 months of runway
+- Team: 6
+
+**The bad news**
+One of the four clinics we lost was our largest customer: a 12-clinic chain paying $5,500 a month, about 13% of our revenue. They moved to the scheduler built into their electronic records system. This is the main competitive risk to our business. A records vendor bundles in a scheduler that's good enough, and a chain moves all its clinics onto it. I expect we'll run into it again, especially with larger multi-site customers.
+
+**What held up**
+The flat number hides growth underneath. Leaving out the chain, the rest of the business grew from $35,500 to $41,000 this quarter, about 15%. New clinics more than made up for the other three we lost.
+
+The reminders also work. Clinics using our automatic text reminders now have a 7% no-show rate. Before they started using them it was 13%, so nearly half of their missed appointments have gone away. Every no-show is an empty slot with a therapist still being paid, so this is the clearest value we deliver.
+
+**What's next**
+Next month we start selling the reminders on their own for $150 a month. This product goes straight at the problem above. Until now we had nothing to offer clinics that stay with the scheduler in their records system. Two numbers to watch: about 37 reminder subscriptions would replace the revenue we lost with the chain, and about 290 would cover our current burn. I'll report the first sales numbers in the next update.
+
+At the current burn rate our cash lasts until around October 2027. The next update will also set out our plan for funding beyond that.
+
+**How you can help**
+If you know owners or operations leads at physical therapy clinics, especially clinics using the scheduler in their records system, an introduction would help most right now.
+
+Thanks for your patience,
+[Your name]

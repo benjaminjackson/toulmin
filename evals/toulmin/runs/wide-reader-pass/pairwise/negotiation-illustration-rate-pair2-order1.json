@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-27-23Z",
+  "without_skill_run": "2026-11-16T19-18-33Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both are honest and leave out the unsupported claim that every other publisher pays at least $12,000. B is a bit warmer about our four years together and names the specific book and reading list, which makes the $11,500 ask easier for me to agree to. A's line about continuing to give our books 'that time and care' reads slightly like a veiled warning."
+}

@@ -1,0 +1,52 @@
+grader: judge
+graded: '2026-11-16T19:29:22.607777+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 436
+  tags: []
+  notes: extracted 436 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 7
+    objections: 8
+    fit: 9
+  details:
+    agree: The 74-household, two-in-three figure undercuts her view that this is a
+      few loud people, and the measured tone and low-cost first two asks give her
+      an easy way to say yes, though she may still feel the outages were handled fine.
+    honest: Every number traces to the brief, but 'some of them cannot get down to
+      the street at all' and the specific claim 'It is now November' go slightly beyond
+      what the brief states.
+    works_the_facts: It turns the counts into 'one day in every eight' and 'two out
+      of every three apartments', but it never says that the June estimate of six
+      to eight weeks ran out in August, which would be the sharpest fact against management.
+    right_comparison: It describes doing nothing as another twelve-day outage landing
+      on the same frail residents, and it shows the pattern of repeated estimates,
+      though it gives no outage trend beyond that.
+    qualification: The 'If that is so, please show us why' hedge points to a checkable
+      engineering assessment, and there is a two-week reply deadline, but the letter
+      never says what happens if management misses it.
+    objections: It deals with the passing certificate and the $400,000 cost before
+      she can raise them, and it does not bring up objections the facts already answer.
+    fit: It is a proper open letter of roughly 430 words, fit to post in the lobby,
+      with clear numbered requests and a signature line.

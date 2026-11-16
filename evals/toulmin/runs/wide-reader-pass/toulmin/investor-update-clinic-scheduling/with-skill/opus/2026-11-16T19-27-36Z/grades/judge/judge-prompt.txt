@@ -1,0 +1,73 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+The lead angel investor, who put in $250,000 and has the right to join the next round. The founder skipped the last two quarterly updates, and the investor said so in a short, cold email last month. The investor decides whether to keep backing the company and taking the founder's calls.
+</reader>
+
+<brief>
+I need to send a quarterly update to our investors. I'm the founder of a scheduling app for physical therapy clinics. We have 6 people.
+
+Numbers for the quarter:
+- Monthly recurring revenue is $41,000, the same as three months ago.
+- We added 9 clinics and lost 4. One of the 4 was our largest customer, a 12-clinic chain that paid $5,500 a month. They moved to the scheduler built into their electronic records system.
+- We have $480,000 in the bank and lose about $44,000 a month.
+- Clinics that use our automatic text reminders have a no-show rate of 7%, against 13% before they started.
+- I didn't send updates for the last two quarters.
+- Next month we start selling the reminder feature on its own for $150 a month.
+
+Under 500 words. It goes to 11 investors.
+</brief>
+
+
+
+<document>
+Subject: Q update: flat MRR after losing our largest customer, 11 months of runway, reminders launching standalone next month
+
+Hi all,
+
+I didn't send an update for the last two quarters, and I should have. You'll get one every quarter from now on, including the bad quarters.
+
+**The short version**
+- MRR: $41,000, the same as three months ago
+- Cash: $480,000. Net burn is about $44,000/month, so we have about 11 months of runway.
+- Team: 6
+
+**What happened**
+We signed 9 new clinics and lost 4 customers. One of the 4 was our largest customer, a 12-clinic chain paying $5,500/month. They moved to the scheduler that comes with their electronic records system.
+
+Without that chain, the rest of the business grew from $35,500 to $41,000 in MRR, about 15% in the quarter. New sales are working. But a single customer was big enough to wipe out a quarter of growth, and that's a concentration risk I should have flagged sooner.
+
+**The bigger risk**
+The chain didn't leave because our product got worse. They left because their records system now includes a scheduler, and one less vendor was worth more to them than a better tool. Other clinics on records systems with built-in schedulers can make the same choice. I think this is the main threat to our current product, and I'd rather you hear it from me.
+
+**What we're doing about it**
+Our strongest result has nothing to do with the calendar. Clinics using our automatic text reminders have a 7% no-show rate, down from 13% before they started. That's close to half the missed appointments gone, and every missed appointment is revenue the clinic loses.
+
+So next month we start selling reminders on their own for $150/month. That lets us sell to clinics that schedule inside their records system, like the chain we just lost, instead of competing with a tool they get bundled in.
+
+**What I'll report next quarter**
+- How many clinics bought reminders on their own, and how many of them came from clinics we couldn't sell the full scheduler to
+- MRR and runway, measured the same way as above
+- Whether the standalone results change our plan for the next 11 months
+
+**How you can help**
+If you know owners of physical therapy clinics or chains, especially ones using their records system's scheduler, an introduction would help. We'll get them a reminders trial in front of them as soon as the product launches.
+
+Thanks for your patience over the last six months. Reply with any questions. I'm happy to get on a call with anyone who wants to go through the numbers.
+
+[Your name]
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

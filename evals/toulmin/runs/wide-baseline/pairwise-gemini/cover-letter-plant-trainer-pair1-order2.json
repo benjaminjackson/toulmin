@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-17-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document B includes fabricated details not supported by the brief, specifically claiming that over 1,200 students have gone through the lab safety program since 2019 (whereas the brief only gives the applicant's personal student count of ~140 per year). Document A stays completely faithful to the provided facts while smartly reframing the applicant's naive request to 'cut training time in half' into a realistic, GMP-friendly goal."
+}

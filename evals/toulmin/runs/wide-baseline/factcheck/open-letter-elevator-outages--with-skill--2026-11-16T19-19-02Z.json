@@ -1,0 +1,17 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-19-02Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "roughly one day in every eight",
+      "why": "The brief does not state the exact date or month the letter is being written (only that it is after a September inspection), so the total number of days elapsed in the year cannot be known to calculate this ratio."
+    },
+    {
+      "quote": "so far you have only given us the conclusion.",
+      "why": "The brief states management's claim that a second elevator cannot be done in the building, but does not state whether management has shared any reasons or assessments behind that claim."
+    }
+  ],
+  "invented_count": 2
+}

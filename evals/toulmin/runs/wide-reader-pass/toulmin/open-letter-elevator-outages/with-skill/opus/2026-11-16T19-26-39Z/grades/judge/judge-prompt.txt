@@ -1,0 +1,74 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+The regional manager of the property management company, who will read the letter and decide what to do about the elevator. She believes the company has handled the outages well and that the tenants' association is a few loud people.
+</reader>
+
+<brief>
+I need help with an open letter from our tenants' association to our property management company. We plan to post it in the lobby and send it to the local TV station. I'm the association's secretary.
+
+Facts:
+- Our building has 9 stories, 112 apartments and one elevator.
+- The elevator was out of service on 41 days this year, including one stretch of 12 days in August.
+- 23 of our residents are over 75, and 6 use wheelchairs or walkers.
+- The management company says a new controller part is on order and should arrive in 6 to 8 weeks. They said the same thing in June.
+- The city inspected the elevator in September and gave it a passing certificate.
+- 74 households signed our petition asking for a second elevator. Management says that would cost about $400,000 and can't be done in this building.
+
+About 400 words.
+</brief>
+
+
+
+<document>
+**An Open Letter to [Management Company]**
+**From the [Building Name] Tenants' Association**
+
+Our building has nine stories, 112 apartments and one elevator. This year, that elevator has been out of service on 41 days. That is more than one day in every eight.
+
+We are asking for a firm repair date, a plan for outages, and a straight answer on our petition. We ask for a written reply and a meeting within 30 days.
+
+**Who this affects**
+
+Twenty-three of our neighbors are over 75. Six use wheelchairs or walkers. For them, a day without the elevator can mean a day without getting to the doctor, the pharmacy or the grocery store. In August, the elevator was out for 12 days in a row.
+
+**What we have been told**
+
+You have told us that a new controller part is on order and should arrive in six to eight weeks. You told us the same thing in June.
+
+We know the city inspected the elevator in September and gave it a passing certificate. We are glad it is safe when it runs. But a certificate does not tell anyone how often it runs. Our problem is not safety. Our problem is that the elevator is too often not there.
+
+**What we are asking**
+
+1. **A firm date for the repair.** Please share the order confirmation and the supplier's delivery date for the controller part. Tell us what you will do if that date is missed.
+
+2. **A plan for the next outage.** Please post notice in the lobby of every outage and how long it is expected to last. Please give residents who cannot use the stairs a number to call for help, and make sure someone answers it.
+
+3. **An answer on the second elevator.** Seventy-four households signed our petition asking for a second elevator. You have told us it would cost about $400,000 and cannot be done in this building. Please share the assessment behind that conclusion so residents can read it for themselves. If a second elevator truly is not possible, tell us what you will do instead to keep the one we have running.
+
+**Why we are writing publicly**
+
+We would rather solve this with you than about you. But a promise made in June has not been kept, and our residents deserve to know where things stand. If nothing changes, the next outage will find us exactly where we were in August.
+
+We look forward to your reply and to meeting with you.
+
+Sincerely,
+
+The [Building Name] Tenants' Association
+[Your Name], Secretary
+[Contact email or phone]
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

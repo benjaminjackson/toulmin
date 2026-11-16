@@ -1,0 +1,17 @@
+{
+  "task": "sales-salon-bookkeeping",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-19-18Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "including clients who'd been with me for years.",
+      "why": "The brief mentions existing clients, but does not state that any clients have been with the bookkeeper for years."
+    },
+    {
+      "quote": "Those are my days off",
+      "why": "The brief only says the bookkeeper does not answer the phone on Sundays or Mondays, not that those are days off from work altogether."
+    }
+  ],
+  "invented_count": 2
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-48Z",
+  "without_skill_run": "2026-11-16T19-19-25Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who has been burned by an unfulfilled campaign before, Document B completely won me over by laying out the exact math of the factory quote, shipping, and buffer rather than just saying 'costs are worked out' like Document A. I also really appreciated the creator's self-awareness about being a first-timer and not trying to hype up 23 BGG ratings as more than they are."
+}

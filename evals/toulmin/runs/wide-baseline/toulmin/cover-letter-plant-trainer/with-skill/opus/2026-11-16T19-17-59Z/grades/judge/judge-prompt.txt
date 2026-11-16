@@ -1,0 +1,64 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+The HR manager at a pharmaceutical manufacturing plant who is screening applicants for a training coordinator job. She has seen many teachers apply for corporate training roles and assumes most of them don't know how a regulated plant works. She decides who gets a phone screen.
+</reader>
+
+<brief>
+Help me write a cover letter. I've taught high school chemistry for 9 years and I'm applying to be a training coordinator at a pharmaceutical manufacturing plant about 30 minutes from me.
+
+About me:
+- I teach about 140 students a year across five classes.
+- I wrote our school's lab safety program in 2019. Since then we've had no injuries in our labs that needed more than first aid.
+- Our AP Chemistry pass rate went from 41% to 58% over the four years I've taught the course.
+- Every year I train our new science teachers on lab procedures, about 12 hours each. There have been two a year on average.
+- I've never worked in a regulated industry. The job posting asks for experience with GMP training records, which I don't have.
+- I use Google Classroom. The plant uses a learning management system I haven't used.
+
+I want the letter to say I can cut their new-hire training time in half. One page.
+</brief>
+
+
+
+<document>
+[Your Name]
+[Address] · [Phone] · [Email]
+
+[Date]
+
+[Hiring Manager's Name]
+[Company Name]
+[Plant Address]
+
+Dear [Hiring Manager's Name],
+
+I'm applying for the Training Coordinator position at [Company Name]. For nine years I've taught high school chemistry. In practice that means teaching people with no background how to follow technical procedures exactly and safely, and then checking that they can. I'd like to do that work on your production floor.
+
+My clearest evidence is in safety. In 2019 I wrote our school's lab safety program. It sets the procedures, the training and the checks for every student who works in our labs. In the seven years since, we have not had a single lab injury that needed more than first aid, with more than 1,200 students handling acids, open flames and glassware. A program like that works only if the procedure is clear, the training is the same for everyone, and nobody is allowed to skip a step. I understand that GMP is built on the same discipline.
+
+I also train adults. Every year I lead lab-procedure training for our new science teachers, about 12 hours each, for two new teachers in a typical year. They arrive as experts in their subject and leave ready to run a safe lab. I also know how to tell whether training has worked. Over the four years I've taught AP Chemistry, our pass rate rose from 41% to 58%, so about 40% more students are passing a test our school doesn't write or grade.
+
+I'll be direct about what I'd need to learn. I haven't worked in a regulated industry, and I haven't kept GMP training records or used your learning management system. I run my classes in Google Classroom and learn new systems quickly, but I won't claim experience I don't have. What I can offer is a habit of documenting procedures so that anyone can follow them, and a record of training people until they get it right.
+
+My commitment for my first 90 days: I will learn your SOPs and documentation requirements, map your new-hire training from day one to qualification, and bring you a written proposal for getting people productive faster without removing any required step.
+
+The plant is about 30 minutes from me, and I'm ready to commit to it. Thank you for your consideration. I'd welcome the chance to talk.
+
+Sincerely,
+
+[Your Name]
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

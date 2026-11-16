@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-29-16Z",
+  "without_skill_run": "2026-11-16T19-20-01Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A is much better structured for a grant application and wisely prompts the applicant to fill in critical missing information, such as who is responsible for reporting and how ongoing vehicle expenses will be covered, considering they are draining their reserves to $11,000. Document B invents specific reporting protocols and a 2027 deadline not in the facts, and awkwardly opens the narrative with an apology."
+}

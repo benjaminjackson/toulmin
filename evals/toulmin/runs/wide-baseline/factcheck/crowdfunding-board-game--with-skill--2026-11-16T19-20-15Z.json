@@ -1,0 +1,37 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-20-15Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The supply boat won't come again until spring.",
+      "why": "The brief only states that the game is about seeing a lighthouse keeper's family through a winter, without mentioning a supply boat."
+    },
+    {
+      "quote": "That's more than two games per person, because people who played it asked to play again.",
+      "why": "The brief gives the number of playtest sessions and players, which doesn't even prove an average of more than two games per person since a game holds up to 4 players, and it gives no reason why people played multiple times."
+    },
+    {
+      "quote": "when people play it, they come back.",
+      "why": "The brief does not state that playtesters returned on their own initiative or asked to play again."
+    },
+    {
+      "quote": "The rest covers platform and payment fees and leaves room for surprises.",
+      "why": "The brief does not state how the remaining money between the $28,000 goal and the printing and shipping costs will be allocated."
+    },
+    {
+      "quote": "This campaign doesn't pay my salary, because I already have one. Every dollar goes to the game.",
+      "why": "The brief mentions the creator works full time as a land surveyor, but does not state whether they are taking any pay from the campaign funds."
+    },
+    {
+      "quote": "And I'll post an update every month, from the day the campaign closes until the game is at your door. If anything slips, you'll hear it from me first.",
+      "why": "The brief makes no mention of an update schedule or a communication plan after the campaign closes."
+    },
+    {
+      "quote": "If we don't, there's no print run, and this winter stays on my kitchen table.",
+      "why": "The brief does not say what the creator will do if the crowdfunding goal is not met, nor does it mention a kitchen table."
+    }
+  ],
+  "invented_count": 7
+}

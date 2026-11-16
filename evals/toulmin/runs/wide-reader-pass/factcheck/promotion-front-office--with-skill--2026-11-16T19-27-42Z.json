@@ -1,0 +1,13 @@
+{
+  "task": "promotion-front-office",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-27-42Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The two biggest drivers of front desk payroll are how many people we hire and how long it takes to train them",
+      "why": "The brief does not say what the biggest drivers of front desk payroll are, and regular wages and staffing levels rather than turnover and training shifts typically make up the bulk of a payroll budget."
+    }
+  ],
+  "invented_count": 1
+}

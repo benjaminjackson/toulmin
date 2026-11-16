@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:19:30.242362+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 487
+  tags: []
+  notes: extracted 487 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 8
+    qualification: 6
+    objections: 6
+    fit: 9
+  details:
+    agree: Marisol gets a clear, honest case, an owned apology for the late report
+      and a measurable target, but she may still hold back because nothing explains
+      how running costs will be paid once reserves drop to $11,000.
+    honest: It drops the director's unsupported 'double' claim and uses the true summer
+      figure of 18,000 to 27,000 pounds, though 'food grown a few miles away' and
+      'closes the biggest gap' add detail and emphasis the brief doesn't support.
+    works_the_facts: It works out one pound in six, the three-month baseline of 18,000
+      pounds, the 50% summer increase and the share of reserves used, and it picks
+      the summer window as the most favourable true framing, but it never states the
+      smaller annual effect.
+    right_comparison: 'The no-van case is described accurately: offers are turned
+      down again and fresh food stays at about 6,000 pounds a month, with no invented
+      trend.'
+    qualification: The 9,000-pound target and the first-summer report can be checked,
+      but there is no calendar date and the only consequence of missing the target
+      is an explanation, not a concrete change.
+    objections: 'It meets the late-report concern directly with board-tracked deadlines
+      and an interim report, but leaves the obvious questions open: who pays for fuel,
+      insurance and upkeep from thin reserves, and what happens if the four volunteer
+      drivers drop off.'
+    fit: It is a narrative of about 485 words, under the 500-word limit, with clear
+      headings suited to a grant application.

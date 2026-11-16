@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-28-12Z",
+  "without_skill_run": "2026-11-16T19-19-20Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both speeches deal honestly with the traffic issue up front. B is more likely to persuade a room of opposed neighbours because it makes the three-year wait concrete, and its point that people usually want affordable housing somewhere else, while the speaker asks for it on their own road, lands hard. Some of B's details aren't in the brief, such as who the tenants would be and driving through the intersection 'every day', but they don't contradict the brief's facts, so they only slightly weaken its edge over A."
+}

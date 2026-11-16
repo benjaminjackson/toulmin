@@ -1,0 +1,51 @@
+grader: judge
+graded: '2026-11-16T19:28:29.501521+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 192
+  tags: []
+  notes: extracted 192 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 5
+    objections: 3
+    fit: 9
+  details:
+    agree: The editor likes the illustrator, and the sales record and $12,500 comparison
+      are persuasive, but nothing gives the editor a reason to go $2,500 over a $9,000
+      budget when a newer illustrator would do the book for $8,000.
+    honest: The draft rightly drops the unsupported claim that every other publisher
+      pays at least $12,000, though 'Other publishers pay more' still generalizes
+      slightly from one publisher and the agent's range.
+    works_the_facts: It correctly places $11,500 near the bottom of the agent's range
+      and below the $12,500 paid elsewhere, but it never works out the four years
+      at the same fee, the monthly rate ($2,250 over four months) or the sales value
+      of the 20,000-copy books.
+    right_comparison: It compares the fee with other publishers and shows the flat
+      fee against rising sales, but it never compares the illustrator's proven record
+      with the editor's real alternative, an untested cheaper illustrator.
+    qualification: The request is direct and needs no conditional hedge.
+    objections: It doesn't address the editor's two main objections, the fixed $9,000
+      budget and the $8,000 newcomer, and it offers no middle ground beyond a phone
+      call.
+    fit: It's a polite, clearly structured email of about 200 words, within the 250-word
+      limit.

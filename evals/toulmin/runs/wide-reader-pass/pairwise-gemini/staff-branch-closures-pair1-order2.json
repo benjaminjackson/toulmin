@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A honestly acknowledges that many of us will miss our branches and our regulars and that the new rotating hours will be hard, without trying to spin a move to a call center as a favor to us. Document B feels tone-deaf by claiming 'I want you to hear this from me first' after two weeks of rumours, insisting 'nobody is losing their job' when our teller jobs are gone, and trying to sell this as the right move for us."
+}

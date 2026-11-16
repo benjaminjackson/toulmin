@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:29:16.070829+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 398
+  tags: []
+  notes: extracted 398 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 6
+    objections: 6
+    fit: 9
+  details:
+    agree: The direct apology, a dated commitment for the next update, and the promise
+      of a decision rather than a list of options would likely bring a cold lead investor
+      back, though they may still doubt that a $150 product can matter against $44,000
+      a month of burn.
+    honest: The derived figures (13% of revenue, about 11 months of runway, 37 customers
+      to replace the chain, almost half of no-shows gone) all hold, but the target
+      of 20 reminder customers by March and the February 15 date are new numbers the
+      brief never gave.
+    works_the_facts: It works out runway, the chain's share of revenue and the replacement
+      count, but it never gives the date cash runs out (around October 2027), never
+      notes that 20 customers adds only $3,000 of monthly revenue against the burn,
+      and never says what 9 clinics added against 4 lost means for revenue per clinic.
+    right_comparison: It explains that revenue is flat rather than down, but it never
+      describes the path if nothing changes, with flat revenue and cash gone in about
+      11 months, against which the reminder plan should be judged.
+    qualification: The goal of 20 by the end of March and the February decision are
+      dated and checkable, but no consequence is stated if the reminder target is
+      missed.
+    objections: It meets the complaint about missed updates head-on and admits the
+      bundling risk, but it leaves open the investor's likely objection that the reminder
+      product is too small to change the runway math.
+    fit: It is a scannable investor update of about 430 words, under the 500 limit,
+      with clear sections and a specific ask.

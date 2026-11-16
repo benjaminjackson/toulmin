@@ -1,0 +1,37 @@
+{
+  "task": "promotion-front-office",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-19-17Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "and the desk has kept running without a gap.",
+      "why": "The brief states that the applicant covered the job alone for seven weeks, but does not state whether the desk ran without a gap or issue."
+    },
+    {
+      "quote": "I cut turnover sharply.",
+      "why": "The brief gives turnover numbers before and after the applicant became assistant manager, but does not state that the applicant caused the reduction in turnover."
+    },
+    {
+      "quote": "The score rose while turnover dropped and new staff got up to speed faster",
+      "why": "The brief does not state when the training was rewritten, nor does it establish that the turnover drop and faster training happened during the same 18-month period that the check-in score rose."
+    },
+    {
+      "quote": "our finance team",
+      "why": "The brief does not mention that the hotel has a finance team."
+    },
+    {
+      "quote": "our labor forecasting and scheduling tools",
+      "why": "The brief does not mention that the hotel uses labor forecasting and scheduling tools."
+    },
+    {
+      "quote": "The improvements I've already made",
+      "why": "This attributes the turnover reduction to the applicant as a fact, whereas the brief only states when the turnover dropped without stating the applicant caused it."
+    },
+    {
+      "quote": "the improvements in training and staff retention",
+      "why": "By coupling retention with training as improvements the applicant will continue, the document implies the applicant caused the improved staff retention, which the brief does not state."
+    }
+  ],
+  "invented_count": 7
+}

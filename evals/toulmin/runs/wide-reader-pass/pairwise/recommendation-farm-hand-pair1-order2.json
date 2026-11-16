@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B is more specific and more believable. It names the five-week leave openly, shows his growth from 19 to 22, and explains why catching mastitis early saved money, so it reads as more candid and persuasive. A calls the absence vaguely 'family medical leave' and is more generic. Both letters add small claims the brief doesn't support, such as B saying he returned to the 3 a.m. shift and both saying he took on the software unprompted, so B wins only narrowly."
+}

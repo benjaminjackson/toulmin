@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-27-23Z",
+  "without_skill_run": "2026-11-16T19-18-33Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document B builds the case with our shared success and market rates before stating the $11,500 number, which makes a steep increase over my $9,000 budget much easier to receive. Its tone is also warmer and more fitting for our four-year relationship than Document A, which leads abruptly with the price hike and lacks placeholders for the specific book titles."
+}

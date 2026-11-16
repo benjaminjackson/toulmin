@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-18-00Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B makes it harder to dismiss the association as a vocal minority by explicitly translating 74 out of 112 households into 'two in every three,' and it creates immediate pressure by promising to post my reply in the lobby. While Document B's closing line is slightly snippy, Document A's more collaborative tone is undermined by asking us to take on the liability of performing physical check-ins on elderly residents."
+}

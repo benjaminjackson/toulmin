@@ -1,0 +1,60 @@
+I wrote this for investors who haven't heard from you in six months and will be looking for three answers: is the company alive, why is revenue flat, and how long can it last. The email answers all three in the first few lines. It then explains the loss of the chain and argues that the reminder feature is the right response to it.
+
+<final_document>
+Subject: Quarterly update: flat revenue, a lost customer, and what we're doing about it
+
+Hi all,
+
+First, I owe you an apology. I didn't send updates for the last two quarters, and I should have, especially since this quarter's news isn't all good. From now on you'll get an update every quarter.
+
+**The numbers**
+
+- Monthly recurring revenue: $41,000, the same as three months ago
+- Customers: signed 9 new clinics, lost 4 customers
+- Cash: $480,000 in the bank
+- Burn: about $44,000 a month, which gives us roughly 11 months of runway at today's rate
+
+**Why revenue is flat**
+
+One of the 4 customers we lost was our largest: a 12-clinic chain paying $5,500 a month. They moved to the scheduler built into their electronic records system. The new clinics made up for that loss and for the other three we lost, but we didn't grow.
+
+That loss shows a real risk to our business. Records systems include a scheduler at no extra cost, and a large chain can decide that's good enough. If we compete only as a scheduler, we're exposed to more losses like this one.
+
+**What's working**
+
+Clinics that use our automatic text reminders have a no-show rate of 7%. Before they started using reminders, it was 13%. That's close to half as many missed appointments. For a physical therapy clinic, every no-show is a paid slot that goes empty, so our customers can see this result directly in their revenue.
+
+**What we're doing next**
+
+Next month we start selling the reminder feature on its own for $150 a month. Clinics no longer have to switch schedulers to get lower no-show rates. That includes clinics like the chain we just lost, which have already chosen the scheduler in their records system. Their scheduler choice stops being our problem.
+
+For scale:
+- About 37 reminder-only subscriptions would replace the revenue from the chain we lost.
+- About 293 would cover our entire current monthly burn.
+
+**What I'll report next quarter**
+
+- How many reminder-only customers we signed, and how fast we're signing them
+- Whether any of them are clinics that use a records-system scheduler
+- Updated revenue, burn and runway
+
+With about 11 months of cash, next quarter's numbers will decide our next step. That could mean pushing harder on reminders, cutting costs to extend runway, or raising money. I'll tell you plainly which way we're heading.
+
+**How you can help**
+
+If you know owners or operations leads at physical therapy clinics, especially multi-site groups, I'd be grateful for an introduction. They're the first buyers we want to reach for standalone reminders.
+
+Thank you for your patience over the last six months. I'm happy to talk with any of you one-on-one.
+
+Best,
+[Your name]
+</final_document>
+
+Some things to check before you send it:
+
+- **Runway:** 11 months is $480,000 ÷ $44,000, which comes to about 10.9 months. It assumes the $44,000 is your net monthly loss after revenue. If it's total spending before revenue, the runway figure is wrong and needs fixing.
+- **Subscription math:** 37 and 293 come from dividing $5,500 and $44,000 by $150. Both assume each standalone customer pays the full $150 a month, with no discounts.
+- **No-show numbers:** 7% and 13% compare clinics before and after they started reminders, so the email words them as that comparison. Investors may ask whether other changes played a part. It helps to know how many clinics are in that data.
+- **"How you can help":** You didn't mention an ask, so I proposed the request for introductions. Cut it or replace it with what you actually need.
+- **"New clinics made up for the losses":** This is inferred from revenue staying flat after losing $5,500 a month. If upgrades from existing customers also contributed, change that line to say so.
+- **The 9 new clinics:** I didn't say whether any are multi-site customers, because you didn't give that detail. Add it if one is notable.

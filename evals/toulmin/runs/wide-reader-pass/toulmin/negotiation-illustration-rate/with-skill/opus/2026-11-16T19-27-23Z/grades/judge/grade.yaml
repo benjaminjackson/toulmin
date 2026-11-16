@@ -1,0 +1,51 @@
+grader: judge
+graded: '2026-11-16T19:27:54.806960+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 181
+  tags: []
+  notes: extracted 181 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 5
+    right_comparison: 4
+    objections: 4
+    fit: 9
+  details:
+    agree: A warm, specific ask backed by a sales record and a market comparison could
+      move an editor who likes the illustrator, but a budget-holder who has an $8,000
+      alternative gets no reason why the gap is worth paying.
+    honest: "It rightly drops the unsupported claim that every other publisher pays\
+      \ at least $12,000 and keeps to the brief's facts, though calling $11,500 'near\
+      \ the bottom' of an $11,000\u2013$13,000 range stretches the figure a little."
+    works_the_facts: 'The facts are listed accurately but not worked: there is no
+      sense of the size of the raise, how flat the fee has been over four years, or
+      what the fee comes to per month of work, and none of it is related to sales.'
+    right_comparison: It compares the fee with another publisher and the agent's range,
+      but never with the editor's real alternative, a less proven illustrator, and
+      the record of 20,000-copy sales that the newcomer can't match.
+    qualification: This is a straightforward fee request, and it needs no hedge or
+      conditional claim.
+    objections: The resisting reader's likely objections, the fixed $9,000 budget
+      and a cheaper option, go unanswered, and the line about four months of work
+      does little to counter them.
+    fit: It's a clear, polite email of about 190 words, under the 250-word limit,
+      with a subject line and an offer to talk by phone.

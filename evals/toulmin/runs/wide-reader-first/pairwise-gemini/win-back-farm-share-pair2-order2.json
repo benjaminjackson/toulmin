@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-27Z",
+  "without_skill_run": "2026-11-16T19-18-32Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both emails apologize for the lack of credit and poor communication, which is what upset me most, and both clearly explain the $31,000 investment to prevent it from happening again. Document A wins slightly because it explicitly promises to communicate quickly and in detail if something goes wrong in the future, directly addressing my frustration that the farm went quiet."
+}

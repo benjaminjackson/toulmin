@@ -1,0 +1,17 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-28-27Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "In the seven years since, with about 140 students a year working in our labs, we have had no injury that needed more than first aid.",
+      "why": "The brief does not give the current year, so it cannot be worked out that seven years have passed since 2019, and the brief says the applicant alone teaches about 140 students a year rather than that only 140 students work in all the school's labs."
+    },
+    {
+      "quote": "I run all five of my classes through Google Classroom",
+      "why": "The brief states that the applicant uses Google Classroom and teaches five classes, but does not state that all five classes are run through Google Classroom."
+    }
+  ],
+  "invented_count": 2
+}

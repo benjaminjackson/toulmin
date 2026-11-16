@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:28:08.574267+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 305
+  tags: []
+  notes: extracted 305 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 7
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 5
+    objections: 7
+    fit: 9
+  details:
+    agree: The unsupervised 3 a.m. shift and the nine early mastitis catches give
+      a fast reader concrete reasons to rank him above the pile, though nothing sets
+      him apart in numbers from other farm-worker applicants.
+    honest: No figures are invented, but 'seriously ill' goes further than 'got sick',
+      and 'without reservation' sits awkwardly next to the 2-day notice the letter
+      leaves out.
+    works_the_facts: 'The facts are restated rather than worked: two missed shifts
+      out of roughly 780 scheduled over three years would make the reliability point
+      much stronger, and the letter never makes that calculation.'
+    right_comparison: Contrasting his on-the-job training with what the program would
+      add is a reasonable frame, but the letter never places him against the typical
+      applicant or says what his record is compared with.
+    qualification: The English caveat is named honestly and paired with the night
+      class, but the reader gets nothing to check, such as the class level, an end
+      date or progress so far.
+    objections: The letter meets the writing-skills and long-absence objections head-on,
+      but it leaves open whether he can keep up two years of coursework while working
+      a 3 a.m. shift.
+    fit: It is a properly formatted one-page letter from the farm manager with clear
+      paragraphs and contact details, as the brief asked.

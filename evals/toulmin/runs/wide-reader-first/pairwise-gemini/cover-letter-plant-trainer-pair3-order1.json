@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-28-15Z",
+  "without_skill_run": "2026-11-16T19-19-29Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A immediately addresses my main concern about teachers lacking regulatory experience without burying it, and demonstrates a realistic understanding of our plant by stating they will learn our documentation from the quality team first. Document B invents details not in the brief (claiming they are already studying GMP) and foolishly says safety depends less on written rules, which is a red flag in a GMP environment."
+}

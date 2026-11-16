@@ -1,0 +1,21 @@
+{
+  "task": "grant-refrigerated-van",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-29-19Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "For this grant, we will report every quarter rather than only at the end, and one board member will be responsible for filing each report on time.",
+      "why": "The brief does not mention that the food bank has a board, that a board member will be assigned to file reports, or that the organization will submit quarterly reports."
+    },
+    {
+      "quote": "Each report will show:\n- pounds of fresh food distributed per month, against our current 6,000;\n- pounds collected by the van, and from which sources;\n- the number of pickups made by volunteer drivers.",
+      "why": "The brief gives no details about what metrics the food bank tracks or will include in future grant reports."
+    },
+    {
+      "quote": "In the first year, we aim to accept every pound of fresh produce local farms offer us, starting with the roughly 9,000 pounds we had to refuse last summer. We will judge the van by one number: fresh pounds distributed per month, compared with our current 6,000. If we collect less than 9,000 pounds in the first summer, our end-of-summer report will say why and what we are changing.",
+      "why": "The brief states that the goal is to double the amount of fresh food handed out in the first year, not to accept every pound offered, collect at least 9,000 pounds in the first summer, or file an end-of-summer report explaining any shortfall."
+    }
+  ],
+  "invented_count": 3
+}

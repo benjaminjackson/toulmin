@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-18-45Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Going from $600 a year to nearly $2,400 is a big jump for me, especially since I can still keep my cousin doing my taxes at the end of the year, so Document A's radical honesty—even admitting the recent price hike from $149—makes me trust this person right away. Document B isn't bad, but it leaves out the price increase and adds extra claims about Sunday nights and shoeboxes that weren't in the facts."
+}

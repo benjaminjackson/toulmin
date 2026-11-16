@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document B includes all the facts clearly without mentioning the recent price increase, which makes me feel like I missed out on a deal when I'm already paying my cousin way less ($600/year). Document A also adds promises not in the brief, like letting clients know before the 10th if books are late, whereas B stays strictly honest while making it clear I don't have to fire my cousin since this helps with the monthly stuff."
+}

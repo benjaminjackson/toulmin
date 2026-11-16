@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-39Z",
+  "without_skill_run": "2026-11-16T19-18-43Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is more convincing to me as a cautious backer. It works through the per-copy costs, shows the math behind the goal, says plainly that this isn't a hit yet, and promises a monthly update. A overstates the testing ('hundreds of tables' when the brief says 140 sessions) and still has unfinished placeholders, which makes me trust a first-time creator less."
+}

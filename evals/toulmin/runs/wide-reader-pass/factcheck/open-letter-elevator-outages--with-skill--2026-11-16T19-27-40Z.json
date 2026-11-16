@@ -1,0 +1,21 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-27-40Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "This year that elevator has been out of service on 41 days, which is more than one day in every eight.",
+      "why": "The brief does not state the current date, and since September has already passed (at least 273 days into the year), 41 days is less than one day in every six and a half, or if calculated over a full 365-day year, less than one day in every eight (41/365 is 1 in 8.9)."
+    },
+    {
+      "quote": "But you have not shown us the reasons behind it",
+      "why": "The brief states that management says a second elevator cannot be done in the building, but does not say whether management provided reasons or documentation for that claim."
+    },
+    {
+      "quote": "We will post your reply in the lobby beside this letter so that every resident can read it.",
+      "why": "The brief says the association plans to post the open letter in the lobby and send it to the local TV station, but says nothing about a plan to post management's reply."
+    }
+  ],
+  "invented_count": 3
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-27-40Z",
+  "without_skill_run": "2026-11-16T19-18-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A sticks closely to the facts and makes four measured requests that I could actually agree to, so it reads less like a few loud people making demands. B adds things the facts don't support, like \"five months later\" and families carrying children up eight flights. It also stacks on monthly reporting, an independent assessment and tight deadlines, which would make me more defensive."
+}

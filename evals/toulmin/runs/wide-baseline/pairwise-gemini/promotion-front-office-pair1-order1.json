@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-17-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins me over by translating the training and turnover improvements into 56 saved training shifts—proving a grasp of labor costs despite lacking formal budget experience—and by sensibly not overclaiming credit for the post-renovation score increase. It also directly addresses the onboarding lag I'd face if I hired the outside candidate."
+}

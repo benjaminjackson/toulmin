@@ -1,0 +1,21 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-27-39Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I want to start with what my neighbors are worried about",
+      "why": "The brief does not mention the speaker's neighbors or state that they are worried about the project or traffic."
+    },
+    {
+      "quote": "I drive through that intersection. I'll be sitting in that line too.",
+      "why": "The brief states the speaker lives on Alder Road two blocks from the church, but does not state that the speaker drives through the intersection at Alder and 4th."
+    },
+    {
+      "quote": "sixty-four households that could have had a home tonight stay on that list.",
+      "why": "The brief states that the apartments would rent to households earning under 60% of the area median income, not that the tenants would come from the county housing authority's waiting list."
+    }
+  ],
+  "invented_count": 3
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-20-15Z",
+  "without_skill_run": "2026-11-16T19-19-25Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A shows the actual budget math (a $17,400 quote plus about $9 shipping per copy, and how the $28,000 goal covers the full run) and speaks directly to my worry about first-time creators with monthly updates. B stays vague about the money and still has placeholders in it, which would make me nervous."
+}

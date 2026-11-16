@@ -1,0 +1,25 @@
+{
+  "task": "grant-refrigerated-van",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-29-16Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "For this grant, I will be personally responsible for reporting, and we commit to:\n\n- a one-page report of pounds collected within 30 days of the end of each quarter;\n- a final report within 30 days of the grant's first anniversary;\n- telling your program officer before the due date if any report will be late.",
+      "why": "The brief does not mention who is responsible for reporting, a program officer, or any specific reporting schedule, page length, or deadlines."
+    },
+    {
+      "quote": "Our first-year target is to collect at least 9,000 pounds of farm produce, the amount we turned down last summer, by September 30, 2027.",
+      "why": "The brief does not give a target date of September 30, 2027, and instead asks to say the van will double the amount of fresh food handed out in the first year."
+    },
+    {
+      "quote": "We will report the pounds collected each quarter. If we fall short of the target, our report will say by how much, why, and what we are changing.",
+      "why": "The brief says nothing about quarterly reporting or what the reports will contain if the food bank falls short of a target."
+    },
+    {
+      "quote": "a refrigerated van is the only way we can accept it.",
+      "why": "The brief states the food was turned down because the food bank had no way to pick it up cold or store it, not that a refrigerated van is the only way to accept it."
+    }
+  ],
+  "invented_count": 4
+}

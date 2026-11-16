@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-19-02Z",
+  "without_skill_run": "2026-11-16T19-18-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A uses the brief's own dates to show the June estimate has already expired, and its four requests are modest and easy to check; mentioning the lobby and TV station also adds pressure I can't brush off as a few loud people. B is fairly persuasive too, but its 'five months later' claim and its call for an independent review go beyond the brief's facts and feel more open to dispute."
+}

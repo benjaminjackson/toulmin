@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-31Z",
+  "without_skill_run": "2026-11-16T19-18-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters are honest, and both add a little about him taking the software on unasked. B reads slightly stronger for a quick reader: it covers the five-week absence inside the reliability point, links his software learning to how he'll handle written English, and ends with a clear summary of why he fits the program."
+}

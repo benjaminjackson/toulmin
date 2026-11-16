@@ -1,0 +1,21 @@
+{
+  "task": "staff-branch-closures",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-18-51Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The new center puts our most experienced people where members now come to us.",
+      "why": "The brief gives no information about the experience level of the Maple Street and Route 9 staff compared to other staff."
+    },
+    {
+      "quote": "Nobody knows our members better than the staff at Maple Street and Route 9, and they are exactly the people we want answering.",
+      "why": "The brief does not state how well the staff at these two branches know the members compared to staff at the other five branches."
+    },
+    {
+      "quote": "[Name/HR] will meet with each of you individually by [date] to go through the role and the schedule and answer your questions.",
+      "why": "The brief does not mention individual meetings with HR or anyone else to review the role and schedule."
+    }
+  ],
+  "invented_count": 3
+}

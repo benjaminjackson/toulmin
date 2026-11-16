@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-27-39Z",
+  "without_skill_run": "2026-11-16T19-18-43Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a wary backer, I trust A more. It does the math (572 backers, about $22,550 for printing and shipping, about $5,450 left over) and plainly admits the game isn't a proven hit yet. B's 'tested at hundreds of tables' overstates the 140 sessions, and its leftover placeholder brackets make it look unfinished."
+}

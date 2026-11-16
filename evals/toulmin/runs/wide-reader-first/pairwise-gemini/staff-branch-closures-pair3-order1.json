@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-28-21Z",
+  "without_skill_run": "2026-11-16T19-19-13Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "After two weeks of worrying about rumors, Document A respects me by putting the truth—and the fact that I still have a job—right in the subject line and first sentence. It also explicitly acknowledges that phone work is very different from counter work and lets me be the judge of whether it's right for me, without making promises about scheduling that weren't in the facts."
+}

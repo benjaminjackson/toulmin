@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-18-48Z",
+  "without_skill_run": "2026-11-16T19-18-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B gives a clearer case for success in the program: it explains concretely why catching mastitis early matters and links his data skills to the coursework. A adds claims the brief doesn't support, such as 'on his own initiative' and 'back on his full schedule.' B leaves out that he was away for five weeks, but it says nothing false."
+}

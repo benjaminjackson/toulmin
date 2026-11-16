@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-branch-closures",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-28-21Z",
+  "without_skill_run": "2026-11-16T19-19-13Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A answers our biggest fear in the subject line, says plainly that the job and hours will be different, gives a worked severance example and leaves the choice to us. It also says our experience is what members on hold need, which makes the new role feel worth considering. Document B shows more feeling about the branches we're losing, but it is vaguer and promises scheduling flexibility that isn't backed by anything concrete."
+}

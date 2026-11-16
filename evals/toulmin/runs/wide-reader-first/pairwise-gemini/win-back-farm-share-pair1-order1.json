@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A wins me over because the farmer calculates the exact loss I felt (three full weeks of food) and is completely honest that two hail nets won't protect the whole farm from future weather. Document B is also good, especially the invitation to reply at the end, which makes it a close call."
+}

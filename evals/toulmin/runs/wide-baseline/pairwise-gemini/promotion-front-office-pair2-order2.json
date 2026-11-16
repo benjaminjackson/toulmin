@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-18-52Z",
+  "without_skill_run": "2026-11-16T19-18-45Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B translates the turnover and training improvements into a concrete operational metric (dropping from 81 training shifts a year to 25), which gives me much more confidence that they can handle the $1.1M payroll budget despite their lack of formal experience. Both documents wisely pushed back against claiming sole credit for the post-renovation guest scores, which would have cost them credibility with me, while Document B also makes a smart point about the onboarding cost of an outside hire."
+}

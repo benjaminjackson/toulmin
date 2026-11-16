@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:27:37.276490+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 355
+  tags: []
+  notes: extracted 355 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 5
+    objections: 8
+    fit: 8
+  details:
+    agree: A skeptical HR manager gets the gaps up front, a concrete plan to close
+      them, and a credible safety-training parallel, so a phone screen is likely,
+      though nothing yet shows the writer knows how a regulated plant works.
+    honest: Every figure matches the brief, and the letter rightly declines the unsupported
+      'cut training in half' promise; the only stretch is the lead-in 'what the people
+      I've trained have done,' which also covers students' exam results.
+    works_the_facts: 'It derives the seven years and the 17-point gain, but leaves
+      stronger true forms unused: roughly 1,000 student-years in labs without a serious
+      injury, about 18 new teachers trained, and a 41% relative rise in the pass rate.'
+    right_comparison: The AP result is set correctly against her own first-year baseline,
+      and the new-teacher training is fairly compared to a new hire working alone,
+      but the safety record has no before-2019 comparison and the brief gives none.
+    qualification: The GMP course 'before my start date' and the 90-day review are
+      checkable dates, but the shortening plan has no number and nothing says what
+      happens if the target is missed.
+    objections: It meets the main objection head-on by naming the regulated-industry,
+      GMP-records and LMS gaps with specific fixes, and it raises no objection the
+      brief already answers.
+    fit: It is a one-page cover letter in the requested form; it leaves out the user's
+      requested halving claim, which is honest but departs from the brief.

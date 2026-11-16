@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-20-44Z",
+  "without_skill_run": "2026-11-16T19-20-01Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A answers my main worry, the four months I spent chasing their last report. It names a person responsible for reporting, puts the due dates on the board calendar and promises quarterly updates on pounds collected. B leaves its fix as a placeholder and simply promises to be on time. B's statement that the yearly increase is 12.5 percent is more open, but A's claims are still accurate."
+}

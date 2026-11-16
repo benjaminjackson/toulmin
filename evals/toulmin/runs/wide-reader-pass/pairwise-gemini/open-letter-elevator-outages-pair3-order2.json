@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-34Z",
+  "without_skill_run": "2026-11-16T19-19-08Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B makes it much harder for me to dismiss the association as just a few loud complainers by explicitly pointing out that two-thirds of the building signed the petition and by framing their first two requests as reasonable, zero-cost actions compared to the $400,000 elevator. Document A stretches the facts with emotional assumptions about August and reads more like a standard laundry list of demands, whereas Document B is tighter, fairer, and offers a clear public-relations incentive to respond."
+}

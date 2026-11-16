@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:28:21.589005+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 407
+  tags: []
+  notes: extracted 407 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 7
+    honest: 6
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 5
+    objections: 7
+    fit: 8
+  details:
+    agree: The letter makes three small, low-cost requests in a calm tone and points
+      out that two-thirds of households signed, so a manager who thinks things are
+      handled well has an easy, face-saving reason to reply rather than dismiss it.
+    honest: Most claims stay within the facts, but 'Five months later' is a time span
+      the brief never gives, and 'more than one day in every eight' is only true if
+      'this year' ends around mid-November, which the brief doesn't establish.
+    works_the_facts: 'It correctly turns 74 of 112 into ''about two-thirds'' and the
+      outages into a rate, but it misses the sharpest point the facts allow: a part
+      promised in June within 6 to 8 weeks should have arrived before the 12-day August
+      outage.'
+    right_comparison: It suggests the alternative is more outages with no plan, but
+      it doesn't spell out what happens if nothing changes, such as a repeat of August
+      for the 23 residents over 75 while the part stays 'on order'.
+    qualification: The deadline is a '[date]' placeholder and the only stated consequence
+      is posting the reply in the lobby, so nothing checkable happens if management
+      misses the deadline, and the planned TV contact is never mentioned.
+    objections: It answers the passing certificate ('safe when it runs' is not the
+      same as 'keeps running') and the 'few loud people' view (two-thirds of households),
+      and it doesn't invent objections the facts already settle.
+    fit: It is a properly addressed open letter of roughly 400 words, signed by the
+      secretary, suitable for the lobby, though it isn't framed at all for the TV
+      station audience.

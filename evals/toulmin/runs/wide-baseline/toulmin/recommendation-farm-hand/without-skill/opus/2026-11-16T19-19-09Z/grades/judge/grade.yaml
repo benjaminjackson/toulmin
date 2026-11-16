@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:19:38.860904+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 401
+  tags: []
+  notes: extracted 401 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 7
+    honest: 5
+    works_the_facts: 5
+    right_comparison: 5
+    objections: 7
+    fit: 9
+  details:
+    agree: "A busy committee member gets concrete proof of reliability and initiative\
+      \ (the 3 a.m. shift run alone, nine early mastitis cases, two missed shifts)\
+      \ and a direct answer on written English, which is enough to move a neutral\
+      \ reader toward yes, though nothing makes Tom\xE1s stand out sharply among 150\
+      \ applicants."
+    honest: 'The letter adds several things the brief doesn''t support: ''taught himself'',
+      ''not because anyone told him to'', ''for most of that time'', ''seriously ill'',
+      ''stepped straight back into his full responsibilities'' and ''on his own initiative'';
+      it also says ''without reservation'' while leaving out that he gave only two
+      days'' notice.'
+    works_the_facts: The mastitis catch is explained well in practical terms, but
+      2 missed shifts out of roughly 780 scheduled (about 99.7% attendance) is never
+      worked out, and that is the most favourable true form of the number.
+    right_comparison: "The only comparison is the implied one, that Tom\xE1s already\
+      \ does informally what the program would formalize; he isn't set against typical\
+      \ applicants or typical farm workers, which would show what sets him apart."
+    qualification: A reference letter of this kind needs no conditional hedge with
+      dates or thresholds.
+    objections: The likely doubts about written English and the five-week absence
+      are both met directly and well, though the absence explanation hides the short
+      notice rather than handling it, which would be awkward if the committee followed
+      up.
+    fit: It is a one-page letter from the farm manager with a clear structure and
+      a contact offer, exactly the form the brief asked for.

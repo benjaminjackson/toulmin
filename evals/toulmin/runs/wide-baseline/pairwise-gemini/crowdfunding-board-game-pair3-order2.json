@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-20-15Z",
+  "without_skill_run": "2026-11-16T19-19-25Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins me over by showing the exact manufacturing and shipping math, proving the creator has actually budgeted for the full print run rather than guessing. Document A gives only vague assurances and invents gameplay details and playtester demographics that aren't in the facts."
+}

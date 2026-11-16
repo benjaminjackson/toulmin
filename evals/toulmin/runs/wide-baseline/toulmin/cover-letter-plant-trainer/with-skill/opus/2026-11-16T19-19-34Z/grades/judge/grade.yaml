@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:20:25.041607+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 377
+  tags: []
+  notes: extracted 377 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 6
+    objections: 8
+    fit: 9
+  details:
+    agree: A skeptical HR manager gets procedure-based safety training, a seven-year
+      injury record and a frank account of the GMP gap, which makes a phone screen
+      plausible, though the opening still reads like a teacher's letter.
+    honest: The letter drops the unsupported claim that it can cut training time in
+      half and replaces it with a promise to map the program and propose a plan; describing
+      chemistry teaching as mostly hazardous-materials procedure is a slight stretch.
+    works_the_facts: It correctly turns 2019 into seven years, but it never gives
+      totals that would carry more weight, such as roughly 1,000 students through
+      the labs with no serious injury, about 24 hours a year of adult training, or
+      a 17-point (about 40% relative) rise in the AP pass rate.
+    right_comparison: The AP result is set against its 41% baseline, but the letter
+      doesn't compare the writer with the real alternative, a candidate who already
+      has GMP experience, beyond admitting the gap.
+    qualification: The GMP course before the start date and the written plan within
+      90 days are checkable commitments with time limits, but neither says what happens
+      if it isn't met, and "first weeks" for the LMS is vague.
+    objections: It meets the reader's main doubt, that the writer has no regulated-plant
+      or GMP-records experience, head-on with a concrete plan, and it doesn't raise
+      objections the facts already answer.
+    fit: It is a one-page cover letter in the expected form, with placeholders for
+      the details the writer will fill in.

@@ -1,0 +1,37 @@
+{
+  "task": "staff-branch-closures",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-26-39Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Our other five branches are not changing.",
+      "why": "The brief states that two of the seven branches are closing, but it does not say that the remaining five branches are not changing."
+    },
+    {
+      "quote": "In the same period, phone and chat contacts across the credit union rose 60%.",
+      "why": "The brief does not specify that the 60% increase in phone and chat contacts happened over the same three-year period as the drop in branch visits."
+    },
+    {
+      "quote": "Your manager and someone from HR will meet with each of you one-on-one by [date].",
+      "why": "The brief does not mention any one-on-one meetings with managers and HR."
+    },
+    {
+      "quote": "When members wait 9 minutes on hold, many of them give up and walk into your branch, often frustrated.",
+      "why": "The brief gives the 9-minute average hold time, but it does not say that waiting callers give up and walk into branches frustrated."
+    },
+    {
+      "quote": "Our goal is [target] minutes by [date].",
+      "why": "The brief does not state that the credit union has set a specific target wait-time goal or deadline."
+    },
+    {
+      "quote": "I'll report where we stand in an email to all staff on that date, whether we've hit it or not.",
+      "why": "The brief does not mention a plan for the COO to send a follow-up progress report email to staff."
+    },
+    {
+      "quote": "Many of you at Maple Street and Route 9 have spent years with members who come to you by name.",
+      "why": "The brief provides no information about the tenure of the staff at those two branches or their relationships with members."
+    }
+  ],
+  "invented_count": 7
+}

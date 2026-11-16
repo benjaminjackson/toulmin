@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-25Z",
+  "without_skill_run": "2026-11-16T19-19-40Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B goes further on candor: it does the math on what the reminder product has to deliver (about 37 subscriptions to replace the lost chain, about 293 to cover burn) and lays out the possible next steps now, including cost cuts and raising money. A pushes the options to next quarter. B's line that the scheduler choice 'stops being our problem' oversells a little, so the gap is small."
+}

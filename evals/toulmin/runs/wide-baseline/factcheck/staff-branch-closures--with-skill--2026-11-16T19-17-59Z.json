@@ -1,0 +1,21 @@
+{
+  "task": "staff-branch-closures",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-17-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Over the same period, phone and chat contacts across the credit union rose 60%.",
+      "why": "The brief states that phone and chat contacts went up 60%, but does not specify that this happened over the same three-year period as the branch visit decline."
+    },
+    {
+      "quote": "Your manager will meet with each of you who is affected [this week].",
+      "why": "The brief does not mention that managers will hold one-on-one meetings with affected staff."
+    },
+    {
+      "quote": "I'll also hold an open Q&A on [date] for anyone with questions, and my door is open before then.",
+      "why": "The brief does not state that the COO will hold an open Q&A session."
+    }
+  ],
+  "invented_count": 3
+}

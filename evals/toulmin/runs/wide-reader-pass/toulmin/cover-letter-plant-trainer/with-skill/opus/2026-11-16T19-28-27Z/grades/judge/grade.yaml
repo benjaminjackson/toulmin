@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:29:23.117882+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 377
+  tags: []
+  notes: extracted 377 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 6
+    objections: 8
+    fit: 9
+  details:
+    agree: A skeptical HR manager gets a candidate who names the GMP gap herself and
+      links classroom lab safety to following procedures, so a phone screen is likely,
+      though nothing shows the writer understands how a plant actually works.
+    honest: The letter correctly drops the unsupported 'cut training time in half'
+      claim and stays within the brief's facts, apart from the untested line 'training
+      that people remember and act on.'
+    works_the_facts: 'It correctly works out seven injury-free years since 2019, but
+      it leaves strong numbers unused: the 17-point (about 41% relative) gain in the
+      AP pass rate, the roughly 14 teachers trained, and the roughly 1,000 student-years
+      without a serious injury.'
+    right_comparison: It gives the pass-rate trend accurately, but it never sets the
+      writer against the real alternative, a candidate who already has GMP experience
+      but may teach less well, beyond hinting that documentation can be learned.
+    qualification: The 90-day plan to measure time-to-qualification before promising
+      anything gives a date and something the reader can check, but it has no target
+      number and no consequence if the plan falls short.
+    objections: It meets the reader's main objection head-on by admitting there is
+      no regulated-industry, GMP-records or LMS experience and offering a plan to
+      close the gap, and it raises no objection the facts already answer.
+    fit: It is a properly formatted cover letter of about one page with placeholders
+      for the details still to be filled in, as the brief asked.

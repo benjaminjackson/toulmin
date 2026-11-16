@@ -1,0 +1,52 @@
+grader: judge
+graded: '2026-11-16T19:30:20.165972+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 451
+  tags: []
+  notes: extracted 451 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 8
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 8
+    objections: 7
+    fit: 9
+  details:
+    agree: Naming the late 2023 report up front, with specific reporting commitments,
+      and setting a checkable target would likely get Marisol to recommend yes, though
+      she may still ask how the van's running costs will be paid.
+    honest: It drops the unsupported 'double' claim for an accurate 'half again' in
+      the summer months, but the September 30, 2027 date and the reporting schedule
+      are new specifics the brief did not supply.
+    works_the_facts: It works out pounds per household, the one-in-six fresh share
+      and 3,000 pounds a month in its favour, but stays quiet that across a full year
+      the gain is about 12%.
+    right_comparison: 'The alternative is shown as it is: without a van the food bank
+      keeps turning down farm offers like last summer''s, though there is no trend
+      to show whether those offers are growing.'
+    qualification: The target has a number (9,000 lb), a date and quarterly checks,
+      but the consequence of missing it is only an explanation in the report.
+    objections: It deals head-on with the late report and the drawdown of reserves,
+      but leaves out fuel, insurance and maintenance, which a funder would ask about
+      with only $11,000 left in reserve.
+    fit: It is a clearly sectioned grant narrative of about 470 words, inside the
+      500-word limit.

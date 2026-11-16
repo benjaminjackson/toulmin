@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-front-office",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-27-40Z",
+  "without_skill_run": "2026-11-16T19-18-45Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A deals with the budget gap first, gives a concrete plan, honestly admits it can't separate the score rise from the renovation (which fits my view), and argues directly against hiring from outside. Document B leans more on the team's credit for the score and leaves bracketed placeholders for its course and goals, so it reads as unfinished."
+}

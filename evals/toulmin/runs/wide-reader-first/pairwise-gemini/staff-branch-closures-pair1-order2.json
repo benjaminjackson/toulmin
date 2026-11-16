@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A explicitly acknowledges that we might not want this change and validates our exact concerns about the new hours and losing face-to-face member relationships, whereas Document B says 'I want you to hear this from me first' after we've already heard rumors for two weeks and adds an unappealing call-center wait-time target."
+}

@@ -1,0 +1,33 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-19-33Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Nobody else is on the farm at that hour.",
+      "why": "The brief says Tomás runs the 3 a.m. milking shift on his own, not that nobody else is anywhere on the farm at that hour."
+    },
+    {
+      "quote": "If something goes wrong with a cow or with the equipment, he deals with it.",
+      "why": "The brief does not mention Tomás handling equipment problems or dealing with issues that go wrong during his shift."
+    },
+    {
+      "quote": "What makes me think he belongs in your program is what he has done with technology on his own initiative.",
+      "why": "The brief states that he learned the herd management software, not that he did so on his own initiative."
+    },
+    {
+      "quote": "He learned our herd management software and now uses it, along with what he sees in the barn, to flag cows that need the vet.",
+      "why": "The brief states he uses the herd management software to flag sick cows, not that he combines it with visual observations in the barn."
+    },
+    {
+      "quote": "He is already doing the kind of data-informed herd work your program teaches, and I believe formal training will make him very good at it.",
+      "why": "The brief gives no information about the specific curriculum taught by the college's agricultural technology program."
+    },
+    {
+      "quote": "He enrolled in a night class on his own, on top of a shift that starts at 3 a.m.",
+      "why": "The brief states that he is taking a night class for his English, not that he enrolled in it on his own rather than at someone else's urging or arrangement."
+    }
+  ],
+  "invented_count": 6
+}

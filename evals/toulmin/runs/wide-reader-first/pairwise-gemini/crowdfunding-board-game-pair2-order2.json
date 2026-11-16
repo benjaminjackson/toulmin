@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-39Z",
+  "without_skill_run": "2026-11-16T19-18-43Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins my trust as a cautious backer by actually doing the math on the minimum funding goal (showing that 572 backers covers the full 1,500-copy print run plus shipping) and committing to a specific monthly update schedule. Document A includes unverified claims like 'hundreds of tables' and 'four winters,' whereas B's humility about the small sample size of BGG ratings feels much more honest for a first-time creator."
+}

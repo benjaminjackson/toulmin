@@ -1,0 +1,41 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-17-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The supply boat has stopped coming. The lamp still has to burn every night.",
+      "why": "The brief only states the game is about seeing a lighthouse keeper's family through a winter, with no mention of a supply boat or keeping the lamp burning."
+    },
+    {
+      "quote": "every choice you make costs something someone else needed.",
+      "why": "The brief does not describe the specific gameplay mechanics or the consequences of player choices."
+    },
+    {
+      "quote": "with people who had never heard of it",
+      "why": "The brief says the creator took the game to 2 conventions, not whether the people who played it there had heard of it before."
+    },
+    {
+      "quote": "Any rule that confused people or made the game drag got changed, and then we played it again.",
+      "why": "The brief gives the number of playtest sessions and testers, but does not mention what happened during playtesting or how rules were changed."
+    },
+    {
+      "quote": "What you'd be backing is three years of real players at real tables.",
+      "why": "The brief says playtesting started in 2023, without specifying the current year or that the testing spanned three years."
+    },
+    {
+      "quote": "I'll post an update every month until the game is in your hands. That includes the months when the news isn't good.",
+      "why": "The brief says nothing about the creator's schedule or commitment for posting campaign updates."
+    },
+    {
+      "quote": "If we don't reach $28,000, no one is charged, and this game doesn't get printed.",
+      "why": "The brief does not specify whether the crowdfunding campaign uses an all-or-nothing funding model or if the creator has other ways to print the game."
+    },
+    {
+      "quote": "on my kitchen table.",
+      "why": "The brief does not mention a kitchen table or where the prototype is kept."
+    }
+  ],
+  "invented_count": 8
+}

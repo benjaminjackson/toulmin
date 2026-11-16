@@ -1,0 +1,41 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-27-31Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Nobody is there to check his work or to fill in if he doesn't show up",
+      "why": "The brief says Tomás runs the 3 a.m. shift on his own, not that nobody checks his work or is available to fill in for him."
+    },
+    {
+      "quote": "his father became seriously ill in Mexico and Tomás went home for five weeks to be with him.",
+      "why": "The brief says his father got sick in Mexico and Tomás left for 5 weeks, not that the illness was serious or that Mexico is Tomás's home."
+    },
+    {
+      "quote": "When he came back, he went straight back to his shift.",
+      "why": "The brief does not mention what happened when he returned from the five-week trip."
+    },
+    {
+      "quote": "Nobody asked him to take this on. He saw that the data could help the cows and learned how to use it.",
+      "why": "The brief only says he learned the herd management software and flags sick cows, not that he did so unprompted or why he decided to learn it."
+    },
+    {
+      "quote": "Your program teaches the kind of work he has already started doing for us",
+      "why": "The brief gives no details about the curriculum of the two-year agricultural technology program."
+    },
+    {
+      "quote": "his spoken English is strong",
+      "why": "The brief only says his written English is weaker than his spoken English, not that his spoken English is strong."
+    },
+    {
+      "quote": "Given how fast he learned our software",
+      "why": "The brief states that he learned the software, not that he learned it fast."
+    },
+    {
+      "quote": "learn technical tools quickly",
+      "why": "The brief states that he learned the herd management software, not how quickly he learned it."
+    }
+  ],
+  "invented_count": 8
+}

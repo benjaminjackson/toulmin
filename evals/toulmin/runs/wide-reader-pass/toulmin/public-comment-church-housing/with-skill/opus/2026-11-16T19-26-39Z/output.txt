@@ -1,0 +1,47 @@
+I wrote this as a 3-minute statement of about 370 words. Read aloud at a steady pace, that leaves some room to spare.
+
+The commissioners are the ones who decide, so I wrote for them. Your neighbors who oppose the project will also be in the room. The main thing they'll object to is traffic, and your best answer is that you live on Alder Road. So the speech brings up traffic first, using the study's own numbers, instead of waiting for someone else to raise it. It doesn't try to make the C-to-D drop sound small. You'll be one of the drivers stuck at that light, and that's exactly why your support carries weight.
+
+A few choices to check before tonight:
+
+- **Saying you're a church member.** The commission may know already, or someone may point it out. Saying it yourself at the start keeps it from looking like you hid it.
+- **Numbers I worked out from yours.** 64 homes is about one for every six households on the waiting list (412 ÷ 64 ≈ 6.4). The plan has 72 parking spaces for 64 apartments, which leaves 8 spare.
+- **The offer on the intersection.** The line saying you'd support conditions to improve Alder and 4th is my addition. Cut it if you'd rather not offer that.
+- **A fact that would help, if you can get it.** If the county's standards say a D rating at rush hour is acceptable, add one sentence citing that. I left it out because it wasn't in what you gave me.
+- **Your name.** Put it in the bracket, and add your address if the commission asks speakers for one.
+
+Read it aloud once with a timer before you go.
+
+<final_document>
+Good evening, commissioners. My name is [your name]. I've lived on Alder Road for 19 years, two blocks from the church. I'm also a member of that church. I'm here to ask you to approve the 64 apartments on its back parking lot.
+
+I want to start with traffic, because I live on that road.
+
+The county's traffic study says this project will add 310 car trips a day on Alder. It says the intersection at Alder and 4th will drop from a C to a D at rush hour. I drive through that intersection. I'll be one of the people waiting longer at that light.
+
+I've thought about that. And I'm still standing here asking you to say yes.
+
+Here's why.
+
+The county's own housing report says we are short about 2,100 affordable homes.
+
+Right now, 412 households are on the housing authority's waiting list. The average wait is three years. Three years.
+
+Every one of these 64 apartments would rent to households earning under 60 percent of the area median income. Sixty-four homes is about one for every six households on that waiting list.
+
+And the land is already there. It's a 1.8-acre parking lot. It sits empty six days a week. Nobody has to move out for this to be built. No green space is lost. We'd be putting homes where there's now just empty asphalt.
+
+I know parking worries some of my neighbors. The plan has 72 spaces for 64 apartments. That's one space for every apartment, with 8 to spare.
+
+So here's the choice in front of you.
+
+If you say yes, 64 households get homes they can afford, on land that's sitting empty. And those of us on Alder wait a little longer at one light at rush hour.
+
+If you say no, the lot stays empty six days a week. The waiting list stays at 412. The wait stays at three years. And the county is still about 2,100 homes short.
+
+If you want to attach conditions to improve Alder and 4th, I'd support that. But please don't let one intersection's rush-hour grade stand between this county and 64 affordable homes.
+
+A slower rush hour is a cost I'm willing to share with my neighbors. A three-year wait for housing falls on those families alone.
+
+Please approve this project. Thank you.
+</final_document>

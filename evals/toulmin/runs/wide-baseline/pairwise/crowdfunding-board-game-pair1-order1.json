@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-17-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives the real budget: the $17,400 factory quote, about $5,150 for shipping and the remainder for fees and a buffer. It also works out that 572 backers fund the game, compared with 1,240 signups, which is exactly the risk check a burned backer wants. B leaves the cost breakdown as a placeholder and has gaps that would make me wary of a first-time creator."
+}

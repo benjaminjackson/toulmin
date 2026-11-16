@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-28-34Z",
+  "without_skill_run": "2026-11-16T19-19-08Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A gives me three focused, low-cost requests and points out that the first two cost nothing like $400,000. Its 'two out of every three apartments' line makes it hard for me to dismiss the association as a few loud people. B is more conciliatory, but its five requests are more diffuse, and the claim that residents were 'stuck for almost two weeks' is not supported by the facts I have."
+}

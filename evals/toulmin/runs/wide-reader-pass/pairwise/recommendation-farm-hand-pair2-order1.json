@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-27-31Z",
+  "without_skill_run": "2026-11-16T19-18-37Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters are strong and fairly honest, and both add small claims about initiative. B is a bit more persuasive: it presents the solo 3 a.m. shift as the highest trust a dairy can give, ties his mix of stockmanship and technology directly to the program, and uses the night class he takes while working full time as evidence of how he'll handle coursework."
+}

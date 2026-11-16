@@ -1,0 +1,49 @@
+I've written the narrative, but it doesn't say the van will double your fresh food in the first year. Your own figures don't support that claim, and a reviewer can check the arithmetic from what you give them.
+
+**Why doubling doesn't hold up**
+- You now hand out 6,000 lb of fresh food a month, or 72,000 lb a year. Doubling means about 72,000 more pounds in year one.
+- The food you know you could get is the 9,000 lb the farms offered last summer. That's 3,000 lb a month for three months, which raises fresh food by 50% in summer but only about 12% over the year.
+- To double, you'd need about 63,000 more pounds a year from sources you haven't named. If you have those, such as grocery rescue, a regional food bank or farms that have committed, add them and the claim becomes reasonable. Otherwise a reviewer will spot the gap and may doubt the rest of the application too.
+
+Instead, the draft promises what you can show: a 50% increase in summer fresh food from offers you already had, and quarterly reports on pounds collected. It also says you'll look for more donors. I recommend this version because you're asking a funder who already funded you once, and you want them to trust your numbers.
+
+**Things the reviewer will ask that the draft answers**
+- **The late report.** The foundation knows about it, so the draft brings it up before the dollar request and says how you'll prevent it this time. Put in a real person or role.
+- **Reserves dropping to $11,000.** The reviewer will ask who pays for insurance, fuel and maintenance. You didn't give me these costs, so there's a bracketed placeholder. Fill it in or cut the sentence. Don't leave it vague.
+- **Cold storage.** You said you turned food down because you couldn't pick it up cold *or store it*. A van solves the pickup. The draft says you'll schedule pickups for distribution days so the food doesn't need to be stored. Make sure that's actually your plan, or describe how you'll store it.
+
+**Before you submit**
+- Replace the three brackets: the food bank's name, the van's yearly cost and who pays it, and the person responsible for reports.
+- The body is about 440 words and the headings add about 25. Check whether the foundation counts headings toward the 500.
+
+<final_document>
+**Project Narrative: Refrigerated Van for [Food Bank Name]**
+
+Each month, [Food Bank Name] gives out about 38,000 pounds of food to 610 households in a town of about 9,000 people. Only 6,000 pounds of that is fresh produce, milk and eggs, which works out to just under ten pounds per household a month. The problem isn't a lack of fresh food nearby. Last summer, local farms offered us about 9,000 pounds of produce over three months. We had to turn all of it down because we had no way to pick it up cold or keep it cold.
+
+**What the van will change**
+
+A refrigerated van would let us accept fresh food when farms and donors offer it. We'd no longer be limited to whatever survives a trip in a volunteer's car. In the first year we will:
+
+- Accept the farm produce we have been turning away. Last summer's offers alone would have raised our summer fresh distribution from about 6,000 to about 9,000 pounds a month, an increase of half.
+- Schedule pickups for distribution days, so that produce, milk and eggs stay cold from the farm to the family.
+- Approach more farms and food donors now that we can say yes to them.
+
+Our first-year goal is at least 9,000 more pounds of fresh food. We will report the actual pounds collected every quarter.
+
+**Who will run it**
+
+We are run entirely by volunteers and have 23 regulars. Four of them have already committed to driving the van on a weekly schedule. The van can start running the week it arrives, and one person's absence won't stop a pickup.
+
+**Our reporting to the Foundation**
+
+In 2023 the Foundation gave us $12,000 for shelving, and we submitted our final report on that grant four months late. That shouldn't have happened, and we want to be direct about it. For this grant, [name and role] will be responsible for all reporting. We will put every due date on our board calendar when the grant agreement is signed and send a short update each quarter with pounds collected. That way, the final report will summarize figures you have already seen.
+
+**Our request and our share**
+
+The van costs $68,000. We are asking the Foundation for $50,000, and we will pay the other $18,000 from our reserves, more than a quarter of the price. That will leave us $11,000 in reserves. We expect the van's insurance, fuel and maintenance to cost about $[amount] a year, which will be paid from [source].
+
+**If we cannot buy the van**
+
+Without a van, next summer will look like last summer. We will turn down thousands of pounds of produce grown a few miles away, while 610 households receive less than ten pounds of fresh food each a month. With the Foundation's help, we can bring in the food that is already being offered to us.
+</final_document>

@@ -1,0 +1,17 @@
+{
+  "task": "negotiation-illustration-rate",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-27-24Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Over the same period, the rate I'm offered elsewhere has gone up.",
+      "why": "The brief mentions one payment of $12,500 from another publisher last year, not that the illustrator's rates from other publishers have increased over the four-year period."
+    },
+    {
+      "quote": "of the same scope",
+      "why": "The brief only states that the other publisher's book was 'of the same length,' not of the same scope (such as having the same number of full spreads)."
+    }
+  ],
+  "invented_count": 2
+}

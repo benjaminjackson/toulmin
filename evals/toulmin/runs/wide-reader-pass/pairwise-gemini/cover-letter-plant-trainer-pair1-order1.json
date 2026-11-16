@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gets a phone screen because this teacher actually understands how a regulated plant operates, specifically noting the role of the quality team, the purpose of audit records, and what it means for a new hire to be 'signed off' to work independently. Document B uses generic transitions, while Document A translates their classroom experience into our actual manufacturing reality."
+}

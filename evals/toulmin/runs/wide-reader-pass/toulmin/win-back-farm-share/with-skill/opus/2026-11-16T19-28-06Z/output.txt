@@ -1,0 +1,28 @@
+I wrote it for a member who feels shortchanged. The email starts by owning what went wrong: half-full boxes for six weeks, no credit, and one short email. Only after that does it list what's changed and ask them back. It's about 170 words, not counting the subject line.
+
+Some choices you should know about:
+
+- **Putting a number on the loss.** Six weeks at about half is roughly three weeks of food. That works out to about $74 of a $540 share. The email says "three weeks of food" rather than a dollar figure, so it doesn't read like you're tallying up a debt. Swap in the dollar amount if you'd rather be blunter.
+- **No promises about hail.** The nets cover only tomatoes and peppers, and a wide storm could reach both fields. So the email says what you built and doesn't say it can't happen again. A reader who got burned once will notice an overpromise.
+- **A line you could add if it's true:** "If we ever have to send short boxes again, I'll tell you that same week and explain what we're doing about it." It's the most direct answer to the "one short email" complaint. I left it out because it's a promise only you can make.
+- **What to fill in:** your name, and a sign-up link if you'd rather people use that than reply to the email.
+
+<final_document>
+Subject: What we changed after the hail
+
+Hi [first name],
+
+You didn't renew your share this year, and I suspect last summer is part of the reason. After the July 9 hailstorm, your box held about half the usual amount for six weeks. That's roughly three weeks of food you paid for and didn't get. We didn't offer a refund or credit, and I sent you one short email about it. You deserved better than that, and I'm sorry.
+
+Here's what we've changed:
+
+- **A second field on higher ground**, so our crops aren't all in one place.
+- **Two hail nets over our tomatoes and peppers.** The new field and the nets cost us $31,000.
+- **Pause weeks with credit.** You can now pause up to 2 weeks and get credit for them.
+
+**A full share is still $540**, the same as last year. **Sign-up closes March 15**, and 52 shares are left.
+
+If you'd like to give us another season, reply to this email and I'll get you signed up. If not, I'd still like to hear what would have made it right.
+
+[Your name]
+</final_document>

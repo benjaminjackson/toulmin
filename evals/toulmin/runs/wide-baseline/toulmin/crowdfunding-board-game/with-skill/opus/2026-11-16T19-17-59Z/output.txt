@@ -1,0 +1,57 @@
+I wrote the pitch around "proven at the table" rather than "already a proven hit." A hit means sales, and the game hasn't sold yet. A backer can check that in seconds, and the doubt would then spread to your real numbers. Those numbers are strong. 140 sessions with about 60 people, two conventions, an 8.1 rating, 1,240 signups and a factory quote in hand are more than many first campaigns can show.
+
+Your facts also give the pitch some figures:
+
+- **Backers needed:** $28,000 ÷ $49 is about **572 backers**. That's fewer than half the 1,240 people already on your launch email list, which is the strongest line in the pitch.
+- **Budget:** 572 × $9 is about $5,150 for shipping. Add the $17,400 factory quote and you're at about $22,550, which leaves about $5,450.
+
+**Check these before you publish:**
+- **The $5,450:** I said it covers crowdfunding fees, payment processing fees and a buffer. Check that against your platform's actual fee rate.
+- **Rating site:** I named BoardGameGeek because you described "the main board game ratings site." Confirm that's the one.
+- **All-or-nothing funding:** the pitch says no one is charged if the goal isn't met. That's how Kickstarter works, but check your platform.
+- **Monthly updates:** the pitch promises them. That's a commitment you'd need to keep, so remove it if you don't want to.
+- **Title and gameplay:** I left out the game's name and didn't describe any gameplay because you didn't give me any. One sentence on what players actually do on a turn would make the opening stronger.
+- **Spare copies:** the 1,500-copy run is much larger than 572 backers. Backers may ask what happens to the rest, so have an answer ready, such as conventions, stores or late pledges.
+
+<final_document>
+**The supply boat has stopped coming. The lamp still has to burn every night.**
+
+This is a cooperative board game for 1 to 4 players. You and your table see a lighthouse keeper's family through one long winter. You win together or not at all, and every choice you make costs something someone else needed.
+
+**Tested at the table**
+
+This is my first game, and it isn't published yet. So I won't tell you it's a hit. Here's what I can show you instead:
+
+- **140 playtest sessions** since 2023, with about **60 different people**
+- Played at **2 conventions** with people who had never heard of it
+- An average rating of **8.1 from 23 players** on BoardGameGeek
+- **1,240 people** signed up to hear when this campaign launched
+
+Those 140 sessions are how the rules got to where they are. Any rule that confused people or made the game drag got changed, and then we played it again. What you'd be backing is three years of real players at real tables. It isn't a first draft.
+
+**Where your $28,000 goes**
+
+I set the goal to cover the cost of making and delivering the game.
+
+- **$17,400:** a factory quote I already have for a print run of 1,500 copies
+- **About $5,150:** shipping to backers, at roughly $9 a copy
+- **About $5,450:** crowdfunding and payment fees, with the rest kept as a buffer in case costs change between now and printing
+
+At $49 with US shipping included, we need about **572 backers** to fund. 1,240 people have already asked to hear about launch day. If fewer than half of them back the game, we still make it.
+
+**Who's making it**
+
+My name is [your name], and I work full time as a land surveyor. My job is to measure carefully before anyone builds anything, and I've treated this game the same way. I didn't launch until the playtesting, the factory quote and the shipping costs were all in hand.
+
+I know backing a first-time creator is a leap. Here's what I'll do to earn it: I'll post an update every month until the game is in your hands. That includes the months when the news isn't good. You'll know where your copy is and what's happening with it.
+
+**If we don't fund**
+
+If we don't reach $28,000, no one is charged, and this game doesn't get printed. The 140 sessions, the conventions and the 1,240 people waiting would all end at a prototype on my kitchen table.
+
+**If we do**
+
+You get a finished copy of a game that's been played 140 times by 60 people before it reached you. It's a winter you get through together.
+
+**Pledge $49, US shipping included, and help the family make it to spring.**
+</final_document>

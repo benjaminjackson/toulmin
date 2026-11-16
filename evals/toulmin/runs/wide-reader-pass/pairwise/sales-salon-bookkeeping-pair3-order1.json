@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-28-15Z",
+  "without_skill_run": "2026-11-16T19-19-18Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B sounds more like it understands my salon. It mentions booth rent, tips and commission splits, and guesses that Sundays and Mondays are my days off too. It's also open about the price going up for everyone, which helps me trust a $199 monthly fee that is much more than my cousin's $600 a year. A is more careful about promising lower accountant bills, but neither one gives me a strong reason to leave my cousin, so B only edges ahead."
+}

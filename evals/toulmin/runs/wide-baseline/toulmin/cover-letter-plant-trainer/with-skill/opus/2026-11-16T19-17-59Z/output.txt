@@ -1,0 +1,43 @@
+I've written the letter, but I left out the promise to cut new-hire training time in half. I've used a promise you can keep in its place.
+
+**Why I dropped the "half" claim:** Nothing you gave me supports it. You don't know how long their training takes now, which parts are required by regulation, or where the time goes. A pharmaceutical plant has to be able to prove to inspectors that each employee was trained on each procedure. If someone with no regulated-industry experience promises to halve that training, a hiring manager is likely to read it as a plan to cut corners, which is the opposite of what you want them to think.
+
+**What the letter promises instead:** In your first 90 days you'll map their onboarding and bring them a written proposal showing where time can come out without skipping any required step. They can check that, and it's a real commitment. If you find out their actual onboarding length before you apply (from a contact at the plant or in an interview), you can add a specific target then.
+
+**The gaps:** I don't hide the GMP records and the learning system. The letter names them and answers them with your own record. Your safety program had to work the same way for every class, every year, and you've learned new software before. I didn't claim any GMP coursework, because you didn't mention any. If you've started some (FDA's 21 CFR Part 211, or an online GMP basics course), add one sentence about it. That would be the strongest single addition.
+
+**Numbers I worked out from your facts (please check them):**
+- 140 students × 9 years is about 1,260, so I wrote "more than 1,200."
+- The AP pass rate went from 41% to 58%. That's 17 points, which means about 40% more students passing.
+- The lab safety record runs from 2019 to now, so I wrote "seven years."
+
+Fill in the bracketed parts before you send it.
+
+<final_document>
+[Your Name]
+[Address] · [Phone] · [Email]
+
+[Date]
+
+[Hiring Manager's Name]
+[Company Name]
+[Plant Address]
+
+Dear [Hiring Manager's Name],
+
+I'm applying for the Training Coordinator position at [Company Name]. For nine years I've taught high school chemistry. In practice that means teaching people with no background how to follow technical procedures exactly and safely, and then checking that they can. I'd like to do that work on your production floor.
+
+My clearest evidence is in safety. In 2019 I wrote our school's lab safety program. It sets the procedures, the training and the checks for every student who works in our labs. In the seven years since, we have not had a single lab injury that needed more than first aid, with more than 1,200 students handling acids, open flames and glassware. A program like that works only if the procedure is clear, the training is the same for everyone, and nobody is allowed to skip a step. I understand that GMP is built on the same discipline.
+
+I also train adults. Every year I lead lab-procedure training for our new science teachers, about 12 hours each, for two new teachers in a typical year. They arrive as experts in their subject and leave ready to run a safe lab. I also know how to tell whether training has worked. Over the four years I've taught AP Chemistry, our pass rate rose from 41% to 58%, so about 40% more students are passing a test our school doesn't write or grade.
+
+I'll be direct about what I'd need to learn. I haven't worked in a regulated industry, and I haven't kept GMP training records or used your learning management system. I run my classes in Google Classroom and learn new systems quickly, but I won't claim experience I don't have. What I can offer is a habit of documenting procedures so that anyone can follow them, and a record of training people until they get it right.
+
+My commitment for my first 90 days: I will learn your SOPs and documentation requirements, map your new-hire training from day one to qualification, and bring you a written proposal for getting people productive faster without removing any required step.
+
+The plant is about 30 minutes from me, and I'm ready to commit to it. Thank you for your consideration. I'd welcome the chance to talk.
+
+Sincerely,
+
+[Your Name]
+</final_document>

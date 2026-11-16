@@ -1,0 +1,37 @@
+I've written the letter below. I kept it to the facts you gave me and made some choices you should check:
+
+- **The 5-week leave:** I mentioned it once, briefly, as a family emergency, so that the "2 missed shifts in 3 years" claim stays accurate. If I left it out, an admissions officer who later learned about it could start doubting the rest of the letter. I left out the 2 days' notice; for a parent's sudden illness abroad, most readers wouldn't count it against him.
+- **Written English:** I mentioned it and paired it with the night class. The college will see his writing in his application anyway, and showing he's already working on it helps him more than leaving it unsaid.
+- **Placeholders** in [brackets] need filling in: his last name, the farm details, your contact information and the herd software name (optional).
+
+<final_document>
+[Farm Name]
+[Address]
+[City, State ZIP]
+[Phone] · [Email]
+
+[Date]
+
+Admissions Committee
+Agricultural Technology Program
+[State] Technical College
+
+Dear Admissions Committee,
+
+I am the farm manager at [Farm Name], a 400-cow dairy operation, and I am writing to recommend Tomás [Last Name] for your two-year Agricultural Technology program. Tomás has worked for us for three years, since he was 19. He is one of the most dependable and capable people on our crew.
+
+For most of that time Tomás has run our 3 a.m. milking shift alone, five days a week. Nobody is there to check his work at that hour. He is responsible for the herd, the equipment and the milk, and he gets it right. I trust him with that shift because he has earned it.
+
+What sets Tomás apart is that he wants to understand the work, not just do it. He taught himself our herd management software [name, if desired] and now uses it to spot cows that need the vet's attention. Last winter he caught nine cases of mastitis early. On a dairy, early detection means less suffering for the animal, lower treatment costs and less lost milk, so that work had a real effect on our herd and our bottom line. He did it because he was paying attention to the data and to the animals, not because anyone told him to.
+
+His reliability matches his skill. In three years he has missed only two scheduled shifts. That count does not include five weeks of leave last summer, when he returned to Mexico because his father was seriously ill. He came back and stepped straight back into his full responsibilities.
+
+His spoken English is strong, and he communicates well with the crew, our vet and me. His written English is still developing, and he knows it. He is taking a night class to improve it, on his own initiative and around a demanding work schedule. That is typical of how he handles a gap: he finds it and works on it.
+
+Tomás has already shown he can learn technical systems and apply them to animal health. Your program would give him the formal training to build on that, and I expect he will make full use of it. I recommend him without reservation, and I am glad to answer any questions. Please contact me at [phone] or [email].
+
+Sincerely,
+
+[Your Name]
+Farm Manager, [Farm Name]
+</final_document>

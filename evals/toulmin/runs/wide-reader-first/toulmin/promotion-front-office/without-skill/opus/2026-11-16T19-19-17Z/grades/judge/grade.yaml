@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:19:57.138598+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 463
+  tags: []
+  notes: extracted 463 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 5
+    objections: 6
+    fit: 8
+  details:
+    agree: The memo concedes the renovation's role instead of claiming credit for
+      the score rise, so a skeptical GM won't dismiss it, but it gives him nothing
+      that clearly beats an outside candidate who has run a larger front desk.
+    honest: It rightly refuses the requested 'main reason' claim and its percentages
+      are correct, but 'the team already reports to me' and 'without a gap' are not
+      in the facts, and 'almost in half' slightly stretches a 44% cut.
+    works_the_facts: It turns the turnover counts into 64% and 36%, but it never works
+      out the training saving (about 81 new-hire training shifts down to about 25,
+      using the turnover counts as a proxy for hires), which would have made the payroll
+      argument concrete.
+    right_comparison: The alternative is only implied ('no time lost bringing someone
+      new up to speed'), and the memo never sets the writer's seven weeks of results
+      against what an outside hire from a larger hotel would bring or risk.
+    qualification: The budget plan has checkable dates (30 days, monthly for six months)
+      but no measurable target or consequence if it slips, and the check-in hedge
+      is honest but cannot be checked.
+    objections: It meets the renovation objection and the budget gap directly but
+      leaves the outside candidate's bigger-hotel experience unanswered.
+    fit: A clean one-page memo with the right headings and length, ready to submit
+      by Friday.

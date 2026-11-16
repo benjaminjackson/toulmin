@@ -1,0 +1,50 @@
+grader: judge
+graded: '2026-11-16T19:28:46.024357+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 187
+  tags: []
+  notes: extracted 187 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 4
+    objections: 5
+    fit: 9
+  details:
+    agree: The direct apology and the concrete changes would make this household think
+      again, but nothing is offered for the roughly $74 of food they lost, and nothing
+      promises the farm will speak up next time, which was their main complaint.
+    honest: Every figure comes from the brief, and the admissions are stated plainly;
+      only 'so our crops aren't all in one place' goes slightly beyond what the facts
+      say, and it is a fair reading of them.
+    works_the_facts: Turning half-boxes for six weeks into 'roughly three weeks of
+      food you paid for' is a good derived figure, but the email never puts that loss
+      in dollars (about $74) and never shows what the $31,000 means for each share.
+    right_comparison: It does not compare signing up with the alternatives, such as
+      staying away or relying on unprotected crops, and it does not say how much the
+      nets and the new field would have cut last year's loss.
+    qualification: The email makes no conditional claims, so it needs no qualification.
+    objections: It answers 'will it happen again' with the nets and the second field,
+      but it never answers 'will you go quiet or refuse credit again', and pause credits
+      do nothing for a thin box after a storm.
+    fit: This is a short email of about 180 words, under the limit, with a clear subject
+      line, a deadline and a simple way to reply.

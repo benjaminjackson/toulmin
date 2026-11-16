@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-19-34Z",
+  "without_skill_run": "2026-11-16T19-19-29Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters smartly softened the applicant's unrealistic idea of cutting regulated training time in half, which would have been an immediate red flag for me. Document A wins slightly because it stays entirely true to the facts, whereas Document B invents specific commitments—like taking a pre-hire GMP course and presenting a 90-day onboarding audit—that the candidate didn't actually offer."
+}

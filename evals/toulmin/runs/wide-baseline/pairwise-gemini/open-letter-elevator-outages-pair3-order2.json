@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-19-50Z",
+  "without_skill_run": "2026-11-16T19-19-08Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A takes a more constructive and collaborative tone, offering to work *with* us on helping mobility-impaired residents rather than demanding we commission expensive independent engineering studies like Document B does. Because I already view this group as a few loud agitators, Document B's adversarial framing and ultimatums make me want to dig my heels in, whereas Document A makes requests that seem reasonable enough to bring me to the table."
+}

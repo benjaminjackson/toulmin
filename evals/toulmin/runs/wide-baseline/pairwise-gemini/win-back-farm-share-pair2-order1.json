@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-18-51Z",
+  "without_skill_run": "2026-11-16T19-18-32Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B directly promises better communication if something goes wrong again, which addresses my frustration that the farm went quiet last year. However, it also claims I deserved credit last year without actually offering me any now, making it a close call with Document A, which sticks strictly to the facts of the brief without making unprompted promises."
+}

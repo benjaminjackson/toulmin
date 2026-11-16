@@ -1,0 +1,44 @@
+I left out the line promising to cut new-hire training time in half. I recommend keeping it out, for three reasons:
+
+- **You can't back it up yet.** You haven't seen how their training works, how long it takes, or what the regulations require it to include. A hiring manager at a GMP plant will notice that.
+- **It can backfire there.** In regulated manufacturing, training content and sign-offs are often fixed by procedure. Promising to cut training in half can sound like you'd cut corners, which is the opposite of what they want.
+- **It clashes with your strongest point.** Your safety record and AP results are real and measured. An unsupported claim next to them makes them look weaker.
+
+The letter instead says you'll learn their process, find where new hires lose time, and measure whether changes help. If you get a figure for their current onboarding time in an interview, you can make a specific claim then.
+
+Other notes:
+
+- **Placeholders:** Fill in the bracketed parts, including the name of their learning system, which should be in the posting.
+- **GMP gap:** The letter states it plainly instead of hiding it. If you start a GMP or FDA-compliance course before you send this, add one sentence about it to the fourth paragraph. It's the best way to show you're closing the gap.
+- **Length:** It's about 400 words, so it fits on one page.
+
+<final_document>
+[Your Name]
+[Street Address, City, State ZIP] | [Phone] | [Email]
+
+[Date]
+
+[Hiring Manager Name]
+[Company Name]
+[Company Address]
+
+Dear [Hiring Manager Name],
+
+I am applying for the Training Coordinator position at [Company Name]. For nine years I have taught high school chemistry. Most of that job is taking people with no background, teaching them to handle hazardous materials safely, and confirming that they can do the work correctly. I would like to bring that experience to your plant.
+
+Here is what I can offer:
+
+- **A safety program that has held up.** In 2019 I wrote my school's lab safety program. Since then, we have not had a single lab injury that needed more than first aid. I teach about 140 students a year across five classes, so that program runs every day.
+- **Experience training adults.** Every year I train our new science teachers on lab procedures, about 12 hours with each one. These are colleagues who will soon run labs alone with a room full of students, so the training has to stick.
+- **Results I track.** Over the four years I have taught AP Chemistry, our pass rate has risen from 41% to 58%. I care about whether training works, not just whether it took place.
+
+I should be direct about what I don't have yet. I have not worked in a regulated industry, and I have not kept GMP training records. I know that in pharmaceutical manufacturing, records that are complete and accurate matter as much as the training itself. My job has always been to learn technical rules exactly and teach them to others without losing detail, and I will hold myself to that standard with your documentation requirements. In the same way, I have built and run my courses in Google Classroom rather than [LMS name]. I am comfortable delivering and tracking training online, and I expect to learn your system quickly.
+
+In my first months, I would want to learn how your onboarding works now: where new hires spend their time, where they get stuck, and what has to happen before they can work on their own. Then I would look for ways to get people to safe, compliant work sooner, and I would measure whether the changes help.
+
+I live about 30 minutes from the plant and am ready to commit to this role for the long term. Thank you for your consideration. I would welcome the chance to talk about how I can support your training program.
+
+Sincerely,
+
+[Your Name]
+</final_document>

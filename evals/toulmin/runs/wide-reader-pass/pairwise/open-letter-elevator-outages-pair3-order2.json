@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-34Z",
+  "without_skill_run": "2026-11-16T19-19-08Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B pushes back on my 'few loud people' view by putting the petition at two out of every three apartments, and it makes acting easy: three focused requests, with the note that the first two cost nothing like $400,000, plus a clear two-week deadline. A has five looser requests and an unsupported claim that residents were stuck at home for almost two weeks, which I could easily dismiss."
+}

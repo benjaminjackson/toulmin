@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-39Z",
+  "without_skill_run": "2026-11-16T19-18-48Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B admits the traffic cost plainly, says up front that the speaker belongs to the church, and gives a clear yes-or-no choice. That earns trust from skeptical neighbours and from the commissioners worried about traffic. A plays down the D rating as 'a few extra seconds' and claims that residents won't park on the street, neither of which the facts support, and it never mentions the church membership."
+}

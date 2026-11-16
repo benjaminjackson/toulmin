@@ -1,0 +1,38 @@
+I left out the line about cutting their new-hire training time in half. I recommend keeping it out, and the letter makes a smaller promise you can stand behind instead.
+
+**Why I didn't use "half":** None of your facts are about how long their new-hire training takes now, and none show you shortening training anywhere. A hiring manager at a pharma plant would likely think, "You haven't seen our SOPs or how long it takes someone to qualify. In a GMP plant, cutting training in half sounds like a compliance risk." Nothing in your background answers that. Coming from someone without regulated-industry experience, it would probably read as naive rather than confident, and it could sink an otherwise strong letter.
+
+**What the letter promises instead:** In your first 90 days you'd measure how long new hires take to qualify. Then you'd bring specific changes, each with the time it would save and confirmation that it doesn't weaken compliance. They can hold you to that, and it shows you know training in a regulated plant has limits.
+
+If you still want something bolder, this is about as far as your record supports: *"I expect to find real time to cut, and I'd commit to a specific target once I've measured where the time goes."*
+
+**Before you send it:**
+- **The 90-day plan:** I wrote this as a commitment. Only keep it if you're willing to be held to it, and change the timeline if 90 days isn't realistic for you.
+- **The numbers I worked out:** "Seven years" is 2019 to 2026. "More than a thousand students" is about 140 a year over 9 years, roughly 1,260.
+- **Placeholders:** Fill in the company name, the manager's name if you have it, and your contact details. Everything else comes from what you told me.
+- **The GMP gap:** The letter says plainly that you haven't worked with GMP training records. They'll see it on your résumé anyway, and saying it first makes the rest of the letter more believable.
+
+<final_document>
+[Your Name]
+[Address] · [Phone] · [Email]
+
+[Date]
+
+Dear [Hiring Manager's Name / Hiring Manager],
+
+I am applying for the Training Coordinator position at [Company]. For nine years I have taught high school chemistry. The part of that job I would bring to your plant is the one that matters most in any lab: getting people to follow a written procedure correctly, every time, where a mistake can hurt someone.
+
+In 2019 I wrote my school's lab safety program. In the seven years since, with about 140 students a year working in our labs, we have had no injury that needed more than first aid. Every year I also train the new science teachers who join our department on lab procedures, about 12 hours of instruction for each one. They are adults who have to be competent before they are responsible for anyone else's safety. Each of your new hires has to reach the same point.
+
+I am also used to being judged on a number that someone outside my classroom measures. In the four years I have taught AP Chemistry, our pass rate has risen from 41% to 58%.
+
+I should be direct about what I have not done. I have never worked in a regulated industry. I have not kept GMP training records, and I have not used your learning management system. Classroom records are not GMP records, and I won't pretend they are. What I bring is training that people remember and act on. The documentation side I would make my first priority to learn. I run all five of my classes through Google Classroom, so moving to a new system means learning how it works, not learning what it is for.
+
+On new-hire training time, I would want to measure before I promise a number. In my first 90 days, I would find out how long new hires currently take to reach qualification and where that time goes. I would then bring you specific changes, each with an estimate of the time it saves and confirmation that it does not weaken compliance.
+
+I live about 30 minutes from the plant and would welcome the chance to talk about how my experience could serve your team. Thank you for your consideration.
+
+Sincerely,
+
+[Your Name]
+</final_document>

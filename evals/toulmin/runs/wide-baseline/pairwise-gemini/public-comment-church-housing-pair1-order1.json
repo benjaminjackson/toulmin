@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-17-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B builds immediate trust with the skeptical room by disclosing the speaker's church membership upfront—which Document A leaves out—and avoids calling the traffic impact 'modest' in front of commissioners and neighbors who are deeply worried about it. Document A is slightly more disciplined with the exact facts by not speculating on the demographics of the tenants, making it a close call, but B's tone is better calibrated to persuade this specific audience."
+}

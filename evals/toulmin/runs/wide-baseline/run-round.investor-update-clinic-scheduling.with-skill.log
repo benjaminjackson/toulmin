@@ -1,0 +1,8 @@
+investor-update-clinic-scheduling / with-skill / opus ... ok (31.6s) -> runs/wide-baseline/toulmin/investor-update-clinic-scheduling/with-skill/opus/2026-11-16T19-17-59Z
+    grade: fail
+Error: 1 run(s) graded as fail
+investor-update-clinic-scheduling / with-skill / opus ... ok (36.8s) -> runs/wide-baseline/toulmin/investor-update-clinic-scheduling/with-skill/opus/2026-11-16T19-18-31Z
+    grade: fail
+Error: 1 run(s) graded as fail
+investor-update-clinic-scheduling / with-skill / opus ... ok (42.7s) -> runs/wide-baseline/toulmin/investor-update-clinic-scheduling/with-skill/opus/2026-11-16T19-19-08Z
+    grade: pass score=0.75

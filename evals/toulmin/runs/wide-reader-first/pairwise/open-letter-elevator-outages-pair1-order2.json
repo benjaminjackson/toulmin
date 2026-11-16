@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-18-00Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B states that 74 of 112 households is two in every three, which undercuts my view that this is a few loud people. Its demands are specific: a confirmed supplier date, a fallback plan if that date is missed and a December 1 deadline. A adds claims the facts don't back, like no explanation having been given and families with children, which makes it easier for me to dismiss."
+}

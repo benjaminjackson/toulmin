@@ -1,0 +1,25 @@
+{
+  "task": "staff-branch-closures",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-27-40Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "[Name/HR] will meet with each person at Maple Street and Route 9 individually by [date] to go through the offer and answer questions.",
+      "why": "The brief does not mention individual meetings with staff to go through the offer and answer questions."
+    },
+    {
+      "quote": "We'll ask for your decision by [date].",
+      "why": "The brief does not mention setting a deadline for staff to decide on the offer."
+    },
+    {
+      "quote": "Members will be notified on [date].",
+      "why": "The brief does not mention a plan or date to notify credit union members about the closures."
+    },
+    {
+      "quote": "we'll make sure you have the details before they do.",
+      "why": "The brief does not state that staff at the other five branches will be given details before members are notified."
+    }
+  ],
+  "invented_count": 4
+}

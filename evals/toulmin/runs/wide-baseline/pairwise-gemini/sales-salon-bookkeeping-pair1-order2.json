@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-17-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B speaks directly to the time I waste doing my own payroll and receipts every month, whereas my cousin only helps at tax time—and it makes me realize clean monthly books will actually make my cousin's job easier rather than replacing him. Plus, knowing that 31 other salon owners stayed even after a $50 price hike convinces me the monthly cost is worth it, and Document A left that part out completely."
+}

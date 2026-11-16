@@ -1,0 +1,17 @@
+{
+  "task": "staff-branch-closures",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-19-13Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Before then, you'll each have a one-on-one conversation to go through the details and answer your questions.",
+      "why": "The brief does not mention that affected staff will have individual one-on-one meetings with their managers."
+    },
+    {
+      "quote": "I'll be holding an open Q&A on [date/time/location or link].",
+      "why": "The brief does not mention that the COO will hold an open Q&A session."
+    }
+  ],
+  "invented_count": 2
+}

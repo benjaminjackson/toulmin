@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-37Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B is more likely to get the phone screen because it names the gaps up front and gives a concrete 60/90-day plan, with a baseline for time to sign-off and a target set without weakening compliance; that sounds like someone who understands a regulated plant. It loses some ground by claiming fluency in GMP within 60 days, which may read as naive, and by explaining how the pass rate improved when the facts don't say how, while A shows more awareness of how much documentation matters."
+}

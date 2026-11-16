@@ -1,0 +1,44 @@
+I've drafted the letter at about 400 words. The square-bracket placeholders still need filling in: the names, the deadline and the notice period.
+
+**The second elevator.** The letter doesn't demand one outright. Management has already said it would cost about $400,000 and can't be done in this building, and we have nothing to contradict that. If the letter simply insists, the TV station will report "management says it's impossible," and that becomes the story. So the letter treats the petition as proof of how many tenants care, and asks management to show the assessment behind its answer. The urgent demands are the ones management can't brush aside: a firm date for the part and a plan for outages. If the association wants to press harder for the elevator, it can do that once it has seen their reasoning.
+
+**Figures I worked out from your facts:**
+- 41 days is about one day in eight so far this year.
+- 74 of 112 households is two in three.
+- In June, management said six to eight weeks, which meant mid-August at the latest.
+
+**Things to keep accurate:**
+- The letter doesn't say that any wheelchair or walker user lives on an upper floor, because I don't know that. If some do, saying so would make the letter stronger.
+- The letter also doesn't claim the elevator is unsafe, because the city passed it. It says the problem is reliability, not safety.
+- Because this is going to the TV station, please check every figure against the association's records before you send it.
+
+<final_document>
+**An Open Letter to [Management Company] from the Tenants of [Building Name]**
+
+To [Management Company]:
+
+Our building has nine floors, 112 apartments and one elevator. This year that elevator has been out of service on 41 days, roughly one day in every eight. One outage in August lasted twelve days in a row.
+
+Twenty-three of our neighbours are over 75. Six use wheelchairs or walkers. When the elevator stops, a resident on an upper floor who uses a walker cannot get to a doctor's appointment, bring home groceries or leave the building in an emergency without someone to help. In August that went on for twelve days.
+
+In June you told us a new controller part was on order and would arrive in six to eight weeks. By that estimate, the part should have arrived in August. Now you are telling us the same thing again: six to eight weeks. Nobody can plan their life, or a parent's care, around a date that keeps moving.
+
+We know the city inspected the elevator in September and gave it a passing certificate. We are glad it is safe when it runs. The certificate doesn't say how often it will run, and that is our problem.
+
+Seventy-four households, two in every three apartments, signed our petition asking for a second elevator. You have told us it would cost about $400,000 and can't be done in this building. We are willing to hear your reasons, but so far you have only given us the conclusion.
+
+We ask you to do four things:
+
+1. Tell us in writing who is supplying the controller part, when it was ordered and the date the supplier has confirmed for delivery. Then update us every two weeks until it is installed.
+2. Until it is installed, put a plan in place for outages: a notice posted within [X] hours of a breakdown, a guaranteed response time for repairs, and a named contact who will arrange help for residents who cannot use the stairs.
+3. Share the assessment behind your conclusion that a second elevator isn't possible, and meet with the association to discuss it and any alternatives.
+4. Reply to this letter in writing by [date].
+
+We have been patient since June. We would rather solve this with you than about you. We are posting this letter in our lobby and sharing it with [TV station] because our neighbours deserve to know where things stand, and because 41 days is too many.
+
+Sincerely,
+
+[Name]
+Secretary, on behalf of the [Tenants' Association name]
+[Contact details]
+</final_document>

@@ -1,0 +1,53 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-19-25Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The last supply boat has gone. The sea is freezing at the edges. Between now and the spring thaw, your family has to keep the lamp lit, the larder full and each other going.",
+      "why": "The brief only states that you see a lighthouse keeper's family through a winter, without giving specific premise details like a supply boat leaving, a freezing sea, keeping the lamp lit, or keeping a larder full."
+    },
+    {
+      "quote": "Every choice is a trade-off: oil for the lamp or fuel for the stove, mending the roof or watching the water. Storms come in, supplies run out, and the ships out in the dark rely on you.",
+      "why": "The brief does not mention any specific gameplay mechanics, resource trade-offs, storms, supplies, or ships."
+    },
+    {
+      "quote": "I've spent the past three years making sure this game holds up.",
+      "why": "The brief says playtesting has been run since 2023, not that the creator has spent three years on it."
+    },
+    {
+      "quote": "from seasoned hobbyists to people who rarely play board games",
+      "why": "The brief only states that about 60 different people playtested the game, with no information about their experience levels."
+    },
+    {
+      "quote": "with strangers sitting down to play and giving honest feedback",
+      "why": "The brief only states the creator took the game to 2 conventions, not what happened there or who played it."
+    },
+    {
+      "quote": "from the first 23 players who rated it on BoardGameGeek",
+      "why": "The brief says the rating is from 23 people on \"the main board game ratings site,\" without naming BoardGameGeek or stating they were the \"first\" 23 players."
+    },
+    {
+      "quote": "Every one of those sessions changed something, whether a rule, a card or a balance tweak.",
+      "why": "The brief does not mention whether playtest sessions resulted in changes, nor does it state that the game includes cards."
+    },
+    {
+      "quote": "who weren't shy about telling me what didn't work.",
+      "why": "The brief does not mention how playtesters delivered their feedback or what they said."
+    },
+    {
+      "quote": "What I can offer is a game I've rebuilt dozens of times because I wanted it to be right",
+      "why": "The brief does not say the creator rebuilt the game dozens of times."
+    },
+    {
+      "quote": "Reaching the goal covers manufacturing, shipping to backers and platform fees.",
+      "why": "The brief gives the goal, factory quote, and per-copy shipping cost, but does not mention platform fees or state what the goal covers."
+    },
+    {
+      "quote": "Throughout the campaign and production, I'll post regular updates with photos from the factory, so you'll always know where your copy is.",
+      "why": "The brief says nothing about posting updates or obtaining photos from the factory."
+    }
+  ],
+  "invented_count": 11
+}

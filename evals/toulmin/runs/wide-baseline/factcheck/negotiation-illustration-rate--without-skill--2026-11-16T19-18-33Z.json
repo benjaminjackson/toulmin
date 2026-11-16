@@ -1,0 +1,17 @@
+{
+  "task": "negotiation-illustration-rate",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-18-33Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Each book also takes me about four months of full-time work.",
+      "why": "The brief states that each book takes about four months, but does not state that it is full-time work."
+    },
+    {
+      "quote": "My fees elsewhere have gone up as well.",
+      "why": "The brief only mentions what one other publisher paid last year, not that the illustrator's fees at other publishers have increased over time."
+    }
+  ],
+  "invented_count": 2
+}

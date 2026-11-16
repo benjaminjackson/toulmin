@@ -1,0 +1,60 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+The HR manager at a pharmaceutical manufacturing plant who is screening applicants for a training coordinator job. She has seen many teachers apply for corporate training roles and assumes most of them don't know how a regulated plant works. She decides who gets a phone screen.
+</reader>
+
+<brief>
+Help me write a cover letter. I've taught high school chemistry for 9 years and I'm applying to be a training coordinator at a pharmaceutical manufacturing plant about 30 minutes from me.
+
+About me:
+- I teach about 140 students a year across five classes.
+- I wrote our school's lab safety program in 2019. Since then we've had no injuries in our labs that needed more than first aid.
+- Our AP Chemistry pass rate went from 41% to 58% over the four years I've taught the course.
+- Every year I train our new science teachers on lab procedures, about 12 hours each. There have been two a year on average.
+- I've never worked in a regulated industry. The job posting asks for experience with GMP training records, which I don't have.
+- I use Google Classroom. The plant uses a learning management system I haven't used.
+
+I want the letter to say I can cut their new-hire training time in half. One page.
+</brief>
+
+
+
+<document>
+Dear [Hiring Manager's name],
+
+I'm applying for the Training Coordinator position at [Company]. For nine years I've taught high school chemistry. The part of that job I'm best at is the part your role is built around: teaching people to handle hazardous materials correctly, the same way every time, and making sure it sticks.
+
+I'll start with what I don't have. I haven't worked in a regulated industry, and I haven't kept GMP training records. I've also used Google Classroom, not [their system]. I don't want to understate that gap. Within my first 30 days, I would learn your documentation requirements and your system from your quality team before running a session on my own. I'd like you to hold me to that.
+
+Here is what I'd bring:
+
+**A safety program that has held up.** In 2019 I wrote our school's lab safety program. In the seven years since, no one in our labs has had an injury that needed more than first aid.
+
+**Experience training adults.** Every year I train our new science teachers on lab procedures, about 12 hours of training each, two teachers a year on average. When they finish, they run labs on their own.
+
+**Results measured by someone else.** Over the four years I've taught AP Chemistry, our pass rate on the national exam has risen from 41% to 58%.
+
+**Training at scale.** I teach about 140 students a year across five classes. That means teaching the same procedure, every year, to people who learn it in very different ways, then checking that each of them can actually do it.
+
+Once I understand your process, I'd like to find out where new hires spend their training time and where they get stuck, and bring you what I find. I won't promise how much time that will save before I've seen the work. I can promise to tell you plainly what I learn.
+
+I live about 30 minutes from the plant, and I'm looking for a career I can stay in. I'd welcome the chance to talk about how my experience fits your training program. I can be reached at [phone] or [email].
+
+Sincerely,
+[Your name]
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

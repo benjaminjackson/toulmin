@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-19-33Z",
+  "without_skill_run": "2026-11-16T19-19-09Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters are extremely similar in structure, tone, and how they frame the facts for an admissions committee, but Document B invents minor details not in the brief (such as asserting he taught himself the software and that his spoken English is strong). Document A stays strictly honest to the provided facts while making an equally compelling case."
+}

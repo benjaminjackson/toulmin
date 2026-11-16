@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-19-08Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A gives me what I need to judge the company: the chain was 13% of revenue, the rest of the business grew about 15%, cash runs out around October 2027, and it states how many reminder subscriptions would replace the lost revenue or cover burn. B is honest and warmer, but it is vaguer about the numbers and the funding plan."
+}

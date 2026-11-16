@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-27-50Z",
+  "without_skill_run": "2026-11-16T19-18-43Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A shows the budget in full, admits that 23 ratings is a small sample, and deals with my worry about first-time creators head-on. B says it was tested at 'hundreds of tables' when the brief gives 140 sessions, claims the creator takes no pay without any basis in the facts, and still has unfilled placeholders, so I'd trust it less even though it has a risks section."
+}

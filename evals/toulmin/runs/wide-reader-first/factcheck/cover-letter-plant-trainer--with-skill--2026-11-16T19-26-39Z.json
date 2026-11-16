@@ -1,0 +1,29 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-26-39Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I will finish an introductory GMP course before my start date.",
+      "why": "The brief does not mention any plan or commitment to take an introductory GMP course."
+    },
+    {
+      "quote": "In the seven years since, our labs have had no injury that needed more than first aid.",
+      "why": "The brief states the program was written in 2019, but does not give the current year, so the seven-year duration cannot be worked out from the brief."
+    },
+    {
+      "quote": "In my first year teaching AP Chemistry, 41% of my students passed the exam.",
+      "why": "The brief says the school's AP Chemistry pass rate went from 41% to 58% over the four years the applicant taught the course, not whether 41% was the applicant's first-year rate or the prior baseline."
+    },
+    {
+      "quote": "They have to be competent before they're alone in a lab with students and chemicals",
+      "why": "The brief does not state that new science teachers must be deemed competent before being allowed alone in a lab."
+    },
+    {
+      "quote": "I'm looking for a long-term role.",
+      "why": "The brief does not say the applicant is looking for a long-term role."
+    }
+  ],
+  "invented_count": 5
+}

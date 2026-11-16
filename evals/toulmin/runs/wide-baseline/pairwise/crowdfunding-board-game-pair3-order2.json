@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-20-15Z",
+  "without_skill_run": "2026-11-16T19-19-25Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B shows the real numbers: the $17,400 quote, $9 shipping and a check that $28,000 covers the full run. It also speaks directly to my worry about first-time creators by promising monthly updates. A stays vague about the budget and is full of placeholders, though B's claim that people \"asked to play again\" goes slightly beyond the facts."
+}

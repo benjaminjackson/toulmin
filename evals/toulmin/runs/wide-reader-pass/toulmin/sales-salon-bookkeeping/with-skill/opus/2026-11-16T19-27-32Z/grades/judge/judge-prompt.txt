@@ -1,0 +1,75 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+The owner of a small hair salon with four chairs who clicked an ad and landed on the page. Her cousin does her books at tax time for $600 a year and she is fond of him. She decides whether to book a free call.
+</reader>
+
+<brief>
+Write the main text for my sales page. I'm a bookkeeper and I work only with hair and nail salons. I do monthly books, payroll for up to 10 staff, and sales tax filing.
+
+What's true:
+- I have 31 salon clients. 2 left last year, both because they sold their salons.
+- I charge $199 a month. Until January it was $149, and I raised it for everyone, including existing clients.
+- I close each month's books by the 10th of the next month. I missed that date 3 times last year.
+- Last tax season, 9 of my clients told me their accountant charged them less because the books came in clean. One said she saved $800.
+- I'm one person. I don't answer the phone on Sundays or Mondays.
+- The first call is free and takes 20 minutes.
+
+Keep it to about 350 words, with a button at the end to book the call.
+</brief>
+
+
+
+<document>
+# Bookkeeping for hair and nail salons. Only salons.
+
+Monthly books, payroll and sales tax, done by a bookkeeper who works only with salon owners.
+
+## What you get
+
+- **Monthly books**, closed by the 10th of the following month
+- **Payroll** for up to 10 staff
+- **Sales tax filing**, handled for you
+
+**$199 a month.** Every client pays the same price. When I raised it from $149 in January, I raised it for my existing clients too, not just new ones.
+
+## Why salons only
+
+I keep the books for 31 salons. Because I don't work with anyone else, your books will look much like the ones I work on every day.
+
+Salon owners tend to stay. Last year two clients left, and both had sold their salons.
+
+## What clean books are worth at tax time
+
+Last tax season, 9 of my clients told me their accountant charged them less because their books came in clean. One said she saved $800, which is about four months of my fee.
+
+When your accountant has to sort out your books first, you pay for that time.
+
+## What you should know up front
+
+I close each month's books by the 10th of the next month. Last year I missed that date 3 times.
+
+I'm one person. You'll deal with me every time, not a different assistant each month. I don't answer the phone on Sundays or Mondays.
+
+If you have more than 10 staff on payroll, I'm not the right fit, and I'd rather tell you now.
+
+## Start with a 20-minute call
+
+The first call is free and takes 20 minutes. Tell me how your books are kept now, and we'll work out whether I'm the right fit for your salon.
+
+**[Book your free 20-minute call]**
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

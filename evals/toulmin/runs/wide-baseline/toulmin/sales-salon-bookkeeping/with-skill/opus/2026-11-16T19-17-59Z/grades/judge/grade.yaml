@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:18:45.929089+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 343
+  tags: []
+  notes: extracted 343 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 3
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 2
+    qualification: 5
+    objections: 2
+    fit: 9
+  details:
+    agree: The page sells convenience and cleaner books, but it never says that $199
+      a month comes to $2,388 a year, so an owner paying her cousin $600 a year has
+      no reason to book a call that could feel disloyal to him.
+    honest: Every number matches the brief, and the missed deadlines are disclosed,
+      though the heading 'Clean books cost you less at tax time' turns 9 of 31 clients
+      into a general promise, and 'I don't spend your money learning' is unsupported
+      puffery.
+    works_the_facts: It never works out the annual cost ($2,388), what share of clients
+      saw lower accountant bills (9 of 31), or the on-time close rate (9 of 12 months),
+      so the raw figures are left unworked.
+    right_comparison: 'It compares itself to a picture of an owner sorting receipts
+      at midnight, not to the real alternative: a once-a-year bookkeeper for about
+      $600, against which one client''s $800 saving doesn''t close a $1,788 gap.'
+    qualification: The missed-deadline hedge gives a number (3 times last year) but
+      doesn't say how late the books were, what it meant for the client, or what is
+      different now.
+    objections: This reader's main objection, why pay nearly four times what her cousin
+      charges, is never raised or answered, and the page doesn't ask what she does
+      now for payroll and sales tax, which is where the monthly service might be worth
+      it.
+    fit: At about 370 words it is close to the target, it is laid out as a sales page
+      with clear sections, and it ends with the booking button the brief asked for.

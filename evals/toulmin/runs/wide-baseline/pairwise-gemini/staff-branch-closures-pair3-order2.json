@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-19-37Z",
+  "without_skill_run": "2026-11-16T19-19-13Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "As a long-time teller who dreads moving to a call center with rotating evening shifts, Document B's claim that 'this will be a better job for most of you' feels completely out of touch and patronizing. Document A respects our intelligence by acknowledging that the change in both hours and the type of work is a major adjustment, while still showing how it relieves strain across the credit union."
+}

@@ -1,0 +1,49 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-17-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "what some of my neighbors are worried about",
+      "why": "The brief does not mention the speaker's neighbors or state that they are worried about traffic."
+    },
+    {
+      "quote": "I drive through that intersection.",
+      "why": "The brief states that the speaker lives on Alder Road two blocks from the church, not that they drive or use the intersection at Alder and 4th."
+    },
+    {
+      "quote": "at that light",
+      "why": "The brief mentions the intersection at Alder and 4th, but does not say it has a traffic light."
+    },
+    {
+      "quote": "in the study in front of you",
+      "why": "The brief mentions a traffic study, but does not say that the planning commissioners have a copy of it in front of them."
+    },
+    {
+      "quote": "of pavement",
+      "why": "The brief calls it a back parking lot, not a paved lot."
+    },
+    {
+      "quote": "I walk past it.",
+      "why": "The brief does not state that the speaker walks past the church lot."
+    },
+    {
+      "quote": "On a Tuesday afternoon, there's nobody there.",
+      "why": "The brief states the lot sits empty six days a week, but does not specify which six days those are or whether Tuesday is one of them."
+    },
+    {
+      "quote": "Every apartment gets a space, with eight left over.",
+      "why": "The brief states there are 72 parking spaces for 64 units, not that parking spaces are allocated one per apartment."
+    },
+    {
+      "quote": "at one light",
+      "why": "The brief does not state that the intersection at Alder and 4th has a traffic light."
+    },
+    {
+      "quote": "I'm one of the people who'll be sitting at that light",
+      "why": "The brief does not state that the speaker drives through the intersection at Alder and 4th or that the intersection has a traffic light."
+    }
+  ],
+  "invented_count": 10
+}

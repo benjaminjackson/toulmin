@@ -1,0 +1,17 @@
+{
+  "task": "staff-branch-closures",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-28-21Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "This week, your manager will meet with each person at Maple Street and Route 9 to go through the offer.",
+      "why": "The brief does not mention any manager meetings or a timeline for discussing the offer."
+    },
+    {
+      "quote": "You'll get the offer in writing, including the date you need to decide by.",
+      "why": "The brief does not state that offers will be provided in writing or that there is a decision deadline."
+    }
+  ],
+  "invented_count": 2
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-28-48Z",
+  "without_skill_run": "2026-11-16T19-19-25Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A shows its arithmetic: the $17,400 factory quote, $9-per-copy shipping and about $5,450 left for fees and problems. It also openly admits that 23 ratings is a small number and that the designer is a first-timer, which is exactly what a burned backer checks. B gives no cost breakdown and has placeholder text, so it feels like an untested first creator asking for trust."
+}

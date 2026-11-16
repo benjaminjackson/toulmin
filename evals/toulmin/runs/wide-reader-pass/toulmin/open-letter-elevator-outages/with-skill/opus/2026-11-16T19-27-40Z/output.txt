@@ -1,0 +1,40 @@
+I treated management as the reader who decides, and the lobby and TV audience as the people who make a non-answer costly. They have already refused the second elevator. Repeating that demand would only get the same answer again. So the letter asks for things they can agree to and that you can check: a delivery date backed by paperwork, a plan for outages, the reasons the second elevator was ruled out, and a meeting.
+
+The letter also deals with the passing inspection head-on. Management is likely to point to it, and the TV station may too. The answer is that a certificate shows the elevator is safe, not that it's reliable. The letter is about 400 words.
+
+**You need to confirm or fill in:**
+- **The four requests** are my proposals. Change or drop any of them before you send.
+- **The reply deadline** is a blank. I'd suggest 14 days from when you post the letter, and also promising to post their reply in the lobby, so whether they answer is visible to everyone.
+- **The company name, association name and your name** are left as brackets.
+- **"More than one day in every eight"** works if the 41 days ran up to now: 41 out of about 320 days so far this year. If the count only runs up to an earlier date, the share is higher, so the sentence is still true.
+- **"Eight weeks from June ended in August"** assumes June's promise was also 6 to 8 weeks, as you said. Even counting from June 30, eight weeks ends in late August.
+- **For the TV station,** every factual statement in the letter comes from your list. Keep it that way if you edit, so management can't pick apart a detail.
+
+<final_document>
+**An Open Letter to [Management Company]**
+**From the [Building Name] Tenants' Association**
+
+Our building has nine stories, 112 apartments and one elevator. This year that elevator has been out of service on 41 days, which is more than one day in every eight. In August it was out for 12 days in a row.
+
+For many of our neighbours, a broken elevator is more than an inconvenience. Twenty-three of our residents are over 75. Six use wheelchairs or walkers. For a resident in a wheelchair on an upper floor, a broken elevator can mean no way to get down to the street: no way to get to an appointment, to buy groceries, or out in an emergency.
+
+We know the city inspected the elevator in September and gave it a passing certificate. We are glad it is safe to ride. But a safety certificate does not tell anyone whether the elevator will be running tomorrow, and this year it too often has not been.
+
+You have told us that a new controller part is on order and should arrive in six to eight weeks. You told us the same thing in June. Eight weeks from June ended in August, the month of our longest outage. Residents can no longer plan their lives around that estimate.
+
+Seventy-four of our 112 households, two out of every three, signed a petition asking for a second elevator. You answered that it would cost about $400,000 and cannot be done in this building. We take that answer seriously. But you have not shown us the reasons behind it, and the problem the petition was about has not gone away.
+
+We ask for four things:
+
+1. **The part.** A copy of the order confirmation for the controller part, the supplier's delivery date, and the date by which it will be installed.
+2. **A plan for outages until then.** Notice to every household as soon as the elevator stops working, an estimate of when it will be back, and help arranged for residents who cannot use the stairs.
+3. **The reasons.** A written explanation of why a second elevator cannot be built here, and what you will do instead to keep one elevator running reliably for 112 households.
+4. **A meeting** with the tenants' association to go through these answers.
+
+We ask for a written reply by [date]. We will post your reply in the lobby beside this letter so that every resident can read it.
+
+We want to work with you on this. But our neighbours who cannot take the stairs need more than another estimate.
+
+[Name]
+Secretary, on behalf of the [Building Name] Tenants' Association
+</final_document>

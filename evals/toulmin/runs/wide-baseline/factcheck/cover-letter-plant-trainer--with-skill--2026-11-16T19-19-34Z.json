@@ -1,0 +1,21 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-19-34Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Most of my working day is spent teaching people to handle hazardous materials by following written procedures exactly, and then checking that they can.",
+      "why": "The brief only says the applicant teaches five high school chemistry classes a year and does not state that most of their working day is spent teaching students to handle hazardous materials by following written procedures."
+    },
+    {
+      "quote": "In the seven years since,",
+      "why": "The brief gives the year 2019 for when the lab safety program was written, but does not give the current year or say that seven years have passed since then."
+    },
+    {
+      "quote": "I also measure my teaching and revise it based on the results.",
+      "why": "The brief states that the AP Chemistry pass rate rose from 41% to 58%, but does not say the applicant measures and revises their teaching or that this caused the increase."
+    }
+  ],
+  "invented_count": 3
+}

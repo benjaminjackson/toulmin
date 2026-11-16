@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T19:28:31.351116+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 423
+  tags: []
+  notes: extracted 423 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 6
+    objections: 6
+    fit: 8
+  details:
+    agree: A long-tenured teller who doesn't want phone work gets a clear, respectful
+      offer with pay protected, work from home and a frank admission that the job
+      is different, but the email gives little reason to want the new work beyond
+      pay and remote days, and it never mentions the rumours they have been hearing
+      for two weeks.
+    honest: It uses the brief's figures accurately and rightly drops the unsupported
+      claim that the change makes everyone's job better; the only addition is the
+      mild inference that long hold times are unfair to the staff answering the calls.
+    works_the_facts: "The severance example (8 years = 16 weeks) and the comparison\
+      \ of 8\u20138 with 9\u20135 hours are useful conversions, but it could have\
+      \ priced severance for the many ten-plus-year staff (20+ weeks) or said what\
+      \ the 60% rise means for the size of the center's team."
+    right_comparison: The status quo is described with its trend (branch visits down
+      44% while phone and chat rose 60%, and 9-minute hold times), though it doesn't
+      spell out what keeping the branches open would cost or lead to.
+    qualification: The process steps have dates, but they are bracketed placeholders,
+      and 'same pay or higher' doesn't say who gets higher pay or how that will be
+      decided, so the reader can't check it.
+    objections: It openly acknowledges the dislike of phone work and the evening shifts,
+      and the one-on-one meetings help, but it doesn't address the rumours, how shifts
+      will be assigned or whether branch skills carry over beyond one closing line.
+    fit: It is a COO email of about 420 words with a clear subject line and useful
+      headings, as asked; it deliberately leaves out the requested 'better for everyone'
+      framing, which is the right call even though it departs from the brief.

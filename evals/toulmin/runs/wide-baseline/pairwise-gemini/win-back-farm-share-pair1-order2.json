@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-17-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B directly promises better communication in the future if things go wrong, which addresses my frustration over the farm going quiet last summer. However, Document A's subject line is stronger and its invitation to reply with my thoughts also helps rebuild trust, making it a close call."
+}

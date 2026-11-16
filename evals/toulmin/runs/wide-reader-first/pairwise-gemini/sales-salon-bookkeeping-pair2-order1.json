@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-27-24Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A immediately does the annual math for me ($2,388 vs. the $600 I pay my cousin), which still makes me hesitate, while Document B focuses on taking the monthly headaches of payroll, tips, and sales tax off my plate so I can still use my cousin for taxes. However, Document B invents claims about knowing booth rent and commissions that weren't in the brief, while Document A stays honest to the facts (aside from one tiny promise about communicating late deadlines) and feels much more direct and trustworthy."
+}

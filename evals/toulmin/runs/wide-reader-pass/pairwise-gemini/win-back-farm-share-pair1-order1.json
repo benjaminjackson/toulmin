@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A wins me over by directly calculating the exact financial loss I felt ($74) and explicitly promising to communicate promptly if another storm hits. Document B's invitation for feedback is nice, but A's concrete promise to fix the silence is what actually rebuilds my trust."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-40Z",
+  "without_skill_run": "2026-11-16T19-18-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B is more convincing. The line that eight weeks from June ran into August, the month of the longest outage, is a fact I can't dismiss as a few loud people complaining. Its four concrete requests and its plan to post my reply in the lobby also push me to act. A is reasonable too, but it reads more like a list of demands, and it adds unsupported details such as 'five months later'."
+}

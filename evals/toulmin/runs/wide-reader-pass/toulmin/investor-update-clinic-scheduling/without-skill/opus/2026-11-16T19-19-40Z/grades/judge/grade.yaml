@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:20:15.250093+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 452
+  tags: []
+  notes: extracted 452 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 3
+    objections: 5
+    fit: 9
+  details:
+    agree: The plain apology and candid bad news would soften a cold lead angel, but
+      putting off the runway and fundraising plan to next quarter leaves them without
+      a reason to commit now.
+    honest: The figures are accurate (13% of MRR, about 11 months, close to half),
+      but the update claims the reminder result is proof of 'something the bundled
+      schedulers don't' deliver, and the brief doesn't support that.
+    works_the_facts: It works out the runway and the churn share, but it never gives
+      a cash-out date, the MRR the 9 new clinics brought in, or how many $150 reminder
+      sales it would take to change the burn.
+    right_comparison: It describes flat revenue and the bundled-scheduler threat accurately,
+      but it never says outright that standing still means cash runs out in about
+      11 months, with a raise needed well before that.
+    qualification: It promises to report reminder sales, deal length and upsells next
+      quarter, but sets no target number or deadline and says nothing about what happens
+      if the launch falls short.
+    objections: It deals head-on with the missed updates, but this investor has the
+      right to join the next round and will want to know the fundraising and spending
+      plan, which the update puts off.
+    fit: It's a well-structured investor update of about 430 words, under the 500-word
+      limit, with a clear subject line, metrics block and specific asks.

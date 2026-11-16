@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B builds the business case with her sales record and market rate before stating the $11,500 figure, which makes the number feel much more justified when I have to go ask for extra budget. Document A hits me with the price increase right at the top and tacks on the page count at the end like an afterthought."
+}

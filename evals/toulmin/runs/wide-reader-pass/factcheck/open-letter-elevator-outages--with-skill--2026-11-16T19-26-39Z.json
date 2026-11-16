@@ -1,0 +1,13 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-26-39Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "That is more than one day in every eight.",
+      "why": "The brief does not state the exact date the letter is being written, only that September has passed, so 41 days out of the year to date cannot be verified by arithmetic to be more than one day in eight (which requires fewer than 328 days to have elapsed in the year, i.e., a date before November 24)."
+    }
+  ],
+  "invented_count": 1
+}

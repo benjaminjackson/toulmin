@@ -1,0 +1,21 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-17-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "For larger groups, a basic scheduler that comes free with their records system is a real competitor.",
+      "why": "The brief says the lost customer moved to the scheduler built into their electronic records system, not that the built-in scheduler is basic or comes free."
+    },
+    {
+      "quote": "It also works no matter which scheduler a clinic uses.",
+      "why": "The brief says the reminder feature will be sold on its own next month, not that it works with any scheduler."
+    },
+    {
+      "quote": "This lets us sell to clinics that are committed to their records system's scheduler, including groups like the chain we just lost, without having to replace that scheduler.",
+      "why": "The brief does not state that the standalone reminder feature can be used alongside a records system's scheduler without replacing it."
+    }
+  ],
+  "invented_count": 3
+}

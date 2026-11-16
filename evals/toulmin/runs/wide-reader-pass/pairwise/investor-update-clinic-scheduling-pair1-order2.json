@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me what a skeptical lead investor needs after two missed updates: the underlying growth with the big chain taken out (accurate math), an admission that the standalone bet is untested, a sense of scale for breakeven, and specific metrics to hold the founder to next quarter. A is honest and polite but vaguer, so it doesn't rebuild my trust as well."
+}

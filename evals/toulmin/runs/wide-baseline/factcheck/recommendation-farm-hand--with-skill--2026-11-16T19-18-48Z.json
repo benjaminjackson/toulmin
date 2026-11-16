@@ -1,0 +1,21 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-18-48Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Nobody else is in the barn at that hour",
+      "why": "The brief says Tomás runs the 3 a.m. milking shift on his own, not that nobody else is in the barn at that time."
+    },
+    {
+      "quote": "when he went home to Mexico to care for his father",
+      "why": "The brief only says he left when his father got sick in Mexico, not that Mexico is his home or that he went there to provide care."
+    },
+    {
+      "quote": "Tomás doesn't just enter data. He connects what the records show with what he sees in the barn",
+      "why": "The brief states that he learned the herd management software and flags sick cows, without specifying that he enters data or how he combines records with barn observations."
+    }
+  ],
+  "invented_count": 3
+}

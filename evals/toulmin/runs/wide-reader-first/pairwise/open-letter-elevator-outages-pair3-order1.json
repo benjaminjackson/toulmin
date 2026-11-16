@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-28-21Z",
+  "without_skill_run": "2026-11-16T19-19-08Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A makes three narrow, reasonable requests with a calm, cooperative tone, and it never asks me to reverse the elevator decision, so I could reply without losing face. B asks for five things, including a meeting and engineering documents, and adds claims I could dispute, such as residents being stuck for almost two weeks and private requests having failed. That makes B easier for me to dismiss as the loud few."
+}

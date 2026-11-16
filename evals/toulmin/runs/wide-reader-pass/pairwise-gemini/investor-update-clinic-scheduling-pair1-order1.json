@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A goes a step further in rebuilding my trust by doing the math I would do myself—breaking out the 15% non-whale growth and showing the unit economics needed to reach break-even on the new product. Committting to specific metrics for the next update makes the apology for going dark feel much more credible."
+}

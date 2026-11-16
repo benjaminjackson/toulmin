@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:29:16.563727+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 494
+  tags: []
+  notes: extracted 494 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 8
+    honest: 7
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 7
+    objections: 6
+    fit: 9
+  details:
+    agree: Marisol's chief grievance, the late report, is owned up front with a concrete
+      quarterly reporting promise, and the request rests on food that was actually
+      offered and refused, so she would very likely recommend yes.
+    honest: 'It rightly drops the unsupported ''double in the first year'' claim.
+      It has small embellishments: ''committed'' for volunteers who ''said they would'',
+      farms that ''called us'', and food ''grown a few miles from'' the families,
+      a detail the brief never gives.'
+    works_the_facts: 'It works out useful figures: fresh food is 16% of the total,
+      the extra is 3,000 lb a month in summer (a 50% rise), that comes to about 5
+      lb per household, and the $18,000 is more than half of reserves. It doesn''t
+      convert this into an annual figure.'
+    right_comparison: The no-van alternative is shown accurately as a repeat of last
+      summer's refusals. It is a little vague ('thousands of pounds') where it could
+      have used the 9,000 figure directly.
+    qualification: "The target names a number (9,000 lb), a window (June\u2013August\
+      \ 2027) and a reporting mechanism. The consequence of missing it, explaining\
+      \ and changing course, is soft but present and checkable."
+    objections: It meets the reporting-reliability objection squarely and frames the
+      reserve drawdown as commitment, but it never covers ongoing van costs (fuel,
+      insurance, maintenance) against an $11,000 reserve, which a cautious funder
+      would raise.
+    fit: It is a clearly sectioned project narrative of about 490 words, within the
+      500-word limit.

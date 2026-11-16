@@ -1,0 +1,29 @@
+{
+  "task": "staff-branch-closures",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-27-32Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Over the same three years, phone and chat contacts across the credit union rose 60%.",
+      "why": "The brief states that phone and chat contacts went up 60%, but does not specify that this increase happened over the same three-year period as the drop in branch visits."
+    },
+    {
+      "quote": "If you have childcare, a second job or anything else that affects when you can work, please tell your manager. We will take it into account when we build the schedule.",
+      "why": "The brief does not mention any policy or commitment to take childcare, second jobs, or personal circumstances into account when building the rotating shift schedule."
+    },
+    {
+      "quote": "Your manager will meet with each of you one-on-one this week. They'll go over the new role and the timing, and answer your questions.",
+      "why": "The brief does not say that managers will hold one-on-one meetings with staff this week to discuss the transition."
+    },
+    {
+      "quote": "You don't need to decide anything today.",
+      "why": "The brief gives no information about the timeline or deadline for employees to decide whether to accept the new role."
+    },
+    {
+      "quote": "Three months after the center opens, I'll share our average hold time with all of you, so you can see whether this is working.",
+      "why": "The brief does not state that the COO will share average hold times with staff three months after the center opens."
+    }
+  ],
+  "invented_count": 5
+}

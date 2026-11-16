@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-27-36Z",
+  "without_skill_run": "2026-11-16T19-18-51Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is a finished, accountable update that shows the math behind the flat revenue, confronts the existential threat to the business head-on, and commits to specific metrics for next quarter. Document B leaves bracketed template placeholders for the runway plan and investor asks, and invents claims about independent clinics versus chains that weren't in the brief."
+}

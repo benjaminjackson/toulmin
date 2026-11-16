@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-18-48Z",
+  "without_skill_run": "2026-11-16T19-18-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters are very well-written and persuasive, but Document B feels slightly more authentic to a dairy manager's voice with specific details like 'less discarded milk, and a better chance of keeping the cow in the herd.' Document B also stays slightly closer to the facts by not assuming Tomás learned the software entirely 'on his own initiative,' while brilliantly connecting his night class to his 3 a.m. shift."
+}

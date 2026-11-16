@@ -1,0 +1,25 @@
+{
+  "task": "grant-refrigerated-van",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-19-01Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Our fresh food is limited by transportation, not supply.",
+      "why": "The brief says the food bank had to turn down produce because it had no way to pick it up cold or store it, not because of transportation alone."
+    },
+    {
+      "quote": "cold transport is what stands between our clients and fresh food that is already available in our community.",
+      "why": "The brief states that both a lack of cold pickup and a lack of storage prevented them from accepting the food, not just cold transport."
+    },
+    {
+      "quote": "In the first year, our goal is to accept the farm produce we currently turn away: at least 9,000 additional pounds of fresh food.",
+      "why": "The brief states that the goal for the first year is to double the amount of fresh food handed out, which would be 72,000 additional pounds, rather than having a goal of 9,000 additional pounds."
+    },
+    {
+      "quote": "Much of the fresh food our neighbors need is grown a few miles away.",
+      "why": "The brief mentions 'local farms' but does not state that the food is grown 'a few miles away'."
+    }
+  ],
+  "invented_count": 4
+}

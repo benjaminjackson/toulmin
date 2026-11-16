@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-17-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both documents wisely resist the COO's impulse to claim this makes our jobs better, instead being honest that moving from a 9-to-5 branch to rotating evening phone shifts is hard. However, Document B is slightly more persuasive because it puts the practical facts we are anxiously looking for in clear bullet points, specifically acknowledges the regulars we've spent ten years getting to know, and connects our deep product knowledge to why the center actually needs us."
+}

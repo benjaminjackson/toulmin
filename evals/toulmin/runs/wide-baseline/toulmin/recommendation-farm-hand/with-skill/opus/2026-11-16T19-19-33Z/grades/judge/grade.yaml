@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:20:09.021369+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 350
+  tags: []
+  notes: extracted 350 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 7
+    honest: 5
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 5
+    objections: 8
+    fit: 9
+  details:
+    agree: 'A committee member skimming the letter gets a clear, concrete picture:
+      he runs a shift alone, missed almost no shifts, uses the herd software, caught
+      nine mastitis cases early and is working on his English, so a skeptical reader
+      is likely to rank him well.'
+    honest: 'Several details are not in the brief: that ''nobody else is on the farm
+      at that hour,'' that he handles equipment failures, that he uses ''what he sees
+      in the barn,'' the effect on the ''bottom line,'' and that the father was ''seriously''
+      ill and the class was taken ''on his own,'' all of which strengthen the claims
+      beyond the facts given.'
+    works_the_facts: 'The facts are presented accurately but never worked into figures:
+      two missed shifts out of roughly 780 scheduled, or the nine mastitis cases as
+      a share of the herd, would have made his reliability and value far more striking.'
+    right_comparison: 'There is no comparison to anything: the letter never sets him
+      against other workers or a typical early-career applicant, so the reader has
+      no baseline for judging whether two missed shifts or nine early catches is exceptional.'
+    qualification: The hedge about his written English is honest and names the night
+      class, but it gives no level, progress or expected completion date that the
+      committee could check.
+    objections: It deals head-on with the two things a skeptical reader would question,
+      the weaker written English and the five-week absence, and it avoids raising
+      the two-days'-notice issue, which the reader would never know about.
+    fit: This is a standard one-page reference letter from the farm manager with sensible
+      placeholders, which is what the brief asked for.

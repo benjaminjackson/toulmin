@@ -1,0 +1,40 @@
+I've written the page. Before you send it, there's one place where I didn't write what you asked for.
+
+**The guest-score claim.** You want to say you're the main reason the check-in score rose from 7.9 to 8.6. The facts you have show that you helped. They don't show you were the main cause. The lobby and every room were renovated over the same 18 months, and your GM approved that renovation. If you say the score rose mainly because of you, the first thing they'll think is "and the renovation?" That one doubt can spill over and make your other numbers look inflated too, and those numbers are strong.
+
+So the page gives the renovation part of the credit and then makes the case for the desk. A check-in score measures the desk. During those 18 months the desk team was more stable and better trained than it had been. In one line: the renovation gave guests a better lobby, and your team is who they met there. I think this version will persuade your GM more than the "main reason" version would.
+
+If you still want the stronger claim, swap the last two sentences of that paragraph for: *"The renovation helped, but the check-in score measures the desk, and I believe the desk is the main reason it rose."* Be ready to answer "how do you know?" with something more than the timing, such as review comments that mention staff by name.
+
+**What I added from your numbers:**
+- **Turnover:** 9 of 14 is 64% and 5 of 14 is 36%. That's four fewer people to replace each year.
+- **Training time:** 9 hires × 9 shifts is about 81 training shifts a year. 5 hires × 5 shifts is about 25. This assumes every person who left was replaced.
+
+**The budget gap.** Your GM will notice it, so the page brings it up first. It answers in two ways. First, the turnover and training savings are payroll results. Second, it proposes a 90-day checkpoint. The page names no dollar amounts, because you didn't give me any.
+
+**Placeholders to fill in:** names, the hotel, the review site, and two or three specific things you've handled in the last seven weeks. That last one is the only gap in the page that's really about content. Concrete examples there will help you more than anything else on the page.
+
+<final_document>
+**To:** [GM name]
+**From:** [Your name], Assistant Front Office Manager
+**Date:** November 20, 2026
+**Re:** My application for Front Office Manager
+
+I'm applying to be appointed Front Office Manager. For the last seven weeks I've been doing the job alone. The changes I made as assistant manager are the things this role is judged on: a desk that stays staffed, gets new people working quickly and checks guests in well.
+
+**A team that stays.** In the year before I became assistant manager, 9 of our 14 front desk staff left. Last year 5 left. Turnover went from 64% to 36%, which means four fewer people to recruit, hire and train each year.
+
+**New hires working in about half the time.** I rewrote the front desk training. New hires now work the desk alone after 5 shifts instead of 9. Combined with lower turnover, the time we spend training has dropped from about 81 shifts a year to about 25.
+
+**Better check-ins.** Our check-in score on [review site] rose from 7.9 to 8.6 over the last 18 months. The lobby and room renovation happened during the same period and deserves part of that credit, and I won't pretend I can separate the two. But the check-in score measures the desk. During those 18 months the desk was more experienced and better trained than it had been before. The renovation gave guests a better lobby, and my team is who they met when they walked into it.
+
+**Already doing the job.** Since [former FOM's name] left seven weeks ago, I've covered the full role on my own, including [two or three specifics: e.g. scheduling, escalated guest issues, reporting to you, a busy weekend or group arrival].
+
+**The gap: budget.** I have not managed a budget, and this role owns a $1.1 million payroll budget. I don't want to skip past that. My biggest results so far are payroll results: every departure and every extra training shift is paid time that doesn't serve a guest, and I've cut both. I'd also like to close the gap on a schedule you can check. In my first 90 days I'd review front office payroll against budget with [you / our controller] every month. By day 90 I'd present a front office payroll plan for the next year for your review. If you aren't confident in my numbers by then, we'll both know early.
+
+**The alternative.** An outside hire would start without knowing our team, our systems or our guests, and the desk would be run by one person through the search and the new manager's first months. I've been at [hotel name] for six years. I know this hotel, and the team already knows me.
+
+I'd welcome the chance to talk this through before you decide.
+
+[Your name]
+</final_document>

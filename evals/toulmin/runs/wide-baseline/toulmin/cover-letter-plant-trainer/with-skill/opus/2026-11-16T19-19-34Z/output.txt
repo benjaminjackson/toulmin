@@ -1,0 +1,42 @@
+I've drafted the letter, but I left out the promise to cut their training time in half. I used a version your facts can back up instead.
+
+**Why I left out "half":**
+- **Nothing in your facts supports it.** You don't yet know how long their training takes or what's in it. A hiring manager will see that you're promising to halve something you haven't seen.
+- **It can sound like a risk in their industry.** In drug manufacturing, training is part of how the plant meets regulations, and auditors check it. Promising to cut it in half can read as "this person will cut corners." That hurts most when the letter also has to admit you haven't done regulated work.
+
+The letter promises something you can deliver instead. Within 90 days you'll map their current new-hire program and bring them a plan to shorten it, with the compliance requirements unchanged. That gives them a date and a result to hold you to.
+
+If you still want the bold version, put this in place of the fourth paragraph's last sentence: *"I believe I can cut your new-hire training time in half without weakening compliance, and in my first 90 days I would show you how."* Expect to be asked in the interview how you know.
+
+**How the letter handles the rest:**
+- **The argument:** your job has been teaching people to follow written procedures exactly around hazardous chemicals, and checking that they can. That's the core of this job too.
+- **Lead evidence:** about seven years without a lab injury beyond first aid, under a safety program you wrote. Next comes your training of new teachers, because it's the closest match to training new hires.
+- **The gaps:** the letter says plainly that you haven't worked in a regulated industry or kept GMP training records. It's better that they hear it from you. It also says you haven't used their learning system.
+
+**Before you send it:**
+- **Fill in the brackets:** the hiring manager's name, the company, the plant's location and the name of their learning system.
+- **Check the course commitment.** I wrote that you're willing to take a GMP fundamentals course before your start date. Delete that sentence if you don't want to commit to it.
+- **Check one fact:** the letter says you've trained new teachers "every year." If you haven't done it every year of the nine, change the wording.
+
+The letter is about 400 words, so it fits on one page.
+
+<final_document>
+Dear [Hiring Manager's Name],
+
+I am applying for the Training Coordinator position at [Company]'s [location] plant. For nine years I have taught high school chemistry. Most of my working day is spent teaching people to handle hazardous materials by following written procedures exactly, and then checking that they can. I would like to do that work for your manufacturing teams. I live about 30 minutes from the plant.
+
+In 2019 I wrote my school's lab safety program. In the seven years since, with about 140 students a year working in our labs, we have not had a single injury that needed more than first aid. I also train each year's new science teachers on our lab procedures, about 12 hours of training each and two new teachers a year on average. That is the part of my job closest to this role: adults who already know their subject, learning how things are done in a new place and how to do them safely.
+
+I also measure my teaching and revise it based on the results. Over the four years I have taught AP Chemistry, our pass rate rose from 41% to 58%. I would bring the same approach to a training program: set a clear standard, measure whether people meet it, and change what isn't working.
+
+I have not worked in a regulated industry, and I have not maintained GMP training records. I know that matters for this role. I would expect to spend my first weeks learning your GMP requirements and documentation practices from your quality team, and I am willing to complete a GMP fundamentals course before my start date. I run my classes through Google Classroom and have not used [LMS name], so I would plan to learn it early as well.
+
+I would want to make your new-hire training faster without making it any less thorough. In my first 90 days I would map your current onboarding program step by step, find where new hires are waiting or repeating material, and bring you a written plan to shorten it with every compliance requirement left in place.
+
+I would welcome the chance to talk about how my experience could serve your plant. Thank you for your time and consideration.
+
+Sincerely,
+
+[Your Name]
+[Phone Number]
+</final_document>

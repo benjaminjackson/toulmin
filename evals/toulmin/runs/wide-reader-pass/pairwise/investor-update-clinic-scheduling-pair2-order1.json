@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-27-36Z",
+  "without_skill_run": "2026-11-16T19-18-51Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is a finished update. It shows that the rest of the business grew about 15%, names the bundling threat directly, and says what it will measure next quarter. B leaves bracketed placeholders where its runway plan and asks should be, which looks careless to an investor who is already annoyed about the missed updates."
+}

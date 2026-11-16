@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B speaks to my salon more directly with booth rent, commission splits and slow Januaries. Being open that everyone's price went up to $199 makes me trust a bill that is far more than the $600 my cousin charges. But B adds a promise to warn before a late month that isn't in the facts. It also states the $800 saving as fact, when it's only what one owner reported, which A hedges more carefully."
+}

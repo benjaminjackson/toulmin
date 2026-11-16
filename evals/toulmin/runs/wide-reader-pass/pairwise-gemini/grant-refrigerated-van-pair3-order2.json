@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-29-19Z",
+  "without_skill_run": "2026-11-16T19-20-01Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A properly uses brackets to prompt the applicant for the real operational facts I need to see—specifically how they will pay for vehicle maintenance after draining their reserves to $11,000, and what actual changes they made so I don't have to chase their grant report for four months again. Document B invents a quarterly reporting commitment and board assignment out of thin air, and overlooks the glaring question of ongoing vehicle costs."
+}

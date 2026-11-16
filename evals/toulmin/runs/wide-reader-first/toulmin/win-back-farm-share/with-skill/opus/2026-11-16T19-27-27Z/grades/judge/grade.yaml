@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:28:03.565981+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 183
+  tags: []
+  notes: extracted 183 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 4
+    objections: 5
+    fit: 9
+  details:
+    agree: The direct apology and the concrete fixes at the same price would soften
+      this household, but it never says what happens to them the next time a storm
+      thins the boxes, and that is the doubt that made them cancel.
+    honest: Every figure matches the brief, and it avoids promising that the nets
+      prevent losses, though 'so our crops aren't all in one place' is a mild inference
+      about why the second field was added.
+    works_the_facts: It repeats the given numbers without working any of them out,
+      for example that six half-weeks came to about three weeks of produce (roughly
+      $74 of a $540 share), or that $31,000 is about $120 per member household.
+    right_comparison: It compares last year's setup with this year's changes, but
+      it never puts rejoining next to the reader's real alternative, and it doesn't
+      note that 52 shares left means most members already came back.
+    qualification: '''We can''t stop the weather'' is a hedge with no checkable terms,
+      because it doesn''t say what members get or hear if a storm cuts the harvest
+      again.'
+    objections: The apology deals with the silence and the missing refund after the
+      fact, but the reader's main worry, that the farm will go quiet next time, gets
+      no commitment on communication or credit, and the pause credit doesn't cover
+      crop loss.
+    fit: It is a short, scannable email of about 190 words, which is under the 200-word
+      limit, with a subject line, a clear call to action and the deadline.

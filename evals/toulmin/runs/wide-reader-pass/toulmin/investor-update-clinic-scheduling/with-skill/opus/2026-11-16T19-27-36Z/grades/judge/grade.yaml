@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:28:25.031955+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 442
+  tags: []
+  notes: extracted 442 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 4
+    objections: 6
+    fit: 8
+  details:
+    agree: The opening owns the missed updates and promises quarterly reports without
+      grovelling, and the 15% underlying growth plus a clear strategic answer would
+      probably keep a cold lead angel engaged, though nothing tells them when the
+      next raise comes or what their pro-rata right will be asked to fund.
+    honest: The numbers are faithful, but the reason given for the chain leaving ('didn't
+      leave because our product got worse', 'one less vendor was worth more than a
+      better tool') is inferred rather than given, and the reminders 'trial' is not
+      in the brief.
+    works_the_facts: "It works out 11 months of runway, the $35,500\u2192$41,000 (about\
+      \ 15%) growth excluding the chain, and the near-halving of no-shows, putting\
+      \ each fact in its most favourable true form, but it never projects what happens\
+      \ to the cash if MRR stays flat."
+    right_comparison: It sets standalone reminders against competing head-on with
+      bundled records-system schedulers and names the churn trend that comparison
+      implies, though it doesn't put a size on how many current clients are exposed.
+    qualification: The 'what I'll report next quarter' list names checkable items
+      but gives no target number of reminder customers, no MRR threshold and no consequence
+      if they are missed, so the investor can't tell what failure would look like.
+    objections: 'It meets the concentration and churn worries head-on, but leaves
+      the lead investor''s obvious question unanswered: with 11 months of cash, when
+      will the company raise or reach break-even?'
+    fit: It is a scannable investor email under 500 words with a clear subject line,
+      but one sentence is broken ('get them a reminders trial in front of them').

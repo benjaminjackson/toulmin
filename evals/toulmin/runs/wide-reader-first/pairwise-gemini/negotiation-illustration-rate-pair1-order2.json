@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A is much better structured because it builds a strong business case—reminding me of her sales track record and market value—before stating the $11,500 figure. Document B drops the $2,500 increase before justifying it and ends with an awkward paragraph explaining how long a 32-page book takes, which I already know."
+}

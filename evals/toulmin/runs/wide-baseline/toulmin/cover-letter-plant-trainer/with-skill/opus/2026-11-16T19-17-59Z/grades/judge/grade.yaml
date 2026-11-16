@@ -1,0 +1,60 @@
+grader: judge
+graded: '2026-11-16T19:18:52.974015+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 396
+  tags: []
+  notes: extracted 396 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 7
+    honest: 5
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 6
+    objections: 8
+    fit: 8
+  details:
+    agree: Framing safety as procedure discipline, being upfront about having no GMP
+      experience, and offering a concrete 90-day plan in place of the half-the-training-time
+      promise would likely get a phone screen from a skeptical HR manager, though
+      nothing shows plant-floor experience.
+    honest: The '1,200 students' figure isn't supported (140 a year over about seven
+      years is roughly 980), and the acids and open flames, the teachers 'leave ready
+      to run a safe lab' and 'learn new systems quickly' are all added details that
+      make the case sound stronger than the brief does, even though the unsupported
+      halving claim was rightly dropped.
+    works_the_facts: Turning 41% to 58% into 'about 40% more students passing' is
+      a correct and favourable derivation, and the seven-year safety span is right,
+      but the student total is inflated rather than calculated, and the teacher training
+      is never added up (about 24 hours a year, about 200 hours since 2019 if that
+      started then).
+    right_comparison: The letter never addresses the real alternative, a candidate
+      who already has GMP and LMS experience, or how long the plant's training takes
+      now, so the reader gets nothing to weigh the applicant against.
+    qualification: The 90-day commitment names a timeframe and a checkable deliverable
+      (a mapped training path and a written proposal) without overpromising, but it
+      gives no target number and says nothing about what happens if it falls short.
+    objections: It meets the main objection head-on (no regulated-industry, GMP-records
+      or LMS experience) and links classroom safety discipline to GMP, without raising
+      concerns the brief already answers, though 'learn quickly' is asserted rather
+      than shown.
+    fit: It is a properly formatted one-page cover letter as asked, and it reasonably
+      replaces the user's requested halving claim with a defensible commitment, though
+      it doesn't explain that change to the user.

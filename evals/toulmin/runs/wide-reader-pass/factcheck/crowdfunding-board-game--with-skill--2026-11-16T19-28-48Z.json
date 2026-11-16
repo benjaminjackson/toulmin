@@ -1,0 +1,29 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-28-48Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I took the game to two conventions and put it in front of strangers.",
+      "why": "The brief states the designer took the game to two conventions, but does not say they put it in front of strangers."
+    },
+    {
+      "quote": "On BoardGameGeek, 23 people have rated it, and their average is 8.1 out of 10.",
+      "why": "The brief only refers to 'the main board game ratings site' and does not name BoardGameGeek or specify that the rating scale is out of 10."
+    },
+    {
+      "quote": "What those numbers do show is that people who sit down with this game, including people who've never met me, want to play it again.",
+      "why": "The brief does not state that playtesters or raters were people who had never met the designer or that they wanted to play the game again."
+    },
+    {
+      "quote": "Each of those 140 sessions changed something.",
+      "why": "The brief states that 140 playtest sessions were run, but does not say that every session resulted in a change to the game."
+    },
+    {
+      "quote": "If we don't reach $28,000, the game doesn't get printed and no one is charged.",
+      "why": "The brief does not specify which crowdfunding platform is being used or that the campaign uses an all-or-nothing funding model where backers are not charged if the goal is not met."
+    }
+  ],
+  "invented_count": 5
+}

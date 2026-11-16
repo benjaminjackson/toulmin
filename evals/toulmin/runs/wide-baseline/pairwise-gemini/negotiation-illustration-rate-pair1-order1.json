@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-17-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A stays fully honest to the facts, whereas Document B makes the unsupported claim that the four months represent 'full-time' work. Furthermore, Document A's explicit breakdown of the $2,250 monthly rate and reminder that $11,500 is below her recent $12,500 fee makes a slightly more compelling case for me to stretch my budget."
+}

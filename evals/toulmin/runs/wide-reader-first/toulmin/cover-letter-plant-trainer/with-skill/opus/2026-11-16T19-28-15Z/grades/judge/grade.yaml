@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:29:05.819426+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 360
+  tags: []
+  notes: extracted 360 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 7
+    objections: 8
+    fit: 7
+  details:
+    agree: Naming the GMP gap upfront and offering a 30-day plan would make a skeptical
+      HR screener more open to a phone screen, but the evidence still reads like a
+      classroom and never shows that the writer understands how a plant works.
+    honest: The letter rightly drops the unsupported claim to halve training time,
+      but it adds a few details the brief doesn't support, such as new teachers 'run
+      labs on their own' after training, 'checking that each of them can actually
+      do it,' and 'a career I can stay in.'
+    works_the_facts: The figures are repeated as given and nothing is derived from
+      them, such as the 17-point gain (a rise of about 41%), roughly 1,260 students
+      over nine years, or about 18 new teachers and more than 200 hours of adult training.
+    right_comparison: The pass-rate trend is stated, but the letter never puts the
+      writer's adult training and safety record next to what the plant actually needs
+      from a coordinator, or next to a candidate with GMP experience.
+    qualification: The 30-day commitment to learn the documentation requirements and
+      the LMS has a date the reader can check and invites accountability, though it
+      names no concrete consequence if the writer misses it.
+    objections: The reader's main objection (no regulated-industry experience, no
+      GMP records, a different LMS) is stated directly and answered with a plan, and
+      the letter raises no objections the facts already answer.
+    fit: It is a one-page cover letter as asked, but it quietly replaces the requested
+      'cut training time in half' claim with a hedge and never explains that choice
+      to the writer.

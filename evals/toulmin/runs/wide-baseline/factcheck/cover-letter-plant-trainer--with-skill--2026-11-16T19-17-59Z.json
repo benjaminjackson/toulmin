@@ -1,0 +1,13 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-17-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "In the seven years since, we have not had a single lab injury that needed more than first aid, with more than 1,200 students handling acids, open flames and glassware.",
+      "why": "Even assuming the current year is 2026 (seven years after 2019), 7 years at 140 students per year equals 980 students for the writer, and the brief gives no school-wide student numbers or details on specific lab hazards to support 'more than 1,200 students'."
+    }
+  ],
+  "invented_count": 1
+}

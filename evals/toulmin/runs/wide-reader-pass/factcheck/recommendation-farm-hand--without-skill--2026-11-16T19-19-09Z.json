@@ -1,0 +1,37 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-19-09Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "For most of that time Tomás has run our 3 a.m. milking shift alone, five days a week.",
+      "why": "The brief states that he runs the 3 a.m. shift, not that he has done so for 'most of that time' (the three years he has worked there)."
+    },
+    {
+      "quote": "He taught himself our herd management software [name, if desired]",
+      "why": "The brief says he 'learned' the software, not that he taught himself."
+    },
+    {
+      "quote": "He did it because he was paying attention to the data and to the animals, not because anyone told him to.",
+      "why": "The brief does not state whether flagging sick cows was done on his own initiative or as an assigned duty."
+    },
+    {
+      "quote": "because his father was seriously ill.",
+      "why": "The brief only says his father 'got sick,' without specifying that the illness was serious."
+    },
+    {
+      "quote": "He came back and stepped straight back into his full responsibilities.",
+      "why": "The brief does not give details on how he transitioned back to work after his five-week absence."
+    },
+    {
+      "quote": "His spoken English is strong, and he communicates well with the crew, our vet and me.",
+      "why": "The brief only notes that his written English is weaker than his spoken English, without stating that his spoken English is strong or that he communicates directly with the vet and crew."
+    },
+    {
+      "quote": "He is taking a night class to improve it, on his own initiative and around a demanding work schedule.",
+      "why": "The brief says he is taking a night class, not that he enrolled on his own initiative."
+    }
+  ],
+  "invented_count": 7
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-36Z",
+  "without_skill_run": "2026-11-16T19-18-48Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A has a much more compelling, fluid rhythm for a spoken public comment, whereas Document B feels like a choppy list of facts. Document B also suggests attaching a costly intersection-fix condition to an affordable housing project, while Document A does a better job of directly persuading us that the rush-hour delay is a reasonable trade-off."
+}

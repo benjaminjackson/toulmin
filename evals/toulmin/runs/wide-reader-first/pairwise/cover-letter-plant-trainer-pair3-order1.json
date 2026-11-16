@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-28-15Z",
+  "without_skill_run": "2026-11-16T19-19-29Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A names the GMP and LMS gaps up front and commits to learning documentation from the quality team before training anyone, which shows me the applicant understands how a regulated plant works. B reads well, but it adds claims the facts don't support, such as already studying GMP and redesigning instruction to raise the pass rate."
+}

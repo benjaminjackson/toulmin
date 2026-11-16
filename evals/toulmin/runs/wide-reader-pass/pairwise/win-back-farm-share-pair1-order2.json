@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-farm-share",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B puts a number on what we lost (about $74) and promises that next time we'll hear from the farm quickly and in full, which speaks directly to our feeling that the farm went quiet. A gives a sincere apology and asks for our thoughts, but it doesn't promise to handle things differently if another storm hits."
+}

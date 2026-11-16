@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T19:28:27.532220+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 419
+  tags: []
+  notes: extracted 419 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 5
+    objections: 6
+    fit: 9
+  details:
+    agree: The memo's open concession on the renovation and its plain handling of
+      the budget would earn this skeptical GM's trust, but it never shows why the
+      writer beats an outside candidate who ran a bigger desk, so he may still lean
+      outside.
+    honest: The memo rightly refuses to claim the writer was the main cause of the
+      score rise, but it overreaches in calling hiring and training 'the two biggest
+      drivers of front desk payroll' and in saying an outside hire would learn 'from
+      scratch.'
+    works_the_facts: 'It repeats the raw figures without working them: it never states
+      turnover as 64% falling to 36%, and it never combines the two changes into total
+      training shifts (about 81 down to about 25), which would also have backed up
+      the payroll point.'
+    right_comparison: The memo describes the outside alternative as someone starting
+      from scratch while the job stays open, but the GM is already interviewing an
+      experienced front desk manager from a larger hotel, so that picture doesn't
+      match the facts.
+    qualification: The six-month plan of monthly reviews against budget gives the
+      GM something to check and a time frame, but it sets no variance threshold and
+      says nothing about what happens if payroll goes off track.
+    objections: It answers the renovation objection well by pointing out that check-in
+      is the part of the stay the front desk delivers, and it raises the budget gap
+      honestly, but it never takes on the outside candidate's bigger-hotel experience.
+    fit: It is a one-page memo with clear headings and a direct request, which matches
+      the brief.

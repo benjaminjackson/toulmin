@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-farm-share",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-29Z",
+  "without_skill_run": "2026-11-16T19-18-32Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A addresses my main complaint that the farm went quiet when things went wrong: it promises I'll hear from them quickly and in detail next time, and it admits I deserved credit. Document B's apology is concrete, since it puts the loss at about three weeks of produce, but it never promises to communicate better, and its bold, salesy formatting feels more like a pitch."
+}

@@ -1,0 +1,50 @@
+I've written the announcement, but it doesn't say the change will make everyone's job better. Your own facts don't support that line, and the 14 people reading it will know it.
+
+- **Hours:** staff move from 9-to-5 to rotating shifts in an 8 a.m. to 8 p.m. center. For someone with childcare or a second job, that's worse.
+- **Severance:** you're offering it because you expect some people to decline the new role.
+
+If you tell them it's better for everyone, the ones it isn't better for will stop trusting the rest of the email.
+
+What your facts do support is a strong but more limited claim:
+- Pay stays the same or goes up.
+- Remote work two days a week is a real benefit.
+- The new role is tied to the channel that's growing (up 60%), not the one that's shrinking (down 44%).
+- The 9-minute hold times make everyone's work harder now.
+
+So the draft says you believe the change sets people up for better, more secure jobs, and it names the shift change as a real cost. That earns more trust than a blanket promise. If you still want the stronger line, you can swap it into the last paragraph, but I'd advise against it.
+
+A few things to check before sending:
+- **Placeholders in brackets.** You didn't give me who holds the one-on-one meetings, a date for them, or a deadline for people to decide. I put brackets in those spots rather than make them up. If there's no decision deadline yet, remove that sentence.
+- **The other five branches.** Staff there will wonder if they're next. I didn't promise them anything because you didn't give me grounds to. If you can truthfully say there are no plans to close other branches, add that line. It will do a lot to calm people down.
+- **Length.** It's about 400 words.
+
+<final_document>
+Subject: Maple Street and Route 9 branches closing March 31: what it means for you
+
+Team,
+
+I want you to hear this directly from me. On March 31, we will close our Maple Street and Route 9 branches. Every one of the 14 people who work at those two branches will be offered a job in our new member phone and chat center, at the same pay or higher.
+
+Here is why. The way our members reach us has changed. Over the last three years, visits to these two branches fell 44%, while phone and chat contacts across the credit union rose 60%. We haven't kept pace. A member who calls us today waits an average of 9 minutes on hold. Every one of us feels that: by the time a member gets through, they're already frustrated. If we do nothing, those waits will keep growing as calls keep climbing.
+
+The new center puts our most experienced people where members now come to us. Nobody knows our members better than the staff at Maple Street and Route 9, and they are exactly the people we want answering.
+
+What this means for the 14 of you:
+
+- Pay: the same as today or higher.
+- Flexibility: after 90 days of training, you can work from home two days a week.
+- Hours: the center is open 8 a.m. to 8 p.m. on weekdays, longer than the branches' 9-to-5, and shifts will rotate. That means some early starts and some later evenings.
+
+I won't pretend this is easier for everyone in every way. For some of you, rotating shifts will be hard to fit around family or other commitments. That is a real cost, and I want to hear about it. [Name/HR] will meet with each of you individually by [date] to go through the role and the schedule and answer your questions.
+
+If the new role isn't right for you, you will receive two weeks of pay for every year you have worked here. Please let us know your decision by [date].
+
+To everyone at our other five branches: this center is built to answer the calls that today sit on hold. Members will get help faster, whichever way they reach us.
+
+I believe this change sets us up for better, more secure jobs, doing the work our members increasingly need from us. I'm grateful to the Maple Street and Route 9 teams for everything they have built in those branches. I'm glad to be bringing that experience with us.
+
+My door is open, and so is my inbox.
+
+[Your name]
+Chief Operating Officer
+</final_document>

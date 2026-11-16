@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-19-33Z",
+  "without_skill_run": "2026-11-16T19-19-09Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters are equally persuasive, concise, and well-suited to an admissions committee's priorities, but Document B stays slightly more honest to the brief. Document A subtly exaggerates by claiming he 'taught himself' the software and 'communicates well with the... vet,' whereas Document B sticks strictly to the provided facts."
+}

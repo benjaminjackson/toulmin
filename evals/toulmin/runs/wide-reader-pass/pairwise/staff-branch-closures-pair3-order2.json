@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-branch-closures",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-31Z",
+  "without_skill_run": "2026-11-16T19-19-13Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B tells me straight away that nobody loses their job unless they choose to. It also says the center needs people like us because we know the members, and it admits plainly that the new hours mean evening shifts. That makes me more willing to try the new role. A is honest and kind, but it sounds more generic and gives me less reason to think the phone work suits me."
+}

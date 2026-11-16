@@ -1,0 +1,25 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-19-47Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "This project would give 64 of those households a home.",
+      "why": "The brief says the units would rent to households earning under 60% of the area median income, not that the tenants would come specifically from the county housing authority's waiting list."
+    },
+    {
+      "quote": "The back lot is 1.8 acres of asphalt",
+      "why": "The brief describes it as a 1.8-acre back parking lot, without stating that it is paved in asphalt."
+    },
+    {
+      "quote": "I drive Alder Road every day.",
+      "why": "The brief states that the speaker has lived on Alder Road for 19 years, not that they drive or drive on Alder Road every day."
+    },
+    {
+      "quote": "every household gets a space and there are eight spaces left over.",
+      "why": "The brief says the plan has 72 parking spaces for 64 units, without specifying how the spaces are allocated to households."
+    }
+  ],
+  "invented_count": 4
+}

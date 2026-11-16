@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-19-13Z",
+  "without_skill_run": "2026-11-16T19-18-58Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both emails smartly avoid the false claim that every other publisher pays $12,000, while still making a strong case. Document A is slightly more persuasive because its tone feels more natural for a four-year working relationship, and it explicitly frames the $11,500 ask as being at the lower end of her agent's range as well as below her recent fee."
+}

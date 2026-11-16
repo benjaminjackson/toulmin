@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both speeches effectively reframe the traffic increase as a worthwhile trade-off for affordable housing, but Document A specifically offers the skeptical commissioners a procedural mechanism—attaching a condition to review signal timing—that gives them a way to vote yes without ignoring their stated concern. Document A also calculates that 64 units equates to housing one in six families on the waiting list, making the impact feel more concrete."
+}

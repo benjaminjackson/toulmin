@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:27:33.442487+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 411
+  tags: []
+  notes: extracted 411 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 3
+    objections: 5
+    fit: 8
+  details:
+    agree: The upfront apology and plain account of the lost chain will help with
+      a cold lead investor, but with no target for the reminder launch and no date
+      for the raise-or-cut decision, they get little reason to recommit.
+    honest: The numbers match the brief, but the 'Q3' label is invented, 'our strongest
+      asset' is opinion, and suggesting the lost chain might buy reminders is speculation.
+    works_the_facts: It works out the chain's 13% share, the $46,500 figure without
+      that loss, about 11 months of runway, and the drop from 13% to 7% no-shows,
+      but it gives no runway end date and no net-new revenue figure from the 9 new
+      clinics.
+    right_comparison: The counterfactual without the chain's loss is fair, but it
+      never says what happens if nothing changes, namely flat revenue and cash running
+      out around late 2027.
+    qualification: The promise to report standalone reminder sales and decide between
+      raising and cutting names no target number, no threshold and no consequence,
+      so the investor has nothing concrete to check.
+    objections: It apologises for the missed updates and commits to quarterly reporting,
+      but it doesn't explain the silence, and it leaves the lead investor's real worries
+      about runway and the plan to raise only loosely answered.
+    fit: It's a clear investor email under 500 words with a sensible structure and
+      a specific ask.

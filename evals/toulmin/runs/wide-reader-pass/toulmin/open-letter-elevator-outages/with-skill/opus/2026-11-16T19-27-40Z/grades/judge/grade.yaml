@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:28:34.462029+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 440
+  tags: []
+  notes: extracted 440 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 5
+    objections: 8
+    fit: 9
+  details:
+    agree: The tone is measured and the four asks are specific and cheap to meet,
+      so a manager who thinks the company has handled things well could answer them
+      without losing face; still, nothing pushes her to fund anything beyond paperwork
+      and a meeting.
+    honest: Every number comes from the brief and the derived figures hold up (41
+      days is about one in eight by mid-November, and 74 of 112 is two in three);
+      the upper-floor wheelchair scenario is framed as 'can mean', so it stays inside
+      the facts.
+    works_the_facts: 'It works the raw facts into stronger forms: one day in eight,
+      two households in three, and the point that eight weeks from June ran out in
+      August, the month of the longest outage.'
+    right_comparison: It shows that doing nothing means the same repeated estimate
+      while outages continue, but it gives no clear picture of the outage trend or
+      of what the coming weeks look like without the part.
+    qualification: It sets a reply deadline (still a placeholder) and says the reply
+      will be posted in the lobby, but it names no consequence if the deadline is
+      missed and no checkable condition beyond that.
+    objections: 'It takes on her likely objections directly: ''two out of every three
+      households'' answers the idea that this is a few loud people, and it deals with
+      the passing certificate and the $400,000 answer without raising objections the
+      facts already settle.'
+    fit: It is a properly formatted open letter of roughly 430 words, close to the
+      400 asked for, and it works for posting in the lobby.

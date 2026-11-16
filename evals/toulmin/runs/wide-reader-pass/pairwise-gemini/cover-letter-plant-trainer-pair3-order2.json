@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-27Z",
+  "without_skill_run": "2026-11-16T19-19-29Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters smartly avoid making a naive promise to cut training time in half and directly address the GMP gap. Document A edges out B because B's closing paragraph reads like the applicant is responding to a question I haven't asked yet ('On new-hire training time...'), whereas A integrates that goal naturally into their onboarding plan."
+}

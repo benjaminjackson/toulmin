@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-17-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B takes direct responsibility for the late report and makes concrete promises: a report after the first summer against a stated 9,000-pound goal, a board-tracked final deadline, and a pledge to say so if they fall short. That speaks to my four months of chasing better than A's general promise of quarterly updates. Both stay honest and avoid the 'double' claim, so this is a close call."
+}

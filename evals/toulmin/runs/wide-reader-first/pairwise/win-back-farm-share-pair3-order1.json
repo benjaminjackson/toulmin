@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-farm-share",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-28-03Z",
+  "without_skill_run": "2026-11-16T19-19-03Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A names the loss in concrete terms ('roughly three weeks of produce you paid for and didn't get'), which shows me the farm actually understands what I lost. B's apology is just as sincere and its changes are just as clear, but its 'if last summer had anything to do with that' feels a bit more hedged."
+}

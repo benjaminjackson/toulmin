@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a wary backer, I'd trust A more because it shows the real numbers: the $17,400 factory quote, about $9 per copy for shipping, and how the $28,000 goal covers both. B only says the numbers exist, and its placeholders make it feel unfinished. Both are honest about this being a first game and that only 23 people have rated it, but A's open cost breakdown speaks to the exact worry that cost me $85 before."
+}

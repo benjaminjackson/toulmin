@@ -1,0 +1,40 @@
+I recommend leaving out the five-week absence and the two days' notice entirely. They're your call, but here's my reasoning.
+
+I didn't leave them out, because "missed two shifts in three years" on its own would overstate his attendance. If anyone checked, it would hurt both him and you. So the letter mentions the time away in one clause, as a family emergency, and says he came back to his shift. That way the record stays accurate, and the main point a reader takes from it is that he returned. I left the short notice out because an admissions reader won't ask about it, and his father being ill explains it.
+
+I also covered his written English before an admissions reader could raise it. If his application essay is weaker than his interview, the committee will notice. It's better that they hear about it from you first, along with the fact that he's already taking a night class to improve it.
+
+**Before you send it, please check:**
+- **"Returned to his shift."** The letter assumes he came back to the same 3 a.m. shift after the five weeks. If he didn't, change that phrase.
+- **What early detection meant for you.** I didn't add any results from catching the mastitis early, such as cows treated sooner, milk not lost or money saved. If you have a real figure, add it after the sentence about the nine cases. It would be the strongest line in the letter.
+- **The bracketed items.** Fill in your name, the farm, your contact details, the date and the college's name.
+
+<final_document>
+[Farm name]
+[Address]
+[Phone] · [Email]
+
+[Date]
+
+Admissions Committee
+Agricultural Technology Program
+[State Technical College]
+
+Dear Admissions Committee,
+
+I am the manager of [Farm name], a 400-cow dairy. I'm writing to recommend Tomás [Last name] for your two-year Agricultural Technology program. He has worked for us for three years, since he was 19, and he is one of the most dependable people on my crew.
+
+Five days a week, Tomás runs our 3 a.m. milking shift by himself. Nobody is there to check his work or to fill in if he doesn't show up, so I have to be able to count on him completely. In three years he has missed two shifts. The only other time he was away was last summer, when his father became seriously ill in Mexico and Tomás went home for five weeks to be with him. When he came back, he went straight back to his shift.
+
+The main reason I think he belongs in your program is what he has done with technology on our farm. Tomás learned our herd management software and now uses it to spot cows that may be sick. When he sees a problem, he flags it for our veterinarian. Last winter he caught nine cases of mastitis early, before they turned into something worse. Nobody asked him to take this on. He saw that the data could help the cows and learned how to use it. Your program teaches the kind of work he has already started doing for us, and I think he will get a great deal out of the training.
+
+To be fully open with you, his spoken English is strong, but his written English is still developing. He knows this and is taking a night class to improve it. Given how fast he learned our software, I expect him to make steady progress here too.
+
+Tomás has already shown that he can work on his own, learn technical tools quickly and use them to make good decisions about animal health. I recommend him without reservation. Please feel free to contact me with any questions.
+
+Sincerely,
+
+[Your name]
+Farm Manager, [Farm name]
+[Phone] · [Email]
+</final_document>

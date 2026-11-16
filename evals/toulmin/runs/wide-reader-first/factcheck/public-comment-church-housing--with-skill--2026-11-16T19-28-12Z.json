@@ -1,0 +1,37 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-28-12Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "My house is two blocks from the church.",
+      "why": "The brief says the speaker has lived on Alder Road two blocks from the church, but does not say they live in a house."
+    },
+    {
+      "quote": "because the traffic from this project will go right past my house.",
+      "why": "The brief says the project will add trips on Alder Road where the speaker lives two blocks away, but does not state which direction the traffic goes or that it will pass right by the speaker's home."
+    },
+    {
+      "quote": "The county's study says this adds 310 car trips a day on Alder Road.",
+      "why": "The brief refers only to \"the traffic study\" and does not say the study was conducted by the county."
+    },
+    {
+      "quote": "I drive through that intersection.",
+      "why": "The brief does not mention whether the speaker drives or travels through the intersection at Alder and 4th."
+    },
+    {
+      "quote": "We'd be using asphalt that's already there.",
+      "why": "The brief calls the site a \"back parking lot\" of 1.8 acres, but does not state that it is paved with asphalt."
+    },
+    {
+      "quote": "But it's 64 families who stop waiting.",
+      "why": "The brief says the apartments will rent to households earning under 60% of the area median income, not that the tenants will come directly off the county housing authority's waiting list."
+    },
+    {
+      "quote": "If you say no tonight, that lot stays empty six days a week.",
+      "why": "The brief states the speaker is addressing the planning commission tonight, but does not say the commission is voting on the project tonight."
+    }
+  ],
+  "invented_count": 7
+}

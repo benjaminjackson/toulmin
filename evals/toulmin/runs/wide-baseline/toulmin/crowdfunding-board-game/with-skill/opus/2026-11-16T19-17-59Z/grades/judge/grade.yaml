@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T19:19:12.089151+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 463
+  tags: []
+  notes: extracted 463 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 7
+    honest: 6
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 4
+    objections: 6
+    fit: 7
+  details:
+    agree: The wary backer will appreciate the open cost breakdown, the refusal to
+      call the game a hit and the monthly-update promise, but with no delivery date
+      and no real risks section, someone who lost $85 on a project that never shipped
+      may still hold back.
+    honest: 'It rightly declines the ''proven hit'' claim, but it invents several
+      things: convention players ''who had never heard of it'', the BoardGameGeek
+      name, a fees label for the leftover $5,450, and a promise of monthly updates.
+      ''If fewer than half of them back the game, we still make it'' also overstates,
+      because the goal actually needs about 46% of the 1,240 sign-ups.'
+    works_the_facts: It works out 572 backers and $5,150 shipping for those backers,
+      and checks the backer count against the 1,240 sign-ups. But it never shows the
+      per-copy margin ($11.60 + $9 against $49), never says what happens to the 928
+      extra copies, and never states the 46% conversion the goal needs as an exact
+      figure.
+    right_comparison: The not-funded outcome is stated accurately (no one is charged,
+      no print run), but the comparison leans on emotion rather than on what the facts
+      show.
+    qualification: The buffer 'in case costs change' gives no amount the reader can
+      check, no date and no consequence, and there is no delivery timeline or contingency
+      if the factory quote or shipping cost rises.
+    objections: 'It names and addresses the first-time-creator worry with prepared
+      costs and a promise of updates, but leaves out what this reader checks most:
+      a delivery estimate, manufacturing risks and international shipping.'
+    fit: It is a crowdfunding pitch of roughly 500 words, as asked, though it still
+      contains a '[your name]' placeholder and quietly turns down the brief's 'proven
+      hit' framing.

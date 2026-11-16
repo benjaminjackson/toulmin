@@ -1,0 +1,37 @@
+I've written the letter for an admissions committee. Its main argument is that Tomás already does, alone and at 3 a.m., the work this program trains people for.
+
+Four choices you should know about:
+
+- **The five-week absence is in the letter, briefly.** "Missed only two shifts in three years" is true only if you set those five weeks aside, so the letter says so in a single clause. That keeps the attendance claim honest, and a family emergency won't count against him with most committees.
+- **The two days' notice is left out.** A reference letter doesn't need to list every fault. If the college asks you directly, answer honestly.
+- **The letter brings up his written English before the committee does.** They will likely notice it in his application essays. The night class he chose to take is the answer, and it shows initiative.
+- **Placeholders** are in [brackets]: your name, farm name, contact details and his last name. I didn't make up any facts beyond what you gave me.
+
+<final_document>
+[Farm Name]
+[Address]
+[Phone] · [Email]
+
+[Date]
+
+Admissions Committee
+Agricultural Technology Program
+[State Technical College]
+
+Dear Admissions Committee,
+
+I am writing to recommend Tomás [Last Name] for your two-year Agricultural Technology program. I manage [Farm Name], a 400-cow dairy operation, and Tomás has worked for us for three years, since he was 19.
+
+Tomás runs our 3 a.m. milking shift on his own, five days a week. Nobody else is on the farm at that hour. If something goes wrong with a cow or with the equipment, he deals with it. I trust him with that shift because in three years he has shown he can be trusted with it. Apart from five weeks last summer, when his father became seriously ill in Mexico and he went home to be with him, Tomás has missed two shifts in three years.
+
+What makes me think he belongs in your program is what he has done with technology on his own initiative. He learned our herd management software and now uses it, along with what he sees in the barn, to flag cows that need the vet. Last winter he caught nine cases of mastitis early. On a dairy farm, early detection means faster treatment, healthier cows and less lost milk. Those nine catches made a real difference to our herd and our bottom line. He is already doing the kind of data-informed herd work your program teaches, and I believe formal training will make him very good at it.
+
+You should know that Tomás's written English is not yet as strong as his spoken English. He knows this, and he is working on it. He enrolled in a night class on his own, on top of a shift that starts at 3 a.m. That is the same persistence I have seen from him on the farm every week for three years.
+
+Tomás is reliable, he notices problems before they get serious, and he wants to learn. I recommend him without hesitation. Please contact me at [phone] or [email] if I can tell you more.
+
+Sincerely,
+
+[Your Name]
+Farm Manager, [Farm Name]
+</final_document>

@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T19:19:25.424123+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 502
+  tags: []
+  notes: extracted 502 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 5
+    honest: 4
+    works_the_facts: 3
+    right_comparison: 3
+    qualification: 2
+    objections: 5
+    fit: 7
+  details:
+    agree: The open budget and the admission that this is a first game will reassure
+      some readers, but someone who has lost money on a campaign that never shipped
+      will notice there's no delivery date, no refund plan and only a vague 'reserve',
+      so they probably won't pledge yet.
+    honest: 'The draft doesn''t claim the game is a ''proven hit'', but it overstates
+      elsewhere: the heading says ''hundreds of tables'' when the brief gives 140
+      sessions, and it invents ''four winters of playtesting'', ''every session changed
+      something'', a mix of tester types and a ''locked in'' quote.'
+    works_the_facts: 'It derives no figures: it never shows that about 572 backers
+      at $49 reach the goal, that 1,500 copies would cost $30,900 to make and ship
+      (more than the goal), or what dollar amount ''the rest'' leaves for fees and
+      reserve, so the claim that the goal covers everything isn''t shown.'
+    right_comparison: It never compares this campaign with what the reader could otherwise
+      do, such as waiting for retail or backing an experienced creator, and it doesn't
+      measure the 1,240 signups against the roughly 572 backers needed to fund.
+    qualification: The risks section promises 'real dates' but gives none, and it
+      names no delivery month, no size for the reserve and no consequence if something
+      is missed, so a reader has nothing to check.
+    objections: 'It deals with the first-time-creator worry head-on and shows where
+      the money goes, but it skips the questions this reader would ask most: when
+      the game ships, whether the margin covers fees, and what happens to backers''
+      money if production fails.'
+    fit: It is roughly 500 words with suitable pitch sections, though it still contains
+      bracketed placeholders and drops the 'proven hit' framing the brief asked for
+      without saying so.

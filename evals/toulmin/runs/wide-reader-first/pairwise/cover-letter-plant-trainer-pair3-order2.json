@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-15Z",
+  "without_skill_run": "2026-11-16T19-19-29Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B states the GMP and LMS gaps up front, gives a concrete 30-day plan, and lays out its results in a format that's easy to scan, so a skeptical HR screener would trust it more. A is also solid, but it claims the writer is 'already working to understand GMP documentation,' which isn't in the brief, and it buries the admission of the gaps."
+}

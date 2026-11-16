@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters are very well written and make a strong case for the applicant, with Document A being slightly more concise for a quick read. However, Document A slips in a minor overstatement regarding his spoken English ('communicates clearly and confidently'), while Document B hits a genuinely authentic farm manager's voice and stays slightly closer to the facts, though it also assumes he taught himself the software."
+}

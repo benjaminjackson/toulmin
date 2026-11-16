@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-59Z",
+  "without_skill_run": "2026-11-16T19-18-58Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters stick to the facts and make the same case. B gives the number right away, points out that the books have done well for the publisher too, and ends with 'If that works for you, I'm ready to get started,' which makes it easy to say yes. A opens with 'before I say yes' and asks for a call, which slows the decision a little."
+}

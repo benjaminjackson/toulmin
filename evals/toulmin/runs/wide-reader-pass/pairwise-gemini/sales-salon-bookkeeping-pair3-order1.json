@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-28-15Z",
+  "without_skill_run": "2026-11-16T19-19-18Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Since my cousin only does my books once a year at tax time, Document A's point about seeing how last month went while I can still do something about it gave me a real reason to consider paying monthly, and I liked that it promised to save my cousin work rather than just save me money. Document B lost me a bit by claiming to know details about salon accounting that weren't in the facts, and by waiting too long to tell me the price."
+}

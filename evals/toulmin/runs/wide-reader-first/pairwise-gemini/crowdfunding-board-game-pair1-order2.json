@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who has been burned by an unfulfilled campaign before, Document B wins me over by actually showing the math on manufacturing, shipping, and buffer costs instead of leaving placeholders like Document A. Both wisely avoid the dishonest 'proven hit' exaggeration, and while Document A sensibly prompts for gameplay mechanics, seeing the exact financial breakdown in B is what convinces me this first-time creator will actually deliver."
+}

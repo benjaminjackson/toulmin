@@ -33,7 +33,8 @@ run_one_attempt() {
     --verbose
   )
   if [ "$arm" = "with-skill" ]; then
-    claude_flags+=(--plugin-dir "$repository_root/toulmin")
+    # TOULMIN_PLUGIN_DIR lets an experiment run a variant of the plugin (see variants/). The default is the plugin as shipped.
+    claude_flags+=(--plugin-dir "${TOULMIN_PLUGIN_DIR:-$repository_root/toulmin}")
   elif [ "$arm" = "without-skill" ]; then
     : # The without-skill arm adds nothing. ":" is the shell command that does nothing.
   else

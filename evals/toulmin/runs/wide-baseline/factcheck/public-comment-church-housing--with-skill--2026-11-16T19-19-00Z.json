@@ -1,0 +1,29 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-19-00Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I drive through that intersection.",
+      "why": "The brief does not state whether the speaker drives or uses the intersection at Alder and 4th."
+    },
+    {
+      "quote": "I'll be one of the people waiting a little longer at that light.",
+      "why": "The brief does not say that the intersection at Alder and 4th has a traffic light or that the speaker waits at it."
+    },
+    {
+      "quote": "This project would house 64 of those households. That's roughly one in every six families on that list.",
+      "why": "The brief says the apartments will rent to households earning under 60% of the area median income, not that tenants will be drawn from the county housing authority's waiting list."
+    },
+    {
+      "quote": "And it does this on land that's already paved.",
+      "why": "The brief calls the site a back parking lot, which could be gravel or dirt, and does not state that it is paved."
+    },
+    {
+      "quote": "Every apartment has a space, with eight to spare.",
+      "why": "The brief states there are 72 parking spaces for 64 units, not how the spaces are allocated per apartment."
+    }
+  ],
+  "invented_count": 5
+}

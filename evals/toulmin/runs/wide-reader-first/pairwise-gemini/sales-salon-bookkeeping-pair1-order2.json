@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A sticks strictly to the facts, whereas Document B invents a promise to notify clients in advance if the books will be late. Furthermore, since I currently only pay my cousin $600 a year, Document B's section about raising prices on loyal clients makes me hesitate even more about jumping to $2,400 a year."
+}

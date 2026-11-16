@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-25Z",
+  "without_skill_run": "2026-11-16T19-19-40Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A includes the headcount from the brief and shows much better business judgment, particularly in how it frames the standalone reminder product as a wedge and asks investors for strategic advice on selling alongside bundled incumbents. Document B omits the team size and includes a 'For scale' section that actually undermines my confidence by highlighting that they have to close 37 new deals just to replace the single customer they lost."
+}

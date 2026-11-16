@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-17-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A is much more credible because the speaker discloses up front that they are a member of the church, whereas Document B hides this and presents the speaker simply as a neighbor. In a room of 60 neighbors who know who goes to that church, omitting that affiliation would immediately ruin the speaker's trustworthiness, and Document A also avoids minimizing the commissioners' main traffic concern by calling it 'modest.'"
+}

@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:18:37.555385+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 331
+  tags: []
+  notes: extracted 331 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 7
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 4
+    objections: 7
+    fit: 9
+  details:
+    agree: "The letter gives specific, checkable details (the solo 3 a.m. shift, nine\
+      \ early mastitis cases, two missed shifts in three years), so a skimming reader\
+      \ would probably rate Tom\xE1s above the general pool, though the closing about\
+      \ what the industry needs is generic."
+    honest: 'Several claims go beyond the brief: ''on his own initiative'', ''seriously
+      ill'', and ''clearly and confidently in spoken English'' are not stated there,
+      and calling the absence a ''family medical leave'' hides that he gave only two
+      days'' notice.'
+    works_the_facts: 'The facts are repeated rather than worked: two missed shifts
+      out of roughly 780 is better than 99.7% attendance, and three years of solo
+      3 a.m. milkings is hundreds of unsupervised shifts, but neither figure is calculated.'
+    right_comparison: "Apart from 'one of the most dependable people on our team',\
+      \ Tom\xE1s is never compared with other workers or with a typical applicant,\
+      \ so the reader has no baseline for his record."
+    qualification: A reference letter needs no conditional hedge, and the one weakness,
+      his written English, is presented as a fact together with the remedy he is already
+      taking.
+    objections: The two likely concerns, his written English and a long absence, are
+      both raised and answered briefly without adding doubts the reader would not
+      otherwise have, though the night class is described only vaguely.
+    fit: It is a one-page formal reference letter from the farm manager with the standard
+      letter format and placeholders, as the brief asked.

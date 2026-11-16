@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:21:16.068474+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 454
+  tags: []
+  notes: extracted 454 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 7
+    honest: 6
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 5
+    objections: 6
+    fit: 8
+  details:
+    agree: A wary backer gets a clear budget, the factory quote and a frank admission
+      that this is a first-time creator, so they would probably pledge, though they
+      would still want a delivery date and a risks section.
+    honest: It rightly turns down the 'proven hit' claim, but it makes up a cause
+      for the play count ('because people who played it asked to play again'), stretches
+      that into 'they come back', and says 'every dollar goes to the game' when fees
+      take part of it.
+    works_the_facts: It works out $11.60 a copy, about 572 backers, about $22,550
+      for printing and shipping, and the fact that the goal covers the full run of
+      1,500, and it sets the 1,240 sign-ups against the 572 backers needed, all correctly
+      and in their best true form.
+    right_comparison: 'It states the alternative plainly: if the goal is missed there
+      is no print run. It also sets the missing sales record against the playtest
+      evidence instead of inflating it.'
+    qualification: Monthly updates and the all-or-nothing goal can be checked, but
+      there is no delivery month and nothing on what happens if the factory quote
+      or the $9 shipping estimate goes up.
+    objections: It meets the first-time-creator worry head on with the quote and the
+      budget, but it says nothing about fulfillment experience, cost overruns, or
+      where the 928 copies beyond the backers' go, which are the risks this reader
+      cares about.
+    fit: It is a campaign pitch of about 500 words with clear sections and a call
+      to action, as the brief asked.

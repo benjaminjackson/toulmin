@@ -1,0 +1,33 @@
+{
+  "task": "staff-branch-closures",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-18-40Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "On March 31, we will close our Maple Street and Route 9 branches and open a new member phone and chat center at [location].",
+      "why": "The brief states the two branches will close on March 31 and staff will move to a new center, but it does not say the new center will open on March 31 or have a physical location."
+    },
+    {
+      "quote": "we'll share how the rotation works before anyone has to decide.",
+      "why": "The brief states that shifts will rotate, but does not mention a commitment to share rotation details before staff must decide on the job offer."
+    },
+    {
+      "quote": "We want to hear about your circumstances and will work with you where we can.",
+      "why": "The brief does not mention offering schedule accommodations or working with staff on their personal circumstances."
+    },
+    {
+      "quote": "your manager and [HR contact] are available to talk it through privately at any point before then.",
+      "why": "The brief does not mention that branch managers or HR are available for private consultations regarding the decision."
+    },
+    {
+      "quote": "For those of you at our other five branches, nothing changes in your role.",
+      "why": "The brief does not state whether or not roles at the other five branches will remain unchanged."
+    },
+    {
+      "quote": "We will hold an all-staff meeting on [date/time] to go over the details and answer your questions.",
+      "why": "The brief does not mention holding an all-staff meeting."
+    }
+  ],
+  "invented_count": 6
+}

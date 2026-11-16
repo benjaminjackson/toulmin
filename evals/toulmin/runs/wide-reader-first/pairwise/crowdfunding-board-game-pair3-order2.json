@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-40Z",
+  "without_skill_run": "2026-11-16T19-19-25Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks directly to my worry as someone who has backed first-time creators before. It shows the factory quote, gives a line-by-line budget that adds up, admits that 23 ratings is a small sample and promises a monthly update on a fixed date. A keeps the costs vague and still has unfilled placeholders, so it reads like a template."
+}

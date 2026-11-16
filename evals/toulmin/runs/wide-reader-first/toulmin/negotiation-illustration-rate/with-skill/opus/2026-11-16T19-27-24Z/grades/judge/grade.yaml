@@ -1,0 +1,52 @@
+grader: judge
+graded: '2026-11-16T19:27:58.967955+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 188
+  tags: []
+  notes: extracted 188 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 6
+    objections: 5
+    fit: 9
+  details:
+    agree: A warm, specific request with a strong record and a below-market ask would
+      likely get this editor to offer more than $9,000, but with a $9,000 budget and
+      an $8,000 alternative, they may counter rather than agree to the full $11,500.
+    honest: It rightly drops the false claim that every other publisher pays at least
+      $12,000, but 'the rate I'm offered elsewhere has gone up' points to a trend
+      and several offers when the brief backs only one $12,500 fee.
+    works_the_facts: It uses the raw figures well (six books, four years at the same
+      fee, 20,000+ copies, four months per book), but it never derives anything, such
+      as $9,000 over four months coming to $2,250 a month, or how small the increase
+      is next to two books that sold 20,000+ copies.
+    right_comparison: "It sets the flat $9,000 against the $12,500 paid elsewhere\
+      \ and the agent's $11,000\u2013$13,000 range, which is accurate, but the 'gone\
+      \ up' trend is asserted rather than shown."
+    qualification: This is a plain fee request with no forecast or condition, so it
+      needs no hedge.
+    objections: The editor's real pushback is the fixed budget and a cheaper illustrator,
+      and the email answers it only by implication through the sales record, never
+      saying outright what a proven seller is worth next to an unproven one.
+    fit: It is a clear, polite email of about 200 words, under the 250-word limit,
+      with a subject line, the ask stated early and an easy next step.

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "While I appreciate that Document A acknowledges my childcare concerns and promises a personal meeting with the COO, it ruins its credibility right at the start by saying 'I want you to hear this from me first' when we've been hearing rumors for two weeks. Document B is more honest to my reality by acknowledging that I will miss my branch and the members I've known for years, rather than pretending moving to a call center is automatically a great thing for me."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who has been burned by an unfulfilled campaign, Document A wins me over by laying out the exact math of the factory quote, shipping costs, and fee buffer right on the page. Document B leaves the financial breakdown as a blank placeholder, whereas A proves the creator has actually done the math to ensure the game ships."
+}

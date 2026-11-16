@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-28-40Z",
+  "without_skill_run": "2026-11-16T19-19-25Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins my trust because it breaks down the exact math of the $28,000 goal against the factory quote and shipping costs, showing me the creator won't run out of money to fulfill. Document B leaves out the actual numbers and invents gameplay details that weren't in the brief, while Document A's honest humility about the 23 ratings and specific commitment to monthly updates makes me comfortable backing a first-timer."
+}

@@ -1,0 +1,41 @@
+{
+  "task": "grant-refrigerated-van",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-17-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "That is the food we have the hardest time getting, because it has to stay cold from the moment we collect it.",
+      "why": "The brief does not state that fresh produce, milk, and eggs are the hardest foods for the food bank to get."
+    },
+    {
+      "quote": "We are willing to make that commitment because the van closes the biggest gap in what we can offer our neighbors.",
+      "why": "The brief does not say that fresh or refrigerated food is the biggest gap in what the food bank offers."
+    },
+    {
+      "quote": "Our goal for the first year is to collect at least the 9,000 pounds of farm produce we turned away last summer.",
+      "why": "The brief does not set a first-year goal of collecting 9,000 pounds of farm produce; it instead asks to say the van will double the amount of fresh food handed out in the first year."
+    },
+    {
+      "quote": "Outside the growing season, we will use the van to seek other donations of produce, milk and eggs that we could not consider before because we had no way to keep them cold.",
+      "why": "The brief does not mention plans to seek other donations of produce, milk, and eggs outside the growing season or state that such donations were previously not considered."
+    },
+    {
+      "quote": "submit a report after our first summer with the van, showing the pounds of fresh food collected, the farms it came from, and how the total compares with our 9,000-pound goal; and",
+      "why": "The brief does not mention committing to submit an interim report after the first summer or tracking those specific details."
+    },
+    {
+      "quote": "submit our final report on or before its due date, with the deadline tracked by our board.",
+      "why": "The brief does not mention having a board or that a board will track the final report deadline."
+    },
+    {
+      "quote": "If we fall short of 9,000 pounds in the first summer, that report will say so and explain what we will change.",
+      "why": "The brief does not mention a commitment to report on falling short of 9,000 pounds in the first summer or explaining changes."
+    },
+    {
+      "quote": "food grown a few miles away will not reach the families who need it.",
+      "why": "The brief says the farms are 'local' but does not state that the food is grown 'a few miles away'."
+    }
+  ],
+  "invented_count": 8
+}

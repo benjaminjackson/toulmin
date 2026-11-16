@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:20:49.460748+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 454
+  tags: []
+  notes: extracted 454 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 9
+    right_comparison: 7
+    qualification: 4
+    objections: 6
+    fit: 6
+  details:
+    agree: 'Marisol would likely recommend it: the case is clear, the late report
+      is admitted up front, and the 26 percent match shows commitment, but the empty
+      brackets on operating costs and the reporting fix leave her two main doubts
+      open.'
+    honest: The draft rightly drops the unsupported 'double' claim and invents no
+      figures, though calling 9,000 extra pounds a guaranteed 'floor' assumes last
+      summer's farm offers will come back.
+    works_the_facts: It works out 72,000 pounds of fresh food a year, a 12.5 percent
+      annual increase and a 50 percent rise over the summer months, then leads with
+      the larger, still-true summer figure and the 'more than a quarter' match.
+    right_comparison: The alternative is described accurately (without cold transport
+      the food bank keeps turning down farm produce), but the draft doesn't say plainly
+      that the 9,000 pounds would be lost again each summer without the van.
+    qualification: It promises monthly tracking and on-time reports but gives no report
+      dates, no target she can check by a set time, and no consequence if a target
+      is missed, and the key commitment is still a placeholder.
+    objections: It names the late report directly, which is the right move for this
+      reader, but the remedy and the operating-cost answer (the obvious worry with
+      only $11,000 left in reserves) are both blank placeholders.
+    fit: It is a narrative of the right form and under 500 words, but the bracketed
+      placeholders mean it can't be submitted as written.

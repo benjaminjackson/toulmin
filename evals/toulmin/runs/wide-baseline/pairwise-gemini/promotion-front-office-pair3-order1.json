@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-19-47Z",
+  "without_skill_run": "2026-11-16T19-19-17Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A thinks like a manager by translating the training and turnover improvements into concrete payroll math (81 training shifts cut to 25), which goes a long way toward easing my concerns about the $1.1M budget. It also makes a sharper point about the risks of bringing in an outsider to a newly stabilized team while tactfully acknowledging the renovation's role in our score increase."
+}

@@ -1,0 +1,71 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+The lead angel investor, who put in $250,000 and has the right to join the next round. The founder skipped the last two quarterly updates, and the investor said so in a short, cold email last month. The investor decides whether to keep backing the company and taking the founder's calls.
+</reader>
+
+<brief>
+I need to send a quarterly update to our investors. I'm the founder of a scheduling app for physical therapy clinics. We have 6 people.
+
+Numbers for the quarter:
+- Monthly recurring revenue is $41,000, the same as three months ago.
+- We added 9 clinics and lost 4. One of the 4 was our largest customer, a 12-clinic chain that paid $5,500 a month. They moved to the scheduler built into their electronic records system.
+- We have $480,000 in the bank and lose about $44,000 a month.
+- Clinics that use our automatic text reminders have a no-show rate of 7%, against 13% before they started.
+- I didn't send updates for the last two quarters.
+- Next month we start selling the reminder feature on its own for $150 a month.
+
+Under 500 words. It goes to 11 investors.
+</brief>
+
+
+
+<document>
+Subject: [Company] quarterly update: flat revenue, a big loss, and a new product launching next month
+
+Hi all,
+
+First, an apology. You haven't heard from me in two quarters, and that was my mistake. From now on you'll get an update every quarter, whether the news is good or bad.
+
+**Headline numbers**
+- Monthly recurring revenue: $41,000, the same as three months ago
+- Clinics: 9 added, 4 lost
+- Cash: $480,000
+- Net burn: about $44,000 a month, so about 11 months of runway
+
+**The bad news**
+We lost our largest customer this quarter, a 12-clinic chain paying $5,500 a month. They switched to the scheduler built into their electronic records system. The 9 new clinics made up for that revenue, which is why monthly revenue stayed flat instead of falling. Still, we aren't growing, and that isn't where we need to be.
+
+This loss also taught us something. For larger groups, a basic scheduler that comes free with their records system is a real competitor. Scheduling on its own may not be enough to keep them.
+
+**The good news**
+Our automatic text reminders are working. Clinics that use them have a 7% no-show rate, compared with 13% before they started. That cuts missed appointments almost in half. Every no-show is a lost visit for the clinic, so this is the clearest value we deliver. It also works no matter which scheduler a clinic uses.
+
+**What's next**
+Starting next month, we'll sell the reminder feature on its own for $150 a month. This lets us sell to clinics that are committed to their records system's scheduler, including groups like the chain we just lost, without having to replace that scheduler. It also gives current customers another reason to stay.
+
+Runway is my main concern. In the next update I'll report how the standalone reminders are selling and what that means for our spending and fundraising plans. You'll get that update on time.
+
+**How you can help**
+1. Introductions to owners or operations leads at physical therapy clinics, especially groups with several locations that use a records system with a built-in scheduler.
+2. If you've worked with companies that sell add-on products to users of a larger platform, I'd value 20 minutes of your advice on pricing and positioning.
+
+Thank you for your patience and support. I'm glad to talk with any of you one on one. Just reply to this email.
+
+[Your name]
+Founder, [Company]
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

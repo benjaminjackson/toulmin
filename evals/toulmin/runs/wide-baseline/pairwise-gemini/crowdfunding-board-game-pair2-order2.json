@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-19-12Z",
+  "without_skill_run": "2026-11-16T19-18-43Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B actually does the math on the budget (570 backers to hit the goal, meaning shipping is ~$5,100, leaving plenty of room after the $17,400 print run), which directly answers my biggest fear of a first-time creator miscalculating shipping and running out of money. Document A contains invented mechanics, unedited placeholders, and a false claim about locking in the factory quote."
+}

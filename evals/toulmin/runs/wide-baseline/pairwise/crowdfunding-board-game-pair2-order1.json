@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-19-12Z",
+  "without_skill_run": "2026-11-16T19-18-43Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A shows the budget math (about 570 backers, printing plus shipping about $22,500) and answers the first-time-creator question directly. B says 'hundreds of tables' when the brief gives 140 sessions, and it still has unfilled placeholders, so even with its risks section it reads as less trustworthy to a wary backer."
+}

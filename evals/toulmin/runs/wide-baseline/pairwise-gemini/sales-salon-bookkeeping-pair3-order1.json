@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-19-22Z",
+  "without_skill_run": "2026-11-16T19-19-18Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Since I'm currently only paying my cousin $600 a year, $199 a month is a huge jump for me, and Document A won my trust immediately by putting the price up front and reassuring me in the final paragraph that they'll tell me honestly if my current setup is already fine. Document B opens with generic sales fluff and buries the price, though I did really like how it noted that Sundays and Mondays are salon days off too."
+}

@@ -1,0 +1,17 @@
+{
+  "task": "sales-salon-bookkeeping",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-19-22Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The other 9 months I hit it.",
+      "why": "The brief says the bookkeeper missed the 10th of the month 3 times last year across 31 clients, not that 3 entire calendar months were missed and the other 9 were hit."
+    },
+    {
+      "quote": "The rest of the week, I'm the one who picks up.",
+      "why": "The brief only states that the bookkeeper is one person and does not answer the phone on Sundays or Mondays, not that they answer the phone every other day of the week."
+    }
+  ],
+  "invented_count": 2
+}

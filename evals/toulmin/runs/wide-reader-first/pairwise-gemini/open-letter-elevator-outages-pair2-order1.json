@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-27-36Z",
+  "without_skill_run": "2026-11-16T19-18-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A makes three reasonable requests for information and frames the situation so that providing a response is in my best interest, especially with the promise to post our reply in the lobby. Document B makes five demands, including commissioning an expensive independent engineering review and posting monthly outage logs, which confirms my view that the association is just a group of unreasonable agitators."
+}

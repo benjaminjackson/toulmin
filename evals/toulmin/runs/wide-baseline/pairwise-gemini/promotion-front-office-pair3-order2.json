@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-19-47Z",
+  "without_skill_run": "2026-11-16T19-19-17Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B translates the candidate's operational wins into actual payroll savings—like cutting paid training from 81 shifts to 25—which eases my concern about their lack of budget experience, whereas Document A makes them sound like they will need six months of hand-holding. B also smartly highlights the risk of an outside hire disrupting a newly stable team while fairly acknowledging the renovation's role in our score increase."
+}

@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:28:24.764576+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 376
+  tags: []
+  notes: extracted 376 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 8
+    right_comparison: 6
+    qualification: 5
+    objections: 7
+    fit: 9
+  details:
+    agree: The cold investor gets a direct apology, a dated commitment and the bad
+      news in the subject line, which would likely restore trust, but there is no
+      concrete milestone that would persuade them to keep backing the company in the
+      next round.
+    honest: 'Every figure follows from the brief: about 11 months of runway, $35,500
+      to $41,000 excluding the chain, 13% concentration and ''close to half''; the
+      only addition is a mild, reasonable line about unbillable slots.'
+    works_the_facts: Pulling out about 15% growth excluding the lost chain, plus the
+      runway and concentration figures, puts the facts in their best true form, but
+      the letter never works out how many $150 reminder subscribers would offset the
+      loss or extend runway.
+    right_comparison: The letter gives the runway end date if nothing changes and
+      names the records-system scheduler as the competitor, but it doesn't say what
+      that threat means for the remaining multi-clinic customers or compare standalone
+      reminders against the current trend.
+    qualification: The February 15 report list is dated and checkable, but it sets
+      no number for reminder uptake and no consequence if it falls short, and 'whether
+      we're raising' is left open.
+    objections: 'It answers the missed updates, the flat MRR and customer concentration
+      head-on, but leaves an investor''s real worry open: is the standalone reminder
+      enough to change the trajectory before cash runs out?'
+    fit: It's a clear investor update of roughly 430 words, with a subject line, a
+      numbers block and a single ask, as the brief requested.

@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:27:36.594391+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 488
+  tags: []
+  notes: extracted 488 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 6
+    qualification: 4
+    objections: 5
+    fit: 7
+  details:
+    agree: The opening apology, plain bad news and the 15% growth without the chain
+      would ease a cold investor, but with 11 months of runway and no raise or cut
+      plan, they have little reason to commit to the next round.
+    honest: The figures follow from the brief and the standalone bet is openly called
+      untested, though the 'Q4' label is invented and 'growth across all other customers'
+      really means net growth that includes new clinics.
+    works_the_facts: It derives the ~11-month runway, the $35.5K-to-$41K (15%) growth
+      without the chain, the near-halving of no-shows and the ~290 standalone customers
+      needed for breakeven, all correctly and in their most favourable true form.
+    right_comparison: It shows the underlying trend behind the flat MRR, but it never
+      says what happens if nothing changes, such as when the money runs out at the
+      current pace or how long the 15% growth would take to cover the burn.
+    qualification: '''The first months of sales will tell us'' and next quarter''s
+      list name things to check, but none has a target number, a deadline or a consequence
+      if it is missed.'
+    objections: 'It deals with the missed updates and the risk of records systems
+      bundling scheduling, but not this investor''s biggest worry: 11 months of runway
+      and only ''what we plan to do about it'', with nothing on fundraising.'
+    fit: The form suits an investor update and is easy to scan, but at roughly 500
+      words it sits at or just over the length limit.

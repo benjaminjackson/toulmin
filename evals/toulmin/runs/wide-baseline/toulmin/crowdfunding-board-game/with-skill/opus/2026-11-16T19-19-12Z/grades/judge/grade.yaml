@@ -1,0 +1,52 @@
+grader: judge
+graded: '2026-11-16T19:20:14.973311+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 443
+  tags: []
+  notes: extracted 443 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 6
+    objections: 7
+    fit: 9
+  details:
+    agree: The wary backer sees a first-time creator who admits it, shows the budget
+      and real playtest numbers, and would likely pledge, though the missing delivery
+      timeline and the unexplained 930 extra copies leave some doubt.
+    honest: The draft swaps 'proven hit' for 'proven at the table' and keeps every
+      figure accurate, but naming BoardGameGeek goes beyond the brief and 'those 140
+      sessions answered that' overstates what 23 ratings and playtests can show.
+    works_the_facts: It works out about 570 backers at the goal, about $5,100 in shipping,
+      about $22,500 for printing plus shipping, and roughly half the launch list to
+      fund, though it never sizes the roughly $5,500 remainder or says what happens
+      to the other 930 printed copies.
+    right_comparison: 'The alternative is stated plainly and matches the facts: no
+      print run, and the game stays a prototype that 60 people have played.'
+    qualification: The funding condition gives a checkable number (about half of 1,240)
+      and a consequence, but it has no date and no delivery-timeline hedge.
+    objections: The first-time-creator objection is raised directly and answered with
+      the fully funded print run, but the reader's other worries, delivery date, manufacturing
+      risk and the inventory beyond backer copies, go unaddressed.
+    fit: It is a crowdfunding pitch of about 480 words with clear sections, close
+      to the 500 words the brief asked for.

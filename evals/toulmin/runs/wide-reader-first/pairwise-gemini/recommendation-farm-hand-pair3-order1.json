@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-28-08Z",
+  "without_skill_run": "2026-11-16T19-19-09Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters are persuasive, well-written, and stay honest to the brief, though Document A has a slight edge because its bolded topic sentences make it much faster to scan during a quick review of 150 applications. However, Document B sounds slightly more like a natural letter from a farm manager, making this a very close call."
+}

@@ -1,0 +1,17 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-28-25Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Records systems include a scheduler at no extra cost",
+      "why": "The brief says the lost customer moved to the scheduler built into their electronic records system, but it does not say that records systems include a scheduler for free."
+    },
+    {
+      "quote": "They're the first buyers we want to reach for standalone reminders.",
+      "why": "The brief does not mention targeting owners, operations leads, or multi-site groups first for the standalone reminder feature."
+    }
+  ],
+  "invented_count": 2
+}

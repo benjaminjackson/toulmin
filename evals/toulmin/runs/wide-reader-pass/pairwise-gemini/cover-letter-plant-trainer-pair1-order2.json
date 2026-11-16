@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B translates teaching into the realities of a regulated plant much better, noting that training records exist to prove compliance and mentioning working with the quality team and getting signed off. However, Document B invents that it has been 'seven years' since 2019 (which wasn't in the brief), while Document A stays completely faithful to the provided facts while smartly softening the applicant's naive desire to promise cutting training time in half."
+}

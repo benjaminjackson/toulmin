@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B sounds slightly more like an authentic dairy farm manager speaking plainly and directly, whereas Document A feels a bit more generically polished. B also connects his night class directly to his 3 a.m. shift, which makes his work ethic stand out even more on a quick read."
+}

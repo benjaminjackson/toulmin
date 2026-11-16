@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-17-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both narratives wisely rely on the actual math—a 50% summer increase in fresh food rather than an unsupported claim of doubling—and both directly address the late 2023 report. Document A is slightly more persuasive because its opening hook is stronger and its plan for an interim post-summer report is much more practical for an all-volunteer group than Document B's promise of quarterly updates."
+}

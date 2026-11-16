@@ -1,0 +1,46 @@
+I wrote this with a narrower version of the guest-score claim than you asked for. Here's why.
+
+**What you want to say vs. what the facts support.** You want to say you're the main reason the check-in score went from 7.9 to 8.6. What the facts support is that the score rose while you were building a better-trained, steadier front desk team. They can't show your work was the main cause, because the lobby and every room were renovated in the same 18 months. Your general manager approved that renovation and knows when it happened. If the memo gives you the main credit, their first thought will be "that was the new lobby." Then they may start doubting your other numbers too, and those numbers are strong.
+
+**What I wrote instead.** The memo gives the renovation its share and then claims what you can actually show: a check-in depends on the people at the desk, and you rebuilt that team. Turnover dropped from 9 of 14 to 5 of 14, and new hires work alone after 5 shifts instead of 9. That's harder to argue with, and it still connects the score to you. If you still want the bold version, change the last sentence of the guest-score paragraph to: "I believe the desk team is the main reason the score moved, and that team is the work I've done." Expect your manager to push back on it.
+
+**The budget.** You've never managed a budget, and your manager will notice that whether or not you mention it. So the memo raises it first. It points out that your turnover and training results already save payroll, then offers a specific plan your manager can hold you to.
+
+**Please check these before Friday. I added them, so they aren't facts you gave me:**
+- **The budget plan.** It promises a first-90-days review with your manager, monthly payroll reports against budget, and a written fix if you go over. Keep it only if you can deliver it.
+- **Training shifts are paid hours.** That's normal, but confirm it's true at your hotel.
+- **Fill in** the review site's name, your manager's name and your name.
+
+<final_document>
+**To:** [General Manager]
+**From:** [Your name], Assistant Front Office Manager
+**Re:** Application for Front Office Manager
+
+I'm applying for the front office manager position. I've worked at this hotel for six years, the last two as assistant front office manager. For the past seven weeks I've done the front office manager's job alone. I'm asking for the title and the full role, including the payroll budget, which I cover below.
+
+**What has changed at the front desk in my two years as assistant manager**
+
+- **Turnover is down.** In the year before I became assistant manager, 9 of our 14 front desk staff left. Last year, 5 did. That's four fewer people a year to recruit, hire and train.
+- **New hires are ready sooner.** I rewrote the front desk training. New hires now work the desk alone after 5 shifts instead of 9, almost half the time.
+- **Guests rate check-in higher.** Our check-in score on [review site] went from 7.9 to 8.6 over the last 18 months. The renovation gets real credit for that, because a new lobby changes how arriving feels. But guests also rate the people at the desk: how quickly they're served and how well staff know the job. A trained team that stays is what the desk adds to that score, and that team is what I've been building.
+
+**The last seven weeks**
+
+I've run the front office alone since the role came open. You've seen how the desk has done in that time, and that's the clearest picture you have of how I'd do the job.
+
+**The budget**
+
+I have never managed a budget, and this role owns a $1.1 million payroll. You need to know that before you decide. Some of my work already affects that payroll: each new hire now needs four fewer paid training shifts, and we're replacing four fewer people a year. Owning the whole budget is a bigger job, so here is what I propose:
+
+- In my first 90 days, I'll go through the payroll budget line by line with you.
+- Every month after that, I'll give you a short report on front office labor cost against budget.
+- If we go over budget in any month, I'll explain why in writing and say what I'm changing.
+
+**Why me rather than an outside hire**
+
+Someone from outside would need months to learn our team, our guests and how this hotel runs. I already know all three, I built the team that's at the desk now, and I've been doing this job for seven weeks.
+
+I'd be glad to talk this through with you before you decide.
+
+[Your name]
+</final_document>

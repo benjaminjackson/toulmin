@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-33Z",
+  "without_skill_run": "2026-11-16T19-18-51Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A is much more honest and strategically mature about the existential threat from bundled EHR schedulers and the urgent need for a runway plan, without inventing a timeline like Document B does. Even with the template placeholders, A's candid diagnosis of the market and realistic asks actually rebuild my trust after six months of silence."
+}

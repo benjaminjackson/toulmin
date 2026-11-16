@@ -1,0 +1,13 @@
+{
+  "task": "staff-branch-closures",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-28-31Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "In the next two weeks, we'll meet one-on-one with each person at Maple Street and Route 9. We'll go through the role, the shift rotation and your own situation.",
+      "why": "The brief does not mention any planned one-on-one meetings with the affected staff or a two-week timeframe for holding them."
+    }
+  ],
+  "invented_count": 1
+}

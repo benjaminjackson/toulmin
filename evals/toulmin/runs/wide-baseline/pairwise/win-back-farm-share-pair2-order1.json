@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-farm-share",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-18-51Z",
+  "without_skill_run": "2026-11-16T19-18-32Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B speaks to my main complaint, that the farm went quiet, by promising to tell us quickly and in detail next time. It also admits we should have gotten credit. That promise isn't in the brief's facts, though, and A covers the same changes and apology accurately, so the gap is small."
+}

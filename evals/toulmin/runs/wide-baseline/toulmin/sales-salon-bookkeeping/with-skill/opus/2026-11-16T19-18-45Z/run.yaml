@@ -1,0 +1,38 @@
+task:
+  name: sales-salon-bookkeeping
+  type: sales-page
+  set: tune
+  reader: The owner of a small hair salon with four chairs who clicked an ad and landed
+    on the page. Her cousin does her books at tax time for $600 a year and she is
+    fond of him. She decides whether to book a free call.
+  prompt: 'Write the main text for my sales page. I''m a bookkeeper and I work only
+    with hair and nail salons. I do monthly books, payroll for up to 10 staff, and
+    sales tax filing.
+
+
+    What''s true:
+
+    - I have 31 salon clients. 2 left last year, both because they sold their salons.
+
+    - I charge $199 a month. Until January it was $149, and I raised it for everyone,
+    including existing clients.
+
+    - I close each month''s books by the 10th of the next month. I missed that date
+    3 times last year.
+
+    - Last tax season, 9 of my clients told me their accountant charged them less
+    because the books came in clean. One said she saved $800.
+
+    - I''m one person. I don''t answer the phone on Sundays or Mondays.
+
+    - The first call is free and takes 20 minutes.
+
+
+    Keep it to about 350 words, with a button at the end to book the call.'
+config:
+  name: with-skill
+  runner: /Users/ben/github/toulmin/evals/toulmin/run-with-skill
+  model: opus
+started: '2026-11-16T19:18:45.983481+00:00'
+duration_seconds: 23.49
+exit_code: 0

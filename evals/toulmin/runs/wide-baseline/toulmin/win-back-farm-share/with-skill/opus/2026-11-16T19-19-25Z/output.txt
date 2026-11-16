@@ -1,0 +1,34 @@
+I wrote the email below at about 175 words. Some notes on the choices:
+
+- **The apology comes before the ask.** These readers have a real grievance: six short weeks, no credit, and one brief email. The draft admits that plainly before mentioning any changes. "Roughly three weeks' worth of vegetables" comes from your numbers: six weeks at half size is about three full boxes, or around $74 at $24.55 a week.
+- **I avoided overpromising.** The hail nets cover only tomatoes and peppers, so the email doesn't claim the farm is now storm-proof. It also doesn't present the pause credit as payment for weeks lost to bad weather, because it isn't.
+- **There's one promise you need to check.** "You'll hear from me straight away and in full" is a commitment I wrote for you. Keep it only if you'll stick to it.
+- **One thing you could add.** A small goodwill offer would make this email much stronger. Former members' main complaint is that they paid for food they never got, and the email can't make that right with what you have now. A $25 credit for anyone who comes back would work, or a promise to give credit if a disaster cuts boxes in half again. I didn't include either because you didn't mention one.
+- **Fill in the placeholders:** first name, sign-up link, your name and the farm name.
+
+<final_document>
+Subject: We let you down last summer
+
+Hi [First name],
+
+You didn't renew your share this year, and I think I know why.
+
+When hail destroyed half our crops on July 9, your box came up short for six weeks. That's roughly three weeks' worth of vegetables you paid for and didn't get. We offered no refund or credit, and I sent one short email about it. That wasn't good enough, and I'm sorry.
+
+Here's what we've changed:
+
+- We've added a second field on higher ground, so we're no longer growing everything in one spot.
+- We've put up two hail nets over our tomatoes and peppers.
+- You can now pause up to two weeks of the season and get credit for them.
+
+The field and nets cost us $31,000. The price of a full share hasn't changed: it's still $540 for 22 weeks of Thursday pickups.
+
+No farm is safe from the weather, and I won't pretend otherwise. But if something goes wrong again, you'll hear from me straight away and in full.
+
+We have 52 shares left, and sign-up closes March 15. I'd like one of them to be yours.
+
+[Sign-up link]
+
+[Your name]
+[Farm name]
+</final_document>

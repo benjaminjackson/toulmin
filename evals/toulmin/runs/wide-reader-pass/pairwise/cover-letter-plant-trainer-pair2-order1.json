@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-27-39Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A shows it knows how a regulated plant works: GMP records are how you prove to an inspector that each person is qualified. It also makes concrete commitments: a GMP course before the start date, and a written plan in the first 90 days based on timing the training. Document B's lines about accuracy and getting people to compliant work sooner are vaguer, and it leaves an [LMS name] placeholder, so it reads more like the typical teacher applicant."
+}

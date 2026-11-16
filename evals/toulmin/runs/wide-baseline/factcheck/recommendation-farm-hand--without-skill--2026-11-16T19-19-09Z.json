@@ -1,0 +1,37 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-19-09Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "For most of that time Tomás has run our 3 a.m. milking shift alone, five days a week.",
+      "why": "The brief states that Tomás runs the 3 a.m. shift, not that he has done so for most of his three years at the farm."
+    },
+    {
+      "quote": "He taught himself our herd management software [name, if desired] and now uses it to spot cows that need the vet's attention.",
+      "why": "The brief says only that he learned the software, not that he taught himself."
+    },
+    {
+      "quote": "He did it because he was paying attention to the data and to the animals, not because anyone told him to.",
+      "why": "The brief states that he flags sick cows for the vet, not that he started doing so without being told."
+    },
+    {
+      "quote": "That count does not include five weeks of leave last summer, when he returned to Mexico because his father was seriously ill.",
+      "why": "The brief says his father was in Mexico and got sick, not that Tomás was from Mexico and returned there or that the illness was serious."
+    },
+    {
+      "quote": "He came back and stepped straight back into his full responsibilities.",
+      "why": "The brief does not specify whether he immediately resumed his full responsibilities upon returning from his five-week absence."
+    },
+    {
+      "quote": "His spoken English is strong, and he communicates well with the crew, our vet and me.",
+      "why": "The brief says only that his written English is weaker than his spoken English, not that his spoken English is strong or how well he communicates with the crew, the vet, and the manager."
+    },
+    {
+      "quote": "He is taking a night class to improve it, on his own initiative and around a demanding work schedule.",
+      "why": "The brief says he is taking a night class for his written English, not that he did so on his own initiative."
+    }
+  ],
+  "invented_count": 7
+}

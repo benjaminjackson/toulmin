@@ -1,0 +1,21 @@
+{
+  "task": "sales-salon-bookkeeping",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-19-18Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I know how booth rent, product sales, tips and commission splits show up in your accounts",
+      "why": "The brief only states that the bookkeeper works with hair and nail salons and does monthly books, payroll, and sales tax, without mentioning knowledge of booth rent, product sales, tips, or commission splits."
+    },
+    {
+      "quote": "including clients who'd been with me for years.",
+      "why": "The brief only mentions 'existing clients' and does not state that any clients have been with the bookkeeper for years."
+    },
+    {
+      "quote": "Those are my days off",
+      "why": "The brief states that the bookkeeper does not answer the phone on Sundays or Mondays, not that those days are days off from work altogether."
+    }
+  ],
+  "invented_count": 3
+}

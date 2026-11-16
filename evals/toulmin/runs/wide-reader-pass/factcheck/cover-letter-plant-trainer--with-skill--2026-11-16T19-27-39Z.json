@@ -1,0 +1,13 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-27-39Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "In the seven years since, there has been no injury in our labs that needed more than first aid.",
+      "why": "The brief states the program was written in 2019, but does not give the current year, so \"seven years since\" cannot be worked out from the brief."
+    }
+  ],
+  "invented_count": 1
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-19-12Z",
+  "without_skill_run": "2026-11-16T19-18-43Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B does the budget math openly (about 570 backers, about $22,500 for printing plus shipping) and faces the first-time-creator question head on, which is exactly what a wary backer looks for. A leaves bracketed placeholders in the text and stretches the facts with \"hundreds of tables\" and \"four winters,\" and both of those hurt its credibility."
+}

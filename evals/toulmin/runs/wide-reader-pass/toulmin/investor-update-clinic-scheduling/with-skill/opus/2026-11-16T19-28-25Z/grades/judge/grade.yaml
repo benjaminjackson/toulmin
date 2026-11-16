@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T19:29:12.472558+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 459
+  tags: []
+  notes: extracted 459 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 7
+    right_comparison: 5
+    qualification: 3
+    objections: 6
+    fit: 9
+  details:
+    agree: The update is candid, and the apology, the clear numbers and the reminder
+      plan would cool this investor's anger, but it gives no target pace for reminder
+      sales and says nothing about the two missing quarters' trends, so a skeptical
+      lead angel may hold off on further backing.
+    honest: "The numbers check out (about 11 months of runway, 37\xD7$150\u2248$5,500,\
+      \ a 13%\u21927% drop is 'close to half'), but the claims that clinics 'no longer\
+      \ have to switch schedulers' and that the reminder product suits chains on records-system\
+      \ schedulers assume an integration the brief never mentions."
+    works_the_facts: It works out runway, the no-show reduction, and how many subscriptions
+      would replace the lost chain or cover the burn, but it never says the month
+      cash runs out if nothing changes or what monthly signing pace the targets would
+      need.
+    right_comparison: It frames the scheduler-only status quo as exposed to records-system
+      bundling, but gives no trend across the two skipped quarters, so the reader
+      can't tell whether flat revenue is a stall or a decline.
+    qualification: The line 'next quarter's numbers will decide our next step' names
+      no threshold for reminder sign-ups and no deadline to raise given about 11 months
+      of runway, so the investor has nothing concrete to check against.
+    objections: It meets the complaint about missed updates and the risk of losing
+      big customers, but the apology gives no reason for the silence and no clear
+      signal about a raise, which this investor's right to join the next round makes
+      directly relevant.
+    fit: It's a well-structured investor email with clear sections, a specific ask
+      for introductions, and it comes in under 500 words.

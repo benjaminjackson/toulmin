@@ -1,0 +1,13 @@
+{
+  "task": "promotion-front-office",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-26-39Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I built the team that's at the desk now",
+      "why": "The brief states the applicant rewrote training and was assistant manager for two years while turnover dropped, not that the applicant hired or built the current front desk team."
+    }
+  ],
+  "invented_count": 1
+}

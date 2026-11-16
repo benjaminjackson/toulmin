@@ -1,0 +1,29 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-26-39Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Q4 update",
+      "why": "The brief asks for a quarterly update but does not specify that it is for Q4."
+    },
+    {
+      "quote": "this is the result our customers care about most.",
+      "why": "The brief does not state which result or feature customers care about most."
+    },
+    {
+      "quote": "It's also our answer to what happened with the chain.",
+      "why": "The brief does not state the reason or motivation for selling the reminder feature on its own."
+    },
+    {
+      "quote": "Selling reminders separately lets us sell to clinics we couldn't reach before, including ones like the chain we just lost.",
+      "why": "The brief does not state that the standalone reminder feature can work with external scheduling systems or reach clinics that were previously unreachable."
+    },
+    {
+      "quote": "We haven't tested this yet.",
+      "why": "The brief does not say whether the company has tested selling the standalone product."
+    }
+  ],
+  "invented_count": 5
+}

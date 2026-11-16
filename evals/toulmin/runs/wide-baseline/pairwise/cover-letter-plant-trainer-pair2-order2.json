@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-18-53Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B shows more awareness of a regulated plant: it says I'd learn the documentation rules from the Quality team before changing anything and wouldn't cut anything the regulations require, and its 90-day plan is concrete. It does stretch some facts, such as counting 1,260 students under a program that has only existed for seven years, and it adds a course-redesign method the brief never mentions. A is accurate but more generic."
+}

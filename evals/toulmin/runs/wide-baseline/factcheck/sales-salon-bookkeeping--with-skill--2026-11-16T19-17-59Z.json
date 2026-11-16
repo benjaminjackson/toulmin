@@ -1,0 +1,13 @@
+{
+  "task": "sales-salon-bookkeeping",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-17-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "None of them left over it.",
+      "why": "The brief states that two clients left last year because they sold their salons and that the price was raised in January, but it does not say whether any clients left in or after January over the price increase."
+    }
+  ],
+  "invented_count": 1
+}

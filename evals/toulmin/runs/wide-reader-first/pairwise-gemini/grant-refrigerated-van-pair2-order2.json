@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-04Z",
+  "without_skill_run": "2026-11-16T19-19-01Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both documents smartly correct the math to promise a realistic 50% summer increase rather than an unsupported 100% annual increase, and both address the late 2023 report directly. Document A wins by a slight margin because it addresses the storage bottleneck mentioned in the brief (keeping produce cold in the van until distribution) and provides a more sensible internal fix for the late reporting, whereas Document B promises extra quarterly reports that I don't want to have to chase from an already stretched volunteer organization."
+}

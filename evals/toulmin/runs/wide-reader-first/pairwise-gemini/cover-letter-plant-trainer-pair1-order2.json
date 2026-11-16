@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A wins because it translates teaching experience into relevant manufacturing concepts—like repeating technical procedures the same way every time—while staying completely honest to the facts. Document B invents specific commitments not in the brief (taking a GMP course before starting, shadowing, and a 90-day onboarding review) and leads immediately with the candidate's weaknesses, which would make me pass on the resume faster."
+}

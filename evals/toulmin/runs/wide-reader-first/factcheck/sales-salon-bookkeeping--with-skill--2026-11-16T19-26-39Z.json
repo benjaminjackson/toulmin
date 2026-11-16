@@ -1,0 +1,21 @@
+{
+  "task": "sales-salon-bookkeeping",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-26-39Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "If you have more than 10 people on payroll, I'm not the right fit, and I'll tell you so on the call.",
+      "why": "The brief states that the bookkeeper does payroll for up to 10 staff, not that salons with more than 10 staff are turned away altogether."
+    },
+    {
+      "quote": "If a month is going to run late, I'll tell you before the 10th, not after.",
+      "why": "The brief does not mention a policy or commitment to notify clients before the 10th if their books will be late."
+    },
+    {
+      "quote": "On every other day you'll be talking to the person who actually keeps your books.",
+      "why": "The brief only states that the bookkeeper does not answer the phone on Sundays or Mondays, not that they are available by phone on all other days of the week."
+    }
+  ],
+  "invented_count": 3
+}

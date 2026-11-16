@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-18-51Z",
+  "without_skill_run": "2026-11-16T19-18-40Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B speaks to the 14 of us directly. It leads with our job offer and is frank that rotating shifts are a real cost, and it promises each of us a one-on-one meeting, which earns more trust than A. A talks about us in the third person, and its line that nobody loses their job \"unless they choose to\" reads like spin."
+}

@@ -1,0 +1,33 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-26-39Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Nobody supervises that shift.",
+      "why": "The brief says Tomás runs the shift on his own, not that there is no supervisor at all for that shift."
+    },
+    {
+      "quote": "He is responsible for the herd, the equipment and getting the milk out on time, and he does it right.",
+      "why": "The brief only states that he runs the 3 a.m. milking shift on his own, without detailing his specific responsibilities regarding the equipment or milk delivery timing."
+    },
+    {
+      "quote": "when he went home to Mexico because his father was seriously ill",
+      "why": "The brief states he left when his father got sick in Mexico, not that Mexico is his home or that the illness was serious."
+    },
+    {
+      "quote": "He came back and picked up right where he left off.",
+      "why": "The brief does not mention how Tomás transitioned back to work after returning from his five-week absence."
+    },
+    {
+      "quote": "Nobody asked him to learn it.",
+      "why": "The brief says he learned the herd management software, but does not say he did so unprompted or without being asked."
+    },
+    {
+      "quote": "He has learned to read the numbers, connect them to what he sees in the barn and act on them.",
+      "why": "The brief only states that he learned the software and flags sick cows, not the specific methods he uses such as reading numbers or connecting them to barn observations."
+    }
+  ],
+  "invented_count": 6
+}

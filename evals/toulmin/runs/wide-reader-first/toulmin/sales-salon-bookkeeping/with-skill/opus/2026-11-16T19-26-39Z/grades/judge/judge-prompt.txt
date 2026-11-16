@@ -1,0 +1,66 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+The owner of a small hair salon with four chairs who clicked an ad and landed on the page. Her cousin does her books at tax time for $600 a year and she is fond of him. She decides whether to book a free call.
+</reader>
+
+<brief>
+Write the main text for my sales page. I'm a bookkeeper and I work only with hair and nail salons. I do monthly books, payroll for up to 10 staff, and sales tax filing.
+
+What's true:
+- I have 31 salon clients. 2 left last year, both because they sold their salons.
+- I charge $199 a month. Until January it was $149, and I raised it for everyone, including existing clients.
+- I close each month's books by the 10th of the next month. I missed that date 3 times last year.
+- Last tax season, 9 of my clients told me their accountant charged them less because the books came in clean. One said she saved $800.
+- I'm one person. I don't answer the phone on Sundays or Mondays.
+- The first call is free and takes 20 minutes.
+
+Keep it to about 350 words, with a button at the end to book the call.
+</brief>
+
+
+
+<document>
+# Bookkeeping for hair and nail salons. Only salons.
+
+Every month you get clean books, payroll for your team and your sales tax filed, done by someone who already understands how a salon works: booth rent, commission splits, tips, retail product and the slow weeks in January.
+
+**$199 a month.** That covers monthly books, payroll for up to 10 staff and sales tax filing. If you have more than 10 people on payroll, I'm not the right fit, and I'll tell you so on the call.
+
+## What you get
+
+- **Your books closed by the 10th of the next month.** I'll be straight with you: I missed that date three times last year. If a month is going to run late, I'll tell you before the 10th, not after.
+- **Payroll** for up to 10 staff, done on schedule.
+- **Sales tax** filed for you.
+- **Books your accountant can work with.** Last tax season, 9 of my clients told me their accountant charged them less because the books came in clean. One owner saved $800.
+
+## Who you'd be working with
+
+Just me. I'm one person, and salons are the only clients I take. Right now I work with 31 of them. Two left last year, and both left because they sold their salons.
+
+Because it's just me, my hours are limited. I don't answer the phone on Sundays or Mondays. On every other day you'll be talking to the person who actually keeps your books.
+
+## About the price
+
+Until January I charged $149. I raised it to $199 for everyone, including the owners who'd been with me the longest. There's no cheaper starter rate that goes up later. Everyone pays the same.
+
+## Start with a free 20-minute call
+
+Tell me how many people you have on payroll, how you handle your books now and what's bugging you about it. I'll tell you honestly whether I can help. It's free and takes 20 minutes.
+
+[**Book your free 20-minute call**](#book)
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

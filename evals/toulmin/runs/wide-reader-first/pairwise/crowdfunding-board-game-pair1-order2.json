@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B shows the real cost breakdown, with the factory quote, per-copy shipping and the math behind the $28,000 goal. It also makes concrete promises about updates, which is exactly what I look for after getting burned by a first-time creator. A only says it will explain the costs plainly and then leaves that part as a placeholder."
+}

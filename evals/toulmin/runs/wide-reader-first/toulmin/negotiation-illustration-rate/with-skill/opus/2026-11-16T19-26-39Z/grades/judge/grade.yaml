@@ -1,0 +1,52 @@
+grader: judge
+graded: '2026-11-16T19:27:24.624008+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 194
+  tags: []
+  notes: extracted 194 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 4
+    right_comparison: 5
+    objections: 4
+    fit: 9
+  details:
+    agree: A warm, specific ask backed by a $12,500 comparable and two 20,000-copy
+      books may move an editor who likes her, but it gives the editor nothing to justify
+      $2,500 over a $9,000 budget when an $8,000 option exists.
+    honest: "It drops the unsupported 'every other publisher pays at least $12,000'\
+      \ claim, and every figure it does state (the $12,500 fee, the $11,000\u2013\
+      $13,000 range, the sales, the reading list) comes straight from the brief."
+    works_the_facts: 'The facts are listed rather than worked: it never turns four
+      months into a monthly rate, never puts $9,000 frozen across six books next to
+      the sales growth, and the four-months line sits after the ask as an afterthought.'
+    right_comparison: 'It places the fee against the market and another publisher
+      and notes the flat rate over four years, but it never shows what the editor''s
+      real alternative is: an untested illustrator without bestselling or reading-list
+      titles.'
+    qualification: This is a direct fee request, and nothing in it needs a hedge or
+      a condition.
+    objections: The editor's main pushback, a fixed $9,000 budget and a cheaper newcomer
+      at $8,000, is never met, although the brief's sales and reading-list facts could
+      have answered it.
+    fit: It is a short, polite email of about 200 words, well under the 250-word limit,
+      with a clear ask and an offer to talk by phone.

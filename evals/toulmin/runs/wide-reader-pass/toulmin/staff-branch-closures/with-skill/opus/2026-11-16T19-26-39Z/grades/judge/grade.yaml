@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:27:40.351339+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 479
+  tags: []
+  notes: extracted 479 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 5
+    objections: 5
+    fit: 8
+  details:
+    agree: The pay guarantee, the honest note on hours and the open door on schedules
+      will keep many staff listening, but a long-serving teller who doesn't want phone
+      work gets little reason to want the job beyond keeping a paycheck.
+    honest: 'It mostly sticks to the brief''s facts and drops the overclaim that everyone''s
+      job gets better, but it adds a few things the brief doesn''t support: that members
+      already know these staff, the meeting timeline, and a promise to hear schedule
+      needs before shifts are set.'
+    works_the_facts: It does the useful math of turning the severance formula into
+      20 weeks for a 10-year employee and sets the 44% drop beside the 60% rise, but
+      it doesn't work out anything else, such as what the extra 3 open hours a day
+      mean or how much on-hold time the staff could cut.
+    right_comparison: It compares shrinking branch work with growing phone work and
+      states the severance option fairly, though it doesn't spell out what happens
+      to these branches or jobs if nothing changes.
+    qualification: The only conditions are the 90-day wait for work-from-home and
+      a decision deadline left as a placeholder, so the reader can't yet check the
+      dates or the consequences.
+    objections: It takes on the hours and childcare worry directly, but it ignores
+      the two weeks of rumours ("hear this from me first" will sound hollow to these
+      readers) and only touches the main objection, that they don't want phone work,
+      through the 'members know you' line.
+    fit: It is a COO's email with a clear subject line and sections, at roughly 470
+      words, a bit over the 400 asked for.

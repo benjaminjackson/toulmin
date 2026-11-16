@@ -1,0 +1,66 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+The hotel's general manager, who decides who becomes front office manager. He likes the writer but is also interviewing an outside candidate who ran the front desk at a larger hotel, and he believes the rise in guest scores came mostly from the renovation.
+</reader>
+
+<brief>
+Help me write a case for my promotion. I'm the assistant front office manager at a 180-room hotel, and the front office manager job is open. I'm applying, and my general manager wants it in writing by Friday.
+
+Facts:
+- I've worked here 6 years, the last 2 as assistant manager.
+- Our guest score for check-in on the main review site went from 7.9 to 8.6 over the last 18 months. The lobby and all the rooms were renovated during the same time.
+- I rewrote the front desk training. New hires now work the desk alone after 5 shifts instead of 9.
+- Front desk turnover was 9 of 14 people in the year before I became assistant manager, and 5 of 14 last year.
+- I've covered the front office manager's job alone for the 7 weeks since she left.
+- I have never managed a budget. The front office manager owns a $1.1 million payroll budget.
+
+I want it to say I'm the main reason our guest scores went up. One page.
+</brief>
+
+
+
+<document>
+**To:** General Manager
+**From:** [Your name], Assistant Front Office Manager
+**Re:** Application for Front Office Manager
+
+I'm applying for the front office manager position. For the past seven weeks I have run the front office alone, and I'm asking to keep doing it permanently.
+
+**What I've changed at the front desk**
+
+I've worked here for six years, the last two as assistant manager. In that time, two things about the desk have changed in ways that show up in what guests experience:
+
+- **People stay.** In the year before I became assistant manager, 9 of our 14 front desk staff left. Last year, 5 did. That means fewer new hires to train and more experienced people at the desk.
+- **New hires are ready sooner.** I rewrote the front desk training. New hires now work the desk on their own after 5 shifts instead of 9, which is four fewer training shifts for every person we hire.
+
+Our check-in score on the main review site rose from 7.9 to 8.6 over the last 18 months. The renovation of the lobby and rooms deserves a real share of that, and I won't claim all of it. But check-in is the part of the stay the front desk delivers. A steadier, better-trained team is part of why guests rate it higher, and keeping that score up depends on keeping that team.
+
+**I've already been doing the job**
+
+Since the front office manager left seven weeks ago, I have covered her role alone. You've seen how the front office has run during that time. Promoting me keeps that running without a gap. An outside hire would have to learn our team, our systems and our guests from scratch, and the role would stay open while you search.
+
+**The budget**
+
+I have not managed a budget, and this role owns a $1.1 million payroll budget. I want to say that plainly. The two biggest drivers of front desk payroll are how many people we hire and how long it takes to train them, and I've already brought both down. What I haven't done is plan and track the full budget.
+
+I propose that I prepare the next payroll budget with you, and that for my first six months we review actual payroll against budget together each month. If I'm off track, you'll see it within the month, not at year end.
+
+**What I'm asking**
+
+I'd like to be named front office manager. I'm glad to talk through any of this before you decide.
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

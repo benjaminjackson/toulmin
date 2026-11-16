@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:21:46.511409+00:00'
+outcome: pass
+score: 0.85
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 482
+  tags: []
+  notes: extracted 482 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.85
+  metrics:
+    agree: 8
+    honest: 9
+    works_the_facts: 8
+    right_comparison: 8
+    qualification: 6
+    objections: 8
+    fit: 8
+  details:
+    agree: Marisol gets a plain admission of the late report, a named owner and quarterly
+      updates she can track, a sizeable local match, and a modest target she can believe,
+      so she would probably recommend yes once the blanks are filled in.
+    honest: The draft drops the unsupported 'double fresh food' claim and makes no
+      claims beyond what the brief supports (6,000 to 9,000 pounds, a rise of half),
+      but 'start running the week it arrives' goes a little past the volunteer commitments.
+    works_the_facts: 'The figures are worked out correctly from the brief: under ten
+      pounds of fresh food per household, 3,000 pounds a month over the summer, a
+      rise of half, and a match of more than a quarter; it does not work out the yearly
+      percentage gain, which would be about 12% of 72,000 pounds.'
+    right_comparison: It says plainly that without a van next summer repeats last
+      summer, with offered produce turned away, and that matches the facts; the brief
+      gives no trend to add.
+    qualification: The goal of 9,000 more pounds with quarterly reports can be checked,
+      but no date or consequence is attached to missing it, and operating costs are
+      left as placeholders.
+    objections: It answers Marisol's main objection, the late report, directly with
+      a responsible person, calendar dates and quarterly updates, and it covers who
+      will drive, though operating costs against $11,000 in reserves are still unanswered
+      placeholders.
+    fit: It is a clearly sectioned narrative of about 480 words, within the 500-word
+      limit, though it still contains bracketed placeholders that must be filled in
+      before it is submitted.

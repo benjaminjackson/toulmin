@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A breaks down what I actually get for $199 a month right at the top—including payroll and sales tax—which helps me understand why this costs $2,400 a year compared to my cousin's $600 tax-time help, while also positioning the service as something that makes tax time easier rather than forcing me to fire my cousin. Document B skips the breakdown of deliverables and includes a detail about raising prices on existing clients, which makes me worry about future price hikes."
+}

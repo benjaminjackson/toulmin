@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-19-08Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B includes the team size and breaks down the math behind the numbers—showing the 15% underlying growth and the exact number of $150/month sales needed to replace the lost whale or reach break-even—which gives me much more confidence that the founder has a grip on the business. Document A also slightly contradicts itself by saying the new standalone product gives current customers another reason to stay, when current customers already have that feature."
+}

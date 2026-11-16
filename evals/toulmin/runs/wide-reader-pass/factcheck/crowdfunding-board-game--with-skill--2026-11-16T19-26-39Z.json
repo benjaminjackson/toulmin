@@ -1,0 +1,45 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-26-39Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Some played once. Many came back.",
+      "why": "The brief only says 60 people played across 140 sessions, which proves at least one person played more than once, not that some played once and many came back."
+    },
+    {
+      "quote": "Almost every session changed something",
+      "why": "The brief does not mention whether or how often the playtest sessions resulted in changes to the game."
+    },
+    {
+      "quote": "where strangers sat down and played it without knowing anything about it.",
+      "why": "The brief only says the creator took the game to two conventions, not who played it there or what they knew about it beforehand."
+    },
+    {
+      "quote": "23 people who have played it",
+      "why": "The brief states the game has 23 ratings on the board game ratings site, not that all 23 raters have actually played the game."
+    },
+    {
+      "quote": "every one of them has played it",
+      "why": "The brief does not confirm that everyone who rated the game on the website had played it."
+    },
+    {
+      "quote": "leaves about $5,450 for the campaign's fees and costs along the way.",
+      "why": "The brief does not specify what the remaining funds after printing and shipping will be used for."
+    },
+    {
+      "quote": "So the goal isn't a guess. It's the factory quote plus shipping plus a margin.",
+      "why": "The brief gives the funding goal and the costs, but does not state how the creator calculated or arrived at the $28,000 goal."
+    },
+    {
+      "quote": "Over 140 sessions, the players have told me the same.",
+      "why": "The brief does not mention what feedback playtesters gave during the 140 sessions."
+    },
+    {
+      "quote": "the lamp needs tending.",
+      "why": "The brief only states that the game is about seeing a lighthouse keeper's family through a winter, without mentioning tending a lamp as part of the game."
+    }
+  ],
+  "invented_count": 9
+}

@@ -1,0 +1,60 @@
+grader: judge
+graded: '2026-11-16T19:28:04.304203+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 477
+  tags: []
+  notes: extracted 477 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 8
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 7
+    objections: 8
+    fit: 9
+  details:
+    agree: Marisol gets the late shelving report addressed head-on in the second paragraph,
+      with monthly updates and a dated final report, plus a modest, believable target,
+      so she would probably recommend yes; the main gap is that van running costs
+      are never mentioned.
+    honest: 'The draft correctly drops the unsupported ''double'' claim and shows
+      the true one-eighth figure, but it overstates a little: four drivers who ''said
+      they would'' become ''committed'', ''cannot accept today'' assumes the farms
+      will offer again, and ''610 households will go without it'' goes beyond the
+      facts.'
+    works_the_facts: 'Its figures all come from the brief and are shown in their best
+      true form: 3,000 lb a month, ''risen by half'' in the summer months, 10 to 15
+      lb per household, one-eighth across the year, three-quarters of the cost, and
+      ''most'' of the savings spent.'
+    right_comparison: The no-van alternative is shown accurately as refusing the same
+      farm produce again, though 'all 610 households go without it' stretches the
+      comparison and the target assumes farms will make the same offer.
+    qualification: The first-year goal has a number (9,000 lb), a date (September
+      30, 2027) and a reporting promise for either outcome, but the only stated consequence
+      of missing it is an explanation, and it doesn't say the goal depends on farms
+      offering produce again.
+    objections: It answers the obvious objections (the late report, the shrinking
+      reserves, whether volunteers can keep the van running) without raising any that
+      the brief already answers, but it leaves the fuel, insurance and maintenance
+      question open.
+    fit: This is a clearly sectioned grant narrative of about 475 words including
+      headings, under the 500-word limit, though it leaves out the 'double' claim
+      the director asked for, rightly, since the facts don't support it.

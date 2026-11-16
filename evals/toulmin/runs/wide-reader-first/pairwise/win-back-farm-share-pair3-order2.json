@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-farm-share",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-03Z",
+  "without_skill_run": "2026-11-16T19-19-03Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B puts the loss in plain terms: about three weeks of produce we paid for and never got. That makes the apology feel real to someone who felt the farm went quiet. A apologises just as directly but never says how much we lost, and it claims a little too much when it says one storm \"can't take everything.\""
+}

@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:27:40.680623+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 429
+  tags: []
+  notes: extracted 429 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 4
+    right_comparison: 6
+    qualification: 6
+    objections: 6
+    fit: 9
+  details:
+    agree: The calm tone and small, specific requests (an order confirmation, lobby
+      notices, the assessment) are easy for a manager to grant, but nothing in the
+      letter shakes her belief that only a few loud tenants are complaining.
+    honest: Every figure comes from the brief, and 'more than one day in every eight'
+      holds for the year to mid-November; the only stretch is the softly inferred
+      'a day without getting to the doctor'.
+    works_the_facts: It works out the one-in-eight rate but never says that 74 of
+      112 households is two-thirds of the building, and never says that a part promised
+      in six to eight weeks from June should have come by August, which is when the
+      12-day outage happened.
+    right_comparison: The letter says that if nothing changes, the next outage will
+      look like August, which is a fair picture of the status quo, but it doesn't
+      use the five months of slipped promises to show things are not improving.
+    qualification: It gives a checkable 30-day deadline for a reply and conditions
+      the second-elevator request on what the assessment shows, but it never says
+      what the association will do if the deadline or the delivery date is missed.
+    objections: It deals well with the passing inspection certificate and the broken
+      June promise, but it doesn't use the two-thirds petition figure against the
+      'few loud people' view she is most likely to hold.
+    fit: It is a properly formatted open letter of about 420 words, with clear headings,
+      suitable for a lobby posting and a TV station.

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-28-48Z",
+  "without_skill_run": "2026-11-16T19-19-25Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins my trust by showing the exact manufacturing and shipping math—including a $5,450 buffer for fees and unexpected costs—while being refreshingly honest about the small sample size of its 23 ratings. Document B hides the actual financial breakdown, makes up details about the gameplay and playtesters, and even suggests the contingency buffer only comes after surpassing the funding goal, which is a major red flag for a first-time creator."
+}

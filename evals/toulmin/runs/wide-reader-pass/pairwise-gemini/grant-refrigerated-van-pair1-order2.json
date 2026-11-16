@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both documents wisely avoid the unrealistic claim of doubling fresh food distribution and instead do the honest math on the 9,000 pounds of produce. However, Document A is more honest to the facts provided; Document B invents a governance detail not in the brief (assigning a board member to handle reporting), and as a program officer who had to chase their last report for four months, I also find Document A's promise of brief quarterly updates more realistic for an all-volunteer group than Document B's six-month schedule."
+}

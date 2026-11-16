@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-15Z",
+  "without_skill_run": "2026-11-16T19-19-29Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A demonstrates a strong, natural understanding of procedural compliance and adult onboarding, whereas Document B starts by immediately listing qualifications the candidate lacks and ends with a bizarrely defensive statement about not promising time savings. Document A addresses the GMP gap professionally later in the letter after first proving the candidate's relevant safety and procedural mindset."
+}

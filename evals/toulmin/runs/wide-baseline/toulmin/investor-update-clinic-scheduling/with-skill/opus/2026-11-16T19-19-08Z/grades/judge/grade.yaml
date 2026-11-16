@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:20:06.078732+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 395
+  tags: []
+  notes: extracted 395 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 9
+    right_comparison: 7
+    qualification: 5
+    objections: 6
+    fit: 9
+  details:
+    agree: It opens with a plain apology and a promise of quarterly updates, and it
+      puts the bad news first, which suits a cold investor; but with about 11 months
+      of cash, pushing the funding plan to the next update may leave this reader unconvinced.
+    honest: Every number checks against the brief, but 'until now we had nothing to
+      offer' those clinics and 'the main competitive risk' are the writer's own readings,
+      stated as fact.
+    works_the_facts: It works out the chain's 13% share of revenue, the 15% growth
+      in the rest of the business, the 11-month runway with an end date, the near-halving
+      of no-shows, and how many reminder subscriptions would replace the chain (37)
+      and cover burn (290), each in its most favourable true form.
+    right_comparison: It sets the flat headline against the underlying trend once
+      the lost chain is taken out, and shows where cash runs out if nothing changes,
+      though it doesn't say what pace of reminder sales is realistic.
+    qualification: It names the numbers to watch and promises results next update,
+      but sets no dated target for reminder sales and says nothing about what happens
+      if they fall short.
+    objections: 'It deals with the missed updates and the risk from records-system
+      schedulers, but it leaves out the most pressing question for a lead investor
+      with a right to join the next round: how the company will raise money with 11
+      months of cash left.'
+    fit: It is a well-organised investor email of about 430 words, under the 500-word
+      limit.

@@ -1,0 +1,29 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-19-50Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "This year that elevator has been out of service on 41 days, roughly one day in every eight.",
+      "why": "The brief does not state what date of the year it is, so the ratio of 'one day in every eight' (which assumes roughly 328 days have passed in the year) cannot be worked out from the brief."
+    },
+    {
+      "quote": "It is now November, and you are telling us the same thing.",
+      "why": "The brief only says the city inspected the elevator in September and does not state that the current month is November."
+    },
+    {
+      "quote": "We have no delivery date, no explanation for the delay and no plan for the residents who are stranded while we wait.",
+      "why": "The brief does not state whether the management company gave an explanation for the delay or has an outage plan for stranded residents."
+    },
+    {
+      "quote": "Our residents deserve more than a verbal answer to a request that two-thirds of them signed.",
+      "why": "The brief says management stated a second elevator would cost $400,000 and cannot be done, but it does not say this response was only verbal."
+    },
+    {
+      "quote": "If nothing changes, our oldest and least mobile neighbours will go into winter with the same part \"on order\" and the same promise as in June.",
+      "why": "The brief does not give the current month or the hemisphere/climate of the building, so it does not establish that winter is approaching."
+    }
+  ],
+  "invented_count": 5
+}

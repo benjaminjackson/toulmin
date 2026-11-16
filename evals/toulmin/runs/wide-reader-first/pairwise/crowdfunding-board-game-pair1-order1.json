@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A lays out the actual factory quote, shipping cost and goal math, and makes concrete update promises, which is what a wary backer who has been burned before checks first. B is vague about where the money goes and leaves placeholders where the cost breakdown should be, so it reads like a pitch that's dodging the risk question."
+}

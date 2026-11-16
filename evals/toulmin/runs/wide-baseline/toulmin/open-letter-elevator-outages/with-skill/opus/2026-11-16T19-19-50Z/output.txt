@@ -1,0 +1,49 @@
+I treated this as a persuasive piece and planned the argument before writing it.
+
+**The plan**
+
+- **Who it's for:** Management makes the decision. The lobby and TV readers create the pressure, so every fact has to make sense to someone who has never been in the building.
+- **What we want:** Management should commit, in writing and by set dates, to fixing the elevator, to a plan for residents during outages, and to a real answer on the second elevator.
+- **Facts it rests on:** 41 days out of service, which is about one day in eight so far this year. A 12-day outage in August. 23 residents over 75 and 6 who use wheelchairs or walkers. The same "6–8 weeks" promise made in June. 74 of 112 households (two-thirds) signed the petition.
+- **Why those facts support the request:** A landlord who has only one elevator for a building with frail residents has to keep it working, or have a plan for when it isn't.
+- **What management will say back:** "The city passed it in September." The letter answers that a certificate shows the elevator is safe when it runs, not how often it runs. "A second elevator can't be done." The letter asks to see the reasoning behind that.
+
+**My recommendation on the petition:** The letter asks management to show the engineering basis for "can't be done," or to get an independent assessment. It doesn't demand that they build the elevator. Nothing in your facts can disprove "can't be done," and TV viewers will see a flat demand for $400,000 as easy to dismiss. A request to show the evidence is hard to refuse in public. If the board would rather demand construction, the third request is the one to change.
+
+**Things to check before posting:**
+- The "14 days" deadline and the outage plan (notice to every household, help for residents who can't use the stairs) are my proposals, not facts you gave me. Change them to whatever the board actually wants.
+- I didn't say whether any outages happened after the September inspection, because you didn't tell me. If there were any, add that to the inspection paragraph. It's your strongest answer to the certificate.
+- Fill in the bracketed placeholders.
+
+The letter is about 400 words.
+
+<final_document>
+**An Open Letter to [Management Company]**
+From the Tenants' Association of [Building Name], [Address]
+[Date]
+
+Our building has nine floors, 112 apartments and one elevator. This year that elevator has been out of service on 41 days, roughly one day in every eight. One outage in August lasted twelve days straight.
+
+For most of us, a broken elevator means climbing the stairs. For the 23 residents of our building who are over 75, it can mean a missed doctor's appointment or a week without visitors. For the six neighbours who use wheelchairs or walkers, the stairs are not an option at all.
+
+In June, you told us a new controller part was on order and would arrive in six to eight weeks. It is now November, and you are telling us the same thing. We have no delivery date, no explanation for the delay and no plan for the residents who are stranded while we wait.
+
+We know the elevator passed its city inspection in September, and we are glad it is safe. But a certificate tells you an elevator is safe when it runs. It says nothing about how often it runs, and that is our problem.
+
+Seventy-four households, two out of every three in the building, signed our petition asking for a second elevator. You have told us it would cost about $400,000 and cannot be done in this building. If that is true, we ask to see why. Our residents deserve more than a verbal answer to a request that two-thirds of them signed.
+
+We ask [Management Company] to do four things:
+
+1. **Within 14 days, give us in writing** the supplier's confirmed delivery date for the controller part and the date it will be installed.
+2. **Put an outage plan in place now:** notify every household as soon as the elevator goes down, and arrange help for residents who cannot use the stairs, including check-ins and help getting groceries and medicine upstairs.
+3. **Share the engineering assessment** behind your conclusion that a second elevator cannot be built here. If no assessment exists, commission an independent one.
+4. **Meet with the association's board** before [date] to go through all three.
+
+If nothing changes, our oldest and least mobile neighbours will go into winter with the same part "on order" and the same promise as in June. We are asking for dates, a plan and a straight answer. We don't think that is too much to ask of the company responsible for our homes.
+
+Sincerely,
+
+[Name]
+Secretary, on behalf of the Tenants' Association of [Building Name]
+[Contact information]
+</final_document>

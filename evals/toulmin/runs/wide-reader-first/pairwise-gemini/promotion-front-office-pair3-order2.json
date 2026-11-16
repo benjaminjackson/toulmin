@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-30Z",
+  "without_skill_run": "2026-11-16T19-19-17Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A structures the pitch around strengths first, gives a much more thorough plan for learning the $1.1M budget (including working with finance and learning labor forecasting tools), and frames the comparison against an outside hire positively rather than asking me to stop recruiting externally. While Document B makes a clever calculation on saved training shifts and offers a smart commitment on future guest scores, leading with the candidate's biggest weakness and telling me not to recruit externally puts me on the defensive right away."
+}

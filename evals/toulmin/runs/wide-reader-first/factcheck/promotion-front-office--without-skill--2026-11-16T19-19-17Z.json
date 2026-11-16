@@ -1,0 +1,33 @@
+{
+  "task": "promotion-front-office",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-19-17Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "the desk has kept running without a gap.",
+      "why": "The brief states only that the writer covered the front office manager's job alone for seven weeks, not how well the desk ran or whether there were any gaps."
+    },
+    {
+      "quote": "I cut turnover sharply.",
+      "why": "The brief reports the turnover numbers before and after the writer became assistant manager, but does not state that the writer was the cause of the reduction."
+    },
+    {
+      "quote": "The score rose while turnover dropped and new staff got up to speed faster",
+      "why": "The brief does not specify when the training rewrite happened, so it does not establish that faster training occurred during the 18-month period when the check-in score rose."
+    },
+    {
+      "quote": "our finance team",
+      "why": "The brief does not mention that the hotel has a finance team."
+    },
+    {
+      "quote": "our labor forecasting and scheduling tools",
+      "why": "The brief does not mention that the hotel uses labor forecasting and scheduling tools."
+    },
+    {
+      "quote": "Fewer departures and shorter training mean fewer paid hours spent hiring and training new staff, and that is one of the main costs in a front office payroll.",
+      "why": "The brief gives no breakdown of the payroll budget and does not state that hiring and training hours are one of its main costs."
+    }
+  ],
+  "invented_count": 6
+}

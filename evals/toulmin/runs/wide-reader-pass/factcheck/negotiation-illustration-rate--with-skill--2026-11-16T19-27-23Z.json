@@ -1,0 +1,13 @@
+{
+  "task": "negotiation-illustration-rate",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-27-23Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I've asked for a figure near the bottom of that range, and below what I've been paid elsewhere, because I value working with you and want to keep doing it.",
+      "why": "The brief does not state why the illustrator chose $11,500 or that it was chosen because they value working with this publisher."
+    }
+  ],
+  "invented_count": 1
+}

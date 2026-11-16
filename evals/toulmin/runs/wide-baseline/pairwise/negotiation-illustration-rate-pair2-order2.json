@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-18-41Z",
+  "without_skill_run": "2026-11-16T19-18-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both are honest and leave out the unsupported claim that every other publisher pays $12,000. B's comparison to the $12,500 fee and its 'book seven' close make the request feel concrete and loyal, though the $2,250-a-month line verges on a guilt appeal."
+}

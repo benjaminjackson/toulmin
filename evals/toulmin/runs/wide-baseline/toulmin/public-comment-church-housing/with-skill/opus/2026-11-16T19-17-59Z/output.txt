@@ -1,0 +1,35 @@
+I've written the speech below at about 400 words, which runs close to 3 minutes at a steady pace. Time yourself reading it aloud once. If you run over, cut the kindergarten sentence first.
+
+**How it's built**
+- **Who it's aimed at.** The commissioners make the decision, so the speech is written for them, not for neighbors who oppose the project. They will weigh the costs against the benefits, so the speech names the costs and then weighs them.
+- **Traffic comes first.** The opposition will mostly be about traffic. You live on Alder Road and drive through that intersection, so you can admit the C-to-D drop and still say it's worth it. Few other speakers can make that point as convincingly.
+- **Two numbers I worked out from your facts.** 64 apartments is enough for about 1 in 6 of the 412 households on the waiting list. And 72 spaces for 64 units means every apartment gets a space, with 8 left over. I didn't use 64 as a share of the 2,100 shortage (about 3%), because it makes the project sound small.
+- **What I left out.** I didn't add anything you didn't give me. I didn't claim lower-income households own fewer cars, and I didn't say how long the extra delay at the light would be.
+
+**Two things to check before tonight**
+1. **Sunday parking.** A commissioner may ask where people will park for Sunday services once the back lot is built on. If you or the church know the answer (another lot, street parking, shared parking), add one sentence about it after the parking paragraph. If you don't know, say so if you're asked rather than guessing.
+2. **The county's traffic standard.** Many counties count a D at rush hour as acceptable. If the county's general plan says so, add this after "it's in the study in front of you": "and a D is within what the county's own standard allows." I couldn't check this, so only say it if you've confirmed it.
+
+Fill in your name and the church's name.
+
+<final_document>
+Good evening, commissioners. My name is [Your Name]. I've lived on Alder Road for nineteen years, two blocks from [Church Name]. I'm here to ask you to approve the 64 apartments planned for the church's back lot.
+
+I want to start with what some of my neighbors are worried about, because it's my street too. The traffic study says this project adds about 310 car trips a day on Alder, and that the intersection at Alder and 4th drops from a C to a D at rush hour. I drive through that intersection. I'm not going to pretend that number is zero. A D means that some evenings I'll wait a little longer at that light. That's a real cost. It's also a modest one. It has been measured, and it's in the study in front of you.
+
+Here's what's on the other side of the scale.
+
+The county's own housing report says we are short about 2,100 affordable homes. Right now, 412 households are on the housing authority's waiting list, and the average wait is three years. Three years. A child who starts kindergarten the year her family signs up is in third grade before they get the call.
+
+Every one of these 64 apartments would rent to a household earning under 60 percent of the area median income. That's enough homes for about one in six of the households on that waiting list.
+
+And they'd be built on land that's doing almost nothing. That lot is 1.8 acres of pavement that sits empty six days a week. I walk past it. On a Tuesday afternoon, there's nobody there.
+
+On parking: the plan provides 72 spaces for 64 units. Every apartment gets a space, with eight left over.
+
+So the question in front of you isn't whether this project has any impact. Every project does. The question is whether a longer wait at one light at rush hour is worth homes for 64 families who are waiting right now. I'm one of the people who'll be sitting at that light, and I think it plainly is.
+
+If you say no, that lot stays empty six days a week, and the 412 households on that list keep waiting.
+
+Please approve this project. Thank you.
+</final_document>

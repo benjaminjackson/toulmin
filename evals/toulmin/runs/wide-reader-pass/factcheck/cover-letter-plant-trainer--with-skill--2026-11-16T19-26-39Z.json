@@ -1,0 +1,21 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-26-39Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "In the seven years since, with about 140 students a year working in our labs, we have not had a single injury that needed more than first aid.",
+      "why": "The brief does not give the current year, so it cannot be worked out that seven years have passed since 2019, and the brief states the applicant teaches 140 students a year rather than that the school's labs as a whole have only 140 students a year."
+    },
+    {
+      "quote": "They then supervise students in the lab on their own, so the training has to hold up when I'm not in the room.",
+      "why": "The brief only says the applicant trains new science teachers on lab procedures, not whether they supervise students in the lab completely on their own without the applicant in the room."
+    },
+    {
+      "quote": "Shortening training without weakening it is what I've spent nine years doing with teenagers and new teachers.",
+      "why": "The brief gives no indication that the applicant has ever shortened training time for students or new teachers."
+    }
+  ],
+  "invented_count": 3
+}

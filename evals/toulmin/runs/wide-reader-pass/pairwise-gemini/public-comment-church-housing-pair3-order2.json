@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-30Z",
+  "without_skill_run": "2026-11-16T19-19-20Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A flows much better as a spoken statement and makes a compelling, human case for the trade-off between a slower traffic light and a three-year housing wait. Document B feels choppy and introduces a conditional approval idea about signal reviews that wasn't in the facts."
+}

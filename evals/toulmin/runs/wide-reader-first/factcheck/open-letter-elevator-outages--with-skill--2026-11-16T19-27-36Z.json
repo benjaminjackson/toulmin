@@ -1,0 +1,17 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-27-36Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "That is more than one day in every eight.",
+      "why": "The brief does not state the current date or how many days have passed in the year, and if more than 328 days have passed (for example, late November or December), 41 days is less than one day in every eight."
+    },
+    {
+      "quote": "Five months later, you have told us the same thing.",
+      "why": "The brief only gives June, August, and September as past months and does not state that the current month is November or that five months have passed since June."
+    }
+  ],
+  "invented_count": 2
+}

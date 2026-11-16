@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-04Z",
+  "without_skill_run": "2026-11-16T19-19-01Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both documents avoid claiming the van will double fresh food. B speaks more directly to my four months of chasing the shelving report: it raises the late report early, promises quarterly updates and sets a dated, measurable target I can hold them to. A names a better internal fix (a named volunteer plus a board member), but it doesn't change what I would see during the grant."
+}

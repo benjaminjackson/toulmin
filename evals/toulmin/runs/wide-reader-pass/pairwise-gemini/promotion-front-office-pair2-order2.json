@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-42Z",
+  "without_skill_run": "2026-11-16T19-18-45Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B reads like a confident, finished pitch from an employee I know, whereas Document A feels like a fill-in-the-blank template. Both wisely acknowledge the renovation's role in our higher scores, but Document B makes a sharper point about the onboarding cost of an outside hire and shows better business instincts by directly connecting turnover and training shifts to the $1.1M payroll budget."
+}

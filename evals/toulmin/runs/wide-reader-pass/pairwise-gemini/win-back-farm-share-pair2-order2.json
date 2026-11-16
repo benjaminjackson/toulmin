@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-29Z",
+  "without_skill_run": "2026-11-16T19-18-32Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A directly addresses my main frustration that the farm went silent by acknowledging I deserved a real explanation and promising to communicate quickly and in detail if something goes wrong again. Document B also makes an assumption in the third bullet point about vacation pauses that goes beyond the facts."
+}

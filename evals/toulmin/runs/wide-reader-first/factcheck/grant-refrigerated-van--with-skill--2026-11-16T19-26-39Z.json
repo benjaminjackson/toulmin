@@ -1,0 +1,29 @@
+{
+  "task": "grant-refrigerated-van",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-26-39Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "For this grant, we will send you a short update at the end of each month from June through September 2027 showing the pounds of farm produce collected.",
+      "why": "The brief does not mention a monthly reporting schedule, the months of June through September, or the year 2027."
+    },
+    {
+      "quote": "We will send our final report by October 31, 2027.",
+      "why": "The brief does not give a final report deadline or state that the grant period is in 2027."
+    },
+    {
+      "quote": "By September 30, 2027, we will collect at least 9,000 pounds of farm produce that we cannot accept today.",
+      "why": "The brief does not state a target date of September 30, 2027, or set a 9,000-pound first-year collection goal."
+    },
+    {
+      "quote": "We will report the actual total to you by October 31, whether or not we reach the goal.",
+      "why": "The brief does not mention an October 31 reporting deadline."
+    },
+    {
+      "quote": "We will report on it monthly during the 2027 growing season and send our final report by October 31, 2027.",
+      "why": "The brief does not mention the year 2027, a monthly reporting commitment, or an October 31, 2027 final report date."
+    }
+  ],
+  "invented_count": 5
+}

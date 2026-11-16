@@ -1,0 +1,42 @@
+I recommend one change of emphasis, and the draft below makes it. The letter leads with the elevator you already have and turns the second elevator into a request to see management's reasoning, instead of repeating a demand they've already refused at $400,000. A TV audience will be more sympathetic to tenants asking for a date, a plan and a meeting, and it gives management something they can say yes to in public. The 74 signatures are still there. If you'd rather make the second elevator the main demand, the facts can support that too, but expect management to answer only "we already said no."
+
+**Before you send it, please check:**
+
+- **Things I proposed that aren't in your facts.** These are the three requests: a copy of the order, weekly lobby updates, an agreed outage plan with a repair response time, and a meeting with the engineering assessment. I also proposed a deadline of two weeks for a written reply. Change any of them to match what the association actually wants.
+- **My arithmetic.**
+  - 41 days out of about 320 so far this year is roughly one day in eight.
+  - 74 of 112 households is about two in three.
+- **Two sentences that go a step past your facts.** "Some of them cannot get down to the street" and "nine flights of stairs" are my wording. Make sure they're accurate for your building.
+- **Placeholders.** The only ones are the company name, the building name and your signature.
+- **Length.** The draft is about 400 words.
+
+<final_document>
+**An Open Letter to [Management Company] from the Tenants of [Building Name]**
+
+To [Management Company]:
+
+Our building has nine floors, 112 apartments and one elevator. This year that elevator has been out of service on 41 days, which is about one day in every eight. In August it was out for 12 days in a row.
+
+For many of our neighbours, a broken elevator is more than an inconvenience. Twenty-three of our residents are over 75. Six use wheelchairs or walkers. When the elevator stops, some of them cannot get down to the street at all.
+
+We know the city inspected the elevator in September and gave it a passing certificate. We are glad it is safe when it runs. But the certificate does not tell us how often it runs, and that is the problem we are asking you to fix.
+
+In June you told us a new controller part was on order and would arrive in six to eight weeks. It is now November, and you are telling us the same thing. We would like to believe you, but we need more than the same estimate a second time.
+
+We are asking for three things:
+
+**1. A firm date.** Please tell us in writing when the controller part will be delivered and installed, and give the association a copy of the order. Until the part is in, please post a short update in the lobby every week.
+
+**2. A plan for the next outage.** Before the elevator stops again, we ask you to agree a plan with the association. It should say how quickly a repair crew will arrive and how residents who cannot use the stairs will get help with groceries, deliveries and appointments while the elevator is down.
+
+**3. A meeting about a second elevator.** Seventy-four households signed our petition asking for one. That is two out of every three apartments in this building. You have told us a second elevator would cost about $400,000 and cannot be built here. If that is so, please show us why. Share the engineering assessment and meet with us so residents can ask their questions in person.
+
+The first two requests do not cost $400,000. They need a date, a plan and a conversation.
+
+Without them, the next twelve-day outage will fall on the same people as the last one: the residents least able to climb nine flights of stairs.
+
+We ask for your written reply within two weeks. We would welcome the chance to tell our neighbours, in this lobby, that you have answered.
+
+[Name]
+Secretary, on behalf of the [Building Name] Tenants' Association
+</final_document>

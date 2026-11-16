@@ -1,0 +1,13 @@
+{
+  "task": "grant-refrigerated-van",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-20-01Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "shelving we use on every distribution day",
+      "why": "The brief states that the foundation gave $12,000 for shelving in 2023, but it does not say how often the shelving is used or mention distribution days."
+    }
+  ],
+  "invented_count": 1
+}

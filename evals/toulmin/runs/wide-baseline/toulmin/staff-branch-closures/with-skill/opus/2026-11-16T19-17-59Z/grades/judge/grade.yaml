@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:18:51.916262+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 424
+  tags: []
+  notes: extracted 424 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 4
+    objections: 5
+    fit: 8
+  details:
+    agree: The plain, respectful tone and the guarantee of a job at the same pay or
+      more will win trust, but a long-serving teller who doesn't want phone work gets
+      little reason to choose it over the severance.
+    honest: It drops the brief's claim that everyone's job gets better and openly
+      names the harder parts, but 'the wait will get longer' and 'fewer people will
+      start a conversation after 9 minutes' go a little beyond the figures given.
+    works_the_facts: It works out that five branches stay open, but it never turns
+      the severance into concrete terms (ten years means 20 weeks, almost five months
+      of pay) or puts the 44% drop as 'nearly half', and it doesn't project how the
+      trend continues.
+    right_comparison: Doing nothing is shown as hold times getting longer while calls
+      rise, but it doesn't say what continued falling visits would mean for those
+      two branches if they stayed open.
+    qualification: The one real condition, the deadline to decide, is left as a placeholder,
+      and the prediction about rising waits comes with no number or date the reader
+      could check.
+    objections: It names the evening shifts and the change from counter to phone without
+      hiding them, but it gives no answer to 'I don't want to work on the phones',
+      doesn't mention the rumours staff have been hearing for two weeks, and doesn't
+      say how their branch experience carries into the new role.
+    fit: It's an email from the COO of about 420 words with a clear subject line,
+      though several placeholders still need filling in before it can be sent.

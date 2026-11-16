@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-25Z",
+  "without_skill_run": "2026-11-16T19-18-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B is tighter and easier to skim, and it ends with a direct request plus the striking detail that he takes a night class after a workday starting at 3 a.m. A adds unsupported claims, such as \"on his own initiative\" and \"I don't have to check on that shift,\" and its prose is wordier."
+}

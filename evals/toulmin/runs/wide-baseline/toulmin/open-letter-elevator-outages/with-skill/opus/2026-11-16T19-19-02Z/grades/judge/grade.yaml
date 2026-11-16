@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:19:50.479105+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 425
+  tags: []
+  notes: extracted 425 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 5
+    objections: 8
+    fit: 9
+  details:
+    agree: The calm tone, the 74-household figure and four concrete, cheap-to-grant
+      requests give a skeptical manager an easy way to act, although announcing the
+      TV station may make her defensive.
+    honest: Nearly every claim tracks the brief, and the derived ratios hold up, though
+      'one day in every eight' depends on how much of the year has passed and the
+      walker scenario is an inference rather than a reported fact.
+    works_the_facts: It turns the raw numbers into telling forms ('one day in every
+      eight', 'two in every three apartments', the June estimate implying an August
+      arrival) but does not combine the 23 elderly and 6 mobility-limited residents
+      into a share of the building.
+    right_comparison: The status quo is shown accurately as a repeating six-to-eight-week
+      promise that has already slipped once, but the letter does not spell out what
+      another missed estimate would add to the outage count.
+    qualification: The requests are checkable (named supplier, confirmed date, updates
+      every two weeks), but the reply deadline and notice window are left as placeholders
+      and nothing is said about what happens if they are missed.
+    objections: It anticipates the passing certificate, the $400,000 infeasibility
+      claim and the 'few loud people' view (74 of 112 households) without raising
+      any objection that the facts already settle.
+    fit: It is a properly formatted open letter of about 420 words that works both
+      in a lobby and for the media.

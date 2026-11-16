@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:28:08.496274+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 360
+  tags: []
+  notes: extracted 360 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 7
+    honest: 4
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 4
+    objections: 7
+    fit: 9
+  details:
+    agree: 'A committee member skimming the letter gets a clear, specific case: a
+      solo 3 a.m. shift, two missed shifts in three years and nine early mastitis
+      catches, which should move even a sceptical reader toward a yes.'
+    honest: "Several claims go beyond the brief: 'nobody asked him to take this on,'\
+      \ 'went straight back to his shift,' 'how fast he learned our software,' 'nobody\u2026\
+      \ to fill in' and 'seriously ill' are all invented or overstated, and the letter\
+      \ quietly leaves out the two days' notice."
+    works_the_facts: The raw numbers are used well, but the letter never turns two
+      missed shifts out of roughly 780 scheduled into an attendance rate above 99%,
+      which would be their strongest true form.
+    right_comparison: "The letter doesn't compare Tom\xE1s with typical applicants\
+      \ or workers, though a reference letter doesn't strictly need that, so it is\
+      \ neither a strength nor a flaw."
+    qualification: The note on written English hedges with 'I expect steady progress'
+      but gives nothing the reader can check, such as when the night class ends or
+      what level he has reached.
+    objections: It deals openly with the likely concerns about written English and
+      the five-week absence, and gives a sympathetic reason for the absence without
+      raising worries the facts already answer.
+    fit: It is a properly formatted one-page reference letter from the farm manager,
+      which is what the brief asked for.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-48Z",
+  "without_skill_run": "2026-11-16T19-19-25Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B shows the actual budget math: $17,400 to print, about $9 a copy to ship, about 572 backers to reach the goal and roughly $5,450 left for fees and problems. It also admits that 23 ratings is a small number, which is the kind of openness a wary backer of a first-time creator looks for. A leaves the budget vague and still has placeholders in it, though B's risk section only covers the case where the goal isn't met, not what happens if a funded project fails to deliver."
+}

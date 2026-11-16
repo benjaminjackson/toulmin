@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-08Z",
+  "without_skill_run": "2026-11-16T19-19-09Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "As a fast-reading admissions committee member, Document B's bolded topic sentences let me grasp the applicant's core strengths immediately, and its organization—grouping all reliability points together—flows better than Document A. While Document A is slightly more forthright about the exact duration of the five-week leave, both letters present the same core evidence effectively, giving B a slight edge for readability."
+}

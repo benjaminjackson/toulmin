@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B speaks more directly to long-serving staff who don't want phone work. It says plainly that missing their branch and members, or finding the new hours hard, is a fair reaction, thanks them for their years, and offers an open Q&A. Document A's invitation to share childcare and scheduling needs is useful, but its line about serving members 'through a different door' reads a little like spin."
+}

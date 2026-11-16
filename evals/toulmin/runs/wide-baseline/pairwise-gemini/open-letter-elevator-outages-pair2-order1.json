@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-19-02Z",
+  "without_skill_run": "2026-11-16T19-18-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A explicitly tells me they are sending this to the local TV station, which forces me to act immediately to prevent a PR disaster, and its specific demand for the supplier's name and order date effectively calls our bluff on the delayed controller part. Document B leaves out the media involvement and demands we pay for an independent engineering review, making it easier to dismiss."
+}

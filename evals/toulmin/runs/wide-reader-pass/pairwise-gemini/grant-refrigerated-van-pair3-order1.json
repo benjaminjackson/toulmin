@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-29-19Z",
+  "without_skill_run": "2026-11-16T19-20-01Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Both documents wisely walked back the unrealistic claim of doubling fresh food, which the math in the data simply doesn't support. However, Document B is much better because it prompts the applicant to fill in the actual operational realities—how they will pay for fuel and insurance now that their reserves are down to $11,000, and what actual fix they have made for the late reporting—whereas Document A invents a board-member reporting promise that isn't in the facts."
+}

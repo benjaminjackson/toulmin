@@ -1,0 +1,42 @@
+**Subject: [Company] update, November 2026: flat revenue, lost our largest customer, 11 months of runway**
+
+Hi all,
+
+First, an apology. I didn't send updates for the last two quarters. That was a mistake, and a worse one in a quarter like this. You'll hear from me every quarter from now on, and the next update will be in your inbox by **February 15, 2027**.
+
+**The numbers**
+
+- **MRR:** $41,000, flat with three months ago
+- **Clinics:** added 9, lost 4 (net +5)
+- **Cash:** $480,000
+- **Net burn:** about $44,000/month
+- **Runway:** about 11 months, into October 2027
+
+**What happened**
+
+Our largest customer left. They're a 12-clinic chain that paid $5,500 a month, and they moved to the scheduler built into their electronic records system. That one loss is why MRR is flat. Not counting them, the rest of the business grew from $35,500 to $41,000, about 15% in the quarter.
+
+We learned two things from this. First, records systems that include scheduling are a real competitor, especially for larger chains that already run everything through one vendor. Second, we were too dependent on one customer, who made up about 13% of our revenue.
+
+**What's working**
+
+Clinics that use our automatic text reminders have a no-show rate of 7%, compared with 13% before they started. That's close to half. For a clinic, every no-show is an empty slot a therapist can't bill.
+
+**What's next**
+
+Next month we start selling reminders on their own for **$150 a month**. This lets us sell our most valuable feature to clinics that don't want to switch schedulers, including clinics whose records system already handles scheduling. That's the situation that cost us our largest customer.
+
+**What I'll report by February 15**
+
+- Number of standalone reminder subscribers and the revenue they add
+- MRR and clinic count, with churn broken out by customer
+- Runway, and whether we're raising, on what numbers
+
+**One ask**
+
+Do you know owners or operations leads at physical therapy clinics, especially clinics whose records system already handles scheduling? An introduction before the reminder launch next month would help us most. Just reply to this email with a name.
+
+Thank you for your patience. I'm happy to talk through any of this by phone.
+
+[Your name]
+[Company]

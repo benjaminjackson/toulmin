@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both documents wisely avoid taking sole credit for the post-renovation score jump, which would have hurt the writer's credibility with me, and both connect the training and turnover wins to payroll savings. Document B edges out A because it explicitly makes the case against the outside candidate I'm considering and offers a clear accountability plan for the budget rather than relying on instructional placeholders."
+}

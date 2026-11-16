@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Both documents wisely acknowledge the renovation's role in the score increase, which preserves the writer's credibility with me. However, Document B wins because it translates the training and turnover improvements into shift math (dropping from 81 training shifts to 25) and rightly points out that managing a payroll budget is mostly scheduling and staffing, which makes me much less worried about their lack of formal budget experience compared to the outside candidate."
+}

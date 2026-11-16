@@ -1,0 +1,37 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-19-40Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Q3 update",
+      "why": "The brief states this is a quarterly update, not specifically that it is for Q3."
+    },
+    {
+      "quote": "This is the biggest competitive risk we face: a \"good enough\" scheduler bundled with software the clinic already pays for.",
+      "why": "The brief does not state that bundled schedulers are the company's biggest competitive risk or that the electronic records system's scheduler was included at no extra cost."
+    },
+    {
+      "quote": "It's also the clearest proof we have that we deliver something the bundled schedulers don't.",
+      "why": "The brief does not say whether bundled schedulers lack automatic text reminders or achieve a worse no-show reduction."
+    },
+    {
+      "quote": "A clinic doesn't have to give up its existing scheduler to buy it, including the scheduler in its records system, which is the one we just lost a customer to.",
+      "why": "The brief does not give the reasons for selling the reminder feature on its own or state that it integrates with existing electronic records schedulers."
+    },
+    {
+      "quote": "Next quarter's update will report how many clinics bought reminders on their own, how long those deals took to close, and whether any of them went on to buy the full scheduler.",
+      "why": "The brief does not mention plans for what will be reported in next quarter's update or a strategy to upsell reminder customers to the full scheduler."
+    },
+    {
+      "quote": "At 11 months of runway, the early results from the reminder product will shape our next decisions on spending and fundraising.",
+      "why": "The brief does not mention future spending or fundraising decisions or that they depend on the reminder product's results."
+    },
+    {
+      "quote": "especially groups of 3 to 15 clinics.",
+      "why": "The brief does not state that the company is targeting clinic groups of 3 to 15 clinics or seeking investor introductions."
+    }
+  ],
+  "invented_count": 7
+}

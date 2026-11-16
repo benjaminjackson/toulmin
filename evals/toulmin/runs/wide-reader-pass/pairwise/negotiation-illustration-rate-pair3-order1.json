@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-27-54Z",
+  "without_skill_run": "2026-11-16T19-18-58Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both are honest and give the same facts. B is a little more persuasive because it says $11,500 is below the range's top and their fee elsewhere because they value working with my team, and it proposes a call this week. A states the ask more bluntly and frames it as 'other publishers pay more.'"
+}

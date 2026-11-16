@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-08Z",
+  "without_skill_run": "2026-11-16T19-19-09Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters are very similar and effectively highlight the applicant's hands-on experience and initiative with herd management software. Document B is slightly more faithful to the brief, whereas Document A invents the detail that he taught himself the software without being told."
+}

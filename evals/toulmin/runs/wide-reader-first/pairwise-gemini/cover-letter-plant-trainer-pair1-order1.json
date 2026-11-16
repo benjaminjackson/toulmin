@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document B translates the candidate's teaching experience into relevant corporate concepts—like standardizing procedures and addressing varied learning speeds—without inventing facts not in the brief. Document A makes up a promise to complete a GMP course before starting and includes a weird, defensive paragraph about not promising a specific number to shorten onboarding."
+}

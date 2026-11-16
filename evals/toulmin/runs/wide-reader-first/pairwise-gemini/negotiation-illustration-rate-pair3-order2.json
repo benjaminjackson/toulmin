@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-59Z",
+  "without_skill_run": "2026-11-16T19-18-58Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B stays completely honest to the facts, whereas Document A inflates 'takes me about 4 months' into 'four months of full-time work.' Document B is also better structured for a negotiation by putting the $11,500 ask up front and leaving placeholders out of facts that should be seamless."
+}

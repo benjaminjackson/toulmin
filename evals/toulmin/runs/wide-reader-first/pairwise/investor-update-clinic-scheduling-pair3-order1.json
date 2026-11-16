@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-28-24Z",
+  "without_skill_run": "2026-11-16T19-19-40Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "After being ignored for six months, I want firm commitments. A gives a dated next update (February 15), a measurable target (20 reminder-only customers by March), and promises a raise-or-cut decision rather than a list of options. B's 'I'll lay out the options' sounds like more drift, though its sales reasoning and its specific requests for help are good."
+}

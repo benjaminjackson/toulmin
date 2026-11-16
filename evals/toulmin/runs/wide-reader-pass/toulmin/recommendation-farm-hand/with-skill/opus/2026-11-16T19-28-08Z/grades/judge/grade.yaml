@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:28:44.667886+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 367
+  tags: []
+  notes: extracted 367 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 7
+    honest: 5
+    works_the_facts: 4
+    right_comparison: 4
+    objections: 7
+    fit: 9
+  details:
+    agree: A busy committee member gets concrete, unusual evidence (solo 3 a.m. shifts,
+      nine early mastitis catches through the software), and that would likely move
+      them to view him favourably, though nothing makes him stand out sharply in a
+      pool of 150.
+    honest: 'Several claims go beyond the brief: ''Nobody assigned him that job'',
+      ''without being told'', ''seriously ill'', and his easy talk with the vet are
+      invented or stronger than the facts, and the letter leaves out that he gave
+      only two days'' notice before leaving.'
+    works_the_facts: 'The facts are restated rather than worked: at five shifts a
+      week for three years, two missed shifts out of roughly 780 would be a far stronger
+      attendance figure, and the letter never makes that calculation.'
+    right_comparison: "The letter never sets Tom\xE1s against a reference point, such\
+      \ as typical attendance or what a solo night shift usually involves, so the\
+      \ reader has nothing to measure his record against."
+    qualification: A reference letter of this kind needs no dated, checkable hedge,
+      and the writing weakness is handled as a fact rather than a condition.
+    objections: The likely doubts, weak written English and a five-week absence, are
+      both raised and answered with the night class and the family emergency, though
+      the short-notice departure is passed over rather than met.
+    fit: It is a one-page reference from the farm manager, in a conventional letter
+      format and at the right length for a fast read.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-29-16Z",
+  "without_skill_run": "2026-11-16T19-20-01Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B deals with the late 2023 report right away and makes specific, checkable promises: quarterly reports, a named person responsible, and advance warning if a report will be late. It also sets a measurable target with a deadline. A still has bracketed placeholders, including the very fix for late reporting I would most want to see, so it reads as unfinished."
+}

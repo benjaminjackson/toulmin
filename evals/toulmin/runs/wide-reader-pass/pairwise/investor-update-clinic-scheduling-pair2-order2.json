@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-36Z",
+  "without_skill_run": "2026-11-16T19-18-51Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As the investor, I'd want the runway plan most, and A leaves it as a bracketed placeholder, which reads as unfinished. B owns the concentration risk, works out the underlying growth correctly ($35,500 to $41,000 without the chain) and commits to specific metrics for next quarter, so I'd trust it more."
+}

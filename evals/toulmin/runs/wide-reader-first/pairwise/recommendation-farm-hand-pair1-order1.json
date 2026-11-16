@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters make the same strong case, but A is more concrete and direct. It names the five-week absence plainly, and pointing out that the night class comes on top of a 3 a.m. shift is more persuasive than B's generic lines about the industry and 'family medical leave.' B also adds small claims the brief doesn't support, such as 'confidently' and 'until the rest of the crew arrives.'"
+}

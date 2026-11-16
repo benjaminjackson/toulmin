@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B hooks me immediately by naming the exact salon money headaches (tips, commissions, retail) that my cousin doesn't deal with during the year, and it clearly breaks down the monthly payroll and sales tax work to help justify paying $2,400 a year instead of $600. However, Document B leaves out the fact from the brief about the recent price increase from $149, while Document A includes every fact truthfully and frames that price hike as a point of fairness."
+}

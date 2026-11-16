@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:18:48.414835+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 374
+  tags: []
+  notes: extracted 374 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 4
+    right_comparison: 7
+    objections: 7
+    fit: 9
+  details:
+    agree: Speaking as a neighbour who will also sit at the slower light makes the
+      speech credible and may move an undecided commissioner, but it does nothing
+      to shrink the traffic cost, so the two commissioners worried about traffic and
+      the opposed neighbours have little new reason to change their minds.
+    honest: 'The figures match the brief, but a few details are added: ''I drive through
+      that intersection all the time'', the ''working families, seniors, and people
+      starting over'' description, and calling a D rating ''a little longer some mornings'',
+      which plays down a rush-hour rating.'
+    works_the_facts: 'The numbers are mostly repeated rather than worked: the speech
+      never spreads 310 trips across a day (about 13 an hour, or under 5 per unit),
+      never says the project would house about 16% of the 412 households on the waiting
+      list, and states 72 spaces only as ''more than one each''.'
+    right_comparison: 'It states the alternative plainly: the paved lot stays empty
+      six days a week and 412 households keep waiting three years, though it doesn''t
+      show what happens to the shortage if nothing is built.'
+    qualification: This is an advocacy speech with no conditional promise, and the
+      honest point that 64 homes won't close the gap needs no checkable hedge.
+    objections: It takes on the traffic objection first and directly, and answers
+      the parking worry with the 72 spaces, but it meets the traffic concern mainly
+      by conceding it rather than using the trip numbers to show the cost is small.
+    fit: At about 420 words it fits a three-minute public comment, uses a spoken register,
+      and opens and closes in proper form for the commission.

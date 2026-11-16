@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A builds the commercial case—strong sales, the state reading list, and market rates—before stating the new fee, which gives me the justification I need to stretch my budget instead of switching to the cheaper illustrator. Document B opens aggressively with the $11,500 figure and calculates her monthly income, which feels slightly combative and makes me immediately think about my $9,000 cap."
+}

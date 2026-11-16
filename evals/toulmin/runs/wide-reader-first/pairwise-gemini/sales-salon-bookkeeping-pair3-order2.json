@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-05Z",
+  "without_skill_run": "2026-11-16T19-19-18Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A includes all the honest details—like the recent price increase—and warms me up with small touches like acknowledging that Sunday and Monday are my days off too. Plus, the way it frames handing clean books to an accountant makes me realize I can still use my cousin at tax time while getting monthly help with payroll and sales tax."
+}

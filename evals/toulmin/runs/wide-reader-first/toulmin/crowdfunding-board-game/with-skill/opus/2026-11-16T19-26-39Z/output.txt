@@ -1,0 +1,55 @@
+I've written the pitch, but I didn't call the game a "proven hit," and I'd recommend you don't either. "Proven hit" suggests sales and a track record. The game hasn't been published yet. A rating of 8.1 from 23 people is good, but it's a small number, and the first backer to click through to the ratings site will see that. What your facts do show is just as useful: the game has been tested hard (140 sessions with about 60 people over three years) and the people who've played it rate it highly. The draft says that, and it makes your money plan easy to check so backers can trust it. If you still want the "proven hit" wording, it's your decision, but I think it would lower trust with exactly the backers you need.
+
+**The numbers behind the draft:**
+- **Backers needed:** $28,000 ÷ $49 is about 572 people. That's 46% of your 1,240 email sign-ups. Most email lists convert at a much lower rate than that, so plan for some backers who aren't on your list yet.
+- **Cost per copy:** the factory quote works out to $11.60 a copy. Add $9 shipping and each delivered game costs about $20.60.
+- **Where the goal goes:** $17,400 printing + $5,148 shipping (572 × $9) = $22,548. That leaves about $5,450. You didn't say what that covers, so the draft calls it platform fees and a buffer. Please correct this if it's wrong. Fees usually take a share of the total.
+
+**Things you need to confirm or fill in:**
+1. The game's title. I left `[Title]` because you didn't give one.
+2. How the remaining ~$5,450 is used (see above).
+3. The promise of a production update on the first of every month, and of a full breakdown of where the money went if production is late. I added both as proposals. Keep them only if you'll do them.
+4. Whether the extra copies from the 1,500 run will be sold later. The draft only says the full run gets printed.
+5. Your delivery date and international shipping prices. They aren't in the draft, and backers will look for them.
+
+<final_document>
+**[Title]: Get a lighthouse keeper's family through the winter**
+
+*A cooperative board game for 1 to 4 players. $49, with shipping in the US included.*
+
+The storms are coming, the supply boat stops running in December, and the light can't go out. In [Title], you and your table play a lighthouse keeper's family getting through a long winter together. You win or lose as one family.
+
+**Back [Title] at $49 and get a copy shipped to your door in the US.**
+
+**Is it any good?**
+
+I've been building this game since 2023. In that time I've run 140 playtest sessions with about 60 different people. That means about 60 strangers, friends and repeat players telling me what dragged, what broke and what made them lean over the table. I took it to two conventions. On the main board game ratings site, the 23 people who have rated it give it an average of 8.1.
+
+Twenty-three is not a big number, and I won't pretend it is. But those 23 people sat down with a prototype, played it through, and came away rating it that highly. Everything on this page is about turning that prototype into a box on your shelf.
+
+**Who's making it**
+
+This is my first game and my first campaign. I work full time as a land surveyor. My job is measuring things carefully and getting the numbers right before anyone builds anything. I've planned this campaign the same way, and here are the numbers so you can check them yourself.
+
+**Where your money goes**
+
+- **Printing:** I have a factory quote of **$17,400 for 1,500 copies**. That's about $11.60 a game.
+- **Shipping to you:** about **$9 a copy** in the US.
+- **The goal: $28,000.** That's about 572 backers at $49. At that level, printing ($17,400) and shipping to every backer (about $5,150) come to roughly $22,550. The remaining ~$5,450 covers platform and payment fees and a buffer for the unexpected.
+
+If we reach the goal, the whole 1,500-copy print run is paid for. Nothing depends on a second round of funding or on stretch goals.
+
+**What I'm promising you**
+
+- A production update on the first of every month, from the end of the campaign until your game arrives. This goes out on time even when there's nothing new to report.
+- If something slips, I'll tell you as soon as I know, along with what caused it and the new date.
+- If production runs late, I'll publish a full breakdown of where the money has gone.
+
+**Why back it now**
+
+1,240 people have already signed up to hear about this launch. If you're one of them, thank you. You're the reason this campaign exists. Reaching the goal takes about 572 of us. If the campaign falls short, nobody is charged and the game stays a prototype on my kitchen table.
+
+If you like games where everyone at the table pulls together, and you'd like to help a first-time designer get one into print, I'd be grateful to have you aboard.
+
+**Back [Title] for $49, shipping in the US included.**
+</final_document>

@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:28:40.309009+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 530
+  tags: []
+  notes: extracted 530 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 7
+    right_comparison: 4
+    qualification: 5
+    objections: 7
+    fit: 8
+  details:
+    agree: 'A wary backer who once lost $85 gets what they look for: an upfront admission
+      that this is a first-time creator and a per-copy cost breakdown that fits inside
+      the pledge, though there''s no ship date or fulfilment plan to settle the fear
+      of non-delivery.'
+    honest: 'It rightly refuses the ''proven hit'' claim and every number checks out,
+      but it adds details the brief doesn''t support: that playtesters ''didn''t owe
+      me anything'', that they ''kept telling me'' about the table talk, and that
+      the writer measures coastlines.'
+    works_the_facts: It works out $11.60 per copy, $20.60 per pledge, about 572 backers
+      and the $5,450 cushion correctly, but it never sets the 1,240 sign-ups against
+      the 572 backers needed, which is its strongest true figure.
+    right_comparison: It never says what happens to the 928 copies beyond the goal's
+      backers, and it never contrasts this campaign with the unbacked campaigns that
+      fail to ship, so the reader has nothing to measure the risk against.
+    qualification: The update on the 1st of every month is a dated commitment the
+      reader can check, but there's no delivery estimate and no stated consequence
+      if costs outrun the roughly $5,450 cushion.
+    objections: It answers the first-time-creator worry and the 'will the money cover
+      it' worry with figures, but leaves factory delays, fulfilment logistics and
+      overfunding unaddressed.
+    fit: It's a crowdfunding pitch of about 550 words with clear sections and a call
+      to action, close to the brief's request for about 500, though it doesn't make
+      the 'proven hit' claim the writer asked for, which was the right call.

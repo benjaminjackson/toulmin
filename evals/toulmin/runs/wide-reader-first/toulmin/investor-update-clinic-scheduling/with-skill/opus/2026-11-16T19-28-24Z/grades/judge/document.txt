@@ -1,0 +1,32 @@
+Subject: Quarterly update – November 2026
+
+Hi all,
+
+First, an apology: this is the first update you've had from me in six months. I should have written through the last two quarters, especially since this one has bad news in it. From now on you'll hear from me every quarter. The next update will reach you by February 15.
+
+**The short version**
+- Monthly recurring revenue: $41,000, flat with three months ago
+- Cash: $480,000
+- Net burn: about $44,000 a month, so roughly 11 months of runway
+- Team: 6
+
+**What happened**
+We added 9 clinics and lost 4. One of the 4 was our largest customer, a 12-clinic chain paying $5,500 a month, about 13% of our revenue. They moved to the scheduler built into their electronic records system. New clinics and the rest of our base made up the difference, which is why revenue is flat rather than down. But flat is not good enough, and the reason we lost them is a risk I take seriously: records vendors bundling a scheduler that's "good enough."
+
+**What's working**
+Clinics that use our automatic text reminders have a 7% no-show rate, down from 13% before they started. That's almost half of their missed appointments gone. This is the clearest result we have, and it's what we're building on.
+
+**What we're doing about it**
+Next month we start selling the reminders on their own for $150 a month. That lets us sell to clinics that keep the scheduler in their records system, which is exactly the situation that cost us our largest customer. For scale: about 37 reminder-only customers would replace that chain's $5,500.
+
+**What I'll report in February**
+- How many reminder-only customers we've signed. Our goal is 20 by the end of March.
+- Monthly recurring revenue and runway.
+- Our plan for the next 12 months. With 11 months of cash, I'll tell you whether we're raising, and when, or how we're cutting burn. You'll have that decision in the February update, not a list of options.
+
+**How you can help**
+If you know an owner or operations lead at a physical therapy clinic, especially one whose records system includes its own scheduler, an introduction would help more than anything else right now. Just reply with a name and I'll take it from there.
+
+Thank you for your patience, and for sticking with us.
+
+Ben

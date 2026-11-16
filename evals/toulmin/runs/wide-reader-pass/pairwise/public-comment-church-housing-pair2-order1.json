@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-27-39Z",
+  "without_skill_run": "2026-11-16T19-18-48Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A says up front that the speaker belongs to the church, sticks to the brief's numbers, and treats the traffic cost to Alder Road as a real price to weigh, which will sound credible to commissioners focused on traffic. B is more vivid, but it leaves out the speaker's church membership and adds claims the brief doesn't support, like \"a few extra seconds\" at the light and residents \"will park on the site, not on our street,\" which a skeptical room could pick apart."
+}

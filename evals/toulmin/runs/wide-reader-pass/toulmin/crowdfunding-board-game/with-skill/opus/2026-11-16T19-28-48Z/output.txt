@@ -1,0 +1,63 @@
+I recommend **not** calling the game a "proven hit," and the draft below doesn't. I'd make the case that it's proven at the table instead.
+
+**Why I'd drop "proven hit":** A hit means lots of sales and lots of ratings. Your game hasn't been sold yet and has 23 ratings. Many backers will click through to the ratings page before they pledge. If they arrive expecting a hit and find 23 ratings, the whole page looks inflated, and that's a big risk for a first-time creator. Your facts do strongly show that people who play the game like it and come back to it. The pitch states that claim plainly and with confidence.
+
+**How the pitch makes its case:**
+- **Main point:** This game has been tested hard and people like it, and the money plan is solid enough to trust someone who hasn't published before.
+- **Evidence:** 140 sessions with about 60 people since 2023, 2 conventions, an 8.1 average from 23 ratings, 1,240 people signed up for the launch email, and the factory quote.
+- **Why the evidence matters:** For a first-time creator, sustained play-testing and a costed plan are the best substitutes for a track record.
+- **Main objection:** "23 ratings is small, and you've never delivered a game." The pitch admits the small number and answers the delivery worry with your numbers.
+
+**Numbers I worked out from your facts (please check them):**
+- $28,000 ÷ $49 = about **572 backers** needed.
+- 572 × $9 = about **$5,150** to ship to them.
+- $17,400 + $5,150 = about **$22,550** for printing and shipping, which leaves about **$5,450** for fees and surprises.
+- Printing works out to $11.60 a copy.
+
+**Things to confirm before you post:**
+1. **Platform:** The line "no one is charged" is only true if your platform is all-or-nothing, like Kickstarter.
+2. **Ratings site:** I named it BoardGameGeek. Change it if that's wrong.
+3. **Leftover copies:** At goal you'd print 1,500 copies but ship about 572. Backers may ask what happens to the other 928. Add a sentence if you have an answer.
+4. **Game details:** I didn't invent any details about how the game plays, so it needs a title and one or two lines on what you actually do on a turn.
+5. **The big risk:** Hitting goal from your email list alone means about 46% of the 1,240 sign-ups would have to back the game. That's a high share, so plan where else backers will come from.
+
+<final_document>
+**One lighthouse. One family. One winter to get through together.**
+
+This is a cooperative board game for 1 to 4 players. You don't play against each other. You play as a lighthouse keeper's family, and you all make it to spring together, or you don't.
+
+**Tested at the table, not just on paper**
+
+Since 2023 I've run 140 playtest sessions with about 60 different people. I took the game to two conventions and put it in front of strangers. On BoardGameGeek, 23 people have rated it, and their average is 8.1 out of 10.
+
+Twenty-three is a small number, and I won't dress it up. Nobody can buy this game yet, so there's no sales record to point to. What those numbers do show is that people who sit down with this game, including people who've never met me, want to play it again. Each of those 140 sessions changed something. The version you're backing is the one that came out the other end.
+
+Before launch, 1,240 people signed up to hear when this campaign went live. If you're one of them, thank you. You're a big part of why I believed this was worth printing.
+
+**Who's making it**
+
+I'm a land surveyor. I work full time, and I designed this game in the hours around that job. This is my first published game and my first campaign.
+
+I know that's the first thing a careful backer checks. I can't show you a track record, so I'll show you the numbers instead. In my day job I measure things carefully and sign my name to the result, and I've planned this campaign the same way.
+
+**Where your money goes**
+
+- **Goal: $28,000**
+- **Price: $49, shipping included in the US**
+- **Printing:** I have a factory quote for 1,500 copies at $17,400, about $11.60 a copy.
+- **Shipping to backers:** about $9 a copy.
+
+At $49, reaching the goal means about 572 backers. Shipping to all of them costs about $5,150. Printing and shipping together come to about $22,550. That leaves about $5,450 for platform and payment fees and for the things that always go wrong.
+
+The goal pays for the full print run of 1,500 copies, with a margin set aside on purpose. I'm not counting on everything going right.
+
+**If we don't make it**
+
+If we don't reach $28,000, the game doesn't get printed and no one is charged. That's the honest risk of backing a first project. It's also why I've set the goal at what the game actually costs to make and deliver, and no lower.
+
+**What I'm asking**
+
+If a cooperative game about a family getting through the hard months together sounds like your kind of evening, back it at $49. You'll get a game that about 60 people have already spent 140 sessions with, from a designer who has priced every copy before asking you for a dollar.
+
+Thank you for reading this far. Let's get them through the winter.
+</final_document>

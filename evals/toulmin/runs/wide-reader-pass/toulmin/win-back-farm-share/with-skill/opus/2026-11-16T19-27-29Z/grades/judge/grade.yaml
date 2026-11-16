@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:28:05.967134+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 182
+  tags: []
+  notes: extracted 182 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 7
+    objections: 6
+    fit: 9
+  details:
+    agree: The direct apology and plain admission that we 'offered no refund or credit'
+      speak to this household's grievance, but it never says what they would get if
+      another storm hit, so a wary reader may still hold back.
+    honest: Every figure comes from the brief or is correctly derived (six half-weeks
+      is about three weeks), though 'no longer all in one place' and 'protecting the
+      harvest' imply a little more coverage than two nets over two crops provide.
+    works_the_facts: Turning six half-full weeks into 'three weeks of produce you
+      paid for' is a good derivation, but it stops there and doesn't put a dollar
+      value on the loss (about $74 at roughly $24.50 a week).
+    right_comparison: It compares last year with this year on price and protections,
+      but it doesn't say honestly that most crops are still exposed and that the pause
+      credit doesn't cover crop failure.
+    qualification: The only condition is the March 15 deadline with 52 shares left,
+      which is concrete and checkable, though it never says outright what happens
+      if the reader misses it.
+    objections: It owns the silence and the lack of credit, but it doesn't address
+      the reader's core worry about whether the farm will communicate or compensate
+      next time, which the brief's facts leave open.
+    fit: It's a short, well-organised email of about 190 words, under the 200-word
+      limit, with a clear call to action.

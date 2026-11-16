@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-28-34Z",
+  "without_skill_run": "2026-11-16T19-19-08Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A makes it impossible for me to dismiss the association as a vocal minority by explicitly framing the 74 signatures as two-thirds of the building, and pointing out that the first two requests don't cost $400,000 leaves me no excuse not to act on them. Its ending also offers a clear PR incentive to respond by promising to post our answer in the lobby."
+}

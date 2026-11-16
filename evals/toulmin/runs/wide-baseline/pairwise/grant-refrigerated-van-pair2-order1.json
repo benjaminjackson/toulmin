@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-19-30Z",
+  "without_skill_run": "2026-11-16T19-19-01Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both documents drop the unsupported 'double' claim and own the late report. B gives me the specific process I'd want after chasing them for four months: deadlines go on the board calendar, a named volunteer prepares each report and a board member is responsible for submitting it. B also states plainly that the gain is only about 12 percent over a full year, which makes its numbers more believable."
+}

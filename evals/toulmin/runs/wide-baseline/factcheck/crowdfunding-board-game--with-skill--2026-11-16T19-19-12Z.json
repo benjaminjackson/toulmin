@@ -1,0 +1,49 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-19-12Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The supply boat won't come back until spring.",
+      "why": "The brief only states the game is about seeing a lighthouse keeper's family through a winter, without mentioning a supply boat or when it returns."
+    },
+    {
+      "quote": "The lamp has to burn every night.",
+      "why": "The brief does not mention a specific game mechanic or story rule requiring the lamp to burn every night."
+    },
+    {
+      "quote": "Every session taught me something, and most of them changed something.",
+      "why": "The brief states that 140 playtest sessions were run, but does not state that most of them resulted in changes to the game."
+    },
+    {
+      "quote": "Twenty-three players have rated it on BoardGameGeek so far. Their average is 8.1 out of 10.",
+      "why": "The brief refers only to 'the main board game ratings site' and an average rating of 8.1, without naming BoardGameGeek or specifying a 10-point scale."
+    },
+    {
+      "quote": "I work full time and designed this game in the hours around that job.",
+      "why": "The brief states the creator works full time as a land surveyor, not when the game was designed or whether they worked that job during the entire design process."
+    },
+    {
+      "quote": "The rest covers platform fees and payment processing.",
+      "why": "The brief does not state what the remaining ~$5,500 of the funding goal will be used for."
+    },
+    {
+      "quote": "Printing doesn't depend on reaching a stretch goal.",
+      "why": "The brief does not mention stretch goals or whether the campaign has any."
+    },
+    {
+      "quote": "If it falls short, there's no print run. The game stays a prototype that 60 people have played and nobody else can buy.",
+      "why": "The brief does not specify whether the campaign uses an all-or-nothing funding model or what the creator will do with the game if the campaign fails."
+    },
+    {
+      "quote": "along with a winter at the edge of the sea",
+      "why": "The brief says the game is about a lighthouse keeper's family, not whether the lighthouse is on the sea as opposed to a lake or river."
+    },
+    {
+      "quote": "Thank you for reading, and thank you to everyone who sat down at the table with me over the last three years.",
+      "why": "The brief states playtesting started 'since 2023' and does not specify the current year, so a duration of three years is not given."
+    }
+  ],
+  "invented_count": 10
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-24Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A speaks directly to my salon reality—sorting tips, booth rent, and product sales—and explains how clean monthly books help my cousin at tax time without replacing him. Document B spells out the $2,388 annual cost right next to a price hike for loyal clients, which immediately makes me compare it unfavorably to the $600 a year I pay my cousin."
+}

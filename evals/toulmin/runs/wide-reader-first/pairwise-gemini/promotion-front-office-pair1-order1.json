@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A connects the training and turnover improvements directly to payroll math (81 training shifts reduced to 25), showing me that the candidate already thinks like a budget owner. Its budget onboarding plan also focuses on immediate accountability and variance management, whereas Document B includes unedited template placeholders and a less confident, classroom-style approach to learning finance."
+}

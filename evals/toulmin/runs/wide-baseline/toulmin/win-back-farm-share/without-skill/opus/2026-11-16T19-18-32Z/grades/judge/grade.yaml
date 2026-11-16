@@ -1,0 +1,50 @@
+grader: judge
+graded: '2026-11-16T19:19:03.162167+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 185
+  tags: []
+  notes: extracted 185 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 5
+    objections: 6
+    fit: 9
+  details:
+    agree: The plain apology and the promise to communicate address this household's
+      main complaint, but nothing makes up for the money they lost or guarantees credit
+      if hail thins the boxes again, so a sceptical reader may still hesitate.
+    honest: Every figure matches the brief, but the promise that 'you'll hear from
+      me quickly and in detail' is a new commitment the brief doesn't contain.
+    works_the_facts: The email repeats the brief's numbers without working anything
+      out, such as the roughly $74 of produce lost over six half-boxes, the weekly
+      cost of about $24.50, or the fact that $31,000 was spent with no price increase.
+    right_comparison: It sets 'same price, lower risk' against last year, which is
+      fair, but it never says what happens if they don't sign up beyond noting that
+      52 shares are left.
+    qualification: No condition is needed; the one hedge, 'less likely to hit everything',
+      is suitably modest.
+    objections: It deals with the silence and the lack of credit directly, but leaves
+      open whether thin boxes from another storm would be credited, since the pause
+      credit doesn't cover that.
+    fit: It is a short, warm email under 200 words with a clear call to action, which
+      is the form the brief asked for.

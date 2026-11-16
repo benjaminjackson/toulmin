@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-28-06Z",
+  "without_skill_run": "2026-11-16T19-19-03Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A explicitly acknowledges that we paid for roughly three weeks of food we didn't get, which shows the farmer truly understands why we felt cheated. Inviting a direct reply—even just to tell them what would have made it right—directly fixes the communication problem from last summer."
+}

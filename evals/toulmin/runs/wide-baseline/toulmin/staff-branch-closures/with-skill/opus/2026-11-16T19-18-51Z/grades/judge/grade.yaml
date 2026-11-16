@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:19:37.118292+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 433
+  tags: []
+  notes: extracted 433 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 7
+    qualification: 5
+    objections: 4
+    fit: 9
+  details:
+    agree: The tone is plain and respectful, it names the shift cost, and the pay
+      and severance terms are clear, but someone who doesn't want phone work gets
+      only flattery about their experience, so many would still start looking elsewhere.
+    honest: Most claims match the brief and the line about better jobs is framed as
+      a belief, but 'more secure jobs', 'most experienced people' and the assertion
+      that waits 'will keep growing' go beyond the facts given.
+    works_the_facts: It uses the 44%, 60% and 9-minute figures well, but it never
+      works out severance for a ten-year employee (20 weeks, about five months' pay)
+      or says the day grows from 8 to 12 hours, and those are the numbers this reader
+      cares about.
+    right_comparison: Doing nothing is shown with its trend (falling visits, rising
+      calls, growing waits), and the reader's own alternative of leaving with severance
+      is stated plainly.
+    qualification: The 90-day condition for working from home is concrete, but the
+      meeting and decision deadlines are blank placeholders and nothing says what
+      happens if someone misses them.
+    objections: Rotating shifts are acknowledged, but the main objection (not wanting
+      to leave in-person work for the phones after a decade at a branch) is never
+      addressed, and neither are the two weeks of rumours.
+    fit: It is a COO's email of about 420 words with a clear subject line and structure,
+      as the brief asked.

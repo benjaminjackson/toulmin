@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-27-59Z",
+  "without_skill_run": "2026-11-16T19-18-58Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B builds the business case first before naming the higher figure, which feels much more natural and collaborative than Document A's abrupt ask in the very first sentence. Both drafts wisely avoided the false claim that every other publisher pays at least $12,000, while B also includes the helpful detail about the four-month time commitment."
+}

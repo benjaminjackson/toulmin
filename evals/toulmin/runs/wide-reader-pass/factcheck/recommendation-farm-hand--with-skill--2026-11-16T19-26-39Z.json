@@ -1,0 +1,25 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-26-39Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "At that hour no one else is on the farm.",
+      "why": "The brief says Tomás runs the 3 a.m. milking shift on his own, not that nobody else is anywhere on the farm."
+    },
+    {
+      "quote": "I gave him that shift because he had earned my trust, and he has kept it.",
+      "why": "The brief does not state why the manager gave Tomás the 3 a.m. shift or whether he worked other shifts beforehand to earn trust."
+    },
+    {
+      "quote": "He also taught himself our herd management software.",
+      "why": "The brief only says that he learned the software, not that he was self-taught."
+    },
+    {
+      "quote": "Nobody asked him to take this on. He saw that the data could help the animals and learned to use it.",
+      "why": "The brief does not say that learning the software and flagging cows was an unprompted initiative."
+    }
+  ],
+  "invented_count": 4
+}

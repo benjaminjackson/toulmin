@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-28-21Z",
+  "without_skill_run": "2026-11-16T19-19-08Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A makes three reasonable, low-effort requests and explicitly promises to post my reply in the lobby, giving me an easy opportunity to show the building and the press that we are acting in good faith. Document B makes five demands, assumes the current month is November (not in the brief), and uses more accusatory language that makes me want to get defensive rather than cooperate."
+}

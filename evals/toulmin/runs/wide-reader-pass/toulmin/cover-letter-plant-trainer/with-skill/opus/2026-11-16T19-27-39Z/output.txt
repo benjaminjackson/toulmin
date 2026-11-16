@@ -1,0 +1,42 @@
+I've written the letter, but without the claim that you can cut new-hire training time in half. I think that claim would hurt you, for three reasons:
+
+- **Nothing you've told me backs it.** You haven't seen their training program, and none of your results measure training time. Your safety record, AP pass rates and teacher training show you train people well, not faster.
+- **The hiring manager is likely to doubt it.** In GMP manufacturing, much of new-hire training is required content that has to be documented. A newcomer who promises to halve it before seeing it can sound like someone who doesn't yet understand what the training is for. That's the worry they'll already have about a candidate with no regulated-industry experience.
+- **The narrower version is something they can hold you to.** The letter says you'll go through their new-hire training yourself, time each part, and give them a written plan within 90 days. The plan shows where time can be cut without dropping anything required.
+
+If you still want the bold version, replace the sentence starting "I won't promise a number…" with: "I'm confident that, after a full review, I can cut your new-hire training time in half without dropping any required content." Expect to be asked about it in the interview.
+
+The letter also deals openly with the GMP records and the system they use, because they'll notice those gaps anyway. It then asks for the interview.
+
+**Before you send it, please check:**
+1. **GMP course before your start date.** I suggested this to answer the records gap. Only keep it if you're willing to do it.
+2. **The 90-day plan.** This is a commitment, so make sure you're comfortable with it.
+3. **Sign-off records.** Do you keep any written record when a new teacher finishes your 12 hours, like a checklist or signed forms? If so, add a sentence about it. It's the closest thing you have to GMP training records and would partly close that gap.
+4. **Placeholders.** Fill in the bracketed company name, hiring manager and your contact details.
+
+<final_document>
+[Your Name]
+[Phone] · [Email]
+
+[Date]
+
+Dear [Hiring Manager's Name],
+
+I'm applying for the Training Coordinator position at [Company]. I've taught high school chemistry for nine years. The core of that job is teaching people with no background to handle hazardous materials safely, to follow written procedures exactly, and to show they can do it before anyone trusts them to work alone. I'd like to do that same work at your plant, which is about 30 minutes from where I live.
+
+Three results from that work are relevant to this role:
+
+- **Safety.** In 2019 I wrote our school's lab safety program. In the seven years since, there has been no injury in our labs that needed more than first aid. I teach about 140 students a year in my own classes alone.
+- **Measurable results.** In the four years I've taught AP Chemistry, our pass rate has risen from 41% to 58%.
+- **Training adults.** Every year I train our new science teachers on lab procedures, about 12 hours with each person and usually two people a year. They're professionals who need to be competent quickly, which is close to the situation your new hires are in.
+
+I also want to be clear about what I'm missing. I haven't worked in a regulated industry, and I haven't kept GMP training records. I know those records are how you prove to an inspector that training happened and that each person is qualified for the job they're doing, so I would finish a GMP fundamentals course before my start date. I haven't used your learning management system either. I've run five classes a year through Google Classroom, assigning work, tracking completion and keeping records for each student, and I expect to learn your system quickly.
+
+I won't promise a number for your new-hire training before I've seen it. Here is what I would do: in my first 90 days, go through the training myself as a new hire would, time each part, and give you a written plan showing where it can be made shorter or clearer without dropping anything your procedures or regulators require.
+
+I'd welcome the chance to talk about how my experience fits what your plant needs. Thank you for your time and consideration.
+
+Sincerely,
+
+[Your Name]
+</final_document>

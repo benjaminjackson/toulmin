@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-18-45Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B speaks more to me as a salon owner: the 'Sunday night sorting tips' opening, the note that Sundays and Mondays are days many salons are closed, and the 'no sales pitch' promise make a free call feel safe, even though my cousin only charges $600. B's 'no add-on fees' line isn't in the brief, and it leaves out the price rise from $149, but those small lapses don't outweigh its warmer, more relatable pitch over A's plainer version."
+}

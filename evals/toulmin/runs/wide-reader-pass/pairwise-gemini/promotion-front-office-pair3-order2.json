@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-27Z",
+  "without_skill_run": "2026-11-16T19-19-17Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both documents wisely avoid taking all the credit for the renovation's boost to guest scores, which would have hurt the writer's credibility with me. Document B wins because it actually calculates the 81 versus 25 training shifts saved, proving the candidate already thinks numerically about labor costs despite never having managed a budget."
+}

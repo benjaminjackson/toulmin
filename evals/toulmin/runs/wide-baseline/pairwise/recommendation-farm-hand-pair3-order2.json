@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-19-33Z",
+  "without_skill_run": "2026-11-16T19-19-09Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B ties Tomás's software and mastitis work straight to what the program teaches, and it reads more tightly on a quick pass. A adds a few things the brief doesn't support, such as saying he 'taught himself' the software and 'stepped straight back' into his duties. Neither letter mentions the 2-day notice."
+}

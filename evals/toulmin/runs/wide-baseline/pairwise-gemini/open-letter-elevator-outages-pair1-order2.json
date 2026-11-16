@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-17-59Z",
+  "without_skill_run": "2026-11-16T19-18-00Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly counters my assumption that the association is just a few loud voices by emphasizing that two-thirds of the building signed the petition. Furthermore, explicitly stating that the letter is going to the local TV station creates a concrete PR risk that forces me to take immediate action, while Document A's more collaborative tone is easier to brush off."
+}

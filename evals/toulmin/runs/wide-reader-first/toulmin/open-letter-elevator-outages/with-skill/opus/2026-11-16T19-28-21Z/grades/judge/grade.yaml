@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:29:10.421244+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 413
+  tags: []
+  notes: extracted 413 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 5
+    objections: 8
+    fit: 8
+  details:
+    agree: The three requests are modest and specific, and the 74-of-112 figure undercuts
+      her 'few loud people' view, so she would likely send a written reply, though
+      nothing in the letter pushes her to fix the outages faster.
+    honest: Every figure matches the brief, the derived ratios hold (41 of about 320
+      days is roughly one in eight, 74 of 112 is about two in three), and the impact
+      on residents is carefully hedged as 'can mean'.
+    works_the_facts: The letter turns the raw numbers into one-in-eight and two-in-three,
+      but it never points out that a June promise of 6 to 8 weeks meant the part was
+      due by about mid-August, which is when the 12-day outage happened, and it doesn't
+      project what the current pace of outages means if nothing changes.
+    right_comparison: The status quo is shown through the outage count and the repeated
+      promise, but the letter doesn't spell out what continuing on the current path
+      means (for example, more weeks of outages at the current rate) or present it
+      as the real alternative to its requests.
+    qualification: There is a checkable 14-day deadline and a stated plan to post
+      the reply, but the letter gives no consequence if management misses the deadline
+      or doesn't give a firm date.
+    objections: The letter heads off her likely replies (the passing inspection, a
+      part that can't arrive sooner, the $400,000 cost) and answers the 'few loud
+      people' view with the petition figure, without raising objections that the facts
+      already settle.
+    fit: It is a properly formed open letter of about 420 words, suitable for the
+      lobby and readable by a TV station, though it doesn't address that wider audience.

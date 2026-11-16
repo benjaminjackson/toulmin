@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:20:22.960654+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 427
+  tags: []
+  notes: extracted 427 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 6
+    qualification: 4
+    objections: 4
+    fit: 8
+  details:
+    agree: The tone is respectful and the offer is clear, but a long-serving teller
+      who doesn't want phone work gets little reason here to choose the center over
+      severance, and the email never mentions the rumours they have been living with
+      for two weeks.
+    honest: Every figure matches the brief, and the writer honestly softens 'everyone's
+      job better' to 'better for most of you'; only the promise that members will
+      'arrive less frustrated' and the 'colleagues you can count on' line go a little
+      beyond the facts.
+    works_the_facts: The numbers are quoted as given and none are worked out, such
+      as what severance comes to for a ten-year employee (20 weeks of pay) or that
+      the center's 12-hour day is half again as long as the branches' 8 hours.
+    right_comparison: The falling branch visits are set against rising phone and chat
+      contacts, and severance is laid out as the other choice, but it never says what
+      would happen to the two branches if they stayed open.
+    qualification: The hedges ('I believe', 'should arrive less frustrated') can't
+      be checked, there's no hold-time target or date to measure the center against,
+      and the training details and deadlines are left as placeholders.
+    objections: 'It deals with rotating hours and childcare, but not the main objection
+      this reader has: they don''t want phone work and would be giving up face-to-face
+      relationships with members built over ten years.'
+    fit: It's an email from the COO of about 420 words, close to the length asked
+      for, with a clear subject line and next steps, though several placeholders still
+      need filling in.

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-17-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B translates the training and turnover numbers into concrete payroll savings (25 training shifts vs. 81), which goes a long way toward easing my concern about the budget gap compared to the outside candidate. Both documents wisely avoid taking all the credit for the post-renovation score increase, though B's heading ('while I ran the desk' for 18 months) slightly overstates the assistant role while A presents a more structured 90-day budget learning plan."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-37Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A shows a much better grasp of a regulated environment by explicitly acknowledging that in pharmaceutical manufacturing, accurate documentation matters just as much as the training itself. It also avoids the naive, overly rigid 60- and 90-day promises made in Document B, instead offering a realistic and humble approach to learning our processes before trying to shorten onboarding time."
+}

@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T19:29:30.984923+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 474
+  tags: []
+  notes: extracted 474 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 8
+    honest: 7
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 6
+    objections: 8
+    fit: 8
+  details:
+    agree: For a wary backer who has lost money before, the plain admission of first-time
+      status, the cost breakdown showing the goal covers the full print run, and the
+      monthly-update promise all address the fear of a project that never ships, though
+      a missing delivery date may still hold some back.
+    honest: 'The pitch rightly drops the ''proven hit'' claim and handles the 23 ratings
+      honestly, but it adds details the brief doesn''t support: that many testers
+      had ''never met me'', that strangers played ''without me hovering'', and that
+      the rules were ''rewritten many times''.'
+    works_the_facts: It works out $11.60 a copy, about 572 backers to reach the goal,
+      about $5,150 for shipping and a $5,450 remainder, all of which check out, though
+      it misses the roughly $28 margin per copy and how many of the 1,240 sign-ups
+      (about 46%) need to back it.
+    right_comparison: It sets this campaign against the backer's real alternative,
+      a first-time project that is underfunded or unfinished, by showing a full print
+      run and a finished design, but it doesn't compare the 572 backers needed with
+      the 1,240 sign-ups.
+    qualification: '''If we don''t reach $28,000, no one is charged'' is a condition
+      the reader can check, and the cushion is given as a number, but there is no
+      estimated ship date and nothing saying what happens if costs run past the $5,450.'
+    objections: It names the two questions this reader actually asks, whether the
+      game is finished and whether the money is enough, and answers each from the
+      facts without inventing objections the brief already settles.
+    fit: It is a crowdfunding pitch of about 500 words with clear sections and a call
+      to back it, and it deliberately and sensibly leaves out the 'proven hit' framing
+      the brief asked for.

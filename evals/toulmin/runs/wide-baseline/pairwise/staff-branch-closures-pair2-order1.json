@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-18-51Z",
+  "without_skill_run": "2026-11-16T19-18-40Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A speaks to the 14 of us directly, admits rotating shifts are a real cost and promises each of us a one-on-one meeting. That feels more respectful to long-serving branch staff than Document B, which talks about us in the third person, although B's promise to explain the shift rotation before we must decide is useful."
+}

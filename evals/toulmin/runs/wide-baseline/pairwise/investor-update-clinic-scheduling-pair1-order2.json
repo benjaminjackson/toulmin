@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-19-08Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me what a skeptical lead investor needs. It shows the chain was about 13% of revenue and that the rest of the business grew about 15%. It also sets break-even targets for the reminders product and a cash-out date with a funding plan coming. A apologizes and is honest, but it stays vaguer about where the business stands."
+}

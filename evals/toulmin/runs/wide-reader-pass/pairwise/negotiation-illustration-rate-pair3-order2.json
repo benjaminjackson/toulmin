@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-54Z",
+  "without_skill_run": "2026-11-16T19-18-58Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both are honest and warm and give the same strong evidence. A comes out slightly ahead because it builds the case before making the ask and ends with a concrete next step: a call this week. B's line \"Other publishers pay more for the same work\" stretches one data point a little. It reads slightly more like pressure."
+}

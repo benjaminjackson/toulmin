@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-19-12Z",
+  "without_skill_run": "2026-11-16T19-18-43Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins my trust because it stays completely honest to the facts without inventing details, and it actually shows the math of how 570 backers cover the print run, shipping, and platform fees. Document B loses credibility by exaggerating 140 sessions into 'hundreds of tables,' inventing a title and gameplay mechanics, and leaving unfinished bracketed placeholders in the pitch."
+}

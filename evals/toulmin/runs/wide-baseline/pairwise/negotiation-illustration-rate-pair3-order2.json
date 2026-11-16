@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-19-13Z",
+  "without_skill_run": "2026-11-16T19-18-58Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters stay accurate and leave out the inflated 'every other publisher' claim, so either would make me take $11,500 seriously. A edges ahead because it calls $11,500 the low end of the range, a discount out of loyalty, and asks to talk this week. B's 'earning well below that rate' line is muddled."
+}

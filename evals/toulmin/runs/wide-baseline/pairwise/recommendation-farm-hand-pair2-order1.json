@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-18-48Z",
+  "without_skill_run": "2026-11-16T19-18-37Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters persuade about equally on a quick read, but B adds two claims the brief doesn't support: that he learned the software 'on his own initiative' and that he has been 'back on his full schedule' since returning. A makes the same case more tightly without those additions, and explains concretely why catching mastitis early matters."
+}

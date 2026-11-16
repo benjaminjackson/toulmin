@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:28:03.275235+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 454
+  tags: []
+  notes: extracted 454 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 6
+    objections: 6
+    fit: 9
+  details:
+    agree: Opening with the late report and a named accountable person speaks to Marisol's
+      main worry, and the figures make a clear case, but she may still hesitate over
+      running costs once reserves fall to $11,000.
+    honest: It drops the brief's unsupported 'double' claim in favour of a figure
+      the facts support (half again for the summer, 81,000 against 72,000 for the
+      year), though the closing 'those 9,000 pounds will reach' reads as more certain
+      than repeat farm offers allow, and the board-member and six-month reporting
+      commitments are new promises that aren't in the brief.
+    works_the_facts: "The derived figures are correct and well chosen: 18,000 to 27,000\
+      \ pounds for the summer, about 15 pounds per household (9,000 \xF7 610), 72,000\
+      \ to 81,000 pounds a year, 'more than a quarter' of the cost, and 'nearly two-thirds'\
+      \ of the $29,000 reserves."
+    right_comparison: 'It states the alternative plainly: without the van, farm offers
+      are turned down again and fresh food stays at 6,000 pounds a month. It gives
+      no trend, but the brief offers none.'
+    qualification: The goal has a number (9,000 pounds) and check points (reports
+      at six and twelve months), but the only consequence of missing it is an explanation,
+      and the goal assumes farms make similar offers without saying so.
+    objections: It meets the late-report objection directly and covers driver reliability,
+      but it doesn't address fuel, insurance and maintenance against an $11,000 reserve,
+      or cold storage once the food arrives, which the brief names as part of the
+      original problem.
+    fit: It's a clearly sectioned grant narrative just under the 500-word limit.

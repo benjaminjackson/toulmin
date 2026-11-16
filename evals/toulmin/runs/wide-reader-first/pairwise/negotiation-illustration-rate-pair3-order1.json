@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-27-59Z",
+  "without_skill_run": "2026-11-16T19-18-58Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both ask for the same $11,500 with the same honest evidence, and both leave out the claim that every publisher pays $12,000, which the facts don't support. A puts the number up front and ends with \"if that works for you, I'm ready to get started,\" so I could agree with a one-line reply. B's \"before I say yes\" and its request for a call add a little friction, though B does mention the four months of work each book takes."
+}

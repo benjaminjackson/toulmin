@@ -1,0 +1,55 @@
+I've written the update below. It opens with the two things investors will look for first: why they haven't heard from you, and how much money is left. The flat revenue comes next, with the lost chain named.
+
+<final_document>
+Subject: Q update: flat MRR after losing our largest customer, 11 months of runway, reminders launching standalone next month
+
+Hi all,
+
+I didn't send an update for the last two quarters, and I should have. You'll get one every quarter from now on, including the bad quarters.
+
+**The short version**
+- MRR: $41,000, the same as three months ago
+- Cash: $480,000. Net burn is about $44,000/month, so we have about 11 months of runway.
+- Team: 6
+
+**What happened**
+We signed 9 new clinics and lost 4 customers. One of the 4 was our largest customer, a 12-clinic chain paying $5,500/month. They moved to the scheduler that comes with their electronic records system.
+
+Without that chain, the rest of the business grew from $35,500 to $41,000 in MRR, about 15% in the quarter. New sales are working. But a single customer was big enough to wipe out a quarter of growth, and that's a concentration risk I should have flagged sooner.
+
+**The bigger risk**
+The chain didn't leave because our product got worse. They left because their records system now includes a scheduler, and one less vendor was worth more to them than a better tool. Other clinics on records systems with built-in schedulers can make the same choice. I think this is the main threat to our current product, and I'd rather you hear it from me.
+
+**What we're doing about it**
+Our strongest result has nothing to do with the calendar. Clinics using our automatic text reminders have a 7% no-show rate, down from 13% before they started. That's close to half the missed appointments gone, and every missed appointment is revenue the clinic loses.
+
+So next month we start selling reminders on their own for $150/month. That lets us sell to clinics that schedule inside their records system, like the chain we just lost, instead of competing with a tool they get bundled in.
+
+**What I'll report next quarter**
+- How many clinics bought reminders on their own, and how many of them came from clinics we couldn't sell the full scheduler to
+- MRR and runway, measured the same way as above
+- Whether the standalone results change our plan for the next 11 months
+
+**How you can help**
+If you know owners of physical therapy clinics or chains, especially ones using their records system's scheduler, an introduction would help. We'll get them a reminders trial in front of them as soon as the product launches.
+
+Thanks for your patience over the last six months. Reply with any questions. I'm happy to get on a call with anyone who wants to go through the numbers.
+
+[Your name]
+</final_document>
+
+Please check these before you send it:
+
+- **The 15% growth figure assumes two things.** The chain paid the full $5,500 three months ago, and it's now completely gone. Then the rest of your revenue went from $35,500 to $41,000. If the chain left partway through the quarter or paid less at the start, change that paragraph.
+- **"Clinics" vs. "customers."** I took your "lost 4" to mean 4 customers, with the 12-clinic chain counted as one. If you meant 4 individual clinic locations, fix the wording.
+- **I added some things you didn't give me:**
+  - The promise to send an update every quarter
+  - The list of what you'll report next quarter
+  - The request for introductions
+  - The trial offer
+  
+  Cut any you won't stand behind. The trial offer especially is only a suggestion.
+- **The plan for the next 11 months is left open.** Investors will notice that 11 months of runway leaves little room. If you already have a plan to raise, cut costs or reach profitability, add one sentence on it. As written, the update only promises to say more next quarter.
+- **Check the claim about reminders and records systems.** The update says the standalone product can be sold to clinics that schedule inside their records system. Make sure it actually works alongside those systems.
+
+The update is about 420 words, under your 500-word limit.

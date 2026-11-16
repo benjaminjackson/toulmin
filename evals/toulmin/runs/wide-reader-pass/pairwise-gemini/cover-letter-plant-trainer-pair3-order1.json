@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-28-27Z",
+  "without_skill_run": "2026-11-16T19-19-29Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins because the candidate shows real self-awareness about regulated environments by explicitly stating that classroom records are not GMP records and noting that any reduction in training time must not weaken compliance. Document B relies too much on typical teacher-transition tropes and makes unsupported claims about how they raised test scores and that they are already studying GMP."
+}

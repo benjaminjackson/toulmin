@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-15Z",
+  "without_skill_run": "2026-11-16T19-19-18Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A immediately proves they know my business by mentioning booth rent, commission splits, and taking Sundays and Mondays off—details that make me feel truly understood. Document B also skips the fact that they just raised their prices on everyone, so A is both more relatable and more honest to the brief."
+}

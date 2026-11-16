@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T19:29:10.168517+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 419
+  tags: []
+  notes: extracted 419 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 8
+    right_comparison: 5
+    qualification: 7
+    objections: 7
+    fit: 9
+  details:
+    agree: Conceding the renovation's part, offering a 90-day payroll check, and pointing
+      to the seven weeks he has already seen give this skeptical GM real reasons to
+      appoint from inside, though it never tells him why to pick the writer over the
+      outside candidate with bigger-hotel experience.
+    honest: It drops the brief's request to claim credit as the main cause of the
+      score rise and openly admits the budget gap, and every figure comes from the
+      brief; only 'on top of my own' and 'you've seen how the desk has run' go slightly
+      beyond it.
+    works_the_facts: It turns the turnover counts into 64% and 36% and combines turnover
+      with training length to get 81 versus 25 supervised shifts, stating the assumption
+      behind that number, but it doesn't put a value on the payroll hours saved or
+      use the 7-week cover period more.
+    right_comparison: The before-and-after comparisons for turnover and training are
+      set out clearly, but the real alternative, an outside hire who doesn't know
+      this team or building and would need time to get up to speed, is only hinted
+      at in 'rather than recruit externally'.
+    qualification: Holding check-in at 8.6 or higher for the first year and monthly
+      payroll reviews for the first 90 days are specific and checkable, but neither
+      says what happens if the target is missed.
+    objections: It deals directly with the budget gap and the GM's view that the renovation
+      drove the scores, but leaves the outside candidate's experience at a larger
+      hotel unanswered.
+    fit: It is a short memo addressed to the GM that fits on one page, uses clear
+      headed points, and ends with a specific request.

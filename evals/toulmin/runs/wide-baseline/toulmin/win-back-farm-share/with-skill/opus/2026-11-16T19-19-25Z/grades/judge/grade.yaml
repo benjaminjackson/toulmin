@@ -1,0 +1,52 @@
+grader: judge
+graded: '2026-11-16T19:20:09.984676+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 200
+  tags: []
+  notes: extracted 200 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 6
+    objections: 7
+    fit: 9
+  details:
+    agree: The plain apology and concrete changes speak to this household's grievance
+      about the farm going quiet, but with no make-good for last year's loss and only
+      a promise to communicate, a resistant reader may still hold back.
+    honest: Every fact matches the brief and the derived 'three weeks' worth' is accurate;
+      only 'no longer growing everything in one spot' is a small inference.
+    works_the_facts: It turns six half-weeks into three lost weeks and puts the $31,000
+      next to the unchanged price, but it doesn't put a dollar value on the loss (about
+      $74).
+    right_comparison: It compares this year with last through the unchanged price
+      and the new protections, but never shows the reader what not signing up would
+      mean or how the risk has actually changed.
+    qualification: The 'no farm is safe' hedge is honest and the March 15 and 52-share
+      limits can be checked, but the promise to tell members 'straight away and in
+      full' has no timeframe and no named remedy.
+    objections: It meets the 'farm went quiet' objection head-on with an apology and
+      a promise, but leaves open what members get if hail hits crops outside the nets,
+      which the pause credit doesn't cover.
+    fit: It's a personal email of about 190 words with a subject line, a clear call
+      to action and placeholders, as the brief asked.

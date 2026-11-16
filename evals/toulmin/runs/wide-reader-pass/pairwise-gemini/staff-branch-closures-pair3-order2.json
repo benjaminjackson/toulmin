@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-31Z",
+  "without_skill_run": "2026-11-16T19-19-13Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A treats us with much more respect by openly acknowledging that switching from branch work to phone shifts is a major adjustment, rather than telling us it's a 'better way to work' when most of us dread the phones. Document B also uses defensive phrasing like 'nobody loses their job unless they choose to,' which feels dismissive when our branches are closing and our schedules are being upended."
+}

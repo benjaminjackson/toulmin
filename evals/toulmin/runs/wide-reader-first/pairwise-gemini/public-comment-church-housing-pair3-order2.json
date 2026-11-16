@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-12Z",
+  "without_skill_run": "2026-11-16T19-19-20Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both speeches effectively address our traffic concerns right away, but Document B stays strictly anchored to the facts without inventing details about the prospective tenants' jobs, and it wisely addresses the parking ratio right after the traffic numbers. Its clear, conversational pacing also feels more natural for a three-minute public comment in a tense room."
+}

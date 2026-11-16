@@ -1,0 +1,17 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-28-34Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "which is about one day in every eight.",
+      "why": "The brief gives 41 days out of service \"this year\" but does not say what date it currently is, so the fraction of the year elapsed cannot be calculated from the brief."
+    },
+    {
+      "quote": "It is now November, and you are telling us the same thing.",
+      "why": "The brief mentions events in June, August and September, but never states that the current month is November."
+    }
+  ],
+  "invented_count": 2
+}

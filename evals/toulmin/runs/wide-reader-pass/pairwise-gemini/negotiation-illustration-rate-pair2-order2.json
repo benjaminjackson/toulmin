@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-23Z",
+  "without_skill_run": "2026-11-16T19-18-33Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A builds the business case before naming the higher figure, which makes the $11,500 ask feel earned rather than abrupt when I am on a tight $9,000 budget. Document B also makes a veiled threat near the end about whether she will keep giving my books 'time and care', whereas A keeps the tone warm and collaborative while gently omitting the exaggerated claim from the brief."
+}

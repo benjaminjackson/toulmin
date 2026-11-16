@@ -1,0 +1,25 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-28-24Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "November 2026",
+      "why": "The brief does not give the month or year of the update."
+    },
+    {
+      "quote": "The next update will reach you by February 15.",
+      "why": "The brief does not mention a date for the next investor update."
+    },
+    {
+      "quote": "Our goal is 20 by the end of March.",
+      "why": "The brief does not state a sales goal of 20 customers or a March deadline."
+    },
+    {
+      "quote": "Ben",
+      "why": "The brief does not give the founder's name."
+    }
+  ],
+  "invented_count": 4
+}

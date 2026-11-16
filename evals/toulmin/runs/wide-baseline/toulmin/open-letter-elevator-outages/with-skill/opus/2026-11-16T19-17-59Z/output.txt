@@ -1,0 +1,53 @@
+I'd send this as a set of specific requests, with the facts supporting them. A general complaint would be easier to ignore. Here's how I set it up:
+
+- **Main point:** The broken elevator is a problem management can fix, and it should give firm dates now. Repeating "on order" isn't enough.
+- **Main argument:** Two promises in a row have said "six to eight weeks." Five months have passed since the first one, and the part still hasn't arrived. For six residents who use wheelchairs or walkers, an elevator outage can mean being stuck at home.
+- **Their two likely defences, and the answers:**
+  - **"It passed the city inspection."** The certificate shows the elevator is safe to ride when it works. It doesn't show it will keep working, and it was out 41 days this year.
+  - **"A second elevator can't be done."** We have no facts to dispute that. So the letter doesn't claim it can be done. It asks them to share the study behind the $400,000 figure and to meet with you. That makes the petition count without the letter depending on a claim you can't support.
+- **Figures I worked out from your facts:**
+  - **41 days so far this year:** about one day in eight.
+  - **This year's pace over a full year:** about 47 days, more than six weeks.
+  - **74 of 112 households:** two-thirds signed the petition.
+
+**Before you send it:**
+- Fill in the brackets.
+- Confirm the 41-day count is up to date.
+- Check that "five months" fits when they first gave the June estimate.
+
+Everything in the letter comes from your facts, which matters once a TV station has it. If you add anything, such as a resident's story, get that person's permission first.
+
+The letter is about 420 words.
+
+<final_document>
+**An Open Letter to [Management Company]**
+From the [Building Name] Tenants' Association
+[Date]
+
+Our building has nine stories, 112 apartments and one elevator. This year that elevator has been out of service on 41 days, about one day in every eight. In August it was out for 12 days in a row.
+
+For most of us, a broken elevator is a hardship. For some of our neighbours it is much worse. Twenty-three residents of this building are over 75, and six use wheelchairs or walkers. For them, the stairs are not an alternative. When the elevator stops, a resident who uses a wheelchair may not be able to leave home until it runs again.
+
+You have told us that a new controller part is on order and should arrive in six to eight weeks. You told us the same thing in June. Five months later we are still waiting, and you have given us no reason to trust this estimate more than the last one.
+
+We know the elevator passed its city inspection in September. That certificate shows the elevator is safe to ride when it is working. It does not show that it will keep working. An elevator that is out of service 41 days in a year has a reliability problem, and keeping it running is your responsibility.
+
+Seventy-four households, two-thirds of the building, signed our petition asking for a second elevator. You have said it would cost about $400,000 and cannot be done in this building. We are willing to hear the reasons, but a one-line answer is not enough for a request backed by most of the people who live here.
+
+We ask you to:
+
+1. **Give us in writing, by [date], the confirmed delivery date for the controller part, the name of the supplier, and the date it will be installed.**
+2. **Until the part is installed, put a written outage plan in place.** It should include a set response time for repairs, notice to every resident as soon as the elevator goes out, and help for residents who cannot use the stairs.
+3. **Share the assessment behind the $400,000 figure** and behind your conclusion that a second elevator cannot be built.
+4. **Meet with the association by [date]** to discuss these steps.
+
+If nothing changes, this year's pace means more than six weeks without an elevator every year, and a repair that has been "six to eight weeks away" since June.
+
+We are posting this letter in the lobby and sending it to [TV station] because our residents deserve to know where things stand. We would much prefer to tell them that a firm date has been set.
+
+Sincerely,
+
+[Name]
+Secretary, on behalf of the [Building Name] Tenants' Association
+[Contact information]
+</final_document>

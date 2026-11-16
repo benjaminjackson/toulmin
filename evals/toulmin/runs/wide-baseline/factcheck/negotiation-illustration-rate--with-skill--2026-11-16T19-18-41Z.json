@@ -1,0 +1,13 @@
+{
+  "task": "negotiation-illustration-rate",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-18-41Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Each book takes me about four months of full-time work",
+      "why": "The brief says each book takes about four months, not that it is four months of full-time work."
+    }
+  ],
+  "invented_count": 1
+}

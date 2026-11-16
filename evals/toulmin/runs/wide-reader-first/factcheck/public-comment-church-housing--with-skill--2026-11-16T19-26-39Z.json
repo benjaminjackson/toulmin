@@ -1,0 +1,33 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-26-39Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "That's what my neighbors are worried about",
+      "why": "The brief does not mention the neighbors or state what their concerns are."
+    },
+    {
+      "quote": "I drive through that intersection.",
+      "why": "The brief does not state that the speaker drives or uses the intersection at Alder and 4th."
+    },
+    {
+      "quote": "That's homes for about one in six of the families on that list.",
+      "why": "The brief does not state that the new apartments will be filled from the housing authority's waiting list, nor that the households on the list are families."
+    },
+    {
+      "quote": "I walk past it.",
+      "why": "The brief does not state that the speaker walks past the church parking lot."
+    },
+    {
+      "quote": "Monday through Saturday, it's just asphalt.",
+      "why": "The brief states that the lot sits empty six days a week, but does not specify that those days are Monday through Saturday or that the lot is paved with asphalt."
+    },
+    {
+      "quote": "4th Street",
+      "why": "The brief refers only to 'Alder and 4th' and does not specify whether 4th is a street, avenue, or other road type."
+    }
+  ],
+  "invented_count": 6
+}

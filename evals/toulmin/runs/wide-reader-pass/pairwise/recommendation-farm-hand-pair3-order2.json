@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-08Z",
+  "without_skill_run": "2026-11-16T19-19-09Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B explicitly connects his habit of reading herd data and acting on it to what an ag-tech program teaches, which is the link I'm screening for, and its reliability section is tight and concrete. A covers the same facts but adds a few unsupported embellishments, such as 'taught himself' and the claim about why he did it, so B edges ahead."
+}

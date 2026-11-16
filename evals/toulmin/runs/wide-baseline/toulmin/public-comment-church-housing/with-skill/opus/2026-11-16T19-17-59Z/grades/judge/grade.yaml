@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:19:00.067613+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 374
+  tags: []
+  notes: extracted 374 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 7
+    right_comparison: 7
+    objections: 8
+    fit: 9
+  details:
+    agree: Speaking as a long-time Alder Road resident who drives through that intersection
+      helps with the traffic-minded commissioners, but neighbours who oppose the project
+      are given little beyond 'it's worth it' to change their minds.
+    honest: "Every number comes from the brief and 'about one in six' is accurate\
+      \ (64/412 \u2248 15.5%), but calling the traffic cost 'modest' and saying the\
+      \ wait is 'a little longer' go slightly beyond what the study's C-to-D rating\
+      \ establishes."
+    works_the_facts: It works out the share of the waiting list (one in six), turns
+      the three-year wait into a child going from kindergarten to third grade, and
+      notes eight spare parking spaces, but it never sets 64 homes against the 2,100
+      shortfall or spreads the 310 daily trips across the day to show how small they
+      are.
+    right_comparison: 'It states the alternative plainly: the lot stays empty six
+      days a week and 412 households keep waiting, though it gives no sense of whether
+      the list or the shortfall is getting worse.'
+    qualification: The speech makes no forecast that depends on an uncertain condition,
+      so no hedge is needed.
+    objections: It meets the traffic objection head-on and up front using the study's
+      own figures, and it answers parking with facts the brief already gives, though
+      its case that the traffic cost is 'modest' rests on assertion more than evidence.
+    fit: At about 400 words it is a first-person public comment that fits a three-minute
+      slot, with a clear request at the start and again at the end.

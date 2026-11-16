@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-28-08Z",
+  "without_skill_run": "2026-11-16T19-19-09Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A's bold topic headings and shorter length make its key points (works the 3 a.m. shift alone, caught nine mastitis cases early, is working on written English) easy to take in on a quick read. B says more plainly how long the leave was, but it is also more padded, and both letters add small details the brief does not support."
+}

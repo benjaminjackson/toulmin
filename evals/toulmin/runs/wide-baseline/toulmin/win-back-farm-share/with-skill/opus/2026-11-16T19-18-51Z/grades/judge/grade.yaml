@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:19:25.204385+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 166
+  tags: []
+  notes: extracted 166 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 5
+    objections: 5
+    fit: 9
+  details:
+    agree: The direct apology and the $31,000 of visible changes would move this household
+      somewhat, but nothing promises different treatment the next time a crop fails,
+      and that is the doubt keeping them away.
+    honest: Every fact matches the brief, and the email plainly admits the half boxes,
+      the missing refund and the single short email, though "one storm can't take
+      out as much of the farm again" goes a little beyond what nets over only tomatoes
+      and peppers can deliver.
+    works_the_facts: 'The figures are only restated: the email never works out that
+      six half-weeks came to about three weeks'' worth, or roughly $74 of a $540 share,
+      and it never shows 52 shares left as part of the 260 total.'
+    right_comparison: Last year's season is set clearly against this year's changes,
+      but the email never describes what the reader faces if they don't come back,
+      or what a member can expect from the farm if hail hits again.
+    qualification: The deadline and the count of shares left are concrete and checkable,
+      but the claim about storm protection has no limit stated, such as which crops
+      the nets cover and what happens to the boxes or to credit if a storm hits again.
+    objections: The apology deals with the farm going quiet after the hail, but there
+      is no promise to communicate during a future failure and no credit or make-good,
+      and the pause credit doesn't answer a lost harvest.
+    fit: It is a short, warm email of about 170 words, under the 200-word limit, with
+      a subject line, placeholders and a clear sign-up step.

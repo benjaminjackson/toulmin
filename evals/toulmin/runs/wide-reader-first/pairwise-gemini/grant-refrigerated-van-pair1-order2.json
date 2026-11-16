@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Both documents wisely avoid exaggerating the numbers and stick to the realistic 12.5% annual (50% summer) increase supported by the farm data, rather than claiming they will double their fresh food output. However, Document A is much better because it doesn't invent specific 2027 dates out of nowhere like Document B does, and its structure and tone read like a realistic, well-organized grant narrative that addresses the late 2023 report constructively."
+}

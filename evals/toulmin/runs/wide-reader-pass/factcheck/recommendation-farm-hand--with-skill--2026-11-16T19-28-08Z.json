@@ -1,0 +1,37 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-28-08Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Nobody else is in the barn at that hour, so there is no one to check his work or cover for him.",
+      "why": "The brief states that Tomás runs the 3 a.m. milking shift on his own, not that nobody else is in the barn at that hour or that no one checks his work."
+    },
+    {
+      "quote": "He has done this reliably for years.",
+      "why": "The brief does not state how long Tomás has been running the 3 a.m. shift, only that he currently runs it and has worked at the farm for three years."
+    },
+    {
+      "quote": "when his father became seriously ill in Mexico.",
+      "why": "The brief states that his father got sick, not that he became seriously ill."
+    },
+    {
+      "quote": "Nobody assigned him that job. He took it on.",
+      "why": "The brief states that Tomás learned the herd management software and flags sick cows, not that he took the job on without being assigned it."
+    },
+    {
+      "quote": "He connects what he sees in the barn with what the records show",
+      "why": "The brief does not describe how Tomás catches the cases of mastitis or say that he combines barn observations with software records."
+    },
+    {
+      "quote": "His spoken English is good, and he talks easily with me, the vet and the rest of the crew.",
+      "why": "The brief only states that his written English is weaker than his spoken English, not that his spoken English is good or that he talks easily with the manager, the vet, and the crew."
+    },
+    {
+      "quote": "This is how he handles any gap: he sees it and works on it without being told.",
+      "why": "The brief states that he is taking a night class for his written English, not that he enrolled in it without being told or that he handles all skill gaps this way."
+    }
+  ],
+  "invented_count": 7
+}

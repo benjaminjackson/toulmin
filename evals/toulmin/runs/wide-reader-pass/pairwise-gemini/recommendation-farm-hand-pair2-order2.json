@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-31Z",
+  "without_skill_run": "2026-11-16T19-18-37Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters are very similar and effective, but Document A stays slightly truer to the facts in the brief (whereas Document B invents that nobody asked him to learn the software). Document A also connects the night class to his work schedule, which is a compelling detail when evaluating his work ethic for our program."
+}

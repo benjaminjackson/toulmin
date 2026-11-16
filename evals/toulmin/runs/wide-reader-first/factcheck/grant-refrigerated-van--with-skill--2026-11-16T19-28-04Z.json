@@ -1,0 +1,21 @@
+{
+  "task": "grant-refrigerated-van",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-28-04Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "between June and August 2027",
+      "why": "The brief does not mention the year 2027 or specify that the summer months are June through August."
+    },
+    {
+      "quote": "The farms that called us last summer",
+      "why": "The brief says local farms offered produce, not that they called by phone."
+    },
+    {
+      "quote": "grown a few miles from the families who need it, left unused",
+      "why": "The brief calls the farms 'local' and says the food bank turned the produce down, but does not state how many miles away the farms are or that the produce went unused."
+    }
+  ],
+  "invented_count": 3
+}

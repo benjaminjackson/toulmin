@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-29-16Z",
+  "without_skill_run": "2026-11-16T19-20-01Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B left bracketed template placeholders in the submitted application—especially in the exact section explaining how they will fix their late reporting and how they will pay to maintain the van while draining their reserves. Document A is slightly presumptuous in inventing its own reporting schedule and cold storage remains an open question in both, but A is a finished, honest draft that tackles my biggest frustration right at the top."
+}

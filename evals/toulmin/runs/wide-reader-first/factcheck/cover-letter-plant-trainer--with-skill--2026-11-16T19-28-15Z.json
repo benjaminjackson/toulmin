@@ -1,0 +1,21 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-28-15Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "In the seven years since, no one in our labs has had an injury that needed more than first aid.",
+      "why": "The brief states the safety program was written in 2019, and does not provide a current year to calculate that seven years have passed since then."
+    },
+    {
+      "quote": "When they finish, they run labs on their own.",
+      "why": "The brief states that the applicant trains new science teachers on lab procedures, not that those teachers run labs on their own afterward."
+    },
+    {
+      "quote": "I live about 30 minutes from the plant, and I'm looking for a career I can stay in.",
+      "why": "The brief does not state the applicant's long-term career goals or that they are looking for a career to stay in."
+    }
+  ],
+  "invented_count": 3
+}

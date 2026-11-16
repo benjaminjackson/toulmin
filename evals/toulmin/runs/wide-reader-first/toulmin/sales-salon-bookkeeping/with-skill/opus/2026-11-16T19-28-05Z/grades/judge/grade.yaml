@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:28:42.075833+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 276
+  tags: []
+  notes: extracted 276 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 3
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 2
+    qualification: 5
+    objections: 3
+    fit: 8
+  details:
+    agree: This owner pays her cousin $600 a year, so she will see $199 a month as
+      about $2,400 a year. The page never makes the case for that gap, so she is likely
+      to close the tab instead of booking the call.
+    honest: Every figure comes from the brief, and the missed closing dates are disclosed
+      openly. The only stretch is listing 'closed by the 10th' as a firm feature before
+      softening it to a target later on.
+    works_the_facts: Framing the two departures as salon sales works well. But it
+      never states the annual cost, never presents 9 of 31 as nearly a third of clients,
+      never frames the 3 misses against roughly 370 on-time closes, and never puts
+      the $800 saving next to the price.
+    right_comparison: Her real alternative is a once-a-year cleanup at tax time for
+      $600. The page never describes that option, never compares it with monthly books,
+      and never says what she gives up by staying with it.
+    qualification: The deadline caveat gives a date and a count (3 misses), but it
+      never says what happens to the client when a close is late. The 'target' wording
+      also leaves the promise vague.
+    objections: 'The two main objections go unanswered: why pay roughly four times
+      what her cousin charges, and how to handle a family relationship she values.
+      The page does handle the smaller ''one person'' and availability concerns well.'
+    fit: The page is about 330 words and ends on a booking button as the brief asked.
+      The price section repeats the included list almost word for word, which wastes
+      space.

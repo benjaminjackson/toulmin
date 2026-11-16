@@ -1,0 +1,17 @@
+{
+  "task": "promotion-front-office",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-17-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Guest scores went up while I ran the desk.",
+      "why": "The brief states that guest scores rose over the last 18 months while the applicant was assistant manager, whereas the applicant has only run the front office alone for the last 7 weeks."
+    },
+    {
+      "quote": "The staff guests meet at check-in are the people I hired, trained and kept",
+      "why": "The brief states the applicant rewrote the front desk training, but it does not say the applicant hired the front desk staff."
+    }
+  ],
+  "invented_count": 2
+}

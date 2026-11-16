@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-18-51Z",
+  "without_skill_run": "2026-11-16T19-18-40Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B speaks directly to the 14 of us, puts our job security in the very first paragraph, and sets up guaranteed individual meetings rather than putting the burden on us to ask questions. However, Document A is smart not to emphasize that the callers are already frustrated, which only reinforces why we don't want to work on the phones."
+}

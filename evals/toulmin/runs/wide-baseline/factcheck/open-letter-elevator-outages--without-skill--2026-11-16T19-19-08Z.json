@@ -1,0 +1,21 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-19-08Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "During the August outage, some residents were stuck in their apartments for almost two weeks.",
+      "why": "The brief states the elevator was out for 12 days in August and that some residents have mobility issues, but does not state that specific residents were actually stuck in their apartments for almost two weeks during that outage."
+    },
+    {
+      "quote": "It is now November, and we are being told the same thing.",
+      "why": "The brief mentions events in June, August, and September, and uses the present tense for the current update, but never states that the current month is November."
+    },
+    {
+      "quote": "Our members pay rent every month",
+      "why": "While the brief refers to a 'tenants' association', it does not state whether the members pay rent monthly or whether they have all paid their rent every month."
+    }
+  ],
+  "invented_count": 3
+}

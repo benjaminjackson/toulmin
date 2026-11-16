@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:28:58.007044+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 369
+  tags: []
+  notes: extracted 369 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 4
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 2
+    qualification: 5
+    objections: 3
+    fit: 9
+  details:
+    agree: An owner who pays her cousin $600 a year sees $199 a month on the page,
+      never sees the cost set against what she pays now, and has no reason given to
+      move the work away from family, so she is unlikely to book the call.
+    honest: Every figure matches the brief and the claims are hedged where they should
+      be (the missed deadlines, 'I can't promise'); the page leaves out the January
+      price rise but doesn't say anything false about it.
+    works_the_facts: 'The page repeats the raw figures but works none of them out:
+      it never gives the annual cost ($2,388), the on-time rate (9 of 12 closes),
+      the share of clients who saw a lower accountant bill (9 of 31), or the fact
+      that no client left because they were unhappy.'
+    right_comparison: The reader's real alternative is a once-a-year cleanup for $600
+      with no monthly books, payroll or sales tax filing, and the page never describes
+      that alternative or sets its own offer against it.
+    qualification: The 10th-of-the-month deadline and the accountant-savings hedge
+      are both checkable, but neither says what happens to the client when the date
+      is missed or the savings don't come.
+    objections: 'The page answers objections the reader never raised (missed deadlines,
+      the one-person setup) but doesn''t answer the one she has: why pay roughly four
+      times what her cousin charges.'
+    fit: It runs about 370 words, has clear sales-page sections, and ends with the
+      booking button the brief asked for.

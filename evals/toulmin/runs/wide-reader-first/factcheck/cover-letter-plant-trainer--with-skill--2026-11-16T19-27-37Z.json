@@ -1,0 +1,17 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-27-37Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "In the seven years since, there hasn't been a lab injury that needed more than first aid.",
+      "why": "The brief says the lab safety program was written in 2019, and does not give the current year, so the seven-year duration is invented."
+    },
+    {
+      "quote": "I did it by finding where students were failing and changing how I taught those parts, and I would bring that same approach to your training.",
+      "why": "The brief states that the AP Chemistry pass rate increased from 41% to 58%, but does not give the cause or method for how this increase was achieved."
+    }
+  ],
+  "invented_count": 2
+}

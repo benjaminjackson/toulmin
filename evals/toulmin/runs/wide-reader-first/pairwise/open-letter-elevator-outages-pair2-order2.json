@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-36Z",
+  "without_skill_run": "2026-11-16T19-18-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B asks for three specific things that are easy to answer, says plainly that it isn't calling the elevator unsafe, and notes that none of the requests cost money, so a skeptical manager finds it hard to dismiss. A makes five demands, including monthly lobby reports and a possible independent assessment, which can read as more of a burden from a few loud tenants."
+}

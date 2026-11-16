@@ -1,0 +1,21 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-28-30Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I drive Alder every day and I've read the study.",
+      "why": "The brief states the speaker lives on Alder Road and summarizes the traffic study, but it does not state that the speaker drives Alder every day or has personally read the study."
+    },
+    {
+      "quote": "I'm one of the people who will be waiting at that light.",
+      "why": "The brief mentions the intersection at Alder and 4th, but it does not state that there is a traffic light there or that the speaker uses that intersection."
+    },
+    {
+      "quote": "If the commission wants to make approval conditional on a review of the signal at Alder and Fourth, I would welcome that.",
+      "why": "The brief does not state that the intersection at Alder and 4th has a traffic signal."
+    }
+  ],
+  "invented_count": 3
+}

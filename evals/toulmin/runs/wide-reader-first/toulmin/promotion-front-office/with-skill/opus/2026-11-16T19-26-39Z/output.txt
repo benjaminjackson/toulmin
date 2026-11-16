@@ -1,0 +1,45 @@
+I've written the case and kept it to one page. Before you send it, there's one thing to decide.
+
+**The "main reason" claim.** You want it to say you're the main reason guest scores went up. The facts don't support that. The lobby and every room were renovated during the same 18 months, and your general manager approved that renovation. If you claim the credit, they'll likely discount the rest of the page, including the turnover and training results, which are clearly yours. My recommendation is to name the renovation openly and argue that the desk team is your part of the 7.9 → 8.6 improvement. That claim holds up, and it shows the judgement a manager needs. The draft below takes that approach. If you still want the stronger claim, replace the second paragraph's opening with: "I believe the changes I made at the front desk are the main reason our check-in score rose from 7.9 to 8.6." Expect to be challenged on it.
+
+**Why the budget is up front.** Your general manager knows you haven't managed a budget, so it will be the first doubt they have. Raising it yourself, with a plan they can hold you to, works better than leaving them to bring it up.
+
+**Please check before Friday:**
+1. **The budget plan is my suggestion; you didn't give it to me.** It proposes monthly payroll reviews with your general manager for the first six months and a written report within 30 days. Change the timing to something you can actually meet.
+2. **The training-shift figures are my arithmetic.** I got 81 vs 25 by assuming each person who left was replaced by one new hire, trained on the schedule in place at the time (9 × 9 = 81; 5 × 5 = 25). If that's not how it worked, cut that sentence.
+3. **The seven weeks of cover.** If anything specific happened during those weeks, such as a busy period, a problem you solved or a figure you held, add one sentence. I didn't make anything up.
+4. Add the general manager's name, your name and the date.
+
+<final_document>
+To: [General Manager]
+From: [Your name], Assistant Front Office Manager
+Date: [Date]
+Re: Application for Front Office Manager
+
+I'm applying for the front office manager position. For the past seven weeks I have done that job alone. I'm asking you to give me the role permanently, including the one part I haven't done before: the $1.1 million payroll budget. My plan for that is below.
+
+**The front desk team**
+Our check-in score on the main review site rose from 7.9 to 8.6 over the last 18 months. The renovation of the lobby and every room happened in the same period and certainly helped. But guests score check-in on the people who check them in, and over those 18 months I changed how ready those people are and how long they stay.
+
+- **Training.** I rewrote the front desk training. New hires now work the desk alone after 5 shifts instead of 9.
+- **Turnover.** In the year before I became assistant manager, 9 of our 14 front desk staff left (64%). Last year, 5 of 14 left (36%).
+
+Together, those two changes mean fewer new faces at the desk, and the new ones are ready almost twice as fast. Replacing 9 people at 9 training shifts each took 81 paid shifts. Replacing 5 people at 5 shifts each takes 25.
+
+**The last seven weeks**
+Since the front office manager left, I have covered all of her responsibilities on my own, alongside my own. You have seen how the department has run in that time, and I'm asking you to judge me on it.
+
+**The budget**
+I have never managed a budget, and I would rather say so plainly than leave it unaddressed. Here is what I propose:
+
+- Within my first 30 days, I will review the front office payroll budget line by line with you, or with whoever you choose, and give you a written summary of where we stand against it.
+- For the first six months, I will meet with you monthly to review actual payroll against budget and explain any variance.
+- If we are running over at any of those reviews, I will bring you a written plan to correct it by the following month.
+
+Payroll is largely staffing and scheduling, which I already manage every day. The reductions in turnover and training time described above are payroll savings already in place.
+
+**Why me**
+I've worked at this hotel for six years, the last two as assistant manager. I know the team, the building and our guests, and for seven weeks I've done this job. I'd welcome the chance to talk it through with you before you decide.
+
+[Your name]
+</final_document>

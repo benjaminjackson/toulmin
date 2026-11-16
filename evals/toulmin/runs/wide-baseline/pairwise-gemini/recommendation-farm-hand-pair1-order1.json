@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-17-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters are equally persuasive, quick to read, and make a compelling case for the applicant's work ethic and technical potential. However, Document A gives a slightly more honest account of the facts in the brief regarding the five-week absence and how the applicant learned the software, whereas Document B slightly stretches those details into an official-sounding 'family medical leave' and 'on his own initiative.'"
+}

@@ -1,0 +1,37 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-17-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "In that time he has gone from learning the basics",
+      "why": "The brief does not state what Tomás knew or did not know when he started, or that he began by learning the basics."
+    },
+    {
+      "quote": "The cows get milked on time, the equipment gets cleaned, and problems get reported, all because he does it right.",
+      "why": "The brief states only that he runs the 3 a.m. milking shift on his own, not whether cows are milked on time, equipment is cleaned, or general shift problems are reported."
+    },
+    {
+      "quote": "when he went home to Mexico because his father was seriously ill",
+      "why": "The brief says his father got sick in Mexico, not that Mexico is Tomás's home or that the illness was serious."
+    },
+    {
+      "quote": "Tomás taught himself our herd management software.",
+      "why": "The brief says he learned the herd management software, not that he taught himself."
+    },
+    {
+      "quote": "He now uses it with what he sees in the parlor to flag sick cows for our veterinarian.",
+      "why": "The brief does not say that he combines the software with visual observations in the parlor to flag sick cows."
+    },
+    {
+      "quote": "Tomás's spoken English is strong",
+      "why": "The brief only states that his written English is weaker than his spoken English, not that his spoken English is strong."
+    },
+    {
+      "quote": "He picked up our software without any formal training",
+      "why": "The brief says he learned the software, not that he did so without any formal training."
+    }
+  ],
+  "invented_count": 7
+}

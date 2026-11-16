@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B is more candid: it gives the five-week absence and the writing weakness plainly, which makes its praise easier to trust. It also explains concretely why catching mastitis early matters. A's vague 'family medical leave' and more generic closing make it read like a standard reference letter."
+}

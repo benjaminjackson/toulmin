@@ -1,0 +1,29 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-19-20Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I drive through that intersection every day.",
+      "why": "The brief states that the speaker lives on Alder Road, not that they drive through the intersection of Alder and 4th every day (or drive at all)."
+    },
+    {
+      "quote": "Right now that lot is 1.8 acres of asphalt",
+      "why": "The brief describes the site as a 1.8-acre back parking lot, not specifically that it is paved with asphalt."
+    },
+    {
+      "quote": "These are people who already work here and live here, or want to: home health aides, cooks, retail workers, retirees on fixed incomes.",
+      "why": "The brief only states that the units will rent to households earning under 60% of the area median income, with no mention of the prospective tenants' specific occupations or residency status."
+    },
+    {
+      "quote": "they're 64 real homes on land that's already paved, with no new land cleared and no one displaced.",
+      "why": "The brief only states the apartments will be built on a back parking lot; it does not state whether the lot is paved or whether any surrounding land will be cleared."
+    },
+    {
+      "quote": "A slower light at Alder and 4th is a real cost",
+      "why": "The brief mentions the intersection's traffic rating will drop from C to D, not that there is a traffic light at the intersection."
+    }
+  ],
+  "invented_count": 5
+}

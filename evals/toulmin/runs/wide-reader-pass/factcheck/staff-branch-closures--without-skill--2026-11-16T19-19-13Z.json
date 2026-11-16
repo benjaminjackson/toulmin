@@ -1,0 +1,21 @@
+{
+  "task": "staff-branch-closures",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-19-13Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Before then, you'll each have a one-on-one conversation to go through the details and answer your questions.",
+      "why": "The brief does not mention that affected staff will have individual one-on-one meetings."
+    },
+    {
+      "quote": "Closing a branch means leaving a place where many of you have built relationships with members over years.",
+      "why": "The brief does not state how long the affected staff have worked at those branches or that they have built relationships with members over years."
+    },
+    {
+      "quote": "I'll be holding an open Q&A on [date/time/location or link].",
+      "why": "The brief does not state that the COO will hold an open Q&A session."
+    }
+  ],
+  "invented_count": 3
+}

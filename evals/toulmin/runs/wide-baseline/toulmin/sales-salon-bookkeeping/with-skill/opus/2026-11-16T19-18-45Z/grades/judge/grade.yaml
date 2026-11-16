@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:19:22.676341+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 357
+  tags: []
+  notes: extracted 357 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 4
+    honest: 7
+    works_the_facts: 3
+    right_comparison: 2
+    qualification: 4
+    objections: 3
+    fit: 8
+  details:
+    agree: The page is clear and believable, but an owner paying her cousin $600 a
+      year will quickly work out that $199 a month is $2,388 a year, and nothing here
+      gives her a reason to pay four times as much and leave someone she likes.
+    honest: It invents no numbers and admits the price rise and the missed dates,
+      but 'nearly always hit the date' overstates three misses out of twelve, which
+      is closer to one month in four.
+    works_the_facts: 'It only repeats the raw figures: it never gives the annual cost,
+      the 9-of-31 share (about 29%) who say their accountant charged less, the retention
+      rate (no owner left except by selling), or the 9-of-12 on-time record.'
+    right_comparison: It compares the service to generic call centres and account
+      managers, when this reader's real alternative is a relative who does the books
+      once a year for $600, and that is never described.
+    qualification: 'The hedges are honest but hard to check: ''depends on your accountant''
+      gives no number she can test, and the 10th-of-the-month promise doesn''t say
+      what happens to her when the date is missed.'
+    objections: It deals with smaller worries like the price rise, reliability and
+      being a one-person business, but leaves out the main objection, which is the
+      cost and loyalty compared with a cheap year-end bookkeeper in the family.
+    fit: It is sales-page copy, close to the requested 350 words, and ends with a
+      booking button as asked.

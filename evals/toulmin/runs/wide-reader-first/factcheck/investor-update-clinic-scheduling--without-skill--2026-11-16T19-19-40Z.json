@@ -1,0 +1,45 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-19-40Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Q3 update",
+      "why": "The brief states this is a quarterly update, but never specifies that it is for Q3."
+    },
+    {
+      "quote": "This is the biggest competitive risk we face: a \"good enough\" scheduler bundled with software the clinic already pays for.",
+      "why": "The brief only states that one customer moved to the scheduler built into their electronic records system, not that bundled schedulers are the company's biggest competitive risk or that clinics already pay for them."
+    },
+    {
+      "quote": "It's also the clearest proof we have that we deliver something the bundled schedulers don't.",
+      "why": "The brief does not state whether bundled schedulers lack automatic text reminders or achieve different no-show rates."
+    },
+    {
+      "quote": "We see two reasons to do it:",
+      "why": "The brief only states that the company will start selling the reminder feature on its own next month, without giving the reasons why."
+    },
+    {
+      "quote": "A clinic doesn't have to give up its existing scheduler to buy it, including the scheduler in its records system, which is the one we just lost a customer to.",
+      "why": "The brief does not state that the standalone reminder feature can integrate or work alongside existing or electronic records system schedulers."
+    },
+    {
+      "quote": "Selling it alone is a much smaller decision for a clinic owner than switching schedulers, so it should be faster to sell.",
+      "why": "The brief does not give faster sales cycles or ease of decision-making as the reason for selling the reminder feature on its own."
+    },
+    {
+      "quote": "Next quarter's update will report how many clinics bought reminders on their own, how long those deals took to close, and whether any of them went on to buy the full scheduler.",
+      "why": "The brief says nothing about sending an update next quarter, what metrics will be tracked, or using reminders to upsell the full scheduler."
+    },
+    {
+      "quote": "At 11 months of runway, the early results from the reminder product will shape our next decisions on spending and fundraising.",
+      "why": "The brief does not mention future spending decisions, fundraising plans, or tying them to the results of the reminder product."
+    },
+    {
+      "quote": "especially groups of 3 to 15 clinics.",
+      "why": "The brief does not mention a target customer size of 3 to 15 clinics."
+    }
+  ],
+  "invented_count": 9
+}

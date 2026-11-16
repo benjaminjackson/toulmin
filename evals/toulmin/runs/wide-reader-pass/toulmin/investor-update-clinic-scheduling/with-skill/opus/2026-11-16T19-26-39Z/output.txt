@@ -1,0 +1,59 @@
+I used the persuasion-planning skill because this update has bad news to report and needs to keep investors on board. The reader I wrote for is an investor who hasn't heard from you in six months. For that reader, the update has to cover three things up front: the silence, the runway and the lost customer. The case for the reminder product comes after that.
+
+<final_document>
+**Subject: Q4 update: MRR flat at $41K, lost our largest customer, reminders launching on their own next month**
+
+Hi all,
+
+Before the numbers, an apology. I didn't send updates for the last two quarters, and I should have. You'll hear from me every quarter from now on, whether the news is good or bad.
+
+**The short version**
+
+- MRR: $41,000, the same as three months ago
+- Clinics: added 9, lost 4 (net +5)
+- Cash: $480,000. Net burn: about $44,000/month. That gives us about 11 months of runway at the current rate.
+- Team: 6
+
+**The bad news**
+
+Our largest customer left. They're a 12-clinic chain that paid us $5,500 a month, and they moved to the scheduler built into their electronic records system. That's the main reason MRR is flat.
+
+It's also a warning. When a records vendor bundles scheduling, a large customer can drop us without having to switch anything else. I'm not assuming this was a one-off.
+
+**What the flat number hides**
+
+The rest of the business grew. Take the chain out and MRR went from $35,500 to $41,000 in one quarter. That's 15% growth across all other customers, and it absorbed losing 3 other clinics as well.
+
+**What's working best**
+
+Clinics that use our automatic text reminders have a 7% no-show rate. Before they started using reminders, the rate was 13%. That's close to half the missed appointments gone. A missed appointment is lost revenue for a clinic, so this is the result our customers care about most.
+
+**What we're doing about it**
+
+Next month we start selling the reminder feature on its own for $150 a month.
+
+It's also our answer to what happened with the chain. A clinic that already gets scheduling from its records system doesn't need our scheduler, but it may still want fewer no-shows. Selling reminders separately lets us sell to clinics we couldn't reach before, including ones like the chain we just lost. We haven't tested this yet. The first months of sales will tell us whether it holds.
+
+For scale: every 10 clinics on the standalone product adds $1,500 in MRR. Revenue alone would cover our current burn at about 290 standalone customers, or at a smaller number combined with growth in the full product.
+
+**What I'll report next quarter**
+
+- How many clinics bought reminders on their own, and how many of them use a records system with scheduling built in
+- MRR, with any churn of more than one clinic explained
+- Runway, and what we plan to do about it
+
+**How you can help**
+
+If you know owners or operations leads at physical therapy clinics, especially ones whose records system already handles scheduling, an introduction would help us most right now. They're exactly the customers we need to test the standalone product with.
+
+Thanks for your patience over the last six months. I'm happy to talk with any of you directly.
+
+[Your name]
+</final_document>
+
+The update is about 470 words. Before you send it, please check these points:
+
+1. **Runway plan.** The update says you have about 11 months of cash ($480K ÷ $44K) but doesn't say whether you plan to raise money, cut costs or reach breakeven. Investors will ask. If you have a plan, add one or two sentences to the runway bullet or the "next quarter" section. If you don't have one yet, the draft at least commits you to sharing it next quarter.
+2. **"About 290 customers to cover burn."** I got this by dividing $44,000 by $150. It assumes your $44K figure is net burn (spending minus revenue). If $44K is total spending before revenue, the number is wrong and you should remove that sentence.
+3. **Reaching clinics that already have a scheduler.** The draft presents this as a bet you haven't tested yet, not as a fact. If you already know the chain's records system has no text reminders, or you have early interest from clinics, say so. It would make that section stronger.
+4. **Promises you'll be held to.** The draft commits you to quarterly updates, the specific numbers for next quarter, and the request for introductions. Change any of these you don't want to commit to.

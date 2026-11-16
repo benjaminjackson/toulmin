@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-19-50Z",
+  "without_skill_run": "2026-11-16T19-19-08Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B's framing of 74 signatures as two out of every three households, and of 41 days as one day in eight, directly challenges my belief that this is just a few loud people, and its 14-day deadline makes the requests harder to dismiss. A's more cooperative tone is easier for me to brush off, and it adds a claim not in the facts, that residents were stuck for almost two weeks."
+}

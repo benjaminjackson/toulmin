@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-17-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "A presents $11,500 accurately as the low end of the range, which makes the ask feel modest and easy to approve. B wrongly calls it the middle of the $11,000–$13,000 range, and its $2,250-a-month calculation reads as a bit of a guilt appeal to an editor who is weighing an $8,000 alternative."
+}

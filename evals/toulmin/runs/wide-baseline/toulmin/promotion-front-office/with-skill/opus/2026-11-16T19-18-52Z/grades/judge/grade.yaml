@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:19:47.228541+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 463
+  tags: []
+  notes: extracted 463 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 6
+    qualification: 6
+    objections: 7
+    fit: 8
+  details:
+    agree: Because the memo gives the renovation real credit and leads with turnover
+      and training, the GM's doubt about the scores has little to push against, though
+      the case against the larger-hotel candidate is thinner than the rest.
+    honest: The memo turns down the request to claim being the main reason for the
+      score rise and invents no numbers, though saying the desk was 'more experienced'
+      through the whole 18 months is a little stronger than the timing in the facts
+      supports.
+    works_the_facts: 'The figures are worked out correctly and shown at their strongest:
+      64% to 36% turnover, four fewer hires a year, and training falling from about
+      81 shifts to about 25. It also ties turnover and training to payroll, which
+      helps on the budget gap.'
+    right_comparison: The outside hire is described as starting cold while one person
+      runs the desk, which is true, but the memo never mentions the candidate's real
+      strength (running a larger front desk, which probably included a budget) or
+      answers it.
+    qualification: 'The budget offer can be checked: monthly reviews and a payroll
+      plan by day 90. But ''we''ll both know early'' is a vague consequence, and the
+      memo doesn''t say what happens if the plan falls short.'
+    objections: The memo addresses the renovation and the budget gap head-on and raises
+      no objection the facts already settle, but it leaves the outside candidate's
+      bigger-hotel experience unanswered.
+    fit: It's a one-page memo dated for Friday with clear sections that suits a written
+      application, though several placeholders still need filling in.

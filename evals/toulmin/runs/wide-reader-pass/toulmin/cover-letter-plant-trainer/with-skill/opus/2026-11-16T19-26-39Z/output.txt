@@ -1,0 +1,41 @@
+I'd change one part of what you asked for. I left out the promise to cut their new-hire training time in half, and the letter makes a different offer that I think will do more for you.
+
+**What your facts back up and what they don't:** The "half" promise is about their training program, which you haven't seen. Your facts show you design training that works: seven years without a lab injury beyond first aid, and an AP pass rate that went from 41% to 58%. They don't tell us how long the plant's onboarding takes now, or how much of it is fixed by regulations. At a drug plant, training time is often set by which procedures each worker must be signed off on.
+
+**How a sceptical hiring manager would read it:** "A candidate with no GMP experience is promising to halve a program they've never seen. Either they don't understand our regulations, or they'll cut corners to hit a number." Nothing in your background answers that, and it's the worry they'll already have about someone from outside the industry.
+
+**What the letter offers instead:** You'll measure how long it takes a new hire to be signed off to work on their own, then shorten it without dropping anything the records need to show. That shows you think about training time and gives them something they can hold you to. If you still want the "half" promise, I'd keep it out of the letter and bring it up in the interview once you've asked how long their onboarding takes.
+
+**Things to check before sending:**
+- **Your plans:** Two sentences describe things you'd do: learn their records standards from the quality team, and learn their learning system before your start date if they give you access. Make sure you're willing to do both.
+- **"Seven years":** I got this from 2019 to now, and it assumes the program has been running since 2019.
+- **Brackets:** Fill in the company name and your details, and use the hiring manager's name if you can find it.
+- **Length:** It's about 400 words, which fits on one page.
+
+<final_document>
+[Your Name]
+[Phone] · [Email]
+[Date]
+
+Dear Hiring Manager,
+
+I'm applying for the Training Coordinator position at [Company]. For nine years I've taught high school chemistry. That means my job has been to teach people to handle hazardous materials by following written procedures exactly, and then to check that they can. I'd like to do that work at your plant.
+
+Here is what that work has produced:
+
+**Safety.** In 2019 I wrote our school's lab safety program. In the seven years since, with about 140 students a year working in our labs, we have not had a single injury that needed more than first aid.
+
+**Measurable results.** In the four years I've taught AP Chemistry, our pass rate has gone from 41% to 58%.
+
+**Training adults.** Every year I train our new science teachers on lab procedures, about 12 hours for each person, usually two people a year. They then supervise students in the lab on their own, so the training has to hold up when I'm not in the room.
+
+I haven't worked in a regulated industry, and I haven't kept GMP training records. I know the posting asks for that. The work I've done is closer to it than it may look. A lab safety program only works if every procedure is written down, taught the same way each time, and followed. Training records exist to prove that. I would plan to learn your documentation requirements from your quality team in my first weeks and keep records to whatever standard they set. I would do the same with your learning management system. I run five classes a year through Google Classroom, and if you can give me access before my start date, I'd learn yours before day one.
+
+I'd also look closely at how long it takes a new hire to become productive. I would start by measuring how long it currently takes someone to be signed off to work on their own. Then I'd look for where that time can come down without dropping anything your records need to show. Shortening training without weakening it is what I've spent nine years doing with teenagers and new teachers.
+
+I live about 30 minutes from the plant and am ready to commit to this move for the long term. I'd welcome the chance to talk about what your new hires need to learn and how I would teach it.
+
+Sincerely,
+
+[Your Name]
+</final_document>

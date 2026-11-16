@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-18-00Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A is much more constructive and acknowledges the legitimacy of our structural and cost assessments, making the association seem like a reasonable majority (74 of 112 households) rather than just a few loud complainers. Document B's sarcastic remarks ('make sure someone answers it') and thinly veiled threats ('solve this with you than about you') immediately put me on the defensive and validate my belief that the association is just looking for a fight."
+}

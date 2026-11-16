@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:27:31.241212+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 388
+  tags: []
+  notes: extracted 388 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 7
+    honest: 4
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 5
+    objections: 7
+    fit: 9
+  details:
+    agree: "The concrete details (running the 3 a.m. shift alone, nine early mastitis\
+      \ catches, two missed shifts in three years) set this letter apart from generic\
+      \ praise, so a quick reader with no prior view would likely rank Tom\xE1s well,\
+      \ though a careful one might notice some claims that read as padding."
+    honest: 'Several claims go beyond the brief: ''taught himself'' the software,
+      ''nobody asked him to take this on'', ''he picked up the 3 a.m. shift again'',
+      the trust-earned backstory, the change from following instructions to making
+      judgments, and ''seriously ill''; the ''without reservation'' line also sits
+      awkwardly with leaving out the two days'' notice.'
+    works_the_facts: It works out his age (22) and explains why early detection matters,
+      but it never turns 'two missed shifts in three years' into its strongest form,
+      roughly 2 out of about 750 scheduled shifts, or better than 99% attendance.
+    right_comparison: The only comparison is a passing claim that he brings practical
+      experience many students won't have, which roughly places him against the other
+      applicants without developing the point.
+    qualification: The one hedge, about written English, is honest and paired with
+      the night class, but it gives nothing the reader could check, such as a course
+      level, a completion date, or progress so far.
+    objections: It meets the two likely concerns, written English for coursework and
+      the long absence, by giving the reason for the leave and naming the night class,
+      and it raises no objection that the facts already answer.
+    fit: It is a one-page letter from the farm manager in the standard format, as
+      the brief asked.

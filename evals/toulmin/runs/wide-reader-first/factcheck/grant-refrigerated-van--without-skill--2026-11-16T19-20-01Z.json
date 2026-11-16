@@ -1,0 +1,21 @@
+{
+  "task": "grant-refrigerated-van",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-20-01Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "A refrigerated van solves both halves of the problem. It lets us collect produce directly from farms at harvest and keep it at safe temperatures until it reaches families.",
+      "why": "The brief does not state that a refrigerated van can serve as cold storage to keep food at safe temperatures until distribution, nor that produce is collected specifically at harvest."
+    },
+    {
+      "quote": "We are making this commitment because fresh food is the greatest unmet need we see.",
+      "why": "The brief does not state that fresh food is the greatest unmet need the food bank sees."
+    },
+    {
+      "quote": "The Foundation's $12,000 grant in 2023 paid for shelving we use on every distribution day.",
+      "why": "The brief states the 2023 grant was for shelving, but does not say the shelving is used on every distribution day."
+    }
+  ],
+  "invented_count": 3
+}

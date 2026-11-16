@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:28:05.438977+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 289
+  tags: []
+  notes: extracted 289 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 4
+    honest: 7
+    works_the_facts: 4
+    right_comparison: 2
+    qualification: 6
+    objections: 3
+    fit: 9
+  details:
+    agree: The page reads as honest and likeable, but an owner whose cousin does her
+      books for $600 a year sees $2,388 and gets no reason to change or to tell her
+      cousin, so she probably won't book.
+    honest: The figures match the brief and the $800 claim is hedged, but the promise
+      to warn clients before the 10th and the line that they'll get 'a finished, reconciled
+      year' are commitments the brief never states.
+    works_the_facts: It works out $2,388 a year, which is the least flattering form
+      of the price, but it never says that nobody left by choice (29 of 31 stayed,
+      and the 2 who left sold their salons), that 9 of 12 closes were on time, or
+      how the $800 saving compares with the extra cost.
+    right_comparison: It never describes her real alternative, which is a once-a-year
+      catch-up by her cousin while she handles payroll and sales tax herself all year,
+      so the reader has nothing to set $199 a month against.
+    qualification: 'The deadline hedge is a good one: it names the 10th, admits three
+      misses and says what happens if one is coming, but the tax-time saving is hedged
+      with nothing the reader can check.'
+    objections: Her main objection, paying about four times what her cousin charges
+      and leaving him, goes unanswered, for example by saying he can keep doing her
+      taxes from cleaner books, while space goes on the price rise, which she never
+      asked about.
+    fit: It is about 330 words of page copy with clear sections and ends with the
+      button to book the call, as the brief asked.

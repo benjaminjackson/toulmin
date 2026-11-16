@@ -1,0 +1,53 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-27-39Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The light has to stay lit, and everyone has to make it to spring.",
+      "why": "The brief only says you see a lighthouse keeper's family through a winter, without giving specific win or loss conditions like keeping the light lit or everyone surviving."
+    },
+    {
+      "quote": "it works just as well solo on a quiet night as it does with four people around the table.",
+      "why": "The brief states the game is for 1 to 4 players, not how well the solo mode plays compared to the four-player mode."
+    },
+    {
+      "quote": "That's one pledge level and one copy of the game",
+      "why": "The brief gives the $49 price for the game with US shipping, but does not say there is only one pledge level in the campaign."
+    },
+    {
+      "quote": "watched strangers sit down with it.",
+      "why": "The brief states the creator took the game to two conventions, not who played it there or that the creator watched strangers play."
+    },
+    {
+      "quote": "On BoardGameGeek, 23 players have rated it, with an average of 8.1 out of 10.",
+      "why": "The brief refers only to 'the main board game ratings site' and an average rating of 8.1, without naming BoardGameGeek or specifying a 10-point scale."
+    },
+    {
+      "quote": "by people who didn't owe me anything, and that they liked it.",
+      "why": "The brief does not specify the creator's relationship to the 60 playtesters or state how those playtesters felt about the game."
+    },
+    {
+      "quote": "The remaining $5,450 or so covers platform and payment fees, with a cushion for costs that go up.",
+      "why": "The brief does not explain what the money left over after printing and shipping is designated for."
+    },
+    {
+      "quote": "On the 1st of every month, from the end of the campaign until your copy ships, I'll post an update. It will cover where production stands, what the factory has sent me, and anything that has gone wrong.",
+      "why": "The brief mentions no schedule or plan for post-campaign updates."
+    },
+    {
+      "quote": "I spend my working days measuring coastlines and property lines.",
+      "why": "The brief says the creator works full time as a land surveyor, not that their job involves measuring coastlines."
+    },
+    {
+      "quote": "I wanted to make a game about the people who keep watch at the edge of the map: a family, a light, and a long dark season they have to get through by relying on each other.",
+      "why": "The brief gives no information about what inspired or motivated the creator to make the game."
+    },
+    {
+      "quote": "that's what playtesters kept telling me happened at their tables.",
+      "why": "The brief mentions 140 playtest sessions with 60 people, but says nothing about what feedback the playtesters gave."
+    }
+  ],
+  "invented_count": 11
+}

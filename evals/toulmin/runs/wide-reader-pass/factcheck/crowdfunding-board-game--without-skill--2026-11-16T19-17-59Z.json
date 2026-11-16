@@ -1,0 +1,49 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-17-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The storms are coming in off the sea. The supply boat may not make it. And every night, no matter what, the lamp has to burn.",
+      "why": "The brief only states the theme is seeing a lighthouse keeper's family through a winter, without mentioning storms, a supply boat, or keeping the lamp burning every night."
+    },
+    {
+      "quote": "on an isolated rock",
+      "why": "The brief does not state the lighthouse is located on an isolated rock."
+    },
+    {
+      "quote": "You'll share food and fuel, fix what the weather breaks, look after each other when someone gets sick or loses heart, and keep the light burning for the ships that depend on it.",
+      "why": "The brief does not give any details about the specific actions, resources, or events in the game such as sharing food and fuel, fixing weather damage, sickness, morale, or keeping the light burning for ships."
+    },
+    {
+      "quote": "I started this game in 2023",
+      "why": "The brief states the designer has run playtest sessions since 2023, not when they started designing the game."
+    },
+    {
+      "quote": "friends, strangers, families, experienced gamers and people who had never played a co-op game before.",
+      "why": "The brief only mentions 'about 60 different people' and gives no information about who those playtesters were or their gaming experience."
+    },
+    {
+      "quote": "Every session changed something. The version you're backing has been reworked, rebalanced and simplified based on what those players showed me.",
+      "why": "The brief does not mention what changes were made during playtesting or that the game was reworked, rebalanced, and simplified."
+    },
+    {
+      "quote": "where people sat down with strangers and played it start to finish.",
+      "why": "The brief only states that the designer took the game to two conventions, not who played it there or whether they played it start to finish."
+    },
+    {
+      "quote": "More than **1,240 of you** signed up to hear about this launch.",
+      "why": "The brief states that 1,240 people signed up, not more than 1,240."
+    },
+    {
+      "quote": "I spend my days reading terrain and thinking about how people find their way through hard country. This game came from the same place.",
+      "why": "The brief only states the designer works full time as a land surveyor, not what inspired the game or what they think about at work."
+    },
+    {
+      "quote": "I'll post updates about manufacturing, delays and problems as they happen, including the bad news.",
+      "why": "The brief makes no mention of plans or promises regarding campaign updates."
+    }
+  ],
+  "invented_count": 10
+}

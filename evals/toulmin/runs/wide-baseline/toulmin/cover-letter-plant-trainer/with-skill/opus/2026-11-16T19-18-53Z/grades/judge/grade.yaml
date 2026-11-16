@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T19:19:34.693339+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 406
+  tags: []
+  notes: extracted 406 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 7
+    honest: 6
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 6
+    objections: 8
+    fit: 7
+  details:
+    agree: The letter names the GMP and LMS gaps itself and shows it understands that
+      regulated documentation can't be cut, so a skeptical HR manager would probably
+      give it a phone screen, though nothing proves the teacher can work on a plant
+      floor.
+    honest: Rightly drops the unsupported claim to cut training time in half, but
+      '1,260 students' under procedures she wrote counts years before the 2019 program
+      existed (about 980 would be accurate), and calling the new teachers 'experienced
+      professionals' isn't in the brief.
+    works_the_facts: 'It derives the seven safe years and 18 teachers trained, but
+      it misstates the student total and misses stronger true forms: the pass-rate
+      rise as 17 points (a 41% relative gain), and about 216 hours of adult training
+      delivered.'
+    right_comparison: It never sets her against the obvious alternative, a candidate
+      who already has GMP experience, and it doesn't say why a procedure-focused teacher
+      could be the better hire.
+    qualification: The 90-day onboarding review with a written proposal gives a date
+      and a deliverable the reader can check, but it has no measurable target and
+      doesn't say what happens if the proposal falls short.
+    objections: It meets the reader's main objections, no regulated-industry experience,
+      no GMP records and an unfamiliar LMS, with concrete steps like working with
+      Quality before changing anything, and it doesn't raise any objection the brief
+      already answers.
+    fit: This is a proper one-page cover letter, but it deliberately leaves out the
+      'cut training time in half' line the user asked for and doesn't tell the user
+      why.

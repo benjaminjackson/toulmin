@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-15Z",
+  "without_skill_run": "2026-11-16T19-19-18Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "A feels like it was written by someone who knows my shop: it mentions booth rent, tips and commission splits, and it guesses that Sunday and Monday are my days off too. It also tells me plainly that the price rise applied to everyone. B is just as honest and gives a good reason to want monthly books, but it opens with $199 a month, and that puts my $600-a-year cousin in my head before I've warmed up."
+}

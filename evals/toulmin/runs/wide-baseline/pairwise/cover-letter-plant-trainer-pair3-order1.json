@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-19-34Z",
+  "without_skill_run": "2026-11-16T19-19-29Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A gives a concrete 90-day plan to map and shorten onboarding while keeping compliance intact, and it handles the GMP gap with a specific offer to take a course, which reads like someone who understands a regulated plant. B is warmer, but it vaguely claims to be 'already working to understand GMP' and refers to an odd 'move' when the commute is only 30 minutes, so it is a little less convincing."
+}

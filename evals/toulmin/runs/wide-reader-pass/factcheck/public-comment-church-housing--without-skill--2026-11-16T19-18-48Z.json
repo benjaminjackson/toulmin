@@ -1,0 +1,45 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-18-48Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I drive through that intersection.",
+      "why": "The brief states the speaker lives on Alder Road, but does not say whether the speaker drives or uses the intersection at Alder and 4th."
+    },
+    {
+      "quote": "I'll be one of the people waiting a little longer at that light.",
+      "why": "The brief does not mention that the intersection at Alder and 4th has a traffic light."
+    },
+    {
+      "quote": "And I'd ask you to weigh a few extra seconds at a stoplight against what's on the other side of the scale.",
+      "why": "The brief does not say the intersection has a stoplight or that the drop from a C to a D rating equals a delay of a few extra seconds."
+    },
+    {
+      "quote": "That's three years of families doubling up, of seniors choosing between rent and medicine, of people who work here commuting in from somewhere cheaper.",
+      "why": "The brief gives the number of households on the waiting list and the average wait time, but provides no details about the demographics or living situations of those on the list."
+    },
+    {
+      "quote": "Some of those commuters are already driving on Alder Road.",
+      "why": "The brief does not mention anything about people on the housing waiting list commuting on Alder Road."
+    },
+    {
+      "quote": "That is exactly the kind of household on that waiting list.",
+      "why": "The brief does not specify the income requirements or characteristics of the households on the county housing authority's waiting list."
+    },
+    {
+      "quote": "The church's back parking lot is 1.8 acres of asphalt that sits empty six days a week.",
+      "why": "The brief states the lot is a 1.8-acre parking lot, but does not state that it is paved with asphalt."
+    },
+    {
+      "quote": "We wouldn't be clearing open space or tearing anything down.",
+      "why": "The brief says the apartments would be built on the back parking lot, but does not say whether anything on the site would need to be torn down."
+    },
+    {
+      "quote": "The people who would live here are the people who already work in our stores, care for our parents, and teach our kids.",
+      "why": "The brief only states that prospective tenants would earn under 60% of the area median income, not what their jobs are or where they work."
+    }
+  ],
+  "invented_count": 9
+}

@@ -1,0 +1,30 @@
+I wrote this as an apology first and a pitch second. These 97 households paid full price for six half-boxes and heard almost nothing about it. That's most likely why they left. So the email owns that before it mentions anything new. It's about 170 words.
+
+**Before sending:**
+- **Sign-up link:** you didn't give me one, so there's a placeholder you'll need to fill in.
+- **No credit if a storm hits again:** the 2-week pause doesn't cover that. A storm-loss policy would fix it, for example credit for any week a box comes in under half. If you're willing to commit to one, add it as the first bullet. It would answer their complaint more directly than anything else here.
+- **No promise about the nets:** they only cover tomatoes and peppers, so the email doesn't claim hail can't hurt you again. Lapsed members would be quick to doubt that claim.
+- **"Three weeks":** six weeks at half a box works out to about three weeks of food lost out of 22. Leaving that number in shows them you've done the same sum they have.
+
+<final_document>
+Subject: We got last summer wrong
+
+Hi,
+
+On July 9, a hailstorm destroyed about half our crops. For the next six weeks your box held about half what it should have. That's roughly three weeks of food out of the 22 you paid for. We didn't offer a refund or credit, and I sent you one short email about it. You deserved better on both counts, and I'm sorry.
+
+Here's what's different this season:
+
+- **A second field on higher ground**, so our crops aren't all in one place.
+- **Hail nets over our tomatoes and peppers.** Together with the new field, that's a $31,000 investment.
+- **Pause up to 2 weeks** and get credit for them.
+- **Same price:** a full share is still $540.
+
+The nets don't cover everything, and I won't pretend the weather can't hurt us again. But we've put real money into making sure one storm can't do what last July's did.
+
+If you'd like to come back, there are 52 shares left. **Sign-up closes March 15:** [sign-up link]
+
+I'd be glad to see you at Thursday pickup again.
+
+[Your name]
+</final_document>

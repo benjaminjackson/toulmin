@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-17-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both documents wisely avoid the brief's unrealistic claim of doubling fresh food, sticking to the honest 50% summer increase supported by the numbers. However, Document B wins because its proposed remedy for the late 2023 report—one post-summer check-in and board tracking—is realistic for a volunteer-run group that struggled with a single report, whereas Document A's promise of quarterly updates with source-level monthly data feels like an overpromise I'd end up chasing four times a year."
+}

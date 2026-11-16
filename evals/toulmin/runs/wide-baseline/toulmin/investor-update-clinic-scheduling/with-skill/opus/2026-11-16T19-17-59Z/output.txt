@@ -1,0 +1,54 @@
+I didn't use any tools for this. All the numbers come from your message.
+
+- **Runway:** I worked it out as about 11 months ($480,000 ÷ $44,000). Investors will do that maths themselves, so the update says it plainly.
+- **Placeholders to fill in:** what you plan to do about runway, the quarter label and your name. I didn't want to guess your plans.
+- **Why reminders are sold separately:** I said the $150 offer is aimed at clinics that already use their records system's scheduler, since that's what took your biggest customer. If that isn't your real reason, change that sentence.
+- **Asks:** I suggested two. Cut them if they don't fit.
+- **Length and sending:** It's about 420 words. Send it to the 11 investors as BCC or one at a time, not with all of them visible in the To line.
+
+<final_document>
+**Subject: [Company] Q[X] update: flat revenue, a big loss, and what we learned**
+
+Hi all,
+
+First, I'm sorry I didn't send updates for the last two quarters. You should hear from me every quarter, good news or not, and from now on you will.
+
+**The numbers**
+
+- Monthly recurring revenue: $41,000, the same as three months ago
+- Clinics added: 9. Clinics lost: 4
+- Cash: $480,000. Net burn: about $44,000/month, which gives us about 11 months of runway
+- Team: 6
+
+**What happened**
+
+Revenue stayed flat because we lost our largest customer. A 12-clinic chain paying $5,500 a month moved to the scheduler built into their electronic records system. The 9 new clinics made up for that loss, but they didn't grow us.
+
+This is the biggest risk to the business, and I'd rather name it than hide it. Records vendors are putting "good enough" scheduling into their products. Chains that already pay for those systems will be tempted to consolidate. A scheduler on its own will not hold up against that.
+
+**What's working**
+
+Text reminders are our clearest result. Clinics using our automatic reminders have a 7% no-show rate. Before they started, it was 13%, so missed appointments have nearly halved. For a PT clinic, every no-show is an empty slot that can't be billed, and this is the result clinic owners respond to most.
+
+**What we're doing about it**
+
+Next month we start selling reminders on their own for $150 a month. Clinics that already rely on their records system's scheduler can still buy the part of our product that measurably pays for itself. Instead of competing with the records vendors on scheduling, we sell alongside them.
+
+Over the next quarter I'll report on:
+- How many standalone reminder customers we sign, and how quickly
+- Whether reminder customers go on to buy full scheduling
+- Revenue churn, including how concentrated revenue is in our largest remaining customers
+
+**Runway**
+
+With about 11 months of cash, here is the plan: [your plan, e.g. the burn changes you're making, when you'll decide on raising, and what milestones would justify it]. I'll be direct with you about where this stands each quarter.
+
+**How you can help**
+
+1. Introductions to PT clinic owners or operators, especially groups of 3–15 clinics, to test the standalone reminder offer.
+2. If you've seen a company survive a platform building its feature into their own product, I'd value 20 minutes of your time.
+
+Thank you for your patience and your support. Reply here any time, or let me know if you'd like to talk it through.
+
+[Your name]
+</final_document>

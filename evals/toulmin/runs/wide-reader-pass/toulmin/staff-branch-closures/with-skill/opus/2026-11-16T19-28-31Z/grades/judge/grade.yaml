@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:29:17.473557+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 443
+  tags: []
+  notes: extracted 443 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 5
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 6
+    objections: 5
+    fit: 8
+  details:
+    agree: The email is direct and admits the evening shifts, which builds trust,
+      but a long-serving teller who doesn't want phone work gets little reason to
+      take the role beyond same pay and two days at home.
+    honest: The brief's figures are reported accurately, but the one-on-one meetings
+      'in the next two weeks' are an invented commitment, and 'members who reach a
+      real person faster' is stated as a result when no fact supports it.
+    works_the_facts: 'The figures are repeated rather than worked out: there''s no
+      severance example (ten years comes to 20 weeks of pay), no note that the center''s
+      12-hour day is 50% longer than the branches'' 8 hours, and no explanation of
+      what a 60% rise in contacts does to hold times if nothing changes.'
+    right_comparison: Falling visits and rising phone and chat volume are set side
+      by side as a trend, but the email never says what happens if the branches stay
+      open, so the staff's real alternative is only partly described.
+    qualification: The announcement states firm decisions and offers, so it needs
+      no conditional hedges.
+    objections: It takes on the shift-rotation objection honestly but never addresses
+      the central one, that these staff don't want phone work. It also ignores the
+      two weeks of rumours and what long-tenured staff lose when their branch relationships
+      end.
+    fit: It's an email from the COO of roughly 420 words with clear sections, which
+      matches the brief's form and length.

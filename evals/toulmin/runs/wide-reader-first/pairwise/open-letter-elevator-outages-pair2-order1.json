@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-27-36Z",
+  "without_skill_run": "2026-11-16T19-18-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "As a manager who thinks the outages have been handled well, I'd find Document A's three narrow, no-cost requests easy to say yes to without admitting fault. Document B is more demanding, with five items, monthly reports, an independent review and a 14-day deadline, and it adds details the facts don't support, like parents carrying children up eight flights."
+}

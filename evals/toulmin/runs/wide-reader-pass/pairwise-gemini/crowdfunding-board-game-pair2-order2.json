@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-50Z",
+  "without_skill_run": "2026-11-16T19-18-43Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins my trust by showing the exact math for the 572 backers needed at the goal—which prevents the creator from claiming they can pay for 1,500 shipments on a $28k budget—and by honestly acknowledging that 23 ratings isn't a huge crowd. Document A exaggerates the 140 playtests as 'hundreds of tables' and fails to do the math showing how shipping and manufacturing actually fit into the $28,000 goal."
+}

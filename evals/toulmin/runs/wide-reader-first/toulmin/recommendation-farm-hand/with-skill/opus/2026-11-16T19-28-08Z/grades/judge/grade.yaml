@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:28:45.727592+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 359
+  tags: []
+  notes: extracted 359 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 7
+    honest: 5
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 4
+    objections: 7
+    fit: 9
+  details:
+    agree: 'A quick-reading committee member gets a clear, specific case: he runs
+      the 3 a.m. milking alone, flags sick cows using the herd software, and caught
+      nine mastitis cases early, and the letter takes on his weak written English
+      directly, so most readers would rank him favourably.'
+    honest: 'Several claims go beyond the brief: ''nobody asked'' him to learn the
+      software, ''with no formal training'', ''communicates clearly with me, our crew
+      and our vet'', and ''seriously ill''; it also leaves out the five-week absence
+      and the two days'' notice by calling it ''one family emergency''.'
+    works_the_facts: 'It uses the facts as given but derives nothing from them: two
+      missed shifts out of roughly 780 scheduled (about 99.7% attendance) is never
+      worked out, and the nine mastitis cases are never tied to milk or cost saved.'
+    right_comparison: It compares him with others only through the vague 'one of the
+      people I would most like to see get this training' and gives no measure of how
+      he stands against other workers or applicants.
+    qualification: 'The English caveat is honest and names a remedy (the night class),
+      but the reader cannot check anything: there is no course level, no end date
+      and no measure of progress.'
+    objections: The two likely objections, written English and reliability, are met
+      head-on, though the long absence is softened rather than squarely addressed.
+    fit: It is a one-page letter from the farm manager, with sensible bold section
+      leads and placeholders, which matches what the brief asked for.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-30Z",
+  "without_skill_run": "2026-11-16T19-19-20Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both are honest about the traffic hit, but B gives the two traffic-focused commissioners a concrete way to say yes by suggesting approval conditional on a signal review at Alder and Fourth. It also states the trade-off clearly: 64 homes is about one in six of the households on the waiting list, while a no vote leaves the lot empty. A's human touches, like the middle-school comparison, are warm, but it offers the commissioners no way to address their traffic concern."
+}

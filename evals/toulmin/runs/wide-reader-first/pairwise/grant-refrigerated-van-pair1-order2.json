@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B deals with the late shelving report right away, says plainly that it was their responsibility, and promises monthly updates and a final report by a set date even if they miss the goal. That speaks directly to my worry after chasing their last report for four months, while A's quarterly promise is vaguer. Both are honest about the gain: they show the 9,000 lb adds about a half in summer and about an eighth over the year, not the 'double' the director wanted, but B's figures per household and per month are easier to check."
+}

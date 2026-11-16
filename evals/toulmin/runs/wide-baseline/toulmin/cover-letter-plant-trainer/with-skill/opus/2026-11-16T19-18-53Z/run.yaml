@@ -1,0 +1,41 @@
+task:
+  name: cover-letter-plant-trainer
+  type: cover-letter
+  set: tune
+  reader: The HR manager at a pharmaceutical manufacturing plant who is screening
+    applicants for a training coordinator job. She has seen many teachers apply for
+    corporate training roles and assumes most of them don't know how a regulated plant
+    works. She decides who gets a phone screen.
+  prompt: 'Help me write a cover letter. I''ve taught high school chemistry for 9
+    years and I''m applying to be a training coordinator at a pharmaceutical manufacturing
+    plant about 30 minutes from me.
+
+
+    About me:
+
+    - I teach about 140 students a year across five classes.
+
+    - I wrote our school''s lab safety program in 2019. Since then we''ve had no injuries
+    in our labs that needed more than first aid.
+
+    - Our AP Chemistry pass rate went from 41% to 58% over the four years I''ve taught
+    the course.
+
+    - Every year I train our new science teachers on lab procedures, about 12 hours
+    each. There have been two a year on average.
+
+    - I''ve never worked in a regulated industry. The job posting asks for experience
+    with GMP training records, which I don''t have.
+
+    - I use Google Classroom. The plant uses a learning management system I haven''t
+    used.
+
+
+    I want the letter to say I can cut their new-hire training time in half. One page.'
+config:
+  name: with-skill
+  runner: /Users/ben/github/toulmin/evals/toulmin/run-with-skill
+  model: opus
+started: '2026-11-16T19:18:53.030107+00:00'
+duration_seconds: 28.0
+exit_code: 0

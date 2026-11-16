@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-27-40Z",
+  "without_skill_run": "2026-11-16T19-18-40Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A treats us with respect by explicitly acknowledging that working on the phones and chat is a completely different job from serving members in person, which is our biggest concern. Document B only mentions the schedule change, phrases our potential departure as 'choosing' to lose our jobs, and promises scheduling flexibility that wasn't in the facts."
+}

@@ -1,0 +1,49 @@
+I've drafted the update below. Before you send it, check the points where I've filled a gap in what you gave me.
+
+**Approach:** The update starts with the bad news, because investors who haven't heard from you in six months will be looking for it. It then covers the missed updates in one plain sentence, shows that new business made up for the lost chain, and makes the reminder product the plan to watch next quarter.
+
+**Arithmetic I did myself (please check):**
+- **Runway:** $480,000 ÷ $44,000 is about 11 months, which runs out around October 2027 if nothing changes.
+- **Size of the lost chain:** $5,500 is about 13% of $41,000.
+- **Underlying growth:** Monthly revenue stayed flat even after losing the chain, so new clinics added about $5,500 more than the other three lost clinics took with them. Without the chain's loss, you'd be at about $46,500.
+- **No-show drop:** Going from 13% to 7% is a drop of almost half.
+
+**Things I added that you need to confirm or change:**
+1. **The ask:** introductions to physical therapy clinic owners and managers. You didn't give me an ask, so I chose this one.
+2. **The promise of an update every quarter from now on**, starting with figures on standalone reminder sales.
+3. **A promise that the next update will say whether you'll raise money or cut spending.** At about 11 months of cash, investors will expect you to address this. If you already have a plan, put it here instead.
+4. **The claim that clinics can buy reminders without switching schedulers.** I took that from "selling it on its own." Check that it's true, especially for clinics using the scheduler built into their records system.
+5. **"Customers," not "clinics":** Your numbers count the 12-clinic chain as one of the 4 you lost, so I wrote "customers." If the 9 you added are counted differently, correct it.
+
+<final_document>
+Subject: Q3 update: flat revenue, a lost customer, and what we're doing next
+
+Hi all,
+
+First, I owe you an apology: I didn't send updates for the last two quarters. That was a mistake, and from now on you'll get one every quarter.
+
+The headline is that monthly recurring revenue is $41,000, the same as three months ago. That's because we lost our largest customer, a 12-clinic chain paying $5,500 a month. That was about 13% of our revenue. They moved to the scheduler built into their electronic records system.
+
+**The quarter in numbers**
+- Monthly recurring revenue: $41,000 (flat)
+- Customers added: 9. Customers lost: 4, including the chain.
+- Cash: $480,000
+- Net burn: about $44,000 a month, which is about 11 months of runway
+
+Flat isn't where I want us to be, but there's real growth underneath it. New customers made up the full $5,500 we lost, plus whatever the other three lost customers were paying. Without the chain's loss, we'd be at about $46,500.
+
+**What the chain's loss taught us**
+Records systems are adding their own schedulers, and some customers, especially large chains, will take the built-in option. Competing with that on scheduling alone is a weak position for us. Our strongest asset is the result clinics get from our automatic text reminders. Clinics using them have a no-show rate of 7%, compared with 13% before they started. That's almost half as many missed appointments, and every missed appointment is lost revenue for the clinic.
+
+**What we're doing about it**
+Next month we start selling the reminder feature on its own for $150 a month. That means a clinic doesn't have to switch schedulers to get the lower no-show rate, including clinics like the one we just lost. It also means losing to a built-in scheduler doesn't have to mean losing the clinic.
+
+In the next update I'll report how many clinics bought reminders on their own, along with our usual numbers. I'll also tell you whether the early results point us toward raising money or cutting spending, so we decide with plenty of runway left, not at the end of it.
+
+**How you can help**
+Introductions to owners or managers of physical therapy clinics, especially clinics happy with their current scheduler but losing money to no-shows. Reply to this email with a name and I'll handle the rest.
+
+Thanks for your patience over the last six months. Feel free to reply with any questions.
+
+[Your name]
+</final_document>

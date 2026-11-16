@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:27:32.725579+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 438
+  tags: []
+  notes: extracted 438 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 5
+    honest: 6
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 5
+    objections: 5
+    fit: 8
+  details:
+    agree: The email is respectful and candid about the hours, but a ten-year teller
+      who doesn't want phone work gets little beyond "a different door", while the
+      severance line (20+ weeks of pay for them) makes leaving look attractive.
+    honest: It invents the claim that frustrated callers give up and walk into branches,
+      and assumes the other five branches won't change, though it rightly avoids promising
+      that everyone's job gets better.
+    works_the_facts: "It works out that 8\u20138 means 12 hours of coverage and earlier\
+      \ or later shifts, but it never turns severance into a concrete figure (10 years\
+      \ = 20 weeks) and leaves the hold-time target blank."
+    right_comparison: The 44% drop in visits against the 60% rise in contacts sets
+      out the trend, but it never says what keeping the two branches open would mean
+      if nothing changed.
+    qualification: It promises a dated report on a hold-time goal "whether we've hit
+      it or not", but the number and date are placeholders and nothing is said about
+      what happens if the goal is missed.
+    objections: It deals with the hours and childcare objection directly, but the
+      central objection, not wanting to do phone work at all, is met only with sentiment,
+      and the two weeks of rumours go unmentioned.
+    fit: It is a COO email of roughly 420 words with a clear subject line and sections,
+      close to the requested length, though placeholders remain.

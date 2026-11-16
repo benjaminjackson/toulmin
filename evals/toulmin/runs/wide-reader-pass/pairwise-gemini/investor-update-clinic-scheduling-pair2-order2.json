@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-36Z",
+  "without_skill_run": "2026-11-16T19-18-51Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is a complete, ready-to-send email that faces the existential bundling threat directly while Document A leaves crucial sections like the runway plan as unedited template brackets. Even setting aside the placeholders, B's analysis of the underlying growth and strategic pivot feels more rigorous and mature, though it slightly miscalculates net growth by ignoring the other three churned clinics."
+}

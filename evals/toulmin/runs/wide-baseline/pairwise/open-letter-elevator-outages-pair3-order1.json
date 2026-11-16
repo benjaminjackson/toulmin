@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-19-50Z",
+  "without_skill_run": "2026-11-16T19-19-08Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "As the manager, I'd find A harder to brush off: calling it two-thirds of households shows this isn't a few loud people, its asks are short and tightly framed, and it sticks to the facts. B's claim that residents were stuck at home for almost two weeks goes beyond the brief and is easy for me to dispute, even though B's cooperative tone is a bit warmer."
+}

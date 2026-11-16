@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+# Run one skill variant on the tune set against the baseline's no-skill documents, then judge it.
+# Arguments: variant name (a folder under variants/).
+set -uo pipefail
+variant_name=$1
+# Work from the folder this script is in, so the script runs from any checkout.
+cd "$(dirname "${BASH_SOURCE[0]}")" || exit 1
+runs_directory="runs/wide-$variant_name"
+mkdir -p "$runs_directory/toulmin"
+# Reuse the baseline's no-skill runs, so each variant is judged against the same documents.
+for task_directory in runs/wide-baseline/toulmin/*/; do
+  task_name=$(basename "$task_directory")
+  mkdir -p "$runs_directory/toulmin/$task_name"
+  if [ ! -d "$runs_directory/toulmin/$task_name/without-skill" ]; then
+    cp -R "$task_directory/without-skill" "$runs_directory/toulmin/$task_name/without-skill"
+  fi
+done
+export TOULMIN_PLUGIN_DIR="$PWD/variants/$variant_name"
+./run-round "$runs_directory" 3 judge tune | grep -c "^OK"
+./pairwise "$runs_directory" > "$runs_directory/pairwise-opus.log" 2>&1 &
+./pairwise --judge gemini "$runs_directory" > "$runs_directory/pairwise-gemini.log" 2>&1 &
+./factcheck "$runs_directory" > "$runs_directory/factcheck.log" 2>&1 &
+wait
+# Second pass picks up any judge call that failed the first time.
+./pairwise "$runs_directory" >> "$runs_directory/pairwise-opus.log" 2>&1
+./pairwise --judge gemini "$runs_directory" >> "$runs_directory/pairwise-gemini.log" 2>&1
+./factcheck "$runs_directory" >> "$runs_directory/factcheck.log" 2>&1
+./summary "$runs_directory" > "$runs_directory/summary.md"
+./verdict "$runs_directory" > "$runs_directory/verdict.md"
+echo "done $variant_name"

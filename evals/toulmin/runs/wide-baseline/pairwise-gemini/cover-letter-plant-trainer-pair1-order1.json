@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-17-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A speaks the language of a regulated plant—using terms like SOPs, qualification, and not skipping steps—which immediately addresses my skepticism about teachers transitioning to pharma. However, Document A slightly overstates the facts by saying they alone taught over 1,200 students since 2019 (or implies it via the school-wide lab program), whereas Document B stays strictly honest to the brief while still addressing the GMP gap sensibly, making Document A's superior tone and framing a slight rather than clear win."
+}

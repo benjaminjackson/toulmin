@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:18:43.585885+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 498
+  tags: []
+  notes: extracted 498 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 5
+    honest: 7
+    works_the_facts: 2
+    right_comparison: 3
+    qualification: 2
+    objections: 4
+    fit: 6
+  details:
+    agree: The candid tone and real playtest numbers would warm this reader up, but
+      someone burned by a project that never shipped will stop at the cost placeholder
+      and the missing delivery date and probably hold off.
+    honest: 'It rightly declines to call the game a proven hit, but it adds details
+      the brief doesn''t support: ''more than 1,240'', ''every session changed something'',
+      the mix of player types, and strangers playing at the conventions.'
+    works_the_facts: It never states the $17,400 quote or the $9 shipping cost and
+      never works out what the goal covers (for example, about 572 backers at $49,
+      which 1,240 email signups could plausibly fill), and it leaves a placeholder
+      where the cost breakdown should go.
+    right_comparison: 'Nothing is compared: not what happens if the goal is missed,
+      not how this stacks up against other first-time projects, and not the funding
+      gap set against the signup list.'
+    qualification: The promise to post bad news is vague, with no delivery date, no
+      checkable milestones and no stated consequence if the goal or schedule slips.
+    objections: It names the first-time-creator worry and admits the rating sample
+      is small, but it answers 'will this ship?' with assurances instead of the factory
+      quote and the shipping math the brief provides.
+    fit: It is a pitch of about the requested 500 words, but several bracketed placeholders
+      leave it unfinished as page copy.

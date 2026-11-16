@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:27:29.872740+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 171
+  tags: []
+  notes: extracted 171 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 8
+    right_comparison: 6
+    qualification: 4
+    objections: 6
+    fit: 9
+  details:
+    agree: Leading with a costed apology and concrete changes at the same $540 price
+      speaks directly to this household's grievance, though it gives them no make-good
+      for the $74 they lost, and a sceptical member may still hold back.
+    honest: Every figure is either from the brief or correctly derived from it, and
+      the email limits the hail nets to tomatoes and peppers as the brief does; the
+      only stretch is a forward promise about communication, which is a commitment
+      and not a factual claim.
+    works_the_facts: Turning six half-weeks into three weeks out of 22, worth about
+      $74 of $540, is a sharp and correct derivation that makes the loss concrete,
+      and the email pairs $31,000 spent with an unchanged price well.
+    right_comparison: It compares last season with this one fairly (same price, new
+      field, nets, pause credit), but it never says what a share would look like after
+      another storm under the new setup, for example which crops are still exposed.
+    qualification: '"I can''t promise good weather" is an honest hedge, but the promise
+      to tell members "promptly and in full" gives no timeframe and no remedy, so
+      the reader can''t check whether it is kept.'
+    objections: The email meets the 'farm went quiet' and 'no refund' complaints with
+      an explicit apology and a communication promise, but it doesn't say whether
+      a future shortfall would bring credit, which is this reader's real worry.
+    fit: It is a short, well-structured email of about 170 words, under the 200-word
+      limit, with a clear subject line, deadline and call to action.

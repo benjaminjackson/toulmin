@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:28:29.950381+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 399
+  tags: []
+  notes: extracted 399 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 6
+    objections: 7
+    fit: 9
+  details:
+    agree: By agreeing with the GM that the renovation may explain the score rise,
+      and by dealing with the budget gap directly, the memo makes him likely to take
+      the candidacy seriously, though it does little to set the writer above an outsider
+      with experience at a larger hotel.
+    honest: It refuses the user's request to claim credit as the main reason scores
+      rose, invents nothing, and stays within the brief except for the small rhetorical
+      stretch in "finally staying."
+    works_the_facts: "The 44% cut in training time and the turnover rates of 64% and\
+      \ 36% are correct, but it misses the combined effect: training shifts fell from\
+      \ about 81 (9 leavers \xD7 9 shifts) to 25 (5 \xD7 5), which is the strongest\
+      \ figure available."
+    right_comparison: It names the real cost of an outside hire, a learning gap and
+      a change of leadership for a team that has stabilised, but it never addresses
+      the outsider's larger-hotel experience, which is what the GM will weigh against
+      the writer.
+    qualification: The budget plan has dates and checks the GM can verify (first month,
+      monthly reviews for six months, the next budget cycle), but it sets no tolerance
+      for overspending and no consequence beyond explaining the cause and the fix.
+    objections: It meets the two objections the GM actually holds, the missing budget
+      experience and the renovation, and raises none that the facts already settle,
+      though the outside candidate's larger-property experience is only answered indirectly.
+    fit: It is a tight one-page memo with clear sections, ready to hand over by Friday
+      as the brief asked.

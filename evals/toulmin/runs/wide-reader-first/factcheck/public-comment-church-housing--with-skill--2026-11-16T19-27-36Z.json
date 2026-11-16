@@ -1,0 +1,13 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-27-36Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I drive through that intersection.",
+      "why": "The brief does not state that the speaker drives or uses the intersection at Alder and 4th."
+    }
+  ],
+  "invented_count": 1
+}

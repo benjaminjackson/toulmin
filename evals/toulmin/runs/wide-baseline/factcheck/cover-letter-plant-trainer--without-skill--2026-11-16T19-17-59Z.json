@@ -1,0 +1,21 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-17-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Each one gets about 12 hours of training from me before running labs on their own.",
+      "why": "The brief states that new science teachers receive about 12 hours of training on lab procedures, but it does not specify that this training happens before they run labs on their own."
+    },
+    {
+      "quote": "I've learned how to take an experienced adult who is new to a specific environment and get them working safely and with confidence.",
+      "why": "The brief refers to training 'new science teachers,' which does not establish that they are 'experienced' adults rather than first-year teachers."
+    },
+    {
+      "quote": "Likewise, I have run my courses in Google Classroom for years, and I expect to learn your learning management system quickly.",
+      "why": "The brief only states 'I use Google Classroom' and does not specify that the writer has used it 'for years.'"
+    }
+  ],
+  "invented_count": 3
+}

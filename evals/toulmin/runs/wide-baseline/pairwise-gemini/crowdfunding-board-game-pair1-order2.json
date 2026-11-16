@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-17-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who has been burned by an unfulfilled campaign before, Document B wins me over by showing the exact math for the factory quote, shipping, and buffer rather than leaving placeholders. Both pitches wisely avoid calling a 23-rating game a 'proven hit,' which would have been an instant red flag for me, but B's transparent budget breakdown and concrete commitment to monthly updates directly address my fear of losing money to a first-time creator."
+}

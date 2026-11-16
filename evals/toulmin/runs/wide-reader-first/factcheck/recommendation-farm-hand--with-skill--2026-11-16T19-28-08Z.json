@@ -1,0 +1,33 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-28-08Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "November 16, 2026",
+      "why": "The brief does not provide a date for the letter."
+    },
+    {
+      "quote": "No one checks on him",
+      "why": "The brief states that he runs the shift on his own, not that no one checks on him."
+    },
+    {
+      "quote": "Nobody asked Tomás to learn our herd management software. He learned it himself",
+      "why": "The brief only states that he learned the software, not that he was unprompted or taught himself."
+    },
+    {
+      "quote": "he is already doing it with no formal training.",
+      "why": "The brief does not state whether Tomás has had any prior formal training."
+    },
+    {
+      "quote": "Tomás speaks English well and communicates clearly with me, our crew and our vet.",
+      "why": "The brief only says his written English is weaker than his spoken English and that he flags cows in the software for the vet, not how well he speaks or that he communicates clearly with the manager, crew, and vet."
+    },
+    {
+      "quote": "while working full time",
+      "why": "The brief states he works the 3 a.m. milking shift five days a week, which does not necessarily equal full-time employment."
+    }
+  ],
+  "invented_count": 6
+}

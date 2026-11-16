@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:19:42.047439+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 424
+  tags: []
+  notes: extracted 424 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 6
+    honest: 5
+    works_the_facts: 3
+    right_comparison: 5
+    qualification: 3
+    objections: 7
+    fit: 8
+  details:
+    agree: The calm tone, the early answer to the inspection point and the five specific,
+      cheap requests make it easy for a defensive manager to grant some of them, but
+      nothing forces her past the view that management has handled the outages well.
+    honest: 'Several claims go beyond the brief: that some residents were ''stuck
+      in their apartments for almost two weeks'' in August, that residents missed
+      medical appointments, and that ''private requests'' failed; a manager could
+      challenge each of these in public.'
+    works_the_facts: The raw numbers are repeated but none is turned into something
+      stronger, such as 74 of 112 being two-thirds of households, 41 days being about
+      one day in eight, or the June promise of 6 to 8 weeks meaning the part was due
+      in mid-August and is now about three months late.
+    right_comparison: It suggests the status quo is a repeat of the same promise,
+      but it never spells out what another 6 to 8 weeks of waiting with no reliable
+      delivery date would mean for residents.
+    qualification: The only deadline is a blank placeholder ('within [number] days'),
+      and the letter gives no response date or consequence if management misses it.
+    objections: The passing inspection and the $400,000 cost are both answered fairly,
+      and the 74 signatures push back on the 'few loud people' view, though the letter
+      never says outright that this is a clear majority.
+    fit: It is a properly formatted open letter of about 430 words, close to the requested
+      400, though the placeholders still need filling in.

@@ -1,0 +1,25 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-19-20Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I drive through that intersection every day.",
+      "why": "The brief does not mention the speaker's driving habits or whether they drive through the intersection of Alder and 4th."
+    },
+    {
+      "quote": "Right now that lot is 1.8 acres of asphalt",
+      "why": "The brief describes it as a 'back parking lot' of 1.8 acres, but does not specify that it is paved with asphalt."
+    },
+    {
+      "quote": "on land that's already paved, with no new land cleared and no one displaced.",
+      "why": "The brief only states that the project is on a 'back parking lot' that sits empty six days a week, without confirming whether the lot is paved, whether any adjacent land will be cleared, or whether anyone is displaced."
+    },
+    {
+      "quote": "A slower light at Alder and 4th is a real cost",
+      "why": "The brief mentions an 'intersection at Alder and 4th' dropping from a C to a D rating, but does not state that the intersection has a traffic light."
+    }
+  ],
+  "invented_count": 4
+}

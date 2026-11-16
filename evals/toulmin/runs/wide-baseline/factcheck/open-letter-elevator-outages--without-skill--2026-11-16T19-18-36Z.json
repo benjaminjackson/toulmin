@@ -1,0 +1,25 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-18-36Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "This year that elevator has been out of service on 41 days, roughly one day in every eight.",
+      "why": "The brief does not state the current date, so it is impossible to calculate that 41 days is one-eighth of the year so far (which assumes the letter is being written around early November)."
+    },
+    {
+      "quote": "Others carry children, groceries and laundry up as many as eight flights of stairs.",
+      "why": "The brief does not mention any children living in the building or residents carrying children, groceries, or laundry up the stairs."
+    },
+    {
+      "quote": "Five months later, we're being told the same thing.",
+      "why": "The brief mentions an inspection in September, not that the current month is November (five months after June)."
+    },
+    {
+      "quote": "But we haven't seen the assessment behind it",
+      "why": "The brief does not state whether a formal assessment exists or whether management has shared it with the tenants."
+    }
+  ],
+  "invented_count": 4
+}

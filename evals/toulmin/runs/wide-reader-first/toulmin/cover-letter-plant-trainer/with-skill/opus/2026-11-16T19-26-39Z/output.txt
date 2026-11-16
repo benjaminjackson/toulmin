@@ -1,0 +1,38 @@
+I've drafted the letter, but I left out the line about cutting new-hire training time in half. Your facts don't support it yet. You haven't seen the plant's current training program, so you don't know how long it takes. The hiring manager will probably ask "half of what?", and right now you couldn't answer. I'd use something you can actually deliver: a 90-day review of their onboarding that ends with a plan, a target and a way to measure it. I wrote that version. If you still want the "in half" line, it would replace the second-to-last paragraph, but I don't recommend it.
+
+**Who I wrote it for:** probably a training or quality manager. Their safe choice is a candidate who already has GMP experience. Their main worry about you is that one sloppy training record can show up in a regulatory inspection. So the letter states your gaps in the second paragraph, says how you'll close them, and then shows your results.
+
+**Before you send, please confirm these three things. I proposed them; you didn't tell me them:**
+1. **A GMP course before your start date.** Only keep this if you'll really do it. Short introductory GMP courses are easy to find online. If you finish one before you apply, change the sentence to say you've completed it.
+2. **Shadowing whoever keeps the training records during your first weeks.**
+3. **The 90-day onboarding review and plan.**
+
+**Numbers I worked out from what you gave me:**
+- 41% → 58% is a 17-point gain.
+- 2019 to 2026 is seven years.
+- Twelve hours each for two new teachers a year is about 24 hours of adult training a year.
+
+Fill in the bracketed names and the closing line, which is just your name and contact details.
+
+<final_document>
+Dear [Hiring Manager's name],
+
+I'm applying for the Training Coordinator position at [Company]. I've taught high school chemistry for nine years. The part of that job I do best is what your role is built around: training people to do hazardous, procedure-driven work correctly, and confirming that they can.
+
+First, the gaps. I haven't worked in a regulated industry, and I haven't kept GMP training records. I also haven't used your learning management system; I run my courses in Google Classroom. Here is how I'll close those gaps. I will finish an introductory GMP course before my start date. I'd also like to shadow whoever keeps your training records during my first weeks, so my records are correct from the first one I enter.
+
+Here is what the people I've trained have done:
+
+- **Safety.** In 2019 I wrote my school's lab safety program. In the seven years since, our labs have had no injury that needed more than first aid. Each year about 140 students work in labs across my five classes.
+- **Results.** In my first year teaching AP Chemistry, 41% of my students passed the exam. In my fourth year, 58% passed, a gain of 17 points.
+- **Training adults.** Every year I train our new science teachers on lab procedures, about 12 hours each, two teachers a year on average. They have to be competent before they're alone in a lab with students and chemicals, much like a new hire before working alone on your floor.
+
+You may want new hires to get up to speed faster. In my first 90 days, I'd review your current onboarding against what new hires actually need to do on the job. Then I'd bring you a plan to shorten it, with a target and a way to measure it. I'd rather show you a measured result than promise a number before I've seen your program.
+
+I live about 30 minutes from the plant, and I'm looking for a long-term role. I'd welcome a conversation about how you train new hires now and where you'd like that to improve.
+
+Sincerely,
+
+[Your name]
+[Phone] · [Email]
+</final_document>

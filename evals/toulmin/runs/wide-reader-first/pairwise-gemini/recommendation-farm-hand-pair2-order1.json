@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-27-25Z",
+  "without_skill_run": "2026-11-16T19-18-37Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters cover the same points well, but Document A is slightly more concise for a quick read and stays strictly honest to the brief, whereas Document B adds that he learned the software \"on his own initiative.\" Document A also makes a sharper point by explicitly connecting his night class to a workday that starts at 3 a.m."
+}

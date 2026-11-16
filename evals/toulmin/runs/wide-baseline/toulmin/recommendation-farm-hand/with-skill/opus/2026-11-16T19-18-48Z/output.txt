@@ -1,0 +1,33 @@
+I've drafted the letter below. Before you send it, there are three choices I made that you should check.
+
+1. **The 5-week leave is mentioned once, briefly.** "Missed two shifts in three years" is only true if you leave out those five weeks. A letter that quietly drops them would be the one thing in it you couldn't defend if someone asked. Calling it a family medical emergency is honest, and it doesn't hurt him. I left out the two days' notice. When a parent falls ill suddenly, short notice is normal, and the committee isn't judging his notice period.
+2. **I bring up his written English myself, and tie it to the night class.** The committee will see his writing in his application anyway. It's better that they hear about it from you first, alongside what he's doing about it. Taking a night class while working a 3 a.m. shift is also some of the best evidence you have of how he'll handle the coursework.
+3. **I only used facts you gave me.** I didn't add anything about what the mastitis catches saved in money or milk, whether he trained on the software formally, or whether he'll come back to the farm. If you have numbers, like milk saved, vet costs or cull rates, one sentence with them would make that paragraph stronger. The paragraph also includes a general sentence on why catching mastitis early matters. Cut it if the readers will already know.
+
+The bracketed spots are placeholders: his surname, the farm, the college, and your name and contact details. The letter is about 370 words, so it fits on one page with a letterhead.
+
+<final_document>
+[Date]
+
+Admissions Committee
+Agricultural Technology Program
+[State Technical College]
+
+Dear Admissions Committee,
+
+I am writing to recommend Tomás [Last Name] for your two-year Agricultural Technology program. I manage [Farm Name], a 400-cow dairy operation, and Tomás has worked for me for three years, since he was 19. He is one of the people I rely on most on this farm, and I believe he is ready for formal training.
+
+Tomás runs our 3 a.m. milking shift on his own, five days a week. Nobody else is in the barn at that hour, and I don't give that shift to someone I have to check up on. Apart from a family medical emergency last summer, when he went home to Mexico to care for his father, he has missed two shifts in three years.
+
+The main reason I expect him to do well in your program is how he has taken to the technical side of the work. He learned our herd management software and now uses it to flag sick cows for our veterinarian. Last winter he caught nine cases of mastitis early. On a dairy, early detection means shorter treatment, less discarded milk, and a better chance of keeping the cow in the herd. Tomás doesn't just enter data. He connects what the records show with what he sees in the barn, and that is the kind of work your program trains people to do.
+
+I want to be direct about one thing. Tomás's spoken English is stronger than his written English. He knows this, and he is taking a night class to improve it, on top of a work schedule that starts at 3 a.m. I think that tells you how he will approach the parts of your coursework that don't come easily to him.
+
+Tomás is responsible, he learns fast, and he cares about the animals in his charge. I recommend him without reservation. Please contact me if I can tell you more about his work.
+
+Sincerely,
+
+[Your Name]
+Farm Manager, [Farm Name]
+[Phone] | [Email]
+</final_document>

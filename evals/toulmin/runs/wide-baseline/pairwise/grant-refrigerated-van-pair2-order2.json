@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-19-30Z",
+  "without_skill_run": "2026-11-16T19-19-01Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both stay honest and drop the 'double' claim, but B's offer of a six-month update, with an explanation if they are behind pace, deals more directly with my four months of chasing the last report. B also opens with the produce they turned away. A's internal process, with a named volunteer and a board member, is credible, and its frank 12-percent annual figure is accurate but less compelling."
+}

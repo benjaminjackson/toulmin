@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-36Z",
+  "without_skill_run": "2026-11-16T19-18-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B's three requests are much more reasonable and constructive, whereas Document A's demand that we pay for an independent engineering review or post monthly public outage reports in the lobby makes me want to dig my heels in. Document B also offers to post our written reply in the lobby next to their letter, which gives me a fair chance to explain the supply chain delays to the two-thirds of the building who signed the petition."
+}

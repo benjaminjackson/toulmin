@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-27-39Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters smartly avoid making an unrealistic promise about cutting our regulated training time in half, which would have been an immediate red flag for a teacher who doesn't understand pharma. However, Document B wins because it stays strictly honest to the candidate's background, whereas Document A invents a promise to take a GMP course before starting and uses a slightly awkward phrase ('I won't promise a number...') that only makes sense if you've seen the prompt."
+}

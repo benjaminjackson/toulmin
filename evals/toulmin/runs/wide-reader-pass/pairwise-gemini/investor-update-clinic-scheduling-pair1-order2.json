@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B demonstrates much stronger financial grasp and transparency by breaking down the underlying 15% growth outside the lost whale, explicitly framing the new $150 product as an untested hypothesis, and doing the unit economics math on what it takes to cover burn. It also commits to specific metrics for the next update, whereas Document A makes the unsupported claim that the reminder feature already works with any scheduler."
+}

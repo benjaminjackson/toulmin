@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B builds the business case with her strong sales and current market rates before stating the $11,500 number, which makes me much more willing to fight for extra budget rather than immediately defaulting to my $8,000 backup option. Both emails wisely avoid the exaggeration about what every other publisher pays, though B slightly assumes the four months is 'full-time' work."
+}

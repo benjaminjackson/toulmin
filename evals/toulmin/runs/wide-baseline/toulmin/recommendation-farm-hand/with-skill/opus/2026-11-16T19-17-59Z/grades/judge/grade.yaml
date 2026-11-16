@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:18:47.965400+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 364
+  tags: []
+  notes: extracted 364 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 7
+    honest: 5
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 5
+    objections: 7
+    fit: 8
+  details:
+    agree: A quick reader gets a clear, specific case (an unsupervised 3 a.m. shift,
+      nine early mastitis catches, data-driven animal health work) and a frank weakness
+      that has an answer, enough to move an undecided member toward yes.
+    honest: The brief says he 'learned' the software, but the letter says he 'taught
+      himself' it 'without any formal training'; it also inflates his father's illness
+      to 'seriously ill', adds unsupported details like 'gone from learning the basics',
+      and says 'without reservation' just before stating a reservation.
+    works_the_facts: 'It repeats the raw numbers but derives nothing: ''two shifts
+      missed in three years'' could be shown as roughly 2 of about 780 scheduled 3
+      a.m. shifts, a far stronger true form.'
+    right_comparison: "The implied alternative is the other applicants in a 40-of-150\
+      \ pool, and the letter barely sets Tom\xE1s against them beyond the vague 'work\
+      \ I trust to very few people' and 'the industry needs more people like him'."
+    qualification: The written-English caveat names the night class but gives no start
+      date, level or progress the committee could check, so it rests on the manager's
+      expectation.
+    objections: It meets the two likely doubts, written English and reliability given
+      the five-week absence, sensibly and without raising worries the facts already
+      settle, though the weak 'he picked up software' argument carries the coursework
+      point.
+    fit: It is a one-page letter from the farm manager in the right format, though
+      the '[length of time]' placeholder for the shift tenure leaves a hole the brief
+      could not fill and the writer should have flagged.

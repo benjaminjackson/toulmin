@@ -1,0 +1,53 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-28-40Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "many of whom had never met me.",
+      "why": "The brief mentions playtesting with about 60 different people, but does not state whether the creator knew them previously."
+    },
+    {
+      "quote": "so strangers could play it without me hovering.",
+      "why": "The brief states the game was taken to two conventions, but does not state the reason why or how the sessions were run."
+    },
+    {
+      "quote": "Twenty-three of those players have rated it on the main board game ratings site",
+      "why": "The brief says 23 people rated the game, not that those 23 people were specifically from the convention players or the 60 playtesters."
+    },
+    {
+      "quote": "every one of them comes from someone who sat down and played it.",
+      "why": "The brief does not confirm that all 23 people who rated the game online actually sat down and played it."
+    },
+    {
+      "quote": "The rules have been rewritten many times in those 140 sessions.",
+      "why": "The brief mentions 140 playtest sessions, but does not say that the rules were rewritten many times."
+    },
+    {
+      "quote": "What you'd be funding is printing the game, not designing it.",
+      "why": "The brief does not explicitly state that the design work of the game is completely finished."
+    },
+    {
+      "quote": "**About $5,450:** platform fees and a cushion for anything that costs more than quoted",
+      "why": "While $5,450 is the remaining balance of the $28,000 goal after printing and shipping, the brief does not say this money is allocated for platform fees and a cost cushion."
+    },
+    {
+      "quote": "If we don't reach $28,000, no one is charged and nothing is printed.",
+      "why": "The brief does not specify that the crowdfunding campaign uses an all-or-nothing funding model."
+    },
+    {
+      "quote": "I'll post an update on the 1st of every month until your copy ships: where production stands, what's late and what I'm doing about it.",
+      "why": "The brief says nothing about the creator's schedule or plan for posting campaign updates."
+    },
+    {
+      "quote": "My job is measuring land: coastlines, boundaries, the places where the ground meets the water.",
+      "why": "The brief says the creator works as a land surveyor, not that they specifically survey coastlines or places where the ground meets the water."
+    },
+    {
+      "quote": "I wanted a game about the people who lived at the edge of that map.",
+      "why": "The brief does not give the creator's inspiration or motivation for making the game."
+    }
+  ],
+  "invented_count": 11
+}

@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:18:36.137516+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 427
+  tags: []
+  notes: extracted 427 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 6
+    objections: 7
+    fit: 9
+  details:
+    agree: The calm, specific tone and the concrete, low-cost asks (a written date,
+      an outage plan, a meeting) give a defensive manager an easy way to respond,
+      but nothing presses hard enough to change her view that the outages have been
+      handled well.
+    honest: 'Most claims follow the brief, but some details are invented: that there
+      has been no explanation for the delay, that the association hasn''t seen the
+      assessment, and that the petition was signed "earlier this year."'
+    works_the_facts: 'Apart from "five months later" it derives almost nothing: 74
+      of 112 is never called two-thirds, 41 days is never put as roughly one day in
+      eight, and the June promise is never set against the 20-plus weeks that have
+      since passed.'
+    right_comparison: It suggests the delay is repeating by noting that the same "six
+      to eight weeks" was promised in June, but it never says what the year will look
+      like if nothing changes, such as the outage rate continuing or another August-length
+      stretch.
+    qualification: The asks come with checkable terms (a firm written date, a meeting
+      within 30 days, a reply-by date), but there is no stated consequence if management
+      misses them.
+    objections: It answers the passed inspection and the $400,000 infeasibility claim
+      directly, and the 74 households rebut the "few loud people" view by implication,
+      though it never says outright that this is a clear majority of the building.
+    fit: It is a properly formatted open letter of roughly 400 words with a clear
+      list of requests, suitable for the lobby and the press.

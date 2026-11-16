@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:29:51.363767+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 496
+  tags: []
+  notes: extracted 496 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 4
+    qualification: 4
+    objections: 5
+    fit: 8
+  details:
+    agree: The open cost breakdown and the plain admission that the 23 ratings are
+      a small sample will earn some trust, but this reader lost $85 on a funded project
+      that never shipped, and nothing here addresses whether this one will ship.
+    honest: It drops the 'proven hit' framing and states the small sample openly,
+      though 'each of those 140 sessions changed something' and 'want to play it again'
+      go a little past what the brief supports.
+    works_the_facts: Cost per copy, about 572 backers needed, total shipping and the
+      leftover margin are all correctly derived, but it never sets the 572 backers
+      against the 1,240 sign-ups (about 46% conversion) or works out the roughly $28
+      left per copy.
+    right_comparison: The only alternative it describes is the campaign failing to
+      fund with no one charged, which costs this reader nothing; the outcome they
+      actually fear, a funded project that doesn't deliver, is never described.
+    qualification: The funding threshold names a number and a consequence, but the
+      margin for 'things that always go wrong' is vague, there is no date for anything,
+      and it never says what happens to the roughly 928 copies beyond the 572 backers.
+    objections: It meets the first-time-creator objection with numbers, but it answers
+      'what if it doesn't fund?', which the all-or-nothing model already settles,
+      instead of 'what if it funds and doesn't ship?'
+    fit: It is a crowdfunding pitch of about 530 words, close to the 500 asked for,
+      and it rightly declines the unsupported 'proven hit' claim while keeping the
+      persuasive tone.

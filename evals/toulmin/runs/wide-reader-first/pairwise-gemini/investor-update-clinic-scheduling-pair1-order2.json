@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both updates are candid and well-structured, but Document A wins by explicitly acknowledging that founders who go dark usually do so when the news is bad, and promising to send updates regardless. Document A also skips the minor spin in B ('Without the chain's loss, we'd be at...') and includes a smart, targeted ask for strategic advice on selling add-ons that makes me actually want to get on a call."
+}

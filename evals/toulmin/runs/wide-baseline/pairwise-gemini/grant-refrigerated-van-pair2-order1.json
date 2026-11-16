@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-19-30Z",
+  "without_skill_run": "2026-11-16T19-19-01Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both documents wisely avoid exaggerating the impact beyond the 9,000 pounds of produce actually offered, and both address the storage issue by explaining the van can keep food cold until distribution. Document A wins slightly because on the late-reporting issue—my biggest hesitation after chasing them for four months in 2023—it promises a concrete six-month interim update to prove they are on track, rather than inventing internal board processes not grounded in their facts."
+}

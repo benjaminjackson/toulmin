@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-27-39Z",
+  "without_skill_run": "2026-11-16T19-18-48Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is much more honest and respectful to the room: it transparently discloses that the speaker is a church member right away, and it genuinely validates the traffic impact rather than minimizing it as 'a few extra seconds' like Document B does. Document A also sticks strictly to the facts, whereas Document B invents details about who is on the waiting list and where they currently commute from."
+}

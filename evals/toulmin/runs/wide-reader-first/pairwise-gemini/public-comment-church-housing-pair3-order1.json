@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-28-12Z",
+  "without_skill_run": "2026-11-16T19-19-20Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A stays strictly faithful to the facts in the brief, whereas Document B invents details about who is on the waiting list (cooks, retirees, families with middle schoolers) that are not in the record. Document A is also better paced for a spoken three-minute public comment and addresses the neighbors' parking concerns right after traffic rather than as an afterthought."
+}

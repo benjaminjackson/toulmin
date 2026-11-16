@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters are equally persuasive, quick to read, and highlight the exact combination of work ethic and tech aptitude I look for in an applicant. However, Document A stays completely faithful to the facts in the brief, while Document B invents claims that he learned the software on his own initiative and speaks English confidently."
+}

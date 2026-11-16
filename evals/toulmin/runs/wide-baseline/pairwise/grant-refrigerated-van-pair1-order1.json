@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-17-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both drafts drop the unsupported 'double' claim, but B also gives the honest annual figure (about 12 percent) next to the 50 percent summer increase. It commits to quarterly updates, which answers my four months of chasing the last report better than A's single post-summer report, though A's plain ownership of the late report is appealing."
+}

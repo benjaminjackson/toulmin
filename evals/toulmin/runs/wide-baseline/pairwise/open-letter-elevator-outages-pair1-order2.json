@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-17-59Z",
+  "without_skill_run": "2026-11-16T19-18-00Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B directly answers my belief that this is a few loud people by pointing out that 74 households are two-thirds of the building. It also takes apart my reliance on the September inspection by separating safety from reliability, and saying the letter is going to the TV station adds real pressure to act. A is polite but easier for me to wave off."
+}

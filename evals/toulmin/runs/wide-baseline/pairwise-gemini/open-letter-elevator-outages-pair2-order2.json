@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-19-02Z",
+  "without_skill_run": "2026-11-16T19-18-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B forces my hand because it explicitly mentions they are sending this to the local TV station, which makes the PR risk of the 12-day outage for elderly residents and our repeated '6 to 8 weeks' excuse impossible to ignore. Additionally, its demands are much more reasonable and temporary ('until it is installed'), whereas Document A demands permanent monthly reporting and wants us to pay for an independent engineering review."
+}

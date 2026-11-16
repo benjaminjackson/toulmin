@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-19-30Z",
+  "without_skill_run": "2026-11-16T19-19-01Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both documents wisely avoid the mathematically impossible claim of doubling annual fresh food, and both address my biggest concern—the late 2023 report—head-on. However, Document B is slightly more convincing because it stays strictly true to the facts we have instead of inventing internal board procedures or grocery store plans, and its offer of a six-month check-in directly reassures me that I won't have to chase them down again."
+}

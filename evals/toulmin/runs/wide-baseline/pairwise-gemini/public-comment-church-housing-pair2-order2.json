@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-19-00Z",
+  "without_skill_run": "2026-11-16T19-18-48Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both speeches effectively address our main concern about Alder Road traffic right away using a credible neighbor's perspective, but Document B is slightly more persuasive to us as commissioners because it proposes a practical planning mechanism—attaching a condition to review signal timing—rather than just asking us to accept the downgrade. Document B also transparently discloses the speaker's membership in the church right at the start, which plays better in a room full of skeptical neighbors."
+}

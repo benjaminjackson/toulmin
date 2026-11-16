@@ -1,0 +1,40 @@
+I wrote the memo below, but I didn't write that you're the main reason the guest scores went up. Here's why.
+
+**What your facts support.** The check-in score rose from 7.9 to 8.6 during the same 18 months the lobby and every room were renovated. Your general manager approved that renovation and watched it happen. If you call yourself the main reason, that's the first line they'll argue with, and it could make them doubt the turnover and training numbers too, even though those are solid. Your facts do support this: the renovation helped, but guests also met a front desk team that was staying longer and was trained on your program. It's a smaller claim, but your manager can't dispute it.
+
+**If you still want the bold version,** replace the guest-score paragraph with: "I believe the front desk is the main reason our check-in score rose from 7.9 to 8.6." Expect to be asked how you separated your work from the renovation. Nothing in your facts can answer that.
+
+**Two other choices I made:**
+- **The budget.** Your manager knows you've never run one, so the memo says so up front and offers a plan. It also points out that your turnover and training results already save payroll.
+- **Training shifts.** I worked out how many training shifts the desk needs each year from your figures. Under the old turnover and old training it was 9 leavers × 9 shifts = 81. Under the current numbers it's 5 × 5 = 25, which is about 70% fewer. That assumes each person who left was replaced by one new hire.
+
+**Please check before you send:**
+- Does the one-for-one replacement assumption hold?
+- Is "check-in score on the main review site" the right name for that metric?
+- The budget plan is my suggestion. Change it if it isn't what you'd actually offer.
+- Fill in your name.
+
+<final_document>
+**To:** General Manager
+**From:** [Your name], Assistant Front Office Manager
+**Re:** My application for Front Office Manager
+
+I'm applying for the Front Office Manager position. I've worked here for six years, the last two as Assistant Front Office Manager, and I've run the front office alone for the seven weeks since the position became vacant. This memo covers what I've changed at the desk and how I plan to handle the one part of the job I haven't done yet, which is owning the payroll budget.
+
+**I rewrote the front desk training.** New hires now work the desk alone after 5 shifts instead of 9. That's almost half the time it used to take to get someone to work the desk alone.
+
+**More of the team is staying.** In the year before I became assistant manager, 9 of our 14 front desk staff left. Last year 5 of 14 left, so turnover dropped from about two in three to about one in three.
+
+**Guests have noticed.** Our check-in score on the main review site went from 7.9 to 8.6 over the last 18 months. The renovation of the lobby and rooms deserves a real share of that. But guests checking in during that time also met a front desk team that was staying longer and had been trained on the program I wrote. Better facilities and a steadier team worked together, and the team is the part I'm responsible for.
+
+**The budget.** I have never managed a budget, and this role owns a $1.1 million payroll budget. I'm not treating that lightly, so this is what I propose:
+
+- Before I take over the budget, I go through it line by line with you or whoever prepares it now.
+- For my first three months, I review payroll results against budget with you every month, so we catch any problems early.
+
+My results so far already help payroll. If each person who leaves is replaced by one new hire, the old turnover and old training meant about 81 paid training shifts a year (9 hires × 9 shifts). At current turnover and with the new training it's about 25 (5 × 5), roughly 70% fewer. I plan to keep managing the desk with that kind of cost in mind.
+
+**What I'm asking.** I'm asking to be appointed Front Office Manager. For seven weeks the desk has run under me with no one else in the role, so there would be no handover and no time spent getting someone new up to speed. I'd welcome the chance to talk this through with you.
+
+[Your name]
+</final_document>

@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:27:50.711104+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 487
+  tags: []
+  notes: extracted 487 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 7
+    honest: 6
+    works_the_facts: 7
+    right_comparison: 4
+    qualification: 3
+    objections: 6
+    fit: 8
+  details:
+    agree: A wary backer will like that the creator says up front they're new and
+      shows the budget, though the lack of a delivery date and a fulfilment plan may
+      still keep a reader burned by an $85 loss from pledging.
+    honest: 'It rightly drops the ''proven hit'' claim and calls 23 ratings a small
+      group, but it invents details: ''almost every session changed something'', strangers
+      ''without knowing anything about it'', and ''players have told me the same''.'
+    works_the_facts: The arithmetic is correct ($11.60 a copy, 572 pledges, $5,148
+      shipping, about $5,450 left over), but it never compares the 1,240 sign-ups
+      to the 572 backers needed, and it never says how much of the $5,450 the platform
+      fees will take.
+    right_comparison: Its only comparison is the stock picture of first-time creators
+      who underestimate shipping, and it never shows the money against what happens
+      if the goal is missed or costs rise.
+    qualification: '''You can hold me to them'' is a commitment but not a checkable
+      condition: there''s no delivery date and nothing on what happens if the factory
+      quote or shipping costs change or the leftover margin runs out.'
+    objections: It meets the first-time-creator worry directly with the costed budget,
+      but it skips the timeline, who handles fulfilment, and how thin the buffer is
+      once fees are paid, which are the questions this reader checks before pledging.
+    fit: It is a campaign pitch of roughly the requested 500 words (running a little
+      over) with clear sections and an inviting tone.

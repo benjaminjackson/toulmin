@@ -1,0 +1,32 @@
+I've drafted the email but changed one thing you asked for. **I left out the line that every other publisher pays at least $12,000, and I recommend you leave it out too.**
+
+**Why:** Your facts don't support it. You have one other fee ($12,500 from one publisher) and your agent's range of $11,000 to $13,000. That range starts below $12,000, so the claim goes against your own agent's figures. It also makes the request look odd: if everyone pays $12,000 or more, why ask for $11,500? And if the editor knows that some publishers pay less, the email loses credibility. What the facts do support is this: one publisher paid you $12,500 last year, and your agent says $11,000 to $13,000 is normal for your record. That puts $11,500 near the bottom of the usual range, and that's a stronger position.
+
+**What else I did:**
+- **The opening says yes to the book.** The editor's first worry will be losing you, so that comes before the request.
+- **The fee is asked for once, near the top,** so it's easy to find.
+- **$11,500 is presented as a reasonable figure.** It's below what another publisher paid you and near the low end of your agent's range, which gives the editor an easy way to agree.
+- **The book's title and the editor's name are placeholders.** You didn't give them, so fill them in.
+
+The email is about 190 words.
+
+<final_document>
+Subject: Next book – fee
+
+Hi [Name],
+
+Thank you for offering me the next book. I'd love to do it, and I'm glad to keep working with you.
+
+Before we sign, I'd like to ask for a fee of $11,500 for this one.
+
+I've been at $9,000 since my first book with you, four years and six books ago. In that time, two of our books have sold more than 20,000 copies, and one made a state reading list. I'm proud of what we've built together, and I'd like the fee to reflect where that work is now.
+
+For context, another publisher paid me $12,500 last year for a book of the same length. My agent tells me $11,000 to $13,000 is the usual range for an illustrator with my record. I've asked for a figure near the lower end of that range because I value working with you and want to keep doing these books together.
+
+Each book is about four months of work: 32 pages and around 14 full spreads.
+
+Could you let me know whether $11,500 works? I'm happy to talk it through by phone if that's easier.
+
+Best,
+[Your name]
+</final_document>

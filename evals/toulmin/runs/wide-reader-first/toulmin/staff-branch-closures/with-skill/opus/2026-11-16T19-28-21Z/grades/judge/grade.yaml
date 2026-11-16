@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T19:29:10.936597+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 456
+  tags: []
+  notes: extracted 456 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 5
+    objections: 6
+    fit: 8
+  details:
+    agree: The draft is candid, and the pay guarantee, working from home and the severance
+      worked example give a teller who doesn't want phone work real facts to weigh,
+      but nothing in it makes phone work itself more appealing to a long-serving counter
+      person, so many will still start looking elsewhere.
+    honest: It rightly softens the brief's 'everyone's job better' to 'better for
+      many of you', but it adds process details the brief doesn't contain (manager
+      meetings 'this week', a written decision deadline, the strain on colleagues
+      taking calls after the wait), and it calls the job 'more flexibility' even though
+      shifts will rotate.
+    works_the_facts: The six-year severance example turns the formula into something
+      a reader can use, and the 44% and 60% figures appear side by side, though nothing
+      else is worked out, such as what the 9-minute wait adds up to or how much longer
+      the service day is (12 hours against 8).
+    right_comparison: Falling visits are set against rising phone and chat contacts,
+      and the severance path is laid out clearly, but it never says what keeping the
+      branches open would cost or mean for staff if the trend continues.
+    qualification: The hedge 'better for many of you, but you're the best judge' is
+      honest but gives the reader nothing to check, and the rotating shifts are left
+      vague (no schedule or notice period), so the conditions that matter most to
+      these staff aren't pinned down.
+    objections: It admits phone work differs from the counter and that the hours are
+      a real change, but it doesn't mention the rumours staff heard two weeks ago,
+      doesn't value their long tenure beyond the severance maths, and says nothing
+      about what support comes with the 90-day training.
+    fit: "It is a well-structured email from the COO with a clear subject line, and\
+      \ at roughly 450\u2013480 words it runs a little over the requested 400."

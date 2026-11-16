@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-17-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins me over because it actually lays out the exact financial math—the $17,400 factory quote, the shipping costs for the 572 backers needed, and the fee buffer—showing me this first-time creator won't run out of money before shipping like the campaign that burned me. Document B leaves those numbers out as a placeholder and invents details about who playtested the game that weren't in the facts."
+}

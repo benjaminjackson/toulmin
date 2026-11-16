@@ -1,0 +1,29 @@
+{
+  "task": "promotion-front-office",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-26-39Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "For the past seven weeks I have done that job alone. I'm asking you to give me the role permanently, including the one part I haven't done before: the $1.1 million payroll budget.",
+      "why": "The brief states that the applicant has never managed a budget, not that the budget is the only part of the front office manager role they have not done before."
+    },
+    {
+      "quote": "over those 18 months I changed how ready those people are and how long they stay.",
+      "why": "The brief does not give a timeframe for when the training was rewritten, nor does it state that the applicant caused the reduction in turnover."
+    },
+    {
+      "quote": "Replacing 9 people at 9 training shifts each took 81 paid shifts. Replacing 5 people at 5 shifts each takes 25.",
+      "why": "The brief says new hires work the desk alone after 5 shifts instead of 9, not that those shifts are paid, nor does it state when the 5-shift training took effect relative to last year's 5 replacements."
+    },
+    {
+      "quote": "Since the front office manager left, I have covered all of her responsibilities on my own, alongside my own.",
+      "why": "The brief states the applicant covered the front office manager's job alone, not that they continued doing their own assistant manager job alongside it."
+    },
+    {
+      "quote": "Payroll is largely staffing and scheduling, which I already manage every day.",
+      "why": "The brief does not say that the applicant manages staffing and scheduling every day."
+    }
+  ],
+  "invented_count": 5
+}

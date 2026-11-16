@@ -1,0 +1,37 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-17-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "That shift has no supervisor on site.",
+      "why": "The brief says Tomás runs the 3 a.m. milking shift on his own, not that there is no supervisor anywhere on site."
+    },
+    {
+      "quote": "He is responsible for the herd, the equipment, and anything that goes wrong until the rest of the crew arrives.",
+      "why": "The brief only says he runs the 3 a.m. milking shift on his own, not that he handles equipment or everything that goes wrong until a crew arrives."
+    },
+    {
+      "quote": "when his father became seriously ill.",
+      "why": "The brief says his father got sick, not that he became seriously ill."
+    },
+    {
+      "quote": "He has also grown well beyond the work he was hired to do.",
+      "why": "The brief does not state what work Tomás was originally hired to do."
+    },
+    {
+      "quote": "On his own initiative, Tomás learned our herd management software",
+      "why": "The brief says he learned the herd management software, not that he did so on his own initiative."
+    },
+    {
+      "quote": "Tomás communicates clearly and confidently in spoken English.",
+      "why": "The brief only states that his written English is weaker than his spoken English, not that his spoken English is clear and confident."
+    },
+    {
+      "quote": "while working a full schedule.",
+      "why": "The brief says he works five days a week on the 3 a.m. milking shift, which does not establish how many hours a shift lasts or whether it is a full schedule."
+    }
+  ],
+  "invented_count": 7
+}

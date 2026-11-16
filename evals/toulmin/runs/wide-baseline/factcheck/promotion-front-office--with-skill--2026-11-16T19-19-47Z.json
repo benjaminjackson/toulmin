@@ -1,0 +1,33 @@
+{
+  "task": "promotion-front-office",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-19-47Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "November 20, 2026",
+      "why": "The brief only says the application is due by Friday and does not give a specific calendar date or year."
+    },
+    {
+      "quote": "the front desk has kept running without a gap.",
+      "why": "The brief says the applicant covered the job alone for 7 weeks, not whether operations ran seamlessly without any gaps."
+    },
+    {
+      "quote": "The staff who greeted guests during those 18 months were hired, trained and kept by the system I built.",
+      "why": "The brief only states that the applicant rewrote the front desk training, not that they hired the staff or built a hiring and retention system."
+    },
+    {
+      "quote": "nothing has had to wait for a new manager to learn the hotel.",
+      "why": "The brief does not say whether any tasks or decisions were delayed while the applicant covered the role."
+    },
+    {
+      "quote": "I haven't yet owned a budget the size of the front office's $1.1 million payroll",
+      "why": "The brief explicitly states the applicant has never managed any budget at all, whereas this phrasing implies they have owned smaller budgets."
+    },
+    {
+      "quote": "a team that is stable for the first time in years.",
+      "why": "The brief only provides turnover figures for two specific years and does not mention the team's stability in earlier years."
+    }
+  ],
+  "invented_count": 6
+}

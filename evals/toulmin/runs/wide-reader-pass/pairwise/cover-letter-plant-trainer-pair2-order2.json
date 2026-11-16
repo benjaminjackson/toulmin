@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-39Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B shows it understands why GMP training records matter (proving qualification to inspectors), commits to taking a GMP course before starting, and lays out a concrete 90-day plan to time the onboarding, all of which speaks to my doubt that teachers understand regulated plants. A's handling of the gap is vaguer and more generic."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-29-19Z",
+  "without_skill_run": "2026-11-16T19-20-01Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A admits the late 2023 report and commits to quarterly reporting, with one board member responsible for filing each report on time, and both its numbers and its fallback plan are concrete. B leaves unfilled placeholders in the parts that matter most to me: what changed since the late report, and how the van's running costs will be paid. That reads as unfinished and gives me no assurance."
+}

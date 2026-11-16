@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-40Z",
+  "without_skill_run": "2026-11-16T19-18-40Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B directly acknowledges that moving to phones and working evening shifts is a fundamentally different job, which respects how we actually feel, and it sets up individual meetings rather than putting us on the spot to reach out or attend an all-staff meeting. Document A's phrasing that 'nobody is losing their job unless they choose to' feels dismissive when the job we've had for years is disappearing."
+}

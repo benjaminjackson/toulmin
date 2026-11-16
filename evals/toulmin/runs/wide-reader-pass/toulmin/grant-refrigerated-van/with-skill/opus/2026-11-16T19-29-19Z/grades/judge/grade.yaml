@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:30:29.563055+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 442
+  tags: []
+  notes: extracted 442 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 7
+    objections: 6
+    fit: 8
+  details:
+    agree: Marisol gets an honest, specific case that faces her own late-report frustration
+      directly and offers quarterly reporting with a named owner, though how the van
+      will be run and where food will be stored are left open.
+    honest: "The draft drops the unsupported 'double' claim in favour of an accurate\
+      \ 'half again as much over those three months', though 'keep it cold\u2026 to\
+      \ our shelves' quietly suggests cold storage the brief never says they have."
+    works_the_facts: It correctly works out 3,000 lb/month, a 50% summer increase,
+      about 5 lb per household and reserves spent at over 60%, though it never gives
+      the honest annual figure of roughly 12.5%.
+    right_comparison: The unfunded case is stated plainly as staying at 6,000 lb a
+      month and refusing farm offers again, which matches the facts, though the section
+      is brief.
+    qualification: The 9,000-lb first-summer benchmark, with an end-of-summer report
+      explaining any shortfall, is checkable and has a consequence, but 'aim to accept
+      every pound' is a loose hedge with no number attached.
+    objections: The late-report objection is met well, but the obvious worry about
+      paying for fuel, insurance and maintenance from an $11,000 reserve goes unaddressed,
+      and so does cold storage once the food arrives.
+    fit: It is a clearly sectioned grant narrative under 500 words, and it rightly
+      declines the doubling claim the director asked for rather than making it.

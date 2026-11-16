@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-17-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B seems more credible because it states the five-week absence and the writing weakness openly, and it describes the unsupervised shift in concrete terms. A calls the absence a 'family medical leave' and adds 'on his own initiative', which isn't in the brief. B's unfilled '[length of time]' placeholder and its 'taught himself' claim keep the gap small."
+}

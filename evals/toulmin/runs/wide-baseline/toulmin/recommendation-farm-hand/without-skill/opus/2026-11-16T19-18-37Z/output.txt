@@ -1,0 +1,42 @@
+I've drafted the letter below. It runs about 350 words, so it fits on one page with letterhead and signature.
+
+**The 5-week absence.** I mentioned it in one plain sentence and left out that he gave only 2 days' notice. Your "2 missed shifts in 3 years" figure only holds if the 5 weeks are excluded. Saying "only two shifts" without explaining that would mislead the college, and putting the explanation up front makes it read as a family emergency rather than a gap. A reference letter doesn't need to include the short notice, and leaving it out isn't dishonest. Add it if you'd rather be fully explicit.
+
+**Written English.** I included this because the college will see his writing in his application anyway. Saying he's already taking a night class turns it into a point about his initiative.
+
+**Placeholders and wording.**
+- Fill in the bracketed items: your name, the farm, the college, contact details and the date.
+- I didn't claim any results from the mastitis catches beyond what you told me, such as money saved or cows recovered. If you have numbers like that, they would make the letter stronger.
+- I wrote that he went to Mexico "to be with his father" rather than "to care for him," since I don't know which is accurate.
+
+<final_document>
+[Farm Name]
+[Address]
+[Phone] · [Email]
+
+[Date]
+
+Admissions Committee
+Agricultural Technology Program
+[State Technical College]
+[Address]
+
+To the Admissions Committee:
+
+I am writing to recommend Tomás [Last Name] for your two-year Agricultural Technology program. I manage [Farm Name], a 400-cow dairy operation, and Tomás has worked for us for three years, since he was 19.
+
+Tomás runs our 3 a.m. milking shift on his own, five days a week. That shift has no one looking over his shoulder. The herd has to be milked on time and handled properly whether or not anyone else is awake, and Tomás does it. I don't have to check on that shift, and on a dairy farm that is about the highest trust I can give an employee.
+
+What sets him apart is that he has gone beyond the work he was hired to do. He learned our herd management software on his own initiative and now uses it to flag sick cows for our veterinarian. Last winter he caught nine cases of mastitis early. Early detection makes a real difference in how well a cow responds to treatment, and he found those cases by paying attention to the data and to the animals. That combination of hands-on stockmanship and comfort with technology is what your program is built to develop, and he already has a head start.
+
+He is also dependable. Apart from five weeks last summer, when he went home to Mexico to be with his father, who had fallen ill, Tomás has missed two shifts in three years. Since returning he has been back on his full schedule.
+
+To be candid, his spoken English is stronger than his written English. He knows this, and he is taking a night class to improve his writing while still working his full schedule. I think that says a lot about how he'll approach coursework.
+
+Tomás is serious about a future in agriculture, and I believe he will make the most of this opportunity. I recommend him without reservation. Please feel free to contact me at [phone] or [email] if I can tell you more.
+
+Sincerely,
+
+[Your Name]
+Farm Manager, [Farm Name]
+</final_document>

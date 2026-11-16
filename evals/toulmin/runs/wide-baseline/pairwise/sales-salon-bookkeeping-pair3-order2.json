@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-19-22Z",
+  "without_skill_run": "2026-11-16T19-19-18Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B speaks to my situation, where I hand my cousin a year's worth of books in March, and explains why clean monthly books could cut what I pay at tax time. It also ends with a low-risk ask that makes a 20-minute call easy to say yes to. A is warmer, but it never makes that cost case. The edge is small because B's line \"no low price to sign you up and then a higher one later\" sits awkwardly next to a price rise from $149 to $199."
+}

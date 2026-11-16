@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-27-37Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document B puts the candidate's relevant safety and adult training strengths first using easy-to-scan bullet points, whereas Document A leads with a disqualifying statement in the first paragraph. Document B also takes a much more realistic, humble approach to learning our regulated environment, while Document A's self-imposed 60- and 90-day plans show a naive misunderstanding of how strictly controlled GMP training changes are."
+}

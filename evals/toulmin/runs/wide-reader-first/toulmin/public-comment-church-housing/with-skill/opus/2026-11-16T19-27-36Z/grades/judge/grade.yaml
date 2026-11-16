@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:28:12.634909+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 367
+  tags: []
+  notes: extracted 367 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 7
+    qualification: 4
+    objections: 6
+    fit: 9
+  details:
+    agree: The speaker's candour as a neighbour who will also sit in the traffic,
+      and the offer of an intersection condition, could move a commissioner who is
+      undecided, but nothing in it makes 310 trips or a D rating feel smaller to the
+      two who care most about traffic.
+    honest: The numbers match the brief and the derived figures (about 1 in 6 on the
+      waiting list, about 3%) are correct, though 'I drive through that intersection'
+      and 'the waiting list stays at 412' go a little past what the brief supports.
+    works_the_facts: It works out the waitlist ratio, the share of the shortage and
+      the eight extra parking spaces, but it leaves the 310 trips raw instead of breaking
+      them down per unit (about 5) or by hour, and it never adds up the 412 households
+      times three years of waiting.
+    right_comparison: It describes the alternative accurately (an empty lot six days
+      a week and a waiting list that doesn't move), with no trend claims beyond what
+      the brief supports.
+    qualification: The intersection condition is left vague, with no measure, deadline
+      or consequence, though admitting that 64 homes is only about 3% of the need
+      is an honest, checkable hedge.
+    objections: It takes on traffic first and concedes it openly, which is good, but
+      it doesn't put the impact in proportion, and it brings up parking even though
+      the 72 spaces already answer that worry.
+    fit: At about 400 words of plain spoken sentences it fits the 3-minute public-comment
+      slot.

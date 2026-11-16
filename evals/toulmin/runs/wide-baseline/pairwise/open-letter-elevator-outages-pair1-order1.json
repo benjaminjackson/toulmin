@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-17-59Z",
+  "without_skill_run": "2026-11-16T19-18-00Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A makes it hard for me to dismiss the association as a few loud people: it says the petition represents two-thirds of the building, explains why a passing inspection doesn't settle the reliability problem, and asks for specific, checkable things without unsupported extras. B is warmer, but its added scenarios about fires, families and doctor's appointments feel like padding I could wave off, so the gap is small."
+}

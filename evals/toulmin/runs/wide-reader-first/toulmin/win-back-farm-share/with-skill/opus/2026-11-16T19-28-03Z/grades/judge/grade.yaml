@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:28:42.207832+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 193
+  tags: []
+  notes: extracted 193 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 3
+    objections: 5
+    fit: 9
+  details:
+    agree: The direct apology and the specific fixes will win back some of this household's
+      goodwill, but nothing promises how they will be treated or told if a storm thins
+      the boxes again, so a resisting reader may still hold off.
+    honest: 'Every claim follows from the brief: "roughly three weeks" is half of
+      six weeks, the $31,000 matches, and "harder to knock out" is a fair, modest
+      description of the nets and the second field.'
+    works_the_facts: Turning "half for six weeks" into about three weeks of lost produce
+      is a good derived figure, but the email doesn't put that loss in dollars (about
+      $74 at $540 for 22 weeks), and it doesn't use the $31,000 to show how much the
+      farm invested per member.
+    right_comparison: Last season is described accurately as the thing to compare
+      against, but the email never sets out what this household faces if it doesn't
+      sign up, beyond the March 15 deadline and the 52 shares left.
+    qualification: '"No farm can control the weather" is a vague hedge: it doesn''t
+      name a checkable condition, and it doesn''t say what members will get (credit,
+      updates) if a storm cuts the harvest again.'
+    objections: The objection "you went quiet and gave us nothing" gets a sincere
+      apology, but there's no commitment to communicate or give credit after a future
+      crop loss, and the pause credit only covers weeks the member chooses to skip,
+      not shortfalls.
+    fit: It's a renewal email under 200 words with a clear subject line, a short bullet
+      list and a single call to action, which is what the brief asked for.

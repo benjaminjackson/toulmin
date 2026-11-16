@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-18-00Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A frames the petition as two in every three households, which undercuts my view that this is a few loud people. It also gives a firm December 1 deadline, says my reply will be posted in the lobby, and makes modest asks without arguing with my $400,000 answer. B makes similar requests but adds claims the brief doesn't support, such as fire danger, families with small children and 'no explanation,' which makes it easier for me to dismiss."
+}

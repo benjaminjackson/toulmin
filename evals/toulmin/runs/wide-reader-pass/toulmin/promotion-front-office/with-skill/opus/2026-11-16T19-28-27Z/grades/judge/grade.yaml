@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:29:14.827533+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 434
+  tags: []
+  notes: extracted 434 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 7
+    right_comparison: 5
+    qualification: 5
+    objections: 7
+    fit: 9
+  details:
+    agree: Because the memo gives the renovation real credit, the GM's own view goes
+      unchallenged and the claim becomes believable; the case on training, turnover
+      and the seven weeks of cover is solid, but it never says why it beats someone
+      who ran a bigger desk.
+    honest: It rightly drops the 'main reason' claim that the facts can't support,
+      and the derived figures (almost half the training time, about 70% fewer training
+      shifts) are labelled as resting on an assumption and are close to accurate.
+    works_the_facts: It turns the turnover figures into rates (two in three down to
+      one in three) and links training and turnover to payroll through the 81-versus-25
+      shift count, but it misses that the score is specifically for check-in, which
+      the desk controls more directly than any room renovation.
+    right_comparison: The only comparison to the outside hire is 'no handover', which
+      is thin; it doesn't weigh larger-hotel experience against six years here and
+      the improvements in this specific building.
+    qualification: The budget plan includes a three-month monthly review with the
+      GM, which he can check, but it sets no number or tolerance for payroll variance
+      and says nothing about what happens if results fall short.
+    objections: It meets the renovation objection by conceding it and meets the lack
+      of budget experience with a plan and a cost link, but it doesn't directly answer
+      the outside candidate's larger-hotel experience.
+    fit: It's a concise, one-page memo addressed to the GM, which is what was asked
+      for.

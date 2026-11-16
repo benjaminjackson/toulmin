@@ -1,0 +1,17 @@
+{
+  "task": "staff-branch-closures",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-19-37Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Over the same period, phone and chat contacts across the credit union rose 60%.",
+      "why": "The brief does not specify that the 60% increase in phone and chat contacts occurred over the same three-year period as the drop in branch visits."
+    },
+    {
+      "quote": "Next steps: by [date], your manager will meet with each person at Maple Street and Route 9 to go through the offer, and we'll need your decision by [date].",
+      "why": "The brief does not mention that managers will hold one-on-one meetings with staff to go through the offer or that there is a decision deadline."
+    }
+  ],
+  "invented_count": 2
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-40Z",
+  "without_skill_run": "2026-11-16T19-18-45Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A connects the training and retention improvements directly to labor cost savings, which is the most convincing way to ease my concern about the $1.1 million payroll budget. Both documents wisely acknowledge the renovation's role in the score increase, while Document B tackles the budget weakness too early before building up the candidate's strengths."
+}

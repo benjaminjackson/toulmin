@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-17-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B reads as smoother and more confident. It ties the night class to how Tomás will approach the program, and it ends on a clear point about technology and animals. A leaves a '[length of time]' placeholder in the text and claims he learned the software 'without any formal training,' which the brief doesn't support. Both letters are strong and honest overall, so the gap is small."
+}

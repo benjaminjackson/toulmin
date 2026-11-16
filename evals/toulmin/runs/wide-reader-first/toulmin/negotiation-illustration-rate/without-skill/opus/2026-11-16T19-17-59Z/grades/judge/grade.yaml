@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:18:32.940230+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 188
+  tags: []
+  notes: extracted 188 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 5
+    objections: 4
+    fit: 9
+  details:
+    agree: The editor likes this illustrator, and the request is polite, specific
+      and below the outside offer, so a counteroffer is likely. But nothing pushes
+      against the $9,000 budget or the $8,000 newcomer, so the full $11,500 is not
+      secured.
+    honest: The draft rightly drops the unsupported claim that every other publisher
+      pays at least $12,000, and its numbers match the brief. It does add 'full-time'
+      to the four months, which the brief never says.
+    works_the_facts: 'The facts are listed but never worked: there is no monthly rate
+      ($2,250 a month at four months per book), no point that $11,500 is $1,000 below
+      the $12,500 she was already paid, and no link from 20,000+ copies to the publisher''s
+      revenue.'
+    right_comparison: It does show the trend of a fee frozen for four years while
+      her sales record grew, measured against market rates. But it never sets her
+      proven sales against the editor's real alternative, an untested illustrator
+      at $8,000.
+    qualification: The email is a direct request with no conditions or hedges, and
+      it doesn't need any.
+    objections: The editor's main objection, a fixed $9,000 budget with a cheaper
+      newcomer available, is never met, for example by arguing that her bestselling
+      and reading-list record lowers the publisher's risk. The email also doesn't
+      say what she'll do if the answer is no.
+    fit: It is a clear, warm email of about 200 words, so it comes in under the 250-word
+      limit, and it has a sensible subject line and a call to action.

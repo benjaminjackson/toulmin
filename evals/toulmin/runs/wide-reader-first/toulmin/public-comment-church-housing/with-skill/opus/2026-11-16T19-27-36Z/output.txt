@@ -1,0 +1,48 @@
+I drafted this as a spoken comment of about 400 words. At a steady pace for a public hearing, that's around 2:45. I used only your facts and arithmetic I checked:
+
+- 64 homes is about 3% of the 2,100 shortfall.
+- 64 homes is about 1 in 6 of the 412 households on the waiting list.
+- 72 spaces for 64 units leaves 8 spare.
+
+**A few choices I made:**
+- **You live on Alder Road.** I put this first. The commissioners will expect neighbours to oppose the project, so a 19-year Alder Road resident speaking in favour is your strongest point.
+- **Church membership is disclosed early.** Someone in the room will know you belong to the church. Saying so yourself keeps it from being used against you.
+- **The traffic numbers are stated plainly.** The speech doesn't call the drop from C to D small. The commissioners have read the study, and playing it down would cost you credibility. Instead, you say you'll be one of the drivers waiting, and you think it's worth it.
+- **One thing for you to confirm:** the line saying you'd support a condition on the Alder and 4th intersection is my suggestion, not one of your facts. It gives the commission a way to approve while still dealing with the traffic concern. Cut it if you're not comfortable with it, or if the church or applicant would object.
+- **What the speech doesn't claim:** it doesn't say 72 spaces meets the county's parking rules, and it doesn't say what happens to Sunday parking. I don't know either. If you do, and the answer helps, you could add one sentence.
+
+Read it aloud once with a timer. If it runs long, cut the paragraph that starts "This doesn't solve the shortage."
+
+<final_document>
+Good evening, commissioners. My name is ______. I've lived on Alder Road for 19 years, two blocks from the church. I'm also a member of that church, and I want you to know that up front.
+
+I'm here to ask you to approve the 64 apartments on the church's back parking lot.
+
+I'll start with traffic, because I know that's the concern.
+
+The traffic study says this project adds 310 car trips a day on Alder Road. It says the intersection at Alder and 4th drops from a C to a D at rush hour.
+
+I drive through that intersection. That means I'll be one of the people waiting a little longer. I've thought about that, and I still think this is worth it.
+
+If the commission wants to attach a condition on the Alder and 4th intersection, I would support it. Approve the homes, and fix the intersection too.
+
+On parking: the plan has 72 spaces for 64 units. That's one for every apartment, plus eight more.
+
+Now, here's why I think it's worth it.
+
+The county's own housing report says we're short about 2,100 affordable homes.
+
+Right now, 412 households are on the housing authority's waiting list. The average wait is three years.
+
+Every one of these 64 apartments would rent to a household earning under 60 percent of the area median income. That's roughly one home for every six families on that waiting list.
+
+And the land is already there. It's 1.8 acres of pavement that sits empty six days a week. Nobody has to tear anything down. No one has to be moved out. It's a parking lot.
+
+This doesn't solve the shortage. Sixty-four homes is about three percent of what the county says we need. But we won't close a gap of 2,100 homes unless we say yes to projects like this one, one at a time.
+
+If we say no tonight, the lot stays empty six days a week. The waiting list stays at 412. And those families keep waiting.
+
+I've been a neighbor on Alder Road for 19 years. I'd like some of the people on that waiting list to become my neighbors too.
+
+Please approve this project. Thank you.
+</final_document>

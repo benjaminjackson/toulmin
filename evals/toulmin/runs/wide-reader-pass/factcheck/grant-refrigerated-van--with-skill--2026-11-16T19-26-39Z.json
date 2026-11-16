@@ -1,0 +1,17 @@
+{
+  "task": "grant-refrigerated-van",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-26-39Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "For this grant, one board member will be responsible for reporting.",
+      "why": "The brief does not mention that the food bank has a board of directors or that a board member will be assigned to handle reporting."
+    },
+    {
+      "quote": "We will submit reports at six and twelve months, each showing the pounds of food the van collected and where it came from.",
+      "why": "The brief does not state that the organization has decided on a six- and twelve-month reporting schedule or what metrics those reports will track."
+    }
+  ],
+  "invented_count": 2
+}

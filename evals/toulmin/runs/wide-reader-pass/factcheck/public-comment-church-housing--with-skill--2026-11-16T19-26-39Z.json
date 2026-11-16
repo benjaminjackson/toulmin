@@ -1,0 +1,37 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-26-39Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The county's traffic study says this project will add 310 car trips a day on Alder.",
+      "why": "The brief refers only to \"the traffic study\" and does not state that it was conducted by or belongs to the county."
+    },
+    {
+      "quote": "I drive through that intersection.",
+      "why": "The brief does not state that the speaker drives or travels through the intersection at Alder and 4th."
+    },
+    {
+      "quote": "I'll be one of the people waiting longer at that light.",
+      "why": "The brief does not mention a traffic light at the intersection of Alder and 4th, nor that the speaker uses that intersection."
+    },
+    {
+      "quote": "No green space is lost.",
+      "why": "The brief only states the apartments would be built on the back parking lot and does not confirm whether any surrounding trees or green space on the 1.8-acre lot would be removed."
+    },
+    {
+      "quote": "We'd be putting homes where there's now just empty asphalt.",
+      "why": "The brief states it is a parking lot, not that it is paved with asphalt rather than concrete or gravel."
+    },
+    {
+      "quote": "I know parking worries some of my neighbors.",
+      "why": "The brief does not mention the speaker's neighbors or what their concerns are."
+    },
+    {
+      "quote": "And those of us on Alder wait a little longer at one light at rush hour.",
+      "why": "The brief does not state that the intersection at Alder and 4th has a traffic light."
+    }
+  ],
+  "invented_count": 7
+}

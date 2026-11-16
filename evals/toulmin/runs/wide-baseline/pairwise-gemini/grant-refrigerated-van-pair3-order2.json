@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-20-44Z",
+  "without_skill_run": "2026-11-16T19-20-01Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both documents wisely walked back the unrealistic claim of doubling annual fresh food and prompted the applicant to explain ongoing vehicle costs and the late 2023 report. However, Document B provides a much more reassuring and concrete reporting plan—naming a responsible person and committing to quarterly updates so the final report won't require me to chase them—and it clarifies how a van addresses the lack of cold storage by scheduling pickups directly on distribution days."
+}

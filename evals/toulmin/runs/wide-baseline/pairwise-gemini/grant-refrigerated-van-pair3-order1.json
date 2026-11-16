@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-20-44Z",
+  "without_skill_run": "2026-11-16T19-20-01Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both narratives are honest about the math on fresh food and smartly flag the ongoing operating costs that need to be filled in given their low remaining reserves. However, Document A gives me a concrete, believable plan to prevent another four-month reporting delay (putting due dates on the board calendar and sending quarterly numbers so the final report is already built), and it intelligently addresses the cold storage gap by proposing pickups on distribution days."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-18-41Z",
+  "without_skill_run": "2026-11-16T19-18-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters stay honest and make the same case, but A's monthly-earnings figure and its warm 'book seven' close make the request feel concrete and personal to me. B's 'looking forward to getting started' reads as though she'll take the book anyway, which takes away some of my reason to offer more."
+}

@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:19:44.537691+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 430
+  tags: []
+  notes: extracted 430 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 4
+    objections: 4
+    fit: 8
+  details:
+    agree: The tone is respectful and the offer is clear, but a long-tenured teller
+      who doesn't want phone work gets no reason to think the new job will suit them,
+      so many will lean toward the severance.
+    honest: 'The draft rightly leaves out the brief''s claim that the change makes
+      ''everyone''s job better'', but it adds a few things the brief doesn''t support:
+      ''puts a lot of strain on colleagues'', ''we''ll work with you on scheduling''
+      and the claim that other staff will get fewer calls from frustrated members.'
+    works_the_facts: 'It repeats the numbers as given but never works them out: it
+      doesn''t say that 2 weeks per year means about 20 weeks of pay for a 10-year
+      teller, that the day stretches from 8 to 12 hours, or what the falling visits
+      mean for the branches'' future.'
+    right_comparison: 'It sets out the trend of falling visits and rising calls, but
+      it doesn''t spell out the real choice each reader faces: severance and a job
+      search elsewhere, against staying at the same or higher pay with remote days.'
+    qualification: The hedges it uses ('should get fewer calls', 'work with you on
+      scheduling') give the reader no number, date or consequence they could check.
+    objections: It names the discomfort with the new hours and type of work but doesn't
+      answer the main objection, not wanting to be on the phones, by saying what the
+      job involves or how branch experience and member relationships carry over, and
+      it ignores the two weeks of rumours.
+    fit: It is an email from the COO of roughly 430 words with a clear structure,
+      close to the length asked for, though it drops the brief's requested 'better
+      jobs' message.

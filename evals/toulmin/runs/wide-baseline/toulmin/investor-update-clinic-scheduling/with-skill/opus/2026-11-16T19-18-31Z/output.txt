@@ -1,0 +1,52 @@
+I've written the update below. It's about 470 words, under your 500-word limit. I didn't use any tools.
+
+- **Bad news comes first.** It opens with the two missed updates and then the lost chain. Your investors will be reading closely after six months without hearing from you, so hiding either would cost more trust than stating it.
+- **I worked out a few figures from your numbers:**
+  - Runway is about 11 months ($480K ÷ $44K).
+  - The chain was about 13% of your monthly recurring revenue ($5,500 of $41,000).
+  - The no-show drop from 13% to 7% removes "nearly half" of no-shows (46%).
+  - At $150 a month, you'd need about 37 reminder-only customers to replace the chain and about 290 to cover your monthly loss. Including that scale stops the reminder launch from sounding like a fix it can't be yet.
+- **Please check the Runway section.** I wrote that you'll decide between raising money and cutting costs in the first half of next year. With 11 months of cash and a raise usually taking months, investors will expect some timeline, but this one is my assumption, so change it to your real plan. If you already have a plan, such as a bridge or specific cuts, put it there.
+- **Things to fill in:** the quarter, your company name and your name.
+
+<final_document>
+Subject: [Company] [Quarter] update: MRR flat at $41K, lost our largest customer, launching standalone reminders
+
+Hi all,
+
+First, I didn't send updates for the last two quarters. That was a mistake. You'll get one every quarter from now on, including when the news is mixed, as it is this time.
+
+**The numbers**
+- MRR: $41,000, flat from three months ago
+- Customers: added 9, lost 4
+- Cash: $480,000
+- Net burn: about $44,000/month, which gives us roughly 11 months of runway
+- Team: 6
+
+**What happened**
+We lost our largest customer, a 12-clinic chain paying $5,500 a month. That was about 13% of our revenue. They moved to the scheduler built into their electronic records system. The 9 new customers covered that loss and our three other cancellations, so MRR held flat instead of falling. But flat isn't where we need to be.
+
+We learned two things from this. First, too much of our revenue sat in one account. Second, the scheduler bundled into the records system is a real competitor, especially for larger groups that want one fewer vendor. On scheduling alone, "good enough and already paid for" will beat us.
+
+**What's working**
+Our automatic text reminders. Clinics using them have a 7% no-show rate, down from 13% before they started, which means nearly half of missed appointments are gone. For a PT clinic, every no-show is an empty slot it can't bill for, so this is the clearest value we deliver.
+
+**What's next**
+Next month we start selling reminders on their own for $150 a month. This changes our position with clinics like the one we lost: they can keep their records system's scheduler and add our reminders on top, instead of choosing between us. It also opens up clinics that would never switch scheduling systems.
+
+To be clear about scale: replacing the lost chain's revenue takes about 37 reminder-only customers, and covering our monthly burn would take roughly 290. In each update I'll report how many sign up, how fast, and whether any reminder-only customers move to full scheduling.
+
+**Runway**
+About 11 months of runway is not much. I'll need to decide between raising and cutting costs in the first half of next year. The early reminder sales will drive that decision, and I'll share those numbers with you as they come in rather than waiting for the next update.
+
+**How you can help**
+- Intros to PT clinic owners or operators, especially groups with 1–5 locations
+- Intros to anyone who has sold an add-on product to clinics that already use an electronic records system. I'd value 30 minutes with them.
+
+Questions are welcome, and I'm happy to get on a call with any of you.
+
+Thanks for your patience and your support.
+
+[Name]
+Founder, [Company]
+</final_document>

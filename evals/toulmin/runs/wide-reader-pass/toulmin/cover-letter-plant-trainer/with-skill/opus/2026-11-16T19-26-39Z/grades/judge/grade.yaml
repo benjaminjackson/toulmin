@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:27:39.306737+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 403
+  tags: []
+  notes: extracted 403 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 4
+    objections: 7
+    fit: 9
+  details:
+    agree: The candid handling of the GMP gap and the concrete safety record could
+      earn a phone screen from a skeptical HR manager, but the letter shows no knowledge
+      of how a plant actually works (SOPs, deviations, qualification), so it may not
+      change her assumption about teachers.
+    honest: It wisely drops the unsupported 'cut training time in half' claim, but
+      'shortening training without weakening it is what I've spent nine years doing'
+      has no support in the brief, and 'commit to this move' and the new teachers
+      supervising alone are added details.
+    works_the_facts: 'The figures are restated rather than worked: it doesn''t give
+      the 17-point (about 41% relative) pass-rate rise, the roughly 1,000 student-years
+      without a serious injury, or the roughly 18 teachers trained over nine years.'
+    right_comparison: It implicitly sets itself against a candidate who already has
+      GMP experience and argues the safety-program work is close to it, but it never
+      describes the plant's current training baseline or what that comparison actually
+      looks like.
+    qualification: The plans to learn the quality team's documentation 'in my first
+      weeks' and to measure sign-off time have no date, target number, or stated consequence
+      the reader could check.
+    objections: It meets the main objection (no regulated-industry, GMP, or LMS experience)
+      directly and offers a credible plan, though the bridge to GMP stays general.
+    fit: It is a properly formatted one-page cover letter of appropriate length.

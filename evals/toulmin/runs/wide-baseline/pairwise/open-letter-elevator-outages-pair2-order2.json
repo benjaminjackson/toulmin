@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-19-02Z",
+  "without_skill_run": "2026-11-16T19-18-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters show that two-thirds of the building signed the petition, which undercuts my 'few loud people' view. B is harder to brush off. It points out that the June estimate has already lapsed, it asks for specific things I can actually deliver (supplier, order date, a named contact), and it says plainly that the TV station is involved, which gives me a reason to act now."
+}

@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:28:15.145182+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 327
+  tags: []
+  notes: extracted 327 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 7
+    objections: 7
+    fit: 9
+  details:
+    agree: The safety record, the adult-trainee parallel and the concrete 90-day plan
+      give this skeptical reader a reason to make a phone call, but leading with the
+      two gaps in the first paragraph risks an early screen-out before she reaches
+      the evidence.
+    honest: Every figure matches the brief, 'seven years' since 2019 is correct for
+      2026, and the letter rightly drops the unsupported 'cut training time in half'
+      promise in favour of a target set after measuring.
+    works_the_facts: 'Facts are restated rather than worked: the 41-to-58 rise is
+      never framed as a 17-point or roughly 40% relative gain, and the new-teacher
+      training is never totalled (about 24 hours a year, roughly 18 trainees over
+      nine years).'
+    right_comparison: The letter doesn't compare itself to the real alternative (a
+      candidate who already knows GMP but can't show teaching outcomes), and it doesn't
+      describe the plant's current onboarding beyond promising to measure it.
+    qualification: The hedge has checkable dates (60 and 90 days), a measurable sign-off
+      time and a stated consequence if the target is missed, though that consequence
+      is only 'report why' and the target number itself is left open.
+    objections: It meets the main objection (no regulated-industry or GMP experience)
+      directly with a timeline, but it doesn't say how the GMP learning will happen
+      and doesn't use the documented safety program as evidence of record-keeping
+      discipline.
+    fit: It is a properly formatted one-page cover letter of suitable length and tone.

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-18-53Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters are strong and smartly avoid making unrealistic promises about our onboarding timelines, instead showing genuine respect for our regulatory environment. Document A edges out Document B because the bulleted format is easier to scan during initial screening, and Document B includes some questionable math about how many students operated under the 2019 safety program."
+}

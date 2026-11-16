@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-18-45Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B speaks to how my salon's money actually moves and makes a clearer case that finished books cut the accountant's bill, which matters when my cousin only charges $600. A adds claims the brief doesn't support, like sales tax filed \"on time\" and \"no add-on fees,\" while B sticks to the facts, even the price increase."
+}

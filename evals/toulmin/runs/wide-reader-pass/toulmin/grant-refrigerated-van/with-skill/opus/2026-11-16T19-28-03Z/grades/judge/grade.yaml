@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:29:18.995052+00:00'
+outcome: pass
+score: 0.85
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 436
+  tags: []
+  notes: extracted 436 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.85
+  metrics:
+    agree: 8
+    honest: 9
+    works_the_facts: 9
+    right_comparison: 8
+    qualification: 6
+    objections: 7
+    fit: 8
+  details:
+    agree: Marisol would likely recommend it because the document admits the late
+      report, commits to report dates, and ties the request to food the farms already
+      offered, though she may still ask how the van's running costs will be paid when
+      reserves fall to $11,000.
+    honest: The writer drops the unsupported 'double' claim and states the real gain
+      (72,000 to 81,000 pounds), and the only claim beyond the brief's facts is a
+      soft one about accepting other cold donations.
+    works_the_facts: 'The derived figures are correct and well framed: ''one pound
+      in six'', ''half again as much'' as a usual summer, about 15 pounds per household,
+      ''more than a quarter'' of the cost, and the annual total called a floor.'
+    right_comparison: The no-van alternative is described as the facts show it, with
+      farms offering again and the food bank refusing again, though it doesn't put
+      a number on that ongoing loss.
+    qualification: There is a checkable 9,000-pound first-summer target and a 30-day
+      report deadline, but the end of 'pickups' is a vague date and nothing says what
+      follows if the target is missed.
+    objections: It meets the late-report concern and the reliance on one driver directly,
+      but it never mentions fuel, insurance or maintenance for the van, which a cautious
+      funder looking at thin reserves would ask about.
+    fit: It is a clearly sectioned grant narrative under the 500-word limit, though
+      it deliberately leaves out the 'double' claim the director asked for, because
+      the facts don't support it.

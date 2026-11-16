@@ -1,0 +1,63 @@
+I didn't use "proven hit" in the pitch. Below is why, and what I wrote instead.
+
+**The problem with "proven hit."** The game hasn't been published yet. It has 23 ratings, two conventions and no sales. Experienced backers will notice that straight away, and on a first campaign they'll take it as a reason to doubt everything else on the page. What your facts do prove is that the game works at the table. 140 sessions with about 60 people is a lot of testing, and an 8.1 average from people who actually played it is real. So the pitch claims the game is **proven at the table**. It also gives the 23 ratings at their actual size, because admitting that makes the rest more believable. If you still want "proven hit," I can rewrite it that way, but I'd advise against it.
+
+**How the argument is built:**
+- **Claim:** The game is finished in the ways that count. It's well tested, priced from a real quote, and needs fewer backers than you already have on your list. So backing it is a safe bet, even from a first-time designer.
+- **Evidence:** 140 sessions, about 60 players, 2 conventions, 8.1 from 23 ratings, a $17,400 quote, $9 a copy to ship, and 1,240 sign-ups.
+- **Why the evidence supports the claim:** Backers trust a creator who has done the work and shows the numbers.
+- **What a backer will doubt:** Whether a first-time designer will deliver, and whether 23 ratings is a big enough sample. The pitch answers both directly.
+
+**The figures I worked out** (please check them):
+- $28,000 ÷ $49 = about 572 backers. That's under half of your 1,240 sign-ups.
+- Shipping for 572 backers at $9 each comes to about $5,150.
+- $17,400 + $5,150 = $22,550, which leaves about $5,450 for platform fees, payment fees and costs the quote doesn't cover.
+
+**Please confirm these before you publish:**
+1. **Monthly updates:** I wrote in a promise to post an update every month. I suggested this; you didn't give it to me. Remove it if you won't keep it.
+2. **The ratings site:** I assumed it's BoardGameGeek.
+3. **No charge if the goal is missed:** This assumes your platform only collects money when you hit the goal, which is how Kickstarter works.
+4. **The supply boat and the lamp:** These are scene-setting details I made up. Change them to match what actually happens in your game, and add the game's title in the first line.
+
+<final_document>
+**A cooperative game about getting a family through the winter.**
+
+The supply boat has stopped coming. The lamp still has to be lit every night. In this cooperative board game for 1 to 4 players, you work together to get a lighthouse keeper's family through to spring. You win together or you lose together.
+
+**Tested hard before asking you for a dollar**
+
+I'm not a publisher. I work full time as a land surveyor, and this is my first game and my first campaign. So I've done what I do at work: measure, check, and measure again.
+
+- **140 playtest sessions** since 2023
+- **About 60 different players**, not just friends and family
+- **2 conventions**, where strangers sat down and played it
+- **An 8.1 average rating** from 23 players on BoardGameGeek
+
+Twenty-three ratings isn't a crowd, and I won't pretend it is. But every one of those ratings came from someone who played the game, and the 140 sessions behind them shaped every rule in the box. The game didn't get to this point by luck. Sixty people played it, broke it and told me what was wrong, and I fixed it.
+
+And 1,240 of you have already signed up to hear when it launches.
+
+**Where your $49 goes**
+
+**$49 gets you a copy, shipped anywhere in the US.** The funding goal is **$28,000**, and I'd like you to see exactly how it adds up:
+
+- **Manufacturing: $17,400.** This is a real factory quote for 1,500 copies, not an estimate.
+- **Shipping to backers: about $9 a copy.** At the goal, that's about $5,150.
+- **What's left: about $5,450,** which covers platform fees, payment fees and costs the quote doesn't include.
+
+Reaching the goal takes about **572 backers**. That's fewer than half the people already on the launch list. If everyone who signed up backs the game on day one, we're funded.
+
+**What a first-time creator owes you**
+
+You're right to ask whether someone who has never published a game can deliver one. I can't point to past games. What I can do is show my numbers and keep showing them. The factory quote is in hand and the budget is above. I'll post an update every month until the game is at your door, and that includes the months when the news isn't good.
+
+If the campaign doesn't reach $28,000, no one is charged.
+
+**Why a lighthouse**
+
+A lighthouse keeper's job is to keep a promise to strangers they'll never meet: the light will be on tonight. In a hard winter, keeping that promise means a family pulling together, sharing what little they have, and deciding together what can wait and what can't. That's the game. It works with one player at the kitchen table or four around it, and it's built for the kind of talk that happens when everyone at the table is on the same side.
+
+I've spent three years making sure this game works. Now I need your help to get it printed.
+
+**Back it at $49 and help the family get through to spring.**
+</final_document>

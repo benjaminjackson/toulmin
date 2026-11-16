@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:27:25.344035+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 345
+  tags: []
+  notes: extracted 345 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 7
+    honest: 5
+    works_the_facts: 4
+    right_comparison: 4
+    objections: 7
+    fit: 9
+  details:
+    agree: 'A quick reader gets a clear case: he runs a milking shift on his own,
+      has a strong attendance record, caught mastitis cases early using data, and
+      is already working on his English, so a doubtful committee member would probably
+      move toward yes.'
+    honest: 'The letter adds things the brief doesn''t support: ''Nobody asked him
+      to learn it'', ''he came back and picked up right where he left off'', ''he
+      does it right'' and ''seriously ill''; it also leaves out that he gave only
+      two days'' notice before leaving.'
+    works_the_facts: 'The attendance figure is left as ''two shifts in three years''
+      when it could be shown in its strongest form: about 780 scheduled shifts with
+      2 missed, or more than 99.7% attendance; the mastitis count is also never tied
+      to the size of the herd.'
+    right_comparison: Calling him 'one of the most dependable people on my staff'
+      is the only comparison, and it gives no basis such as how often others miss
+      shifts or who else could cover the 3 a.m. shift, so the committee can't tell
+      how he stands against other applicants.
+    qualification: This is a recommendation without reservations, and the one weakness
+      (written English) is stated openly, so no conditional hedge is needed.
+    objections: The letter deals directly with the likely concerns about his written
+      English and the five-week absence and turns both to his credit, though it avoids
+      the short notice he gave rather than addressing it.
+    fit: It is a one-page reference letter from the farm manager with the right opening,
+      a contact offer and a signature block, which is what the brief asked for.

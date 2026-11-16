@@ -1,0 +1,17 @@
+{
+  "task": "sales-salon-bookkeeping",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-26-39Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Those are my days off.",
+      "why": "The brief states that the bookkeeper does not answer the phone on Sundays or Mondays, not that those days are days off."
+    },
+    {
+      "quote": "We'll look at where your books are now and what you need.",
+      "why": "The brief only states that the first call is free and takes 20 minutes, without specifying what will be discussed during the call."
+    }
+  ],
+  "invented_count": 2
+}

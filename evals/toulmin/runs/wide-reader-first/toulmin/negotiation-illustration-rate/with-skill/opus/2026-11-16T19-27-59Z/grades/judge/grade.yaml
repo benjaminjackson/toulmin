@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:28:32.656746+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 187
+  tags: []
+  notes: extracted 187 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 6
+    honest: 10
+    works_the_facts: 6
+    right_comparison: 6
+    objections: 5
+    fit: 9
+  details:
+    agree: The warm, specific email with sales figures and an outside $12,500 fee
+      gives an editor who likes this illustrator real grounds to go above $9,000,
+      but a $2,500 jump over budget, with an $8,000 newcomer available, will more
+      likely get a counteroffer than a yes.
+    honest: Every claim matches the brief, and the email rightly drops the unsupported
+      claim that every other publisher pays at least $12,000, using only the one $12,500
+      fee and the agent's range.
+    works_the_facts: Framing $11,500 as below the outside fee and in the lower half
+      of the agent's range is a strong true framing, but the email never mentions
+      the four months each book takes or shows that four flat years mean a real drop
+      in pay over time.
+    right_comparison: It compares her flat fee with the market rate and with her growing
+      record, but it doesn't spell out the trend of six books with no raise, and it
+      leaves the editor to weigh the cheaper, unproven option without help.
+    qualification: A fee request with a clear number needs no conditional hedge, and
+      the email adds none.
+    objections: The sales and reading-list record answers the 'why pay more than a
+      cheaper illustrator' objection only by implication, and the email never addresses
+      the publisher's fixed budget or the risk of switching to an untested artist.
+    fit: It is a polite, professional email of about 190 words, under the 250-word
+      limit, with a subject line and a clear ask at the top.

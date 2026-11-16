@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-19-47Z",
+  "without_skill_run": "2026-11-16T19-19-20Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A puts the traffic study's D rating into helpful perspective for the undecided commissioners by noting that the intersection still functions, whereas Document B invents minor details about the applicants that are not in the brief. Both speeches are very persuasive, making this a close call."
+}

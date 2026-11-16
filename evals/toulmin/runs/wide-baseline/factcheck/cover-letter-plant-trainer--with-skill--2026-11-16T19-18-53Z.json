@@ -1,0 +1,25 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-18-53Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "That's about 1,260 students so far.",
+      "why": "The document implies 1,260 students have worked under the procedures the writer wrote in 2019, which incorrectly multiplies 140 students by all 9 years of teaching rather than the years since the program was written in 2019."
+    },
+    {
+      "quote": "Over my time at the school that's been about 18 teachers.",
+      "why": "The brief states the writer has taught high school chemistry for 9 years, not that all 9 years were at their current school or that they have trained new teachers for all 9 years."
+    },
+    {
+      "quote": "They're experienced professionals",
+      "why": "The brief only describes the trainees as \"new science teachers\" and does not state whether they had prior professional experience."
+    },
+    {
+      "quote": "I got there by finding where students were getting stuck and redesigning those parts of the course.",
+      "why": "The brief states the AP Chemistry pass rate went from 41% to 58%, but does not give the cause or say that the writer redesigned parts of the course."
+    }
+  ],
+  "invented_count": 4
+}

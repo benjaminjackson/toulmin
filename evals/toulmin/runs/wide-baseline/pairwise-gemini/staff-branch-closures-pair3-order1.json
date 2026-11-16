@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-19-37Z",
+  "without_skill_run": "2026-11-16T19-19-13Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A is much more honest about the reality of rotating 8-to-8 shifts and how that affects things like childcare, rather than making vague promises to 'work with you on scheduling.' Even though we already heard rumours and don't want to work on the phones, Document A respects our intelligence by laying out the pros, cons, and severance package plainly without making up details."
+}

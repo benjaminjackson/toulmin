@@ -1,0 +1,42 @@
+I've drafted the letter. It argues that Tomás already does, alone and reliably, the kind of work this program teaches. The rest of this note covers the choices I made that you should check.
+
+**The five-week leave:** I included it, worded as a family medical emergency, and left out the two days' notice. If the letter said "two missed shifts in three years" without it, that would be technically true but misleading. And if the college ever calls you, you don't want the letter to have hidden it. Leaving because his father was ill and then coming back to the 3 a.m. shift doesn't count against him. If you'd prefer to leave the leave out entirely, take out that clause and change the attendance line to "rarely missed a shift."
+
+**Written English:** I mention it briefly and then answer it with the night class. The admissions staff will see his writing in his application anyway. A reference that says so openly is more believable everywhere else.
+
+**Things to check or fill in:**
+- His last name, your name, the farm name, and your contact details. These are in brackets.
+- I describe him as "now 22," working from 19 plus three years. Correct this if his birthday makes it wrong.
+- I said early detection of mastitis makes it easier to treat and limits lost milk. That's general knowledge, not a figure from your farm. If you have real numbers, such as cows saved, milk not dumped, or vet costs, put them in. They would make the letter stronger.
+- I say he "picked up the 3 a.m. shift again" after the leave. That assumes he went back to the same shift. Change it if he didn't.
+
+<final_document>
+[Farm Name]
+[Address]
+[Phone] · [Email]
+
+[Date]
+
+Admissions Committee
+Agricultural Technology Program
+[State Technical College]
+
+Dear Admissions Committee,
+
+I am the manager of [Farm Name], a 400-cow dairy, and I am writing to recommend Tomás [Last Name] for your two-year Agricultural Technology program. He has worked for us for three years. He already does the kind of work your program trains people for, and he does it without anyone watching over him.
+
+Tomás runs our 3 a.m. milking shift alone, five days a week. At that hour no one else is on the farm. If something goes wrong with a cow or the equipment, he is the one who notices and decides what to do. I gave him that shift because he had earned my trust, and he has kept it. Apart from a five-week leave last summer, when his father became seriously ill in Mexico, he has missed two shifts in three years. When he came back, he picked up the 3 a.m. shift again.
+
+He also taught himself our herd management software. He now uses it to watch the herd and flag sick cows for our veterinarian. Last winter he caught nine cases of mastitis early. Early cases are easier to treat and cost us less milk, so his catches made a real difference to the herd and to our bottom line. Nobody asked him to take this on. He saw that the data could help the animals and learned to use it.
+
+Tomás started with us at 19, and he is now 22. In that time I have watched him go from following instructions to making good judgments by himself. I think formal training in animal health, farm technology and management is the right next step for him. I also think he will bring practical experience to your classrooms that many students won't have.
+
+To be candid about one thing: his spoken English is stronger than his written English. He knows this, and he is taking a night class to improve his writing while working full time. That is typical of how he handles a weakness. He names it and goes to work on it.
+
+I recommend Tomás without reservation. I would be glad to talk with you about him and can be reached at [phone] or [email].
+
+Sincerely,
+
+[Your Name]
+Farm Manager, [Farm Name]
+</final_document>

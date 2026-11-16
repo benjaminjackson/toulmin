@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-23Z",
+  "without_skill_run": "2026-11-16T19-18-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters stick to the facts and make the same case. B is slightly more persuasive: it puts the $11,500 ask first, points out that the figure is below what another publisher already paid, and ties the four months of work to the care that goes into the books."
+}

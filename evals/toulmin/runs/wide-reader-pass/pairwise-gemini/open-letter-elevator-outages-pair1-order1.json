@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-18-00Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A stays strictly focused on the facts and makes specific, actionable requests without exaggeration, while also signaling the risk of bad publicity ('solve this with you than about you') in a way that compels me to act. Document B invents details not in the brief (such as the current month being November) and brings up irrelevant points like using elevators during a fire, which reinforces my view that they are just being dramatic."
+}

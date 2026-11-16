@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-03Z",
+  "without_skill_run": "2026-11-16T19-19-03Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B takes stronger ownership right from the subject line and explicitly acknowledges the exact financial loss I felt ('roughly three weeks of produce you paid for and didn't get'). However, both emails are very similar in structure, honesty, and tone, making it a close call."
+}

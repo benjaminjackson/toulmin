@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-24Z",
+  "without_skill_run": "2026-11-16T19-19-40Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A puts the bad news right in the subject line and stays completely honest to the facts, whereas Document B makes up dates and sales targets ('20 by the end of March', 'February 15') that aren't in the brief. A's strategic explanation of the pivot and its specific ask for advice on competing against bundled software also show the maturity I need to see to keep backing this founder."
+}

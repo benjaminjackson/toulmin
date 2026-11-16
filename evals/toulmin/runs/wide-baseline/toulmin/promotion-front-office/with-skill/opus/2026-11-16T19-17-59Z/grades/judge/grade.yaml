@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:18:52.037133+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 404
+  tags: []
+  notes: extracted 404 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 8
+    right_comparison: 5
+    qualification: 5
+    objections: 6
+    fit: 9
+  details:
+    agree: 'The GM already likes the writer, and the memo gives them a solid case:
+      seven weeks of doing the job, turnover nearly halved, a concrete budget plan
+      and a fair concession on the renovation, though it never shows why the writer
+      beats someone who ran a bigger desk.'
+    honest: The memo turns down the user's 'main reason' claim and admits the budget
+      gap, but 'people I hired' isn't in the brief, and 'while I ran the desk' stretches
+      7 weeks alone and 2 years as assistant to cover the full 18-month rise.
+    works_the_facts: "It turns the raw counts into 64% and 36% turnover and works\
+      \ out 25 versus 81 training shifts (5\xD75 against 9\xD79), then ties the saving\
+      \ to the payroll budget, all correctly derived from the brief."
+    right_comparison: It describes the outside hire only as a delay while that person
+      learns the hotel, and never weighs that candidate's larger-desk and possibly
+      budget experience, which is the comparison the GM is actually making.
+    qualification: The budget plan sets a six-month period of monthly reviews, but
+      'until you're satisfied' gives no figure to measure against and says nothing
+      about what happens if payroll runs over.
+    objections: It takes on the renovation objection by giving it part of the credit
+      and arguing that staffing matters too, and it covers the budget gap, but the
+      renovation answer is an assertion rather than evidence, and the outside candidate's
+      bigger-hotel experience goes unanswered.
+    fit: It is a tight one-page memo with clear sections and a direct request, which
+      matches the written application the GM asked for by Friday.

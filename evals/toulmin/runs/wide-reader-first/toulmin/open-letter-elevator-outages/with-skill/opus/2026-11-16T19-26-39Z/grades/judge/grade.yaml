@@ -1,0 +1,60 @@
+grader: judge
+graded: '2026-11-16T19:27:36.561345+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 427
+  tags: []
+  notes: extracted 427 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 7
+    objections: 8
+    fit: 8
+  details:
+    agree: The letter is calm and its asks are specific and doable, and the 74-of-112
+      figure undercuts her view that this is a few loud people, so she will likely
+      feel she has to answer in writing, though she may still give the second-elevator
+      request little weight.
+    honest: Every number comes from the brief, and the conversions hold up (one day
+      in eight so far this year, two in three households, five months since June);
+      the only additions are mild inferences such as 'safe when it runs' and the hypothetical
+      upper-floor resident with a walker.
+    works_the_facts: It turns the raw figures into stronger true forms (one day in
+      eight, two in every three households) and places the two identical six-to-eight-week
+      promises side by side, though it doesn't spell out what another outage like
+      August's would mean for the 29 vulnerable residents.
+    right_comparison: 'The alternative to acting is shown as the facts show it: frequent
+      outages and a part that has been ''six to eight weeks away'' since June, with
+      the passing certificate acknowledged rather than hidden, though there is no
+      trend data to draw on.'
+    qualification: The demands carry a checkable date (December 1) and ask management
+      to say what it will do if the part's delivery date is missed, but the letter
+      never says what the association will do if the December 1 deadline itself passes
+      without a reply.
+    objections: 'It meets her likely objections: the inspection (''it passed''), the
+      cost and feasibility of a second elevator (it asks for the reasoning, not a
+      reversal) and ''a few loud people'' (two-thirds of households signed), and it
+      raises nothing the facts already answer.'
+    fit: It is an open letter of about 430 words, close to the 400 asked for, signed
+      by the secretary and written to be posted in the lobby, though it doesn't account
+      for the plan to send it to the TV station.

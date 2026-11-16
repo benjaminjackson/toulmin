@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-08Z",
+  "without_skill_run": "2026-11-16T19-19-09Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B's bold claim headings make it quick to skim, and it links his mastitis work to what the program teaches, so a busy reader sees the case fast. Both letters add a little to the facts (for example, that nobody asked him to learn the software), and A also adds an unsupported claim about how he returned after his leave. That leaves B slightly ahead."
+}

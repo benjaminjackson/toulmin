@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-28-30Z",
+  "without_skill_run": "2026-11-16T19-19-20Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both speeches effectively address the traffic concerns head-on and leverage the speaker's credibility as a 19-year resident of Alder Road. However, Document A gives the hesitant commissioners a practical path to approval by suggesting a conditional review of the traffic signal, while avoiding Document B's slight overreach in guessing the specific professions of future residents."
+}

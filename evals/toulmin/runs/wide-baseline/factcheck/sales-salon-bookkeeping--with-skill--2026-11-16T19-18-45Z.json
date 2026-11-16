@@ -1,0 +1,21 @@
+{
+  "task": "sales-salon-bookkeeping",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-18-45Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "including the ones who'd been with me for years",
+      "why": "The brief mentions existing clients, but does not state how long they have been with the bookkeeper or that any have been clients for years."
+    },
+    {
+      "quote": "Nobody gets a special intro rate that goes up later.",
+      "why": "The brief does not state whether the bookkeeper offers promotional or introductory rates."
+    },
+    {
+      "quote": "Any other day, I'm the one who picks up.",
+      "why": "The brief only states that the bookkeeper does not answer the phone on Sundays or Mondays, not that they answer the phone every other day of the week."
+    }
+  ],
+  "invented_count": 3
+}

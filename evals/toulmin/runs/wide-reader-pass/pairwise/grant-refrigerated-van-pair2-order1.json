@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-28-03Z",
+  "without_skill_run": "2026-11-16T19-19-01Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both are honest, and neither repeats the unsupported claim that the van would double fresh food. B fixes the late-report problem I had to chase with a real process (deadlines on the board calendar, a named volunteer, and a board member who answers for each report), while A only promises dates. B's measurement plan, which also tracks offered food that still gets turned away, gives me more to take to the committee."
+}

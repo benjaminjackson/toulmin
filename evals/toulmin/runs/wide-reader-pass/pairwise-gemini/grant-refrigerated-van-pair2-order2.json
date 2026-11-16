@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-03Z",
+  "without_skill_run": "2026-11-16T19-19-01Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both documents wisely avoid the unrealistic claim of doubling fresh food and instead use the actual numbers from last summer, while also addressing the late 2023 report head-on. However, Document B wins because it stays strictly honest to the facts we have, whereas Document A invents specific board calendar and volunteer assignment procedures that weren't in the brief."
+}

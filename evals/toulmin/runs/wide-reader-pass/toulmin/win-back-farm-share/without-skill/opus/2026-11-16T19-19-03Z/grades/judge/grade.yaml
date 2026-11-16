@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:19:27.519256+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 175
+  tags: []
+  notes: extracted 175 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 5
+    objections: 6
+    fit: 9
+  details:
+    agree: The plain apology and the specific changes would soften this household,
+      but nothing promises they'll hear from the farm or be compensated if a storm
+      hits again, which is the reason they left.
+    honest: Every figure matches the brief, but 'so one storm can't take everything'
+      claims more than a second field proves, and 'planted' turns the brief's 'added'
+      into a claim about crops already in the ground.
+    works_the_facts: The email restates the numbers without working anything out from
+      them, such as the roughly $74 of produce the household lost (half of six weeks
+      at about $24.50 a week) or what two paused weeks would be worth in credit.
+    right_comparison: It contrasts this year with last year's response, but it doesn't
+      say that the nets cover only tomatoes and peppers, so it never shows what a
+      hail-hit box would look like next season.
+    qualification: The only firm condition is the March 15 deadline with 52 shares
+      left; the claim about storm protection has no hedge the reader could check,
+      such as how much of the crop now sits on the higher field.
+    objections: The apology admits the farm went quiet, but it doesn't commit to keeping
+      members informed or to giving credit for any future crop loss, and the pause
+      credit doesn't fix a thin box.
+    fit: It's a short, warm email under 200 words with a clear subject line, a call
+      to action and a sign-up link, as the brief asked.

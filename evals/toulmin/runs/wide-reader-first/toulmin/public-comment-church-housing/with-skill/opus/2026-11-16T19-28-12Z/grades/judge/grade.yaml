@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T19:29:03.472296+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 381
+  tags: []
+  notes: extracted 381 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 7
+    objections: 6
+    fit: 9
+  details:
+    agree: Opening on traffic, conceding the C-to-D drop and adding that the speaker
+      will pay that cost too, makes the speech credible to the two traffic-focused
+      commissioners, but it offers nothing that reduces the traffic, so opposing neighbours
+      and those commissioners get a trade-off to accept rather than a reason to stop
+      worrying.
+    honest: Every number matches the brief, but 'the people who live there will park
+      on that lot, not on our street' claims more than 72 spaces can guarantee, and
+      '64 families who stop waiting' assumes the tenants all come from the waiting
+      list.
+    works_the_facts: It works out that 64 homes is about one for every six households
+      on the 412-household list and that 72 spaces is more than one per home, but
+      it leaves the 310 trips as a raw daily total instead of breaking them down per
+      hour or per rush-hour period, which would have been their most favourable true
+      form.
+    right_comparison: 'It states the alternative plainly, as the facts show it: the
+      lot stays empty six days a week and the three-year wait stays where it is, and
+      it sets that against the rush-hour D.'
+    qualification: The speech makes no claim that depends on an uncertain future result,
+      and its one concession, that 64 homes doesn't close a gap of 2,100, needs no
+      checkable condition.
+    objections: It meets the traffic objection head-on and answers parking, which
+      neighbours are likely to raise, but its answer to traffic is to say the cost
+      is worth it, with no attempt to show the 310 trips are smaller than they sound.
+    fit: At roughly 400 words in short spoken sentences, with the speaker's stake
+      disclosed and a clear ask, it fits the three-minute public-comment format well.

@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:27:27.819397+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 186
+  tags: []
+  notes: extracted 186 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 4
+    objections: 5
+    fit: 9
+  details:
+    agree: The plain apology and the 'three weeks of food' admission would soften
+      this household, but it offers no make-good for last year and no promise about
+      what happens to their money or how they'll hear from the farm if the crop fails
+      again, so a wary member may still hold back.
+    honest: The facts match the brief and the three-week figure is correctly derived,
+      but 'making sure one storm can't do what last July's did' overstates what nets
+      over only tomatoes and peppers can guarantee.
+    works_the_facts: Turning six half-weeks into about three lost weeks is a good
+      derivation, but it stops short of the dollar value (about $74 of a $540 share)
+      or what $31,000 means per member.
+    right_comparison: It contrasts this season with last season but never says what
+      another storm would mean for a member now, and the pause credit is presented
+      as if it addressed crop loss, which it doesn't.
+    qualification: '''The nets don''t cover everything'' is honest but vague: it doesn''t
+      say which crops are exposed or what members would get if a storm hits again.'
+    objections: It meets the 'you went quiet' complaint with an apology, but it makes
+      no commitment to communicate or give credit during future shortfalls, which
+      is this reader's core objection.
+    fit: A clear, warm email under 200 words with a direct subject, a scannable list,
+      and the deadline and remaining shares placed at the call to action.

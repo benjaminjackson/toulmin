@@ -1,0 +1,21 @@
+{
+  "task": "sales-salon-bookkeeping",
+  "arm": "with-skill",
+  "run": "2026-11-16T19-27-24Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "including people who'd been with me for years",
+      "why": "The brief mentions existing clients, but does not state that any clients have been with the bookkeeper for years."
+    },
+    {
+      "quote": "so everyone pays the same",
+      "why": "The brief states the price was raised for everyone, including existing clients, but does not give this reason for raising it."
+    },
+    {
+      "quote": "If I'm going to be late, you'll hear it from me before the 10th, with the date your books will be ready.",
+      "why": "The brief states the bookkeeper missed the deadline three times last year, but mentions no policy of notifying clients in advance with a new completion date."
+    }
+  ],
+  "invented_count": 3
+}

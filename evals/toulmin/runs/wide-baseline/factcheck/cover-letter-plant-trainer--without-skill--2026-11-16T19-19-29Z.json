@@ -1,0 +1,29 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-19-29Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "It covers procedures, training, and how we check that students and staff follow them.",
+      "why": "The brief states that the applicant wrote the school's lab safety program, but does not state what specific components the program covers."
+    },
+    {
+      "quote": "often experienced teachers who are new to our labs",
+      "why": "The brief only describes the trainees as 'new science teachers' and does not say whether they are experienced teachers."
+    },
+    {
+      "quote": "by finding where students were getting stuck and redesigning instruction around those points",
+      "why": "The brief gives the increase in the AP Chemistry pass rate, but does not state the cause or method behind the increase."
+    },
+    {
+      "quote": "I'm already working to understand GMP documentation requirements.",
+      "why": "The brief only states that the applicant does not have experience with GMP training records, not that they are currently studying GMP documentation requirements."
+    },
+    {
+      "quote": "I've run my courses in Google Classroom for years",
+      "why": "The brief states that the applicant uses Google Classroom, but does not specify for how long."
+    }
+  ],
+  "invented_count": 5
+}

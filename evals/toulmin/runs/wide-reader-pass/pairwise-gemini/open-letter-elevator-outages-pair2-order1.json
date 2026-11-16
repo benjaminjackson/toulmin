@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-27-40Z",
+  "without_skill_run": "2026-11-16T19-18-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A makes measured, actionable requests—such as asking for the part's order confirmation and a written explanation for why a second elevator is impossible—while explicitly noting they will post my reply in the lobby, which pressures me to respond carefully. Document B overreaches by demanding we commission an independent engineering review and invent a date from the brief ('five months later'), which confirms my bias that the association is just a few unreasonable people."
+}

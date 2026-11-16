@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:20:44.357807+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 477
+  tags: []
+  notes: extracted 477 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 7
+    objections: 6
+    fit: 9
+  details:
+    agree: The direct admission about the late report, followed by a dated update,
+      plus a concrete 9,000-pound loss, gives Marisol good grounds to recommend yes,
+      though running costs and cold storage are left unanswered.
+    honest: It correctly drops the unsupported 'double' claim and does the seasonal
+      math right, but 'at least 9,000 more pounds' and 'produce farms have already
+      offered us' treat last summer's offer as if it were already promised for next
+      year.
+    works_the_facts: It derives the 3,000-pounds-a-month seasonal gain, the 50% rise,
+      about five pounds per household, the under-one-sixth fresh share and the more-than-a-quarter
+      match from the brief's numbers, though the per-household figure doesn't say
+      it applies only during the growing season.
+    right_comparison: 'The no-van scenario matches the facts: farms offer produce
+      again and the food bank turns down about 9,000 pounds, with no trend made up.'
+    qualification: The six-month update measured against a 6,000-pound baseline and
+      a 9,000-pound target can be checked, but if the food bank is behind, it only
+      promises an explanation and changes, not a specific remedy.
+    objections: It meets the late-report objection head-on and shows that drivers
+      are covered, but Marisol will still ask how the van's fuel, insurance and upkeep
+      get paid once reserves fall to $11,000, and where the food stays cold after
+      unloading, a gap the narrative raises itself by saying they had 'nowhere to
+      keep it cold.'
+    fit: It is a headed project narrative of roughly 490 words, within the 500-word
+      limit.

@@ -1,0 +1,38 @@
+I've drafted the letter below. There were three judgement calls, since I couldn't check them with you:
+
+- **I mentioned the five weeks away, briefly.** Saying "two missed shifts in three years" on its own would leave out the five weeks. Then the letter would be misleading, and that could come back on you if the college ever asks. Put next to his father's illness, the absence reads as a family emergency, not a reliability problem. I left out the two days' notice: in an emergency it's understandable, and the committee doesn't need it.
+- **I included the written English, with the night class as the answer.** The committee will probably notice it in his application anyway. It's better coming from you along with the fact that he's already working on it. If you'd rather leave it out, delete the fifth paragraph and the letter still holds together.
+- **I didn't make up any results.** I left out cost savings, cows saved, or anything the vet said about him, because you didn't give me those. If you have details like that, they'd strengthen the mastitis paragraph. For example, whether all nine cows went back to the milking string, or what your vet thinks of his flags.
+
+Replace the bracketed items with your details. It's about 380 words, so it fits on one page with a letterhead.
+
+<final_document>
+[Farm Name]
+[Address]
+[Phone] · [Email]
+
+[Date]
+
+Admissions Committee
+Agricultural Technology Program
+[State Technical College]
+
+Dear Admissions Committee,
+
+I am the manager of [Farm Name], a 400-cow dairy, and I recommend Tomás [Last Name] for your two-year Agricultural Technology program without reservation. Tomás has worked for us for three years, since he was 19. In that time he has gone from learning the basics to doing work I trust to very few people.
+
+For the past [length of time], Tomás has run our 3 a.m. milking shift on his own, five days a week. Nobody is there to check his work at that hour. The cows get milked on time, the equipment gets cleaned, and problems get reported, all because he does it right. Apart from five weeks last summer, when he went home to Mexico because his father was seriously ill, he has missed two shifts in three years.
+
+What makes me think he belongs in your program is what he has done beyond the milking. Tomás taught himself our herd management software. He now uses it with what he sees in the parlor to flag sick cows for our veterinarian. Last winter he caught nine cases of mastitis early. Early treatment makes a real difference to recovery and to milk loss. He is using data to make decisions about animal health, and that is the kind of work your program trains people for.
+
+I should be honest about one thing. Tomás's spoken English is strong, but his written English is still developing. He knows this, and he signed up for a night class to work on it while still working his full schedule. He picked up our software without any formal training, so I expect him to handle coursework the same way.
+
+Tomás has already shown he can do the hands-on side of dairy work and is ready for the technical side. A program like yours would turn what he has taught himself into real training. I think he will make the most of it, and the industry needs more people like him.
+
+Please contact me at [phone] or [email] if you have any questions.
+
+Sincerely,
+
+[Your Name]
+Farm Manager, [Farm Name]
+</final_document>

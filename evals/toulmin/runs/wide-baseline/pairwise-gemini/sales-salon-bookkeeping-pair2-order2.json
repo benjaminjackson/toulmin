@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-18-45Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A immediately speaks to my Sunday night stress of sorting tips and booth rent, and it points out that Sunday and Monday are salon days off too, which makes me feel like this person truly gets my life. Also, Document B stays honest to the brief by mentioning the recent price hike from $149 to $199, which honestly makes the $2,400/year price tag sting even more compared to the $600 I pay my cousin."
+}

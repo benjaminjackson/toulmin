@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-03Z",
+  "without_skill_run": "2026-11-16T19-19-01Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both are honest and drop the 'double' claim. B speaks to my main worry early and with dated commitments: an interim pounds report within 30 days after the first summer's pickups end, then a final report on time. That gives me an early check rather than another four months of chasing. A's plan (a named volunteer and a board member) is also solid, so the gap is small."
+}

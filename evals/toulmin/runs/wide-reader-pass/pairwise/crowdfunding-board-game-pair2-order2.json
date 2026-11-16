@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-50Z",
+  "without_skill_run": "2026-11-16T19-18-43Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a wary backer, I trust B more: it admits 23 ratings isn't many, shows the budget math (about 572 backers, roughly $5,450 left over) and commits to monthly updates. A overstates its testing ('hundreds of tables', 'four winters'), makes a no-pay claim I can't check, and still has unfilled placeholder brackets."
+}

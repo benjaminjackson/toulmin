@@ -1,0 +1,21 @@
+{
+  "task": "sales-salon-bookkeeping",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-18-47Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "no add-on fees",
+      "why": "The brief states that the bookkeeper charges $199 a month, but does not say whether there are any add-on fees."
+    },
+    {
+      "quote": "clients who've been with me for years",
+      "why": "The brief mentions existing clients and events from last year, but does not state that any clients have been with the bookkeeper for years."
+    },
+    {
+      "quote": "Those are my days off",
+      "why": "The brief only says that the bookkeeper doesn't answer the phone on Sundays or Mondays, not that they are days off from work altogether."
+    }
+  ],
+  "invented_count": 3
+}

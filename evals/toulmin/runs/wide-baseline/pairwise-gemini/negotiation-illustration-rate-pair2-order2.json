@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-18-41Z",
+  "without_skill_run": "2026-11-16T19-18-33Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both emails make a solid, honest case, but Document B adds a subtle implication that a lower fee might compromise the 'time and care' she gives our books, and brings up her monthly income in a slightly guilt-inducing way. Document A is slightly more professional and leaves a warmer impression in the closing paragraphs, which matters when I have a cheaper illustrator waiting in the wings."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-27-36Z",
+  "without_skill_run": "2026-11-16T19-18-48Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A tells the room up front that the speaker belongs to the church. It also gives the two traffic-focused commissioners a concrete way to say yes: approve the homes and add a condition to fix Alder and 4th. B reads more warmly, but some of its claims go beyond the facts given, such as calling the delay 'a few extra seconds' and saying residents 'will park on the site, not on our street', and skeptical neighbours may find that dismissive."
+}

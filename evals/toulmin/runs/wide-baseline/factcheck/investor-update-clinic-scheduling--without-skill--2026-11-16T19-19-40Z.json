@@ -1,0 +1,29 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-19-40Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Q3 update",
+      "why": "The brief states that this is a quarterly update, but it does not specify that it is for Q3."
+    },
+    {
+      "quote": "It's also the clearest proof we have that we deliver something the bundled schedulers don't.",
+      "why": "The brief does not mention what features bundled schedulers have or whether they lack automatic text reminders."
+    },
+    {
+      "quote": "A clinic doesn't have to give up its existing scheduler to buy it, including the scheduler in its records system, which is the one we just lost a customer to.",
+      "why": "The brief says the reminder feature will be sold on its own, but does not state that it can work alongside an existing scheduler or integrate with an electronic records system."
+    },
+    {
+      "quote": "whether any of them went on to buy the full scheduler.",
+      "why": "The brief does not state that the standalone reminder feature is intended to be an upsell path to the full scheduler."
+    },
+    {
+      "quote": "especially groups of 3 to 15 clinics.",
+      "why": "The brief does not specify a target customer size of 3 to 15 clinics."
+    }
+  ],
+  "invented_count": 5
+}

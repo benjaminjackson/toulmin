@@ -1,0 +1,65 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-18-43Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The Long Dark Season: Keep the Light Burning",
+      "why": "The brief does not give a title or subtitle for the board game."
+    },
+    {
+      "quote": "The supply boat won't come again until spring. The oil has to last, the children have to eat, and ships need the light every night.",
+      "why": "The brief only states that the game is about seeing a lighthouse keeper's family through a winter, without mentioning supply boats, oil, children, or ships."
+    },
+    {
+      "quote": "on an island at the edge of the map.",
+      "why": "The brief does not specify that the lighthouse is located on an island."
+    },
+    {
+      "quote": "Each turn you decide what gets done today and what has to wait: fixing the lamp, rationing the stores, caring for someone who's sick, or going out in the storm.",
+      "why": "The brief does not describe the turn structure, daily actions, or specific tasks in the game."
+    },
+    {
+      "quote": "No two winters play out the same, and the hardest choices often have nothing to do with the light.",
+      "why": "The brief gives no details about replayability or the nature of the choices in the game."
+    },
+    {
+      "quote": "Tested at hundreds of tables, one game at a time",
+      "why": "The brief states there were 140 playtest sessions, which is not hundreds."
+    },
+    {
+      "quote": "families, first-timers, longtime hobby gamers and solo players.",
+      "why": "The brief states that about 60 different people playtested the game, but gives no demographic or experience details about them."
+    },
+    {
+      "quote": "Every session changed something.",
+      "why": "The brief does not state that changes were made after every playtest session."
+    },
+    {
+      "quote": "to see how strangers reacted.",
+      "why": "The brief states the creator took the game to two conventions, but does not state the reason why."
+    },
+    {
+      "quote": "The rest: platform and payment fees, plus a reserve for freight and surprises",
+      "why": "The brief does not state that the remainder of the funding goal after manufacturing and shipping is allocated to platform fees, payment fees, freight, or a reserve."
+    },
+    {
+      "quote": "It doesn't include any pay for me.",
+      "why": "The brief does not mention whether the creator is taking any pay from the campaign funds."
+    },
+    {
+      "quote": "If we go past the goal, the extra money gives the project a safety margin before any stretch goals.",
+      "why": "The brief mentions nothing about stretch goals or how overfunding will be used."
+    },
+    {
+      "quote": "To lower that risk, I locked in the manufacturing quote before launch, budgeted shipping per copy, and built a reserve into the goal.",
+      "why": "The brief states the creator has a factory quote and a shipping cost estimate, but does not state the quote is locked in or that a reserve was built into the goal to lower risk."
+    },
+    {
+      "quote": "This game has been through four winters of playtesting.",
+      "why": "The brief only says playtesting has happened since 2023, not that it has spanned four winters."
+    }
+  ],
+  "invented_count": 14
+}

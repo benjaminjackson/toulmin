@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-19-47Z",
+  "without_skill_run": "2026-11-16T19-19-20Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B gives traffic-focused commissioners more to work with. It explains that a D rating means extra waiting, not a failing intersection. It shows the scale with 'one in six families on the list', and it makes the cost of denial concrete. A's up-front honesty about traffic is respectful, but it mostly asks the room to accept the cost rather than putting it in context."
+}

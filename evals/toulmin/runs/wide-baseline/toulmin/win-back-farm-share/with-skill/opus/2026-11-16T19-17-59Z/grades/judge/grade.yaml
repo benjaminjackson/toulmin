@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T19:18:51.189027+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 184
+  tags: []
+  notes: extracted 184 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 4
+    objections: 6
+    fit: 9
+  details:
+    agree: The direct apology and concrete changes would win back some of these lapsed
+      members, but a reader who lost about half of six boxes gets no make-good, and
+      nothing promises credit if hail hits again, so a sceptical household may still
+      hold back.
+    honest: Every figure matches the brief and the hail nets are correctly limited
+      to tomatoes and peppers, but 'you'll hear from me quickly and in full' is a
+      promise the brief doesn't contain, and listing the unchanged price under 'we've
+      changed how shares work' overstates it slightly.
+    works_the_facts: The facts are restated but nothing is worked out from them, such
+      as the roughly $74 of value each member lost (half of 6 of 22 weeks at $540),
+      or that 52 shares left of 260 means places are going.
+    right_comparison: It sets last year's single exposed field against the second
+      field and nets, but it never compares this with the reader's real alternative
+      of not rejoining, and it doesn't make clear that crops outside the nets are
+      still exposed.
+    qualification: The only hedge, 'if something goes wrong again,' leaves out what
+      happens to box size or credit after another crop loss, which is the one thing
+      this reader most needs to be able to check.
+    objections: It meets the 'went quiet' complaint head-on with a clear apology and
+      a promise to communicate, but it doesn't answer the money objection (no refund,
+      and no crop-loss credit in future), and the pause credit doesn't actually address
+      that.
+    fit: It's a short, warm email under 200 words with a clear deadline and call to
+      action, which is what the brief asked for.

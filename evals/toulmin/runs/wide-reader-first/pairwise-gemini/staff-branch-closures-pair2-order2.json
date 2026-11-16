@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-27-32Z",
+  "without_skill_run": "2026-11-16T19-18-40Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document B loses credibility in the very first sentence by claiming we're hearing this from the COO first when rumours have been flying for two weeks, and it creates extra anxiety by failing to mention where the new center will be located. Document A is much better because it provides a placeholder for the location, addresses our biggest fear by promising to show us how the shift rotation works before we have to decide, and doesn't make us wait for an unscheduled manager meeting just to find out the decision deadline."
+}

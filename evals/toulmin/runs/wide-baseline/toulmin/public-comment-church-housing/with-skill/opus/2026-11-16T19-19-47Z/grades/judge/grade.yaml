@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:20:26.335209+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 401
+  tags: []
+  notes: extracted 401 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 6
+    right_comparison: 7
+    objections: 7
+    fit: 8
+  details:
+    agree: Speaking as a neighbour who will sit at the same light makes the case credible
+      to the two traffic-focused commissioners, but the traffic answer is mostly reassurance
+      and gives them little concrete to hold onto, so opposed neighbours are unlikely
+      to move.
+    honest: 'Most figures are exact, but some claims go past the brief: ''every household
+      gets a space'' and ''these cars won''t be pushed onto our street'' overstate
+      a 72-for-64 ratio, it assumes all 64 units go to households on the waiting list,
+      and the meaning of a D rating comes from outside the brief.'
+    works_the_facts: It works out the one-in-six share of the waiting list and the
+      eight spare spaces, but it never breaks the 310 trips down per unit or per rush
+      hour, which would have shown the traffic impact in its smallest true form.
+    right_comparison: 'It sets the choice out clearly: approve, and drivers wait a
+      little longer at one intersection; deny, and the lot stays empty while 412 households
+      keep waiting for years. Both sides come straight from the brief''s facts.'
+    qualification: A three-minute advocacy statement with no forecast or commitment
+      that depends on a condition doesn't need a checkable hedge.
+    objections: It takes on the traffic objection directly and concedes the C-to-D
+      drop instead of dodging it, and it settles parking with the brief's own numbers,
+      though the traffic answer depends on the speaker's say-so more than on figures.
+    fit: At about 430 words it fits a three-minute public comment, with a proper greeting,
+      the speaker's standing stated, a clear ask and a close.

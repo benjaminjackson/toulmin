@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T19:27:41.953693+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 442
+  tags: []
+  notes: extracted 442 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 7
+    objections: 7
+    fit: 9
+  details:
+    agree: Because the memo gives the renovation real credit, a GM who already believes
+      the renovation drove the scores is more likely to trust the turnover and training
+      claims, though the bigger-hotel candidate is never really countered.
+    honest: It drops the brief's request to claim the score rise as mainly the writer's
+      doing and invents no numbers, but "almost half the time" misstates 5 of 9 shifts
+      (about 56%, so the training is really cut by about 44%), and "I built the team"
+      goes a bit beyond the facts.
+    works_the_facts: It works out four fewer leavers and four fewer training shifts
+      per hire, but it never turns turnover into rates (64% to 36%) or shows the yearly
+      saving (about 81 training shifts down to 25), which would be the strongest true
+      version of the payroll point.
+    right_comparison: The before-and-after for turnover and training is accurate,
+      but the outside hire is described only as someone who "would need months to
+      learn" the hotel, with nothing about their experience running a larger front
+      desk.
+    qualification: 'The budget plan can be checked: a 90-day line-by-line review,
+      monthly labor-cost reports and a written explanation for any overrun, but the
+      only consequence of going over budget is an explanation, and no target number
+      is named.'
+    objections: It deals directly with the renovation doubt and the missing budget
+      experience, but it leaves the outside candidate's larger-hotel experience unanswered,
+      which is the GM's other main reservation.
+    fit: It's a short, one-page memo with clear headings, which suits a written application
+      due to the GM by Friday.

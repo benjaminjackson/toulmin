@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-17-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both emails smartly drop the false claim that every other publisher pays $12,000, while Document A avoids slightly inflating the facts like claiming the work is 'full-time.' However, Document B is slightly more persuasive because explicitly pointing out that $9,000 over four months is only $2,250 a month gives me concrete ammunition to take to my publisher to justify stretching our budget."
+}

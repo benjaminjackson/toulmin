@@ -1,0 +1,51 @@
+grader: judge
+graded: '2026-11-16T19:19:46.651965+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 189
+  tags: []
+  notes: extracted 189 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 5
+    honest: 7
+    works_the_facts: 4
+    right_comparison: 4
+    objections: 4
+    fit: 8
+  details:
+    agree: A warm, specific ask with real sales and reading-list credit might move
+      a fond editor partway, but nothing helps them justify $2,500 over budget when
+      an $8,000 option exists.
+    honest: It rightly drops the unsupported claim that every other publisher pays
+      at least $12,000, but "the rest of the market has also moved" asserts a trend
+      the brief never shows.
+    works_the_facts: The four months per book is mentioned but never turned into a
+      figure (about $2,250 a month now, about $2,875 at $11,500), and it never notes
+      that the fee has stayed flat across six books while the ask sits $1,000 under
+      the $12,500 she was paid elsewhere.
+    right_comparison: It sets her fee against outside market rates, but the editor's
+      real alternative is a cheaper, unproven illustrator, and the letter never frames
+      her sales record as what the publisher would give up.
+    qualification: A direct fee request needs no conditional hedge, and none is used.
+    objections: 'The editor''s main objections, a fixed $9,000 budget and a cheaper
+      option, go unanswered: there''s no case for the sales value of her books and
+      no fallback figure or timeline.'
+    fit: It's a properly formatted email of about 200 words, under the 250-word limit,
+      with a clear subject line and a polite, collegial tone.

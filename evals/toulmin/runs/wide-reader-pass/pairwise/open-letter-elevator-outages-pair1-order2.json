@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-18-00Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B states its asks at the start, and they are small and concrete: a posted outage notice and a help line that someone answers. Its point that the inspection certificate doesn't show how often the elevator runs is hard for me to dismiss. A adds things that aren't in the facts, such as 'no explanation for the delay', the fire-danger and small-children claims, and the petition being 'earlier this year', and I could use those to write it off as exaggeration."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-20-44Z",
+  "without_skill_run": "2026-11-16T19-20-01Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Both stay honest and drop the 'double' claim. B speaks to my main worry: it names who will handle reporting, puts the due dates on the board calendar, and promises quarterly updates so the final report only sums up numbers I've already seen, while A leaves that fix as a bracketed placeholder."
+}

@@ -1,0 +1,35 @@
+I've drafted the letter below. The reader is an admissions committee deciding whether Tomás will finish a two-year program. So the letter puts his reliability and the vet work first, and it deals with the two things they might worry about.
+
+- **The five-week absence:** I included it. The letter says he missed two shifts in three years, and leaving out the five weeks would make that sound better than it was. I gave it one sentence, explained the reason, and said he's still running the shift. I left out that he gave you two days' notice. That matters to you as his employer, but the committee doesn't need it to judge him as a student.
+- **Written English:** His application essay may show it, so the letter says it plainly. It also points out that he's taking a night class on top of a 3 a.m. shift, which works in his favour.
+
+**You need to fill in:** Tomás's surname, the farm's name, your name, and a phone number or email.
+
+**One addition to consider:** If you plan to keep him on, or to adjust his hours while he's in the program, say so in one sentence. It would answer whether he can afford to stay enrolled, which the committee may wonder about. I didn't include it because you didn't mention it.
+
+<final_document>
+November 16, 2026
+
+Admissions Committee
+Agricultural Technology Program
+[State Technical College]
+
+Dear Admissions Committee,
+
+I am writing to recommend Tomás [Surname] for your two-year Agricultural Technology program. I manage [Farm Name], a 400-cow dairy. Tomás has worked for me for three years, since he was 19, and I recommend him without reservation.
+
+He runs our 3 a.m. milking shift on his own, five days a week. No one is there to supervise him at that hour. I trust him with the herd during it, and he has earned that trust.
+
+He has also gone beyond what the job asked of him. He learned our herd management software and now uses it to flag sick cows for our veterinarian. Last winter he caught nine cases of mastitis early, when it is easiest to treat. That is the kind of work your program trains people to do, and he is already doing it with on-the-job training alone.
+
+He is dependable. In three years he has missed two shifts. The one long absence was five weeks last summer, when he went home to Mexico because his father was seriously ill. He came back, and he is still running our 3 a.m. shift today.
+
+You should know that his written English is not yet as strong as his spoken English. He knows it, and he is doing something about it: he is taking a night English class, on top of a work day that starts at 3 a.m. That tells you how he will approach the coursework.
+
+Tomás already understands the work behind your courses. What he needs now is the training to take it further. I hope you will admit him. If you would like to talk about him, please call me at [phone number] or email me at [email address].
+
+Sincerely,
+
+[Your Name]
+Farm Manager, [Farm Name]
+</final_document>

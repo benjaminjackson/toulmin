@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-17-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Since my cousin only does my taxes once a year, I'm reading this because I'm tired of handling the ongoing payroll, sales tax, and receipts myself. Document B hooks me right away by naming the exact salon headaches I deal with (tips, commissions, retail), whereas Document A stays faithful to all the facts in the brief—including the recent price increase that B left out—and turns that price jump into impressive proof that salon owners value this service enough to stay even when the cost goes up."
+}

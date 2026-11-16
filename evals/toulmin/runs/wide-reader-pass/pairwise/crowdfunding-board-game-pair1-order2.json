@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-26-39Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a backer who has lost money before, I'd trust B more: it gives the real factory quote, the per-copy shipping cost and the math behind the $28,000 goal, and it names the usual reason first-time projects fail. A only says the numbers exist and leaves a placeholder where the cost breakdown should be, so it reads like a promise."
+}

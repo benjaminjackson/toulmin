@@ -1,0 +1,60 @@
+I wrote the narrative, but I didn't use the claim that the van will double your fresh food in the first year. Your own figures don't support it, and I think a reviewer would notice.
+
+**Why the doubling claim doesn't hold up**
+
+- **What it says:** you now give out about 6,000 lb of fresh food a month, or about 72,000 lb a year. Doubling means about 72,000 lb *more* a year.
+- **What your facts support:** the food you know you could get is the 9,000 lb the farms offered last summer. That's an increase of about one-eighth over a year (72,000 to 81,000 lb).
+- **What a reviewer would say:** "Where do the other 63,000 lb come from?" Nothing in your facts answers that. The foundation also remembers the late report. If you promise double and report about 12% more, you'd be explaining a shortfall on your second grant with them.
+
+**What I wrote instead**
+
+The narrative puts the 9,000 lb in its strongest true form. Over those three summer months, it is **half again as much fresh food** as you usually hand out, or about **15 more pounds per household**. It calls the yearly figure a floor and sets a first-summer target of 9,000 lb that the foundation can check. To keep "double," you'd need named sources for roughly 63,000 more lb a year, such as written commitments from farms or grocers. I'd only use the word with those in hand.
+
+**Other choices I made**
+
+- **The late report comes up before the ask.** The narrative admits it plainly and commits to two dated reports. **You need to confirm this commitment:** a short update within 30 days after the first summer's pickups end, and the final report by the foundation's due date.
+- **The reserves are stated openly.** The narrative says the $18,000 leaves you with $11,000. The foundation will see this in your budget anyway, and saying it shows how committed you are.
+
+**Still missing**
+
+- **Running costs.** A reviewer will ask how you'll pay for insurance, fuel and maintenance with $11,000 in reserve. You didn't give me those figures, so the narrative doesn't cover them. Add a sentence with the yearly cost and where the money comes from. It fits within the 500 words.
+- **Two lines to check:**
+  - The line saying the van will let you accept cold donations at other times of year. It's true of the van, but cut it if you don't expect any.
+  - The 18,000 lb summer figure. It assumes summer months match your 6,000 lb monthly average.
+- **Your food bank's name.** Add it wherever the form needs it.
+
+The narrative is about 430 words.
+
+<final_document>
+**Project Narrative: A Refrigerated Van for Fresh Food**
+
+Last summer, local farms offered us about 9,000 pounds of fresh produce over three months. We had to turn all of it down, because we had no way to pick it up cold or keep it cold. A refrigerated van would let us say yes.
+
+**Who we are**
+
+We are an all-volunteer food bank serving a town of about 9,000 people. Each month we hand out about 38,000 pounds of food to 610 households. About 6,000 pounds of that is fresh produce, milk and eggs, roughly one pound in six. Last summer showed that what limits our fresh food is equipment, not supply.
+
+**Our record with the Foundation**
+
+In 2023 the Foundation gave us $12,000 for shelving. Our final report on that grant was four months late. That should not have happened. For this grant we commit to two reports: a short report on pounds collected, within 30 days after the first summer's pickups end, and a final report on or before the Foundation's due date.
+
+**What the van will do**
+
+At our usual 6,000 pounds a month, three summer months of fresh food comes to about 18,000 pounds. The 9,000 pounds we were offered would have added half again as much, or about 15 more pounds of fresh food for every household we serve.
+
+Over a full year, that raises our fresh food from about 72,000 to about 81,000 pounds. We treat that as a floor, because it counts only the farm offers we have already received and had to refuse. With cold transport in place, we will also be able to accept cold donations at other times of year.
+
+Four of our 23 regular volunteers have committed to driving the van on a weekly schedule, so pickups will not depend on any one person.
+
+**Our request and our share**
+
+The van costs $68,000. We ask the Foundation for $50,000. We will cover the remaining $18,000, more than a quarter of the cost, from our own reserves. That brings our reserves down to $11,000. We are willing to do that because the food is already being offered to us, and we are already turning it away.
+
+**How we will measure it**
+
+We will weigh and log every load the van brings in. Our target for the first summer is 9,000 pounds of farm produce, the amount offered to us last year. Our report will give the actual figure against that target.
+
+**If the van is not funded**
+
+Next summer will go the way last summer did. The farms will offer, and we will have to say no.
+</final_document>

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-28-05Z",
+  "without_skill_run": "2026-11-16T19-19-18Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "A feels warmer and more salon-specific. The line about Sundays and Mondays ('I'm guessing they're yours too') and the promise that every salon pays the same price make me trust her enough to book a call, even though $199 a month is far more than my cousin charges. B puts that price in the opening lines, before I care, and it reads more like a list."
+}

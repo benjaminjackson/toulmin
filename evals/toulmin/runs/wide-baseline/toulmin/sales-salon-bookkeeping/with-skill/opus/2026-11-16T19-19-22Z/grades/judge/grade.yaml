@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T19:19:59.532490+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 369
+  tags: []
+  notes: extracted 369 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 4
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 6
+    objections: 3
+    fit: 8
+  details:
+    agree: The page reads as candid and specialist, but this owner pays her cousin
+      $600 a year and will see $199 a month as roughly four times that, and nothing
+      here persuades her the extra is worth it.
+    honest: 'The numbers are faithful to the brief and the missed deadlines are owned
+      up to, but some claims go beyond the facts: the specifics about booth rent,
+      tips and commission, and the promise that the team gets paid "correctly and
+      on time".'
+    works_the_facts: It works out that 9 of 12 months were on time, but it never states
+      the annual cost ($2,388), never sets the $800 saving against that cost, and
+      never frames the client data as 29 of 31 staying, with no one leaving except
+      owners who sold.
+    right_comparison: 'The alternatives it describes are doing the books yourself
+      or handing over a shoebox, not this reader''s actual situation: a relative who
+      does a year-end catch-up cheaply and doesn''t handle monthly payroll or sales
+      tax.'
+    qualification: The 10th-of-the-month deadline and the 3 misses are concrete and
+      checkable, and so are the Sunday/Monday hours, but it never says what happens
+      to the client when a close is late.
+    objections: Price compared with what she pays now, and her loyalty to someone
+      she likes, are the obvious objections, and neither is addressed. The space goes
+      instead to the price-rise backstory, which a new prospect has no reason to worry
+      about.
+    fit: It is sales-page copy with clear sections and a booking button at the end,
+      at about 380 words, slightly over the ~350 asked for.

@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T19:27:39.118620+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 516
+  tags: []
+  notes: extracted 516 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 5
+    objections: 7
+    fit: 8
+  details:
+    agree: For a wary backer, the open budget, the plain admission that 23 ratings
+      is a small number, and the monthly-update promise build real trust, but the
+      pitch gives no delivery date, which a backer who once lost $85 will look for
+      first.
+    honest: The pitch rightly drops the brief's 'proven hit' claim and every figure
+      matches the brief, though calling the 60 testers 'strangers' and promising that
+      nobody is charged if the goal is missed go a little beyond the facts given.
+    works_the_facts: 'It works out sensible figures from the brief: $11.60 a copy,
+      572 backers to reach the goal, about $5,150 in shipping, and about $5,450 left
+      over. It skips other telling numbers, such as 572 being about 46% of the 1,240
+      sign-ups, and it never says what happens to the roughly 928 copies no backer
+      has paid for.'
+    right_comparison: 'The alternative is put accurately: if the campaign falls short,
+      nobody pays and the game stays a prototype. It doesn''t compare the goal with
+      the warm audience already signed up beyond giving the two raw numbers.'
+    qualification: The monthly update on the 1st is a commitment a backer can check,
+      but there is no delivery date to measure slips against. The 'buffer for the
+      unexpected' is never separated from platform fees or given a size, so it's hard
+      to tell whether it is meaningful.
+    objections: The worry about a first-time creator is met head-on with the factory
+      quote and a budget the reader can check, but the pitch doesn't say whether the
+      quote is still valid, what happens if costs rise, or when the game will arrive.
+    fit: It is a crowdfunding pitch of about 530 words with clear calls to action,
+      close to the 500 words the brief asked for, and it sensibly drops the 'proven
+      hit' framing that the facts don't support.

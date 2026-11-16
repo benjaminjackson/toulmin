@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:20:30.490752+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 408
+  tags: []
+  notes: extracted 408 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 8
+    right_comparison: 5
+    qualification: 5
+    objections: 6
+    fit: 9
+  details:
+    agree: The turnover and training figures and the budget proposal give the GM real
+      reasons to take the writer seriously, but a GM who credits the renovation will
+      see the check-in argument as a stretch, and the outside candidate's larger-hotel
+      experience is never addressed.
+    honest: 'The memo rightly drops the ''main reason'' claim, but it adds things
+      the brief doesn''t support: overtime savings, ''without a gap'', staff ''hired,
+      trained and kept by the system I built'', and ''stable for the first time in
+      years''.'
+    works_the_facts: The turnover percentages, 'four fewer departures' and 81-to-25
+      training shifts are well derived and put in their best light, though the shift
+      figure quietly assumes each departure was replaced by exactly one new hire.
+    right_comparison: The outside hire is described only as someone who would need
+      months to learn the hotel, with nothing on the experience that makes that candidate
+      a real alternative, such as running a bigger desk or possibly a budget.
+    qualification: The two-quarter monthly payroll review is concrete and the GM can
+      check it, but it sets no budget-variance threshold and says nothing about what
+      happens if the writer misses it.
+    objections: The budget gap and the renovation are both faced directly, but the
+      renovation answer just restates the claim, and the outside candidate's larger-hotel
+      background goes unanswered.
+    fit: It's a one-page memo dated for Friday, as the brief asked for.

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T19-19-47Z",
+  "without_skill_run": "2026-11-16T19-19-20Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A immediately addresses the primary concern in the room—traffic on Alder Road—which earns credibility right away with both the skeptical commissioners and the neighbors. It also makes the three-year wait list feel concrete and human without inventing facts outside the brief, whereas Document B assumes the apartments will go directly to people on the housing authority waiting list."
+}

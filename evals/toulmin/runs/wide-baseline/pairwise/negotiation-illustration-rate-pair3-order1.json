@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-19-13Z",
+  "without_skill_run": "2026-11-16T19-18-58Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both are honest, warm and specific, and neither repeats the unsupported claim that every publisher pays $12,000. B reads a little more cleanly: it presents $11,500 as the low end of the range and asks for a call this week. A's line linking four months of work to earning below the rate is muddled."
+}
