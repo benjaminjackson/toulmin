@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-24-13Z",
+  "without_skill_run": "2026-11-16T20-04-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is a finished letter with real names, the vet's $8,000 savings figure, a concrete promise to keep his weekend job open, and a phone number for follow-up, so I can trust it and act on it. B still has bracketed placeholders and no contact details, and it states fewer concrete facts, so it reads like a template rather than a letter I can rely on."
+}

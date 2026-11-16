@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-23-24Z",
+  "without_skill_run": "2026-11-16T20-01-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks directly to my doubts about regulated plants: it has signed training records that passed two state audits, a measured cut in training time from 20 hours to 12, and a GMP course she's already enrolled in. A is a generic template addressed to '[Hiring Manager Name]' that only claims she has the right habits, without evidence I could check."
+}

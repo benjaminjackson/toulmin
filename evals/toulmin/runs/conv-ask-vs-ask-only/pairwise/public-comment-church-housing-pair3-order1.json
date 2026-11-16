@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-15-17Z",
+  "without_skill_run": "2026-11-16T20-23-23Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A is more candid about traffic: it admits it can't promise nothing will change, and it offers neighbours something concrete with the written weekday parking commitment. Both would carry weight with a skeptical room. B's choice to open with traffic suits the commissioners' main concern, but it leaves out the parking offer and A's admission."
+}

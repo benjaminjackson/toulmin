@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-13-02Z",
+  "without_skill_run": "2026-11-16T20-21-45Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is more likely to get me to act. It offers something in return: a list of residents who need help in emergencies and a meeting on any weekday evening. It also admits I may be right about the second elevator, so it reads like reasonable people I can work with rather than a few loud complainers. Document B makes demands, points to the TV coverage as pressure and offers nothing back, which makes it easier for me to wave away. Its 'From: The residents' line slightly overstates who A speaks for, though it is signed on behalf of the association."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-22-36Z",
+  "without_skill_run": "2026-11-16T20-03-03Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B names me and the book, explains plainly why $9,000 no longer works, and asks me to take it for approval, so I can act on it right away. A has unfilled placeholders and reads more like a template. Neither email offers the deadline commitment or the free spot drawings, so B's stronger framing is the deciding factor."
+}

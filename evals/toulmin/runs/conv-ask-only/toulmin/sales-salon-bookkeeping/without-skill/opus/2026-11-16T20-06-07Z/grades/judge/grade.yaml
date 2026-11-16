@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:06:39.224833+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 345
+  tags: []
+  notes: extracted 345 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 3
+    honest: 7
+    works_the_facts: 4
+    right_comparison: 2
+    qualification: 3
+    objections: 2
+    fit: 8
+  details:
+    agree: A four-chair owner who pays her cousin $600 a year sees $199 a month (about
+      $2,388 a year) and nothing telling her she can keep him for her taxes, so she
+      probably won't book the call.
+    honest: The figures match the brief and the 9-of-12 close record is stated plainly,
+      but 'most bookkeepers have to learn how salons work on your dime' and 'paid
+      correctly and on time' are claims the brief doesn't support.
+    works_the_facts: 'It repeats the numbers without working them: it never says that
+      9 of 31 clients, nearly a third, paid their accountant less, never calls 29
+      of 31 a 94% retention rate with no client leaving unhappy, and never sets the
+      $800 saving against the yearly cost.'
+    right_comparison: The reader's actual alternative is a once-a-year tax-time bookkeeper
+      for $600, but the page compares itself only to vague 'most bookkeepers' and
+      'account teams' that she doesn't use.
+    qualification: The 10th-of-the-month target and the accountant-savings hedge have
+      no consequence attached, even though a free month for any missed close and 30-day
+      no-contract cancellation were available and are exactly the checkable commitments
+      needed.
+    objections: Her main objections, price against the $600 and loyalty to her cousin,
+      are never met, though 'I don't do income tax returns, your own preparer keeps
+      doing them' would have handled both, and the bare 'no phone Sundays or Mondays'
+      line raises a worry without saying calls run Tuesday to Saturday.
+    fit: It is about 350 words of sales-page copy with clear sections and ends in
+      a booking button, as the brief asked.

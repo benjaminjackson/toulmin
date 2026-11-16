@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:17:38.359338+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 475
+  tags: []
+  notes: extracted 475 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 5
+    qualification: 3
+    objections: 5
+    fit: 8
+  details:
+    agree: The finished art and rules, the signed quote, the costed budget and the
+      independent reviewer would reassure this wary backer, but leaving out the refund
+      and update promises gives up their strongest reasons to pledge to a first-time
+      creator.
+    honest: The pitch softens 'proven hit' to 'a hit at the table' and admits that
+      most ratings came from the creator's own convention table, though the headline
+      still leans on that thin evidence and calling the reviewer someone with 'no
+      stake' is an assumption.
+    works_the_facts: 'The pitch works out sensible figures from the brief: about 572
+      backers needed, a cost of about $22,550 to print the run and ship those copies,
+      and the point that this is under half the launch list. It does not state the
+      10% fee (about $2,800) or the margin left after it.'
+    right_comparison: The 572-backer target is usefully set against the 1,240 sign-ups,
+      but nothing describes the backer's real alternative, such as what happens if
+      funding fails or how the risk compares with other campaigns.
+    qualification: The November 2027 date is stated plainly, but there is no checkable
+      consequence if it slips, even though the creator offered a full refund if delivery
+      is more than three months late.
+    objections: The pitch faces the first-time-creator worry and the budget question
+      directly, but it leaves out the refund guarantee and the update every two weeks,
+      which are exactly what a backer who lost money on an unshipped project needs.
+    fit: It is a well-structured campaign pitch of roughly 550 words, close to the
+      500 requested.

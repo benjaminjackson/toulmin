@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-21-45Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A tells me who will file the final report (Dave Lin) and when, explains why the shelving report was late, and promises quarterly totals. Its fresh-food gain is honest: about one-eighth, with no promise the farms will give the same amount. B leaves placeholders where I need commitments, including how it will fix late reporting and how it will pay running costs, which I'd notice given that I chased their last report for four months."
+}

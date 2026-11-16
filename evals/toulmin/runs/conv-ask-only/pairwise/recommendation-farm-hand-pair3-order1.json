@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-26-06Z",
+  "without_skill_run": "2026-11-16T20-06-05Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives specific evidence a quick reader can trust: the $8,000 the vet says early mastitis detection saved, the cousin covering his shifts during the five-week absence, his return on the promised day, and a weekend job held for him. B is full of placeholders, gives no detail that makes the absence reassuring, and adds duties that aren't in the facts."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-23-23Z",
+  "without_skill_run": "2026-11-16T20-03-30Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me concrete things I can take to my boss to justify going over budget: a firm schedule, two free marketing spots and the fourth printing. It is also written for this specific book and deadline. Document B relies on goodwill and only describes the fee as a discount, which gives me less reason to pay more instead of going with the $8,000 illustrator."
+}

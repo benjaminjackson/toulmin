@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-15-13Z",
+  "without_skill_run": "2026-11-16T20-23-48Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B shows that 74 of 112 households signed, which is a majority and undercuts my sense that this is a few loud people. It also offers things in return, an evening meeting and a list of residents who need help on the stairs, so agreeing feels like working together rather than giving in. A makes the same three requests but asks nothing of the tenants, so it is easier for me to treat it as just more demands."
+}

@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:25:16.650774+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 314
+  tags: []
+  notes: extracted 314 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 7
+    honest: 4
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 5
+    objections: 5
+    fit: 9
+  details:
+    agree: 'A quick reader gets a clear, concrete case: he runs the 3 a.m. shift alone,
+      he already uses the herd data, his English weakness is admitted, and the manager
+      offers a job and a phone call, though nothing about him finishing the program
+      is shown.'
+    honest: '"In three years he has missed two shifts" leaves out the brief''s qualifier
+      "not counting those 5 weeks", and "arranged cover... before he came to me" claims
+      an order of events the facts do not establish, so his reliability is stated
+      more strongly than the record supports.'
+    works_the_facts: The nine cases and the vet's $8,000 estimate are used well, but
+      the attendance record is never put in its strongest true form, such as two misses
+      in roughly 780 scheduled shifts.
+    right_comparison: The letter says he is already doing the work the program teaches,
+      but never sets him against the typical applicant or describes what a place spent
+      on him would gain over the alternative.
+    qualification: The English caveat is honest and points to the night class, but
+      gives nothing the committee can check, such as when the class ends or what level
+      he has reached.
+    objections: The written-English objection is answered well, but the five-week
+      absence is hidden instead of addressed, which wastes the strong facts that he
+      arranged his cousin to cover and came back on the day he said he would, and
+      leaves a weak point a phone call could expose.
+    fit: It is a one-page letter from the farm manager, in the expected form and well
+      within length.

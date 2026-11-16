@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-25-16Z",
+  "without_skill_run": "2026-11-16T20-05-29Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Letter B names the farm and the signer, gives a concrete $8,000 vet-confirmed saving, commits to keeping a weekend job open, and lists a phone number I can call, so it reads as a finished, credible letter. Letter A is still full of bracketed placeholders and has fewer specifics, though it does handle the five-week absence more openly."
+}

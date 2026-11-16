@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:25:13.176089+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 347
+  tags: []
+  notes: extracted 347 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 3
+    honest: 6
+    works_the_facts: 3
+    right_comparison: 2
+    qualification: 7
+    objections: 2
+    fit: 9
+  details:
+    agree: The page reads as credible and salon-specific, but this owner pays her
+      cousin $600 a year, and nothing here explains why she should pay $2,388 a year
+      or tells her she can keep her cousin, so she would probably not book the call.
+    honest: No numbers are invented, but the page promises books 'on time' without
+      saying the 10th was missed three times last year, and 'the rest of the week
+      is for my clients' is filler the brief doesn't support.
+    works_the_facts: 'The raw facts are repeated without working them out: there''s
+      no annual cost, no retention rate (2 of 33, both sales), no share of clients
+      who saved at tax time (9 of 31), and no comparison of the $800 saving against
+      the fee.'
+    right_comparison: The page never describes the reader's actual alternative, which
+      is a once-a-year tax-time catch-up by a relative, and it never contrasts that
+      with monthly books, payroll and sales tax filing.
+    qualification: The guarantee is checkable, with a date (the 10th) and a consequence
+      (that month is free), and the accountant-savings claim is hedged properly, but
+      the no-contract, 30-day-notice exit is left out.
+    objections: 'Her main objections are cost and loyalty to her cousin, and the page
+      meets neither: it never says Carla doesn''t do income tax returns, so the cousin
+      keeps that work and gets clean books from her, and it doesn''t mention the easy
+      exit.'
+    fit: It is about 350 words of sales-page body text with clear sections and the
+      booking button at the end, as the brief asked.

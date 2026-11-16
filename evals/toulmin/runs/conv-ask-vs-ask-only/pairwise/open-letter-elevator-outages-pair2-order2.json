@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-14-11Z",
+  "without_skill_run": "2026-11-16T20-22-47Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "A signs on behalf of the 74 households that signed the petition, which directly counters my view that this is just a few loud people, and its admission that the tenants have no engineer's opinion makes it read as measured and fair. B argues the rent credit better, but 'From the tenants of Harbor View' claims more than it can back up and its tone is a little sharper."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-23-24Z",
+  "without_skill_run": "2026-11-16T20-01-37Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is addressed to me by name and gives the evidence I look for: signed training records for every trainee, two clean state audits, a training course cut from 20 hours to 12, and a GMP course already in progress. B has placeholders and argues for transferable habits instead of showing records and audit results."
+}

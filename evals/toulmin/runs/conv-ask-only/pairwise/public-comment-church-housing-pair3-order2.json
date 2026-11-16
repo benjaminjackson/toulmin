@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-23-23Z",
+  "without_skill_run": "2026-11-16T20-05-18Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B deals directly with the commissioners' main worry, traffic on Alder Road. It points to the builder-funded signal that keeps the intersection at a C rating and asks for that signal as a permit condition, while Document A just asks people to accept a D rating and still has placeholder names in it."
+}

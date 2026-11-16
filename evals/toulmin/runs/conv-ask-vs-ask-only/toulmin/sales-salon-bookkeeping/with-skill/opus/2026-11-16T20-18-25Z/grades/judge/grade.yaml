@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T20:19:24.453919+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 344
+  tags: []
+  notes: extracted 344 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 4
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 3
+    qualification: 7
+    objections: 3
+    fit: 8
+  details:
+    agree: The page is warm and believable, but an owner who pays her cousin $600
+      a year sees $199 a month and nothing telling her she can keep him, so she probably
+      won't book the call.
+    honest: The figures match the brief, but the heading 'Clean books lower your accountant's
+      bill' turns what 9 of 31 clients reported into a general promise, and leaving
+      out last year's 3 missed deadlines makes 'your books will be closed by the 10th'
+      sound firmer than the record supports.
+    works_the_facts: Comparing the $800 saving to more than four months of fees is
+      correct and works in the writer's favour, but the page never works out the yearly
+      cost, a retention rate such as 29 of 31, or what the saving would mean for someone
+      paying $600.
+    right_comparison: The only alternative shown is vague messy books that an accountant
+      has to fix; this reader's real alternative is a cousin she likes who charges
+      $600 at tax time, and the page never says that her accountant keeps doing her
+      taxes.
+    qualification: The late-month guarantee names a date (the 10th) and a consequence
+      the reader can check (that month is free), but it doesn't say when it began
+      or admit that the deadline has been missed before.
+    objections: 'The objections that matter to her (the cost against $600, and whether
+      she''d have to drop her cousin) are left unanswered, and the page also leaves
+      out facts that would help: no contract, 30 days'' notice to stop, and why the
+      price went up.'
+    fit: It's close to the 350 words asked for, it reads as main sales-page copy with
+      clear sections, and it ends with the booking button.

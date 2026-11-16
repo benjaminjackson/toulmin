@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-25-10Z",
+  "without_skill_run": "2026-11-16T20-06-53Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me concrete things I can count on: $1.50/hr more, senior staff choose shifts first, dates for the offer and the decision, an HR one-on-one, and a six-month window to leave with severance, which makes trying the role less risky. Document B leaves placeholders where the dates and details should be and gives vaguer pay terms, so it reads as unfinished and gives me less reason to stay."
+}

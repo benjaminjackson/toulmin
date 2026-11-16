@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-23-48Z",
+  "without_skill_run": "2026-11-16T20-02-19Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me what I check before pledging: a line-by-line budget, finished art and rules, a signed factory quote, a firm delivery date and an honest note on the 23 ratings. B is vaguer, has placeholders and gives no delivery date. Still, A leaves out the refund promise and the regular update schedule, and it doesn't say the ratings came mostly from people who played at the designer's own table."
+}

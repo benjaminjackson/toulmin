@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:05:29.148407+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 374
+  tags: []
+  notes: extracted 374 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 5
+    honest: 4
+    works_the_facts: 3
+    right_comparison: 3
+    objections: 4
+    fit: 6
+  details:
+    agree: A quick reader gets a warm, specific picture of a reliable worker, but
+      the letter has unfilled placeholders and leaves out the strongest points (the
+      $8,000 the vet credited to him, the job kept open on weekends, the manager's
+      offer to take a call), so it reads as a solid letter rather than a standout
+      among 150.
+    honest: 'Several claims go beyond the facts: that he learned the software "on
+      his own initiative," that his father was "seriously" ill, that he has "a real
+      feel for animals" and "a growing interest in the technology," and that nobody
+      told him to take the English class.'
+    works_the_facts: 'The numbers are repeated as given but never worked: two missed
+      shifts in three years could be shown as two out of roughly 780 shifts, and the
+      nine early mastitis cases are never tied to the $8,000 the vet said they saved.'
+    right_comparison: "The letter never sets Tom\xE1s against a typical applicant\
+      \ or a typical worker, so the reader has no baseline for judging the attendance\
+      \ record or the herd-health work."
+    qualification: A recommendation letter like this needs no hedge or conditional
+      commitment.
+    objections: It deals openly with the English gap, but it raises the five-week
+      absence without the facts that answer it (he arranged for his cousin to cover
+      his shifts and came back on the day he said), so a doubtful reader is left wondering
+      whether he would leave mid-program.
+    fit: It is a one-page letter from the farm manager as asked, but the name, farm,
+      contact details and date are all left as bracketed placeholders.

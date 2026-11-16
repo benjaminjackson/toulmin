@@ -1,0 +1,56 @@
+task:
+  name: sales-salon-bookkeeping
+  type: sales-page
+  set: tune
+  reader: The owner of a small hair salon with four chairs who clicked an ad and landed
+    on the page. Her cousin does her books at tax time for $600 a year and she is
+    fond of him. She decides whether to book a free call.
+  prompt: 'Write the main text for my sales page. I''m a bookkeeper and I work only
+    with hair and nail salons. I do monthly books, payroll for up to 10 staff, and
+    sales tax filing.
+
+
+    What''s true:
+
+    - I have 31 salon clients. 2 left last year, both because they sold their salons.
+
+    - I charge $199 a month. Until January it was $149, and I raised it for everyone,
+    including existing clients.
+
+    - I close each month''s books by the 10th of the next month. I missed that date
+    3 times last year.
+
+    - Last tax season, 9 of my clients told me their accountant charged them less
+    because the books came in clean. One said she saved $800.
+
+    - I''m one person. I don''t answer the phone on Sundays or Mondays.
+
+    - The first call is free and takes 20 minutes.
+
+
+    Keep it to about 350 words, with a button at the end to book the call.'
+  user_knows: '- I''m Carla Benson. My business is Chair and Ledger.
+
+    - I managed a hair salon for 6 years before I became a bookkeeper.
+
+    - I don''t do income tax returns. A client''s own accountant or tax preparer keeps
+    doing those, and gets clean books from me.
+
+    - I raised the price because I added payroll for up to 10 staff, which I didn''t
+    do before.
+
+    - I can commit that if I miss the 10th, that month''s fee is free. This started
+    in January.
+
+    - I can commit that clients can stop with 30 days'' notice. There is no contract.
+
+    - I cannot take more than about 5 new clients this year.
+
+    - The button goes to my calendar. Calls are Tuesday to Saturday.'
+config:
+  name: with-skill
+  runner: /Users/ben/github/toulmin/evals/toulmin/run-with-skill
+  model: opus
+started: '2026-11-16T20:26:05.953665+00:00'
+duration_seconds: 38.1
+exit_code: 0

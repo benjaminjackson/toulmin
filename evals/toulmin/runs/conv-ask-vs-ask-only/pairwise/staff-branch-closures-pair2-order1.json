@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-17-21Z",
+  "without_skill_run": "2026-11-16T20-25-10Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "B gives the actual $1.50-an-hour raise, says plainly that losing a 9-to-5 day is a real cost, and thanks long-serving staff for the member knowledge they bring, so it feels more respectful and makes the offer more tempting. A has the same safety net and a useful 'try it and then decide' line, but it never states the pay increase and reads colder."
+}

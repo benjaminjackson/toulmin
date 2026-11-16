@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-14-19Z",
+  "without_skill_run": "2026-11-16T20-22-51Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A reframes the flat revenue as 15% growth outside the lost chain, puts a dollar figure on the risk from the records-system schedulers, and presents the reminder launch as the answer to that risk. It is also signed by Sam Patel, while B ends with a '[Your name]' placeholder, which reads as careless to an investor who already complained about being neglected. A's line about not having chosen between raising money, cutting costs or aiming for profitability is not in the brief and is a minor invention, but it does not change the overall result."
+}

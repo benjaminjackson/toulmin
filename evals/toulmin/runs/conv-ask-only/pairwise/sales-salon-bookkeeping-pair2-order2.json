@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-25-13Z",
+  "without_skill_run": "2026-11-16T20-06-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B gives me a name, a real guarantee (I don't pay for any month that's late) and a clear Tuesday-to-Saturday schedule, which makes $199 a month feel lower-risk next to my cousin's $600 a year. A's salon details (booth rent, tips) ring true, but admitting three missed deadlines without any remedy makes me hesitate."
+}

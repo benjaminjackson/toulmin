@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-26-05Z",
+  "without_skill_run": "2026-11-16T20-06-39Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A tells me Carla managed a salon for six years, that I don't pay for any month she misses the 10th, and that the price went up because payroll was added. Those facts answer my doubts about her and the cost. B admits the missed deadlines and the price rise but gives no remedy or reason, so it feels riskier to me."
+}

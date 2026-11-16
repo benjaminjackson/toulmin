@@ -1,0 +1,29 @@
+I've added a subject line, but it isn't counted in the word total. The email is about 195 words. A few notes:
+
+- **What it says the field does:** It only says you added a second field on higher ground. It doesn't claim the field protects against anything, since you weren't sure.
+- **The survey:** It quotes "29 of the 41 who answered" as you gave it. I didn't turn that into a claim that most of the 97 lapsed members feel this way.
+- **The credit:** I kept it to exactly what you're committing to: weeks when weather cuts a box by more than a third. It doesn't say a smaller shortfall gets credit.
+- **No name in the greeting:** It opens with "Hello," because I don't know if your email tool can fill in names. Swap in a name field if it can.
+- **Sign-up link:** It points to the link on your website. You could paste the direct URL in instead.
+
+<final_document>
+Subject: I'm sorry about last summer
+
+Hello,
+
+I'm sorry for how I handled last summer. After the July 9 hailstorm, your boxes were about half-full for six weeks, and all you heard from me was one short email. I was working 16-hour days to save what was left, but I should have written more and made it right.
+
+In our fall survey, 29 of the 41 people who answered said they'd come back if we fixed how we handle bad weeks. So here's what's changed:
+
+- If weather cuts a box by more than a third, you get credit for that week.
+- I'll send a short email every Thursday of the season.
+- You can pause up to two weeks and get credit for them.
+- This year we added a second field on higher ground and hail nets over the tomatoes and peppers, a $31,000 investment.
+
+I can't promise there won't be crop loss, and the nets don't cover the greens. But if it happens, you'll hear from me that week.
+
+A full share is still $540, with pickup Thursdays at the farm stand. Sign-up closes March 15, and 52 shares are left. The link is on our website.
+
+Sam Turner
+Greenbank Farm
+</final_document>

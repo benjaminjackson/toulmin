@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T20:16:07.409855+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 409
+  tags: []
+  notes: extracted 409 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 5
+    objections: 5
+    fit: 8
+  details:
+    agree: The plain account of the late report, with a named owner and quarterly
+      updates, would reassure Marisol. She would still hold off on a yes until she
+      knows who pays to run the van once the purchase drains reserves to $11,000.
+    honest: The draft rightly drops the unsupported 'double' claim and every figure
+      is accurate. But it leaves out the $4,500 a year in insurance and fuel that
+      isn't budgeted, and it rounds 62% of reserves up to 'nearly two-thirds'.
+    works_the_facts: 'It works out several correct figures: under 10 lb of fresh food
+      per household each month, summer fresh food rising from 18,000 to 27,000 lb
+      (up by half), and nearly 15 extra lb per household. Each one is framed in its
+      strongest true form.'
+    right_comparison: The no-van case is described honestly as the same fresh food
+      going out while farm offers are turned down again. It doesn't say whether the
+      van would be used outside the summer season.
+    qualification: The report deadline and quarterly totals are dated and can be checked.
+      The hedge on farm supply sets no target in pounds and says nothing about what
+      happens if the van brings in less than expected.
+    objections: It meets the late-report objection head-on. It leaves open the obvious
+      question of how a $4,500-a-year operating cost gets paid from $11,000 in reserves.
+    fit: It is a narrative section of roughly 450 words, inside the 500-word limit
+      and in the right register for a grant application.

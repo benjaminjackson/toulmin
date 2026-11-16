@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T20:22:47.290403+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 406
+  tags: []
+  notes: extracted 406 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 3
+    right_comparison: 5
+    qualification: 4
+    objections: 5
+    fit: 8
+  details:
+    agree: The dialysis example and the twice-promised part will be hard for Weller
+      to dismiss, but the letter offers nothing in return, such as the weekday-evening
+      meeting or the list of residents who need help on the stairs, and it sets no
+      reply deadline, so it reads more as public pressure than as an invitation to
+      act.
+    honest: The facts are reported accurately and the inspection is presented fairly,
+      though saying the resident had 'no way to get down to the street' states the
+      cause a little more firmly than the brief supports.
+    works_the_facts: 'It repeats the raw figures without working any of them out:
+      it never says that 74 of 112 is two-thirds of households, that 41 days is more
+      than one day in nine, or that a part promised in June for six to eight weeks
+      should have arrived by August.'
+    right_comparison: Setting the June promise beside the identical current one hints
+      at a pattern of delay, but the letter never spells out what happens if nothing
+      changes, such as more outages while the residents wait for another six to eight
+      weeks.
+    qualification: It asks for a written date but gives no deadline for Keystone's
+      reply and says nothing about what follows if the date is missed, so the reader
+      has nothing concrete to check.
+    objections: It handles the inspection and second-elevator points well, but it
+      misses Weller's main objection that the association is a few loud people, which
+      the two-thirds petition figure would answer, and it does not defend the rent
+      credit request.
+    fit: It is a clear open letter of roughly 430 words, close to the target, suitable
+      for a lobby posting and for the press.

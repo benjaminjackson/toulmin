@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-24-13Z",
+  "without_skill_run": "2026-11-16T20-04-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B names the farm, the manager and the applicant, puts a dollar figure on the mastitis catches, commits to a part-time weekends job, and gives a real phone number. A still has unfilled placeholders and reads more generic, so B is more convincing and still honest."
+}

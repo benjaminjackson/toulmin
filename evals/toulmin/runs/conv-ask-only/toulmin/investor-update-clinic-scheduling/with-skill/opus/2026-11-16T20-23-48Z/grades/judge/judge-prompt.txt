@@ -1,0 +1,87 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+The lead angel investor, who put in $250,000 and has the right to join the next round. The founder skipped the last two quarterly updates, and the investor said so in a short, cold email last month. The investor decides whether to keep backing the company and taking the founder's calls.
+</reader>
+
+<brief>
+I need to send a quarterly update to our investors. I'm the founder of a scheduling app for physical therapy clinics. We have 6 people.
+
+Numbers for the quarter:
+- Monthly recurring revenue is $41,000, the same as three months ago.
+- We added 9 clinics and lost 4. One of the 4 was our largest customer, a 12-clinic chain that paid $5,500 a month. They moved to the scheduler built into their electronic records system.
+- We have $480,000 in the bank and lose about $44,000 a month.
+- Clinics that use our automatic text reminders have a no-show rate of 7%, against 13% before they started.
+- I didn't send updates for the last two quarters.
+- Next month we start selling the reminder feature on its own for $150 a month.
+
+Under 500 words. It goes to 11 investors.
+</brief>
+
+The user also knew the following and gave some of it to the writer when asked:
+<user_knows>
+- The company is Cadence Scheduling. I'm Sam Patel, the founder.
+- I skipped the last two updates because the numbers were flat and I didn't want to send bad news. There was no other reason.
+- 6 clinics have said they will buy the reminder feature on its own when it launches on December 1.
+- Two of our other customers use the same electronic records system as the chain that left. Together they pay $3,800 a month.
+- I can commit to an update in the first week of every quarter from now on. The next one goes out January 7.
+- I can commit to a monthly one-page set of numbers for any investor who asks for it.
+- I cannot promise that customers on that records system won't leave the same way.
+- What I want from investors: 20 minutes on the phone, and introductions to clinic chains.
+</user_knows>
+
+<document>
+Subject: Quarterly update: revenue flat, our largest customer left, reminders launch December 1
+
+Hi all,
+
+First, an apology. I didn't send updates for the last two quarters. The numbers were flat and I didn't want to send bad news. That was the wrong call, because bad news is when you most need to hear from me. From now on I'll send an update in the first week of every quarter. The next one goes out January 7. If you'd also like a one-page set of numbers each month, reply and I'll add you.
+
+**The numbers**
+
+- Monthly recurring revenue: $41,000, the same as three months ago
+- Clinics: added 9, lost 4
+- Cash: $480,000. We lose about $44,000 a month, which leaves roughly 11 months of runway.
+- Team: 6 people
+
+**What happened**
+
+One of the four clinics we lost was our largest customer, a 12-clinic chain paying $5,500 a month. They moved to the scheduler built into their electronic records system. The nine new clinics covered that loss and the other three, but only enough to keep revenue flat.
+
+This is a real risk for us with larger customers: a chain can drop our scheduler in favor of one it already has.
+
+**What's working**
+
+Clinics that use our automatic text reminders have a no-show rate of 7%. Before they started, it was 13%. Every no-show is an empty slot and lost revenue for the clinic, so this is the clearest value we deliver.
+
+**What's next**
+
+On December 1 we start selling text reminders on their own for $150 a month, to clinics that want to keep their current scheduler. Six clinics have committed to buy at launch. That's $900 a month, which is small, but it will tell us whether reminders can sell without our scheduler. To be honest, $150 is a starting point and I haven't tested it. I'll report what we learn in January.
+
+**Runway**
+
+With about 11 months of cash, I need to choose between raising money and cutting costs. I haven't decided yet, and I'd like your input first.
+
+**What I'm asking for**
+
+1. **A 20-minute call with each of you** in the next few weeks. I'd like your view on raising versus cutting costs, and on the reminder launch. Reply with times that work and I'll send an invite.
+2. **Introductions to physical therapy clinic chains.** Chains that already use a scheduler built into their electronic records system are the most likely buyers for standalone reminders.
+
+Thank you for your patience over the last six months.
+
+[Your name]
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-farm-share",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-16-22Z",
+  "without_skill_run": "2026-11-16T20-24-39Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "As the household that got no refund, I respond more to A. It says outright \"I didn't offer a refund or credit\" and \"that's no excuse,\" and it ends by asking me back personally. B's apology is softer (\"made it right\"), though its promise to write \"that week\" and its survey numbers are good too."
+}

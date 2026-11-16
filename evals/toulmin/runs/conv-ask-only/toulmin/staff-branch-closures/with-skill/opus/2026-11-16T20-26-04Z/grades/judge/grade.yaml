@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:27:02.119610+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 473
+  tags: []
+  notes: extracted 473 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 7
+    honest: 6
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 7
+    objections: 7
+    fit: 8
+  details:
+    agree: 'A long-tenured teller who doesn''t want phone work gets concrete reasons
+      to try it: $1.50 more an hour, two days a week at home, first choice of shifts
+      by seniority and a 6-month exit that keeps severance, though nothing speaks
+      to the two weeks of rumours they have already lived through.'
+    honest: The note avoids claiming the change is better for everyone and admits
+      the hours won't suit all, but it says 8-to-8 is 'three more hours a day' than
+      9-to-5 when it is four, and it adds unsupported claims such as 'colleagues who
+      already know our members' and 'one of the biggest problems'.
+    works_the_facts: The 44%, 60% and 9-minute figures are repeated rather than worked,
+      the hours difference is miscounted, and severance is never shown in a form a
+      ten-year employee could picture, such as 20 weeks of pay.
+    right_comparison: It shows branch visits falling and remote contacts rising as
+      the reason not to keep the branches, but it never says what happens to members'
+      hold times or to the branches if nothing changes.
+    qualification: The commitments carry checkable dates and consequences (offers
+      by February 14, decision by March 1, severance kept if you leave within 6 months),
+      while the opening date and training schedule are left open without any target.
+    objections: It meets the objections about losing 9-to-5 hours, seniority and the
+      risk of trying the job, but gives little answer to 'I don't want to work on
+      the phones' beyond the exit option, and it doesn't address the rumours.
+    fit: It is a signed email from the COO, clearly organised and close to the 400
+      words asked for, at a little under 500, with placeholders left for the name
+      and HR contact.

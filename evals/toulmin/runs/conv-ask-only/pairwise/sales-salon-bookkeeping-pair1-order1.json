@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-24-18Z",
+  "without_skill_run": "2026-11-16T20-05-37Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is more convincing because Carla ran a salon for six years, payroll is included, and a missed close date makes that month free. Those give me solid reasons to look past my cousin's $600. B admits the missed dates but offers no remedy and doesn't give her name, so it feels more generic, even with the salon details."
+}

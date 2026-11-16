@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-15-58Z",
+  "without_skill_run": "2026-11-16T20-23-48Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B tells me up front that most of the 23 ratings came from people who played at the designer's own table, while A says strangers played it cold and quietly leaves that out. B also points to an independent reviewer I can check before I pledge, so I trust it more, even though neither pitch mentions refunds or regular updates."
+}

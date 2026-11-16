@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-23-48Z",
+  "without_skill_run": "2026-11-16T20-01-54Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A explains why the updates were skipped, commits to a date (January 7) and a monthly set of numbers, and makes specific asks: a 20-minute call and introductions to clinic chains. It also reports the six clinics committed to the December 1 launch. B gives a vague apology and leaves its runway plan and asks as unfilled placeholders, so it reads as unfinished and would deepen my distrust."
+}

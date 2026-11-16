@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T20:26:57.353693+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 287
+  tags: []
+  notes: extracted 287 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 3
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 2
+    qualification: 7
+    objections: 3
+    fit: 9
+  details:
+    agree: Nothing on the page connects to an owner whose cousin does her books once
+      a year for $600 and whom she likes, so $199 a month looks like a big jump with
+      no reason to leave him.
+    honest: Every figure matches the brief, and the $800 saving comes with a hedge,
+      though 'Clean books are the part I can promise' says a bit more than three missed
+      closes last year support.
+    works_the_facts: 'The facts are listed but never worked: the page doesn''t show
+      29 of 31 salons staying, doesn''t give the yearly cost, and doesn''t set nine
+      accountant savings against the client base.'
+    right_comparison: The page never describes the reader's real alternative, books
+      done once a year at tax time, and never says her own tax preparer keeps doing
+      her income tax return with cleaner books, which would let the cousin stay.
+    qualification: The 10th-of-the-month promise names a date, admits three misses,
+      and gives a checkable consequence (that month is free), and the $800 claim is
+      hedged properly.
+    objections: 'The page leaves out the three facts that answer this reader''s objections:
+      she keeps her own tax preparer, she can leave with 30 days'' notice and no contract,
+      and only about 5 new clients can start this year.'
+    fit: It's about 330 words of sales-page copy with clear sections and ends with
+      a booking button, as the brief asked.

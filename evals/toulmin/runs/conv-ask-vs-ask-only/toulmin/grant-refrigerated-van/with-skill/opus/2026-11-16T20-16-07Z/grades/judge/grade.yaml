@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:17:58.667290+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 410
+  tags: []
+  notes: extracted 410 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 7
+    right_comparison: 8
+    qualification: 6
+    objections: 5
+    fit: 9
+  details:
+    agree: The direct account of the late report, with Dave Lin named as responsible,
+      and the modest, checkable target would reassure Marisol, but she would likely
+      hold her recommendation until she knows who pays to run the van.
+    honest: The draft correctly drops the unsupported 'double' claim, and its numbers
+      check out ('half again', 'more than a quarter'), but it says nothing about the
+      $4,500 a year in insurance and fuel that isn't budgeted, or that reserves would
+      drop to $11,000, which makes the funding plan look stronger than it is.
+    works_the_facts: It works out a 3,000-pound monthly rate in harvest season, a
+      50% rise over current fresh food in those months, and the reserve share of the
+      cost, though it never gives the annual effect or what the reserves look like
+      after the purchase.
+    right_comparison: 'The no-van alternative is shown from the facts: farms offer
+      food, the pantry turns it down, and last summer''s 9,000 pounds is the concrete
+      measure of what is lost.'
+    qualification: The 9,000-pound target, quarterly reports against a 6,000-pound
+      baseline and the 30-day final report deadline can all be checked, but 'harvest
+      months' is never given dates and nothing says what happens if the target or
+      a report deadline is missed.
+    objections: 'Her main worry, the late report, is answered well and the driver
+      commitment is covered, but the two questions she will surely ask go unanswered:
+      who pays the van''s running costs, and is it safe to leave only $11,000 in reserves?'
+    fit: This is a plain narrative section of roughly 430 words, inside the 500-word
+      limit, and it reads like a grant narrative.

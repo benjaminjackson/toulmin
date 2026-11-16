@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-16-07Z",
+  "without_skill_run": "2026-11-16T20-23-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both drafts own the late report and promise quarterly numbers with Dave Lin named, but A also discloses the $4,500 yearly insurance and fuel cost, while B leaves it out entirely, which I would catch and question. A's unfilled placeholders, including how that cost will be paid, still need fixing."
+}

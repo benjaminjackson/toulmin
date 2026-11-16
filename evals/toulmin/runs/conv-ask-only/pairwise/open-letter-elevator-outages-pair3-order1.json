@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-23-48Z",
+  "without_skill_run": "2026-11-16T20-04-20Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Letter A names me and the building and cites a specific case, the missed dialysis appointments. It drops the second-elevator fight and asks for three concrete things we could actually do, so I find it hard to wave away as a few loud people. Letter B still has placeholders, makes broad claims, and reopens the second-elevator question, which makes it easier for me to dismiss."
+}

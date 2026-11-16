@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-24-21Z",
+  "without_skill_run": "2026-11-16T20-06-16Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives us the concrete things we'd weigh: a $1.50/hour raise, first pick of shifts for long-tenured staff, the option to try the role for six months and still keep severance, and real dates for offers and decisions. B leaves dates as blanks and offers none of these protections, so it's harder to trust or act on."
+}

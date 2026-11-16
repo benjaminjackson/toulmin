@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T20:15:10.433849+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 353
+  tags: []
+  notes: extracted 353 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 6
+    objections: 8
+    fit: 8
+  details:
+    agree: Signed training records and two clean state audits speak to the screener's
+      doubt about regulated work, so a phone screen is likely, but the letter leaves
+      out the June 14 start date and the interview times she would need to act.
+    honest: The letter drops the unsupported 'cut training in half' promise and invents
+      no numbers, though 'without dropping any of the procedures' and the claim that
+      she rebuilt both trainings around what people needed go a little past what the
+      brief says.
+    works_the_facts: 'The figures are given raw: 20 to 12 hours is never called a
+      40% cut or 8 hours saved per new teacher, and 41% to 58% is never framed as
+      a 17-point gain.'
+    right_comparison: The letter admits it doesn't know how long the plant's training
+      takes now instead of inventing a baseline, and it compares her training before
+      and after correctly, but it never shows how her record differs from the typical
+      teacher-applicant the screener expects.
+    qualification: The GMP gap comes with a course and a checkable May 2 finish date,
+      but the June 14 earliest start, a real limit on hiring, is never stated.
+    objections: The letter meets the regulated-industry, GMP-records and LMS objections
+      directly and answers them with audit-tested records, without raising worries
+      the facts already settle.
+    fit: This is a one-page cover letter in a proper format, addressed to the named
+      HR manager, which is what the brief asked for.

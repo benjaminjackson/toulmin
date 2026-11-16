@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-22-51Z",
+  "without_skill_run": "2026-11-16T20-01-11Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B explains why the updates stopped, commits to a date (Jan 7) and offers monthly numbers. It also names the $3,800/month still at risk and the 6 committed buyers, so the cold investor gets the candor they asked for. A apologizes vaguely, leaves template placeholders in the runway plan, and leaves out the at-risk customers, which reads as unfinished and evasive."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-17-21Z",
+  "without_skill_run": "2026-11-16T20-25-10Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "A tells me that pay starts $1.50 an hour above what I make now. It also admits the change in hours is a real cost and thanks us for knowing members by name, which makes staying more tempting to someone who doesn't want phone work. B's line that you can try the job and still leave with severance is persuasive, but B only promises 'same pay or higher' and never gives the raise."
+}

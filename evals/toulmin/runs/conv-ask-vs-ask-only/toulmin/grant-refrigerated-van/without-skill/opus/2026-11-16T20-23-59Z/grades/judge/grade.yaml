@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:25:09.127709+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 437
+  tags: []
+  notes: extracted 437 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 6
+    objections: 6
+    fit: 6
+  details:
+    agree: Marisol gets a candid account of the late report, a named person accountable
+      for the next one and a realistic target, but the unfilled '[How this will be
+      paid]' next to an unfunded $4,500 a year is exactly the kind of loose end she
+      has already had to chase.
+    honest: The draft drops the unsupported 'double' claim, says plainly that the
+      farms have promised no amount, and invents no figures.
+    works_the_facts: 'The annual 72,000-to-81,000 figure (about one-eighth) is correct,
+      but the draft misses stronger true versions of it: in the three summer months
+      fresh food would rise from about 6,000 to about 9,000 pounds a month, roughly
+      50%. It also never works out what $11,000 left in reserves means against $4,500
+      a year in running costs.'
+    right_comparison: It shows the alternative accurately (farms keep offering produce
+      and the pantry keeps turning it down), but it doesn't spell out what refusing
+      it again would cost in pounds or in the farms' goodwill.
+    qualification: 'The reporting commitments are checkable: Dave Lin named, the final
+      report within 30 days, totals every quarter. The hedge on the produce target
+      has no threshold or consequence, though, beyond a promise to ''explain why''.'
+    objections: The late-report objection is answered well, but her likely questions
+      about how the van will be insured and fuelled, and whether $11,000 in reserves
+      is enough, are left open by a placeholder.
+    fit: It is a narrative with clear sections and comes in under 500 words, but placeholders
+      remain ('[Food Bank Name]', '[County]', and the funding line), so it can't be
+      submitted as written.

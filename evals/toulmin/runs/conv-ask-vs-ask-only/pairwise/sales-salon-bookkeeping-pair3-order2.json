@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-18-25Z",
+  "without_skill_run": "2026-11-16T20-26-05Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "As a salon owner whose cousin does my books for $600 a year, I trust A more. It tells me plainly about the price rise and the three missed deadlines, and it doesn't promise I'll save on my accountant. B is warmer, but it leans on the 'your accountant will charge less' pitch, which doesn't move me when my cousin is that cheap, and it states the $800 saving as fact when the client only said so."
+}

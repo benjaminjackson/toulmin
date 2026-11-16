@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-24-18Z",
+  "without_skill_run": "2026-11-16T20-05-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me a real person who managed a salon for six years, and a promise that a late month is free. That makes $199 feel safer than A's bare admission that she missed the 10th three times. Neither page tells me my cousin can keep doing my taxes, but B's specifics are more likely to get me to book the call."
+}

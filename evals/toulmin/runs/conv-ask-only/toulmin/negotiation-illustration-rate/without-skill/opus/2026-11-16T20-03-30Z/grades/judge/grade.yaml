@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:04:00.302577+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 190
+  tags: []
+  notes: extracted 190 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 4
+    honest: 8
+    works_the_facts: 3
+    right_comparison: 3
+    objections: 2
+    fit: 5
+  details:
+    agree: 'The request is warm and backed by evidence, but an editor with a $9,000
+      budget and a newer illustrator available at $8,000 gets no reason to spend $3,500
+      more: there are no added commitments and no case for proven sales over an untested
+      artist, so the likely reply is a counter or a polite no.'
+    honest: It correctly drops the unsupported claim that every other publisher pays
+      at least $12,000 and keeps to the real $12,500 fee and the agent's range, though
+      'full-time work' adds a detail the brief doesn't give.
+    works_the_facts: 'The figures are only restated, never worked: there is no monthly
+      rate ($9,000 over four months is about $2,250 a month), no mention of four years
+      at a flat fee, and no mention of the fourth printing, so the strongest true
+      forms are left unused.'
+    right_comparison: It compares her fee with another publisher's but never with
+      the editor's real alternative, a cheaper newcomer with no sales record against
+      two books over 20,000 copies and a fourth printing.
+    qualification: The email makes no hedges or conditions, and its argument doesn't
+      depend on any uncertain outcome that would need one.
+    objections: The two objections this editor will have, the fixed budget and the
+      $8,000 option, go unanswered, and the commitments that would answer them (sketches
+      within six weeks, final art by September 1, two free marketing spots) are left
+      out.
+    fit: 'It is an email of about 200 words, under the 250-word limit, but it can''t
+      be sent as is: it uses placeholders for her name, the editor''s name and the
+      book title even though the writer had all three, and it omits the deadline for
+      her answer.'

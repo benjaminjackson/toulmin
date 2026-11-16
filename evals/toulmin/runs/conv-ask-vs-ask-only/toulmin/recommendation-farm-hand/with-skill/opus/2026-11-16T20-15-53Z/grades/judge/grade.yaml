@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T20:16:43.145987+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 334
+  tags: []
+  notes: extracted 334 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 7
+    honest: 4
+    works_the_facts: 6
+    right_comparison: 5
+    objections: 5
+    fit: 8
+  details:
+    agree: "A quick reader gets concrete, credible signals (sole 3 a.m. shift, nine\
+      \ early mastitis cases worth about $8,000, a job kept open part-time) that make\
+      \ Tom\xE1s stand out among 150 applicants, though nothing speaks directly to\
+      \ whether he can handle coursework."
+    honest: '"In three years he has missed two shifts" drops the brief''s qualifier
+      "not counting those 5 weeks," so the attendance claim is stronger than the facts
+      allow, and details like "signed up on his own" and the parlor being "left ready"
+      are made up.'
+    works_the_facts: The letter uses the $8,000 vet estimate and the nine cases well,
+      but it leaves the attendance record as a bare count when a rate (two missed
+      out of roughly 750 solo shifts) would carry more weight.
+    right_comparison: "There's an implied comparison (\"I don't hand a shift like\
+      \ that to many people\") but nothing that places Tom\xE1s against a typical\
+      \ worker or applicant beyond that one remark."
+    qualification: A reference letter of this kind needs no conditional hedge; its
+      commitments (weekend job, phone call) are stated plainly.
+    objections: The written-English worry is met head-on with the night class, but
+      the 5-week absence is hidden instead of turned into a strength (he arranged
+      cover and came back on the day he promised), which leaves the attendance claim
+      open to challenge if the absence comes up.
+    fit: It's a one-page letter from the farm manager in a plain, suitable register,
+      with contact details and a signature, though it has no date.

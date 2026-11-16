@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-15-53Z",
+  "without_skill_run": "2026-11-16T20-24-13Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters make the same strong case: he runs the 3 a.m. shift alone, he caught mastitis early and saved $8,000, and his job is held open part-time. B reads a little more vividly and adds a clear commitment to him staying in the industry. A's general claim that he always arranged cover before coming to the manager stretches a single instance and doesn't sit well with the 2-day notice."
+}

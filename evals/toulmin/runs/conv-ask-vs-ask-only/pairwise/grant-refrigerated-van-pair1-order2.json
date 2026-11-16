@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-13-02Z",
+  "without_skill_run": "2026-11-16T20-21-45Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is the better application. It names the pantry, accounts for the late 2023 report directly with a named person and specific dates, and promises to report what is actually received instead of overpromising. A still has unfilled placeholders for the pantry and town names, and it raises the $4,500 yearly running cost without saying how it will be paid. B leaves that cost out entirely, so I would still need to ask about it."
+}

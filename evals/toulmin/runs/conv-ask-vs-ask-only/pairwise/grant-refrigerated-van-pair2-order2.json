@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-14-25Z",
+  "without_skill_run": "2026-11-16T20-22-53Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks directly to my main worry: it takes responsibility for the late report, admits they had no backup person, and links the quarterly reporting to the uncertain farm supply, so it reads as more credible. A still has '[Food Bank Name]' placeholders and a looser tone, though it does mention the $4,500 a year for insurance and fuel, which B leaves out entirely."
+}

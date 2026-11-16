@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-farm-share",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-26-22Z",
+  "without_skill_run": "2026-11-16T20-07-18Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B fixes the two things that made me leave: it promises credit when weather cuts a box by more than a third and a weekly email so the farm won't go quiet again, and it's honest that crop loss can still happen. A apologizes, but it only offers infrastructure and pause credit, so a bad stretch would be handled the same way as last year."
+}

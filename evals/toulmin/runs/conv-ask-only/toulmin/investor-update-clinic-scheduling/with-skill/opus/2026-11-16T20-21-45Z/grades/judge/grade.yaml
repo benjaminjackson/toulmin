@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T20:22:51.699211+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 414
+  tags: []
+  notes: extracted 414 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 7
+    honest: 6
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 6
+    objections: 7
+    fit: 7
+  details:
+    agree: The update opens with a plain apology, gives the real reason for the silence,
+      sets a dated commitment, offers monthly numbers and makes two small, concrete
+      requests, so a cold lead investor is likely to take the call, though they may
+      still worry that there is no plan for the runway.
+    honest: Most claims match the facts, but 'I haven't decided whether to raise more
+      money or cut costs' and 'I don't yet know how many of our clinics overall use
+      a records system with its own scheduler' are statements the founder never made.
+    works_the_facts: It works out about 11 months of runway and $900/month if all
+      six reminder buyers follow through, and it explains that new sales replaced
+      the lost revenue, but it never shows the at-risk $3,800 as about 9% of MRR,
+      the lost chain as about 13% of MRR, or the drop in no-shows as nearly half.
+    right_comparison: 'It says growth went into replacing lost revenue, but it never
+      spells out what happens if nothing changes: flat revenue with cash running out
+      around next October, and another $3,800 likely to leave the same way.'
+    qualification: The reminder launch is hedged with a number ($900 if all six buy),
+      a date (report on January 7) and a test of whether reminders sell on their own,
+      but it doesn't say what the founder will conclude or do if fewer than six convert.
+    objections: It answers the investor's complaint about missed updates directly,
+      with an apology, the reason and a dated commitment to fix it, and it is upfront
+      about the risk from the records system, though by presenting cash strategy as
+      undecided it invites the question 'what is your plan?'
+    fit: At about 450 words it is under the limit and well organised as an investor
+      update, but it leaves [Company] and [Your name] as placeholders even though
+      Cadence Scheduling and Sam Patel were known.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-14-11Z",
+  "without_skill_run": "2026-11-16T20-22-47Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B is harder to dismiss as a few loud voices. It says plainly that it speaks for the 74 households that signed, and it admits the association has no engineer's opinion against Keystone's view on a second elevator, so it reads as reasonable, not combative. A's 'From the tenants' blurs who is actually behind the letter, and its 'five months after that first promise' line feels more accusatory to a manager who thinks the company has handled this well."
+}

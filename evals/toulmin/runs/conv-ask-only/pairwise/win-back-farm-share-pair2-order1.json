@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-farm-share",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-25-30Z",
+  "without_skill_run": "2026-11-16T20-06-51Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A goes straight at what made me cancel: it promises a credit when weather cuts a box by more than a third and a weekly email from Sam, and it's honest that it can't promise no crop loss. B apologizes but offers no fix for bad weeks or the farm going quiet, and it's even unsigned, with placeholders where the name and farm should be."
+}

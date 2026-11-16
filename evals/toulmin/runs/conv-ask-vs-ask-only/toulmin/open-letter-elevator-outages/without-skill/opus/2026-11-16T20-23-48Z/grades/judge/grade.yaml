@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T20:24:39.724990+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 407
+  tags: []
+  notes: extracted 407 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 5
+    honest: 7
+    works_the_facts: 3
+    right_comparison: 5
+    qualification: 3
+    objections: 6
+    fit: 8
+  details:
+    agree: 'The asks are measured and the dialysis detail lands, but nothing pushes
+      a manager who believes Keystone has handled this well to act: the letter offers
+      no cooperation, such as the weekday-evening meeting or the list of residents
+      who need help on the stairs, and sets no deadline for a reply.'
+    honest: The facts are stated accurately, and conceding both the inspection and
+      the second-elevator point builds credibility, but "five months later" and "earlier
+      this year" add timing the brief didn't supply, and "no way to get down" goes
+      slightly beyond the facts given.
+    works_the_facts: 'The figures are only restated: the letter never says that 74
+      of 112 is two-thirds of households, that 41 days is roughly one day in eight
+      so far this year, or that the June six-to-eight-week estimate would have run
+      out around August.'
+    right_comparison: It describes the status quo well as an estimate that keeps starting
+      over, but it doesn't spell out what happens if nothing changes, such as another
+      winter of outages while the part stays on order.
+    qualification: '"Please respond in writing" gives no date and no consequence,
+      and the planned lobby posting and Channel 7 interest aren''t used to set a checkable
+      deadline.'
+    objections: The passing inspection and the second-elevator cost are met cleanly,
+      but the reader's core belief that the association is a few loud people goes
+      unanswered because the two-thirds majority is never stated, and the likely pushback
+      on the cost of a rent credit isn't addressed.
+    fit: It is a properly addressed open letter of about 420 words with clear numbered
+      asks, suitable for posting in the lobby and sending to the press.

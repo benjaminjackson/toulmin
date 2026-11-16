@@ -1,0 +1,31 @@
+[Your Name]
+[Street Address]
+[City, State ZIP]
+[Phone] · [Email]
+
+[Date]
+
+Karen Doyle
+HR Manager
+Calder Pharmaceuticals
+[Street Address]
+Westfield, [State ZIP]
+
+Dear Ms. Doyle,
+
+I'm applying for the Training Coordinator position at Calder Pharmaceuticals. I've taught high school chemistry for nine years. Much of that work has been the job you're hiring for: training people to handle hazardous materials safely and keeping records that show they were trained.
+
+In 2019 I wrote my school's lab safety program. Since then, our labs haven't had a single injury that needed more than first aid. I teach about 140 students a year across five classes. Every student takes a lab safety quiz, and I keep a signed record of each one. The state has audited our lab safety records twice and found no problems.
+
+I also train every new science teacher on our lab procedures, about two a year. In 2020 I rewrote that training and cut it from 20 hours to 12. Each teacher signs a training record when they finish. I'd like to look at Calder's new-hire training the same way and find where it can be shorter and clearer.
+
+Explaining hard technical material is the core of my work. In the four years I've taught AP Chemistry, our pass rate has risen from 41% to 58%.
+
+I haven't worked in a regulated industry, and I haven't managed GMP training records. To close that gap, I've enrolled in an online GMP basics course that I'll finish on May 2. Much of my daily work already depends on the same habits as GMP: written procedures, documented training, and records that pass an audit. I haven't used your learning management system, but I run my classes in Google Classroom, and I expect to learn a new system quickly.
+
+I'd welcome the chance to talk about how I could help train Calder's new hires. Thank you for your time and consideration.
+
+Sincerely,
+
+[Your Name]
+</invoke>

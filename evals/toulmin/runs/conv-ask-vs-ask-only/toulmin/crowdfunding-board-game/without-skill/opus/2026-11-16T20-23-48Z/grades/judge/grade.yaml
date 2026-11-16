@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T20:25:02.457748+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 475
+  tags: []
+  notes: extracted 475 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 7
+    right_comparison: 4
+    qualification: 3
+    objections: 5
+    fit: 7
+  details:
+    agree: The finished art, the signed quote and the clear budget would reassure
+      this wary backer, but there is no refund promise, no update schedule and no
+      risks section, so a reader who has already lost $85 to a first-time creator
+      still has little protection.
+    honest: It drops the 'proven hit' claim and admits 23 ratings is a small sample,
+      but it calls the convention players 'strangers' who played it 'cold' without
+      saying most of the 23 ratings came from people at the designer's own table,
+      and it treats email sign-ups as people waiting to buy.
+    works_the_facts: 'The budget table works correctly from the brief: about 570 backers,
+      ~$2,800 in fees, ~$5,150 shipping and ~$2,650 left over; it doesn''t say what
+      the leftover covers or what the 930 extra copies are for.'
+    right_comparison: The only comparison is a generic one, 'most crowdfunding games
+      are promises'; it never weighs the reader's real choices, such as waiting for
+      retail or what happens to their money if the project slips.
+    qualification: The only hedge is 'if that date changes, I'll tell you', which
+      the reader can't check; the writer left out the available promise of a full
+      refund if delivery is more than three months past November and the update every
+      two weeks.
+    objections: 'It answers the first-timer worry with finished assets, a signed quote
+      and a full-time-job schedule, but it omits the facts that would answer it best:
+      the refund promise, the update schedule and the reviewer''s video in launch
+      week.'
+    fit: It is a roughly 500-word campaign pitch with sensible sections, but the title
+      is left as a '[Game Title]' placeholder even though the name, Lantern Winter,
+      was known.

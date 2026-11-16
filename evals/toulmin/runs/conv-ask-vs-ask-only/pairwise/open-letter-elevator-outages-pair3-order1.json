@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-15-13Z",
+  "without_skill_run": "2026-11-16T20-23-48Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A offers to meet on any weekday evening and to keep a list of residents who need help on the stairs. Those offers make the association look organized and willing to cooperate rather than like a few loud complainers, and they give me an easy first step. Document B only makes demands of Keystone, and lines like 'paying for a building they can't fully use' make me more defensive."
+}

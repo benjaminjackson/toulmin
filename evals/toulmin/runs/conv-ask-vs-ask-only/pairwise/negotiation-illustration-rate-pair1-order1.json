@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-13-02Z",
+  "without_skill_run": "2026-11-16T20-21-45Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both emails make an honest, well-supported case. A reads as more finished and persuasive: it notes that $11,500 is below what she earned elsewhere because she wants to keep working with us, and it offers a call. B ends with an unfilled '[Your name]' placeholder, which looks careless, though its offer to help with internal approval is useful."
+}

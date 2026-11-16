@@ -1,0 +1,75 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+The 14 tellers and member service staff at the two branches that are closing. They heard rumours of the closures two weeks ago, several have worked at their branch for over ten years, and most of them do not want to work on the phones. They decide whether to take the new roles or start looking elsewhere.
+</reader>
+
+<brief>
+Help me write an announcement to our staff. I'm the COO of a credit union with 7 branches. We're closing the Maple Street and Route 9 branches on March 31 and moving the people who work there to a new member phone and chat center.
+
+Facts:
+- The two branches have 14 staff between them. Every one of them is offered a job in the phone and chat center at the same pay or higher.
+- Visits to those two branches fell 44% over the last three years. Phone and chat contacts across the credit union went up 60%.
+- Members calling us now wait an average of 9 minutes on hold.
+- The center will be open 8 a.m. to 8 p.m. on weekdays. The branches were open 9 to 5. Shifts will rotate.
+- Staff in the center can work from home two days a week after 90 days of training.
+- Anyone who doesn't take the new role gets 2 weeks of pay for every year they've worked here.
+
+I want the announcement to say that this change will make everyone's job better. About 400 words, sent by email from me.
+</brief>
+
+The user also knew the following and gave some of it to the writer when asked:
+<user_knows>
+- The credit union is Northfield Community Credit Union. I'm Rachel Greene, COO. The center is at our main office on Elm Avenue.
+- Pay in the center starts $1.50 an hour above current teller pay.
+- Our current phone team lost about 30% of its people last year.
+- I can commit to written offers by February 14, with a decision due March 1, and a one-on-one meeting with HR for anyone who wants one.
+- I can commit that staff with the most years here choose shifts first.
+- I can commit that anyone who takes the new role and wants out within 6 months can still get the severance.
+- I cannot keep the two branches open, and I cannot promise anyone 9 to 5 hours.
+- I know "better for everyone" goes past what I can show. If that is pointed out, I accept saying what is true instead.
+</user_knows>
+
+<document>
+Subject: Closing Maple Street and Route 9, and opening a member phone and chat center
+
+Team,
+
+On March 31 we will close our Maple Street and Route 9 branches. All 14 people who work at those branches will be offered a job in our new member phone and chat center at the main office on Elm Avenue. Every offer will be at the same pay or higher.
+
+Here is why. Over the last three years, visits to those two branches fell 44%. Over the same three years, phone and chat contacts across the credit union rose 60%. Members have changed how they reach us, and we haven't kept up. Today a member who calls us waits an average of 9 minutes on hold. The new center is how we fix that, and it will be staffed by people who already know our members.
+
+For the 14 of you at Maple Street and Route 9, some things will change, and I want to be straight about them.
+
+Hours. The center will be open 8 a.m. to 8 p.m. on weekdays, so it covers more of the day than the branches' 9 to 5. Shifts will rotate. The people who have worked here longest will pick their shifts first. I can't promise anyone a 9-to-5 schedule, and we are still working out how the rotation will run.
+
+The work. Helping members by phone and chat is different from helping them at the counter. Everyone starts with 90 days of training.
+
+Working from home. Once you finish the 90 days of training, you can work from home two days a week.
+
+Your decision. You'll get your written offer by February 14, and your decision is due March 1. If you'd like to talk it through first, you can book a one-on-one with HR.
+
+If you decide not to take the new role, you'll receive two weeks of pay for every year you've worked here.
+
+If you take the role and decide within six months that it isn't right for you, you can still leave with that same severance. You don't have to know for certain on March 1. You can try the job and then decide.
+
+To everyone at our other branches: members who used Maple Street and Route 9 will start coming to you and calling us. Please help them through the change.
+
+Thank you,
+
+Chief Operating Officer
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

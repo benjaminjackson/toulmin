@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-13-02Z",
+  "without_skill_run": "2026-11-16T20-21-45Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "A shows the full budget, including the 10% in fees and the buffer, and admits that 23 ratings is a small sample, which is what a wary backer like me looks for. B leaves out fees, so its numbers have an unexplained gap of about $5,400, and its claim that most playtesters were strangers isn't supported. Even with the reviewer video, B feels slicker and less trustworthy."
+}

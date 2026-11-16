@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-14-08Z",
+  "without_skill_run": "2026-11-16T20-22-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B reads as someone who understands a regulated plant: it says she would learn the current program first and then speed it up \"without skipping a required step or weakening the record behind it.\" It also gives the exact GMP course end date and is signed by name. A's line about having \"dropped what didn't\" matter in her old training raises a small red flag for a GMP environment, and its unfilled placeholders make it look unfinished."
+}

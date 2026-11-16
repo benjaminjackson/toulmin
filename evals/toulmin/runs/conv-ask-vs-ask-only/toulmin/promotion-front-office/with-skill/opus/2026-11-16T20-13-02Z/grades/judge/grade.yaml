@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T20:14:11.311443+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 400
+  tags: []
+  notes: extracted 400 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 6
+    qualification: 5
+    objections: 7
+    fit: 9
+  details:
+    agree: The pre-renovation rise from 7.9 to 8.2, the seven weeks of covered shifts
+      with overtime under plan, and a concrete budget plan give a GM who believes
+      the renovation drove the scores real reasons to rethink, but the outside candidate's
+      bigger-hotel experience is never really answered.
+    honest: It drops the 'main reason' claim and its numbers are accurate, but 'the
+      payroll budget is mostly scheduling and overtime' and the transition 'again'
+      are claims the brief doesn't support.
+    works_the_facts: It turns turnover into 64% to 36% and shows training time cut
+      by nearly half, but it could have pointed out that 0.3 of the 0.7-point gain
+      (more than 40%) came before the renovation started.
+    right_comparison: The outside candidate is shown only by their weakness (learning
+      a new hotel) and never by their real strength (running a larger desk), so the
+      comparison leans one way.
+    qualification: The budget plan names a three-month deadline and weekly controller
+      meetings, but it gives no measurable checkpoint and says nothing about what
+      happens if she falls short.
+    objections: The renovation objection is answered directly with pre-renovation
+      data and the budget gap is admitted and addressed, but the larger-hotel experience
+      objection is avoided rather than met.
+    fit: It's a tight one-page memo to the GM, with clear headed sections, as the
+      brief asked.

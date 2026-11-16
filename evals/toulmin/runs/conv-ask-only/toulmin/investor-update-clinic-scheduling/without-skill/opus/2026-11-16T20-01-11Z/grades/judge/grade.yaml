@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T20:01:53.962949+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 397
+  tags: []
+  notes: extracted 397 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 3
+    honest: 6
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 2
+    objections: 3
+    fit: 5
+  details:
+    agree: 'A cold lead investor gets an apology with no reason behind it and a promise
+      with no date, then the unfilled ''[Your plan: ...]'' placeholder under Runway,
+      so the email reads as unfinished and gives little reason to take the founder''s
+      calls again.'
+    honest: The figures are accurate (about 11 months of runway, nearly half of no-shows
+      removed), but the claims that records vendors are bundling scheduling and that
+      the lost chain is 'exactly the kind of clinic this is built for' go beyond what
+      the brief supports.
+    works_the_facts: It works out runway and the no-show reduction, but it doesn't
+      show that the lost chain was about 13% of MRR, that clinic count rose by a net
+      5, or when cash runs out if MRR stays flat, and it leaves out the 6 clinics
+      already committed to standalone reminders.
+    right_comparison: It frames the choice fairly as competing with a free built-in
+      scheduler versus selling alongside it, but it leaves out that two more customers
+      paying $3,800 a month use the same records system, which is the real trend in
+      the downside.
+    qualification: '''Next quarter I''ll report on...'' gives no target, the runway
+      plan is a blank placeholder, and the January 7 commitment and monthly one-pager
+      are missing, so the reader has nothing to check against a date or number.'
+    objections: The investor's objection is the silence and whether it will happen
+      again, but the email doesn't give the honest reason (flat numbers), a fixed
+      next date, or the monthly-numbers offer, and it skips the obvious question of
+      whether other customers on the same records system will leave.
+    fit: It is a well-structured investor email under 500 words, but the [Company],
+      [Your name] and runway-plan placeholders mean it can't be sent as it stands.

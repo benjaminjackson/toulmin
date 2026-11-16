@@ -1,0 +1,68 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+A member of the admissions committee for the agricultural technology program at a state technical college, which has 40 places and about 150 applicants. The member reads each letter quickly and has no view of this applicant yet.
+</reader>
+
+<brief>
+I need to write a reference letter. I manage a 400-cow dairy farm, and one of our workers, Tomás, is applying to the two-year agricultural technology program at the state technical college.
+
+What I know about him:
+- He's worked for us for 3 years, since he was 19.
+- He runs the 3 a.m. milking shift on his own, 5 days a week.
+- He learned our herd management software and now flags sick cows for the vet. Last winter he caught 9 cases of mastitis early.
+- He left for 5 weeks in the middle of last summer when his father got sick in Mexico. He told me 2 days before he left.
+- His written English is weaker than his spoken English. He's taking a night class for it.
+- He has missed 2 shifts in 3 years, not counting those 5 weeks.
+
+One page, from me as farm manager.
+</brief>
+
+The user also knew the following and gave some of it to the writer when asked:
+<user_knows>
+- The farm is Hollis Dairy. I'm Mike Hollis, farm manager. His full name is Tomás Reyes.
+- The letter is due February 1, through the college's online portal.
+- Before he left for Mexico, he got his cousin, who had worked for us before, to cover his shifts, and he came back on the day he said he would.
+- The vet told us catching those mastitis cases early saved us about $8,000.
+- He failed the written test in a dairy safety course once and passed it the second time.
+- I can commit to keeping his job open part-time on weekends while he is in the program.
+- I can commit to taking a phone call from the committee. My number is 555-0187.
+- I cannot pay any of his tuition.
+</user_knows>
+
+<document>
+Dear Admissions Committee,
+
+I am writing to recommend Tomás Reyes for your two-year Agricultural Technology program. I manage Hollis Dairy, a 400-cow operation, and Tomás has worked for me for three years, since he was 19. He already does a good part of what your program teaches, and I believe the training will make him better at it.
+
+Tomás runs our 3 a.m. milking shift on his own, five days a week. Apart from the family emergency I describe below, he has missed two shifts in three years.
+
+He also learned our herd management software, and he now uses it to flag sick cows for our veterinarian. During the winter of 2025–26 he caught nine cases of mastitis early. Our vet estimates that catching them when he did saved the farm about $8,000. That work means reading the data, noticing what's wrong and acting before a small problem becomes an expensive one. I expect your program trains people to do exactly that.
+
+You should know about one absence. In summer 2026, Tomás's father became seriously ill in Mexico, and Tomás had to leave for five weeks with two days' notice. Before he went, he arranged for his cousin, who used to work for us, to cover his shifts. He came back on the day he said he would, and I held his job for him. I see the way he handled it as a reason to trust him.
+
+His spoken English is good, but his written English is not yet as strong. He is taking a night class to improve it while still working the early shift. I expect him to bring the same effort to his coursework.
+
+We want Tomás to keep working with us. While he is in the program, I will keep a part-time weekend job open for him.
+
+I recommend him strongly, and I would be glad to answer any questions you have.
+
+Sincerely,
+
+Mike Hollis
+Farm Manager, Hollis Dairy
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

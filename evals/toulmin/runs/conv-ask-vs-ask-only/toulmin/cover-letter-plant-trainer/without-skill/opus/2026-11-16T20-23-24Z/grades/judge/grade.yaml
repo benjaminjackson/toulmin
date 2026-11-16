@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:24:13.126292+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 331
+  tags: []
+  notes: extracted 331 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 5
+    objections: 7
+    fit: 6
+  details:
+    agree: The signed training records, the two clean state audits and the 20-to-12-hour
+      rewrite speak directly to a skeptical HR manager's doubt that teachers understand
+      documentation and compliance, so a phone screen is likely, though the letter
+      never makes it easy to schedule one.
+    honest: The writer dropped the unsupported 'cut your training time in half' claim,
+      used only the brief's facts at their true strength and invented nothing, though
+      calling teaching 'what a manufacturing plant relies on' is a slight stretch.
+    works_the_facts: 'The raw figures are given correctly but never put in their strongest
+      true form: the training rewrite isn''t called a 40% cut, the pass-rate rise
+      isn''t shown as 17 points or about 40% relative, and there''s no cumulative
+      count of teachers trained or records kept.'
+    right_comparison: Before-and-after figures show the trends honestly (20 to 12
+      hours, 41% to 58%), but the letter doesn't set her case against the obvious
+      alternative of hiring someone with GMP experience, beyond admitting the gap.
+    qualification: The GMP course has a checkable completion date of May 2, but the
+      letter leaves out the June 14 earliest start date and her interview availability,
+      conditions the reader needs and will hit later.
+    objections: The 'teachers don't know regulated work' objection is met head-on
+      with the audited records, the GMP enrollment and a plan to learn the LMS, but
+      the start-date constraint is left as a surprise for later.
+    fit: It is a one-page cover letter in the right form, but it keeps [Your Name]
+      and contact placeholders even though the writer had Laura Benitez's name, and
+      it has no closing line with dates for scheduling.

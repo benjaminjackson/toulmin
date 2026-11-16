@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-14-23Z",
+  "without_skill_run": "2026-11-16T20-22-44Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a backer who has lost money before, I trust B more. It says plainly that most ratings came from people who played at the creator's table, gives a realistic November delivery date and rules out stretch goals. A has a clear budget breakdown, but it presents the convention ratings as if they came from strangers and never says when I'd get the game."
+}

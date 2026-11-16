@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-13-02Z",
+  "without_skill_run": "2026-11-16T20-21-45Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me what I need to trust Sam again: a named sender, the runway date, the worst case if the other two clinics on that records system leave, and a clear reason why selling reminders on their own answers the risk that cost them the chain. A has placeholder names and adds an unsupported claim that they're deciding between raising money and cutting costs."
+}

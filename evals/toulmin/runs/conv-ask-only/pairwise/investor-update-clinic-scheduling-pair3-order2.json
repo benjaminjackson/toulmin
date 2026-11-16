@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-23-48Z",
+  "without_skill_run": "2026-11-16T20-01-54Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B explains why the updates stopped, gives a firm date for the next one (January 7), and offers monthly numbers, which answers my complaint directly. A has unfilled placeholders, no plan for the runway, and vague asks. B also backs the reminder plan with 6 committed clinics and makes concrete asks for a call and introductions."
+}

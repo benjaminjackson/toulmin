@@ -1,0 +1,34 @@
+<final_document>
+Hollis Dairy
+
+November 16, 2026
+
+To the Admissions Committee, Agricultural Technology Program:
+
+I am the farm manager at Hollis Dairy, a 400-cow operation, and I am writing to recommend Tomás Reyes for your two-year agricultural technology program. Tomás has worked for us for three years, since he was 19. He is one of the most reliable people I have had on this farm.
+
+Tomás runs our 3 a.m. milking shift on his own, five days a week. Nobody is there to check on him at that hour, and I have never needed to. In three years he has missed two shifts.
+
+He also learned our herd management software and now uses it to flag sick cows for our vet. Last winter he caught nine cases of mastitis early. Our vet estimates that saved us about $8,000. Nobody assigned him that work. He took it on, and it has made him more valuable to us than the milking job alone.
+
+Last summer his father became seriously ill in Mexico, and Tomás needed to be there for five weeks. Before he left, he arranged for his cousin, a former employee of ours, to cover all of his shifts. He came back on the day he said he would. He handled a family emergency without leaving the farm short-handed, and I respect him for that.
+
+His spoken English is good. His written English is weaker, and he knows it. He is taking a night class to improve it, on top of a schedule that starts at 3 a.m. I expect he will bring the same effort to your coursework.
+
+We will keep a part-time weekend position open for Tomás while he is in school. I would not do that for someone I did not want back.
+
+I recommend him without reservation. Please contact me if I can tell you more.
+
+Sincerely,
+
+Mike Hollis
+Farm Manager, Hollis Dairy
+[Phone] | [Email]
+</final_document>
+
+I left out several things you didn't give me:
+
+- **How he learned the software and what he plans after school.** You weren't sure about these, so the letter doesn't mention them.
+- **College name and farm location.** You didn't give me these. The salutation names only the program, which works for a portal upload. Add the college name or a town and state if you'd like them in.
+- **Phone and email.** Fill in the placeholders at the bottom.
+- **"Nobody assigned him that work."** Please check this line. I based it on him learning the software and taking on the vet flagging himself. If you trained him or gave him the job, delete that sentence and the rest of the paragraph still works.

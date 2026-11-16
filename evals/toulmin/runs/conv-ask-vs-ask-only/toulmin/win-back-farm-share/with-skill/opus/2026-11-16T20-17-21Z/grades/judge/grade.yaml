@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:18:13.889451+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 190
+  tags: []
+  notes: extracted 190 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 7
+    objections: 7
+    fit: 8
+  details:
+    agree: The plain apology and the specific promises about weekly emails and weather
+      credits answer exactly why this household left, but nothing makes up for the
+      $540 year they lost, and there's no sign-up link to act on, so a resisting reader
+      may still hold back.
+    honest: Every figure matches the brief, and the email admits the nets' limited
+      cover and the chance of crop loss, though "many of you said" glosses 29 of 41
+      respondents and "you won't pay for a half-empty box" leans a little past a credit
+      rule that kicks in only above a one-third cut.
+    works_the_facts: 'Nothing is worked out from the numbers: it doesn''t give the
+      weekly value of a share (about $24.50), what the six thin weeks cost a member
+      (roughly $74), or the survey result as 29 of 41, so the reader never sees what
+      the new credit is actually worth.'
+    right_comparison: Last year is described honestly as the thing being fixed, but
+      the email never compares signing up with not signing up, and the 52 remaining
+      shares are stated without any sense of how fast they're going.
+    qualification: The more-than-a-third credit rule and the plain statement that
+      loss can't be ruled out are concrete and something a member could check, though
+      it doesn't say who decides a box was cut or how the credit is paid.
+    objections: The two complaints, that the farm went quiet and paid nothing back,
+      are each met with a specific promise, but the obvious follow-up about any credit
+      for last year's thin boxes goes unanswered.
+    fit: It's a short, clear email under 200 words, but it leaves out the website
+      sign-up link and doesn't mention Thursday pickup.

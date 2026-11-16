@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T20:23:49.593129+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 350
+  tags: []
+  notes: extracted 350 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 5
+    objections: 7
+    fit: 8
+  details:
+    agree: The pre-renovation rise from 7.9 to 8.2 and the seven weeks of clean coverage
+      give Mark solid reasons, but the memo never contrasts Daniela's value with the
+      outside candidate's experience at a larger hotel, and that leaves his main alternative
+      unanswered.
+    honest: Every claim matches the facts given, the memo drops the 'main reason'
+      overclaim, and it openly credits the renovation and states the budget gap; the
+      only invented material is two bracketed placeholders.
+    works_the_facts: 'The raw numbers are given but not worked: it never says turnover
+      fell from 64% to 36%, that training time to solo work is down 44%, or that 0.3
+      of the 0.7-point gain (about 43%) came in the first five of the 18 months, before
+      any renovation.'
+    right_comparison: It does compare the score before and after the renovation began,
+      but it never describes the actual alternative, an outside hire from a larger
+      hotel who doesn't know this team, building or guests, even though 'I know this
+      team' hints at it.
+    qualification: The budget plan has a checkable deadline (the finance course within
+      three months) and a weekly cadence, but it gives no measure of success or consequence
+      if it slips, and the Friday-wait priority has no target or date.
+    objections: It meets the renovation objection directly with the pre-renovation
+      rise and faces the budget gap with a plan, but it leaves the outside candidate's
+      larger-hotel experience unaddressed.
+    fit: It's a tight one-page memo to the GM in the right register and is due on
+      the Friday asked for, though two unfilled placeholders mean it isn't ready to
+      send.

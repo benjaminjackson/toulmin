@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:26:49.291872+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 317
+  tags: []
+  notes: extracted 317 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 7
+    honest: 6
+    works_the_facts: 5
+    right_comparison: 5
+    objections: 8
+    fit: 7
+  details:
+    agree: 'A busy committee member gets concrete proof quickly: he runs the 3 a.m.
+      shift alone, missed two shifts in three years, caught nine mastitis cases early
+      and saved $8,000, and has a job held for him; the committee also can''t phone
+      the manager because the number is a placeholder.'
+    honest: Mostly faithful, but 'Nobody assigned him that work. He took it on' is
+      invented, 'seriously ill' and 'all of his shifts' go a little beyond the brief,
+      and leaving out the two days' notice tilts the story without stating anything
+      false.
+    works_the_facts: The $8,000 figure is used well, but the attendance record is
+      left as 'two shifts' when it could be shown as about 2 missed out of roughly
+      750 scheduled shifts, which is its strongest true form.
+    right_comparison: There is no explicit comparison, though contrasting him with
+      a typical applicant or with 'the milking job alone' gives some implied context;
+      a reference letter needs little more than that.
+    qualification: A reference letter of this kind needs no checkable hedge with a
+      date and number; the one concession, his written English, is handled as a candid
+      statement backed by the night class.
+    objections: The two likely doubts, written English for coursework and the five-week
+      absence, are both met directly with facts (the night class, the cousin covering
+      his shifts, his on-time return), and no needless objection is raised.
+    fit: It is one page from the farm manager in proper letter form, but it ends with
+      '[Phone] | [Email]' placeholders even though the manager had given a number
+      and offered to take the committee's call.

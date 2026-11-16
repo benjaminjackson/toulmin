@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T20:17:23.969464+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 386
+  tags: []
+  notes: extracted 386 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 4
+    honest: 6
+    works_the_facts: 5
+    right_comparison: 3
+    qualification: 7
+    objections: 2
+    fit: 8
+  details:
+    agree: A salon owner who likes her cousin at $600 a year sees $199 a month (about
+      $2,388 a year) and is never told she can keep him for her taxes, so she may
+      well not book.
+    honest: Most claims track the brief, including the three missed closes, but 'that
+      cost goes away' overstates what 9 of 31 clients reported, and 'like most of
+      the salons I work with' is invented.
+    works_the_facts: Turning $800 into about four months of fees is a good derivation,
+      but the page never puts the 9 of 31 as a share, never sets the annual cost against
+      her current spend, and never mentions that 31 clients stayed through the price
+      rise.
+    right_comparison: 'The alternative is shown as messy books an accountant has to
+      untangle, not as what this reader actually has: a once-a-year relative she pays
+      $600, who could keep doing her returns.'
+    qualification: The guarantee is concrete and checkable (the 10th of each month,
+      or that month is free), but the no-contract 30-day exit is left out, and so
+      is the cap of about 5 new clients a year.
+    objections: 'The two objections that matter, price against $600 and loyalty to
+      the cousin, are never met, even though the brief answers both: she does no income
+      tax returns, so the cousin keeps that work, and there is no contract.'
+    fit: It is a sales page of roughly 380 words with clear sections and a booking
+      button at the end, as the brief asked.

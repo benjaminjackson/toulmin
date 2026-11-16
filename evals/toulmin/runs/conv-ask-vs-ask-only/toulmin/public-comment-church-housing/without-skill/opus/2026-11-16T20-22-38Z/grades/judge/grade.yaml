@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T20:23:23.605366+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 366
+  tags: []
+  notes: extracted 366 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 6
+    objections: 5
+    fit: 9
+  details:
+    agree: Opening on traffic as a neighbour who lives with the morning backup, and
+      asking for the signal as a binding condition, gives the two traffic-minded commissioners
+      a reason to vote yes; opposing neighbours get little beyond that, because the
+      parking-sharing offer and the construction liaison commitment are missing.
+    honest: 'The numbers are accurate, but saying ''the traffic gets handled'' claims
+      more than the study does: the signal keeps one intersection at a C, while 310
+      more trips still use Alder, and Margaret said she can''t promise traffic won''t
+      get worse; ''working people, seniors, and families'' is also an added description.'
+    works_the_facts: 'The facts are listed correctly but barely worked: the speech
+      never says the 64 homes could house about one in six of the 412 waiting households,
+      and it never points out the 8 spare parking spaces or what 310 trips means per
+      hour at rush hour.'
+    right_comparison: It names the alternative fairly (an empty lot six days a week
+      while 412 households wait an average of three years), but it doesn't say the
+      shortage and the wait continue or grow if this project is turned down.
+    qualification: Making the signal a permit condition is concrete and checkable,
+      and it names the C-versus-D result, but there is no timing (for example, signal
+      in place before occupancy) and no consequence if the signal isn't built.
+    objections: It deals with the intersection rating, but it leaves out the 20 months
+      of construction trucks on Alder, the written offer to share the lot for neighbour
+      parking, and Margaret's place on the construction neighbour group, all of which
+      answer objections the opposing neighbours will raise.
+    fit: At about 400 words of plain, spoken first-person text with a clear ask at
+      the start and end, it fits within the three-minute limit.

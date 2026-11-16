@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-13-02Z",
+  "without_skill_run": "2026-11-16T20-21-45Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "As a wary backer, I trust B more because it gives a full budget, including the roughly 10% in fees and a buffer, and it admits that 23 ratings is a small number. A leaves out the fees, and it claims most playtesters were strangers, which the facts don't support."
+}

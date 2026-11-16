@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T20:16:44.723901+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 362
+  tags: []
+  notes: extracted 362 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 5
+    objections: 6
+    fit: 8
+  details:
+    agree: The 8.2-before-renovation fact speaks directly to the GM's belief about
+      the scores, and the seven weeks of coverage give him evidence she can do the
+      job, but the memo never says why she beats a candidate who ran a larger desk,
+      so he may stay undecided.
+    honest: It drops the 'main reason' claim and says the renovation is 'part of that
+      story, but not all of it', and every figure is accurate, though the line 'a
+      desk that keeps its people... checks guests in well' claims a link the facts
+      don't show.
+    works_the_facts: 'It works out the 44% cut in training time, but misses the strongest
+      numbers: 0.3 of the 0.7-point rise came in the first 5 months, a faster monthly
+      pace than after the renovation began, and turnover fell from 64% to 36%.'
+    right_comparison: The outside candidate is reduced to someone who 'would have
+      to learn' the property, with no admission of their larger-hotel experience,
+      and the score trend before and after the renovation is described but not put
+      as a rate.
+    qualification: The finance course has a three-month deadline and the controller
+      sessions are weekly, but there is no checkpoint the GM can measure, such as
+      payroll against plan by a set date, and no consequence if a commitment is missed.
+    objections: It meets the renovation objection and the budget gap, but it says
+      nothing about the outside candidate's bigger-hotel experience, which is the
+      GM's main alternative, and it leaves out the Friday check-in wait complaints
+      he may bring up.
+    fit: It is a short, one-page memo to the GM with clear sections, apart from a
+      stray '</parameter>' tag left at the end.

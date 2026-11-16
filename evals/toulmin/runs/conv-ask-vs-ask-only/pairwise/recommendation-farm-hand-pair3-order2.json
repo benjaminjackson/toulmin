@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-17-47Z",
+  "without_skill_run": "2026-11-16T20-26-06Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B opens with the herd-software and mastitis work and ties it to what the program teaches, which is what an ag-tech committee wants to see. It also gives a real phone number. A leaves '[Phone] | [Email]' placeholders and adds a claim the brief doesn't support ('Nobody assigned him that work')."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-22-36Z",
+  "without_skill_run": "2026-11-16T20-03-03Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A addresses me by name, names The Night Garden, and makes it clear that $9,000 no longer covers four months of work, which tells me there's a real risk of losing her. B's many blank placeholders make it read like a template. Both make the same honest case with the same numbers, so the gap is modest."
+}

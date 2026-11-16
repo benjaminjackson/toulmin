@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:22:36.129812+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 322
+  tags: []
+  notes: extracted 322 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 6
+    objections: 7
+    fit: 7
+  details:
+    agree: The signed training records, the two clean state audits and the GMP course
+      with an end date give a skeptical HR manager concrete reasons to offer a phone
+      screen, though leaving out the June 14 start date and interview availability
+      could cost the call.
+    honest: The letter drops the unsupported 'cut in half' claim, uses the true 20-to-12-hour
+      reduction instead, and states the GMP gap plainly, though 'much of that work
+      has been the job you're hiring for' goes a little beyond what the facts show.
+    works_the_facts: 'The figures are stated as given but not worked: the letter never
+      calls the 20-to-12-hour change a 40% cut, never gives the 17-point (about 41%
+      relative) rise in AP pass rate, and never counts the roughly 1,000+ students
+      with signed safety records over the years.'
+    right_comparison: The before and after figures (20 vs 12 hours, 41% vs 58%) are
+      fair, but the letter never sets the writer against the real alternative, a candidate
+      who already has GMP experience, beyond admitting the gap.
+    qualification: The GMP course has a checkable May 2 finish date, but the letter
+      doesn't say when the writer could start (June 14) or what the reader gets when
+      the course is done, such as a certificate.
+    objections: It answers the 'teachers don't know regulated plants' doubt with audited,
+      signed records and the course enrollment, but it leaves the start-date question
+      open, and the reader will ask it.
+    fit: It is a one-page cover letter in the right form, but it uses a [Your Name]
+      placeholder even though the name was known, and a stray '</invoke>' artifact
+      is left at the end.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-21-45Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks to what I'm worried about in a regulated plant: signed training records, two clean state audits, a GMP course with an end date, and an actual cut in training hours from 20 to 12. It's also addressed to me by name. A uses generic placeholders, and its claim that the candidate is \"used to records\" is vague, so it reads like a typical teacher application."
+}

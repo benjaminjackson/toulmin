@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-13-02Z",
+  "without_skill_run": "2026-11-16T20-21-45Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B does more to change my view that this is a few loud people: it shows that 74 of the 112 households signed, which is two-thirds of the building. It also gives me something to act on, with an offer to meet on any weekday evening and to share a list of residents who need help on the stairs. A only makes demands and points to the TV coverage, which makes me defensive, though B's 'From: The residents' header slightly overstates who it speaks for."
+}

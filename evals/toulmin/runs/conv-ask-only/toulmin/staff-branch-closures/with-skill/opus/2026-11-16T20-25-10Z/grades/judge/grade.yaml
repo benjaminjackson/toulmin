@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:26:04.135860+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 397
+  tags: []
+  notes: extracted 397 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 8
+    objections: 7
+    fit: 8
+  details:
+    agree: The higher pay, the senior-first shift choice and the six-month severance
+      safety net give a hesitant long-tenured teller good reasons to try the role,
+      but the email never mentions the two weeks of rumours, and it says little to
+      people who simply don't want phone work.
+    honest: It drops the unsupported claim that the change is 'better for everyone,'
+      states the hours cost plainly, and invents no figures; every number comes from
+      the facts the COO supplied.
+    works_the_facts: It repeats the figures correctly but works none of them out,
+      such as what $1.50 an hour comes to over a year, or that a ten-year teller's
+      severance would be 20 weeks of pay, so readers have to do that maths themselves.
+    right_comparison: It sets the 44% drop in branch visits against the 60% rise in
+      phone and chat contacts and the 9-minute hold, and it lays out the severance
+      path, but it doesn't say where those trends lead if the branches stay open.
+    qualification: The commitments have dates and consequences readers can check (offers
+      by February 14, decisions by March 1, severance still available within six months,
+      no promise of 9-to-5); only the center's opening date and training schedule
+      are left open.
+    objections: It meets the objections about hours and the fear of being trapped
+      in a phone job with the six-month exit and senior-first shift choice, but it
+      doesn't acknowledge the rumours or speak directly to readers who dislike phone
+      work.
+    fit: It's a COO email of about 400 words with clear sections, as asked, though
+      it ends with a '[Your name]' placeholder where Rachel Greene's name should be.

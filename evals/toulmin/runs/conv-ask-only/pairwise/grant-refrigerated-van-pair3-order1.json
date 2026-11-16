@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-23-59Z",
+  "without_skill_run": "2026-11-16T20-02-05Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is the one I'd recommend. It owns up to the late shelving report, names Dave Lin as responsible for the final report within 30 days, offers quarterly updates and is upfront about the $4,500 yearly running cost. B never mentions the late report I spent four months chasing, leaves out the running costs and promises monthly figures it may not deliver, though A's unfilled placeholders still need fixing."
+}

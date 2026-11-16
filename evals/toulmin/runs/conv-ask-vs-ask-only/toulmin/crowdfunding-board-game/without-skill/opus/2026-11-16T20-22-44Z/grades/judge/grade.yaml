@@ -1,0 +1,60 @@
+grader: judge
+graded: '2026-11-16T20:23:48.801092+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 417
+  tags: []
+  notes: extracted 417 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 4
+    honest: 6
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 2
+    objections: 4
+    fit: 7
+  details:
+    agree: The budget breakdown and the upfront admission of being a first-time creator
+      would earn some trust, but a backer who has already lost $85 on a project that
+      never shipped gets no delivery date, no refund promise and no update schedule,
+      so they would likely hold back.
+    honest: The numbers are accurate and the pitch avoids saying 'proven hit', but
+      it says the convention players had never heard of the game without mentioning
+      that most of the 23 ratings came from people at the creator's own table, and
+      'almost nothing else is left to go wrong' claims more than the facts support.
+    works_the_facts: It correctly works out about 572 backers, about $5,150 for shipping,
+      $2,800 in fees and about $2,650 left over, but it never compares the 572 backers
+      needed with the 1,240 launch-email sign-ups (about 46% of them would need to
+      back), which is the most persuasive figure available.
+    right_comparison: The only contrast it offers is 'funding an idea' versus 'printing
+      a finished game', which is a general claim; it does not compare against how
+      first-time campaigns typically turn out or what the backer's real alternatives
+      are.
+    qualification: 'A risk-focused reader needs checkable commitments, and the pitch
+      gives none: no November delivery date, no promise of an update every two weeks,
+      and no full refund if delivery is more than three months late.'
+    objections: It deals with the first-time-creator concern and shows where the money
+      goes, but it leaves out the main worry, which is whether the game will actually
+      ship, and it skips the reviewer video, the refund and the delivery date, all
+      of which answer that worry.
+    fit: It is a pitch of about 480 words in a suitable form, but it still contains
+      the placeholders [Game Title] and [Your name] even though the game is called
+      Lantern Winter and the creator is Owen Hale.

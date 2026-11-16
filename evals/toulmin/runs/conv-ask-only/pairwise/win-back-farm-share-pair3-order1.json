@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-farm-share",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-26-22Z",
+  "without_skill_run": "2026-11-16T20-07-18Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A deals with what drove me away: it promises credit for any week weather cuts a box by more than a third, and a weekly email so I'm not left in the dark again. It also says honestly that crops could still be lost. Document B apologizes, but it only lists the field, the nets and pause credit, so a bad week would still leave me without credit. It also has unfilled placeholders."
+}

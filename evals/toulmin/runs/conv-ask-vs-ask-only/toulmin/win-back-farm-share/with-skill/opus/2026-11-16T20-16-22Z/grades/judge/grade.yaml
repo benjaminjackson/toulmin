@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:17:21.653867+00:00'
+outcome: pass
+score: 0.85
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 205
+  tags: []
+  notes: extracted 205 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.85
+  metrics:
+    agree: 8
+    honest: 9
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 8
+    objections: 8
+    fit: 9
+  details:
+    agree: The plain apology, which names the six thin weeks and the single email,
+      and the new credit and weekly-email promises speak directly to this household's
+      grievance that the farm went quiet, so many would reconsider, though some may
+      still want something for last year's losses.
+    honest: Every figure and promise matches what Sam supplied, and the email openly
+      admits that crop loss could happen again and that the nets don't cover the greens.
+    works_the_facts: 'It lists the facts but never works them out for this reader:
+      boxes cut by half clear the one-third threshold, so under the new policy last
+      July''s six weeks would have earned credit (roughly $147 of a $540 share), and
+      it doesn''t say so.'
+    right_comparison: It implicitly sets last year's silence and lack of credit against
+      this year's policy, but it never states that comparison concretely, for example
+      what the same storm would mean under the new rules.
+    qualification: 'The hedge is specific and checkable: crop loss may still happen,
+      the greens are unprotected, a weather cut of more than a third triggers credit,
+      and the reader will hear from Sam that same week.'
+    objections: It meets the core objection that the farm went quiet and paid nothing
+      with the weekly email and the credit threshold, and it raises no objection the
+      facts already answer, though it leaves open whether anything is owed for last
+      year.
+    fit: It's a short email of about 195 words with a clear subject line and closing
+      details (price, deadline, shares left, sign-up link), so it fits under the 200-word
+      limit.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-15-17Z",
+  "without_skill_run": "2026-11-16T20-23-23Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B speaks to the traffic worries directly. It admits it can't promise traffic won't get worse, adds the church's written offer to share weekday parking with neighbours, and ends with a clear yes-or-no choice. That would land better with a skeptical room than A, which raises traffic first but gives less reassurance and leaves out the parking offer."
+}

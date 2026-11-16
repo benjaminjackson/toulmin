@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T20:24:21.033787+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 365
+  tags: []
+  notes: extracted 365 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 6
+    objections: 5
+    fit: 9
+  details:
+    agree: The speech opens with traffic, which is the commissioners' stated concern,
+      and offers the signal as a binding condition that keeps the intersection at
+      C, which gives them a clear reason to vote yes; opposing neighbours get little
+      beyond reassurance on parking.
+    honest: Every figure matches the facts provided; the only slight stretches are
+      'the neighborhood gets the fix', which hints that traffic is solved even though
+      310 trips are still added, and the unsourced claim that the waiting-list households
+      earn under 60% of median.
+    works_the_facts: 'The numbers are mostly restated rather than worked: it misses
+      that 72 spaces for 64 units leaves 8 spare, that 64 units would house about
+      one in six of the 412 waiting households, and it never gives a per-hour or rush-hour
+      breakdown of the 310 trips.'
+    right_comparison: 'It compares the project with an empty lot and a three-year
+      wait, but leaves out the stronger comparison: without the project there is no
+      signal, and Alder already backs up at 8am.'
+    qualification: Making the signal a written permit condition that keeps the intersection
+      at C gives commissioners something they can check, but there is no timing (for
+      example, signal installed before occupancy) and no consequence if it is missed.
+    objections: The speech answers the traffic and parking objections, but it ignores
+      20 months of construction trucks on Alder and leaves out the written weekday-parking
+      offer and the neighbour group Margaret would serve on, both of which speak directly
+      to the opposing neighbours.
+    fit: At roughly 400 words it is a spoken first-person statement that fits the
+      three-minute limit and ends with a clear request.

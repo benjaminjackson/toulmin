@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T20:19:03.846824+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 207
+  tags: []
+  notes: extracted 207 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 6
+    objections: 7
+    fit: 9
+  details:
+    agree: The plain apology, the weekly email promise and the credit for weeks when
+      weather cuts a box by more than a third answer this household's complaint that
+      the farm went quiet, though nothing addresses the money they lost last year.
+    honest: Every claim traces to the brief or the user's facts, and the email openly
+      says it can't promise there will be no crop loss and that the greens are still
+      exposed.
+    works_the_facts: 'The figures are passed on raw: ''many of you'' undersells 29
+      of 41 survey respondents (71%), and the email never works out the credit per
+      week (about $24.50 of a $540 share) or what last summer''s half-boxes cost the
+      reader.'
+    right_comparison: The email sets last year's handling against this year's policy
+      clearly, but it never describes the reader's real alternative, which is not
+      rejoining or buying elsewhere.
+    qualification: The 'more than a third' threshold and the weekly Thursday email
+      give the reader a number and a schedule to check, but the email doesn't say
+      how a cut will be measured or when the credit will be applied.
+    objections: It meets the main objections of silence and no credit directly and
+      admits the risk to the greens, but it leaves out the likely sore point that
+      last year's loss gets no make-good.
+    fit: It is a short, warm email with a subject line, a body of about 195 words
+      and a clear deadline and sign-up path, as the brief asked.

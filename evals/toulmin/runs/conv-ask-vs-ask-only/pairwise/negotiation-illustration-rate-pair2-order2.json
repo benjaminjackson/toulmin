@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-14-03Z",
+  "without_skill_run": "2026-11-16T20-22-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both emails make the same honest case, and B makes it a little more clearly: it gives the $11,500 ask up front, points out that $9,000 is below the bottom of the agent's range, and says plainly that she can't take the book at $9,000. A still has an unfilled '[Your name]' placeholder, which looks careless."
+}

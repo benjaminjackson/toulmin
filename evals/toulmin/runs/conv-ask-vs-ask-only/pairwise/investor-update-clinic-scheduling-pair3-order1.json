@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-15-21Z",
+  "without_skill_run": "2026-11-16T20-23-48Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A tells me about the two other customers, paying $3,800 a month, who use the same records system and could leave the same way, and it works out what that would do to runway. It also says plainly that six commitments aren't proof. That frank handling of the risk rebuilds my trust after six months of silence. B leaves that risk out and ends with a '[Your name]' placeholder, which feels less candid and less careful."
+}

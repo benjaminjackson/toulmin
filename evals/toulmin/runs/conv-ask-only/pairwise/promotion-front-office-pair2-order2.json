@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-front-office",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-22-43Z",
+  "without_skill_run": "2026-11-16T20-04-35Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B answers my doubt about the renovation with a fact: check-in scores had already gone from 7.9 to 8.2 before the work started. It also gives a specific budget plan, with the finance course and weekly sessions with Ben, and admits the Friday wait problem. A is full of placeholders, gives a vaguer budget plan and makes claims that aren't backed up, such as \"service didn't slip.\""
+}

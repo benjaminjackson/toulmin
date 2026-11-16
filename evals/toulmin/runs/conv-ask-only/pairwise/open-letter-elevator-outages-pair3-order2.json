@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-23-48Z",
+  "without_skill_run": "2026-11-16T20-04-20Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B names me and the building, uses one concrete and hard-to-dismiss fact (the missed dialysis appointments), and sets aside the $400,000 elevator demand to ask for three specific things I can actually do. That makes it harder for me to write the association off as a few loud people. A has unfilled placeholders and vaguer requests, and it reopens the second-elevator question, so it reads like a generic complaint I could deflect."
+}

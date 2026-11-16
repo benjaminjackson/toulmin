@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-21-45Z",
+  "without_skill_run": "2026-11-16T20-03-02Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B names me and the building, cites the missed dialysis appointments, drops the second-elevator fight, and asks for three concrete things I can actually grant. That, plus the December 1 public posting, makes acting on it feel both possible and urgent. A is generic, full of placeholders, and still pushes for an engineering study on a second elevator, which makes the association easier to brush off as loud."
+}

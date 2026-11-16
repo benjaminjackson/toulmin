@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-15-10Z",
+  "without_skill_run": "2026-11-16T20-23-24Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B ties the audited, signed training records directly to GMP documentation and gives a concrete 90-day plan for reviewing the new-hire program, which speaks to my doubt that teachers understand a regulated plant. A is honest and solid but reads more like a generic teacher's letter, and B's small unsupported additions, such as 'without dropping any required content,' keep the gap narrow."
+}

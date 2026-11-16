@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T20:18:28.824653+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 396
+  tags: []
+  notes: extracted 396 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 4
+    right_comparison: 6
+    qualification: 6
+    objections: 7
+    fit: 8
+  details:
+    agree: Seniority-first shift choice, the HR one-on-one and the six-month trial
+      with severance still available give a reluctant long-tenured teller a low-risk
+      reason to try the role, but the email never says what the phone work is actually
+      like or why it might suit someone who doesn't want it.
+    honest: The email drops the unprovable 'better for everyone' claim and states
+      every fact accurately; its only small additions are the unsourced line that
+      the rotation is 'still being worked out' and the claim that the center will
+      be 'staffed by people who already know our members'.
+    works_the_facts: 'The figures are repeated exactly as given and never worked through:
+      it says ''same pay or higher'' instead of the known $1.50-an-hour raise, and
+      it doesn''t show what severance comes to for a ten-year employee (20 weeks of
+      pay).'
+    right_comparison: The falling branch visits and rising phone contacts are set
+      side by side as a trend, and the option of leaving with severance is stated
+      plainly, but the email never says outright that keeping the branches open is
+      not an option.
+    qualification: The offer date, decision date and six-month severance window are
+      concrete and can be checked, but the open point about how shifts will rotate
+      has no date for when it will be settled and no follow-up promised.
+    objections: The worries about hours, leaving a long-held job and committing before
+      trying the work are all answered, but the strongest pull factor (higher pay)
+      is left out, and the objection that they simply don't want phone work gets only
+      'it's different, there's training'.
+    fit: It is a plain staff email of about 400 words with a clear subject line, but
+      the sign-off gives only the title and not Rachel Greene's name.

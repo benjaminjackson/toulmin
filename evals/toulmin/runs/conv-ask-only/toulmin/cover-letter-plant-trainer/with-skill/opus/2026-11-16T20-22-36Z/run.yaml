@@ -1,0 +1,63 @@
+task:
+  name: cover-letter-plant-trainer
+  type: cover-letter
+  set: tune
+  reader: The HR manager at a pharmaceutical manufacturing plant who is screening
+    applicants for a training coordinator job. She has seen many teachers apply for
+    corporate training roles and assumes most of them don't know how a regulated plant
+    works. She decides who gets a phone screen.
+  prompt: 'Help me write a cover letter. I''ve taught high school chemistry for 9
+    years and I''m applying to be a training coordinator at a pharmaceutical manufacturing
+    plant about 30 minutes from me.
+
+
+    About me:
+
+    - I teach about 140 students a year across five classes.
+
+    - I wrote our school''s lab safety program in 2019. Since then we''ve had no injuries
+    in our labs that needed more than first aid.
+
+    - Our AP Chemistry pass rate went from 41% to 58% over the four years I''ve taught
+    the course.
+
+    - Every year I train our new science teachers on lab procedures, about 12 hours
+    each. There have been two a year on average.
+
+    - I''ve never worked in a regulated industry. The job posting asks for experience
+    with GMP training records, which I don''t have.
+
+    - I use Google Classroom. The plant uses a learning management system I haven''t
+    used.
+
+
+    I want the letter to say I can cut their new-hire training time in half. One page.'
+  user_knows: '- My name is Laura Benitez. The plant is the Calder Pharmaceuticals
+    plant in Westfield. The posting names Karen Doyle as the HR manager.
+
+    - Applications close on the 28th of this month.
+
+    - I keep a signed training record for every new teacher I train and for every
+    student''s lab safety quiz. The state audited our lab safety records twice and
+    found nothing.
+
+    - When I rewrote the new-teacher lab training in 2020, it went from 20 hours to
+    12.
+
+    - I have enrolled in an online GMP basics course that finishes on May 2.
+
+    - I can commit to interviews on any weekday after 3:30, or any time during spring
+    break, April 7 to 11.
+
+    - I cannot start before June 14. My teaching contract runs until then.
+
+    - I don''t know how long their new-hire training takes now. If it is pointed out
+    that I can''t show I''d cut it in half, I''m fine with saying what I did at the
+    school instead.'
+config:
+  name: with-skill
+  runner: /Users/ben/github/toulmin/evals/toulmin/run-with-skill
+  model: opus
+started: '2026-11-16T20:22:36.227904+00:00'
+duration_seconds: 34.17
+exit_code: 0

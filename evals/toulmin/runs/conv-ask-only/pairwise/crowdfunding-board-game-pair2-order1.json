@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-22-44Z",
+  "without_skill_run": "2026-11-16T20-01-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A's line-by-line budget, which counts fees and the leftover margin, and its plain statements that this is a first-time creator with a signed quote and finished art answer the questions I have before pledging. B has a risks section, but it is vague and never shows how $28,000 covers the costs, so A earns more of my trust."
+}

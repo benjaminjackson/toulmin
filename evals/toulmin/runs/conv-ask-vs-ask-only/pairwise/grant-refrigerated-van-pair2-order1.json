@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-14-25Z",
+  "without_skill_run": "2026-11-16T20-22-53Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B tells me the van will cost about $4,500 a year in insurance and fuel, states the honest annual gain of about 12 percent, and still covers the late report with a named owner and quarterly numbers. A's apology for the late report is warmer and more personal, but A leaves out the running costs I would have to ask about, though B's unfilled name placeholders look sloppy."
+}

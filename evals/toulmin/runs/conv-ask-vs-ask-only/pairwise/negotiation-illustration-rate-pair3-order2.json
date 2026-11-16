@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-14-57Z",
+  "without_skill_run": "2026-11-16T20-23-23Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is a finished, signed email. Its 'our books' framing feels like a partnership, and it says plainly that she can't do the book at $9,000, which tells me exactly what's at stake. A still has unfilled placeholders ([TITLE], [STATE], [Your name]), which would look careless and weaken an otherwise similar case."
+}

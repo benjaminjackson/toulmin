@@ -1,0 +1,50 @@
+I've written a draft of about 440 words. It starts by owning the missed updates, then gives the numbers plainly and ends with your two requests.
+
+<final_document>
+Subject: Quarterly update: revenue flat, our largest customer left, reminders launch December 1
+
+Hi all,
+
+First, an apology. I didn't send updates for the last two quarters. The numbers were flat and I didn't want to send bad news. That was the wrong call, because bad news is when you most need to hear from me. From now on I'll send an update in the first week of every quarter. The next one goes out January 7. If you'd also like a one-page set of numbers each month, reply and I'll add you.
+
+**The numbers**
+
+- Monthly recurring revenue: $41,000, the same as three months ago
+- Clinics: added 9, lost 4
+- Cash: $480,000. We lose about $44,000 a month, which leaves roughly 11 months of runway.
+- Team: 6 people
+
+**What happened**
+
+One of the four clinics we lost was our largest customer, a 12-clinic chain paying $5,500 a month. They moved to the scheduler built into their electronic records system. The nine new clinics covered that loss and the other three, but only enough to keep revenue flat.
+
+This is a real risk for us with larger customers: a chain can drop our scheduler in favor of one it already has.
+
+**What's working**
+
+Clinics that use our automatic text reminders have a no-show rate of 7%. Before they started, it was 13%. Every no-show is an empty slot and lost revenue for the clinic, so this is the clearest value we deliver.
+
+**What's next**
+
+On December 1 we start selling text reminders on their own for $150 a month, to clinics that want to keep their current scheduler. Six clinics have committed to buy at launch. That's $900 a month, which is small, but it will tell us whether reminders can sell without our scheduler. To be honest, $150 is a starting point and I haven't tested it. I'll report what we learn in January.
+
+**Runway**
+
+With about 11 months of cash, I need to choose between raising money and cutting costs. I haven't decided yet, and I'd like your input first.
+
+**What I'm asking for**
+
+1. **A 20-minute call with each of you** in the next few weeks. I'd like your view on raising versus cutting costs, and on the reminder launch. Reply with times that work and I'll send an invite.
+2. **Introductions to physical therapy clinic chains.** Chains that already use a scheduler built into their electronic records system are the most likely buyers for standalone reminders.
+
+Thank you for your patience over the last six months.
+
+[Your name]
+</final_document>
+
+A few notes:
+
+- **Quarter name:** I didn't put a quarter number in the subject because I didn't know which quarter you use. Add it if you like.
+- **Why the chain left:** I didn't say that the reminder launch is a response to losing the chain, because you didn't tell me that. If it is, one sentence linking the two would make the plan easier to follow.
+- **Which chains to introduce:** In the second request, I suggested that chains on built-in schedulers are the best fit for reminders. That's my guess, so delete it if you don't agree.
+- **Runway:** "Roughly 11 months" comes from $480,000 divided by $44,000 a month, which is about 10.9. Investors will work this out anyway, so stating it yourself is better.

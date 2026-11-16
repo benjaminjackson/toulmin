@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-21-45Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B says plainly why the updates stopped and commits to a date and to monthly numbers. It also discloses the $3,800 a month still exposed to the same EHR risk, ties the launch to six named commitments, and asks for a call before the raise-or-cut decision, which rebuilds trust with a cold lead investor. A gives no reason for the silence, makes vague promises and spins the loss as 'without that loss, MRR would have grown,' so it reads as managing me."
+}

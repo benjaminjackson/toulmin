@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:14:02.975328+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 194
+  tags: []
+  notes: extracted 194 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 5
+    honest: 9
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 4
+    objections: 3
+    fit: 8
+  details:
+    agree: 'A warm, well-supported request that Nadia would take seriously, but she
+      has a fixed $9,000 budget and an $8,000 alternative, and the email gives her
+      nothing beyond Elena''s track record to justify finding $2,500 more: no named
+      book, no Sept 1 commitment and no free extras.'
+    honest: Every figure matches the facts, and the email rightly drops the unsupported
+      'every other publisher pays at least $12,000' claim in favour of the one real
+      $12,500 fee and the agent's range.
+    works_the_facts: 'It states the raw facts clearly but does no arithmetic with
+      them: no combined 40,000+ copies, no flat fee across six books and four years
+      spelled out, no $2,250 a month for four months'' work, and it doesn''t say outright
+      that $11,500 is $1,000 under the $12,500.'
+    right_comparison: It sets the flat $9,000 against a real market fee and the agent's
+      range and notes nothing has changed since her first book, but it doesn't frame
+      what the publisher loses if a proven illustrator whose books earn reprints walks
+      away.
+    qualification: '''I can''t take on another one at $9,000'' is a clear condition,
+      but the email leaves out the Sept 1 final-art date, the six-week sketch commitment
+      and any reply date, so there''s no dated, checkable term attached to the offer.'
+    objections: 'Nadia''s real objection is her budget and the cheaper option she
+      has, and the email doesn''t meet it: it never uses the two free marketing spots
+      or the firm schedule to make the extra cost easier to accept.'
+    fit: A properly formed email of about 200 words, under the 250 limit, though the
+      subject line is vague and it never names The Night Garden.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-21-45Z",
+  "without_skill_run": "2026-11-16T20-02-34Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is addressed to me and adds the fourth printing, which is strong evidence of the books' value. It also states plainly that she can't do the book at $9,000 and offers to help with approvals, so I'd take it seriously enough to push for more budget instead of moving to the cheaper illustrator. B is softer, has unfilled placeholders, and gives me less of a reason to act."
+}

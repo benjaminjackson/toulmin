@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T20:19:28.086819+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 417
+  tags: []
+  notes: extracted 417 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 7
+    qualification: 6
+    objections: 5
+    fit: 7
+  details:
+    agree: The plain, respectful account and seniority shift choice will keep many
+      staff open to it, but a long-tenured teller who dreads phone work gets no reason
+      to try it, because the 6-month severance safety net and the $1.50 raise are
+      both missing.
+    honest: It drops the unsupported 'better for everyone' claim and states the schedule
+      frankly, though the line that start and training dates are not yet set is not
+      in the brief and may be invented.
+    works_the_facts: It repeats the raw figures but leaves 'same pay or higher' where
+      the true, stronger '$1.50 an hour more' was available, and it never turns the
+      severance into a concrete figure, such as 20 weeks' pay for ten years of service.
+    right_comparison: It sets falling branch visits (44% down) against rising phone
+      and chat demand (60% up) and the 9-minute hold time as the cost of standing
+      still, and it puts severance plainly as the staff member's alternative.
+    qualification: Offers by Feb 14 and decisions by Mar 1 are dated and checkable,
+      but the open-ended 'we'll share start dates as soon as they're decided' gives
+      no date, and the safety net of leaving within 6 months is left out.
+    objections: It deals head-on with the loss of 9-to-5 hours by offering seniority-based
+      shift choice, but it never addresses the main objection, not wanting phone work,
+      even though the 6-month opt-out with severance answers it directly.
+    fit: It is a COO email of about 420 words, close to the length asked for, but
+      the signature has no name and the credit union is never named.

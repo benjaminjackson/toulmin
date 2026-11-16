@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T20:07:09.322297+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 340
+  tags: []
+  notes: extracted 340 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 3
+    honest: 7
+    works_the_facts: 3
+    right_comparison: 2
+    qualification: 3
+    objections: 3
+    fit: 8
+  details:
+    agree: Next to a $600-a-year cousin she likes, $199 a month is a hard sell, and
+      the page never tells her the cousin can keep doing her taxes, so a hesitant
+      owner is unlikely to book.
+    honest: Nearly every claim matches the brief, but 'almost always' and 'your people
+      get paid correctly and on time' claim slightly more than three missed closes
+      and an untested payroll service can support.
+    works_the_facts: 'The page leaves the brief''s figures raw: it never works out
+      the annual cost, the $800 saving set against the fee, a retention rate of 31
+      out of 33, or the share of monthly closes that were on time.'
+    right_comparison: Her real alternative, the cousin doing a once-a-year cleanup
+      for $600, is never described or compared with paying for clean monthly books
+      plus payroll and sales tax.
+    qualification: The missed-deadline admission gives a count but no consequence,
+      because it leaves out the available promise that a month closed after the 10th
+      is free.
+    objections: 'It mentions the price rise without the reason (payroll was added),
+      and it skips the answers to her real worries: no contract with 30 days'' notice,
+      no need to replace the cousin, and the cap of about 5 new clients.'
+    fit: At roughly 350 words, with clear sections and a booking button at the end,
+      it matches the form the brief asked for.

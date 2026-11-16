@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-branch-closures",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-26-04Z",
+  "without_skill_run": "2026-11-16T20-07-29Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives concrete commitments that matter to staff who are wary of phone work: the $1.50 raise, seniority-based shift choice, firm dates, HR meetings, and severance if they leave within 6 months. It's also upfront that no one gets 9-to-5 hours. A leaves blank placeholders and vague promises, which makes it harder to trust and act on."
+}

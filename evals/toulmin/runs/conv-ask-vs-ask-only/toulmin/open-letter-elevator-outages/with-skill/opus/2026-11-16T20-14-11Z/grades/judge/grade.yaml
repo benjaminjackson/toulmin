@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T20:15:13.472951+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 433
+  tags: []
+  notes: extracted 433 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 4
+    right_comparison: 6
+    objections: 6
+    fit: 9
+  details:
+    agree: The asks are modest and concrete, and the offer of an emergency list and
+      evening meetings makes a cooperative reply easy, though a manager who thinks
+      the outages were handled well isn't directly shown that most tenants stand behind
+      the letter.
+    honest: Every claim comes from the facts given; the letter states the inspection's
+      limits accurately and does not overclaim on the second elevator, and 'five months'
+      since June is fair.
+    works_the_facts: 'The figures are repeated rather than worked: 74 of 112 households
+      (two-thirds) is never shown, 41 outage days is not expressed as roughly one
+      day in eight, and the letter misses that June''s six-to-eight-week promise ran
+      out right around the August outage.'
+    right_comparison: It shows that nothing has changed since June and that residents
+      get stuck each time the elevator stops, but it doesn't spell out what another
+      winter of the same failure rate would mean.
+    qualification: The letter makes no hedged claims that need conditions attached.
+    objections: It answers the 'it passed inspection' and '$400,000 second elevator'
+      objections well, but leaves the 'a few loud people' view unanswered by not saying
+      that 74 households is two-thirds of the building.
+    fit: It is a properly addressed open letter of about 430 words, signed by the
+      secretary and dated for the planned lobby posting.

@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T20:15:31.033738+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 377
+  tags: []
+  notes: extracted 377 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 6
+    objections: 7
+    fit: 9
+  details:
+    agree: The point that the score rose from 7.9 to 8.2 before construction started
+      speaks directly to the GM's view that the renovation drove the gain, and the
+      plan to close the budget gap is concrete, so the GM would likely take her seriously,
+      though it may not be enough to beat the larger-hotel candidate.
+    honest: It drops the unsupported 'main reason' claim and says plainly that the
+      renovation helped, but 'a team I trained and have kept' overstates things when
+      5 of 14 left last year, and it treats the pre-renovation rise as caused by the
+      desk team's work without evidence.
+    works_the_facts: 'It gets ''almost half'' and ''four fewer'' from the numbers,
+      but it misses stronger true versions: the score rose about twice as fast per
+      month before the renovation as after, turnover fell from 64% to 36%, and total
+      training shifts dropped from about 81 to about 25 a year.'
+    right_comparison: It sets the score trend before the renovation against the trend
+      after, and it honestly compares her local knowledge with an outsider's need
+      to learn the property, but it doesn't use the pace of change to strengthen the
+      comparison.
+    qualification: The budget commitments come with deadlines the GM can check (finance
+      course within three months, controller meetings from week one), but the memo
+      says nothing about what happens if she misses them.
+    objections: It meets the renovation objection, the budget gap and the outside
+      candidate head-on, and it raises nothing the facts already answer, though the
+      bigger-hotel point gets only a fairly thin 'I know this property' reply.
+    fit: It is a short memo to the GM that fits on one page, as requested, with clear
+      sections.

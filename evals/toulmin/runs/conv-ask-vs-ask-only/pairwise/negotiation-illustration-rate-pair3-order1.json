@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-14-57Z",
+  "without_skill_run": "2026-11-16T20-23-23Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is a finished, well-reasoned email with a clear ask, concrete commitments, and an honest firm line that she can't do it at $9,000, so I know exactly what I'm deciding. B makes much the same case but arrives with [TITLE], [STATE] and [Your name] placeholders, which looks careless and weakens it."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-front-office",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-15-31Z",
+  "without_skill_run": "2026-11-16T20-23-49Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B does more to win me over: it openly credits the renovation, faces the outside candidate head-on, and offers to fix the Friday check-in waits with a 30-day plan. But its unfilled placeholders like [GM name] look unfinished next to A, which is complete and also honest, so the gap is small."
+}

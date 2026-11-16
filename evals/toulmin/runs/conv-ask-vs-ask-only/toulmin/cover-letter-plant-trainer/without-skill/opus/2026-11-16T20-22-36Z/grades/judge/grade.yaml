@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T20:23:24.171571+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 352
+  tags: []
+  notes: extracted 352 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 4
+    objections: 7
+    fit: 8
+  details:
+    agree: A skeptical HR manager would see audited signed training records, a documented
+      20-to-12-hour redesign and a candid GMP gap backed by a course already underway,
+      and that is likely enough to earn a phone screen, although the unstated June
+      14 start date could hurt the letter later.
+    honest: It rightly drops the unsupported 'cut training in half' claim and stays
+      with the real facts, but lines like 'no one does the work until their training
+      is complete' and 'ready to keep accurate records from the start' go a little
+      beyond what the brief supports.
+    works_the_facts: It uses the 20-to-12 hours, 41% to 58% and the two state audits
+      accurately, but it never turns them into stronger true forms such as a 40% cut,
+      16 trainer-hours saved a year, or a 17-point (41% relative) rise in the pass
+      rate.
+    right_comparison: Before/after comparisons for the training hours and the pass
+      rate are given as trends, but the letter never sets the candidate against the
+      real alternative, a hire who has GMP experience but lacks proof of having shortened
+      training and passed audits.
+    qualification: The GMP hedge says only 'finishes in May' instead of May 2, and
+      the letter leaves out the June 14 earliest start, so the reader cannot check
+      timing against the role's needs.
+    objections: 'It deals head-on with the main worries: no regulated-industry background,
+      no GMP records experience and an unfamiliar LMS. It misses the practical objections
+      about availability, namely the start date and interview windows.'
+    fit: This is a properly addressed one-page cover letter, but it uses '[Your Name]'
+      placeholders even though the applicant's name was available.

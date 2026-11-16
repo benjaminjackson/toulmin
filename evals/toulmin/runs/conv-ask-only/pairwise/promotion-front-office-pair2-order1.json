@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-front-office",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-22-43Z",
+  "without_skill_run": "2026-11-16T20-04-35Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A answers my doubt about the renovation directly: the check-in score had already climbed from 7.9 to 8.2 before the renovation started. It also backs its claims with overtime under plan and a specific, committed budget plan (the finance course and weekly sessions with the controller). B gives no timing evidence, makes unsupported claims like 'service didn't slip', and its budget plan is vaguer."
+}

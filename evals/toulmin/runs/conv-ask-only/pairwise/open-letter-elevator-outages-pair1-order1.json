@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-21-45Z",
+  "without_skill_run": "2026-11-16T20-03-02Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A names me, the building and the date it goes public, and its account of a missed dialysis appointment is hard to dismiss as noise from a few loud tenants. It also limits itself to three concrete asks within my control and drops the second-elevator dispute. Document B is full of unfilled placeholders, leaves out the dialysis case and asks for a feasibility study I would push back on, so it is easier to set aside."
+}

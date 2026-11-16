@@ -1,0 +1,61 @@
+grader: judge
+graded: '2026-11-16T20:02:19.600169+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 483
+  tags: []
+  notes: extracted 483 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 4
+    honest: 6
+    works_the_facts: 3
+    right_comparison: 3
+    qualification: 2
+    objections: 4
+    fit: 6
+  details:
+    agree: The tone is warm and honest, but a backer who has lost money on a first-time
+      creator gets no delivery date, no refund promise and no update schedule, so
+      the wariest reader is unlikely to pledge.
+    honest: The draft rightly drops the 'proven hit' claim, but it calls the 23 ratings
+      'an honest one' without saying most came from people who played at the creator's
+      own convention table, and 'most of the rest pays for shipping' is not checked
+      against fees.
+    works_the_facts: 'The figures are repeated rather than worked out: there is no
+      breakdown of $28,000 minus $17,400 for the factory and about $2,800 in fees,
+      no backer count needed to reach the goal (about 572), and no comparison of that
+      count with the 1,240 people on the email list.'
+    right_comparison: It never puts this campaign beside the alternative the reader
+      fears, a typical first-time project with unfinished art and no factory quote,
+      even though the finished art, finished rules and signed quote make that contrast
+      possible.
+    qualification: The risks section hedges with 'won't promise dates I can't keep'
+      and 'if anything slips' but names no November delivery date, no updates every
+      two weeks and no refund if delivery is more than three months late, so the reader
+      has nothing to check.
+    objections: It names the first-time-creator worry but answers it only loosely;
+      it leaves out the signed quote, the finished art, the reviewer's video in launch
+      week and the refund commitment, which are the facts that would actually meet
+      that objection.
+    fit: It is a crowdfunding pitch of about 500 words, but it uses '[Game Title]'
+      and '[Add backer-only extras]' placeholders where the real name was available
+      and stretch goals can't be promised, and it leaves out the creator's name and
+      the campaign dates.

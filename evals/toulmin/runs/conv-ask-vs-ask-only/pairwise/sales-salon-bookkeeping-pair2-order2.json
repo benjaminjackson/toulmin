@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-17-24Z",
+  "without_skill_run": "2026-11-16T20-25-13Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B wins me over by saying Carla managed a salon for six years, and it makes clear my accountant still does my tax return, so my cousin keeps his job. A's free-month guarantee is reassuring, but A never mentions her salon background, which is what gets me to book the call."
+}

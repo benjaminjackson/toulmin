@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-22-51Z",
+  "without_skill_run": "2026-11-16T20-01-11Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives the real reason for skipping updates and makes specific commitments (January 7, monthly numbers on request). It also states the at-risk $3,800 and the six committed buyers, which rebuilds trust with a burned investor. B leaves a placeholder in the runway section, makes vaguer promises and adds an unsupported claim that the built-in scheduler is free."
+}

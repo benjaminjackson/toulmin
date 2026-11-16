@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-21-45Z",
+  "without_skill_run": "2026-11-16T20-02-34Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B is addressed to me by name, adds that the reading-list book went into a fourth printing, and offers material to help me get approval, which makes it easier for me to justify going past my $9,000 budget. A makes a similar case but still has unfilled placeholders and gives me less evidence."
+}

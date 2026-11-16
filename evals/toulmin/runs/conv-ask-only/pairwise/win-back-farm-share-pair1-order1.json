@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-farm-share",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-24-39Z",
+  "without_skill_run": "2026-11-16T20-06-23Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A apologizes plainly and speaks straight to what I was upset about: the farm went quiet and I got no credit. It promises a credit whenever weather cuts a box by more than a third, plus a short email every Thursday. B admits the response wasn't good enough, but it offers no fix for bad weeks or for staying in touch, and it still has the [Your name] and [Farm name] placeholders."
+}

@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:23:48.380425+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 391
+  tags: []
+  notes: extracted 391 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 3
+    right_comparison: 5
+    qualification: 3
+    objections: 6
+    fit: 8
+  details:
+    agree: The tone is measured. It concedes the second elevator, offers the association's
+      own commitments and makes concrete requests, so a skeptical manager could reasonably
+      grant the written date and stair chair, but nothing pushes her past her view
+      that the outages were handled well.
+    honest: Nearly every claim matches the facts, and it limits its voice to the 74
+      signers, but 'we have received nothing in writing beyond that estimate' is a
+      slight extrapolation beyond what was given.
+    works_the_facts: It repeats the raw numbers and derives none of them, missing
+      that 74 of 112 is two-thirds of households (the direct answer to 'a few loud
+      people') and that the 6-to-8-week promise from June has now run about five months,
+      more than twice as long.
+    right_comparison: It shows the status quo as the same June promise repeated with
+      no date, but it doesn't spell out the trend or what another 41-day year would
+      mean if nothing changes.
+    qualification: 'The requests carry no checkable terms: there is no deadline for
+      the written reply, no amount or method for the rent credit, and no consequence
+      named if Keystone misses the date.'
+    objections: It answers the passing inspection and the cost of a second elevator
+      well, but it never frames the 74 households as a clear majority to counter the
+      'few loud people' view, and it doesn't anticipate pushback on the cost of the
+      rent credit.
+    fit: It is an open letter of about 400 words, addressed correctly and suitable
+      for posting in the lobby and sharing with the press.

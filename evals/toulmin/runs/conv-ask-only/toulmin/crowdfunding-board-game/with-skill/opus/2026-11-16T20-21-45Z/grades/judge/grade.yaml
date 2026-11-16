@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:22:44.887973+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 473
+  tags: []
+  notes: extracted 473 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 7
+    right_comparison: 4
+    qualification: 4
+    objections: 5
+    fit: 7
+  details:
+    agree: The open budget, firm November 2027 date and frank first-time-creator section
+      would reassure this wary backer, but leaving out the refund pledge and the fixed
+      update schedule takes away the guarantees most likely to win over someone who
+      has already lost $85.
+    honest: It rightly avoids calling the game a 'proven hit', but 'every one comes
+      from someone who sat down and played' says more than the facts carry, and it
+      hides that most of the 23 ratings came from the creator's own convention table.
+    works_the_facts: It works out a backer count (about 570), shipping (about $5,150),
+      fees ($2,800) and a $2,650 buffer from the given figures, and shows the 1,240
+      signups as more than twice the backers needed, though it leaves out the 90,000-subscriber
+      reviewer video due in launch week.
+    right_comparison: It barely compares this campaign with the reader's real alternative,
+      an unproven first-timer like the one that never shipped, beyond saying it has
+      no past campaign to point to.
+    qualification: The delivery date is specific, but 'updates throughout production'
+      and 'tell you right away' have no schedule and no consequence, and the available
+      full refund if delivery is more than three months late is never offered.
+    objections: It deals head-on with the first-time-creator worry and the question
+      of where the money goes, but the 'what if it never ships' objection goes unanswered
+      even though the creator's refund commitment would answer it.
+    fit: It is a well-structured pitch of about 500 words, but it leaves a '[Game
+      Title]' placeholder when the name Lantern Winter was available.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-16-43Z",
+  "without_skill_run": "2026-11-16T20-25-16Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B names the applicant in full and explains the five-week absence openly, including how he arranged cover and came back on the agreed day, which makes it easier to believe. A is punchier and gives a phone number, but its line that he missed only two shifts in three years leaves out the five weeks, and it never gives his surname."
+}

@@ -1,0 +1,35 @@
+I computed the "about 11 months" figure from $480,000 ÷ $44,000. I didn't add a runway plan, as you asked. The no-show figures don't give a number of clinics because you didn't have it. If you can add it before sending, it will make that result more convincing. Fill in the subject's quarter label and your name. The update is about 430 words.
+
+<final_document>
+Subject: Quarterly update: flat quarter, a big customer loss, and a new product launching Dec 1
+
+Hi all,
+
+First, an apology. This is your first update in six months. The numbers were flat and I didn't want to send bad news. That was the wrong call, because you should hear bad news as soon as I have it. From now on you'll get an update in the first week of every quarter, with the next one on January 7. I'll also send a one-page set of numbers every month to anyone who wants it. Just reply and ask.
+
+**The numbers**
+- Monthly recurring revenue: $41,000, the same as three months ago
+- Clinics: 9 added, 4 lost
+- Cash: $480,000 in the bank. We lose about $44,000 a month, which leaves about 11 months at the current rate.
+- Team: 6 people
+
+**What happened**
+Revenue is flat because the new clinics only made up for the ones we lost. The biggest loss was our largest customer, a 12-clinic chain paying $5,500 a month. They moved to the scheduler built into their electronic records system. That is the main risk to our business. When a clinic's records system has a scheduler that's good enough, we're competing with something they already pay for.
+
+This may not be the last such loss. Two other customers use the same records system, and together they pay $3,800 a month. I can't promise they'll stay.
+
+**What's working**
+Clinics that use our automatic text reminders have a no-show rate of 7%, down from 13% before they started. A no-show is an appointment slot the clinic can't bill for. Reminders are where we show the clearest results.
+
+**What's next**
+On December 1 we start selling the reminder feature on its own for $150 a month. A clinic can buy it without replacing its scheduler. Six clinics have already said they'll buy it at launch. I don't know yet who the main buyer will be: new clinics, or clinics like the chain we lost. The January update will report what we learn.
+
+**Two asks**
+1. **A 20-minute phone call with each of you.** I'd like to walk you through the reminder launch and the risk from records-system schedulers, and hear what you think. Please reply with a few times that work for you.
+2. **Introductions to clinic chains.** If you know someone who owns or runs a physical therapy chain, an introduction would help a great deal.
+
+I know this isn't the update any of us wanted. You'll hear from me on January 7, whatever the numbers say.
+
+Thanks,
+[Your name]
+</final_document>

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-15-21Z",
+  "without_skill_run": "2026-11-16T20-23-48Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B tells me about the two remaining customers on the same records system, $3,800 a month at risk, and works out what losing them would do to revenue and runway. It also admits that 6 reminder buyers is a start, not proof. After being kept in the dark for six months, that candor is what would get me to take the founder's call. A leaves out that exposure, which looks like more softening of the bad news."
+}

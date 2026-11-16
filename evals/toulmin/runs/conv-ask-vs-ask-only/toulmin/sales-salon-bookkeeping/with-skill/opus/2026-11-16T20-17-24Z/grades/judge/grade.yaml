@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:18:25.123595+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 308
+  tags: []
+  notes: extracted 308 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 4
+    honest: 7
+    works_the_facts: 3
+    right_comparison: 3
+    qualification: 4
+    objections: 3
+    fit: 9
+  details:
+    agree: The salon background and the plain, honest tone would earn her trust, but
+      she pays her cousin $600 a year, and nothing here shows her why she should pay
+      $199 a month instead or what happens to him, so she would probably not book.
+    honest: Every number comes from the brief or from Carla's answers, but the heading
+      'Clean books cost you less at tax time' turns what 9 of 31 clients reported
+      into a general promise.
+    works_the_facts: 'The figures are repeated rather than worked out: it never says
+      she closed 9 of 12 months on time, never says no client left for any reason
+      other than selling, and never sets the $2,388 a year against the possible $800
+      saving.'
+    right_comparison: The only alternative described is an accountant who bills to
+      sort out messy books, not this reader's real situation of a cheap, trusted cousin
+      who catches up once a year, and nothing says that her own accountant keeps doing
+      her return.
+    qualification: It admits to missing the 10th three times but leaves out the fact
+      that makes that checkable, which is that since January a missed 10th means that
+      month is free.
+    objections: Her main objections are cost against $600, loyalty to her cousin,
+      and fear of being locked in, and none of them is answered, even though the 30-day
+      no-contract term, the fact that Carla doesn't do tax returns, and the free-month
+      guarantee would have answered them.
+    fit: At about 330 words with a booking button at the end, it matches the length
+      and form the brief asked for.

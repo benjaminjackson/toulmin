@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-18-25Z",
+  "without_skill_run": "2026-11-16T20-26-05Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "As someone weighing $2,400 a year against the $600 I pay my cousin, I trust B more: it gives Carla's name, admits the missed deadlines and the price rise, and doesn't oversell the $800 saving. A's 'more than four months of my fee' line just makes me notice the price. Neither page tells me my cousin could keep doing my taxes, so B's candor is what tips it."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-22-36Z",
+  "without_skill_run": "2026-11-16T20-01-04Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A addresses me by name and gives me what I screen for in a regulated plant: signed training records that passed two state audits, a GMP course already underway, and a real cut in training time from 20 to 12 hours. B uses generic placeholders, leaves out the audits and the GMP course, and adds claims the facts don't support. So B reads like the usual teacher applicant I'm wary of."
+}

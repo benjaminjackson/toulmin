@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-26-06Z",
+  "without_skill_run": "2026-11-16T20-06-05Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives concrete specifics: the $8,000 the vet says was saved, the cousin covering his shifts and his return on the promised day, and a weekend job kept open for him. These make the letter believable and turn the 5-week absence into a strength. A is full of placeholders, says nothing about how the absence was handled, and adds the claim that he wasn't required to learn the software, which isn't in the facts."
+}
