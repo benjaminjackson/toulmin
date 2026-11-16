@@ -1,0 +1,11 @@
+{
+  "task": "donor-email",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T17-32-39Z",
+  "without_skill_run": "2026-11-16T17-32-39Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "reason": "Hand-made fixture verdict."
+}

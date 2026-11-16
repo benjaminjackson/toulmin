@@ -1,0 +1,21 @@
+grader: judge-repeat
+graded: '2026-11-16T17:32:43.333009+00:00'
+outcome: fail
+score: null
+tags:
+- trigger_failure
+checks:
+- checker: ../checkers/transcript-check
+  ok: false
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags:
+  - trigger_failure
+  notes: trigger failure
+- checker: ../checkers/extract-document
+  skipped: true
+- checker: ../checkers/judge
+  skipped: true

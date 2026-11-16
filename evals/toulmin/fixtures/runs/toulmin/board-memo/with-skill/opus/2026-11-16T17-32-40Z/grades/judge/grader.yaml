@@ -1,0 +1,8 @@
+name: judge
+checks:
+  - checker: ../checkers/transcript-check
+    required: true
+  - checker: ../checkers/extract-document
+    creates: document.txt
+    required: true
+  - checker: ../checkers/judge
