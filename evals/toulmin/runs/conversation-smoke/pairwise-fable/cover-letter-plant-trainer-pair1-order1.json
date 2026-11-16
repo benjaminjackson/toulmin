@@ -1,0 +1,13 @@
+{
+  "judge": "claude-fable-5-2",
+  "task": "cover-letter-plant-trainer",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T19-50-34Z",
+  "without_skill_run": "2026-11-16T19-50-34Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A addresses me by name and speaks to my main doubt: it cites signed training records for every trainee, two clean state audits, a training cut from 20 to 12 hours, and a GMP course already under way. B leaves the company name blank, offers only generic assurances like \"I learn new systems quickly\", and gives me no evidence the applicant understands documented, auditable training."
+}

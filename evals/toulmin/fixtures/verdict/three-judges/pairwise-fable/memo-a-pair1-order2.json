@@ -1,0 +1,8 @@
+{
+  "task": "memo-a",
+  "pair": 1,
+  "order": 2,
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "judge": "claude-fable-5-2"
+}

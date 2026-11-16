@@ -1,0 +1,8 @@
+{
+  "task": "email-a",
+  "pair": 1,
+  "order": 2,
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "judge": "pairwise"
+}

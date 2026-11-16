@@ -1,11 +1,13 @@
 #!/usr/bin/env bash
 # Blind head-to-head judge for the toulmin eval. smevals cannot pair runs, so this script does it.
 #
-#   pairwise [--judge opus|gemini] <runs-dir>                                  judge every pair not judged yet
-#   pairwise [--judge opus|gemini] --print-prompt <runs-dir> <task> <k> <order>  print the exact prompt for one pair and order, with no model call
+#   pairwise [--judge opus|gemini|fable] <runs-dir>                                  judge every pair not judged yet
+#   pairwise [--judge opus|gemini|fable] --print-prompt <runs-dir> <task> <k> <order>  print the exact prompt for one pair and order, with no model call
 #
-# --judge picks the model that judges (default opus). Both judges get the same prompt.
-# Opus results go to <runs-dir>/pairwise/, Gemini (gemini-4-argon) results to <runs-dir>/pairwise-gemini/, with the same file names.
+# --judge picks the model that judges (default opus). Every judge gets the same prompt.
+# Opus results go to <runs-dir>/pairwise/, Gemini (gemini-4-argon) results to <runs-dir>/pairwise-gemini/,
+# Fable (claude-fable-5-2) results to <runs-dir>/pairwise-fable/, with the same file names.
+# Fable is held out for the sealed test: do not run it on tune rounds.
 #
 # For each task, the scored runs of each arm (as `summary --runs` decides) are put in time order,
 # and the k-th with-skill run is paired with the k-th without-skill run (k counts from 1).
@@ -26,24 +28,36 @@ source "$SCRIPT_DIR/lib/user-knows.sh"
 OPUS_PARALLEL_CALLS=8
 GEMINI_PARALLEL_CALLS=4
 GEMINI_MODEL=gemini-4-argon
+FABLE_MODEL=claude-fable-5-2
 VERDICT_SCHEMA='{"type":"object","properties":{"reason":{"type":"string"},"winner":{"type":"string","enum":["A","B","tie"]},"margin":{"type":"string","enum":["clear","slight","none"]}},"required":["reason","winner","margin"]}'
 
 # Print usage and exit with the given status.
 usage() {
-  echo "usage: pairwise [--judge opus|gemini] <runs-dir>" >&2
-  echo "       pairwise [--judge opus|gemini] --print-prompt <runs-dir> <task> <k> <order>" >&2
+  echo "usage: pairwise [--judge opus|gemini|fable] <runs-dir>" >&2
+  echo "       pairwise [--judge opus|gemini|fable] --print-prompt <runs-dir> <task> <k> <order>" >&2
   exit "$1"
 }
 
-# Print the results directory for one judge: <runs-dir>/pairwise for opus, <runs-dir>/pairwise-gemini for gemini.
-# Why: the two judges must never overwrite or skip each other's results, and summary reads only the opus directory.
+# Print the results directory for one judge: <runs-dir>/pairwise for opus, <runs-dir>/pairwise-<judge> for the others.
+# Why: the judges must never overwrite or skip each other's results, and summary reads only the opus directory.
 results_dir() {
   local runs_dir=$1
   local judge=$2
-  if [ "$judge" = gemini ]; then
-    echo "$runs_dir/pairwise-gemini"
-  else
+  if [ "$judge" = opus ]; then
     echo "$runs_dir/pairwise"
+  else
+    echo "$runs_dir/pairwise-$judge"
+  fi
+}
+
+# Print the model name that claude is called with for a Claude judge: opus or claude-fable-5-2.
+# Why: opus and fable share one code path in ask_judge and judge_one; only the model name differs.
+claude_judge_model() {
+  local judge=$1
+  if [ "$judge" = fable ]; then
+    echo "$FABLE_MODEL"
+  else
+    echo opus
   fi
 }
 
@@ -105,8 +119,8 @@ build_prompt() {
 }
 
 # Ask the chosen judge for a verdict on the prompt in a file, and print the verdict as compact JSON, or nothing.
-# Arguments: the judge (opus or gemini), the prompt file.
-# Why one function: judge_one then checks and writes the verdict the same way for both judges.
+# Arguments: the judge (opus, gemini or fable), the prompt file.
+# Why one function: judge_one then checks and writes the verdict the same way for every judge.
 ask_judge() {
   local judge=$1
   local prompt_file=$2
@@ -122,16 +136,18 @@ ask_judge() {
       catch ((capture("(?s)(?<object>\\{.*\\})").object // "") | fromjson? // null)' 2>/dev/null || true
     return
   fi
+  local claude_model
+  claude_model=$(claude_judge_model "$judge")
   local response
   # The judge's stderr is dropped; a failed call is caught by the caller through the missing winner.
-  response=$(claude_stripped --model opus --tools "" --output-format json --json-schema "$VERDICT_SCHEMA" < "$prompt_file" 2>/dev/null) || true
+  response=$(claude_stripped --model "$claude_model" --tools "" --output-format json --json-schema "$VERDICT_SCHEMA" < "$prompt_file" 2>/dev/null) || true
   # The verdict arrives in .structured_output, or as JSON text in .result on some versions; try both.
   # fromjson? returns nothing instead of an error when .result is not JSON.
   echo "$response" | jq -c '.structured_output // (.result | if type == "string" then (fromjson? // null) else . end)' 2>/dev/null || true
 }
 
 # Judge one pair in one order and write its result file. Prints one status line.
-# Arguments: judge (opus or gemini), runs directory, task, pair index k, order.
+# Arguments: judge (opus, gemini or fable), runs directory, task, pair index k, order.
 judge_one() {
   local judge=$1
   local runs_dir=$2
@@ -140,7 +156,9 @@ judge_one() {
   local order=$5
   local result_file
   result_file="$(results_dir "$runs_dir" "$judge")/$task-pair$index-order$order.json"
-  local judge_name=opus
+  # The judge field names the model: opus for opus (as in older files), the full model name for the others.
+  local judge_name
+  judge_name=$(claude_judge_model "$judge")
   if [ "$judge" = gemini ]; then
     judge_name=$GEMINI_MODEL
   fi
@@ -198,7 +216,7 @@ judge_one() {
 }
 
 # List every pair and order the given judge has not judged yet, one "task k order" line each.
-# Arguments: runs directory, judge (opus or gemini).
+# Arguments: runs directory, judge (opus, gemini or fable).
 list_missing_judgements() {
   local runs_dir=$1
   local judge=$2
@@ -242,8 +260,8 @@ main() {
       shift
     fi
   done
-  if [ "$judge" != opus ] && [ "$judge" != gemini ]; then
-    echo "pairwise: --judge must be opus or gemini, not $judge" >&2
+  if [ "$judge" != opus ] && [ "$judge" != gemini ] && [ "$judge" != fable ]; then
+    echo "pairwise: --judge must be opus, gemini or fable, not $judge" >&2
     usage 1
   fi
   # "${array[@]+...}" expands to nothing when the array is empty; plain "${array[@]}" fails under set -u on older bash.
@@ -286,6 +304,7 @@ main() {
         echo "pairwise: every pair is already judged"
         return 0
       fi
+      # Fable is a Claude judge like opus, so it runs as many calls at once.
       local parallel_calls=$OPUS_PARALLEL_CALLS
       if [ "$judge" = gemini ]; then
         parallel_calls=$GEMINI_PARALLEL_CALLS

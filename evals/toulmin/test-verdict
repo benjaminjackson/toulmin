@@ -18,6 +18,12 @@
 #     and email-a pair 1 is a win (first judge: loss, so the judges name opposite arms). The rest agree.
 #   factcheck: with skill invented counts 0, 1, 0, 0; without skill 2, 0, 1, 0.
 #
+# fixtures/verdict/three-judges is two-judges plus pairwise-fable (third judge), with 6 pairs, every order clear
+# except one:
+#   memo-a pair 1 win, memo-a pair 2 win, memo-a pair 3 loss (first judge: tie, second judge: win),
+#   email-a pair 1 loss (second judge: win), email-a pair 2 win with one order slight (both other judges: loss),
+#   email-a pair 3 win. memo-b and script-a have no fable result.
+#
 # fixtures/verdict/wilson has 48 old-format pairs (no margin, no second judge, no factcheck):
 # 36 with-skill wins and 12 losses, all of type memo.
 set -euo pipefail
@@ -48,6 +54,7 @@ expect() {
 
 two_judges=$("$SCRIPT_DIR/verdict" --json "$FIXTURES/two-judges")
 wilson=$("$SCRIPT_DIR/verdict" --json "$FIXTURES/wilson")
+three_judges=$("$SCRIPT_DIR/verdict" --json "$FIXTURES/three-judges")
 
 # Pair verdicts: the order flip (memo-a pair 3) and the missing order (script-a pair 1) are ties.
 expect "$two_judges" '.judges.opus | .pairs == 8 and .wins == 4 and .ties == 2 and .losses == 2' "first judge: 4 wins, 2 ties, 2 losses over 8 pairs"
@@ -91,6 +98,28 @@ for heading in "## Judge: opus" "## Judge: gemini" "## Judge agreement" "## Inve
     echo "ok   text output has \"$heading\""
   else
     fail "text output has no \"$heading\""
+  fi
+done
+
+# Third judge (fable).
+expect "$two_judges" 'has("other_agreements") | not' "two judges: no other_agreements key, so the JSON is the same as before"
+expect "$three_judges" '.judges | keys_unsorted == ["opus", "gemini", "fable"]' "three judges: opus, gemini and fable in that order"
+expect "$three_judges" '.judges.fable | .pairs == 6 and .wins == 4 and .ties == 0 and .losses == 2 and .win_rate == 0.667' "third judge: 4 wins, 0 ties, 2 losses over 6 pairs"
+expect "$three_judges" '.judges.fable | .clear_wins == 3 and .clear_share == 0.75' "third judge: 3 of 4 wins clear (one slight order is not clear)"
+expect "$three_judges" '.judges.fable.types | all(.losses_above_wins | not)' "third judge: no type has more losses than wins"
+expect "$three_judges" '.conditions["2"].judges[] | select(.judge == "fable") | .outcome == "FAIL" and (.detail | contains("0.667"))' "condition 2 is tested for the third judge and fails at 0.667"
+expect "$three_judges" '.conditions["3"].judges[] | select(.judge == "fable") | .outcome == "PASS"' "condition 3 is tested for the third judge and passes"
+expect "$three_judges" '.conditions["3"].judges | length == 3' "condition 3 has a line for each of the three judges"
+expect "$three_judges" '.agreement | .shared_pairs == 8 and .same_verdict == 6 and .not_opposite == 7' "opus and gemini agreement does not change when a third judge is added"
+expect "$three_judges" '.conditions["4"].detail | contains("6 of 8")' "condition 4 still uses opus and gemini only"
+expect "$three_judges" '.other_agreements[] | select(.first == "opus" and .second == "fable") | .shared_pairs == 6 and .same_verdict == 4 and .not_opposite == 5 and .same_share == 0.667 and .not_opposite_share == 0.833' "opus and fable: same verdict 4 of 6, not opposite 5 of 6"
+expect "$three_judges" '.other_agreements[] | select(.first == "gemini" and .second == "fable") | .shared_pairs == 6 and .same_verdict == 3 and .not_opposite == 3' "gemini and fable: same verdict 3 of 6, not opposite 3 of 6"
+three_judges_text=$("$SCRIPT_DIR/verdict" "$FIXTURES/three-judges")
+for line in "## Judge: fable" "opus and fable: same pair verdict 4 of 6 pairs (0.667), not opposite arms 5 of 6 pairs (0.833)." "gemini and fable: same pair verdict 3 of 6 pairs (0.5), not opposite arms 3 of 6 pairs (0.5)." "  fable: FAIL: win rate 0.667" "  fable: PASS: 3 of 4 wins are clear"; do
+  if grep -qF -- "$line" <<< "$three_judges_text"; then
+    echo "ok   three-judge text output has \"$line\""
+  else
+    fail "three-judge text output has no \"$line\""
   fi
 done
 

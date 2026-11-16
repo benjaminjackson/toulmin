@@ -7,6 +7,7 @@
 # Inputs, all under <runs-dir>:
 #   pairwise/<task>-pair<k>-order<1|2>.json         first judge (Opus). Required.
 #   pairwise-gemini/<task>-pair<k>-order<1|2>.json  second judge. Optional.
+#   pairwise-fable/<task>-pair<k>-order<1|2>.json   third judge, held out for the sealed test. Optional.
 #   factcheck/<task>--<arm>--<run>.json             invented facts per document. Optional.
 # The document type of a task is the `type` key of tasks/<task>.yaml next to this script.
 # A missing task file or `type` key makes the type the task name.
@@ -178,12 +179,24 @@ def combine:
 
 judge_stats($opus_files; $types) as $opus
 | judge_stats($gemini_files; $types) as $gemini
-| ({opus: $opus, gemini: $gemini} | with_entries(select(.value != null))) as $judges
+| judge_stats($fable_files; $types) as $fable
+| ({opus: $opus, gemini: $gemini, fable: $fable} | with_entries(select(.value != null))) as $judges
 | agreement($opus; $gemini) as $agreement
+# Agreement for every other pair of judges that both have results. Opus and gemini stay in "agreement" above,
+# so that condition 4 and older readers of the JSON see the same numbers as before.
+| ([["opus", "fable"], ["gemini", "fable"]]
+    | map(. as [$first_name, $second_name]
+        | agreement($judges[$first_name]; $judges[$second_name])
+        | select(. != null)
+        | {first: $first_name, second: $second_name} + .)) as $other_agreements
 | invented_facts($factcheck_files) as $facts
 | {
     judges: ($judges | map_values(del(.verdicts, .exact_win_rate, .exact_lower_bound))),
-    agreement: $agreement,
+    agreement: $agreement
+  }
+# The key is added only when there is a third judge, so the output with two judges is the same as before.
+| (if ($other_agreements | length) > 0 then . + {other_agreements: $other_agreements} else . end)
+| . + {
     invented_facts: $facts,
     conditions: {
       "2": (
@@ -257,11 +270,16 @@ def show: if . == null then "-" else tostring end;
     "|---|---|---|---|---|",
     ($stats.types[] | "| \(.type) | \(.wins) | \(.ties) | \(.losses) | \(if .losses_above_wins then "YES" else "" end) |"),
     ""),
-(if .agreement != null then
+(if .agreement != null or .other_agreements != null then
    "## Judge agreement",
    "",
-   "Same pair verdict: \(.agreement.same_verdict) of \(.agreement.shared_pairs) pairs (\(.agreement.same_share)).",
-   "Not opposite arms: \(.agreement.not_opposite) of \(.agreement.shared_pairs) pairs (\(.agreement.not_opposite_share)).",
+   (if .agreement != null then
+      "Same pair verdict: \(.agreement.same_verdict) of \(.agreement.shared_pairs) pairs (\(.agreement.same_share)).",
+      "Not opposite arms: \(.agreement.not_opposite) of \(.agreement.shared_pairs) pairs (\(.agreement.not_opposite_share))."
+    else empty end),
+   # One line for each other pair of judges, for example opus and fable.
+   ((.other_agreements // [])[]
+     | "\(.first) and \(.second): same pair verdict \(.same_verdict) of \(.shared_pairs) pairs (\(.same_share)), not opposite arms \(.not_opposite) of \(.shared_pairs) pairs (\(.not_opposite_share))."),
    ""
  else empty end),
 (if .invented_facts != null then
@@ -305,17 +323,20 @@ main() {
   fi
   local gemini_files
   gemini_files=$(collect_directory "$runs_dir/pairwise-gemini")
+  local fable_files
+  fable_files=$(collect_directory "$runs_dir/pairwise-fable")
   local factcheck_files
   factcheck_files=$(collect_directory "$runs_dir/factcheck")
   local task_names_json
-  # Every task name that appears in either judge's files, once each.
-  task_names_json=$(jq -n -c --argjson opus "$opus_files" --argjson gemini "$gemini_files" '($opus + ($gemini // [])) | map(.task) | unique')
+  # Every task name that appears in any judge's files, once each. "// []" turns a missing judge (null) into an empty list.
+  task_names_json=$(jq -n -c --argjson opus "$opus_files" --argjson gemini "$gemini_files" --argjson fable "$fable_files" '($opus + ($gemini // []) + ($fable // [])) | map(.task) | unique')
   local types_json
   types_json=$(collect_types "$task_names_json")
   local verdict_json
   verdict_json=$(jq -n \
     --argjson opus_files "$opus_files" \
     --argjson gemini_files "$gemini_files" \
+    --argjson fable_files "$fable_files" \
     --argjson factcheck_files "$factcheck_files" \
     --argjson types "$types_json" \
     "$VERDICT_PROGRAM")

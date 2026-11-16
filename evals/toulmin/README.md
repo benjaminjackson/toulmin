@@ -6,7 +6,7 @@ This eval answers one question: does a document written with the skill work bett
 
 1. `run-round <runs-dir> <n> [grader] [set]` writes the documents. Each task (one user request) is run `n` times with the skill and `n` times without it, in a stripped headless `claude -p` session. The only difference between the two arms is the `--plugin-dir` flag. `isolation-proof` shows that the stripped session loads nothing else.
 2. The `judge` grader checks each transcript (did the skill load, did the other arm stay clean), extracts the finished document, and scores it as the intended reader.
-3. `pairwise <runs-dir>` shows a judge two documents for the same task, one from each arm, unlabelled, in both orders. A pair is a win only when both orders name the same arm. `--judge gemini` runs the same prompt on `gemini-4-argon` and writes to `pairwise-gemini/`.
+3. `pairwise <runs-dir>` shows a judge two documents for the same task, one from each arm, unlabelled, in both orders. A pair is a win only when both orders name the same arm. `--judge gemini` runs the same prompt on `gemini-4-argon` and writes to `pairwise-gemini/`. `--judge fable` runs the same prompt on `claude-fable-5-2` and writes to `pairwise-fable/`. The fable judge is held out: do not run it on tune rounds, only on the sealed test, so that skill changes cannot be fitted to it.
 4. `factcheck <runs-dir>` counts the statements each document presents as fact that the request does not give.
 5. `summary <runs-dir>` prints scores and failures per task. `verdict <runs-dir>` tests the readiness bars below.
 
