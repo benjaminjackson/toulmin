@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-24-38Z",
+  "without_skill_run": "2026-11-16T20-04-20Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks to me by name and gives specific facts I can't brush off, like the missed dialysis appointments and the June estimate that would have meant a mid-August fix. It also offers to help through the stair list and weekday evening meetings, and it asks for concrete things I can act on. A has blank placeholders and makes vaguer claims, so it reads like a form letter from a few loud people."
+}

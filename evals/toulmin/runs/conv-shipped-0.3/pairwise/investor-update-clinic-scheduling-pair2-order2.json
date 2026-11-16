@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-23-22Z",
+  "without_skill_run": "2026-11-16T20-01-11Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives the real reason for the silence, sets a firm schedule (January 7) and offers monthly numbers. It also names the $3,800 exposure on the same records system and makes concrete requests, which wins back trust. A still contains template placeholders, has no runway plan and overstates what the reminder feature can do. To an investor who is already annoyed, it reads as careless."
+}

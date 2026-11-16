@@ -1,0 +1,48 @@
+I wrote the update from your answers. It's about 440 words.
+
+<final_document>
+Subject: Cadence Scheduling: quarterly update, and an apology for the gap
+
+Hi all,
+
+I'll start with an apology. I didn't send updates for the last two quarters. The numbers were flat and I didn't want to send bad news. That was the wrong call, because bad news is exactly what you should hear from me early. From now on you'll get an update in the first week of every quarter. The next one goes out January 7. If you'd like a one-page set of numbers every month as well, reply and I'll send it.
+
+**The quarter in numbers**
+
+- Monthly recurring revenue: $41,000, the same as three months ago.
+- Clinics: 9 added, 4 lost.
+- Cash: $480,000 in the bank. We lose about $44,000 a month, which gives us roughly 11 months, to around October 2027, if nothing changes.
+
+**What happened**
+
+Our largest customer, a 12-clinic chain paying $5,500 a month, moved to the scheduler built into their electronic records system. Revenue held flat only because the rest of the business grew. Without that chain, monthly revenue went from about $35,500 to $41,000, roughly 15% in one quarter.
+
+There's a risk I want you to see clearly. Two other customers use the same records system as the chain that left, and together they pay $3,800 a month. I can't promise they won't leave the same way. If they do, monthly revenue falls to $37,200.
+
+**What's working**
+
+Clinics that use our automatic text reminders have a no-show rate of 7%, against 13% before they started. It's the clearest result we deliver.
+
+**What's next**
+
+On December 1 we start selling reminders on their own for $150 a month. Six clinics have already said they'll buy at launch. I don't yet know whether the reminders will work alongside the schedulers built into records systems. That's the question I most want answered. If they do, a clinic that moves its scheduling to its records system could still stay with us for reminders. I'm not setting a sales target yet. You'll see the real numbers on January 7.
+
+I don't have a fundraising or cost-cutting plan to share yet. With about 11 months of cash, I need to settle that soon. I'd rather work it out with your input than hand you a finished plan.
+
+**What I'm asking for**
+
+1. **20 minutes on the phone with each of you.** Reply with a few times that work and I'll set it up.
+2. **Introductions to physical therapy clinic chains.** A chain is the single biggest customer we lost, and it's where one deal moves our numbers most.
+
+Thank you for your patience over the last six months. I'll keep you better informed from here.
+
+Sam Patel
+Founder, Cadence Scheduling
+</final_document>
+
+A few things to check before you send:
+
+- **No-show figure:** I gave it without saying how many clinics or what time period it covers, because you didn't have that to hand. If any of these investors is likely to ask, find the sample size before your calls.
+- **The 15% growth:** I worked this out from your numbers rather than you giving it to me: $41,000 minus the chain's $5,500 is $35,500 three months ago. Check it against your books before it goes out.
+- **The $37,200 figure:** This is what monthly revenue would be if both customers on that records system left. It's there to show you've measured the risk, not to predict that they will.
+- **The ending:** It deliberately says you don't have a plan for when the cash runs out yet. That's true, and it turns the 20-minute calls into a request for advice rather than a formality.

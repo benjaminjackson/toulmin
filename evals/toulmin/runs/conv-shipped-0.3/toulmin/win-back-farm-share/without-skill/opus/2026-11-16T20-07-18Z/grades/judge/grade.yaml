@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:07:45.027091+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 180
+  tags: []
+  notes: extracted 180 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 4
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 3
+    qualification: 3
+    objections: 3
+    fit: 7
+  details:
+    agree: The plain apology helps, but this reader left over silence and getting
+      no credit, and the email promises neither weekly updates nor a weather credit,
+      so the reason they cancelled is still there.
+    honest: Every claim matches the brief, and it says the hail nets cover only tomatoes
+      and peppers, though the line about the second field spreading crops out reads
+      a little into the facts.
+    works_the_facts: The email puts the $31,000 spend next to the unchanged $540 price,
+      which works well, but it does nothing else with the figures, such as how few
+      of the 52 shares are left or what a half-empty box meant in dollars across six
+      weeks.
+    right_comparison: It never says what a bad week would look like now compared with
+      last July, so the reader can't tell whether the next storm would be handled
+      any differently.
+    qualification: The email needed to say crop loss can't be ruled out and to name
+      a clear remedy, such as a credit when weather cuts a box by more than a third,
+      but it leaves the reader to infer the nets and field are protection.
+    objections: The objection that the farm went quiet and kept the money gets an
+      apology but no commitment for next time, and the pause credit is offered as
+      if it answered a weather problem it doesn't cover.
+    fit: It's a short email under 200 words with a clear subject and call to action,
+      but placeholders are left where the writer could have filled in Sam Turner,
+      Greenbank Farm and the website sign-up link.

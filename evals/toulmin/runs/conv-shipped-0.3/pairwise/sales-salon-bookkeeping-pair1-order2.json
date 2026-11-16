@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-25-27Z",
+  "without_skill_run": "2026-11-16T20-05-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B tells me Carla doesn't do income tax returns, so my cousin keeps doing my taxes and just gets cleaner books. That takes away my biggest worry. B also says she ran a salon for six years, that I don't pay for any month she misses the 10th, and that there's no contract, only 30 days' notice. A admits the missed deadlines but gives me nothing back for them."
+}

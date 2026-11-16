@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T22:23:18.972534+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 362
+  tags: []
+  notes: extracted 362 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 6
+    objections: 6
+    fit: 8
+  details:
+    agree: Opening with traffic and offering the signal as a condition speaks directly
+      to the two commissioners' concern, but opposed neighbours hear nothing about
+      20 months of construction trucks or the written weekday parking offer, so some
+      resistance is left unanswered.
+    honest: The figures are accurate, and 'about one in six' is a fair reading of
+      64/412, but 'no one is displaced, and no open space is lost' goes beyond the
+      brief, and the line that the intersection 'doesn't get worse' skips over the
+      310 extra trips that will still use Alder Road.
+    works_the_facts: It works out the share of the waiting list the project would
+      house and notes there is more than one space per unit, but it leaves other useful
+      sums undone, such as how many years of waiting the lot represents or what three
+      more years of no action costs.
+    right_comparison: 'The alternative is set out plainly and truthfully: the 412
+      households keep waiting and the lot stays empty. It doesn''t mention that traffic
+      is already backing up at 8am without the project.'
+    qualification: Making the signal a permit condition can be checked, and the study
+      backs the claim that it keeps a C rating, but there's no timing (for example,
+      the signal in place before occupancy) and no consequence if it isn't built.
+    objections: 'Rush-hour traffic, parking and the ''barely dents it'' point are
+      all met, but construction disruption and existing congestion, the objections
+      neighbours are most likely to raise, are left out even though the speaker had
+      answers ready: the neighbor group and the neighbour parking commitment.'
+    fit: At about 420 words it fits a three-minute spoken slot and reads naturally
+      aloud, though it leaves out the speaker's name and the church's name, which
+      public comment normally expects.

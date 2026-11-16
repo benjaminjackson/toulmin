@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T22:23:38.234013+00:00'
+outcome: pass
+score: 0.85
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 518
+  tags: []
+  notes: extracted 518 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.85
+  metrics:
+    agree: 8
+    honest: 9
+    works_the_facts: 7
+    right_comparison: 5
+    qualification: 9
+    objections: 7
+    fit: 8
+  details:
+    agree: 'A wary backer who has been burned before gets the things that settle that
+      worry: finished art and rules, a signed factory quote, a full budget, a refund
+      trigger and a fixed update schedule, so this reader would probably pledge.'
+    honest: It drops the unsupported 'proven hit' claim, says the ratings mostly came
+      from the creator's own convention table, and every number checks against the
+      brief; the only stretch is the minor line 'every session showed me something
+      to fix, and I fixed it'.
+    works_the_facts: 'It works out the 572 backers needed, the fees, the shipping
+      cost and the $2,650 buffer correctly, but it never makes the strongest true
+      point: only about 46% of the 1,240 email sign-ups need to back for the campaign
+      to fund.'
+    right_comparison: It doesn't compare backing now with any alternative, such as
+      waiting for the reviewer's video, waiting for retail, or what happens if the
+      goal isn't met; the only implied comparison is with campaigns that overpromise.
+    qualification: 'The hedges can be checked: delivery in November 2027, a refund
+      to anyone who asks if it is more than three months late, updates every two weeks,
+      and a reviewer video in launch week.'
+    objections: It meets the first-time-creator worry head on, but leaves open what
+      happens if pledges go past the 1,500-copy run, or if costs exceed the thin $2,650
+      buffer and that hurts the refund promise.
+    fit: "It is a crowdfunding pitch with clear sections, and at roughly 550\u2013\
+      600 words it runs a little over the 500 asked for."

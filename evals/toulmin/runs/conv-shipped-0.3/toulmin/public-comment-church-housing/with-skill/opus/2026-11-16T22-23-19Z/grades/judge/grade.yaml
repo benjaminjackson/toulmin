@@ -1,0 +1,60 @@
+grader: judge
+graded: '2026-11-16T22:24:27.540492+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 421
+  tags: []
+  notes: extracted 421 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 7
+    objections: 8
+    fit: 9
+  details:
+    agree: 'The two commissioners focused on traffic get a concrete fix: a builder-funded
+      signal that keeps the intersection at C, made a condition of approval. The neighbours
+      who oppose the project hear a fellow resident admit the costs, though that may
+      soften them more than it wins them over.'
+    honest: Every figure comes from the brief or the user, and the speech says plainly
+      that traffic may get worse. Calling 64 of 412 households (about 16%) "one in
+      six" rounds slightly in its own favour, and "an easy site" is the speaker's
+      own framing.
+    works_the_facts: Turning 64 of 412 into "one in six" makes the waiting-list figure
+      concrete, and the C-to-D-to-C sequence is set out clearly. The speech never
+      points out that 72 spaces is 8 more than the 64 units need, and it doesn't put
+      the 310 trips in context, for example as roughly five per unit.
+    right_comparison: 'The no-build alternative is shown honestly: the lot stays empty,
+      the intersection falls to D without a signal, and 412 households keep waiting
+      about three years. The closing contrast of trucks against more years of waiting
+      is fair, though a little stark.'
+    qualification: 'The hedge is tied to something the commission can enforce and
+      check: the signal as a binding condition, with the study''s C rating as the
+      measure. It gives no date or trigger for when the signal must be in place, and
+      nothing about what happens if it isn''t.'
+    objections: Traffic, parking and construction disruption are each answered with
+      a specific commitment (the signal condition, weekday parking for neighbours
+      in writing, a seat on the neighbour group). The speech raises no objection that
+      the facts already settle.
+    fit: At about 430 words in plain spoken first person, with a clear ask at the
+      start and again at the end, it fits a three-minute public comment.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-23-19Z",
+  "without_skill_run": "2026-11-16T20-04-49Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A answers the traffic worry that two commissioners have raised. It points to the builder-funded signal, which the study says keeps Alder and 4th at a C, and it asks for that signal as a condition of approval. Document B accepts the drop to a D and offers only vague fixes. B also has unfilled placeholders, and its parking claim that residents' cars won't spill onto nearby streets goes beyond what the facts support."
+}

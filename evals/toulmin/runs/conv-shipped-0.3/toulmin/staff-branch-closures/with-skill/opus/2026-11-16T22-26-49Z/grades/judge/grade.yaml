@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T22:27:53.719267+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 448
+  tags: []
+  notes: extracted 448 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 4
+    right_comparison: 7
+    qualification: 6
+    objections: 7
+    fit: 7
+  details:
+    agree: The seniority-based shift choice, the six-month exit with severance and
+      the HR meetings give a long-serving teller who doesn't want phone work real
+      reasons to try the role, but there's no concrete pay figure and the rumours
+      aren't acknowledged, so a resistant reader may still start looking elsewhere.
+    honest: It correctly drops the 'better for everyone' claim, but 'that wait will
+      keep growing' is stated as fact without support, and promising to share shift
+      details 'before anyone has to decide' is a commitment the brief never gave.
+    works_the_facts: 'The figures are only repeated, not worked: ''same pay or higher''
+      hides the stronger true fact of $1.50 an hour more (about $3,000 a year full-time),
+      and the severance is never made concrete, for example 20 weeks of pay for someone
+      with ten years.'
+    right_comparison: Keeping the branches is fairly set against the 44% drop in visits,
+      the 60% rise in phone and chat contacts and the 9-minute hold time, though the
+      claim that waits will grow is asserted, not shown.
+    qualification: The offer date, decision date and six-month exit are concrete and
+      checkable, but 'some details are still being worked out' has no date and no
+      consequence if it slips.
+    objections: 'It meets the main objections head-on: it says plainly that 9-to-5
+      hours can''t be promised, names the change in commute, admits the phone team''s
+      30% turnover, and offers an exit, though it doesn''t acknowledge the two weeks
+      of rumours.'
+    fit: It's an email of about 430 words with a subject line, which is close to the
+      brief, but it's signed only 'Chief Operating Officer' with no name and never
+      names the credit union.

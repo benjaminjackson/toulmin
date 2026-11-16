@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:02:05.413588+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 470
+  tags: []
+  notes: extracted 470 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 4
+    honest: 5
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 3
+    objections: 3
+    fit: 5
+  details:
+    agree: Marisol, who chased the last report for four months, gets bracketed placeholders
+      where the accountability fix should be, and nothing about how the van's running
+      costs will be paid, so she has little reason to recommend yes.
+    honest: It rightly drops the 'double' claim, but 'at least 9,000 additional pounds'
+      promises a repeat that the farms haven't committed to, and the line about clients
+      asking for fresh food most is invented.
+    works_the_facts: The 50% growing-season increase (3,000 vs 6,000 lbs/month) is
+      a correct and favourable derivation, but the draft never gives the annual effect
+      (about 12.5%) or says that reserves would drop to $11,000.
+    right_comparison: 'The status quo is described accurately: produce is already
+      being offered and is turned away for lack of cold transport, with no exaggeration
+      of the trend.'
+    qualification: The measurement plan says only 'report them to the Foundation',
+      with no quarterly schedule, no named owner and no deadline, and the 9,000-lb
+      expectation has no stated condition or fallback.
+    objections: The late-report objection is acknowledged but the remedy is a placeholder
+      rather than Dave Lin and a 30-day deadline, and the obvious questions about
+      the unbudgeted $4,500 a year in operating costs and whether farms will give
+      again (the letters exist) go unanswered.
+    fit: It is a narrative under 500 words with sensible sections, but the unfilled
+      brackets for name, town, shelving result and the reporting fix mean it can't
+      be submitted as is.

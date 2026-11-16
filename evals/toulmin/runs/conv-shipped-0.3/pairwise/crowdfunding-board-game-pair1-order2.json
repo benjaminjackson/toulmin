@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-22-12Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B covers what I check before backing a first-time creator: a delivery date, an update every two weeks, a full refund if it's more than three months late, and the fact that most of the ratings came from people who played at the creator's table. That honesty makes me trust it. Document A sounds nice, but it says nothing about when the game ships or what happens if it's late, which is exactly where I lost $85 before."
+}

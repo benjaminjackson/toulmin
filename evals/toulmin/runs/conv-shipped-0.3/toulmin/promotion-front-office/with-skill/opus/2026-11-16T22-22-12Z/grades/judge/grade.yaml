@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T22:23:23.661619+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 385
+  tags: []
+  notes: extracted 385 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 7
+    qualification: 6
+    objections: 8
+    fit: 9
+  details:
+    agree: The GM gets a direct answer on the renovation, the budget gap and the outside
+      candidate, and 7 weeks already doing the job is hard to wave away, though the
+      case against bigger-hotel experience rests mostly on knowing this building.
+    honest: It drops the 'main reason' claim, says the renovation helped, and 'almost
+      half' (0.3 of 0.7) is accurate; 'each month' for a 7-week stretch is only a
+      slight stretch.
+    works_the_facts: It works out the share of the score gain before the renovation
+      and the cut in training time, but misses that the score rose about twice as
+      fast per month before the renovation (0.3 in 5 months vs 0.4 in 13), and leaves
+      turnover as raw counts when it could say it fell from 64% to 36%.
+    right_comparison: It splits the score gain into before and after the renovation
+      and compares turnover before and after her promotion, and it describes the outside
+      candidate fairly, though the claim that an outside hire would lose months learning
+      the hotel is asserted, not shown.
+    qualification: The budget fix gives checkable commitments (finance course within
+      3 months, weekly sessions with a named controller), but there's no measurable
+      target and nothing said about what happens if they're missed.
+    objections: It takes on the GM's three likely objections (renovation, no budget
+      experience, outside candidate's experience) head-on and doesn't invent any the
+      facts already answer.
+    fit: It's a short, well-organised memo that fits on one page, as the brief asked.

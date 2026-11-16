@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-24-38Z",
+  "without_skill_run": "2026-11-16T20-01-54Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives the real reason for the missed updates, commits to a date, discloses the $3,800 a month at risk on the same records system, and makes concrete asks, which earns back my trust. A is vaguer and still has unfilled placeholders where the runway plan, the asks and the signature belong, so it reads as careless to an investor who already complained about the silence."
+}

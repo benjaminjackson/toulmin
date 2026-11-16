@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-23-11Z",
+  "without_skill_run": "2026-11-16T20-03-03Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A reads as a finished, specific request: it names the book, commits to sketches in six weeks and final art by September 1, mentions the fourth printing and says plainly that $9,000 won't work, which tells me I have to decide now. B still has blank placeholders and makes no schedule commitment, so it feels generic and less urgent, even though its figures are honest too."
+}

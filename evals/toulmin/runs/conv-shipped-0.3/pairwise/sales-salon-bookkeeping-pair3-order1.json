@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-27-23Z",
+  "without_skill_run": "2026-11-16T20-06-39Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A tells me my cousin can keep doing my tax returns and would just get clean books from Carla, so I wouldn't have to drop him. It also offers no contract, a free month if she misses the 10th, and the fact that she managed a salon herself, which together make a 20-minute call feel low-risk. Document B says none of these things, so I'm left worrying about my cousin and about committing to $199 a month."
+}

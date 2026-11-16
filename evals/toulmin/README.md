@@ -54,7 +54,8 @@ The shipped skill (plugin version 0.3.0) against Claude with no skill, on the 12
 
 - Invented facts per document: 1.2 with the skill, 2.2 without.
 - A person rated 10 of these pairs blind (`blind-check/packet.md`) and preferred the skill's document in all 10.
-- In a normal session that lists about 130 skills, the skill loaded in 21 of 29 sessions from its description alone, and in 28 of 29 with the plugin's `UserPromptSubmit` hook (`trigger-rate`).
+- In a normal session that lists about 130 skills, the skill loaded in 21 of 29 sessions from its description alone, and in 28 of 29 and 27 of 29 (two runs) with the plugin's `UserPromptSubmit` hook (`trigger-rate`).
+- With the hook in place, the plugin repeated its tune-set result under the Opus judge: 36 wins in 36 pairs (`runs/conv-shipped-0.3`).
 
 Where the gain comes from, from head-to-head rounds between three versions on the same sealed tasks (Opus and Fable judges; the Gemini account ran out of credit):
 

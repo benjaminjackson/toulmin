@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-23-48Z",
+  "without_skill_run": "2026-11-16T20-01-17Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A deals with the late shelving report directly: it names Dave Lin as responsible, sets a 30-day deadline and offers quarterly updates. It also mentions the farm letters and the $4,500 a year for insurance and fuel. B still has placeholders where the reporting commitment should be, and it presents last summer's 9,000 pounds as an expected result even though the farms haven't promised to offer that much again."
+}

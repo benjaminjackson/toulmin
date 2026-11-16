@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-24-11Z",
+  "without_skill_run": "2026-11-16T20-03-30Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is addressed to me and names the book. It also adds the fourth printing and offers firm commitments on sketches, the September 1 deadline and free marketing spots, so the extra $2,500 over the cheaper newer illustrator is easier to justify. A still has template placeholders and offers nothing beyond the request."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-25-27Z",
+  "without_skill_run": "2026-11-16T20-05-37Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A tells me my cousin can keep doing my taxes and just get cleaner books. It also says there's no contract and that I don't pay for any month she misses the 10th, which makes it easy to say yes to a call. B leaves out all of that. It also adds salon details the brief doesn't support, and it never says who I'd be talking to."
+}

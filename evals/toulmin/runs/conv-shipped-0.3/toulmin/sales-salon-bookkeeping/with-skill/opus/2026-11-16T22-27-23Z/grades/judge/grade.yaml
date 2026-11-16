@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T22:28:27.086390+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 307
+  tags: []
+  notes: extracted 307 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 4
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 3
+    qualification: 8
+    objections: 4
+    fit: 9
+  details:
+    agree: The page is plain and believable, but nothing in it helps an owner who
+      pays her cousin $600 a year at tax time see why $199 a month is worth it, so
+      she has little reason to book.
+    honest: Every claim matches the facts, and the $800 saving comes with an explicit
+      no-promise; the one stretch is the headline's 'ran one', since Carla managed
+      a salon rather than owned one.
+    works_the_facts: 'The raw numbers are listed but never worked: the page doesn''t
+      give the yearly cost ($2,388), doesn''t say that every client who kept their
+      salon stayed, and doesn''t frame the 9 savings reports as a share of 31 clients.'
+    right_comparison: The real alternative is a once-a-year tax-time bookkeeper at
+      $600, and the page never describes it or what happens when books are only done
+      once a year; it only mentions her old $149 price.
+    qualification: 'The guarantee is specific and checkable: a missed 10th means that
+      month is free, it started in January, and it is backed by an honest count of
+      3 misses; the limit of five new clients is also concrete, though ''this year''
+      reads oddly in November.'
+    objections: Saying her own tax preparer keeps doing the return helps a little,
+      but the page never says outright that her cousin can stay, and it doesn't take
+      on the price gap; it spends space on the old price increase, which this reader
+      wasn't asking about.
+    fit: It runs to roughly 330 words of sales-page copy and ends with a button to
+      book the call, as the brief asked.

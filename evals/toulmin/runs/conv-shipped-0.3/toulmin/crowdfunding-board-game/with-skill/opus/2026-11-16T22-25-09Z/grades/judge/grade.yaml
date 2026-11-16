@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T22:26:42.811901+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 431
+  tags: []
+  notes: extracted 431 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 8
+    objections: 7
+    fit: 7
+  details:
+    agree: 'A wary backer gets the things they look for: a finished game, a signed
+      factory quote, a full budget, a refund promise and an outside reviewer, though
+      the thin $2,650 margin and the unanswered freight question may hold some back.'
+    honest: It drops the 'proven hit' claim for the defensible 'proven at the table,
+      140 times over' and says plainly where the ratings came from, but it invents
+      an unconfirmed freight and import gap that the creator never mentioned.
+    works_the_facts: The budget is worked out correctly (572 backers, about $5,150
+      shipping, $2,800 fees, about $2,650 left), but the pitch never points out that
+      1,240 sign-ups is more than twice the 572 backers needed, and it doesn't explain
+      why 1,500 copies are being printed.
+    right_comparison: It never says what happens if the goal is missed or how this
+      compares with other first-time projects, so the reader has nothing to weigh
+      the pledge against.
+    qualification: 'The promises can be checked: delivery in November 2027, an update
+      every two weeks, and a full refund if delivery is more than three months late,
+      each with a date and a consequence.'
+    objections: The first-timer worry is met head-on with commitments and no stretch
+      goals, though the freight hedge raises a new doubt and the gap between 1,500
+      printed copies and 572 backers goes unexplained.
+    fit: The length is about right and it reads as a crowdfunding pitch, but it never
+      gives the game's name (Lantern Winter) or the creator's name, both of which
+      a pitch page needs.

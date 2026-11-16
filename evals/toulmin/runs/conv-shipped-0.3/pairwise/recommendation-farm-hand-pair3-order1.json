@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-27-11Z",
+  "without_skill_run": "2026-11-16T20-06-05Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is a finished letter with a named writer and phone number. It gives concrete evidence: about $8,000 saved, a cousin covering his shifts while he was away, and a weekend job held open. It also handles his weaknesses openly. B still has placeholder brackets, leaves out the short notice before he left, and adds claims the brief doesn't support, so it reads as less complete and less credible."
+}

@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T22:27:39.960006+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 214
+  tags: []
+  notes: extracted 214 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 6
+    objections: 7
+    fit: 8
+  details:
+    agree: A plain apology that names the silence, plus a weekly email and a credit
+      with a set threshold, directly answer this household's complaint, though nothing
+      makes up for the roughly $74 they lost last year, so a resentful reader may
+      still hold back.
+    honest: Every fact matches what the user supplied, but 'If there is, the credit
+      covers you' overstates the protection because losses under a third get no credit,
+      and 'you always know what's happening' promises more than one short weekly email.
+    works_the_facts: The survey figures (29 of 41) are used well, but the email never
+      works out what the hail cost a member (about $24.50 a week, so roughly $74 over
+      six half boxes) or how much the new credit would be worth.
+    right_comparison: The email sets this year against last year's handling, but it
+      never shows the reader's real choice (another season with the farm against no
+      share at all) beyond a passing line that 52 shares are left.
+    qualification: The hedges can be checked (a one-third threshold, nets on tomatoes
+      and peppers only, no promise against crop loss), but the email never says how
+      much credit a member gets or how a one-third cut will be measured.
+    objections: It meets the 'you went quiet and didn't compensate' objection head-on
+      and raises no objection the facts already settle, but it leaves 'what about
+      the money I lost last year?' unaddressed.
+    fit: It is a short email with a clear subject, an apology, a scannable list of
+      changes and a call to action, and the body comes in at about 200 words, right
+      at the limit.

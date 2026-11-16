@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-22-12Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks directly to the late report I had to chase. It names Dave Lin as responsible, gives a 30-day deadline, and promises quarterly updates. It also states the $4,500 a year in operating costs, says what is left in reserve, and mentions the farm letters. A is still full of placeholders and doesn't commit to anyone or anything specific on reporting."
+}

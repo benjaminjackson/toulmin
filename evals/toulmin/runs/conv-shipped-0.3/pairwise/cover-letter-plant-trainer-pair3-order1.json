@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-24-28Z",
+  "without_skill_run": "2026-11-16T20-01-37Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A addresses me by name and gives what a regulated plant cares about: signed training records that passed two state audits, a measured cut in training hours from 20 to 12, a GMP course with a finish date, and a clear start date and interview availability. B is a template with placeholders, and it answers the GMP gap with general claims about good habits instead of evidence."
+}

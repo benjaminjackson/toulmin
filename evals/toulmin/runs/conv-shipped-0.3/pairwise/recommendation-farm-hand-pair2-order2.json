@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-26-15Z",
+  "without_skill_run": "2026-11-16T20-05-29Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is a finished letter with real names, a phone number, the $8,000 vet estimate, and a concrete commitment to keep his job open on weekends. It also deals honestly with the short notice and the failed test, so it reads as more credible. A is full of placeholders and leaves out the two-day notice, which makes it feel generic and a little evasive."
+}

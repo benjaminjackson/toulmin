@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-23-48Z",
+  "without_skill_run": "2026-11-16T20-01-17Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks to my main worry, the four months I spent chasing the last report. It names Dave Lin, commits to a report within 30 days and offers quarterly updates, and it is open about the $4,500 a year in running costs and the uncertainty about the farm donations. A leaves placeholders where it should explain how reporting will improve, and it overstates the farm donations as 'at least 9,000 pounds.'"
+}

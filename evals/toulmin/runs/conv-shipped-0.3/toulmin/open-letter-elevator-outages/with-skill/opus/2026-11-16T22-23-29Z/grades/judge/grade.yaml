@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T22:24:38.113044+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 406
+  tags: []
+  notes: extracted 406 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 8
+    qualification: 5
+    objections: 8
+    fit: 9
+  details:
+    agree: The modest, specific asks, the offer to meet any weekday evening and the
+      shared list of residents who need help make it hard for a resistant manager
+      to dismiss, though nothing sets a reply deadline to force action.
+    honest: Every fact comes from the brief, and the letter openly admits it has no
+      engineer's view on a second elevator; 'one day in every eight' is a slight stretch
+      on a full year (41/365 is closer to one in nine) but holds for the days elapsed
+      by December 1.
+    works_the_facts: It turns the 41 days into a rate and uses 'five months later'
+      to make the repeated promise concrete, but it does not express the 74 signatures
+      as about two-thirds of households, and it does not point out that a fresh 6-to-8-week
+      estimate puts the part in mid-to-late January at the earliest.
+    right_comparison: The alternative is shown as the status quo continuing (the same
+      'six to eight weeks' promise since June, and the least mobile residents shut
+      in), and this matches the facts and their trend.
+    qualification: The hedge on the second elevator is honest and comes with a checkable
+      remedy (an independent engineer), but the letter sets no date for a reply or
+      for the repair date it asks for, and says nothing about what happens if those
+      are missed.
+    objections: It deals in advance with the passing inspection, the $400,000 claim
+      and the 'few loud people' view (74 of 112 households signed), and it raises
+      no objection that the facts already answer.
+    fit: It is a dated open letter of roughly 400 words, addressed to the right person,
+      signed by the secretary and suitable for the lobby and the press.

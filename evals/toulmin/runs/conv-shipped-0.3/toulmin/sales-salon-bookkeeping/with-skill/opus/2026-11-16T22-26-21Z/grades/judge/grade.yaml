@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T22:27:23.086777+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 335
+  tags: []
+  notes: extracted 335 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 4
+    honest: 8
+    works_the_facts: 3
+    right_comparison: 2
+    qualification: 7
+    objections: 2
+    fit: 8
+  details:
+    agree: The page is credible and warm, but it never addresses her cousin or the
+      jump from $600 a year to $199 a month, so she may well close the tab without
+      booking.
+    honest: Every claim matches the brief and what the user knows, including the three
+      missed dates and the price rise, though 'worked behind the front desk' slightly
+      recasts 'managed a salon'.
+    works_the_facts: 'The figures appear raw: the page never says no client left unhappy
+      (29 of 31 stayed), never sets the annual cost against what payroll or a cheaper
+      accountant saves, and never frames the missed dates in their most favourable
+      true form.'
+    right_comparison: Her real alternative, a once-a-year tax-time bookkeeper with
+      no monthly books or payroll, is never described, so $199 a month has nothing
+      to be weighed against.
+    qualification: The on-time guarantee names a checkable date (the 10th), a start
+      (January) and a consequence (that month is free), and the 30-day exit is clear,
+      but the cap of about 5 new clients this year is left out.
+    objections: The page never says her cousin or accountant can keep doing her income
+      tax returns using Carla's clean books, which would defuse her main objection,
+      and it presents the price rise without its reason (payroll was added), so the
+      page itself raises an objection the facts already answer.
+    fit: At about 360 words, with clear sections and a booking button at the end,
+      it matches the length and form requested.

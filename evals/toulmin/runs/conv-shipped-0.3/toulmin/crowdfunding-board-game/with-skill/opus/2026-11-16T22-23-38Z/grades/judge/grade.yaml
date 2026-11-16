@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T22:25:09.831792+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 492
+  tags: []
+  notes: extracted 492 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 8
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 8
+    objections: 8
+    fit: 6
+  details:
+    agree: 'A wary backer who has lost money on a first-time creator gets what they
+      look for: plain admissions, finished art and rules, a signed quote, a cost breakdown,
+      regular updates and a refund pledge, so they would probably pledge.'
+    honest: The writer reframes 'proven hit' as 'proven at the table' and says outright
+      that the game isn't a hit yet; the only small embellishments are 'every session
+      showed me something to fix' and calling the sign-ups people 'already waiting'.
+    works_the_facts: It works out the 572 backers needed, notes that this is fewer
+      than half the 1,240 sign-ups, and adds up shipping and fees, but it leaves about
+      $2,650 of the goal unexplained and understates plays per person (more than twice,
+      when 140 multi-player sessions imply far more).
+    right_comparison: The alternative, a finished game that never gets printed, is
+      stated clearly, but the pitch doesn't explain what happens if the campaign falls
+      short, and it treats sign-ups as near-backers without any conversion realism.
+    qualification: 'The promises are checkable, with dates and consequences: delivery
+      in November 2027, a refund if it is more than three months late, updates every
+      two weeks, and an explicit statement that there are no stretch goals.'
+    objections: It meets the first-time-creator objection head on and admits up front
+      that the ratings are few and mostly from convention tables, though a careful
+      reader would still ask about the uncosted remainder of the goal and about shipping
+      outside the US.
+    fit: It is a pitch of roughly the requested 500 words, but it never names the
+      game (Lantern Winter) or the creator, and it leaves out the campaign dates,
+      which is a strange omission on a crowdfunding page.

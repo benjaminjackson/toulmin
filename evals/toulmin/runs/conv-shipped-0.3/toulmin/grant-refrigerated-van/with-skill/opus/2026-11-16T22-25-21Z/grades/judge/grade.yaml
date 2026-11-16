@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T22:27:00.388488+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 408
+  tags: []
+  notes: extracted 408 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 5
+    objections: 6
+    fit: 8
+  details:
+    agree: Marisol would probably be won over by the plain account of the late report,
+      the named owner and the frank drop of the doubling claim, but she is left with
+      an operating cost the draft admits is unbudgeted and no target to judge success
+      against.
+    honest: "The draft drops the unsupported doubling claim and its arithmetic is\
+      \ correct (3,000/6,000 = half; 9,000/610 \u2248 15 lb), though 'plus maintenance\
+      \ and registration' and 'will go without it' go slightly beyond the brief."
+    works_the_facts: It turns the 9,000 pounds into a monthly rate, a 50% seasonal
+      increase and a per-household figure, but it never gives the annual effect (about
+      12.5% of a year's fresh food) and never shows that the $11,000 reserve covers
+      roughly two years of the $4,500 running cost.
+    right_comparison: The no-van case is described accurately as farm offers continuing
+      to be turned away, but it is a single repeated line with no figure and no sense
+      of how much is lost each year.
+    qualification: The report deadline and quarterly reports can be checked, but the
+      main hedge ('we expect it to let us accept fresh produce') has no pound target
+      and no consequence if it is missed.
+    objections: It meets Marisol's late-report worry directly with a reason, a named
+      person and a deadline, but it raises the unbudgeted $4,500 a year without answering
+      it, though the reserve figure in the brief could have.
+    fit: It is a clearly sectioned grant narrative that stays under the 500-word limit.

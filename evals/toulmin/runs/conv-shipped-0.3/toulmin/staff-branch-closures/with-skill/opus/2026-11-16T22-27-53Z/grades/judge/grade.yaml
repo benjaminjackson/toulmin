@@ -1,0 +1,60 @@
+grader: judge
+graded: '2026-11-16T22:29:14.993401+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 436
+  tags: []
+  notes: extracted 436 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 7
+    honest: 5
+    works_the_facts: 4
+    right_comparison: 6
+    qualification: 7
+    objections: 7
+    fit: 8
+  details:
+    agree: 'A long-serving teller who doesn''t want phone work gets a concrete reason
+      to try the role: they can keep their severance if they leave within six months,
+      they get seniority-based shift choice and a $1.50 raise. But the letter never
+      mentions the two weeks of rumours, and it says nothing about what the phone
+      work itself is like.'
+    honest: The letter rightly drops the 'better for everyone' claim, but it invents
+      'I don't know of any plans to close others' and calls the phone team 'substantially
+      bigger' when the brief gives no team size. It also says contacts rose 'every
+      year' when the brief only gives a three-year total.
+    works_the_facts: 'The given figures are restated rather than worked out: there
+      is no annual value for the $1.50 an hour (about $3,100 for full-time staff)
+      and no severance example for a ten-year employee (20 weeks'' pay), which is
+      what these readers would most want to see.'
+    right_comparison: Taking severance is laid out clearly as the alternative, and
+      the falling branch visits are presented as a trend. But the letter doesn't say
+      plainly that keeping the branch job is not an option, and it doesn't show what
+      nine-minute hold times would become if nothing changed.
+    qualification: The commitments come with dates readers can check (offers by February
+      14, decision by March 1, a six-month window with severance as the consequence).
+      The made-up hedge about other closures can't be checked.
+    objections: "The main objections \u2014 not wanting phone work, losing 9-to-5\
+      \ hours and the phone team's turnover \u2014 are each met with something concrete.\
+      \ The rumours these readers have already heard go unacknowledged."
+    fit: It is an email from the COO with a subject line, at about 430 words against
+      the requested 400. Leaving the '[Your name]' placeholder when the writer knew
+      the COO's name is a small flaw.

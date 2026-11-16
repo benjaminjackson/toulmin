@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T22:26:42.224215+00:00'
+outcome: pass
+score: 0.85
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 207
+  tags: []
+  notes: extracted 207 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.85
+  metrics:
+    agree: 8
+    honest: 9
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 7
+    objections: 9
+    fit: 9
+  details:
+    agree: A household that felt the farm went quiet and kept their money would likely
+      be won back by the plain apology, the weekly email and the weather credit, though
+      nothing makes up for last year's loss.
+    honest: Every figure and promise comes from the brief or from what the user said,
+      and the email openly says it can't promise no crop loss and that the nets don't
+      cover greens; the only stretch is that 'Of the 41 of you' reads as if every
+      recipient was in the survey.
+    works_the_facts: It quotes the figures accurately but works none of them out,
+      for example the roughly 70% of survey replies who would return, or what the
+      new credit would have meant for last summer's six thin weeks.
+    right_comparison: It sets last summer's handling (no credit, one email) against
+      this year's terms and says the price hasn't changed, but it says little about
+      what the household gets if they don't sign up.
+    qualification: The credit has a checkable threshold (weather cuts the box by more
+      than a third) and the email names the risk it can't remove, but it never says
+      how big the credit is or how a cut is measured.
+    objections: It takes on 'you went quiet and gave nothing back' head-on with an
+      apology, a weekly email and a credit rule, and it doesn't raise objections the
+      facts already answer.
+    fit: It's a short email to lapsed members, about 195 words, under the 200-word
+      limit, with a clear subject line, the deadline and where to sign up.

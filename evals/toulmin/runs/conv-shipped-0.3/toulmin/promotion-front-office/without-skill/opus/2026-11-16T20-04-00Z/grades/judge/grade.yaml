@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T20:04:35.175095+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 399
+  tags: []
+  notes: extracted 399 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 4
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 3
+    qualification: 4
+    objections: 4
+    fit: 6
+  details:
+    agree: Mark likes Daniela and would see a tidy record, but he thinks the renovation
+      drove the scores. The memo only says the check-in score measures the desk. It
+      never shows that the score had already reached 8.2 before the renovation began,
+      so his main doubt stands.
+    honest: The memo drops the unsupported 'main reason' claim and admits the renovation
+      helped. Its figures match the brief. The only stretch is 'more experienced than
+      before', which is a reasonable inference from lower turnover rather than a stated
+      fact.
+    works_the_facts: 'It turns the turnover counts into 64% and 36% and calls the
+      cut from 9 shifts to 5 ''almost half''. It leaves out three of the strongest
+      true figures: the 7.9-to-8.2 rise before the renovation, no uncovered shifts
+      in the 7 weeks, and overtime under plan.'
+    right_comparison: The real alternative is the outside candidate, and the memo
+      never mentions or weighs them. It also never splits the score trend into before
+      and after the renovation.
+    qualification: The budget plan has a 90-day window and a monthly labor-cost report.
+      But the finance course is only a bracketed placeholder, the controller sessions
+      aren't named, and nothing sets a checkable number or says what happens if a
+      target is missed.
+    objections: The budget gap is faced openly and the renovation gets a weak partial
+      answer. The outside candidate's experience at a larger hotel, which is the GM's
+      other main reason to hesitate, is never addressed.
+    fit: It is a one-page memo as asked. But it is full of unfilled brackets for names,
+      the review site, duties and the course, even though the names were available,
+      so it can't be sent as it is.

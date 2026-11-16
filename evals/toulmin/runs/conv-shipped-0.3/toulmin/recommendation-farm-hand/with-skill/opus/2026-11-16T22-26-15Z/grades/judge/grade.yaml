@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T22:27:11.264041+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 322
+  tags: []
+  notes: extracted 322 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 8
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 6
+    objections: 9
+    fit: 9
+  details:
+    agree: 'A committee member skimming 150 letters gets concrete evidence fast: he
+      runs a 3 a.m. shift alone, has missed two shifts in three years, and caught
+      mastitis early, saving $8,000. The two likely doubts, the absence and his written
+      English, are answered before the reader can dwell on them.'
+    honest: Almost every claim matches the facts given, but 'seriously ill' and 'spoken
+      English is good' go a little past 'got sick' and 'weaker than his spoken English.'
+      'Without formal training' is an inference the brief doesn't state.
+    works_the_facts: The $8,000 figure is used well, but the letter leaves 'two missed
+      shifts' raw instead of putting it as roughly two out of about 750 scheduled
+      shifts. That number would make his reliability much more striking.
+    right_comparison: The letter suggests the program would add formal knowledge to
+      skills he already uses. It doesn't set him against a typical applicant or say
+      what the farm job alone would never teach him, so the comparison is only implied.
+    qualification: This is a recommendation with firm commitments, the weekend job
+      and the phone number, and no claim here needs a hedge.
+    objections: The short notice is met with the arranged cover and his return on
+      the promised date, and written English is met with the night class and the passed
+      retest. It doesn't raise any doubt the facts don't already answer.
+    fit: This is a clear one-page letter from the farm manager, signed with his name
+      and title. It has short paragraphs suited to a quick reader and ends with a
+      working contact number.

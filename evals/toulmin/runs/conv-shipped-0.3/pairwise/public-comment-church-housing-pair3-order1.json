@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-24-27Z",
+  "without_skill_run": "2026-11-16T20-05-18Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A deals directly with traffic, the commissioners' main concern. It asks for a signal condition that the study says keeps Alder and 4th at a C, and it offers neighbours concrete commitments on parking and construction. Document B mostly asks the room to accept the drop to a D, and it still has unfilled [Your Name] placeholders."
+}

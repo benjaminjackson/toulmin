@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T22:26:49.088357+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 434
+  tags: []
+  notes: extracted 434 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 7
+    qualification: 5
+    objections: 7
+    fit: 9
+  details:
+    agree: Staff who don't want phone work get a low-risk trial through the six-month
+      severance option, seniority-based shift choice and a straight account of the
+      downsides, though the email never mentions the rumours they've already heard
+      and never names a branch habit they'd keep.
+    honest: It drops the unsupported 'better for everyone' claim and uses only figures
+      the writer was given, but 'I don't have shift lengths or schedules yet' is a
+      claim about what the writer knows that the brief doesn't support.
+    works_the_facts: 'The figures are only restated: the $1.50 raise is never turned
+      into a yearly amount (about $3,000 for full-time work), and no severance example
+      is given (a ten-year teller would get 20 weeks'' pay) that would make each person''s
+      choice concrete.'
+    right_comparison: It names the three options plainly (take the role, take severance,
+      or try the role and then leave) and gives the trend behind the closures (44%
+      fewer branch visits and 60% more phone and chat contacts), though it never compares
+      the outcomes of those options side by side for a long-serving teller.
+    qualification: The commitments have firm dates (February 14 and March 1), but
+      the hedge about missing shift details gives no date for when staff will learn
+      them, even though they need that before deciding.
+    objections: It meets the main objections directly by admitting the 30% turnover
+      on the phone team, refusing to promise 9-to-5 hours and offering the six-month
+      exit, but it never addresses the rumours or why staff learned about the closures
+      that way.
+    fit: It is an email from the COO of roughly 420 words with a clear subject line
+      and scannable sections, which matches the requested form.

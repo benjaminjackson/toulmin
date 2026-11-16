@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T22:23:10.970824+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 204
+  tags: []
+  notes: extracted 204 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 3
+    objections: 3
+    fit: 8
+  details:
+    agree: The record and the market evidence make a solid case, but an editor with
+      a $9,000 budget and an $8,000 newer illustrator gets no added value to justify
+      $2,500 more, and the firm refusal could push them to the cheaper option.
+    honest: It rightly drops the unsupported claim that every other publisher pays
+      at least $12,000 and states every figure accurately, though 'the market has
+      moved' implies a trend that one higher fee and an agent's range don't quite
+      show.
+    works_the_facts: It uses the given numbers correctly and notes that $11,500 is
+      below the $12,500 she was paid elsewhere, but it derives nothing further, such
+      as the flat fee across six books or the fourth printing's value to the publisher.
+    right_comparison: It compares her fee with the market range and the other publisher,
+      but it never sets her proven sales and reading-list record against the real
+      alternative, an untested illustrator at a lower fee.
+    qualification: The firm 'not at $9,000' line has no checkable conditions around
+      it, and it leaves out the sketch date, the September 1 final-art date and the
+      reply-by-next-week deadline that would make the offer concrete.
+    objections: The editor's main objections, the fixed budget and the cheaper newcomer,
+      are never addressed, and the free spot drawings and schedule commitments that
+      could answer them are left out.
+    fit: It is a polite email of about 210 words, within the 250-word limit, though
+      the generic subject line doesn't name The Night Garden.

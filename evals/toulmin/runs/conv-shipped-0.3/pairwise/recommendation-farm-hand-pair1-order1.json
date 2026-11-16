@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-25-16Z",
+  "without_skill_run": "2026-11-16T20-04-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives concrete, checkable facts: the $8,000 vet estimate, the cousin covering his shifts, his return on the promised date, a weekend job held open for him, and a direct phone number. It also handles his weaknesses openly. B still has unfilled placeholders, leaves out how he handled the absence, and claims things the brief doesn't support, such as 'on his own initiative,' so it reads as less finished and less credible."
+}

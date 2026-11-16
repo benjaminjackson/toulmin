@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-front-office",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-23-23Z",
+  "without_skill_run": "2026-11-16T20-04-35Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B answers my belief that the renovation drove the score: it shows the score was already 8.2 before work started. It also gives a specific budget plan (the finance course and weekly sessions with Ben) and openly addresses the outside candidate. A still has placeholders, says less about what drove the score and claims 'service didn't slip' without backing it up."
+}

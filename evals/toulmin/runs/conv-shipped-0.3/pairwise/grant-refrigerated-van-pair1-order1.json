@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-22-12Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A answers my main worry about the late shelving report: it names Dave Lin as responsible, gives a 30-day deadline and promises quarterly fresh-food numbers. It also states the $4,500 a year in insurance and fuel that isn't budgeted yet. B is unfinished, with placeholders for the operating cost and for what changed after the late report, and it only offers a vague promise to be on time."
+}

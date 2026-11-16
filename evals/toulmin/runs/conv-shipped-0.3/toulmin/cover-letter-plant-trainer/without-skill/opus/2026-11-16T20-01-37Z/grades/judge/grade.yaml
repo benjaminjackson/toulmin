@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T20:02:08.135258+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 352
+  tags: []
+  notes: extracted 352 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 3
+    honest: 7
+    works_the_facts: 2
+    right_comparison: 3
+    qualification: 2
+    objections: 4
+    fit: 5
+  details:
+    agree: 'A skeptical HR manager would read this as the usual teacher-to-trainer
+      letter: it relies on transferable habits rather than proof such as audited signed
+      records or the 20-to-12-hour training redesign, so it probably won''t get a
+      phone screen.'
+    honest: 'It rightly drops the unsupported ''cut training in half'' claim and states
+      the GMP and LMS gaps plainly, but it adds things the brief doesn''t support:
+      ''moved my courses fully onto Google Classroom'', ''learn new systems quickly''
+      and adapting training to different experience levels.'
+    works_the_facts: 'Figures are restated without being worked: there''s no 40% cut
+      from 20 to 12 hours, no total of roughly 18 teachers trained, no estimate of
+      roughly 1,000 students without a serious injury, and the 41-to-58% gain isn''t
+      framed as a 17-point rise.'
+    right_comparison: Only the AP pass rate gets a before and after; the 20-hour training
+      it replaced is left out, and there's no comparison with a candidate who already
+      has GMP experience.
+    qualification: The gap is admitted with only a vague promise to learn, when the
+      GMP course ending May 2 and the June 14 start date would have given dated, checkable
+      conditions.
+    objections: 'It names the regulated-industry objection but answers with soft habits,
+      leaving out the facts that answer it directly: signed training records for every
+      trainee and two state audits that found nothing.'
+    fit: It's a one-page cover letter as asked, but it uses placeholders for the name,
+      company and hiring manager (Laura Benitez, Calder Pharmaceuticals, Karen Doyle)
+      even though those were known, and it leaves out availability for interviews.

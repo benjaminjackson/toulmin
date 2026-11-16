@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-23-11Z",
+  "without_skill_run": "2026-11-16T20-03-03Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is ready to send and gives me what I need to make the decision: it names the book, commits to my schedule, mentions the fourth printing, clearly says $9,000 won't work, and respects my deadline. Its market claim is strong but stays within the facts. A still has placeholders, gives me no delivery commitments and has no firm line, so it's easier to answer by just offering my cheaper illustrator."
+}

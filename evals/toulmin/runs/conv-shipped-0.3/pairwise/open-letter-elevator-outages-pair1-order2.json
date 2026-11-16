@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-22-12Z",
+  "without_skill_run": "2026-11-16T20-03-02Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is addressed to me by name and accepts that a second elevator may not be possible. It asks for three specific things I could actually do, offers the association's help with a stair-assistance list and weekday meetings, and tells me Channel 7 will see it, so acting on it is both possible and urgent. A has blank placeholders and vaguer requests, and it asks me to defend the second-elevator decision, which makes it easier to dismiss as a few loud people."
+}

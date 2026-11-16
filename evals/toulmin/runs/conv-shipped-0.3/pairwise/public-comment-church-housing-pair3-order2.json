@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-24-27Z",
+  "without_skill_run": "2026-11-16T20-05-18Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks directly to the commissioners' main worry about Alder Road traffic. It offers the signal, which the study says keeps the intersection at a C, as a binding condition, and it is honest about the morning backups and the construction trucks. A has placeholders, brushes off the drop to a D, and gives traffic-worried neighbours nothing to fix the problem."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-23-38Z",
+  "without_skill_run": "2026-11-16T20-01-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks to what a wary backer worries about: a line-by-line budget, finished art and rules, a signed factory quote, a firm delivery month, updates every two weeks, a refund if delivery is late, and no stretch goals. It also admits the game isn't a hit yet. A has placeholders, a vague risks section and no refund promise, and it can't say when the game will arrive. B's only small problem is that it names November 2027 when the user only said 'November next year'."
+}

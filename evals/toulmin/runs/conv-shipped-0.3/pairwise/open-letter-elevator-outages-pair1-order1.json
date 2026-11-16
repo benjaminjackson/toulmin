@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-22-12Z",
+  "without_skill_run": "2026-11-16T20-03-02Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is addressed to me by name. It accepts that a second elevator may not be possible, makes three specific requests I can actually carry out, and offers real help in return (a list of residents who need help on the stairs and a meeting any weekday evening), so it's hard to brush off as a few loud people. B still has blank placeholders, asks for more work (updates every two weeks, a feasibility study) and challenges our reasoning without offering anything concrete."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-26-49Z",
+  "without_skill_run": "2026-11-16T20-06-53Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a teller deciding whether to stay, B tells me what I need: offers by Feb 14, a decision due March 1, the center on Elm Avenue, seniority-based shift choice, and that I can still take severance if I leave within six months. It's also straight with me that 9-to-5 can't be promised. A is full of blank placeholders and leaves the shift and commute questions open, so it gives me nothing firm to act on."
+}

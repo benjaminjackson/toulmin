@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-22-12Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A explains honestly why the updates stopped and makes specific commitments (January 7, monthly numbers on request). It also states the $3,800 a month still at risk and does the math showing that six reminder buyers are far from enough. That rebuilds trust with an investor who is annoyed. B gives a vague apology, leaves placeholders in the text, puts a positive spin on the loss and makes no specific promises."
+}

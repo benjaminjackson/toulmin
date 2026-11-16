@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T22:24:38.194359+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 351
+  tags: []
+  notes: extracted 351 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 7
+    qualification: 6
+    objections: 8
+    fit: 9
+  details:
+    agree: 'Mark gets the renovation point met head-on: the score was already at 8.2
+      before the work started. That and the seven weeks of clean coverage give him
+      a real reason to choose her, though the outside candidate''s larger-hotel experience
+      is left largely conceded.'
+    honest: She drops the 'main reason' claim and gives the renovation part of the
+      credit, and every figure comes from the facts given; only 'you wouldn't need
+      to wait for me to learn the job' slightly oversells, given the budget gap she
+      admits.
+    works_the_facts: Turning turnover into 'four fewer people' and pinning down the
+      pre-renovation 8.2 are useful, but she never says that 0.3 of the 0.7 rise (about
+      43%) came before the renovation, that turnover fell from 64% to 36%, or that
+      new hires now go solo after roughly 44% fewer shifts.
+    right_comparison: The renovation is shown fairly as one cause that only began
+      five months in, and the outside candidate is described honestly; the pitch that
+      she already knows this hotel is asserted more than compared.
+    qualification: The budget hedge names a checkable commitment (the finance course
+      within three months, plus weekly sessions with the controller), but it sets
+      no consequence if she misses it, and the Friday-wait goal has no target or date.
+    objections: It meets the reader's renovation belief, the budget gap and the bigger-hotel
+      rival directly, and it raises no objection the facts already settle.
+    fit: It is a one-page letter to the GM with clear sections, which is exactly the
+      form and length she asked for.

@@ -1,0 +1,44 @@
+I've written the update below. It's about 440 words.
+
+- **Revenue apart from the big loss:** MRR stayed flat even though the chain's $5,500 a month left, so everyone else together added about $5,500. That's true however customers are counted, so I used it.
+- **Runway:** $480k at $44k a month runs out around October 2027. Since you don't have a raise date yet, the update says so plainly and makes working one out the main topic for the calls.
+- **The customer that left:** I used it to explain the reminders-only product. The two other customers on the same records system ($3,800 a month) are in the update, without a promise that they'll stay.
+- **The no-show figures:** I didn't add a clinic count or time period, so investors may ask. It's worth checking those before the calls.
+
+<final_document>
+Subject: Cadence Scheduling: quarterly update, November 2026
+
+Hi all,
+
+This is the first update I've sent in six months. Revenue was flat and I didn't want to send bad news. That was the wrong call, and it won't happen again: you'll get an update in the first week of every quarter, starting January 7.
+
+**The numbers**
+- Monthly recurring revenue: $41,000, the same as three months ago
+- Clinics: 9 added, 4 lost
+- Cash: $480,000. We're losing about $44,000 a month, which gives us roughly 11 months.
+- Team: 6
+
+**What happened**
+Our largest customer, a 12-clinic chain paying $5,500 a month, moved to the scheduler built into their electronic records system. Apart from that one loss, the rest of the business added about $5,500 in monthly revenue. That's why we ended the quarter flat and not down.
+
+The chain leaving exposes a real risk. Two other customers use the same records system and together pay $3,800 a month. I can't promise they won't leave the same way.
+
+**What we're doing about it**
+Our strongest result is our automatic text reminders. Clinics using them have a 7% no-show rate, compared with 13% before they started. That's nearly half of missed appointments gone. A records system's built-in scheduler doesn't replace that, so we're going to sell reminders on their own.
+
+From December 1, reminders are available as a separate product for $150 a month. Six clinics have said they'll buy it at launch. That's $900 a month, which is small. What matters is that it opens up clinics we couldn't sell full scheduling to. It also gives us a way to keep customers like the chain even after they move their scheduling elsewhere.
+
+**Where that leaves us**
+At our current spending, our cash lasts until about October 2027. I don't have a fundraising date or a break-even number worked out yet, and I'd rather tell you that than make one up. Working both out is my priority this quarter, and it's where I'd most value your help.
+
+**What I'm asking for**
+1. **20 minutes on the phone with each of you** in the next few weeks. I'd like your view on the reminder product and on how to plan around the runway. Reply with a few times that work for you.
+2. **Introductions to physical therapy clinic chains**, especially ones that schedule through their electronic records system. Those clinics are now customers we can sell to.
+
+If you'd like a one-page set of numbers every month, reply and I'll send it to you.
+
+Thank you for your patience, and for sticking with us.
+
+Sam Patel
+Cadence Scheduling
+</final_document>

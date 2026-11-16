@@ -1,0 +1,44 @@
+<final_document>
+Subject: Cadence Scheduling quarterly update, and an apology for the last two
+
+Hi all,
+
+First, an explanation. I didn't send updates for the last two quarters. Our numbers were flat and I didn't want to send bad news. That was the wrong call. You should hear about flat numbers as soon as I have them. From now on, you'll get an update in the first week of every quarter. The next one goes out January 7. If you'd also like a one-page set of numbers each month, reply and I'll add you to the list.
+
+**The numbers**
+- Monthly recurring revenue: $41,000, the same as three months ago.
+- Clinics: 9 added, 4 lost.
+- Cash: $480,000 in the bank. We lose about $44,000 a month, so at the current rate we have about 11 months of cash left.
+
+**The loss that matters**
+One of the four clinics we lost was our largest customer, a 12-clinic chain that paid $5,500 a month. They moved to the scheduler built into their electronic records system. The new clinics made up for the lost revenue, which is why revenue held steady. But it didn't grow.
+
+The same thing could happen again. Two other customers use the same records system. Together they pay $3,800 a month, and I can't promise they'll stay. A scheduler that comes free with a clinic's records system is a real competitor.
+
+**What we're doing about it**
+Text reminders are our strongest result. Clinics that use our automatic text reminders have a no-show rate of 7%, down from 13% before they started. That removes nearly half of their no-shows, which a built-in scheduler doesn't offer them.
+
+On December 1 we start selling reminders as a separate product at $150 a month. Six clinics have said they'll buy it at launch. That's $900 a month, which is a start but doesn't fix the problem. We'd need about 37 subscribers to replace the revenue from the chain we lost.
+
+What I don't know yet is whether clinics using their records system's scheduler, especially chains, will buy reminders as a separate product. Next quarter has to answer that question.
+
+**Cash**
+I don't have a plan for our remaining cash to share with you yet, and I won't pretend I do. It's the main thing I want to work through with you.
+
+**What I'm asking for**
+1. A 20-minute phone call with each of you, about our cash and the reminders launch.
+2. Introductions to physical therapy clinic chains, especially ones whose records system has a built-in scheduler. Those are the customers we're most at risk of losing, so they'll tell us fastest whether the reminders product can keep them.
+
+Reply with a time that suits you for a call, or with the name of someone I should talk to.
+
+Thanks,
+Sam Patel
+Cadence Scheduling
+</final_document>
+
+The update is about 470 words. A few things to check before you send it:
+
+- **Figures I worked out:** Two numbers come from your figures, not from you directly. About 11 months of cash is $480K ÷ $44K a month. About 37 subscribers is $5,500 ÷ $150. Check that both match how you think about them.
+- **The no-show figure:** It's stated exactly as you gave it. Investors may ask how many clinics and months it's based on, so it's worth finding that out before the calls.
+- **The cash section:** It says plainly that there's no plan yet. Calling it the main topic for the calls was my suggestion, not something you said. That way the gap leads straight to your request for a call instead of being left open. Change it if you'd rather not put it that way.
+- **Who can buy reminders:** I didn't say who can buy reminders as a separate product, since you didn't know. Instead, the update makes that the open question for next quarter, which also explains why you're asking for introductions to chains.

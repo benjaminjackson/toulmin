@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-24-38Z",
+  "without_skill_run": "2026-11-16T20-04-20Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A names me and the building, cites a specific harm (two missed dialysis appointments), admits Keystone may be right about the second elevator, and offers concrete help: a resident list and weekday evening meetings. That makes it hard to dismiss as a few loud people. Document B still has placeholders and makes broad claims about missed appointments, and it asks more of us while offering nothing in return."
+}

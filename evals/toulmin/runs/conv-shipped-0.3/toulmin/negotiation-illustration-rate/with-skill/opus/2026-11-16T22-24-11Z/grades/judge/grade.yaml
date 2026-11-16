@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T22:25:16.485990+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 214
+  tags: []
+  notes: extracted 214 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 7
+    objections: 5
+    fit: 9
+  details:
+    agree: The sales record, the firm floor and the concrete commitments give a sympathetic
+      editor reason to go above budget. But nothing explains why Elena is worth $3,500
+      more than the $8,000 newcomer, so a resisting editor could still take the cheaper
+      option.
+    honest: "It rightly drops the false claim that every other publisher pays at least\
+      \ $12,000 and invents nothing. It does state the agent's $11,000\u2013$13,000\
+      \ opinion as a market fact without saying it comes from the agent."
+    works_the_facts: 'It places $11,500 at the low end of the range and below the
+      $12,500 paid last year. It never works out stronger figures it could have used:
+      six books at an unchanged fee, about $2,250 a month for four months'' work,
+      or what the reading-list book''s reprints have earned.'
+    right_comparison: It sets the flat fee over four years against the outside $12,500
+      and the market range. It does not describe the editor's real alternative, which
+      is losing a proven illustrator whose books reprint and taking on an untested
+      one.
+    qualification: The commitments carry checkable dates (sketches within six weeks
+      of signing, final art by September 1) and depend on the fee being met. The consequence
+      of a refusal is only implied by 'can't take on another at $9,000.'
+    objections: The editor's main objections, the $9,000 budget cap and the cheaper
+      newcomer, are never answered head-on. The sales figures and the free spot drawings
+      only address them indirectly.
+    fit: It is a concise, well-structured email under 250 words, with a subject line
+      and a clear ask.

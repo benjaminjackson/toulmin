@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T22:25:43.655258+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 429
+  tags: []
+  notes: extracted 429 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 6
+    right_comparison: 7
+    qualification: 4
+    objections: 7
+    fit: 8
+  details:
+    agree: The calm tone, specific asks and the association's offer of a resident
+      list and evening meetings make the letter hard to dismiss as a few loud people,
+      but adding a fourth demand for a second-elevator study gives her an easy request
+      to refuse and reopens a question she considers closed.
+    honest: The facts are accurate and carefully hedged ("Keystone may be right"),
+      but the fourth request for an independent second-elevator study is not one of
+      the three things the association asked for, and "by mid-August" stretches a
+      June-plus-six-to-eight-weeks timeline that could run to late August.
+    works_the_facts: It works out "one day in every eight" and shows the June promise
+      has already lapsed, but it never states that 74 of 112 households is two-thirds
+      of the building, which is the figure that would answer the 'few loud people'
+      view.
+    right_comparison: 'The status quo is described fairly: the same six-to-eight-week
+      promise has been repeated since June, and if nothing changes the same residents
+      will be stranded with no repair date.'
+    qualification: The letter asks for a written reply with no deadline and no consequence
+      if none comes, even though it will be posted and a TV reporter is lined up,
+      so the reader has nothing dated to check against.
+    objections: It anticipates the passing inspection by separating safety from reliability
+      and accepts management's cost estimate, but it meets the 'only a few people'
+      view only indirectly through the 74 signatures and never states the share of
+      households.
+    fit: It is a properly addressed open letter of about 430 words, readable both
+      in a lobby and by a reporter, close to the requested length.

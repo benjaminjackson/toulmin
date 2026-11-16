@@ -1,0 +1,89 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+A board game fan who has backed 15 crowdfunding projects and lost $85 on one that never shipped. This reader reads the pitch and the risks section before pledging and is wary of first-time creators.
+</reader>
+
+<brief>
+I need help with the main pitch for my crowdfunding page. I designed a cooperative board game for 1 to 4 players where you see a lighthouse keeper's family through a winter. This is my first campaign.
+
+Facts:
+- The goal is $28,000. The game costs $49 with shipping in the US.
+- The factory quote for 1,500 copies is $17,400. Shipping to backers would cost about $9 a copy.
+- I've run 140 playtest sessions with about 60 different people since 2023.
+- I took it to 2 conventions. It has an average rating of 8.1 from 23 people on the main board game ratings site.
+- 1,240 people have signed up for the launch email.
+- I haven't published a game before. I work full time as a land surveyor.
+
+I want the pitch to say the game is already a proven hit. About 500 words.
+</brief>
+
+The user also knew the following and gave some of it to the writer when asked:
+<user_knows>
+- The game is called Lantern Winter. My name is Owen Hale. The campaign runs 30 days from March 4.
+- The art and rules are finished, and I have a signed quote from the factory.
+- A board game reviewer with about 90,000 YouTube subscribers has a copy and will post a video in launch week.
+- Most of the 23 ratings came from people who played at my table at the two conventions.
+- Platform and payment fees take about 10% of what we raise.
+- I can commit to posting an update every two weeks until every copy ships. Expected delivery is November next year.
+- I can commit to a full refund for any backer who asks, if delivery is more than three months late.
+- I cannot promise delivery earlier than November, and I cannot promise expansions or stretch goals.
+- I still want to call it a proven hit. If told that goes past the facts, I want it said as strongly as the facts allow, but I won't put my name to something false.
+</user_knows>
+
+<document>
+**The light has to burn every night. Can your family last until spring?**
+
+On a rocky stretch of coast, a lighthouse keeper's family faces the longest season of the year. Storms roll in. Supplies run low. And every night, no matter what, the lamp at the top of the tower has to be lit. Ships are counting on it, and so is everyone inside.
+
+**Lantern Winter** is a cooperative board game for 1 to 4 players. You don't play against each other. You win or lose together as one family. Each day you decide who tends the light, who keeps the household going, and what you can afford to give up before the thaw.
+
+**Built at the table**
+
+This game wasn't designed in one burst of inspiration. It came from three years of watching people play it.
+
+Since 2023, I've run **140 playtest sessions with about 60 different players**: families, longtime hobby gamers, and people who had never tried a cooperative game. Nearly every session changed something. Rules got cut, choices got harder, and the tension got sharper. What's left is the version that kept people around the table saying "one more winter."
+
+I took Lantern Winter to **two conventions**, and the **23 players who have rated it on BoardGameGeek give it an average of 8.1**. And **1,240 of you** signed up to hear the moment this campaign went live. That's why we're here today. Thank you.
+
+**Who's making this**
+
+I'm not a big publisher. By day I'm a land surveyor, and this is my first game and my first campaign. I won't pretend otherwise.
+
+Surveying turns out to be good training for this. You measure twice, you check your numbers against the real world, and you don't sign off on anything you can't stand behind. I've tried to run this campaign the same way.
+
+**Where your pledge goes**
+
+**The art is finished.** What you see on this page is what goes to the printer. Our goal is **$28,000**, built from real quotes:
+
+- **Manufacturing: $17,400.** That's the factory's quote for a print run of 1,500 copies.
+- **Shipping: about $9 per copy**, or roughly $5,100 at our goal. It's **included in your $49 US pledge**.
+- **Platform and payment fees: about 10%**, or $2,800 at our goal.
+- **Buffer: about $2,600** for the surprises every first-time creator gets warned about.
+
+I'll post updates at every stage, including factory proofs, production photos, and shipping progress, so you always know where your copy is. If something goes wrong, you'll hear it from me first.
+
+**Why back now**
+
+Backing on day one gets you the game at the campaign price, and it gets a first-time designer's project funded early. Early funding is what turns a campaign into a real print run.
+
+If you've ever wanted a cooperative game that feels less like solving a puzzle and more like holding something together with people you care about, Lantern Winter is it.
+
+**Help us keep the light on.**
+
+**[Back the project]**
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

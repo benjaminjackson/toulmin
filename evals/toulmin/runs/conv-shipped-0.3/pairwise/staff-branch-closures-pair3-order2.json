@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-branch-closures",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-27-53Z",
+  "without_skill_run": "2026-11-16T20-07-29Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives the concrete things a long-tenured teller needs: real dates, the $1.50 raise, seniority-based shift choice, and a six-month window to try the job and still get severance. It also admits the phone team's turnover openly. A leaves dates as placeholders and promises vague flexibility, so it is less convincing and less useful for deciding."
+}

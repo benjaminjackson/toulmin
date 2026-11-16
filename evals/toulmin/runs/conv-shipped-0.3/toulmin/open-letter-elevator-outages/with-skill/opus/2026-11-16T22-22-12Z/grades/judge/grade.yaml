@@ -1,0 +1,60 @@
+grader: judge
+graded: '2026-11-16T22:23:29.143173+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 418
+  tags: []
+  notes: extracted 418 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 5
+    objections: 7
+    fit: 9
+  details:
+    agree: The letter's tone is measured, its three asks are modest, and the 74 signatures
+      (two in three households) undercut her view that this is "a few loud people",
+      but it leaves out the missed dialysis appointments, its strongest fact, so the
+      cost of the outages stays abstract to a reader who thinks the company has done
+      well.
+    honest: Every figure traces to the brief and the derived ratios are fair, but
+      "in an emergency, they have no safe way out" overstates things, since the building
+      has stairs and elevators are not normally used in emergencies anyway.
+    works_the_facts: It turns the raw counts into "one day in every eight" and "two
+      in every three" households, and it sets June against five months later, but
+      it never shows that the June estimate of six to eight weeks pointed to August,
+      so the part is now months overdue, and it drops the dialysis fact.
+    right_comparison: It shows the status quo as a part promised since June that still
+      hasn't come and an elevator that keeps failing, but it doesn't say what continuing
+      this way means, such as more 12-day stretches or a repeat of this year's 41
+      days.
+    qualification: Conceding that a second elevator "may" be impossible is honest,
+      but the asks come with no reply deadline, no target date and no consequence
+      if management misses one, so the reader has nothing to check.
+    objections: It meets the passing inspection, the cost of a second elevator and
+      the "few loud people" view head-on, and it raises no objection the facts already
+      answer, but it leaves the obvious objection to a rent credit (cost and precedent)
+      untouched.
+    fit: It is a properly addressed open letter of about 420 words, dated the 1st
+      of next month to match the posting date, and it is suitable both for the lobby
+      and for the press.

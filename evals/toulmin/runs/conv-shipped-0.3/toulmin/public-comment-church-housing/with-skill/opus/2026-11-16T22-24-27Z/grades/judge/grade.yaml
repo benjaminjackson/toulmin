@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T22:25:27.514499+00:00'
+outcome: pass
+score: 0.85
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 375
+  tags: []
+  notes: extracted 375 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.85
+  metrics:
+    agree: 8
+    honest: 9
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 7
+    objections: 9
+    fit: 9
+  details:
+    agree: The two traffic-focused commissioners get a concrete fix they can vote
+      for, the signal as a binding condition that keeps Alder and 4th at a C rating,
+      though opposed neighbours will probably stay unconvinced.
+    honest: Every figure comes from the facts the writer had, the speaker states her
+      church membership up front and refuses to promise traffic won't get worse, and
+      the only small stretch is calling 64/412 'about one in six' (it is closer to
+      one in 6.4).
+    works_the_facts: Turning 64 units into a share of the 412-household waiting list
+      is a strong, true derivation, but the speech leaves other figures unused, such
+      as the parking ratio of 1.1 spaces per unit or the fact that the 3-year wait
+      grows longer with no new supply.
+    right_comparison: The no-build alternative is described accurately (an empty lot,
+      412 households still waiting, and traffic that already backs up), but the speech
+      doesn't say whether the waiting list or the shortage is getting worse.
+    qualification: The signal condition is specific and checkable against the traffic
+      study's C-versus-D ratings, but it has no deadline, such as requiring the signal
+      to be in place before occupancy, and no consequence if it isn't built.
+    objections: Traffic, parking and 20 months of construction are each met directly
+      with something the facts support (the signal, weekday parking in writing, and
+      the speaker's own seat on the neighbour group), and no objection is raised that
+      the facts already answer.
+    fit: At about 400 words it is a spoken public comment that fits the 3-minute limit,
+      with the request stated at the start and again at the end.

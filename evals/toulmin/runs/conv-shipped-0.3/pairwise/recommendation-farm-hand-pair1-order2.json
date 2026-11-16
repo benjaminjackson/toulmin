@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-25-16Z",
+  "without_skill_run": "2026-11-16T20-04-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is a finished letter with concrete details: the $8,000 the vet estimated was saved, how he arranged his cousin to cover his shifts during the short-notice absence, the commitment to keep his weekend job, and a real phone number. A still has placeholders and leaves out the two days' notice, so it reads as generic and slightly evasive."
+}

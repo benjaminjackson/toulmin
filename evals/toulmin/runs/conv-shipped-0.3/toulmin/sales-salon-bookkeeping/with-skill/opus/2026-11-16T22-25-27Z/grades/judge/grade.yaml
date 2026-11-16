@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T22:26:21.414203+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 340
+  tags: []
+  notes: extracted 340 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 4
+    honest: 9
+    works_the_facts: 4
+    right_comparison: 2
+    qualification: 8
+    objections: 3
+    fit: 8
+  details:
+    agree: The page reads as trustworthy, but a reader paying her cousin $600 a year
+      sees $199 a month with nothing that speaks to that choice, so she probably won't
+      book.
+    honest: Every claim, including the three missed dates, the price rise and the
+      9 clients with lower accountant bills, matches the facts, and the $800 saving
+      is hedged instead of promised.
+    works_the_facts: 'The figures are listed as given but not worked: no annual cost,
+      no 29-of-31 retention rate, no reason for the rise (payroll added), and nothing
+      on the 5-new-client limit, so the price rise is left in its least favourable
+      form.'
+    right_comparison: The page never describes this reader's actual alternative, a
+      once-a-year cleanup at tax time or doing her own books, so $2,388 a year stands
+      with nothing to measure it against.
+    qualification: The 10th-of-the-month promise names a checkable date and a clear
+      consequence (that month is free), and the accountant-savings hedge is stated
+      plainly.
+    objections: The main objection, why pay this when her cousin does it for $600,
+      goes unanswered, and the page brings up the price rise without the payroll reason
+      that would answer it.
+    fit: It is a sales page of about the requested 350 words with clear sections,
+      and it ends with the book-a-call button as asked.

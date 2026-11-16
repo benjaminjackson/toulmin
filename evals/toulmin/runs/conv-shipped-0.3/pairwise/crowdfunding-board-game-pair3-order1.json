@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-25-09Z",
+  "without_skill_run": "2026-11-16T20-02-19Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A addresses what worries me about a first-time creator: it shows an itemized budget, a firm delivery date, updates every two weeks, a refund promise if delivery is late, and admits that the 8.1 rating comes from only 23 people, mostly at the creator's own table. B still has placeholders, gives a vague budget and offers no real commitments, so I'd pass on it."
+}

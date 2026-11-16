@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T22:23:22.739493+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 471
+  tags: []
+  notes: extracted 471 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 4
+    objections: 7
+    fit: 8
+  details:
+    agree: The plain apology, the dated commitment and the frank risk section would
+      likely bring a cold lead investor back to the phone, but 'I don't have a plan
+      for our remaining cash' gives them a reason to hold back their follow-on.
+    honest: The figures match the brief, but the claim that a built-in scheduler doesn't
+      offer reminders is not supported by it, and the admission of having no cash
+      plan is the writer's own addition rather than something Sam said.
+    works_the_facts: It works out about 11 months of runway, $900 a month from the
+      six committed clinics, the 37 subscribers needed to replace the chain, and the
+      near-halving of no-shows, but it leaves out the net gain of five clinics and
+      doesn't show runway if the $3,800 at risk leaves.
+    right_comparison: The alternative is shown accurately as flat revenue, a free
+      built-in competitor and $3,800 a month at risk, but it doesn't spell out what
+      happens if nothing changes, such as when cash runs out.
+    qualification: '''Next quarter has to answer that question'' names an uncertainty
+      but gives no target subscriber count, no date and no consequence if it is missed,
+      and nothing ties the January 7 update to a checkable threshold.'
+    objections: The investor's complaint about the missed updates is met head-on with
+      a reason, an apology and dated commitments, but the open admission of having
+      no cash plan raises a new worry the facts didn't require.
+    fit: It is a clear, sectioned investor email under 500 words with a specific ask
+      and a call to action, as the brief requested.

@@ -1,0 +1,61 @@
+grader: judge
+graded: '2026-11-16T22:28:10.301586+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 347
+  tags: []
+  notes: extracted 347 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 8
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 6
+    objections: 8
+    fit: 7
+  details:
+    agree: A skeptical committee member gets specific evidence (solo 3 a.m. shift,
+      two missed shifts in three years, nine early mastitis cases worth about $8,000),
+      and the two weak points are dealt with openly, so the letter is persuasive,
+      though it never gives the applicant's full name and could get lost among 150
+      files.
+    honest: 'Most claims match the brief, but three go beyond it: "no one else is
+      on the farm at that hour", "the person who gets the most out of our herd management
+      software", and the description of what the program trains people to do are not
+      supported by the facts given.'
+    works_the_facts: The $8,000 saving and the nine cases are used well, but the attendance
+      record stays as "two missed shifts" when it could be shown as roughly 2 out
+      of about 780 scheduled shifts (5 a week for 3 years), which is clearer and more
+      favourable.
+    right_comparison: "The letter never sets Tom\xE1s against a typical applicant\
+      \ or a typical farmhand, so the reader has no baseline for his attendance or\
+      \ his early detection of sick cows."
+    qualification: The warning that written coursework will take him more effort is
+      honest and backed by the failed-then-passed safety test and the night class,
+      but it gives the reader nothing to check, such as a class end date or a level
+      he has reached.
+    objections: The five-week absence and the weak written English are both raised
+      and answered with facts (his cousin covered his shifts, he came back on the
+      promised day, he is taking a night class), and the letter does not invent any
+      objection the brief already settles.
+    fit: "It is a one-page letter from the farm manager with a signature and a phone\
+      \ number, but it uses only \"Tom\xE1s\" and never his full name, Tom\xE1s Reyes,\
+      \ and it has no date, both of which a committee sorting 150 applicants needs."

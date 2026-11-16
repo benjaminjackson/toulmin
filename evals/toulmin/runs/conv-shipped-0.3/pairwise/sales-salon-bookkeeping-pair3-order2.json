@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-27-23Z",
+  "without_skill_run": "2026-11-16T20-06-39Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B tells me my cousin keeps doing my tax return and just gets clean books from her, so I don't have to choose between them. It also says there's no contract, a missed 10th means that month is free, and she ran a salon herself, so booking the call feels safe. A gives the same numbers, but it never says whether she'd replace my cousin, and it doesn't explain why the price went up."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-23-26Z",
+  "without_skill_run": "2026-11-16T20-01-04Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is addressed to me by name. It gives concrete facts a regulated plant cares about: signed training records, two state audits with nothing found, cutting teacher training from 20 hours to 12, a GMP course ending May 2, and when the applicant can start. B is a template full of placeholders and leaves out the record-keeping and audit evidence. B's line about learning things \"just as quickly\" sounds like the typical teacher who doesn't understand GMP."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-22-12Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a backer who has lost money before, I'd trust A more. It gives a delivery date, promises updates every two weeks, offers a full refund if the game is more than three months late, and admits that most of the ratings came from the creator's own convention table. B is more vivid, but it leaves out the delivery date and the refund, and it presents the 8.1 rating without saying where those ratings came from."
+}

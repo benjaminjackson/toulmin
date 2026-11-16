@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T22:28:34.466491+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 199
+  tags: []
+  notes: extracted 199 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 8
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 8
+    objections: 8
+    fit: 9
+  details:
+    agree: A household that felt ignored and shortchanged gets a plain apology, a
+      weekly email, and a set credit rule for weather-cut boxes, which answers both
+      complaints and makes signing up again a reasonable choice.
+    honest: Every figure matches the brief and the limits are stated openly (greens
+      not covered, no promise of a loss-free season), but 'Here's what we've done'
+      presents two promises for the coming season as already done, and 'most of you'
+      is used where '29 of 41' would be more exact.
+    works_the_facts: 'The figures are only repeated: the email never says 29 of 41,
+      never works out the weekly value of a $540 share (about $24.50) to show what
+      the new credit is worth, and never shows what the old policy cost this reader
+      over six half-boxes.'
+    right_comparison: The email sets last year's handling (no credit, one email) against
+      this year's rules fairly, but it doesn't spell out the difference in money,
+      or say what the reader would face from the same storm under each policy.
+    qualification: The credit condition (weather cutting a box by more than a third)
+      uses a number the reader can check and has a clear consequence, and the 'no
+      promise of no crop loss' hedge is honest, though the email doesn't say how the
+      credit is paid or when.
+    objections: Both of the reader's grievances, the silence and the lack of a refund,
+      are answered directly by the weekly email and the credit rule, and the email
+      raises no objections the facts already settle; it doesn't address whether last
+      year's loss will be made good in any way.
+    fit: It is a short, personal email of about 190 words with a clear subject line
+      and closing details, so it is under the 200-word limit and in the form the brief
+      asked for.

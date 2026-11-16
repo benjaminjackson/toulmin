@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T22:23:48.767462+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 374
+  tags: []
+  notes: extracted 374 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 5
+    objections: 6
+    fit: 8
+  details:
+    agree: The late-report history is answered with a named person and a deadline,
+      and the need is backed by farm letters, so Marisol would probably recommend
+      yes, though the unfunded $4,500 a year in running costs gives her a reason to
+      hesitate.
+    honest: The draft drops the unsupported 'double fresh food' claim, says plainly
+      that the 9,000 pounds may not come again, and every figure traces back to the
+      brief.
+    works_the_facts: It works out several true figures (one pound in six, 50 percent
+      more fresh food over the three summer months, about 15 pounds per household),
+      but it never uses the $11,000 left in reserves to show it can cover the $4,500
+      running cost and never sets a first-year fresh-food target.
+    right_comparison: Without the van, the draft says farm offers will again be turned
+      down and fresh food will stay at about one in six pounds, which matches the
+      facts, though it shows no trend.
+    qualification: The reporting commitments have dates and a quarterly check, but
+      the hedge on farm supply gives no target number Marisol could check and says
+      nothing about what happens if fresh pounds fall short.
+    objections: The late-report objection is met well, but by naming the unbudgeted
+      $4,500 a year without a plan to pay it, the draft opens a sustainability worry
+      that the reserve figure could have answered.
+    fit: It is a plain narrative well under 500 words, the length and form the brief
+      asked for.

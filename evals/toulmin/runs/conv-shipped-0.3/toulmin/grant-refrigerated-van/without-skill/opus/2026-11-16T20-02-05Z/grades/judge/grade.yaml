@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T20:03:02.593018+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 432
+  tags: []
+  notes: extracted 432 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 4
+    honest: 7
+    works_the_facts: 8
+    right_comparison: 6
+    qualification: 3
+    objections: 2
+    fit: 8
+  details:
+    agree: The numbers are sound, but Marisol had to chase the last report for four
+      months, and this draft says nothing about that. It also leaves out the unfunded
+      $4,500 a year for running the van, so she has no good reason to recommend yes
+      over her own doubts.
+    honest: The draft correctly drops the 'double' claim. Still, 'we expect about
+      9,000 additional pounds' reads firmer than an offer nobody can promise will
+      come again, and 'grown a short drive' away is a small detail the brief doesn't
+      support.
+    works_the_facts: 'It works out the right figures from the brief: 3,000 extra pounds
+      a month in harvest season (6,000 to 9,000, about a 50% rise) and about 12% for
+      the year, and it puts the harvest-month rise first, which is the strongest true
+      framing.'
+    right_comparison: It gives the real alternative, which is to keep refusing farm
+      offers it can't move cold, but it doesn't spell out what that costs in pounds
+      each year if nothing changes.
+    qualification: '''We will report those figures'' has no reporting frequency, no
+      named person responsible and no due date, even though quarterly reports and
+      Dave Lin with a 30-day final report were both available. The expected result
+      has no stated check, such as the farm letters.'
+    objections: It mentions the 2023 shelving grant but avoids the late report, gives
+      no explanation or fix for it, ignores the $4,500 a year for insurance and fuel
+      when reserves would drop to $11,000, and doesn't use the two farm letters.
+    fit: It is a narrative section with clear headings and comes in under the 500-word
+      limit.

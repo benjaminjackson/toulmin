@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-24-28Z",
+  "without_skill_run": "2026-11-16T20-01-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is addressed to me and backs up what it claims about regulated-style work: signed training records, two clean state audits, a GMP course enrolled in, and a training cut from 20 hours to 12. It also gives a start date and when the writer can interview. A uses placeholders and only says the writer has the right habits, which is exactly the kind of teacher letter I usually pass over."
+}

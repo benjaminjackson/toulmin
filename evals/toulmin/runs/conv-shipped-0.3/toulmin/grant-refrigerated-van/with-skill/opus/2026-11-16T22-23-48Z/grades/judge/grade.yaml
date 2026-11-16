@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T22:25:21.815013+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 377
+  tags: []
+  notes: extracted 377 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 7
+    qualification: 5
+    objections: 5
+    fit: 8
+  details:
+    agree: 'Marisol gets what she most needs on reporting: a named treasurer, a 30-day
+      deadline and quarterly numbers. But the draft also tells her the $4,500 a year
+      to run the van has no source, which leaves a reason to hesitate before recommending
+      yes.'
+    honest: The draft drops the unsupported 'double' claim and correctly states 50
+      percent more fresh food in harvest months; the only stretch is 'signed up' and
+      'committed' for volunteers who had only said they would drive.
+    works_the_facts: It works out 3,000 pounds a month and the 50 percent seasonal
+      increase, and correctly calls $18,000 more than a quarter of the cost. It never
+      gives the annual effect (about 12.5 percent), never asks how long $11,000 in
+      reserves covers $4,500 a year in running costs, and never says what the van
+      does outside harvest season.
+    right_comparison: 'The alternative is stated plainly and accurately: without a
+      cold vehicle the pantry keeps turning down whatever farms offer, and the two
+      farm letters back this up.'
+    qualification: The farm-supply hedge is honest and can be checked through the
+      quarterly pound reports, but it sets no target number, no date by which the
+      farms should give, and no consequence if they don't.
+    objections: It meets the late-report objection head-on with a named owner and
+      dates. It then raises its own objection, the unfunded $4,500 a year, and leaves
+      it unanswered.
+    fit: This is a grant narrative of about 420 words, well under the 500-word limit,
+      with clear sections suited to a foundation reviewer.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-22-12Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B says plainly why the updates stopped, promises a fixed date for the next one (January 7), and is open about the $3,800 a month still at risk and how small the 6 committed clinics are. That earns back trust that A's vague \"from now on\" and its leftover placeholders do not. B also asks for something specific, a 20-minute call, which I would agree to."
+}

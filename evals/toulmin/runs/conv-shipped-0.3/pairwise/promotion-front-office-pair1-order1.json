@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-front-office",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-22-12Z",
+  "without_skill_run": "2026-11-16T20-04-00Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A answers my belief that the renovation drove the scores: it points out that the score was already 8.2 before the renovation started. It also gives proof from the 7 weeks (no uncovered shifts, overtime under plan), compares Daniela directly with the outside candidate, and lays out a concrete plan with Ben for the budget. B has placeholders left in, offers no new evidence on the scores, and its budget plan is vague."
+}

@@ -1,0 +1,66 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+The HR manager at a pharmaceutical manufacturing plant who is screening applicants for a training coordinator job. She has seen many teachers apply for corporate training roles and assumes most of them don't know how a regulated plant works. She decides who gets a phone screen.
+</reader>
+
+<brief>
+Help me write a cover letter. I've taught high school chemistry for 9 years and I'm applying to be a training coordinator at a pharmaceutical manufacturing plant about 30 minutes from me.
+
+About me:
+- I teach about 140 students a year across five classes.
+- I wrote our school's lab safety program in 2019. Since then we've had no injuries in our labs that needed more than first aid.
+- Our AP Chemistry pass rate went from 41% to 58% over the four years I've taught the course.
+- Every year I train our new science teachers on lab procedures, about 12 hours each. There have been two a year on average.
+- I've never worked in a regulated industry. The job posting asks for experience with GMP training records, which I don't have.
+- I use Google Classroom. The plant uses a learning management system I haven't used.
+
+I want the letter to say I can cut their new-hire training time in half. One page.
+</brief>
+
+The user also knew the following and gave some of it to the writer when asked:
+<user_knows>
+- My name is Laura Benitez. The plant is the Calder Pharmaceuticals plant in Westfield. The posting names Karen Doyle as the HR manager.
+- Applications close on the 28th of this month.
+- I keep a signed training record for every new teacher I train and for every student's lab safety quiz. The state audited our lab safety records twice and found nothing.
+- When I rewrote the new-teacher lab training in 2020, it went from 20 hours to 12.
+- I have enrolled in an online GMP basics course that finishes on May 2.
+- I can commit to interviews on any weekday after 3:30, or any time during spring break, April 7 to 11.
+- I cannot start before June 14. My teaching contract runs until then.
+- I don't know how long their new-hire training takes now. If it is pointed out that I can't show I'd cut it in half, I'm fine with saying what I did at the school instead.
+</user_knows>
+
+<document>
+Dear Ms. Doyle,
+
+I am applying for the Training Coordinator position at Calder Pharmaceuticals' Westfield plant. I have taught high school chemistry for nine years. Much of that work is what a training coordinator does: teaching people to handle hazardous materials and procedures they have never used, checking that they can do it safely, and keeping records that hold up when someone inspects them.
+
+In 2019 I wrote our school's lab safety program. I teach about 140 students a year across five classes, all of them working with chemicals. Since the program started, our labs have had no injury that needed more than first aid. Every student takes a lab safety quiz before working in the lab, and I keep a signed record of each one.
+
+I also train our new science teachers on lab procedures, about two a year. In 2020 I rewrote that training and cut it from 20 hours to 12. I keep a signed training record for every teacher I train. In the classroom, our AP Chemistry pass rate rose from 41% to 58% over the four years I have taught the course.
+
+I haven't worked in a regulated industry, and I haven't kept GMP training records. Here is where I stand on that. Keeping documented, signed training records is already part of my job, and the state has audited our lab safety records twice and found nothing. I have enrolled in an online GMP basics course that I will finish on May 2. I have only used Google Classroom, so learning your learning management system would be one of my first tasks.
+
+At Calder I would look at new-hire training the way I looked at our teacher training in 2020. I would ask what a new employee needs to do the job safely and correctly, and what takes time without adding to that, while keeping everything GMP requires.
+
+I live about 30 minutes from the Westfield plant. My teaching contract runs until June 14, and I can start then. For an interview, I am free any weekday after 3:30 p.m. or any time during my spring break, April 7 to 11.
+
+Thank you for considering my application.
+
+Sincerely,
+Laura Benitez
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

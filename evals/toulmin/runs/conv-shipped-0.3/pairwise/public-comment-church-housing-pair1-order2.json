@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-22-12Z",
+  "without_skill_run": "2026-11-16T20-04-19Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks directly to the traffic concern the commissioners have raised: it offers the builder-funded signal, which keeps the intersection at C, and asks for approval with the signal as a condition. It also says up front that the speaker is a church member. A brushes off the drop to D as just \"a slower light,\" which would put off traffic-focused commissioners and opposing neighbours, and it leaves placeholders in place of the speaker's name and the church's name."
+}

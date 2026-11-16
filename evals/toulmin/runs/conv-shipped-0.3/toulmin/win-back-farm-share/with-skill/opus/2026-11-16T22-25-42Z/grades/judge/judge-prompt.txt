@@ -1,0 +1,67 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+A household that paid $540 for last year's vegetable share and cancelled after a July hailstorm left the boxes thin for six weeks with no refund or credit. They felt the farm went quiet when things went wrong. They decide whether to sign up for next season.
+</reader>
+
+<brief>
+Can you write an email to people who didn't renew their farm share? I run a 30-acre vegetable farm and sell 22-week shares that people pick up every Thursday.
+
+Facts:
+- Last year 260 households had a share. 97 didn't renew.
+- On July 9 a hailstorm destroyed about half our crops. For the next 6 weeks the boxes had about half the usual amount. We didn't offer refunds or credit, and I sent one short email about it.
+- A full share is $540 this year, the same as last year.
+- This year we've added a second field on higher ground and put up 2 hail nets over our tomatoes and peppers. That cost $31,000.
+- Members can now pause up to 2 weeks and get credit for them.
+- Sign-up closes March 15. 52 shares are left.
+
+Under 200 words.
+</brief>
+
+The user also knew the following and gave some of it to the writer when asked:
+<user_knows>
+- The farm is Greenbank Farm. I'm Sam Turner. Pickup is still Thursdays at the farm stand.
+- I didn't write more after the hail because I was working 16-hour days to save what was left. I want to say sorry plainly.
+- The hail nets cover only the tomatoes and peppers, not the greens.
+- Sign-up is through the link on our website.
+- I can commit to a short email to members every Thursday of the season.
+- I can commit to a credit for any week when weather cuts a box by more than a third.
+- I cannot promise there will be no crop loss this year.
+- 41 of the 97 who left answered a short survey in the fall, and 29 of them said they would come back if we fixed how we handle bad weeks.
+</user_knows>
+
+<document>
+Subject: We got last summer wrong. Here's what's changed.
+
+Hi,
+
+After the July 9 hailstorm destroyed about half our crops, your boxes were about half full for six weeks. We offered no refunds or credit, and I sent one short email. I was working 16-hour days saving what was left, but that's no excuse. I'm sorry.
+
+Of the 41 of you who answered our fall survey, 29 said you'd come back if we fixed how we handle bad weeks. Here's what's different this year:
+
+- You'll get credit for any week when weather cuts your box by more than a third.
+- I'll email every member every Thursday of the season.
+- You can pause for up to two weeks and get credit for those weeks.
+- We spent $31,000 on a second field on higher ground and hail nets over the tomatoes and peppers. The nets don't cover the greens, and I can't promise we won't lose crops again. If we do, you'll hear from me that week.
+
+A full share is still $540, the same as last year. Pickup is still Thursdays at the farm stand.
+
+Sign-up closes March 15, and 52 shares are left. The link is on our website.
+
+Sam Turner
+Greenbank Farm
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

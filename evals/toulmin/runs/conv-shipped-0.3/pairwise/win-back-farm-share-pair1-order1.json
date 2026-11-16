@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-farm-share",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T22-25-42Z",
+  "without_skill_run": "2026-11-16T20-06-23Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A answers my actual grievance: it promises credit when weather cuts a box by more than a third and a weekly email so the farm won't go quiet. It also apologizes plainly and admits the risk of crop loss honestly. B leaves out both of those promises, has unfilled placeholders, and its hail nets don't solve how bad weeks are handled."
+}

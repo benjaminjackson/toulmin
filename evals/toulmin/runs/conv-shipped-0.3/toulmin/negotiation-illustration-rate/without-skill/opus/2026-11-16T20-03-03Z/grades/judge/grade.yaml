@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T20:03:30.530967+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 187
+  tags: []
+  notes: extracted 187 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 4
+    honest: 9
+    works_the_facts: 4
+    right_comparison: 4
+    objections: 3
+    fit: 7
+  details:
+    agree: The editor likes Elena and will see a strong sales record, but nothing
+      offsets the $2,500 jump over budget or the $8,000 newer illustrator, such as
+      the September 1 commitment or free marketing spots, so the reply is likely a
+      counteroffer below $11,500.
+    honest: It leaves out the unsupported 'every other publisher pays at least $12,000'
+      claim, every figure matches the brief, and 'lower half of the market range'
+      is accurate for $11,500 within $11,000 to $13,000.
+    works_the_facts: 'It gives the raw facts but works out nothing from them: no four
+      years at a flat rate measured against two 20,000-copy books, no fourth printing,
+      no per-month earnings, and no gap between $9,000 and the $12,500 she was paid
+      elsewhere.'
+    right_comparison: It sets her fee against the market and the $12,500 job, but
+      it never addresses the editor's real alternative, a cheaper and unproven illustrator,
+      which her sales record would beat.
+    qualification: The email makes a plain ask with no conditions or hedges, so it
+      doesn't need a qualification.
+    objections: The editor's obvious objections are the $9,000 budget and the cheaper
+      option, and neither is answered; the available counters, the September 1 delivery,
+      sketches within six weeks and two free spot drawings, are all left out.
+    fit: It is a proper email at about 200 words, under the limit, but it still has
+      bracketed placeholders for the names, the title and the state.

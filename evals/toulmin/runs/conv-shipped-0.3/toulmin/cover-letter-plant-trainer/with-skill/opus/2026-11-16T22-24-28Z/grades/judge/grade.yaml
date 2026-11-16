@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T22:25:40.516754+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 353
+  tags: []
+  notes: extracted 353 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 8
+    objections: 7
+    fit: 9
+  details:
+    agree: A skeptical HR manager would see signed records, two clean state audits,
+      a dated GMP course and a clear start date, which is likely enough for a phone
+      screen, though nothing ties the letter to how Calder's plant actually works.
+    honest: Every claim matches the facts, the unsupported 'cut your training in half'
+      promise is rightly dropped, and the gaps are stated plainly; only 'much of that
+      work is what you're hiring for' stretches a little.
+    works_the_facts: The 40% cut in training hours is worked out correctly, but the
+      AP gain is left as raw percentages rather than 17 points (about a 41% relative
+      rise), and the letter never totals the signed records (roughly 12 teachers and
+      hundreds of students since 2019).
+    right_comparison: The letter compares old and new school training and earlier
+      and later pass rates, but it never sets her against the obvious alternative
+      of a candidate with GMP experience, so that comparison is left for the reader
+      to make.
+    qualification: "The hedges are concrete and checkable: the GMP course ends on\
+      \ May 2, she can start no earlier than June 14, and interviews are possible\
+      \ after 3:30 on weekdays or April 7\u201311. It doesn't say what happens if\
+      \ the course isn't finished, but that is a minor gap."
+    objections: It deals with the GMP and regulated-industry objection directly by
+      pointing to audited records, but answers the LMS gap only with an intention
+      to learn it, without using the Google Classroom experience to make that case.
+    fit: It is a properly addressed, one-page cover letter of suitable length and
+      tone.

@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T22:24:11.691323+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 223
+  tags: []
+  notes: extracted 223 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 6
+    objections: 4
+    fit: 8
+  details:
+    agree: An editor who likes her work and sees two 20,000-copy books and a fourth
+      printing will probably want to offer more, but with a $9,000 budget and an $8,000
+      alternative on the list, the email gives her little to justify a $2,500 jump
+      to her own management.
+    honest: It drops the unsupported claim that every other publisher pays at least
+      $12,000 and puts it truthfully as 'every figure I have puts a book like this
+      at $11,000 or more', but calling $11,500 'well below' $12,500 overstates a $1,000
+      gap a little.
+    works_the_facts: It lists the facts accurately but derives nothing from them,
+      such as the unchanged fee across six books, roughly $2,250 a month for four
+      months of work, or the sales and reprints set against the fee, and 'Each book
+      takes me about four months' is left hanging without being tied to the money.
+    right_comparison: 'It compares her fee with the $12,500 from another publisher
+      and with her agent''s range, but never makes the comparison that matters to
+      this reader: a proven illustrator whose books sell and reprint against an untested
+      replacement.'
+    qualification: The firm line 'not able to take the book on at $9,000', the committed
+      sketch and September 1 dates, and the end-of-next-week deadline are clear and
+      checkable, though it never says what happens to the schedule if they agree late
+      or meet her partway.
+    objections: It doesn't meet the budget objection or the cheaper-illustrator option,
+      and it leaves out the two free marketing spot drawings, which could have helped
+      close the gap.
+    fit: It is a polite, clearly structured email of about 225 words, under the 250
+      limit, with a fitting subject line and a clear ask.

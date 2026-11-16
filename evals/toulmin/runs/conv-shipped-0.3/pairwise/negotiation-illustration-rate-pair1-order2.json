@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T22-22-12Z",
+  "without_skill_run": "2026-11-16T20-02-34Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is addressed to me and signed, and it adds the fourth printing. It also says plainly that she can't do the book at $9,000, so I know exactly what I'm deciding. A still has unfilled placeholders like [Name] and [Book Title], which feels careless, and it gives me no clear floor."
+}

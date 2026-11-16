@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T22:23:26.831234+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 396
+  tags: []
+  notes: extracted 396 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 8
+    objections: 8
+    fit: 8
+  details:
+    agree: A skeptical HR manager would see signed training records, two clean state
+      audits and an honest GMP plan, which is probably enough for a phone screen,
+      though the letter still reads as a teacher's letter more than a plant-ready
+      one.
+    honest: Every figure and claim traces to the facts given; the letter drops the
+      unsupported 'cut training in half' promise and adds nothing the brief doesn't
+      support.
+    works_the_facts: 'The numbers are reported raw, not worked: 20 to 12 hours is
+      never called a 40% cut, the 17-point AP gain isn''t framed, and the total trained
+      across nine years (roughly 1,260 students) is left out.'
+    right_comparison: The before-and-after figures for training hours and AP pass
+      rate show a trend, but the letter never measures her against the real alternative,
+      a candidate with GMP experience, beyond admitting the gap.
+    qualification: "The hedges are concrete and checkable: GMP course ends May 2,\
+      \ she can't start before June 14, interviews after 3:30 or April 7\u201311,\
+      \ and she declines to promise a number she can't support."
+    objections: It answers the 'teachers don't know regulated work' objection directly
+      with audit-tested signed records and the GMP course, and states the LMS gap
+      plainly without raising worries the facts don't support.
+    fit: It is a one-page, correctly addressed cover letter, but the signature line
+      after 'Sincerely' is missing her name.

@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T20:07:29.325942+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 456
+  tags: []
+  notes: extracted 456 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 4
+    honest: 8
+    works_the_facts: 3
+    right_comparison: 5
+    qualification: 3
+    objections: 4
+    fit: 6
+  details:
+    agree: 'Staff who have worked at their branch for ten years or more and don''t
+      want phone work get a clear, respectful notice, but nothing concrete enough
+      to keep them: no exact pay increase, no seniority rule for shifts, no six-month
+      way back to severance, and only placeholder dates.'
+    honest: It leaves out the 'better for everyone' claim and makes up no numbers,
+      though 'puts pressure on everyone who answers those calls' and 'will make a
+      real difference' go slightly past what the facts show.
+    works_the_facts: 'The figures are repeated as given, with nothing worked out from
+      them: severance is never turned into a real amount (for example, 20 weeks of
+      pay for ten years), and ''same pay or higher'' stays vague when the actual raise
+      is $1.50 an hour.'
+    right_comparison: It uses the 44% drop in visits and the 60% rise in phone and
+      chat contacts to explain why the branches are closing, and it states the leaving
+      option accurately, but it doesn't make that choice concrete with real amounts
+      or with what working in the center would involve compared with that option.
+    qualification: The key commitments, including the decision deadline, the shift
+      rules and the meeting dates, appear as bracketed [DATE] placeholders, even though
+      February 14 and March 1 were available, so the reader has nothing to check.
+    objections: 'It admits the change in hours, but it never mentions the two weeks
+      of rumours, says nothing to people who don''t want phone work, and leaves out
+      answers that were available: senior staff choose shifts first, and anyone who
+      leaves within six months can still take severance.'
+    fit: It is roughly the requested length and reads as an email from the COO, but
+      its many bracketed placeholders, including a missing name, mean it isn't ready
+      to send.

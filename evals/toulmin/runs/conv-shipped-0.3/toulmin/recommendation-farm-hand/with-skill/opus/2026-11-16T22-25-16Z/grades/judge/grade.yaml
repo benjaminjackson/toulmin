@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T22:26:15.551571+00:00'
+outcome: pass
+score: 0.85
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 316
+  tags: []
+  notes: extracted 316 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.85
+  metrics:
+    agree: 8
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 5
+    objections: 8
+    fit: 9
+  details:
+    agree: 'A quick-reading committee member gets concrete evidence fast: he runs
+      a shift alone, earned an $8,000 vet-confirmed saving, missed only two shifts,
+      and has a job held for him. The doubts about the long absence and written English
+      are handled plainly enough that most readers would rank him high.'
+    honest: Every fact and number comes from what the user supplied, and the claims
+      stay within what the facts support. The one stretch is the line that this is
+      the kind of work the program trains people for.
+    works_the_facts: The $8,000 saving is used well, but the attendance record stays
+      at 'two shifts missed' when it could have been shown as roughly 2 out of about
+      780 scheduled 3 a.m. shifts, a far stronger form.
+    right_comparison: The letter never sets him against the other 150 applicants or
+      says what the program would miss without him; its comparison only shows that
+      he is already doing program-level work.
+    qualification: The letter makes firm commitments (a weekend job, a phone number)
+      and has no hedged forecast that needs a checkable condition.
+    objections: 'The reader''s two likely worries, reliability given the five-week
+      absence and coping with written coursework, are each met with facts: the cousin
+      covered his shifts, he returned on the promised day, and he is taking a night
+      class. Mentioning the failed safety test brings up a weakness the reader had
+      no other way to learn, but the letter turns it into a sign of persistence.'
+    fit: It is a one-page letter signed by the farm manager, with contact details,
+      as requested.

@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T22:25:48.530212+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 465
+  tags: []
+  notes: extracted 465 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 6
+    objections: 8
+    fit: 9
+  details:
+    agree: Starting with seven weeks of covering the job alone, then showing the pre-renovation
+      score data and a concrete budget plan, gives a skeptical GM good reason to choose
+      her, though his doubts about scale and budget experience may still remain.
+    honest: It drops the unsupported 'main reason' claim, gives the renovation its
+      share, and keeps its rounding fair ('roughly half,' 'nearly two-thirds'), but
+      'a team I trained and kept' and the guess about how an outsider would affect
+      the gains go slightly beyond the facts.
+    works_the_facts: It turns the training and turnover numbers into clear proportions,
+      but it never states that 0.3 of the 0.7 gain, nearly half, came in the first
+      five months, or that the score was rising about twice as fast before the renovation
+      as during it.
+    right_comparison: It frames the outside candidate fairly by admitting the larger-hotel
+      experience and contrasting it with knowledge of this hotel, and it shows turnover
+      before and after, but the claim about the outsider's learning curve is reasoning,
+      not evidence.
+    qualification: The budget commitments come with a three-month deadline and a weekly
+      schedule the GM can check, but nothing says what happens if they slip, and the
+      Friday-wait goal has no target or date.
+    objections: It answers the GM's renovation belief directly with the 7.9-to-8.2
+      rise before the work began, and it also addresses the budget gap and the larger-hotel
+      candidate without raising problems the facts already settle.
+    fit: It is a short memo of about one page, addressed to the GM, with clear sections
+      and a closing request, as asked.
