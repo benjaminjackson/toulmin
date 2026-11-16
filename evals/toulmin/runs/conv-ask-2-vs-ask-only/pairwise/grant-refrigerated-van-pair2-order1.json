@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-33-23Z",
+  "without_skill_run": "2026-11-16T20-22-53Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A names the pantry, signs it, and says plainly that the $4,500 a year for insurance and fuel isn't budgeted yet. B still has \"[Food Bank Name]\" placeholders and leaves out that this cost is unbudgeted, which matters to me because I had to chase this pantry's last report for four months. B's 12 percent annual figure is useful, but it doesn't make up for those gaps."
+}

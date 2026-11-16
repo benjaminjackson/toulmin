@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-21-45Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B speaks more to my doubts about whether a teacher understands a regulated plant: it promises to cut hours while keeping everything GMP requires, admits that school records aren't plant records, and gives a clear June 14 start date. However, B's unfilled '[Why this move and why Calder]' placeholder in the body looks careless. A has its own problems: it is missing the applicant's name, has a stray '</invoke>' at the end, and claims that school routines are the same habits GMP requires, which I would find a bit presumptuous."
+}

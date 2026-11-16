@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-21-45Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B tells me plainly that the $4,500 a year for insurance and fuel isn't budgeted yet and that the food bank would have $11,000 left in reserve. A leaves both out and still has placeholders where the food bank's name should be. With this group's history of a late report, B's openness about its finances is what would make me trust it and recommend funding."
+}

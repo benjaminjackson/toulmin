@@ -1,0 +1,38 @@
+I left out the claim about cutting new-hire training time in half. Here's why:
+
+- **Nothing in your background supports it yet.** You haven't seen their current program, so a hiring manager would likely read it as a guess.
+- **It could worry them.** In a GMP plant, much of the training is required by regulation and has to be documented. "Half the time" can sound like cutting corners on compliance, which is the main risk the person in this role has to manage.
+
+Instead, the letter offers something you can actually deliver: training that's faster to absorb and easier to check. If you want a number in there, the interview is a better place for it. Once you've asked how long onboarding takes now and where people get stuck, you can propose a specific target.
+
+<final_document>
+[Your Name]
+[City, State] · [Phone] · [Email]
+
+[Date]
+
+[Hiring Manager Name]
+[Company Name]
+[Plant Address]
+
+Dear [Hiring Manager Name],
+
+I'm applying for the Training Coordinator position at [Company Name]. For nine years I've taught high school chemistry. In practice, that means getting people who have never worked in a lab to handle chemicals safely, follow written procedures exactly, and show they understand the material before moving on. I'd like to bring that experience to your plant.
+
+In 2019 I wrote my school's lab safety program. Since then, no one has been hurt in our labs badly enough to need more than first aid. Writing the program was the easy part. The hard part was getting about 140 students a year, most of them new to lab work, to follow it every day. I did that with clear procedures, repeated practice, and checks before anyone worked on their own. The same approach fits a manufacturing floor.
+
+I also train adults. Each year I train our new science teachers on lab procedures, about 12 hours per person. I've learned to adjust that training for people who arrive with very different levels of experience. In the classroom, I raised our AP Chemistry pass rate from 41% to 58% over the four years I've taught the course. I did it by finding where students got stuck and rebuilding those lessons until they worked.
+
+I haven't worked in a regulated industry, and I don't yet have experience with GMP training records or your learning management system. I don't want to gloss over that. I already work by keeping careful records, following written procedures, and documenting that people are competent before I sign off. Those are the habits GMP documentation depends on, and I learn new systems quickly. I moved my courses fully onto Google Classroom, and I would expect to learn your LMS and record-keeping requirements just as thoroughly.
+
+I'd welcome the chance to talk about how your new hires are trained now and where I could help make that training clearer and easier to verify. Thank you for your time and consideration.
+
+Sincerely,
+
+[Your Name]
+</final_document>
+
+A few notes:
+- **Google Classroom:** I wrote that you "moved your courses fully onto" it. If that's not accurate, change it to something true, like "I use Google Classroom to manage coursework for five classes."
+- **Training records:** If you've done any kind of written sign-off or competency check for students or new teachers, name it. It's your strongest link to GMP training records.
+- **Length:** At roughly 380 words, it should fit on one page with normal margins.

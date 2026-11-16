@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-34-12Z",
+  "without_skill_run": "2026-11-16T20-01-54Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly owns up to why the founder went dark, sets a firm date for the next update, and offers a monthly metrics sheet, which actually rebuilds my trust. It also lays out the exact remaining churn risk ($3,800) and does the real math on the new feature, whereas Document A brushes past the silence and leaves unfilled placeholders where the runway plan should be."
+}

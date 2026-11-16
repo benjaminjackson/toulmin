@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:33:02.976363+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 380
+  tags: []
+  notes: extracted 380 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 4
+    right_comparison: 7
+    qualification: 6
+    objections: 9
+    fit: 9
+  details:
+    agree: Starting with traffic, admitting it will get worse, and tying approval
+      to a signal that keeps Alder and 4th at a C speaks directly to the two commissioners'
+      concern, though opposed neighbours may still not be won over.
+    honest: Every figure and commitment comes from the facts the user supplied, and
+      the speech openly concedes traffic will worsen; the only slight overreach is
+      implying the 412 households stop waiting if it passes, when 64 units can't house
+      them all.
+    works_the_facts: 'The numbers are listed as given and never worked: it doesn''t
+      say that 64 homes are about one in six of the waiting list, that 72 spaces is
+      more than one per unit, or what 310 trips means per household.'
+    right_comparison: 'The alternative is put concretely and truthfully: the lot stays
+      an empty parking lot six days a week and the waiting list stays at a three-year
+      wait. No trend is offered, but the brief gave none.'
+    qualification: Making the signal a permit condition is a firm, checkable commitment
+      backed by the study's C rating, but it has no date or stated consequence, and
+      the neighbour-group commitment is open-ended.
+    objections: Traffic, parking and 20 months of construction trucks are each raised
+      and answered with a specific remedy (the signal condition, the written weekday
+      parking offer, the neighbour group), and it raises no objection the facts already
+      settle.
+    fit: At about 400 words of plain spoken first-person prose that ends with a clear
+      request, it fits a three-minute public comment.

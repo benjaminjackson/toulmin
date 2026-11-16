@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-33-34Z",
+  "without_skill_run": "2026-11-16T20-01-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins me over because it offers concrete commitments that protect me from getting burned again—specifically finished art and rules, bi-weekly updates, a realistic delivery date, and a full refund guarantee if it's more than three months late. It also builds massive credibility by openly admitting the 23 ratings came from the creator's own convention tables and refusing to do stretch goals that bloat and sink first-time projects."
+}

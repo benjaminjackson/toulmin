@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-33-58Z",
+  "without_skill_run": "2026-11-16T20-03-30Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is a complete email with my name, the book title, and confirmation of our September 1 deadline, whereas Document B is full of unfilled placeholders. Document A also clearly states that Elena cannot take the book at $9,000, which tells me I have to try to increase my budget if I want to keep her instead of switching to the newer illustrator."
+}

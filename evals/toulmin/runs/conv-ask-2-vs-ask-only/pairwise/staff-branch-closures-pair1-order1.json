@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-35-19Z",
+  "without_skill_run": "2026-11-16T20-24-21Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "As someone at one of the closing branches, B speaks to me directly. It puts the real $1.50/hour raise up front and describes the six-month severance guarantee as a chance to \"try the role first\", which makes me more willing to accept. A is honest about the phone team's 30% attrition and about what's still unknown, but it reads as a note to all staff about \"14 colleagues\" and leaves out the specific raise."
+}

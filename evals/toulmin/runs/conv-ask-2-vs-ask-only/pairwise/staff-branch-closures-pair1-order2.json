@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-35-19Z",
+  "without_skill_run": "2026-11-16T20-24-21Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A speaks directly to the branch staff and gives the specific $1.50-an-hour raise along with the option to try the role and still get severance, which makes it easier to say yes. Document B is admirably candid about the phone team losing 30% of its people and about what isn't known yet, but it doesn't give the actual pay figure, and lines like 'This decision is final' make it feel colder to people being asked to give up a branch they've worked at for ten years."
+}

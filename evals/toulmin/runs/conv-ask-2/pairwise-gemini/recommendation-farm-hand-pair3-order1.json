@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-36-47Z",
+  "without_skill_run": "2026-11-16T20-06-05Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes concrete details that carry huge weight in a competitive admissions review—specifically the $8,000 saved, arranging a trained replacement before his emergency trip, and the employer's commitment to keep him on part-time. Document B lacks these specifics, contains unreplaced template brackets, and slightly embellishes the brief by claiming he studied the software and enrolled in night classes without being asked."
+}

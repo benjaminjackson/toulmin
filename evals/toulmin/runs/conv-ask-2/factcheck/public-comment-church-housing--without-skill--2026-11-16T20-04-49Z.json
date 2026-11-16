@@ -1,0 +1,33 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-04-49Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I drive that intersection every day",
+      "why": "The brief says the speaker lives on Alder Road two blocks from the church, not that she drives the intersection at Alder and 4th every day."
+    },
+    {
+      "quote": "Those households are working, raising kids, caring for parents, and waiting.",
+      "why": "The brief gives no information about the work status or family responsibilities of the 412 households on the waiting list."
+    },
+    {
+      "quote": "64 families off a waiting list is 64 families who stop waiting.",
+      "why": "The brief states the apartments will rent to households earning under 60% of the area median income, not that the tenants will be taken from the county housing authority's waiting list."
+    },
+    {
+      "quote": "The lot is 1.8 acres of asphalt",
+      "why": "The brief says it is a 1.8-acre back parking lot, not that it is paved with asphalt."
+    },
+    {
+      "quote": "We wouldn't be clearing a field or tearing anything down. We'd be building homes on land that's already paved",
+      "why": "The brief does not state whether the parking lot is paved or whether any structures on it would need to be torn down."
+    },
+    {
+      "quote": "In exchange, 64 households who have been waiting years for a stable, affordable place to live finally get one.",
+      "why": "The brief does not state that the 64 apartments will go to households who have been waiting years for housing."
+    }
+  ],
+  "invented_count": 6
+}

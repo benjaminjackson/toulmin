@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-21-45Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me concrete reasons to say yes: a firm sketch and final-art schedule, two free spot drawings for marketing and an offer to talk by phone before my deadline. B is warmer but gives me nothing extra, never names The Night Garden and is signed with a '[Your name]' placeholder."
+}

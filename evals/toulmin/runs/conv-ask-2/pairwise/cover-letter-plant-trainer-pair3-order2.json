@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-34-29Z",
+  "without_skill_run": "2026-11-16T20-01-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is addressed to me by name and gives what I check for in a teacher applicant: signed training records, two state audits with no findings, a GMP course finishing on a set date, and a concrete cut in training time from 20 hours to 12. A has bracket placeholders, makes vaguer claims about habits, and doesn't give a start date or interview availability."
+}

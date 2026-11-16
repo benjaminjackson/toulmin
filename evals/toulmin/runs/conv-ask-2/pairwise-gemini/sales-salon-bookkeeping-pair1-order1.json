@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-35-10Z",
+  "without_skill_run": "2026-11-16T20-05-37Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A immediately reassures me that I don't have to fire my cousin at tax time, and instead I'll just be making his job easier with clean books. Knowing Carla has a name, actually managed a hair salon herself, offers a free month if she's late, and doesn't lock me into a contract makes booking the call feel much safer."
+}

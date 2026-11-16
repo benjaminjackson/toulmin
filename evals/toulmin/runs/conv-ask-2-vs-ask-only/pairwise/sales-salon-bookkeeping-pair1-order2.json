@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-35-10Z",
+  "without_skill_run": "2026-11-16T20-24-18Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B says outright that Carla doesn't do income tax returns and that my accountant keeps doing them, so my cousin keeps his job and just gets cleaner books. B also has no contract and is upfront about the 3 missed dates and the price raise, so I'd trust it enough to book. A leaves those out, and I'd worry she was asking me to replace my cousin."
+}

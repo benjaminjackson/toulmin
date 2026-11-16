@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-35-19Z",
+  "without_skill_run": "2026-11-16T20-06-16Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes critical details that actually persuade me to give the phone center a try—specifically that seniority gets first pick on shifts, and that I can still take my full severance within six months if I hate the new role. It also honestly addresses the high turnover in the phone center and gives concrete dates and locations instead of placeholders."
+}

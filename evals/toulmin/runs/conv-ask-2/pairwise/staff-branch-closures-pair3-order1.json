@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-branch-closures",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-37-39Z",
+  "without_skill_run": "2026-11-16T20-07-29Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me concrete dates, seniority-based shift picking, and the six-month try-it-and-still-get-severance safety net. It also admits plainly that 9-to-5 can't be promised. That makes trying the new role feel low-risk and honest. B is full of placeholder dates, leaves out the six-month exit option, and makes vague promises about working with us on schedules, so it gives me less reason to stay."
+}

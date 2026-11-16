@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:34:02.963283+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 431
+  tags: []
+  notes: extracted 431 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 7
+    qualification: 6
+    objections: 8
+    fit: 7
+  details:
+    agree: Opening with traffic and asking for the signal as a binding condition goes
+      straight at the two traffic-focused commissioners, though opposed neighbours
+      facing 20 months of trucks and 310 more trips are likely to stay unconvinced.
+    honest: Most claims stay within the facts and the speech admits it can't promise
+      traffic won't worsen, but 'no trees come down' and calling the traffic study
+      'your own study' go slightly beyond what the brief supports.
+    works_the_facts: 'The ''about one in six of the families on that list'' figure
+      is a sound use of 64/412, but other numbers are left unworked: 72 spaces for
+      64 units is not stated as a surplus, and 310 daily trips are not converted into
+      a rush-hour figure.'
+    right_comparison: 'The alternative is stated plainly and accurately: the lot sits
+      empty six days a week, 412 households keep waiting about three years, and without
+      the signal the intersection drops to a D, though no trend on the waitlist or
+      shortage is offered.'
+    qualification: The signal as a condition of approval and the C-versus-D rating
+      can both be checked, but there is no date or measure for the neighbour group
+      or for weekday parking access, and no consequence if either falls short.
+    objections: It meets the main objections in turn (traffic, construction trucks,
+      parking) with specific commitments, and it raises no objection that the facts
+      already settle.
+    fit: It is a clear first-person spoken statement with a direct ask, but at roughly
+      450 words it may run past three minutes at normal speaking pace.

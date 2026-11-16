@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-35-49Z",
+  "without_skill_run": "2026-11-16T20-05-29Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B gives concrete evidence a committee member can act on: the $8,000 the vet says was saved, the cousin he arranged to cover his shifts during his leave, the weekend job held for him while he studies, and a real phone number. Document A is vaguer and still has placeholders like [Last Name] and [phone], so it reads as unfinished and gives less reason to trust it."
+}

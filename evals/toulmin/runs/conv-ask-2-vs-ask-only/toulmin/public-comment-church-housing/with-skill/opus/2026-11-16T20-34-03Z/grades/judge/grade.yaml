@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:35:10.069482+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 411
+  tags: []
+  notes: extracted 411 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 8
+    qualification: 7
+    objections: 8
+    fit: 9
+  details:
+    agree: The two commissioners focused on traffic get a concrete fix (a signal paid
+      for by the builder that keeps the intersection at C, made a condition of the
+      permit), so they have a clear reason to vote yes, though neighbours who oppose
+      the project may still object to 20 months of trucks and the busier road.
+    honest: Every figure traces to the facts, and the speech says plainly that it
+      can't promise traffic won't get worse; the one overstatement is 'You won't find
+      a site that asks less of a neighborhood,' which the facts can't prove.
+    works_the_facts: The speech works out that 64 homes is about one in six of the
+      412 households waiting, that 310 trips is about five per household, and that
+      72 spaces is more than one per home, though it could also have said the project
+      fills about 3% of the county's 2,100-home shortfall.
+    right_comparison: A no vote is described accurately (the lot stays empty six days
+      a week and 412 households keep waiting about three years), and a yes vote with
+      the signal accurately keeps the C rating, though nothing in the facts shows
+      whether the waiting list is growing.
+    qualification: The main condition, a signal at Alder and 4th required by the permit
+      with the study saying it keeps the C rating, is specific and checkable, but
+      it has no deadline, such as having the signal in before the units open.
+    objections: The speech answers traffic, parking and construction trucks with commitments
+      that already exist, and Margaret's own morning backups give the traffic answer
+      credibility, without raising any worry the facts don't already answer.
+    fit: At about 430 words in plain spoken style, it fits the 3-minute limit for
+      public comment and ends by asking for exactly what Margaret wants.

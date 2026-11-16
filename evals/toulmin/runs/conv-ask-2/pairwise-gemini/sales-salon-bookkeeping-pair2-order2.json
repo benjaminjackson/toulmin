@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-36-19Z",
+  "without_skill_run": "2026-11-16T20-06-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Going from paying my cousin $600 once a year to paying a stranger $2,400 a year is a huge jump, so knowing her name is Carla, that there's no contract, and that she'll waive the fee if she misses her deadline makes Document B feel much safer. I also appreciate that she invited me to talk about what I'm doing for my books right now on the call, since I don't actually want to fire my cousin at tax time."
+}

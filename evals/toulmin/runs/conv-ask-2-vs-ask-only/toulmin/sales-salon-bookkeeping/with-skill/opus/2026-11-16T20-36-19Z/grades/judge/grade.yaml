@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T20:37:17.658314+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 308
+  tags: []
+  notes: extracted 308 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 3
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 3
+    qualification: 8
+    objections: 3
+    fit: 8
+  details:
+    agree: This owner pays her cousin $600 a year, and the page never tells her she
+      can keep him for her taxes, so she sees $199 a month, which is $2,388 a year,
+      as replacing someone she likes at four times the cost, and she probably won't
+      book.
+    honest: Every number matches the brief, and the $800 being about four months of
+      fees is accurate, though the general line that accountants charge by the time
+      spent sorting your numbers is stated as a fact without support.
+    works_the_facts: It works out the $800 as four months of fees, but it never puts
+      the 3 misses as 9 of 12 months on time, never says that no client has left for
+      any reason except selling their salon, and never sets the annual cost against
+      what clean books save at tax time.
+    right_comparison: The reader's real alternative is year-end books from a relative
+      for $600, and the page describes it only as a generic accountant, without saying
+      that her accountant or tax preparer keeps doing her tax return and simply gets
+      clean books.
+    qualification: The promise that the month is free if the books aren't closed by
+      the 10th, starting in January, names a date and a consequence she can check,
+      and the 30-day notice is just as concrete.
+    objections: Her two objections, her cousin and the cost, go unanswered, and the
+      price-rise section creates a worry without the reason the facts provide (payroll
+      was added), while the six years of managing a salon and the limit of about five
+      new clients are left out.
+    fit: It is about 330 words of sales-page copy with clear sections and ends with
+      a booking button, which matches what the brief asked for.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-21-45Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is more persuasive. It is open about the 20 months of construction trucks and offers things neighbours can actually use: weekday parking in the church lot and a neighbour group the speaker will personally serve on. Both speak directly to the room's concerns. A leaves out the construction, reads as smoother, and still has an unfilled '[your name]' placeholder."
+}

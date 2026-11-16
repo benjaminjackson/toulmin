@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:25:10.205664+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 422
+  tags: []
+  notes: extracted 422 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 7
+    objections: 7
+    fit: 6
+  details:
+    agree: 'A wary long-tenured teller gets concrete terms: a $1.50 raise, first pick
+      of shifts by seniority, and a six-month trial that keeps severance, which makes
+      taking the role a low-risk choice, though the note never mentions the rumours
+      they''ve already heard.'
+    honest: It drops the unsupported 'better for everyone' claim and states the limits
+      plainly ('I can't promise anyone a 9-to-5 schedule'), but 'the reason is that
+      we don't have enough people answering' is a causal claim the brief doesn't establish.
+    works_the_facts: 'It repeats the 44%, 60% and 9-minute figures accurately but
+      derives nothing from them: there''s no severance example for a ten-year employee
+      and no account of what the hold time means for members.'
+    right_comparison: Falling branch visits against rising phone and chat contacts
+      are set side by side as a trend, but it never says what would happen to the
+      branches or to hold times if nothing changed.
+    qualification: The commitments are dated and checkable (offers by Feb 14, decisions
+      by March 1, a six-month severance window), though it doesn't say what happens
+      if someone misses the March 1 deadline.
+    objections: It names the dislike of phone work, the longer day and rotating shifts,
+      and answers them with seniority-based shift choice, the trial period and HR
+      meetings, but it doesn't speak to the two weeks of rumour or to people's loyalty
+      to their own branch.
+    fit: It is a COO email of roughly the requested length, but it is signed with
+      a '[Your name]' placeholder even though the writer knew it was Rachel Greene,
+      and a stray '</invoke>' tag is left at the end.

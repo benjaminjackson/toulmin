@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:35:38.533000+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 376
+  tags: []
+  notes: extracted 376 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 7
+    objections: 7
+    fit: 8
+  details:
+    agree: The audited signed records, the 20-to-12-hour rewrite and the plain admission
+      of the GMP gap would likely win this skeptical manager over enough to offer
+      a phone screen, though nothing places her squarely in a plant setting.
+    honest: It rightly drops the unprovable 'cut your training in half' claim, and
+      every number and claim matches the facts given, including the honest note that
+      it doesn't know how their training is set up.
+    works_the_facts: 'The figures appear only in their raw form: it never states the
+      40% cut in training time, never gives a total of hundreds of signed student
+      safety records or roughly a dozen teacher records since 2020, and never frames
+      the AP rise as a 17-point gain.'
+    right_comparison: The AP trend is stated correctly, but the letter never weighs
+      her against the real alternative (a candidate who already has GMP experience)
+      and never says why her record-keeping and training redesign make up for that
+      gap.
+    qualification: The GMP gap is qualified with a checkable course end date of May
+      2, and the start date and interview windows are concrete, though it never says
+      what proof of course completion she will bring.
+    objections: It meets the main objection (no regulated-industry or GMP experience)
+      directly with audits and the course, but the LMS gap is only stated, with no
+      sign that she adapts to new systems.
+    fit: It is a business letter that fits on one page and is addressed to the named
+      manager, but the signature line is left without her name.

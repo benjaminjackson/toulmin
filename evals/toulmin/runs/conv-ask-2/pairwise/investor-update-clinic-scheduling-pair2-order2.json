@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-33-09Z",
+  "without_skill_run": "2026-11-16T20-01-11Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B says honestly why the updates stopped, commits to a specific date (January 7), and names the remaining risk ($3,800 from customers on the same records system). It also gives the 6 clinics that will buy at launch and is open that this isn't enough. A has unfilled placeholders like [Your plan] and [Your name] and a vague apology, which would make a cold, annoyed investor colder."
+}

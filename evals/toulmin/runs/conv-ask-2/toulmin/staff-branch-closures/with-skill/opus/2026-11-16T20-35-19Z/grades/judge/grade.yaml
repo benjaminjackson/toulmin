@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:36:30.256640+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 436
+  tags: []
+  notes: extracted 436 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 4
+    right_comparison: 6
+    qualification: 7
+    objections: 8
+    fit: 7
+  details:
+    agree: The six-month severance safety net, seniority-based shift choice and the
+      plain admission that 9-to-5 is gone give a wary teller real reasons to try the
+      role, but the email says only 'same pay or higher' instead of the $1.50-an-hour
+      raise, so it leaves out the strongest concrete reason to stay.
+    honest: It rightly drops the 'better for everyone' claim and admits what it can't
+      promise, but it says the phone team's 30% turnover came from 'too many calls
+      for too few people', which no fact in the brief supports.
+    works_the_facts: 'The 44%, 60% and 9-minute figures are passed along unchanged,
+      and nothing is worked out from them: no severance example (10 years = 20 weeks''
+      pay), no yearly value of the $1.50 raise (about $3,000), and no comparison of
+      the two options in dollars.'
+    right_comparison: It shows the three-year trend that rules out keeping the branches
+      open, but it never sets the staff member's real choice side by side, taking
+      the role versus leaving with severance, in concrete terms.
+    qualification: The commitments are checkable and dated (offers by Feb 14, decisions
+      by March 1, a six-month window to leave with severance), but the open questions
+      on training and member service have no date by which answers will come.
+    objections: It takes on the main fears directly (phone work, rotating hours, the
+      phone team's turnover, being stuck in a job they don't want) and doesn't raise
+      objections the facts already settle.
+    fit: It is a COO email of about 420 words with a clear subject line, but the signature
+      gives only the title and leaves out Rachel Greene's name.

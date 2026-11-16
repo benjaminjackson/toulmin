@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:33:09.457364+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 445
+  tags: []
+  notes: extracted 445 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 7
+    honest: 4
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 4
+    objections: 6
+    fit: 8
+  details:
+    agree: The plain admission about the skipped updates, the dated commitments and
+      the clear numbers would likely win back a cold lead investor, but saying there
+      is no runway plan and no timeline for one gives them a real reason to hold back.
+    honest: 'Several claims have no source in the facts: ''chains are where we grow
+      fastest'', ''losing the chain wasn''t a one-off'', ''I don''t know why those
+      three left'', the open question on whether reminders work with records systems,
+      and the undecided raise-or-cut plan.'
+    works_the_facts: 'It works out good figures from the facts: roughly 11 months
+      of runway, about 15% growth outside the chain ($35,500 to $41,000), $37,200
+      if the two at-risk customers leave, and $900 a month from the six reminder buyers
+      set against the $3,800 at risk.'
+    right_comparison: It shows what happens if nothing changes, with flat revenue,
+      about 11 months of runway and the same records-system churn hitting $3,800 more,
+      though it never sets the $44,000 monthly loss against when the money runs out.
+    qualification: The update commitment has a date (January 7), but the main hedges,
+      the $3,800 at risk and the runway decision, have no date, no checkpoint and
+      no consequence if they are missed.
+    objections: It answers the investor's complaint about the missed updates head-on
+      with a reason and dated commitments, but it raises new worries the facts don't
+      require, such as no runway plan and doubt about whether the reminder product
+      works.
+    fit: It is a short quarterly update email to all investors, under 500 words, with
+      clear sections and a specific request.

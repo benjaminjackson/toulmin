@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-03-02Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A addresses me directly, shows that the association represents a clear majority of 74 households rather than just a few loud residents, and offers constructive help by volunteering to maintain an emergency mobility list. Document B is an unfinished template that makes unreasonable demands, like asking us to pay for a new engineering study or give advance notice for unexpected breakdowns."
+}

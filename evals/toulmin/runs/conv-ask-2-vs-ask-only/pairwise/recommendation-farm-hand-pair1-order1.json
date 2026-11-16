@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-34-54Z",
+  "without_skill_run": "2026-11-16T20-24-13Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Letter A is honest about the 5-week absence and the 2-day notice, and it turns them into a point in Tomás's favor: he found cover and came back on the day he promised. Letter B leaves out the absence and says he arranged cover before he came to his manager, which the facts don't support. B also makes stronger claims, but A still persuades without bending the facts, though it leaves out Tomás's last name."
+}

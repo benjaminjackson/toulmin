@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B says plainly why the updates stopped and commits to dates (January 7, monthly numbers on request). It also puts a dollar figure on the risk from the records system, which tells a cold, skeptical investor the founder has stopped hiding bad news. A apologizes in general terms, still has placeholders for the company name, and leaves out the risk to the remaining customers."
+}

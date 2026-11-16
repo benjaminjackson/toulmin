@@ -1,0 +1,13 @@
+{
+  "task": "sales-salon-bookkeeping",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-06-07Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Every client pays the same rate, including clients who have been with me for years.",
+      "why": "The brief mentions existing clients, not that any clients have been with the bookkeeper for years."
+    }
+  ],
+  "invented_count": 1
+}

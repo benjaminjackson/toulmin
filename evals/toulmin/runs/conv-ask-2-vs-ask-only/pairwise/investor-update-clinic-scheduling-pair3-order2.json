@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-34-12Z",
+  "without_skill_run": "2026-11-16T20-23-48Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B tells me about the two other customers on the same records system, who pay $3,800 a month and could leave the same way. After two skipped updates, that candor about bad news is what rebuilds my trust. However, B's line that they aren't planning to raise has no support in the facts and makes my next-round right less relevant. A's '[Your name]' placeholder and its untested-pricing aside also weaken it, so the gap is small."
+}

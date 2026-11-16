@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-34-29Z",
+  "without_skill_run": "2026-11-16T20-23-24Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A tells me what I need to decide on a phone screen: it gives the June 14 start date and when she is free to interview, and it says plainly what she lacks while pointing to her audited, signed records. B leaves out her availability and start date and still has placeholders where her name and address should go, so it reads as less finished."
+}

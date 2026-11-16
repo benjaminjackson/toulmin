@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-34-26Z",
+  "without_skill_run": "2026-11-16T20-05-06Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly challenges my belief that the renovation caused the guest score increase by pointing out the score had already risen to 8.2 before construction started. It also gives me concrete confidence in her ability to handle the budget by noting her recent overtime control and an existing agreement with our controller, Ben, rather than asking me to train her."
+}

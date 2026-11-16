@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T20:34:54.500234+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 204
+  tags: []
+  notes: extracted 204 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 5
+    honest: 9
+    works_the_facts: 4
+    right_comparison: 5
+    objections: 3
+    fit: 8
+  details:
+    agree: The sales record and the $12,500 comparable make a credible case to an
+      editor who already likes Elena, but asking for $2,500 over budget with no extras
+      offered, while a cheaper illustrator is available, more likely leads to a counteroffer
+      than a yes.
+    honest: It drops the unsupported claim that every other publisher pays at least
+      $12,000, presents the $12,500 fee and the agent's range accurately and with
+      attribution, and invents nothing.
+    works_the_facts: 'The facts are listed but not developed: there''s no point that
+      the fee has stayed flat across six books while sales grew, no per-month or percentage
+      framing, and the fourth printing (the strongest sales fact) is left out.'
+    right_comparison: It shows that the market and her record have moved up while
+      her fee stayed the same, but it never sets her proven track record against the
+      real alternative, an unproven newcomer at a lower fee.
+    qualification: The email makes a direct request and a dated commitment, and it
+      has no conditional claims that need a hedge.
+    objections: The editor's real objections, a $9,000 budget and a cheaper option,
+      are never addressed, and the commitments that would ease them (sketches within
+      six weeks, two free marketing spots) are left out.
+    fit: It's a properly formed email of about 200 words, under the 250-word limit,
+      and it handles the requested 'every other publisher' line by leaving it out
+      rather than saying it as strongly as the facts allow (e.g., citing the $12,500
+      fee from another publisher as the market benchmark).

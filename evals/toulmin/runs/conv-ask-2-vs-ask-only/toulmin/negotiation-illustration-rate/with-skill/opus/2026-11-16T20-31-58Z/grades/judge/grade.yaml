@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T20:33:00.451929+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 191
+  tags: []
+  notes: extracted 191 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 6
+    objections: 5
+    fit: 8
+  details:
+    agree: The sales record, reading-list printing, $12,500 comparable and free extras
+      give a well-disposed editor real grounds to go above $9,000, but nothing explains
+      why Elena is worth $3,500 more than the $8,000 newcomer, so the editor could
+      easily settle on a counter in the $10,000s.
+    honest: "It rightly drops the unsupported claim that 'every other publisher pays\
+      \ at least $12,000', but it states the agent's $11,000\u2013$13,000 range as\
+      \ 'the standard rate' instead of crediting the agent, which presents an opinion\
+      \ as market fact."
+    works_the_facts: 'The facts are accurate but not worked: it never says the fee
+      has stayed flat across six books and four years, that $11,500 is still $1,000
+      below what another publisher paid last year, or what $9,000 comes to for four
+      months of work.'
+    right_comparison: It compares the fee with the outside market but not with the
+      editor's real alternative, an untested illustrator, against Elena's proven 20,000-copy
+      sellers, and it only hints at the trend of a rising record against a fixed fee.
+    qualification: The commitments are concrete and checkable (sketches within six
+      weeks of signing, final art by September 1, two spot drawings, an answer by
+      the end of next week), but there's no real conditional, and it doesn't spell
+      out what happens at a figure between $9,000 and $11,500.
+    objections: The extras and firm deadlines partly answer budget worries, but the
+      email never takes on the main objections, the $9,000 budget limit and the cheaper
+      newer illustrator, for example by pointing to the lower risk of an illustrator
+      with a proven sales record.
+    fit: It's a polite, well-ordered email of about 200 words with a subject line,
+      so it's within the 250-word limit and matches the form requested.

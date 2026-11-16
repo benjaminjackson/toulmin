@@ -1,0 +1,29 @@
+Here's the draft. It comes to about 190 words, counting the sign-off and not the subject line.
+
+<final_document>
+Subject: We let you down last summer
+
+Hi,
+
+You didn't renew your Greenbank Farm share this year, and I understand why. After the July 9 hailstorm destroyed about half our crops, your boxes held about half the usual amount for six weeks. We didn't offer credit, and I sent one short email. I was working 16-hour days trying to save what was left, but that's not an excuse. I'm sorry. We should have done better.
+
+Here's what's changed:
+
+- If weather cuts a box by more than a third, you get credit for that week.
+- I'll email you every Thursday during the season.
+- We put up two hail nets over the tomatoes and peppers and added a second field on higher ground, at a cost of $31,000. The nets don't cover the greens, and I can't promise there will be no crop loss this year.
+- You can now pause up to two weeks and get credit for them.
+
+A full share is still $540, the same as last year, with pickup Thursdays at the farm stand. Sign-up closes March 15, and 52 shares are left. The link is on our website.
+
+I'd be glad to have you back.
+
+Sam Turner
+Greenbank Farm
+</invoke>
+</final_document>
+
+- **Apology first:** The email apologizes before asking for anything, because these readers already hold last summer against you. The new weather credit is the most direct answer to their complaint, so it comes first in the list.
+- **Higher field:** I only said the field is on higher ground. Since you weren't sure what it protects against, the email doesn't claim anything more.
+- **Pause credit:** Once you've settled how it works, add a short clause, like "credit toward a later week." Some readers will want to know before they sign up.
+- **Sign-up link:** Pasting the actual sign-up link in place of "the link is on our website" would make it easier for people to sign up.

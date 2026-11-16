@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T20:34:27.878044+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 408
+  tags: []
+  notes: extracted 408 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 5
+    objections: 8
+    fit: 9
+  details:
+    agree: The calm tone, the offer to meet on weekday evenings, the offer to keep
+      a stair-assistance list and the public posting give Weller practical reasons
+      to act on the repair date and the stair chair, but an open-ended rent credit
+      for every outage day is the request she is most likely to resist.
+    honest: Every number matches the brief and the claims are hedged where they should
+      be, including dropping the second-elevator request for lack of a study, though
+      'they cannot get down to the street' blurs the 23 residents over 75 with the
+      6 who use wheelchairs or walkers.
+    works_the_facts: The letter does turn the June '6 to 8 weeks' into 'five months
+      later', but it never states that 74 of 112 is two-thirds of households, that
+      41 days is about one day in eight, or that a resident missed two dialysis appointments,
+      which is the strongest fact available.
+    right_comparison: The repeated June promise shows that the status quo is failing,
+      but the letter never says what continuing as now would mean, such as another
+      6 to 8 weeks of uncertainty or more outages like August's.
+    qualification: The hedge on the second elevator is honest and specific, but the
+      letter sets no deadline for Keystone to reply or commit and does not say what
+      the association will do if no date comes.
+    objections: It answers the passing inspection, the $400,000 cost and the 'few
+      loud people' view with the 74 signatures, and it does not raise objections the
+      facts already settle, though it could have pressed harder on her belief that
+      the outages were handled well.
+    fit: It is a properly dated and signed open letter of about 420 words that suits
+      both the lobby and the TV station.

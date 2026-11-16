@@ -1,0 +1,17 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-31-58Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "About $2,650: freight from the factory and import costs",
+      "why": "While the $2,650 figure is the mathematical remainder of the $28,000 goal, neither the brief nor the user's additional information states that this money is for freight from the factory and import costs."
+    },
+    {
+      "quote": "Expected delivery: November 2027.",
+      "why": "The user stated that expected delivery is \"November next year,\" but did not provide the current year to establish that next year is 2027."
+    }
+  ],
+  "invented_count": 2
+}

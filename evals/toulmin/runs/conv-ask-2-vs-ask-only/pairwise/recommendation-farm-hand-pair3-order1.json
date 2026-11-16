@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-36-47Z",
+  "without_skill_run": "2026-11-16T20-26-06Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A ties Tomás's software work directly to what the program teaches, gives a real phone number, and states the weaker facts openly, which makes it more believable. B ends with unfilled [Phone] | [Email] placeholders, leaves out the two days' notice, and says \"Nobody assigned him that work,\" which isn't in the facts."
+}

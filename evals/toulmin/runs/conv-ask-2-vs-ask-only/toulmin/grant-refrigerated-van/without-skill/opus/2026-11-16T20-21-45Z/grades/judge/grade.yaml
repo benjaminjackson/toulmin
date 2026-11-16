@@ -1,0 +1,61 @@
+grader: judge
+graded: '2026-11-16T20:22:53.199403+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 437
+  tags: []
+  notes: extracted 437 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 6
+    objections: 5
+    fit: 7
+  details:
+    agree: Marisol would likely trust the realistic one-eighth goal and the named
+      treasurer's 30-day report deadline, but the $4,500 yearly running cost with
+      no stated source of money gives her a clear reason to hesitate before recommending
+      yes.
+    honest: The draft correctly drops the unsupported 'double' claim and hedges the
+      farm donations, but the brief doesn't support 'families struggle most to afford
+      these foods' or 'all of it going to families already on our rolls', and calling
+      the van 'the one thing standing between' overstates it while the running costs
+      are unfunded.
+    works_the_facts: 'The derived figures are correct and useful: one-eighth (9,000
+      of 72,000 lbs a year), about six weeks of fresh supply, and more than a quarter
+      of the cost from reserves. It leaves out the $11,000 that would remain in reserves
+      and doesn''t turn four volunteer drivers into a weekly pickup capacity.'
+    right_comparison: It states the alternative accurately (without cold pickup, offered
+      produce gets turned away, as happened last summer), though it doesn't say what
+      continuing without the van would mean for the year ahead.
+    qualification: 'The hedge on farm supply comes with something checkable: a 9,000-lb
+      first-year target, quarterly fresh-food totals and a report due 30 days after
+      the grant year, but it doesn''t say what happens if the target or a quarterly
+      report is missed.'
+    objections: The late-report concern is met directly with a reason, an apology,
+      a named person and a deadline, but the draft raises the $4,500 yearly insurance
+      and fuel cost itself and never says how it will be paid, leaving the sustainability
+      question open.
+    fit: It is a sectioned narrative under 500 words as asked, but it leaves [Food
+      Bank Name] and [Town] as placeholders even though the director supplied the
+      pantry's name.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-21-45Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "As Diane, I could dismiss A as polite complaints from a few people, even though it offers a resident list and evening meetings. B's missed dialysis appointments show real harm, and its December 1 posting date with local news gives me a reason to act fast, though leaving out A's offers to cooperate makes the gap smaller."
+}

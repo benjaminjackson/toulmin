@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-33-09Z",
+  "without_skill_run": "2026-11-16T20-22-51Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A is the better of the two. It leads with a summary and gives the lost customer's share of revenue (13%). It also says plainly that the $900 a month in reminder pre-sales won't close the gap to burn, and it ties the call request to a real runway decision. That reads like a founder who now takes accountability seriously. B is honest too, but it is vaguer, explains basics like what a no-show is, and is signed with a '[Your name]' placeholder, which is careless after six months of silence. One caveat: the line in A about not yet choosing between raising, cutting burn or aiming for break-even was not in the facts given, though it is plausible."
+}

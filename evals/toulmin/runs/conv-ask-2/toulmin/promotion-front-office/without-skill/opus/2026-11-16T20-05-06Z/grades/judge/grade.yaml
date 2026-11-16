@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T20:05:37.308962+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 455
+  tags: []
+  notes: extracted 455 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 4
+    honest: 7
+    works_the_facts: 4
+    right_comparison: 3
+    qualification: 4
+    objections: 3
+    fit: 6
+  details:
+    agree: "Mark gets a likeable, candid memo, but nothing in it shifts his belief\
+      \ that the renovation drove the scores (the 7.9\u21928.2 pre-renovation rise\
+      \ is missing), and it never makes a case against the outside candidate, so he\
+      \ probably stays undecided."
+    honest: It rightly drops the 'main reason' claim and admits the renovation helped,
+      but 'the department has stayed stable' is vague and unsupported, and the savings
+      claims in the budget plan are asserted rather than shown.
+    works_the_facts: It works out 'almost half' the training time and 'four more people'
+      kept, but it leaves out the strongest true number (the 8.2 reached before the
+      renovation began), never turns turnover into rates (64% down to 36%), and leaves
+      a placeholder where the coverage results should go (no uncovered shifts, overtime
+      under plan).
+    right_comparison: It never compares Daniela with the outside candidate, and it
+      sets the renovation against her work by assertion instead of showing the score
+      trend before and after the renovation started.
+    qualification: The budget plan has a 30-day step and monthly reviews, but it doesn't
+      name the finance course with its 3-month deadline or the controller's weekly
+      sessions, and it sets no measurable bar or consequence if the bar is missed.
+    objections: It names the budget gap honestly, but it meets the renovation objection
+      only with reasoning, not the available evidence, and it ignores the larger-hotel
+      candidate completely.
+    fit: It is a one-page memo as asked, but the name placeholders (including the
+      GM's and the controller's, which the writer had) and the '[add specifics]' gap
+      mean it isn't ready to send.

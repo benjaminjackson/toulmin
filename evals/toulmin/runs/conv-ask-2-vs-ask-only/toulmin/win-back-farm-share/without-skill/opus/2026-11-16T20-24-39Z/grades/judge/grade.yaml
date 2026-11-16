@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T20:25:30.332093+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 208
+  tags: []
+  notes: extracted 208 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 8
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 6
+    qualification: 6
+    objections: 8
+    fit: 7
+  details:
+    agree: The email apologises plainly, names the exact failure this household felt
+      (no credit, silence), and makes concrete commitments, so a hurt but persuadable
+      member is likely to reconsider; it offers nothing for last year's lost value,
+      which may still hold back the most resentful readers.
+    honest: Every fact matches the brief and what the user said, and the limits are
+      stated (the nets don't cover greens, no guarantee against loss), though 'you'll
+      always know what's happening' promises a little more than one short weekly email
+      can deliver.
+    works_the_facts: 'The facts are passed along as given, with nothing worked out
+      from them: no ''29 of 41'' instead of the vague ''most of you'', no dollar value
+      of a weekly credit (about $24.50), and no estimate of what the six thin weeks
+      cost a member.'
+    right_comparison: Last season's handling is contrasted clearly with this season's
+      policies at the same price, but the email never describes what the reader gets
+      if they stay away, and it doesn't say that only 52 shares are left against 97
+      departures.
+    qualification: The 'more than a third' credit threshold and the weekly Thursday
+      email are specific commitments the reader can check, but the email doesn't say
+      who decides a box was cut by a third or how the credit is paid.
+    objections: It meets the 'you went quiet' objection directly with the weekly-email
+      commitment and the credit policy, without raising doubts the facts already answer,
+      though it leaves unspoken whether last year's losses will ever be made good.
+    fit: It is a well-formed email whose body comes to about 200 words, landing right
+      at the limit and slightly over once the subject line is counted.

@@ -1,0 +1,33 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-33-09Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Subject: Investor update — November 2026",
+      "why": "The brief and additional facts mention December 1 and January 7, implying the current month is November, but the year 2026 is never stated."
+    },
+    {
+      "quote": "before the end of the year",
+      "why": "The founder says they want 20 minutes on the phone with investors, but does not specify a deadline of before the end of the year."
+    },
+    {
+      "quote": "Records systems that come with their own scheduler are the biggest threat to our core product.",
+      "why": "While one customer left for their records system's scheduler and two others use that same system, the brief does not state this is the biggest threat to the core product."
+    },
+    {
+      "quote": "and it's the result clinics care about most.",
+      "why": "The brief gives the no-show reduction statistics, but does not state that this is the result clinics care about most."
+    },
+    {
+      "quote": "I haven't decided yet whether we raise, cut burn or aim for break-even.",
+      "why": "The brief gives the cash and burn figures, but says nothing about what options the founder is considering or whether they have made a decision on runway."
+    },
+    {
+      "quote": "I'd like to talk through the runway decision with each of you.",
+      "why": "The founder asks for 20 minutes on the phone, but does not specify that the topic of the call is a runway decision."
+    }
+  ],
+  "invented_count": 6
+}

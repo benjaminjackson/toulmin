@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T20:36:19.588808+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 342
+  tags: []
+  notes: extracted 342 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 4
+    honest: 9
+    works_the_facts: 4
+    right_comparison: 3
+    qualification: 8
+    objections: 3
+    fit: 8
+  details:
+    agree: A salon owner paying her cousin $600 a year sees $199 a month, which works
+      out to about $2,388 a year, and nothing on the page tells her why that's worth
+      it or what happens to her cousin, so she probably won't book.
+    honest: 'Every claim matches the facts: the price rise, the 3 missed dates, the
+      9 clients and the $800 are all reported as clients told them, and nothing is
+      overstated or made up.'
+    works_the_facts: 'The figures are only restated: the page never gives the yearly
+      cost, never says that no client has left for any reason except selling their
+      salon, and never says that 9 of 31 clients is close to a third.'
+    right_comparison: The only alternative described is a generic accountant sorting
+      out the year each spring; the reader's actual alternative, a cheap year-end
+      fix-up by someone she trusts, is never faced, and neither is the cost gap.
+    qualification: 'The conditions can be checked and say what happens if they''re
+      missed: if the books aren''t closed by the 10th, that month is free (in effect
+      since January); clients can leave with 30 days'' notice; and there''s a cap
+      of about 5 new clients this year.'
+    objections: The page never takes on the obvious objection, that $199 a month costs
+      far more than $600 a year and could hurt a relative, even though 'your tax preparer
+      keeps doing those' was a ready way to say the cousin keeps his role.
+    fit: At about 360 words it's a sales page close to the length asked for, with
+      clear sections and the booking button at the end.

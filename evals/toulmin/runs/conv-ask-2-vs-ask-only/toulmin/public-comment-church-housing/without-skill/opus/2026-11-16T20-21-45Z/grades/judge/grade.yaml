@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:22:37.976194+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 380
+  tags: []
+  notes: extracted 380 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 6
+    objections: 6
+    fit: 8
+  details:
+    agree: Starting with traffic, admitting the morning backups, and asking for the
+      signal as a binding condition gives the two traffic-focused commissioners an
+      easy yes; skeptical neighbours get less, because the speech leaves out the written
+      offer of weekday parking and the promised neighbour group.
+    honest: The figures are accurate and the speaker admits that traffic matters,
+      but 'busiest intersection' is invented and 'exactly the families who are waiting'
+      assumes the waiting-list households qualify, which the facts don't establish.
+    works_the_facts: Apart from '72 spaces is more than one per unit', the speech
+      only repeats numbers; it never works out, for example, how much of the 412-household
+      waiting list these 64 homes would house (about one in six).
+    right_comparison: 'It sets C-with-signal against D-without and an unused lot against
+      a three-year wait, but it never spells out the do-nothing outcome: the lot stays
+      empty and the waiting list stays where it is.'
+    qualification: '''As long as the signal actually gets built'' is a real, checkable
+      condition tied to approval, but it gives no deadline (for example, before occupancy)
+      and no consequence if the signal is never built.'
+    objections: 'Traffic and parking are answered, but the 20 months of construction
+      trucks on Alder Road go unmentioned, and so do the strongest replies to neighbours:
+      the written weekday-parking offer and the speaker''s own seat on the neighbour
+      group.'
+    fit: At roughly 400 words it fits a three-minute spoken slot and reads naturally
+      aloud, though it leaves '[your name]' as a placeholder.

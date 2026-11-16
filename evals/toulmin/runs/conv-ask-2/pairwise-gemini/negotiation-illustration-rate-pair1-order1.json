@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-02-34Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A makes a much stronger business case by citing the fourth printing, guaranteeing specific schedule milestones, and sweetening the deal with free marketing art, which helps me justify going over my $9,000 budget rather than switching to the cheaper illustrator. It also clearly states she cannot take the book at $9,000 and includes all the specific details rather than leaving placeholders."
+}

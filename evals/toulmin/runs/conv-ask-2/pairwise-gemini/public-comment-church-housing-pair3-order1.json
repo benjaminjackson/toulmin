@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-34-03Z",
+  "without_skill_run": "2026-11-16T20-05-18Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A directly addresses the commissioners' main concern about traffic by proposing a specific, actionable condition—making the builder pay for a traffic signal at Alder and 4th to keep the intersection at a C rating. Document B merely asks us to accept the drop to a D rating, and fails to mention the signal, the shared parking agreement, or the construction neighbor group."
+}

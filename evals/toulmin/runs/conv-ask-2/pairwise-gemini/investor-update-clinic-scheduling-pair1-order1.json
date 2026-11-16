@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins back my trust by owning up to the real reason for the silence, giving hard dates for future updates, and laying out the exact dollar risk from other customers on the same EHR. Document B reads like a generic template that hides the specific $3,800 churn risk and makes up a timeline for the runway decision."
+}

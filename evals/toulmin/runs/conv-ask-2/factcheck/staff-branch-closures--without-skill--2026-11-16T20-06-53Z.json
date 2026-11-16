@@ -1,0 +1,21 @@
+{
+  "task": "staff-branch-closures",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-06-53Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "[Your manager / HR] will meet with each person at Maple Street and Route 9 one-on-one [by DATE]. In that meeting we'll go over your offer, answer your questions, and talk through what would work for you.",
+      "why": "The brief does not mention holding one-on-one meetings with the affected staff to go over offers."
+    },
+    {
+      "quote": "If you work at one of our other five branches, your role is not changing.",
+      "why": "The brief does not state whether roles at the other five branches will remain unchanged."
+    },
+    {
+      "quote": "we will send you talking points by [DATE].",
+      "why": "The brief does not mention preparing or sending talking points for staff at the other branches."
+    }
+  ],
+  "invented_count": 3
+}

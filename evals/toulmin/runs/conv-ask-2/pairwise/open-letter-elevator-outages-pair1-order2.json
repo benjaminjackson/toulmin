@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-03-02Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is addressed to me by name. Its three asks are concrete, it offers real cooperation (a list of residents who need help on the stairs, and meetings on any weekday evening), and a named secretary signs it. That makes it harder to dismiss as a few loud people. Document A still has blank placeholders and makes vaguer, open-ended demands, so it reads as unfinished and easier to put aside."
+}

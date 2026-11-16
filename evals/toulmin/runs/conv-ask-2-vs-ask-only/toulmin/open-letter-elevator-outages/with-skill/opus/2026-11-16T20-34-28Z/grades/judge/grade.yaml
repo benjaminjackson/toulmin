@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T20:35:30.899863+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 401
+  tags: []
+  notes: extracted 401 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 4
+    objections: 7
+    fit: 8
+  details:
+    agree: The two-thirds figure, the repeated June promise and the dialysis case
+      make it hard for her to dismiss the association as a few loud people, but the
+      letter leaves out the association's own commitments (weekday-evening meetings,
+      a stair-assistance list for emergencies), so it gives her little reason to act.
+    honest: The numbers are accurate and the inspection point is stated with care,
+      but the letter adds a fourth demand (a feasibility study) the association never
+      asked for, and 'cannot leave their apartments' overstates the case slightly
+      for residents who use walkers.
+    works_the_facts: The letter turns 41 days into 'one day in every eight', which
+      is true for the year to date, and 74 households into two-thirds of the building,
+      and it sets the June promise against the current one; it does not go further,
+      for example by counting the residents who are housebound during an outage.
+    right_comparison: 'It describes accurately what happens if nothing changes: the
+      same residents stuck upstairs and missing care, as in August, with no repair
+      date ever kept. It doesn''t overstate any trend.'
+    qualification: The letter asks for a written reply and a repair date but sets
+      no deadline for either and says nothing about what follows if they are missed;
+      the only hedge is 'You may be right' on the second elevator.
+    objections: It answers the 'it passed inspection' defence and the 'few loud people'
+      view (two-thirds signed), and it concedes the cost of a second elevator fairly;
+      it never directly answers her belief that the company has handled the outages
+      well, beyond pointing to the repeated promise.
+    fit: It is a proper open letter to the company at roughly 430 words, close to
+      the 400 requested, and it suits both the lobby posting and the press.

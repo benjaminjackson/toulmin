@@ -1,0 +1,13 @@
+{
+  "task": "sales-salon-bookkeeping",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-06-39Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "including the ones who'd been with me for years",
+      "why": "The brief only mentions 'existing clients' and references 'last year' and 'last tax season', without stating how many years any client has been with the bookkeeper."
+    }
+  ],
+  "invented_count": 1
+}

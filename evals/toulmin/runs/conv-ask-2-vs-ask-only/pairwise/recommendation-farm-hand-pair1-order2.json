@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-34-54Z",
+  "without_skill_run": "2026-11-16T20-24-13Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A reads a bit more forcefully, but it says he missed only two shifts without mentioning the five-week absence, which makes it misleading. Document B states the absence openly and presents it as evidence that he keeps his word, so it persuades just as well and stays honest."
+}

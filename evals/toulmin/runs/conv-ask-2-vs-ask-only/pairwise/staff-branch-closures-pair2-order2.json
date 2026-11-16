@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-36-30Z",
+  "without_skill_run": "2026-11-16T20-25-10Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks to what we fear most about phone work by naming the phone team's 30% turnover and tying it to the six-month severance option, and it is signed by a named person. That makes B feel more honest and makes staying worth a try. A covers the same commitments, but it skips the turnover and is signed with a '[Your name]' placeholder, so it feels more like a form letter."
+}

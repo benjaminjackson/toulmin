@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-34-49Z",
+  "without_skill_run": "2026-11-16T20-02-05Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A owns up to the four-month-late shelving report, explains why it happened, names Dave Lin as responsible for the final report and commits to quarterly fresh-food figures. It also discloses the $4,500 a year in unbudgeted operating costs and doesn't claim the farms will give the same amount again. B calls this our 'second investment' without mentioning the report I had to chase, leaves out operating costs and counts on another 9,000 pounds, so as Marisol I'd trust A and hesitate on B."
+}

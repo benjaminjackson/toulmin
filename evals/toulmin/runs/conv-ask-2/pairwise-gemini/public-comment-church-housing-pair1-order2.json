@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-04-19Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses the two hesitant commissioners' main concern by offering a concrete, enforceable solution (making the builder-funded traffic signal a condition of approval to keep the intersection at a C rating), whereas Document A dismissively tells angry neighbors they can just handle a slower light. Document B also builds massive credibility in a hostile room by acknowledging real existing backups, construction disruption, and concrete neighbor concessions."
+}

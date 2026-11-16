@@ -1,0 +1,52 @@
+grader: judge
+graded: '2026-11-16T20:23:59.387183+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 482
+  tags: []
+  notes: extracted 482 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 5
+    objections: 6
+    fit: 7
+  details:
+    agree: 'Marisol gets a direct answer on the late report: a named treasurer, a
+      30-day deadline and quarterly updates. She would still hesitate because the
+      $4,500 yearly running cost has no stated funding source and reserves would fall
+      to $11,000.'
+    honest: The writer correctly drops the doubling claim, but adds small unsupported
+      details such as 'a short drive away' and 'not been able to solve any other way.'
+    works_the_facts: It correctly works out 3,000 lb a month, up to a 50% seasonal
+      increase, 72,000 lb a year and about 12% annually, and it presents the $18,000
+      match as more than a quarter of the van's cost.
+    right_comparison: The alternative of continuing to turn down cold produce is described
+      accurately, though the cost of doing nothing is stated only for one summer.
+    qualification: The 'target, not a guarantee' hedge sets no pound figure to check
+      against the quarterly reports and says nothing about what happens if it is missed,
+      although the report deadline is concrete.
+    objections: It fully answers the late-report concern, but it raises the $4,500
+      yearly cost without saying who pays it and leaves the thin reserve unaddressed.
+    fit: It is a narrative of roughly 500 words with clear sections, but it leaves
+      '[Food Bank Name]' as a placeholder even though the name was available.

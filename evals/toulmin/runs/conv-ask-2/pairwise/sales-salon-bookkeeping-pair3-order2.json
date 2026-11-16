@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-37-17Z",
+  "without_skill_run": "2026-11-16T20-06-39Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B tells me straight away that my cousin keeps doing my taxes and just gets clean books from Carla, so I'm not cutting him out. It also says she managed a salon herself, that any month she misses the 10th is free, and that there's no contract. A only admits she was late three times and gives me nothing to fall back on if it happens again."
+}

@@ -1,0 +1,52 @@
+grader: judge
+graded: '2026-11-16T20:37:42.164738+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 347
+  tags: []
+  notes: extracted 347 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 8
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 5
+    objections: 8
+    fit: 9
+  details:
+    agree: A quick reader gets concrete proof of reliability and technical aptitude
+      (solo 3 a.m. shift, software use, $8,000 saved) and sees the weaknesses dealt
+      with openly, so even a skeptical member would likely rank him well.
+    honest: Every fact matches what the manager supplied, and the weaknesses are stated
+      plainly, but 'spots trouble before anyone else does' and 'one of the most dependable'
+      go slightly beyond the record.
+    works_the_facts: The $8,000 figure is used well, but 'missed two shifts in three
+      years' is never turned into its stronger form (about 2 of roughly 780 solo shifts),
+      and the weekly hours of the night class and shift are not shown.
+    right_comparison: The letter places him against the program's target student,
+      but it never compares him with a typical applicant or worker, and it doesn't
+      show how his work has improved over the three years.
+    qualification: A recommendation letter needs no conditional hedge, and the weekend-job
+      offer and the phone number are firm commitments, not qualifications.
+    objections: The two concerns a committee would raise, the five-week absence and
+      his weak written English, are each answered with mitigating facts (cover arranged,
+      returned on time, night class, passed the retest) and nothing is left hanging.
+    fit: It is a one-page letter from the farm manager, with a clear structure and
+      contact details, which is exactly what was asked for.

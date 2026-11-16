@@ -1,0 +1,17 @@
+{
+  "task": "sales-salon-bookkeeping",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-37-17Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "including the ones who'd been with me for years.",
+      "why": "The brief only says the price was raised for 'existing clients' and does not state that clients had been with her for years."
+    },
+    {
+      "quote": "Nobody left over the new price.",
+      "why": "The brief says two clients left last year because they sold their salons, and that the price was raised in January, but it does not say whether anyone left after the January price increase."
+    }
+  ],
+  "invented_count": 2
+}

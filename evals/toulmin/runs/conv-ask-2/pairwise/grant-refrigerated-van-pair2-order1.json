@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-33-23Z",
+  "without_skill_run": "2026-11-16T20-01-17Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives a reason the report was late, names Dave Lin as the person responsible for the next one, commits to quarterly numbers, and admits the $4,500-a-year operating cost up front. Its fresh-food projection also stays within what the farms' offers support. B still has unfilled placeholders, says nothing about the operating cost, and claims \"at least 9,000\" pounds will come in, which is more than anyone can promise."
+}

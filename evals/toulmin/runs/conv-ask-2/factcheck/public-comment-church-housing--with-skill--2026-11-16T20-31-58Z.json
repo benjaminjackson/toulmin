@@ -1,0 +1,13 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-31-58Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "They'd be built and run by Cascade Housing Partners, a nonprofit.",
+      "why": "The provided information states that Cascade Housing Partners is the builder, not that it will also run or manage the apartments."
+    }
+  ],
+  "invented_count": 1
+}

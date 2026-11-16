@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-37-17Z",
+  "without_skill_run": "2026-11-16T20-26-05Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B says outright that it doesn't do income tax returns and that my own accountant keeps doing those, so I can keep my cousin and he gets cleaner books, which removes my biggest worry. It also says there's no contract and only about five openings this year, both of which make booking the call feel low-risk. A never says how it would fit with my cousin."
+}

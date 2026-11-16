@@ -1,0 +1,61 @@
+grader: judge
+graded: '2026-11-16T20:04:20.893313+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 385
+  tags: []
+  notes: extracted 385 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 5
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 4
+    objections: 7
+    fit: 6
+  details:
+    agree: The calm tone and the 74-of-112 figure push back on her view that this
+      is a few loud people, but the letter leaves out the dialysis appointments, the
+      stair chair and the rent credit. It also offers no commitments from the association,
+      so its asks are vague enough that she could answer them with a status update
+      and still feel the outages were handled well.
+    honest: Most claims stay within the facts and are hedged ('may be unable'), but
+      'Five months later' assumes a timeline the brief doesn't give, and details like
+      carrying children and visiting family are added colour, not supplied facts.
+    works_the_facts: It works out the two-thirds share and contrasts the six-to-eight-week
+      promise with months of waiting, but it never turns 41 days into a rate (more
+      than one day in nine so far this year) or projects what happens if the part
+      keeps slipping.
+    right_comparison: It shows the status quo fairly as a part that is 'always six
+      to eight weeks away' and separates passing inspection from reliability, but
+      it doesn't show any trend in outages or the stakes of carrying on as now.
+    qualification: The safety hedge is well drawn, but the one deadline is a '[date]'
+      placeholder, and no ask names a checkable date or says what the association
+      will do if it is missed (for example, the Channel 7 visit).
+    objections: It meets the passing inspection and the infeasibility of a second
+      elevator head-on without overclaiming, and the 74 signatures answer the 'loud
+      few' view. It doesn't answer the claim that management has handled things well
+      by offering the association's own help, such as the stairs-assistance list or
+      evening meetings.
+    fit: It is about the right length for an open letter, but it uses bracketed placeholders
+      for the building, company, manager, secretary and dates, even though the writer
+      was given those names, so it isn't ready to post in the lobby or send to the
+      TV station.

@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:34:12.132324+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 462
+  tags: []
+  notes: extracted 462 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 5
+    objections: 7
+    fit: 9
+  details:
+    agree: The plain apology, the dated commitment and the frank account of the risk
+      would likely earn the call. But the generic 'thank you for your patience' and
+      the lack of any decision on runway leave a cold lead investor without a reason
+      to back the company again.
+    honest: The figures are accurate. However, 'I haven't decided whether we raise,
+      cut burn or aim for break-even' and 'the result clinics care about most' are
+      claims the brief doesn't support.
+    works_the_facts: 'It works out several useful figures: 11 months of runway, the
+      lost chain at 13% of revenue, no-shows nearly halved, and $900 against the burn.
+      It does not show that the $3,800 at risk is about 9% of MRR, or what runway
+      would be if that revenue left.'
+    right_comparison: '''If nothing changes, we run out in about 11 months'' is stated
+      correctly. But it doesn''t connect the flat MRR trend to the other two records-system
+      customers possibly leaving, so the do-nothing case looks better than it may
+      be.'
+    qualification: It names a date (January 7) and a runway deadline. But the reminder
+      launch has no target and no consequence if it falls short, and 'decide soon'
+      has no date.
+    objections: It deals directly with the skipped updates and the records-system
+      threat. It doesn't address the lead investor's next-round right or explain why
+      this reader in particular should keep backing the company.
+    fit: It is a clear investor email with sections, under 500 words, written for
+      11 recipients.

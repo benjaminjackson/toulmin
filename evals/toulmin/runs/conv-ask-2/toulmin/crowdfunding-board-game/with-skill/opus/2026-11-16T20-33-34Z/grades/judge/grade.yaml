@@ -1,0 +1,60 @@
+grader: judge
+graded: '2026-11-16T20:34:57.341169+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 483
+  tags: []
+  notes: extracted 483 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 7
+    objections: 6
+    fit: 7
+  details:
+    agree: The candid admission about the ratings and the refund and update commitments
+      would reassure a wary backer who has lost money before, but the vague budget,
+      the missing game title and creator name, and the omitted launch-week reviewer
+      video leave real gaps for this reader.
+    honest: The 'proven hit' claim is tempered by an open disclosure that the raters
+      had met the creator, but 'more than twice the backers it needs have already
+      raised their hands' treats email signups as near-backers, and 'refused to send
+      it out until it was right' adds colour the facts don't support.
+    works_the_facts: 'The 572-backer and ''fewer than half of signups'' figures are
+      correct and well framed, but the draft never works out the budget: $17,400 for
+      printing, $9 shipping and about $2,800 in fees against $28,000, which leaves
+      roughly $2,650 at goal. It also hand-waves ''the rest of the goal'' and never
+      explains 1,500 copies against 572 backers.'
+    right_comparison: The only comparison is signups against backers needed. There
+      is no clear picture of what happens if the goal is missed or how this risk compares
+      with the reader's other options.
+    qualification: The refund pledge names a month (November 2027), a threshold (three
+      months late) and a consequence (a full refund on request), but it doesn't state
+      the actual cutoff date (February 2028) or the campaign dates.
+    objections: The first-time-creator objection is met head-on with commitments,
+      but the burned backer's central question, whether $28,000 really covers printing,
+      shipping and fees, goes unanswered, and the independent reviewer video that
+      would answer 'only friends rated it' is left out.
+    fit: It is a crowdfunding pitch of about 500 words with sensible sections, but
+      it never names the game (Lantern Winter) or the creator, which a campaign pitch
+      needs.

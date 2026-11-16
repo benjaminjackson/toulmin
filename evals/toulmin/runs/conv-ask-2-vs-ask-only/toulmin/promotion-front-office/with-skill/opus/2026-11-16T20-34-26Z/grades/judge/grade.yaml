@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T20:35:41.572711+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 399
+  tags: []
+  notes: extracted 399 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 5
+    right_comparison: 7
+    qualification: 6
+    objections: 8
+    fit: 8
+  details:
+    agree: The memo answers the GM's renovation belief head-on with the 8.2 pre-renovation
+      figure and is open about the budget gap, so a reader who likes Daniela would
+      take her seriously, though it may not be enough to beat the bigger-hotel candidate.
+    honest: It drops the brief's unsupported 'main reason' claim, says outright 'I'm
+      not claiming the whole increase,' and every number matches the facts it was
+      given.
+    works_the_facts: 'The figures appear in their raw form and are never turned into
+      stronger true versions: about 43% of the score rise came before the renovation,
+      turnover dropped from 64% to 36%, and training time was cut by 44%.'
+    right_comparison: "It sets the renovation explanation against the score trend\
+      \ before the renovation and sets the outside candidate against Daniela's knowledge\
+      \ of this property, but it never compares the 7.9\u21928.2 pace with the 8.2\u2192\
+      8.6 pace."
+    qualification: The budget commitments can be checked (finance course within three
+      months, weekly sessions with the controller), but the memo doesn't say what
+      should happen if she misses them, and the Friday-wait goal has no number attached.
+    objections: It deals with the renovation, the budget gap and the larger-hotel
+      experience directly and doesn't raise any objection the facts already settle.
+    fit: It's a short memo to the GM, dated for Friday, and it fits on about one page
+      as asked.

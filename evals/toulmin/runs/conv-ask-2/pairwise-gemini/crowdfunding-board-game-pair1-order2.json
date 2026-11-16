@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins my trust as a cautious backer by explicitly stating that the rules and art are already finished, avoiding feature creep with a 'no stretch goals' policy, and offering concrete commitments like bi-weekly updates and a late-delivery refund guarantee. Document A has better thematic flavor, but it leaves out critical timeline and accountability details while adding minor unverified fluff about the playtesters."
+}

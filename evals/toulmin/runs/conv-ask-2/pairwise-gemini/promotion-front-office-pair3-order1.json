@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-34-26Z",
+  "without_skill_run": "2026-11-16T20-05-06Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A uses specific facts—that scores rose from 7.9 to 8.2 before the renovation started, that overtime stayed under plan during the last seven weeks, and that our controller Ben Oduya has already offered weekly budget sessions—to directly answer my doubts about the renovation and the $1.1M budget. Document B relies on unfilled placeholders and expects me to hand-hold her through the budget rather than presenting a self-sufficient plan."
+}

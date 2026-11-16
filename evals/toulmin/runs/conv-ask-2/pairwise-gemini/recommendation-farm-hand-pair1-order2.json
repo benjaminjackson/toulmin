@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-34-54Z",
+  "without_skill_run": "2026-11-16T20-04-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B includes concrete, persuasive details that make the applicant stand out in a large pool: the $8,000 saved by his software use, the fact that he arranged trained coverage before leaving for a family emergency, and the manager's commitment to keep him employed part-time during the program. Document A lacks these specifics and invents details not in the brief (that he learned the software and enrolled in night school entirely on his own initiative)."
+}

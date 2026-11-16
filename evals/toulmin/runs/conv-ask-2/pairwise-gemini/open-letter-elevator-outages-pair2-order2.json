@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-33-13Z",
+  "without_skill_run": "2026-11-16T20-03-40Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B drops the impossible $400,000 second elevator demand in favor of practical interim measures, and it offers helpful cooperation from the association rather than just making demands. Furthermore, explicitly naming me, the property, and Channel 7 makes the PR threat immediate and forces me to take them seriously and act now."
+}

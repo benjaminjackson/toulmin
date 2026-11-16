@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T20:38:47.231857+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 442
+  tags: []
+  notes: extracted 442 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 4
+    right_comparison: 7
+    qualification: 8
+    objections: 7
+    fit: 8
+  details:
+    agree: A long-tenured teller who dislikes phones gets a guaranteed job, seniority-based
+      shift choice, and a six-month exit with severance, so many would try the role,
+      but the vague 'same pay or higher' and no acknowledgement of the rumours leave
+      some of them unconvinced.
+    honest: It drops the unsupported 'better for everyone' claim, invents nothing,
+      and says plainly that 9-to-5 hours can't be promised.
+    works_the_facts: It leaves out the $1.50/hour raise, which would read better as
+      about $3,000 a year, and gives no severance example such as 10 years = 20 weeks'
+      pay, so the strongest true figures go unused.
+    right_comparison: It sets the 44% drop in branch visits against the 60% rise in
+      phone and chat contacts and the 9-minute hold, and it presents severance fairly
+      as the other choice, though it doesn't say what happens if nothing changes.
+    qualification: 'The conditions can be checked: offers by February 14, a decision
+      by March 1, work from home after 90 days of training, and a six-month window
+      to leave with severance, each with a clear consequence.'
+    objections: It deals with evening shifts, the wish to see members in person, and
+      seniority, and the trial period answers the fear of phone work, but it never
+      mentions the two weeks of rumours or puts a number on the pay.
+    fit: It is a COO email of about 420 words, close to the 400 asked for, but the
+      signature has no name (Rachel Greene) and the credit union isn't named.

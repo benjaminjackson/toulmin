@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T20:36:47.426655+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 390
+  tags: []
+  notes: extracted 390 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 6
+    objections: 7
+    fit: 8
+  details:
+    agree: A quick-reading committee member gets concrete, uncommon evidence (sole
+      3 a.m. shift, software-flagged mastitis worth about $8,000, a covered emergency
+      absence), but the garbled sentence "which is good" on written English is the
+      line a doubtful reader stops at.
+    honest: 'The core facts are accurate, but some details are mildly embellished
+      beyond the brief: "Nobody else is on the farm at that hour," his responsibility
+      for "anything that goes wrong," and his father becoming "seriously" ill.'
+    works_the_facts: The $8,000 figure is used well, but the letter never turns "two
+      missed shifts in three years" into its stronger form (about 780 scheduled shifts,
+      two missed) and never counts the roughly 25 shifts his cousin covered.
+    right_comparison: The letter links his work to what the program teaches but gives
+      no comparison to other workers or to typical applicants that would help this
+      one stand out among about 150.
+    qualification: The written-English caveat names a weakness, a remedy (the night
+      class) and evidence (passing the safety test on the second try), but gives no
+      checkable date or progress measure, and its key sentence is muddled.
+    objections: The likely objections about reliability (the 5-week absence) and written
+      coursework are each raised and answered with facts, though the botched phrase
+      partly undercuts the answer on English.
+    fit: It is a one-page letter from the farm manager with a callback number, as
+      the brief asked, though it has no date and only a bare letterhead.

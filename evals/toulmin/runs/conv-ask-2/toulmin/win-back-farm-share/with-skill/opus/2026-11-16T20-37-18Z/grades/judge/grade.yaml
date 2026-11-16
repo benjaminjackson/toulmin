@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:38:09.299450+00:00'
+outcome: pass
+score: 0.85
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 206
+  tags: []
+  notes: extracted 206 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.85
+  metrics:
+    agree: 8
+    honest: 9
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 8
+    objections: 8
+    fit: 8
+  details:
+    agree: A household that left because the farm went quiet and gave no credit gets
+      a plain apology and two concrete fixes for exactly those failures, so it would
+      seriously consider signing up again.
+    honest: Every claim matches the brief and the facts the user supplied, including
+      the limits of the nets and the refusal to promise no loss, and no number is
+      invented.
+    works_the_facts: 'The figures are only repeated, never worked out: the email doesn''t
+      show that the new rule would have credited roughly $74 for last summer''s six
+      half-boxes (about $24.50 a week), and it leaves out the survey result that 29
+      of 41 said they''d return on this fix.'
+    right_comparison: The email sets this year against last year's handling but never
+      compares what the reader gives up or risks by not signing up, and it doesn't
+      show what last summer would have looked like under the new credit rule.
+    qualification: 'The hedges are concrete and checkable: credit kicks in when a
+      box is cut by more than a third, emails go out every Thursday, the nets don''t
+      cover the greens, and sign-up closes March 15 with 52 shares left, though it
+      doesn''t say how a one-third cut is measured.'
+    objections: Both halves of the reader's complaint, the silence and the lack of
+      credit, are answered head-on, and the email doesn't stop to argue objections
+      the facts already settle.
+    fit: It is a properly formed email of about 195 words, just under the 200-word
+      limit, but a stray '</invoke>' tag is left at the end.

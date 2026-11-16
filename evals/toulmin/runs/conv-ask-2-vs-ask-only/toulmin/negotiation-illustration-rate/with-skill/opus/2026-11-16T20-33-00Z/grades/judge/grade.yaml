@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T20:33:58.711641+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 227
+  tags: []
+  notes: extracted 227 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 7
+    objections: 5
+    fit: 8
+  details:
+    agree: An editor who likes Elena will likely offer something more because of the
+      sales record, the reading-list book, the extras and the clear line at $9,000,
+      but $11,500 is $2,500 over budget and $3,500 above the newer illustrator, so
+      a counteroffer near $10,500 to $11,000 is more likely than a straight yes.
+    honest: The email correctly drops the unsupported claim that every other publisher
+      pays at least $12,000 and invents no figures, though 'the market has moved too'
+      suggests a trend over time that one recent fee and the agent's range don't prove.
+    works_the_facts: It uses the facts well, including the fourth printing, that $9,000
+      falls below the range and that $11,500 is less than the $12,500 she was paid,
+      but it never states that six books over four years at a flat fee means no raise,
+      and it doesn't work out what four months of work pays.
+    right_comparison: Comparing her fee with the other publisher and the agent's range
+      is accurate, but the email doesn't address the editor's real alternative, a
+      cheaper and unproven illustrator, and the 'market has moved' trend isn't supported
+      by the facts.
+    qualification: The commitments are concrete and checkable (sketches six weeks
+      after signing, final art by September 1, two spot drawings) and the $9,000 refusal
+      is clear, but the email omits the reply deadline and doesn't name The Night
+      Garden.
+    objections: Sales results and free extras partly answer 'why pay more,' but the
+      email never addresses the editor's fixed $9,000 budget or why her proven record
+      is worth more than a newer illustrator at $8,000.
+    fit: It's a warm, well-organised email of about 230 words, under the 250-word
+      limit, though the subject line could name the book.

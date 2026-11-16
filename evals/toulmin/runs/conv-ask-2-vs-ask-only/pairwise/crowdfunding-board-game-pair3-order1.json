@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-34-57Z",
+  "without_skill_run": "2026-11-16T20-23-48Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "As someone who's lost money on a first-time creator, I trust A more because it says outright that most of the 8.1 ratings came from people who played at the designer's own table. B leaves that out and calls the ratings 'as close to proof as you can get,' which reads as spin, although B's layout and cost table are more appealing."
+}

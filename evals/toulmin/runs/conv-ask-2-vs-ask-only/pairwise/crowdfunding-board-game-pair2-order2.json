@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-33-34Z",
+  "without_skill_run": "2026-11-16T20-22-44Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who's lost money on a pledge, I'd be most reassured by B: it promises a November 2027 delivery date, a full refund if the game ships more than three months late, and an update every two weeks, and it admits most of the ratings came from people who'd played at the designer's table. A gives a nicer budget breakdown but says nothing about refunds, updates or a delivery date. B does push a little by calling email signups 'raised hands' for backing, but it's still the one I'd trust."
+}

@@ -1,0 +1,41 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-04-19Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I drive through that intersection every day",
+      "why": "The brief states the speaker lives on Alder Road two blocks from the church, not that they drive through the intersection of Alder and 4th every day."
+    },
+    {
+      "quote": "A D rating means a longer wait at the light during peak hours.",
+      "why": "The brief does not mention a traffic light currently existing at Alder and 4th (and the user's background notes show there is no traffic signal there yet)."
+    },
+    {
+      "quote": "These are the people on that waiting list.",
+      "why": "The brief states the apartments will rent to households earning under 60% of the area median income and that 412 households are on the waiting list, but does not state the apartments are filled from that waiting list."
+    },
+    {
+      "quote": "They're people who already work here, including cashiers, home health aides, teachers' aides, and seniors on fixed incomes.",
+      "why": "The brief gives no information about the employment status, occupations, or age of the prospective tenants or people on the waiting list."
+    },
+    {
+      "quote": "It's already paved",
+      "why": "The brief calls the site a back parking lot, which could be gravel or unpaved rather than paved."
+    },
+    {
+      "quote": "I've watched this neighborhood change over 19 years",
+      "why": "The brief states the speaker has lived on Alder Road for 19 years, but does not say whether or how the neighborhood has changed."
+    },
+    {
+      "quote": "Some of the people who would live here already worship at this church, shop on 4th Street, and work in this county.",
+      "why": "The brief does not say anything about who the future residents are, where they worship or work, or whether there are shops on 4th Street."
+    },
+    {
+      "quote": "My neighbors and I can handle a slower light at Alder and 4th.",
+      "why": "The brief does not mention an existing traffic light at Alder and 4th, nor does it state how the neighbors feel about the traffic delay."
+    }
+  ],
+  "invented_count": 8
+}

@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T20:38:18.893107+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 309
+  tags: []
+  notes: extracted 309 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 3
+    qualification: 8
+    objections: 4
+    fit: 9
+  details:
+    agree: The page is clear and credible, but an owner who pays her cousin $600 a
+      year sees $199 a month and finds nothing saying why that's worth over three
+      times as much, so she may not book.
+    honest: 'Every figure matches the brief and what the user knew, with two small
+      stretches: "One of them saved $800" turns a client''s report into a fact, and
+      "you get me every time" goes slightly past what the brief says.'
+    works_the_facts: 'The numbers are given raw: it never says the yearly cost ($2,388),
+      and it doesn''t put retention in its best true form, such as every client who
+      still owned a salon stayed, or 2 losses out of 33.'
+    right_comparison: This reader's real alternative is a relative doing the books
+      once a year at tax time, with no monthly close, no payroll and no sales tax
+      filing, and the page never describes that alternative or what it costs her.
+    qualification: 'The guarantee is concrete and checkable: books closed by the 10th
+      or that month is free, starting in January, backed by an honest count of 3 misses;
+      the 30-day exit and the 5-client cap are also specific.'
+    objections: '"Your accountant keeps doing those" partly covers the loyalty worry,
+      since the cousin can keep doing her taxes, but the main objection, the price
+      against $600 a year, is never addressed.'
+    fit: At about 330 words with clear sections and a booking button at the end, it
+      matches the length and form the brief asked for.

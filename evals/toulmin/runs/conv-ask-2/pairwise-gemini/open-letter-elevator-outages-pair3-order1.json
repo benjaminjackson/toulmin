@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-34-28Z",
+  "without_skill_run": "2026-11-16T20-04-20Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gets my immediate attention because it names me and the company directly, points out that 74 households represent a full two-thirds majority rather than just a few loud voices, and includes the alarming detail about a resident missing two dialysis appointments. Its concrete demands—especially for a stair-climbing chair—give me something specific and actionable to respond to before this turns into a PR disaster."
+}

@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T20:36:11.717995+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 478
+  tags: []
+  notes: extracted 478 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 7
+    honest: 6
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 5
+    objections: 6
+    fit: 9
+  details:
+    agree: The draft answers the late shelving report head-on, names a responsible
+      person and promises quarterly totals, so Marisol has reason to recommend it,
+      though the unfunded $4,500 a year may still give her pause.
+    honest: The doubling claim is correctly dropped, but 'it went to waste', 'no one
+      else was assigned' and 'the single biggest thing holding back' are claims the
+      brief doesn't support.
+    works_the_facts: It correctly works out 3,000 lb a month as a 50% rise in fresh
+      food during harvest months and puts the figure in that favourable form, but
+      it never states the yearly effect or shows that the $11,000 left in reserve
+      could carry the running costs.
+    right_comparison: The status quo is described as continuing to turn food away,
+      which is accurate, but saying the food 'went to waste' goes beyond what the
+      facts show about what happened to it.
+    qualification: It admits the farm offers may not repeat and commits to quarterly
+      totals and a final report due 30 days after the grant year ends, but it sets
+      no target, gives no quarterly dates and says nothing about what happens if fresh
+      pounds fall short.
+    objections: The reporting objection is met well, but the draft raises the unbudgeted
+      $4,500 a year and then leaves it without any plan for paying it.
+    fit: This is a well-sectioned grant narrative of about 475 words, within the 500-word
+      limit.

@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:22:36.329673+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 213
+  tags: []
+  notes: extracted 213 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 5
+    honest: 9
+    works_the_facts: 5
+    right_comparison: 4
+    objections: 4
+    fit: 6
+  details:
+    agree: The sales record and the $12,500 comparison make a credible case, but the
+      email asks for $2,500 over a $9,000 budget and gives nothing back, even though
+      the writer had sketches in six weeks, final art by September 1 and two free
+      marketing spots to offer, so an editor with an $8,000 option may well stall.
+    honest: Every figure traces to the brief, and the email rightly drops the unsupported
+      claim that every other publisher pays at least $12,000; 'well above $9,000'
+      is a slight stretch given the range starts at $11,000.
+    works_the_facts: It correctly places $11,500 in the lower half of the agent's
+      range and notes that the fee has stayed flat over six books, but it never works
+      the numbers further, such as $9,000 over four months coming to about $2,250
+      a month or $11,500 being $1,000 under what another publisher actually paid.
+    right_comparison: 'It compares her fee with outside rates, but not with the editor''s
+      real alternative: an untested illustrator at $8,000 against an illustrator whose
+      list includes a state-reading-list title now in its fourth printing.'
+    qualification: The email is a straightforward request and needs no hedged forecast
+      or condition.
+    objections: The resisting editor's objections, a fixed $9,000 budget and a cheaper
+      newer illustrator, go unanswered; the offer to send supporting material for
+      approval helps a little, but the email gives no reason a proven illustrator
+      is worth the extra cost.
+    fit: It is a polite email of about 210 words, but it uses a '[Your name]' placeholder
+      although her name was available, a generic subject line, never names The Night
+      Garden, and ignores the end-of-next-week reply deadline.

@@ -1,0 +1,21 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-34-29Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Every student must pass a lab safety quiz before working in the lab",
+      "why": "The user only stated that they keep a signed training record for every student's lab safety quiz, not that passing it is required before working in the lab."
+    },
+    {
+      "quote": "records that are signed, dated, complete and ready for audit.",
+      "why": "The provided information only states that the records are signed and have passed two state audits, not that they are dated or complete."
+    },
+    {
+      "quote": "I currently run all five of my classes through Google Classroom.",
+      "why": "The brief states that the user teaches five classes and uses Google Classroom, but does not state that all five classes are run through it."
+    }
+  ],
+  "invented_count": 3
+}

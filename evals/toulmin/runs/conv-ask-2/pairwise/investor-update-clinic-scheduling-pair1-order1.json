@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A tells me why the updates stopped, commits to a dated schedule and monthly numbers, and names the $3,800 a month still at risk, so it addresses my complaint and earns my trust. B apologizes without giving a reason, leaves out the at-risk customers, and still contains [Company] and [Your name] placeholders, so it reads like a template."
+}

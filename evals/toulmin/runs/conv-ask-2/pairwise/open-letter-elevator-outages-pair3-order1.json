@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-34-28Z",
+  "without_skill_run": "2026-11-16T20-04-20Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is addressed to me by name, cites one specific, verifiable harm (the missed dialysis appointments), and admits I may be right about the second elevator, so it is hard to dismiss as a few loud people. B is full of placeholders and makes general claims about missed groceries and emergencies with no examples, which makes it easier to brush off."
+}

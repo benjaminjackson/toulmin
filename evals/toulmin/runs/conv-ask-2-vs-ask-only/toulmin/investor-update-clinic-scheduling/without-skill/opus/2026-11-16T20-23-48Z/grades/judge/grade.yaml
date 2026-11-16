@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T20:24:48.983459+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 425
+  tags: []
+  notes: extracted 425 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 6
+    honest: 5
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 4
+    objections: 6
+    fit: 8
+  details:
+    agree: The plain apology, the January 7 commitment and the offer of monthly numbers
+      would probably calm a cold lead investor enough to take the call, but there
+      is no plan or decision date for the 11 months of runway, so their doubts about
+      the company remain.
+    honest: 'It leaves out the known risk that two customers paying $3,800 a month
+      are on the same records system as the chain that left, it upgrades six clinics
+      that ''said they will buy'' to ''committed'', and it adds claims that weren''t
+      supplied: that the $150 price is untested and that chains are the likeliest
+      buyers.'
+    works_the_facts: It works out runway (about 11 months) and $900 a month from launch,
+      but it doesn't state the no-show cut as nearly half, the lost chain as about
+      13% of revenue, the new revenue the nine clinics brought in, or a date when
+      cash runs out.
+    right_comparison: It names raising versus cutting costs and says revenue is flat,
+      but it never says what happens if nothing changes (cash gone around late 2027)
+      and it hides the trend that more customers on that records system could leave.
+    qualification: It promises to 'report what we learn in January', but sets no number
+      that would count as success for standalone reminders and no deadline for the
+      raise-or-cut decision, so the reader has nothing to check it against.
+    objections: The objection about the missed updates is met head-on with dated commitments,
+      but a skeptical investor's next question, which customers are exposed to the
+      same churn, is avoided, even though the founder knows the answer.
+    fit: It's a well-structured investor email under 500 words with a clear subject
+      line, though it leaves a '[Your name]' placeholder when the founder's name was
+      known.

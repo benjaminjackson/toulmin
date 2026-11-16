@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-03-02Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B addresses me and the property by name, offers concrete cooperation by maintaining an emergency list of mobility-impaired residents, and makes specific, actionable requests rather than demanding we pay for a new engineering study. Signing explicitly on behalf of the 74 petitioning households also forces me to take them seriously as a majority rather than dismissing them as a few loud voices."
+}

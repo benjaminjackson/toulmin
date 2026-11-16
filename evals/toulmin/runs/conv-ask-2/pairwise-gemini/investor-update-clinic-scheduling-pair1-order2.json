@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly owns up to why the founder went dark, gives concrete commitments on future reporting, and lays out the exact financial risks ($3,800 at risk vs. $900 in new commits) without spin. Document A reads like a polished template that hides the ongoing EHR churn risk and makes up a runway decision timeline that the founder hasn't actually committed to."
+}

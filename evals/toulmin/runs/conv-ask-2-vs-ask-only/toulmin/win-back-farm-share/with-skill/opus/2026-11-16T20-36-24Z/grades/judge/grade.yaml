@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:37:17.978734+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 195
+  tags: []
+  notes: extracted 195 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 8
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 7
+    objections: 8
+    fit: 9
+  details:
+    agree: For a household that felt the farm went quiet, a plain apology, a promised
+      weekly email and a written credit rule that fits their exact complaint should
+      move many of them to sign up, though nothing makes up for last year's lost $540.
+    honest: Every fact traces to what the farmer supplied, but 'you'll get credit'
+      in the closing hedge drops the more-than-a-third threshold, and 'many of you'
+      stands in for 29 of 41 respondents.
+    works_the_facts: 'Figures are restated rather than worked: it never says 29 of
+      41 respondents, and it never gives the credit per week (about $24.50 of $540
+      over 22 weeks) or what six half-weeks cost a member last year.'
+    right_comparison: It sets last year's handling (no credit, one email) against
+      this year's rules at the same $540, which is the comparison that matters, but
+      it never shows what the reader faces by staying out or by waiting while the
+      52 shares fill.
+    qualification: The hedge is specific and checkable (a one-third cut triggers a
+      week's credit, a Thursday email, nets only on tomatoes and peppers), though
+      the 'if it happens' line weakens the threshold.
+    objections: It meets 'you went quiet and kept our money' head-on with an apology,
+      weekly emails and a credit rule, and admits loss can recur, but it leaves the
+      reader's possible question about last year's lost value unanswered.
+    fit: It is a short, warm email of about 180 words with a subject line, sign-off,
+      deadline and link location, which matches the brief; it omits that pickup is
+      still Thursdays.

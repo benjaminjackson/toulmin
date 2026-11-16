@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-33-09Z",
+  "without_skill_run": "2026-11-16T20-01-11Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B owns up to the real reason for the silence, sets a hard date for the next update, and offers monthly numbers, which actually starts to rebuild trust. It also honestly lays out the remaining churn risk ($3,800 at risk) and the math problem with the $150 pivot, rather than giving me vague promises and unfilled template brackets like Document A."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-33-23Z",
+  "without_skill_run": "2026-11-16T20-01-17Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses my concerns about their 2023 late report by explaining the hospitalized treasurer, naming the new treasurer responsible (Dave Lin), and committing to quarterly check-ins, while Document A leaves brackets where those crucial details should be. Document B is also commendably transparent about their remaining $11,000 in reserves, the unbudgeted $4,500 operating costs, and the written letters from two farms, which gives me what I need to have an honest conversation with the grants committee."
+}

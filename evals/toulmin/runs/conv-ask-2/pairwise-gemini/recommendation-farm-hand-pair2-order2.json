@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-35-49Z",
+  "without_skill_run": "2026-11-16T20-05-29Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B provides concrete details that make the applicant stand out in a competitive pool: the $8,000 saved by catching mastitis early, arranging his own shift coverage with an experienced replacement before an emergency trip, retaking and passing a failed written safety test, and the manager's commitment to employ him on weekends during the program. Document A lacks these specifics and leaves placeholders where names should be."
+}

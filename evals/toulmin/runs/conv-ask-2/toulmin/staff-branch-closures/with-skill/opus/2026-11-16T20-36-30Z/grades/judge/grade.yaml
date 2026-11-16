@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T20:37:38.929217+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 423
+  tags: []
+  notes: extracted 423 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 6
+    qualification: 8
+    objections: 7
+    fit: 9
+  details:
+    agree: A wary teller who dislikes phones gets a pay raise, first pick of shifts
+      by seniority, and a six-month way out with full severance, so trying the role
+      costs little, though nothing makes phone work itself appealing.
+    honest: It drops the unsupported 'better for everyone' claim and every figure
+      matches the brief; only small framings such as 'Many of you also know' and the
+      generalisation from two branches to 'our members' stretch past the facts slightly.
+    works_the_facts: 'It repeats the raw figures without working them out: $1.50 an
+      hour is about $3,000 a year, a 10-year teller''s severance is 20 weeks of pay,
+      and the 9-minute wait gets worse as contacts keep rising.'
+    right_comparison: It ties the status quo to the trends (44% fewer visits, 60%
+      more contacts, 9-minute holds), but it describes the reader's other choice,
+      severance, only as a rule and never puts it next to staying.
+    qualification: 'Each condition is specific and checkable: offers by February 14,
+      decisions by March 1, a six-month window to leave with severance, and seniority-based
+      shift choice; the letter also states plainly that it cannot promise 9-to-5 hours.'
+    objections: It deals directly with lost 9-to-5 hours, long service and the phone
+      team's 30% turnover, but it never answers the main objection, 'I don't want
+      to work on the phones,' beyond offering a way out.
+    fit: It is an email from the COO of about 420 words with a clear subject line
+      and sections that are easy to scan, as the brief asked.

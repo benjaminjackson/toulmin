@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T20:01:17.383515+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 433
+  tags: []
+  notes: extracted 433 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 4
+    honest: 6
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 2
+    objections: 3
+    fit: 5
+  details:
+    agree: 'Marisol would like the corrected produce math, but she''d see unfilled
+      placeholders exactly where she needs reassurance: the late-report fix, operating
+      costs and the shelving results, so the draft can''t win her recommendation yet.'
+    honest: 'The writer drops the unsupported ''double'' claim and gets the 50% harvest-month
+      and 60%-of-reserves figures right, but it still overreaches in places: ''plenty
+      of fresh food nearby'', ''a few miles'' and ''biggest gap'' are invented or
+      overstated, it says ''accept the farm donations'' as if the farms are sure to
+      offer again, and it promises ''all reports on time'' with nothing behind it.'
+    works_the_facts: The writer correctly works out 16% fresh share, 3,000 lb/month
+      against 6,000 (+50% in harvest months) and 62% of reserves, but leaves out the
+      annual effect (about 12.5%) and the $11,000 remaining reserve, and leaves the
+      $4,500 yearly cost blank.
+    right_comparison: The status quo of turning down cold produce is described accurately,
+      but nothing says what happens to fresh share or donor relationships if nothing
+      changes.
+    qualification: There's no hedge on the uncertain repeat of farm offers, and the
+      two farm letters that could anchor one go unused; there are also no quarterly
+      reporting dates, no named report owner and no consequence if a target is missed.
+    objections: Marisol's main worries are the late report and whether the pantry
+      can afford to run the van, and both are left as brackets even though the hospitalized
+      treasurer, Dave Lin's 30-day commitment, quarterly reports and the $4,500 cost
+      were all available.
+    fit: It's under 500 words with sensible grant sections, but the bracketed name,
+      town, costs and history placeholders mean it isn't a finished narrative.

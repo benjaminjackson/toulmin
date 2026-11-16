@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-21-45Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me the name and signature, and its analysis is sharper: it shows the rest of the base grew about 15%, shows revenue would fall to $37,200 if the at-risk customers leave, and explains why standalone reminders could protect against losing customers to built-in schedulers. That makes me more willing to take Sam's call, even though 'I don't know why those three left' and 'chains are where we grow fastest' go beyond the facts given. B is honest and gives a good reason for the call, but its [Company] and [Your name] placeholders look careless to an investor who is already annoyed about the missed updates."
+}

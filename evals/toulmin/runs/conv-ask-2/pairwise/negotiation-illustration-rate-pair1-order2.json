@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-02-34Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me a firm line (she won't do it at $9,000), mentions the fourth printing, and adds things I can take to my boss: a committed schedule and two free marketing spots. Those make $11,500 easier to approve over the $8,000 option. A is warm, but it reads as an unfinished template with placeholders and offers nothing beyond the request."
+}

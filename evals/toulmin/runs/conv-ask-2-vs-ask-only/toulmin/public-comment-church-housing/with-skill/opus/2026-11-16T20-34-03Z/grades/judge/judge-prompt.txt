@@ -1,0 +1,67 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+The five members of the county planning commission, who vote tonight on the permit, and the 60 or so neighbours in the room. Most of the neighbours oppose the project, and two commissioners have said at earlier hearings that traffic on Alder Road is their main concern.
+</reader>
+
+<brief>
+I'm going to speak at our county planning commission tonight in favor of a housing project, and I want help writing what I'll say. The church I belong to wants to build 64 apartments on its back parking lot. All of them would rent to households earning under 60% of the area median income.
+
+Facts:
+- The church lot is 1.8 acres and sits empty 6 days a week.
+- The county's own housing report says we are short about 2,100 affordable homes.
+- The traffic study estimates 310 more car trips a day on Alder Road, and says the intersection at Alder and 4th would drop from a C rating to a D at rush hour.
+- The plan has 72 parking spaces for the 64 units.
+- 412 households are on the county housing authority's waiting list. The average wait is 3 years.
+- I've lived on Alder Road for 19 years, two blocks from the church.
+
+Each speaker gets 3 minutes.
+</brief>
+
+The user also knew the following and gave some of it to the writer when asked:
+<user_knows>
+- I'm Margaret Shaw. The church is St. Luke's Lutheran. The builder is a nonprofit, Cascade Housing Partners.
+- The builder has offered to pay for a traffic signal at Alder and 4th. The traffic study says that keeps the intersection at C.
+- Building would take about 20 months, with trucks on Alder Road.
+- Some mornings around 8, traffic on Alder already backs up past my house.
+- The church can commit, and has put in writing, that neighbors can use the lot for parking on weekdays when there is space.
+- I can commit to serving on the neighbor group the church has promised to set up during construction.
+- I cannot promise traffic will not get worse.
+- What I want tonight: approval of the permit, with the traffic signal as a condition.
+</user_knows>
+
+<document>
+Good evening, Commissioners. My name is Margaret Shaw. I've lived on Alder Road for nineteen years, two blocks from St. Luke's Lutheran. I'm also a member of St. Luke's, and I want you to know that up front.
+
+I'm asking you to approve the permit for the 64 apartments on St. Luke's back lot, with a traffic signal at Alder and 4th as a condition of approval.
+
+Your own housing report says this county is about 2,100 affordable homes short. Right now, 412 households are on the housing authority's waiting list, and the average wait is three years. Every one of these 64 apartments would rent to a household earning under 60 percent of the area median. That's a home for about one in six of the families on that list.
+
+And it would go on land that is already paved and sits empty six days a week. You won't find a site that asks less of a neighborhood than a parking lot that's already there.
+
+I know the worry about traffic, because I live with it. Some mornings around eight, cars back up past my house. The traffic study says this project would add about 310 trips a day on Alder, roughly five per household. It says that without changes, Alder and 4th would drop from a C to a D at rush hour. That's real, and I won't stand here and promise you Alder Road will never get busier.
+
+But the same study says that with a signal, that intersection stays at C. Cascade Housing Partners, the nonprofit builder, has offered to pay for that signal. So I'm asking you to hold them to it and make the signal a condition of the permit.
+
+On parking, the plan has 72 spaces for 64 apartments, more than one per home. And St. Luke's has put in writing that neighbors can park in the lot on weekdays when there's room.
+
+Construction will take about twenty months, and there will be trucks on Alder Road. The church has promised to set up a neighbor group for that period, and I've committed to serving on it.
+
+If you say no, the lot stays empty six days a week and those 412 households keep waiting. If you say yes, with the signal as a condition, 64 of them get a home and Alder and 4th keeps the C rating it has today.
+
+Please approve the permit, with the signal as a condition. Thank you.
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

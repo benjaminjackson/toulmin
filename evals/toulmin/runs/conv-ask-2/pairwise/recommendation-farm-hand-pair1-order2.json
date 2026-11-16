@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-34-54Z",
+  "without_skill_run": "2026-11-16T20-04-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is more convincing because it gives concrete facts. It names the vet's estimate of $8,000 saved, says he arranged cover before his five-week absence and came back on the day he promised, commits to a weekend job and gives a phone number. A still has unfilled placeholders, and it describes the absence vaguely without mentioning the short notice or how he handled it."
+}

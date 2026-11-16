@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-34-57Z",
+  "without_skill_run": "2026-11-16T20-02-19Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is more convincing to me as a wary backer. It says most of the 8.1 rating came from people who played at the creator's table, does the budget math out loud (about $25,350 in costs against the $28,000 goal) and gives a firm November date. B has unfilled placeholders, a vague 'small buffer' and implies the ratings came from strangers, so it feels like the polished pitch that burned me before."
+}

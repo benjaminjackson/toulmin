@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:04:50.955256+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 413
+  tags: []
+  notes: extracted 413 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 4
+    honest: 6
+    works_the_facts: 3
+    right_comparison: 3
+    qualification: 3
+    objections: 5
+    fit: 6
+  details:
+    agree: 'The tone is calm and cooperative, but a manager who thinks the association
+      is a few loud people gets nothing that changes her mind: there is no two-thirds
+      share, no dialysis case and no specific dated ask, and the letter offers nothing
+      in return.'
+    honest: Most claims follow the brief, but 'They miss medical appointments' and
+      'some of them can't leave their apartments at all' are stated as general facts
+      that the brief does not supply.
+    works_the_facts: "The raw numbers are repeated without being worked: 74 of 112\
+      \ is two-thirds of households, 41 days is roughly one day in eight so far this\
+      \ year, and a June estimate of 6\u20138 weeks means the part was due by August,\
+      \ yet the letter derives none of these."
+    right_comparison: The letter never says what happens if nothing changes, such
+      as another 12-day outage while the part is still 'on order', and it doesn't
+      use the record of 41 outage days as a trend.
+    qualification: '''Firm, written timeline'' and ''within 30 days'' are the only
+      limits, and neither names a date or says what the association will do if it
+      is missed, even though the 1st-of-month posting and the Channel 7 visit were
+      available as leverage.'
+    objections: It deals well with the inspection certificate by separating safety
+      from reliability, but it leaves the 'a few loud people' view unanswered when
+      74 of 112 households would answer it.
+    fit: It is an open letter of about the right length, but the brackets left for
+      names, building and date make it unready to post or send to TV as it stands.

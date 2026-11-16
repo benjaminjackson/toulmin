@@ -1,0 +1,45 @@
+{
+  "task": "win-back-farm-share",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-37-18Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "You didn't renew your Greenbank Farm share this year",
+      "why": "The brief does not give the name of the farm as Greenbank Farm."
+    },
+    {
+      "quote": "I was working 16-hour days trying to save what was left",
+      "why": "The brief does not mention working 16-hour days to save the remaining crops."
+    },
+    {
+      "quote": "If weather cuts a box by more than a third, you get credit for that week.",
+      "why": "The brief does not mention offering a credit when weather cuts a box by more than a third."
+    },
+    {
+      "quote": "I'll email you every Thursday during the season.",
+      "why": "The brief does not state that the farmer will send an email every Thursday during the season."
+    },
+    {
+      "quote": "The nets don't cover the greens, and I can't promise there will be no crop loss this year.",
+      "why": "The brief does not mention greens or state that the farmer cannot promise there will be no crop loss."
+    },
+    {
+      "quote": "with pickup Thursdays at the farm stand.",
+      "why": "The brief states that people pick up shares every Thursday, but does not say pickup is at a farm stand."
+    },
+    {
+      "quote": "The link is on our website.",
+      "why": "The brief does not mention a website or how people sign up."
+    },
+    {
+      "quote": "Sam Turner",
+      "why": "The brief does not give the writer's name as Sam Turner."
+    },
+    {
+      "quote": "Greenbank Farm",
+      "why": "The brief does not state that the farm is named Greenbank Farm."
+    }
+  ],
+  "invented_count": 9
+}

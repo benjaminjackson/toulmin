@@ -1,0 +1,25 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-00-33Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Q3",
+      "why": "The brief does not specify which quarter the update covers (and the additional context implies it is the end of Q4, as next month is December and the next quarterly update is in January)."
+    },
+    {
+      "quote": "Within the next quarter we'll decide whether to cut burn or prepare to raise, and the standalone reminder numbers will drive that decision.",
+      "why": "Neither the brief nor the user's additional context mentions any plans, timeline, or criteria for deciding whether to cut burn or raise funds."
+    },
+    {
+      "quote": "I'll share our reasoning in the next update.",
+      "why": "The brief does not state that the founder plans to share reasoning about cutting burn or raising money in the next update."
+    },
+    {
+      "quote": "Advice from anyone who has seen a company sell one feature on its own next to a full product: pricing, packaging, and whether it cannibalized the main product.",
+      "why": "The brief does not mention asking investors for advice on selling a standalone feature, pricing, packaging, or cannibalization."
+    }
+  ],
+  "invented_count": 4
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-34-12Z",
+  "without_skill_run": "2026-11-16T20-01-54Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives a candid reason for the silence, a concrete schedule (January 7), the remaining customer risk in dollars, and specific asks. A leaves placeholders unfilled, mentions no dates, and gives a vague apology, so I'd trust B's founder more and be more willing to take that call."
+}

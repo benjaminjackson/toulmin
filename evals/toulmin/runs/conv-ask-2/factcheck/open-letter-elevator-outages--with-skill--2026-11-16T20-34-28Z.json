@@ -1,0 +1,17 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-34-28Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "December 1, 2026",
+      "why": "The user only states that the letter will be posted on the 1st of next month, without giving the month of December or the year 2026."
+    },
+    {
+      "quote": "4. **A feasibility study** for a second elevator, with the findings shared with tenants.",
+      "why": "The user lists only three demands (a written repair date, a stair-climbing chair with trained staff, and a rent credit) and does not state that the association is asking for a feasibility study."
+    }
+  ],
+  "invented_count": 2
+}

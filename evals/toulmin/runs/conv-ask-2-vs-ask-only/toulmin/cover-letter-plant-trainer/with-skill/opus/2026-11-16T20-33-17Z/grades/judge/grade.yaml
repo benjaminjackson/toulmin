@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T20:34:28.965439+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 350
+  tags: []
+  notes: extracted 350 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 5
+    objections: 7
+    fit: 8
+  details:
+    agree: Signed training records, two clean state audits and a training cut from
+      20 to 12 hours give a skeptical HR manager concrete reasons to phone-screen
+      a teacher, but the letter says nothing about when she could start or when she
+      is free to interview, so the manager can't act on it right away.
+    honest: The letter rightly drops the unprovable 'cut your training in half' claim,
+      but 'without leaving out any procedures' and 'every student passes a quiz before
+      working at the bench' are small additions that the facts don't directly support.
+    works_the_facts: 'The numbers appear only in raw form: the letter never says the
+      training was cut 40% (8 hours saved per new teacher), that the pass rate rose
+      17 points (about 40% relative), or that the labs have gone seven years without
+      a serious injury.'
+    right_comparison: The before-and-after comparisons (20 to 12 hours, 41% to 58%)
+      are accurate, but neither one is turned into a size or rate the reader could
+      compare against her own plant.
+    qualification: The GMP gap comes with a checkable completion date of May 2, but
+      the hard June 14 start constraint is left out, and the LMS gap has no timeframe
+      for learning it.
+    objections: The 'teachers don't know regulated work' objection is met head-on
+      with audit-proof signed records and the GMP course, but the reader's practical
+      questions about start date and interview availability go unanswered even though
+      the facts supply the answers.
+    fit: It is a proper one-page cover letter addressed to the named manager, though
+      it has no contact details, and the November date sits oddly beside the spring-break
+      and May course timeline.

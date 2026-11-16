@@ -1,0 +1,43 @@
+I've written the update below. It's about 400 words.
+
+- **Recent sales:** I didn't add up the past quarter's new sales. With MRR flat, that would mean subtracting the $5,500 loss and also guessing at the other three customers you lost, so I just say revenue held steady.
+- **No-show figure:** I left out the sample size because you don't have it to hand. The 13% to 7% drop is your strongest number, so expect investors to ask how many clinics it covers and over what period. If you can get those two figures, add them in one short sentence after it.
+- **The six launch clinics:** together they're $900 a month. I said plainly that this is a start and doesn't close the gap. Investors will do that maths anyway, so it's better they see you've done it.
+- **Signature and subject:** I didn't put a quarter label in the subject or a name under the sign-off. Add both before sending.
+
+<final_document>
+Subject: Investor update — November 2026
+
+Hi all,
+
+This is our first update in six months. I skipped the last two because the numbers were flat and I didn't want to send bad news. That was the wrong call. From now on you'll get an update in the first week of every quarter, and the next one is January 7.
+
+In short, revenue held steady even though we lost our largest customer. We have about 11 months of runway. On December 1 we start selling our text reminders as a standalone product. I'd like 20 minutes on the phone with each of you before the end of the year.
+
+**Numbers**
+- MRR: $41,000, the same as three months ago
+- Customers: 9 added, 4 lost
+- Cash: $480,000
+- Net burn: about $44,000 a month, which gives us roughly 11 months
+
+**The customer we lost**
+Our largest customer was a 12-clinic chain paying $5,500 a month, about 13% of revenue. They moved to the scheduler built into their electronic records system. New clinics made up the loss, which is why MRR is flat and not down.
+
+That risk hasn't gone away. Two other customers use the same records system, and together they pay $3,800 a month. I can't promise they won't leave the same way. Records systems that come with their own scheduler are the biggest threat to our core product.
+
+**What we're doing about it**
+Clinics that use our automatic text reminders have a no-show rate of 7%, down from 13% before they started. That cuts missed appointments almost in half, and it's the result clinics care about most.
+
+From December 1 we'll sell reminders on their own for $150 a month. A clinic won't need to use our scheduler to get them, so we can keep selling to clinics whose records system already includes one. Six clinics have told us they'll buy at launch. That's $900 a month. It's a start, but it doesn't close the gap to our burn. I'm not putting a customer target on it yet. You'll see actual numbers on January 7.
+
+**Runway**
+I haven't decided yet whether we raise, cut burn or aim for break-even. If nothing changes, we run out of cash in about 11 months, so I need to decide soon. I'd value your views before I do.
+
+**Two asks**
+1. **20 minutes on the phone.** Please reply with a time that works for you. I'd like to talk through the runway decision with each of you.
+2. **Introductions to physical therapy clinic chains.** They're the buyers for both the scheduler and the standalone reminders.
+
+If you'd like a one-page set of numbers every month, reply and I'll add you to the list.
+
+Thank you for your patience over the last six months.
+</final_document>

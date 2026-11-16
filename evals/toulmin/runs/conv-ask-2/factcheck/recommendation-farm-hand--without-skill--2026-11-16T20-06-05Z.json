@@ -1,0 +1,25 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-06-05Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "He handles the milking, keeps an eye on the herd and the equipment, and deals with problems before the rest of the crew gets there.",
+      "why": "The brief only says he runs the 3 a.m. milking shift on his own, not that he monitors equipment or resolves problems before the rest of the crew arrives."
+    },
+    {
+      "quote": "Nobody required him to learn it in depth. He did it on his own",
+      "why": "The brief states that he learned the herd management software, not that he did so on his own without being required to."
+    },
+    {
+      "quote": "Tomás speaks English well.",
+      "why": "The brief only states that his written English is weaker than his spoken English, not that he speaks English well."
+    },
+    {
+      "quote": "he works on it without being asked.",
+      "why": "The brief says he is taking a night class for his written English, not that he did so without being asked."
+    }
+  ],
+  "invented_count": 4
+}

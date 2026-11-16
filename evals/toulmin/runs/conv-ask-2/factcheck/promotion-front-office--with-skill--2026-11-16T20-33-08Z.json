@@ -1,0 +1,8 @@
+{
+  "task": "promotion-front-office",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-33-08Z",
+  "checker": "gemini-4-argon",
+  "invented": [],
+  "invented_count": 0
+}

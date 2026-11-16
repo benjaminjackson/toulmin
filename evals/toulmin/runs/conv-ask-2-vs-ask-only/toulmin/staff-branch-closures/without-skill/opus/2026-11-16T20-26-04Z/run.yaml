@@ -1,0 +1,46 @@
+task:
+  name: staff-branch-closures
+  type: staff-announcement
+  set: tune
+  reader: The 14 tellers and member service staff at the two branches that are closing. They heard rumours of the closures two weeks ago, several have worked at their branch for over ten years, and most of them do not want to work on the phones. They decide whether to take the new roles or start looking elsewhere.
+  prompt: 'Help me write an announcement to our staff. I''m the COO of a credit union with 7 branches. We''re closing the Maple Street and Route 9 branches on March 31 and moving the people who work there to a new member phone and chat center.
+
+
+    Facts:
+
+    - The two branches have 14 staff between them. Every one of them is offered a job in the phone and chat center at the same pay or higher.
+
+    - Visits to those two branches fell 44% over the last three years. Phone and chat contacts across the credit union went up 60%.
+
+    - Members calling us now wait an average of 9 minutes on hold.
+
+    - The center will be open 8 a.m. to 8 p.m. on weekdays. The branches were open 9 to 5. Shifts will rotate.
+
+    - Staff in the center can work from home two days a week after 90 days of training.
+
+    - Anyone who doesn''t take the new role gets 2 weeks of pay for every year they''ve worked here.
+
+
+    I want the announcement to say that this change will make everyone''s job better. About 400 words, sent by email from me.'
+  user_knows: '- The credit union is Northfield Community Credit Union. I''m Rachel Greene, COO. The center is at our main office on Elm Avenue.
+
+    - Pay in the center starts $1.50 an hour above current teller pay.
+
+    - Our current phone team lost about 30% of its people last year.
+
+    - I can commit to written offers by February 14, with a decision due March 1, and a one-on-one meeting with HR for anyone who wants one.
+
+    - I can commit that staff with the most years here choose shifts first.
+
+    - I can commit that anyone who takes the new role and wants out within 6 months can still get the severance.
+
+    - I cannot keep the two branches open, and I cannot promise anyone 9 to 5 hours.
+
+    - I know "better for everyone" goes past what I can show. If that is pointed out, I accept saying what is true instead.'
+config:
+  name: without-skill
+  runner: /Users/ben/github/toulmin/evals/toulmin/run-with-skill
+  model: opus
+started: '2026-11-16T20:26:04.279622+00:00'
+duration_seconds: 42.88
+exit_code: 0

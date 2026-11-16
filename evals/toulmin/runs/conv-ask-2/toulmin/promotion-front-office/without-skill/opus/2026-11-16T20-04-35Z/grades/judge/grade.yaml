@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:05:06.751023+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 426
+  tags: []
+  notes: extracted 426 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 5
+    honest: 6
+    works_the_facts: 5
+    right_comparison: 3
+    qualification: 4
+    objections: 4
+    fit: 7
+  details:
+    agree: "The GM would read a reasonable internal case, but nothing here speaks\
+      \ to the outside candidate, and the memo concedes the renovation without the\
+      \ pre-renovation 7.9\u21928.2 rise, so it doesn't move his main belief."
+    honest: It drops the brief's 'main reason' claim, which is good, but 'service
+      didn't slip' and the claim that faster training and lower turnover 'cut labor
+      costs' go beyond any figure provided.
+    works_the_facts: "It works out 44% fewer training shifts and turnover falling\
+      \ from 64% to 36% correctly, but it never uses the 7.9\u21928.2 rise before\
+      \ the renovation, overtime coming in under plan, or any cost estimate for the\
+      \ turnover savings."
+    right_comparison: The real alternative is an outside candidate with experience
+      at a larger hotel, and the memo never mentions it; it also frames the score
+      rise as a shared credit instead of separating the trend before and after the
+      renovation.
+    qualification: The budget plan names a 30-day review and weekly tracking, but
+      it leaves out the finance course and the controller sessions that are available,
+      and it sets no checkable target or consequence if a step is missed.
+    objections: It deals with the budget gap, but it gives in on the renovation objection
+      when the facts could answer it, and it ignores the comparison with the outside
+      candidate entirely.
+    fit: It's a one-page memo in the right form, but bracketed placeholders are left
+      for names the user knew, including the GM's, the writer's and the controller's.

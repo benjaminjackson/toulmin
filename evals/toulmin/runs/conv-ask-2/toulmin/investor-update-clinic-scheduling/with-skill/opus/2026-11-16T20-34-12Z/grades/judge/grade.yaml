@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:35:19.850810+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 409
+  tags: []
+  notes: extracted 409 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 7
+    qualification: 5
+    objections: 7
+    fit: 9
+  details:
+    agree: The plain admission, the dated commitments and the open downside would
+      probably win back a cold lead investor enough to take the 20-minute call, but
+      having no target for the reminder product leaves them with little reason to
+      back the company further.
+    honest: Every figure traces to the brief, but 'nearly half as many missed appointments'
+      slightly overstates a drop from 13% to 7%, and 'I haven't yet set a target'
+      is a claim the founder never supplied.
+    works_the_facts: It works out 11 months of runway, the $37,200 downside and the
+      $900 from six clinics, but it never puts a size on the gross new revenue from
+      the 9 clinics, never states the no-show gain as the correct 46% cut, and never
+      says what the reminders save a clinic.
+    right_comparison: The status quo is described honestly as flat revenue, 11 months
+      of cash and a $3,800 exposure, but it never turns this into a cash-out date
+      or says what follows if nothing changes.
+    qualification: The records-system risk has a number and a consequence, and the
+      reminder launch has a date for checking (January 7), but no threshold says what
+      result counts as failure or what happens then.
+    objections: It answers the silence directly with a reason, an apology, a cadence
+      and monthly numbers, and it pre-empts a fundraising ask, though calling the
+      $900 'not an answer' with no plan invites the 'why keep backing you' objection
+      without meeting it.
+    fit: It is a clean investor email with a subject line, clear sections and two
+      explicit asks, roughly within 500 words and suitable for all 11 investors.

@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+# Judge two skill variants head-to-head on documents they have already written in conversation mode.
+# Arguments: first variant name, second variant name. Each needs a finished round in runs/conv-<name>.
+# Why: a variant that beats bare Claude may win only because it asks the user questions. Putting two variants
+# that both ask against each other shows what the rest of the skill adds.
+# The result goes to runs/conv-<first>-vs-<second>. There the `with-skill` arm holds the first variant's documents and
+# the `without-skill` arm holds the second variant's, because pairwise and verdict know only those two arm names.
+set -uo pipefail
+if [ $# -ne 2 ]; then
+  echo "usage: compare-variants <first variant> <second variant>" >&2
+  exit 1
+fi
+first_variant=$1
+second_variant=$2
+# Work from the folder this script is in, so the script runs from any checkout.
+cd "$(dirname "${BASH_SOURCE[0]}")" || exit 1
+comparison_directory="runs/conv-$first_variant-vs-$second_variant"
+for task_directory in "runs/conv-$first_variant"/toulmin/*/; do
+  task_name=$(basename "$task_directory")
+  mkdir -p "$comparison_directory/toulmin/$task_name"
+  if [ ! -d "$comparison_directory/toulmin/$task_name/with-skill" ]; then
+    cp -R "runs/conv-$first_variant/toulmin/$task_name/with-skill" "$comparison_directory/toulmin/$task_name/with-skill"
+  fi
+  if [ ! -d "$comparison_directory/toulmin/$task_name/without-skill" ]; then
+    cp -R "runs/conv-$second_variant/toulmin/$task_name/with-skill" "$comparison_directory/toulmin/$task_name/without-skill"
+  fi
+done
+# summary reads the arm of a run from run.yaml, so the second variant's copies must carry the other arm's name.
+for run_file in "$comparison_directory"/toulmin/*/without-skill/opus/*/run.yaml; do
+  /opt/homebrew/bin/yq -i '.config.name = "without-skill"' "$run_file"
+done
+printf 'Head-to-head of two skill variants, not a skill against bare Claude.\n\n- `with-skill` holds the documents of the `%s` variant, copied from `runs/conv-%s`.\n- `without-skill` holds the documents of the `%s` variant, copied from `runs/conv-%s`.\n' "$first_variant" "$first_variant" "$second_variant" "$second_variant" > "$comparison_directory/README.md"
+./pairwise "$comparison_directory" > "$comparison_directory/pairwise-opus.log" 2>&1
+# Second pass picks up any judge call that failed the first time.
+./pairwise "$comparison_directory" >> "$comparison_directory/pairwise-opus.log" 2>&1
+./verdict "$comparison_directory" > "$comparison_directory/verdict.md"
+cat "$comparison_directory/verdict.md"

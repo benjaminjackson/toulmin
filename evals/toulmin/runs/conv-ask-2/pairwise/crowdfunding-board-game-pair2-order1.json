@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-33-34Z",
+  "without_skill_run": "2026-11-16T20-01-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who's lost money on a first-time creator, I'd trust Document A more: it gives a firm November delivery date, offers a refund if delivery is more than three months late, commits to updates every two weeks, and admits that most of the ratings came from people who played at the creator's table. Document B leaves placeholders in the text, and its risks section is vague: it promises no date and no refund."
+}

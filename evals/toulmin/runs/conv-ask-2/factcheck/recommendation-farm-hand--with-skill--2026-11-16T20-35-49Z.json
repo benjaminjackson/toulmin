@@ -1,0 +1,25 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-35-49Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Nobody else is on the farm at that hour.",
+      "why": "The brief states that Tomás runs the 3 a.m. milking shift on his own, not that nobody else is anywhere on the farm at that hour."
+    },
+    {
+      "quote": "He is responsible for the herd, the equipment and anything that goes wrong until the rest of the crew arrives.",
+      "why": "The brief only states that he runs the 3 a.m. milking shift on his own, without specifying responsibility for equipment or anything that goes wrong, or mentioning a crew arriving later."
+    },
+    {
+      "quote": "Tomás is already doing it, and he learned it on the job.",
+      "why": "The brief says he learned the herd management software, but does not state how or where he learned it (such as on the job)."
+    },
+    {
+      "quote": "You should know that his written English is weaker than his spoken English, which is good.",
+      "why": "The brief only performs a relative comparison (that his written English is weaker than his spoken English) and does not state that his spoken English is good."
+    }
+  ],
+  "invented_count": 4
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-33-13Z",
+  "without_skill_run": "2026-11-16T20-22-47Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "B names a concrete harm I can't brush off: an 8th-floor resident missed two dialysis appointments. It also explains that the city inspection doesn't measure how often the elevator breaks down, which undercuts my \"we passed inspection\" defense, and it signs for the 74 households, so the association reads as more than a few loud people. A gives the same three requests but has nothing as concrete, and its Channel 7 line reads more like pressure than a reason to act."
+}

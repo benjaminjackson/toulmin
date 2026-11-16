@@ -1,0 +1,60 @@
+grader: judge
+graded: '2026-11-16T20:01:11.741950+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 496
+  tags: []
+  notes: extracted 496 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 5
+    honest: 6
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 3
+    objections: 4
+    fit: 5
+  details:
+    agree: The update is candid about the bad quarter, but the reader is cold about
+      the skipped updates and gets only a generic apology and "from now on you will,"
+      with no January 7 date and no offer of monthly numbers. The 6 clinics already
+      committed to the new product are also left out, so a sceptical investor has
+      little to hold on to.
+    honest: No numbers are invented and the runway and no-show claims check out. But
+      the claim that clinics "we've lost" can still buy reminders is speculation.
+      It also leaves out the two customers on the same records system, paying $3,800
+      a month, so the risk looks smaller than the writer knew it to be.
+    works_the_facts: It correctly works out about 11 months of runway, "close to half"
+      of no-shows gone, and that MRR would have grown without the one loss. It never
+      states the growth in dollars (about $5,500), and it gives no figure for the
+      6 committed reminder buyers.
+    right_comparison: 'The update never says what happens if nothing changes: it doesn''t
+      name a cash-out month, and it doesn''t mention the $3,800 a month at similar
+      risk of leaving. That makes the status-quo path look milder than the facts show.'
+    qualification: '"Within the next quarter we''ll decide whether to cut burn or
+      prepare to raise" gives no threshold of reminder sales, no date, and no consequence
+      the investor could check.'
+    objections: 'It meets the obvious worries about a flat quarter and the lost chain.
+      It handles the investor''s real complaint, being left in the dark, weakly: it
+      gives no reason for the silence and no dated commitment. It also doesn''t ask
+      for the specific 20-minute call.'
+    fit: It is in the right format for an investor email, but it runs past 500 words.
+      It also leaves [Company] and [Your name] as placeholders when the names were
+      known, and says "next month" instead of December 1.

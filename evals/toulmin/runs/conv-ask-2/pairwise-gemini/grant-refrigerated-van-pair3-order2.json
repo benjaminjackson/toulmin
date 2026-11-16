@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-34-49Z",
+  "without_skill_run": "2026-11-16T20-02-05Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses my biggest hesitation—the four-month-late report from 2023—by explaining why it happened and naming the new treasurer responsible for reporting. It also includes critical operational details like farm commitment letters and ongoing vehicle costs, which shows me they are being transparent and realistic about a much larger $50,000 request."
+}

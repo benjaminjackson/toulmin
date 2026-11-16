@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-02-34Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me concrete reasons to pay more than the $8,000 alternative: committed sketch and final-art dates for The Night Garden, two free spot drawings, the fourth printing, and a clear statement that the fee has to change. Document B is still full of placeholders, offers nothing in return, and is easier to wave off."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-34-57Z",
+  "without_skill_run": "2026-11-16T20-23-48Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a wary backer, I trust B more because it says outright that most of the 8.1 ratings came from people who played at the creator's table. A leaves that out, calls 23 ratings 'as close to proof as you can get', and still shows a '[Game Title]' placeholder, which looks unfinished and oversold."
+}

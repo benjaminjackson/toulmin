@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-36-47Z",
+  "without_skill_run": "2026-11-16T20-06-05Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is a complete, signed letter with concrete proof: the vet's $8,000 estimate, the cousin he arranged to cover his 5-week absence, his return on the promised day, a weekend job kept open for him, and a real phone number. A still has blank placeholders, adds a claim the brief doesn't support (\"nobody required him\"), and gives less evidence that would persuade a busy reader."
+}

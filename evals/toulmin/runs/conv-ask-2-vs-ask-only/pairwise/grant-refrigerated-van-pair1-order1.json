@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-21-45Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me the full financial picture: $11,000 left in reserve and $4,500 a year in costs not yet budgeted. Its quarterly reporting promise addresses the four months I spent chasing their last report. B has placeholder brackets, leaves out the unbudgeted costs and the remaining reserve, and adds claims not in the facts (all food going to families already enrolled), so I'd trust it less even though it apologizes for the delay."
+}

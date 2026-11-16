@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T20:22:43.320992+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 356
+  tags: []
+  notes: extracted 356 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 5
+    objections: 6
+    fit: 7
+  details:
+    agree: The 8.2 score before the renovation speaks directly to the GM's belief,
+      and the honest budget section builds trust, but the memo never makes a clear
+      case against the outside candidate, so a reader who is still undecided may stay
+      undecided.
+    honest: Every claim matches the facts; it gives up the 'main reason' framing,
+      credits the renovation, and states the budget gap plainly without adding anything
+      that isn't true.
+    works_the_facts: 'It works out the four shifts saved per hire, but it leaves out
+      stronger true figures it could have used: 0.3 of the 0.7-point gain (about 43%)
+      came in the first 5 months, and turnover fell from about 64% to 36%.'
+    right_comparison: The real alternative is the outside candidate, and the memo
+      only hints at it with 'you won't need to wait for me to learn the property'
+      instead of setting out what each choice would mean.
+    qualification: The finance course has a 3-month deadline and the controller sessions
+      are weekly, but neither says how progress will be checked or what happens if
+      the commitment slips.
+    objections: It answers the renovation objection well with the 8.2 figure and is
+      open about the budget gap, but it never addresses the outside candidate's experience
+      at a larger hotel.
+    fit: It is a one-page memo as the brief asked, but it leaves bracketed placeholders
+      for names the writer already had (Daniela Ruiz, Mark Ellison).

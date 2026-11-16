@@ -1,0 +1,17 @@
+{
+  "task": "sales-salon-bookkeeping",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-35-10Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "including the ones who'd been with me for years.",
+      "why": "The brief only states that the price was raised for \"existing clients\" and neither the brief nor the additional user information mentions how many years those clients had been with her."
+    },
+    {
+      "quote": "Because I do all the work myself, I can only take on about 5 new clients this year.",
+      "why": "While the provided facts state that she is one person and cannot take more than about 5 new clients this year, they do not state that doing all the work herself is the reason for that limit."
+    }
+  ],
+  "invented_count": 2
+}

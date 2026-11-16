@@ -1,0 +1,41 @@
+{
+  "task": "negotiation-illustration-rate",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-33-00Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Dear Nadia,",
+      "why": "The brief does not provide the recipient's name (this only appears in the <user_knows> section)."
+    },
+    {
+      "quote": "and the one on the state reading list went into its fourth printing this spring.",
+      "why": "The brief mentions a book was on a state reading list, but does not say it went into its fourth printing this spring (this is only in <user_knows>)."
+    },
+    {
+      "quote": "The market has moved too.",
+      "why": "The brief does not state that overall market rates have changed over time."
+    },
+    {
+      "quote": "sketches within six weeks of signing",
+      "why": "The brief does not mention a timeline for delivering sketches (this is only in <user_knows>)."
+    },
+    {
+      "quote": "final art by September 1",
+      "why": "The brief does not mention a September 1 deadline for final art (this is only in <user_knows>)."
+    },
+    {
+      "quote": "two extra spot drawings for your marketing, at no charge",
+      "why": "The brief does not mention offering extra spot drawings for marketing (this is only in <user_knows>)."
+    },
+    {
+      "quote": "I have to be honest that I can't take this book on at $9,000.",
+      "why": "The brief says the user would like $11,500, but does not state that they will refuse the book at $9,000 (this is only in <user_knows>)."
+    },
+    {
+      "quote": "Elena Varga",
+      "why": "The brief does not give the illustrator's name (this is only in <user_knows>)."
+    }
+  ],
+  "invented_count": 8
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-35-49Z",
+  "without_skill_run": "2026-11-16T20-05-29Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes concrete details that make the applicant stand out among 150 candidates, specifically the $8,000 saved, arranging a trained replacement before his emergency trip, retaking and passing the safety test, and the manager's commitment to employ him part-time during the program. Document B lacks these convincing specifics and still has unedited template placeholders."
+}

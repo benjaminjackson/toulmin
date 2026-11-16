@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:33:22.992338+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 410
+  tags: []
+  notes: extracted 410 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 5
+    objections: 6
+    fit: 9
+  details:
+    agree: Marisol gets a candid account of the late report, a named person responsible
+      for this one and quarterly data, so she would probably recommend yes, though
+      the unfunded $4,500 a year in running costs gives her reason to hesitate.
+    honest: The draft drops the unsupported claim that fresh food will double and
+      gives the one-eighth increase the numbers actually support; it says plainly
+      that the farms' offer may not repeat, and it invents nothing.
+    works_the_facts: 'The figures are correctly derived from the brief: 3,000 extra
+      pounds a month is half again in harvest months, 9,000 pounds is about one-eighth
+      of the 72,000-pound year, and the $18,000 match is more than a quarter of the
+      cost; it misses that $11,000 in reserve covers only about two and a half years
+      of the $4,500 running cost.'
+    right_comparison: The no-van alternative is described accurately as turning farm
+      produce away again, but in a single thin closing line, and it does not mention
+      the two farms' letters as an offer that would be lost.
+    qualification: The final report has a named owner and a 30-day deadline, and fresh-food
+      pounds will be reported every quarter, but no target is set for those quarterly
+      figures and nothing says what happens if harvest-month intake falls short.
+    objections: The late-report concern is answered directly and well, but the draft
+      raises the unbudgeted $4,500 a year in insurance and fuel without saying how
+      it will be paid, so a skeptical reader is left holding that objection.
+    fit: This is a grant narrative with clear sections, plain language and a length
+      well under 500 words, as the brief asked.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-33-58Z",
+  "without_skill_run": "2026-11-16T20-03-30Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is addressed to me, names The Night Garden, commits to the September 1 deadline and to answering by the end of next week, and makes clear that $9,000 isn't an option, so I know this is a real choice. A carries the same evidence but still has its placeholders, which make it feel unfinished, and it offers me nothing concrete on schedule."
+}

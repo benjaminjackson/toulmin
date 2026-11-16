@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-04-00Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses my skepticism about the guest scores by proving they rose to 8.2 before the renovation even started, and it reassures me on the budget by showing she kept overtime under plan over the last seven weeks and already lined up help from Ben Oduya. It also directly tackles the comparison to the outside candidate, whereas Document A is an unfinished template lacking these critical specifics."
+}

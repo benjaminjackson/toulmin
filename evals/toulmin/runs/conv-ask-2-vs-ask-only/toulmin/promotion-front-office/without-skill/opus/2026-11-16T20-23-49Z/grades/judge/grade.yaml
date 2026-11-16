@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:24:44.520408+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 408
+  tags: []
+  notes: extracted 408 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 6
+    qualification: 5
+    objections: 8
+    fit: 7
+  details:
+    agree: It directly answers the GM's belief about the renovation with the 7.9-to-8.2
+      rise that happened before work started, and gives a concrete budget plan, so
+      a GM who already likes the writer could well be moved, though the outside candidate's
+      larger-hotel experience is only partly offset.
+    honest: It drops the 'main reason' claim, says the renovation clearly helped,
+      and keeps the facts accurate, but 'people I trained' and 'an outside hire would
+      need months' go a little past what the facts show.
+    works_the_facts: 'It quotes the raw figures but never works them out: the pre-renovation
+      pace (0.3 in 5 months against 0.4 in the 13 months after), turnover falling
+      from 64% to 36%, and training cut by 44% are all left uncomputed, even though
+      each is the strongest true form of its number.'
+    right_comparison: The renovation is set against the pre-renovation trend and the
+      outside candidate is described fairly, but the before-and-after pace of the
+      score is never laid side by side, so the trend comparison stays loose.
+    qualification: The commitments have deadlines (finance course in 3 months, wait-time
+      plan in 30 days, weekly controller sessions), but none sets a measurable target
+      or says what happens if it is missed.
+    objections: It meets the reader's three likely objections (the renovation, the
+      budget and the outside candidate's experience) with facts from the brief, and
+      it raises no objection those facts already answer.
+    fit: It is a tight one-page memo as asked, but it leaves bracket placeholders
+      for the GM's name and the writer's name even though both were known, while naming
+      Ben Oduya, which is inconsistent.

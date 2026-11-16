@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-36-47Z",
+  "without_skill_run": "2026-11-16T20-06-05Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is a finished letter with a real name and a phone number. It backs up its claims with the $8,000 the vet estimated was saved, it explains that his cousin covered his shifts and that he returned on the day he said he would, and it commits to keeping a weekend job open for him. B is full of placeholders, leaves out the two days' notice, and has no concrete proof of impact, so it reads as weaker and less credible."
+}

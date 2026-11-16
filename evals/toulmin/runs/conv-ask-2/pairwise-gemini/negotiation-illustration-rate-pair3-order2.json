@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-33-58Z",
+  "without_skill_run": "2026-11-16T20-03-30Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B uses the actual names, book title, and September 1 deadline, making it a complete and professional email rather than a template with placeholders. It also clearly states that Elena cannot take the book at $9,000, which tells me I have to find more budget if I want to keep her over the cheaper new illustrator."
+}

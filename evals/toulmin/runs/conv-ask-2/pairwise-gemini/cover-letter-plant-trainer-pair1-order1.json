@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me concrete evidence that this teacher understands the reality of a regulated environment: she keeps signed training records that have passed two state audits, and she has already enrolled in a GMP basics course. It also avoids the unrealistic promise of cutting our regulated training in half, instead citing her actual experience cutting a specific training from 20 to 12 hours while respecting GMP requirements."
+}

@@ -1,0 +1,21 @@
+{
+  "task": "grant-refrigerated-van",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-02-05Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "What we lack is a way to move it.",
+      "why": "The brief states that the food bank had to turn down the produce because it had no way to pick it up cold or store it, not that transportation was the only thing lacking."
+    },
+    {
+      "quote": "Each month we will track how many pounds of fresh food the van collects and how many we distribute, and we will report those figures to the Foundation.",
+      "why": "Neither the brief nor the user's additional information states that the food bank will track monthly collection and distribution figures for the van, and the user only offered to report fresh food pounds quarterly."
+    },
+    {
+      "quote": "This would be the Foundation's second investment in our work, following its $12,000 grant for shelving in 2023.",
+      "why": "The brief mentions the 2023 grant for shelving, but does not state that it was the foundation's only previous grant to the food bank."
+    }
+  ],
+  "invented_count": 3
+}

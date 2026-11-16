@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:33:33.900254+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 484
+  tags: []
+  notes: extracted 484 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 7
+    honest: 6
+    works_the_facts: 8
+    right_comparison: 6
+    qualification: 8
+    objections: 7
+    fit: 8
+  details:
+    agree: A wary backer who once lost $85 gets a finished game, a signed quote, a
+      dated delivery, fortnightly updates and a refund promise, which goes a long
+      way toward getting them to pledge, though nothing says how a refund would be
+      paid if the money is already spent.
+    honest: It drops the unsupported 'proven hit' claim and says plainly that most
+      ratings came from the creator's own table, but the $2,650 line for 'freight
+      from the factory and import costs' is an invented use for leftover money that
+      the brief never gives.
+    works_the_facts: It works out 572 backers to reach the goal, about $5,150 in shipping,
+      $2,800 in fees, and that the goal is met if fewer than half of the 1,240 sign-ups
+      back it, all correct and put in their most favourable true form.
+    right_comparison: The alternative, a finished game nobody can buy, is stated accurately
+      but briefly, and it never says what happens to the extra copies of the 1,500-copy
+      run if only 572 people back it.
+    qualification: The refund promise names a checkable condition (more than three
+      months past November 2027) and a consequence (a full refund on request), and
+      the delivery date is given as the earliest the creator can stand behind.
+    objections: The first-time-creator worry is met head-on with the surveyor background,
+      the finished art and rules, and the commitments, but there is no explicit risks
+      section, and it doesn't cover what happens if the factory or freight costs go
+      up.
+    fit: It's a clear crowdfunding pitch of roughly 550 words, a little over the requested
+      500, with sensible sections.

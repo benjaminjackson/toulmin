@@ -1,0 +1,30 @@
+I've written the letter from your answers. I left out anything you weren't sure of, so it doesn't say whether Tomás taught himself the software or give any details about his night class.
+
+<final_document>
+Dear Admissions Committee,
+
+I am writing to recommend Tomás for your two-year Agricultural Technology program. I manage Hollis Dairy, a 400-cow operation. Tomás has worked for us for three years, starting at age 19. In that time he has become one of the people I rely on most.
+
+Tomás runs our 3 a.m. milking shift on his own, five days a week. It's a demanding shift, and the herd depends on it getting done right every time. In three years he has missed two shifts. That doesn't count a family emergency, which I describe below. Your program is two years long, and showing up week after week is something he has already proven he can do.
+
+He has also gone beyond the routine work. He learned our herd management software, and he now uses it to flag sick cows for our veterinarian. Last winter he caught nine cases of mastitis early. Our vet estimates that catching them early saved us about $8,000. Tomás already does the kind of work your program teaches: he reads the herd's data, spots a problem early and gets it to the right person.
+
+You should also know about one absence. In the middle of last summer his father became seriously ill in Mexico, and Tomás was away for five weeks. He told me two days before he left. In those two days he got his cousin, who used to work for us, to cover his shifts. He came back on the day he said he would. In a family emergency, he made sure his work would be covered and he kept his word.
+
+His spoken English is good. His written English is weaker, and he is taking a night class to improve it.
+
+I will keep a part-time weekend job open for Tomás while he is in your program. I'm happy to talk with the committee about him. You can reach me at 555-0187.
+
+Sincerely,
+
+Mike Hollis
+Farm Manager
+Hollis Dairy
+</final_document>
+
+A few things to check before you upload it (due February 1):
+
+- **Tomás's last name:** You didn't give it, so the letter only uses his first name. Add his full name to the first sentence so the college can match the letter to his application.
+- **Date and college name:** I left both out because you didn't give them. Add them if the portal expects them.
+- **The two days' notice:** I kept this in because it comes right before the part about him arranging cover, and the two together show how he handled the emergency. If you'd rather not mention it, delete "He told me two days before he left." Then change "In those two days" to "Before he left."
+- **The software:** If you decide he did teach himself, change "He learned our herd management software" to "He taught himself our herd management software." That makes the point about him being ready for the program stronger.

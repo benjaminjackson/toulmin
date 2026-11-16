@@ -1,0 +1,33 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-05-29Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "On that shift there is no one else around to catch a problem or fix a mistake.",
+      "why": "The brief says he runs the 3 a.m. milking shift on his own, not that nobody else is anywhere on the farm."
+    },
+    {
+      "quote": "he did it by paying close attention to the animals and the data together.",
+      "why": "The brief only says he learned the herd management software and flags sick cows, without specifying how he detected the nine mastitis cases."
+    },
+    {
+      "quote": "Nobody required him to take on that responsibility. He saw the need and learned what he had to learn.",
+      "why": "The brief says he learned the herd management software and flags sick cows, not that this was voluntary or unprompted."
+    },
+    {
+      "quote": "caring for his father, who was seriously ill.",
+      "why": "The brief says he left when his father got sick in Mexico, without stating the illness was serious or that Tomás personally cared for him."
+    },
+    {
+      "quote": "His spoken English is strong, and he communicates well with me, our vet, and the rest of the crew.",
+      "why": "The brief only says his written English is weaker than his spoken English, not that his spoken English is strong or that he communicates well with the manager, vet, and crew."
+    },
+    {
+      "quote": "He enrolled in a night English class on his own",
+      "why": "The brief says he is taking a night class for his written English, not that he enrolled in it on his own."
+    }
+  ],
+  "invented_count": 6
+}

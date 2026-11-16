@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-33-13Z",
+  "without_skill_run": "2026-11-16T20-22-47Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Letter A names the resident on the 8th floor who missed two dialysis appointments. That concrete harm makes it hard for me to keep believing we handled the outages well or that this is just a few loud people. Letter B's Channel 7 mention adds pressure, but without that one fact its case for real harm reads as more general."
+}

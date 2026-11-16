@@ -1,0 +1,37 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-02-19Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The supply boat stops coming in December.",
+      "why": "The brief only says the game is about seeing a lighthouse keeper's family through a winter and does not mention a supply boat or December."
+    },
+    {
+      "quote": "Together you ration what's in the stores, keep the lamp burning through storms, and look after each other when the cold and the quiet start to take their toll.",
+      "why": "The brief does not give these gameplay mechanics or details about rationing stores, storms, or the effects of cold and quiet."
+    },
+    {
+      "quote": "from families to veteran gamers",
+      "why": "The brief states that about 60 different people playtested the game, but gives no information about who those people were."
+    },
+    {
+      "quote": "where strangers sat down, played and told me what they thought",
+      "why": "The brief and additional notes only say people played at the creator's table at two conventions and rated the game, not that they were strangers who gave feedback."
+    },
+    {
+      "quote": "Every one of those sessions changed something. The game you're backing has been reworked again and again, based on what happened when real people played it.",
+      "why": "The brief states that 140 playtest sessions were run, but does not say that every session resulted in changes or that the game was repeatedly reworked."
+    },
+    {
+      "quote": "I've built this game in the evenings and on weekends.",
+      "why": "The brief states that the creator works full time as a land surveyor, but does not say when the game was built."
+    },
+    {
+      "quote": "Crowdfunding is the only way this game gets printed.",
+      "why": "Neither the brief nor the additional notes state that the creator has no other way to print the game."
+    }
+  ],
+  "invented_count": 7
+}

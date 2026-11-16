@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-33-23Z",
+  "without_skill_run": "2026-11-16T20-01-17Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me the exact operational and governance details I need to defend this to the grants committee—specifically explaining the late 2023 report, naming the new treasurer responsible for quarterly reporting, providing commitment letters from two farms, and being honest about their remaining reserves and unbudgeted operating costs. Document B is an unfinished template that leaves out the explanation for the late report and overpromises on the farm donations."
+}

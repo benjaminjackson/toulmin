@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a backer who once lost money, I care most about the delivery date, the refund promise, the update schedule, the 'no stretch goals' line and the admission that most ratings came from people who played at the creator's convention table. A gives me all of these and B gives me none, so A is far more likely to get my pledge."
+}

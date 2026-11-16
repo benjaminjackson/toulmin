@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-33-23Z",
+  "without_skill_run": "2026-11-16T20-22-53Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives the real pantry name and signature, says up front that the $4,500 a year for insurance and fuel isn't budgeted yet, and names two numbers it will report each quarter. A still has '[Food Bank Name]' placeholders and mentions the $4,500 without saying it's unbudgeted, which makes me trust it less given how hard I had to chase their last report."
+}

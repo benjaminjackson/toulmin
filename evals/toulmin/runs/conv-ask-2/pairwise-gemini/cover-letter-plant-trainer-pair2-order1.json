@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-33-17Z",
+  "without_skill_run": "2026-11-16T20-01-04Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A directly addresses my main hesitation about hiring teachers by showing she already maintains signed training records that have passed two state audits and is actively taking a GMP course. It also grounds her efficiency claims in a concrete past example rather than making blind promises, whereas Document B lacks those compliance details and uses generic placeholders."
+}

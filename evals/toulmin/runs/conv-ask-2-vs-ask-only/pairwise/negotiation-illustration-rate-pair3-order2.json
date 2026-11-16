@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-33-58Z",
+  "without_skill_run": "2026-11-16T20-23-23Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "A gives me more reason to justify the raise to my boss: it mentions the fourth printing, sketches within six weeks and two free marketing spot illustrations, while B mostly asks for the money and says she won't do another book at $9,000. A's unfilled placeholders ([TITLE], [STATE], [Your name]) look careless, though, and B's 'toward the low end' wording is a slight stretch, so it's close."
+}

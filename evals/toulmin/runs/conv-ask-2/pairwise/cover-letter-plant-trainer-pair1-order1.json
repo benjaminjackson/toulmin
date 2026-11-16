@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me what I look for to tell a teacher apart from someone who can work in a regulated plant: signed training records, two clean state audits, a cut from 20 to 12 training hours, a GMP course already underway and a clear start date. It is also addressed to me by name. B has generic placeholders and only a vague promise to learn records and GMP quickly, which is exactly the kind of teacher application I expect."
+}

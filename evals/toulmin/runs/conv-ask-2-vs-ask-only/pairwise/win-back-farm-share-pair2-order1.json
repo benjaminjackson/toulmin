@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-farm-share",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-36-24Z",
+  "without_skill_run": "2026-11-16T20-25-30Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both apologize plainly and make the same commitments, but A says outright that 'you'll get credit' if it happens again and ends by inviting me back. B's 'a badly short box will be credited' is vaguer and makes the closing feel more transactional, so A comes out slightly ahead."
+}

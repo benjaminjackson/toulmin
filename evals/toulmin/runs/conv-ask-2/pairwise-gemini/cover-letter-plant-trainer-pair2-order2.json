@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-33-17Z",
+  "without_skill_run": "2026-11-16T20-01-04Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses my biggest concern about teachers by showing she already maintains signed training records that have passed two state audits, and she has proactively enrolled in a GMP basics course. It also provides concrete evidence of her ability to streamline adult onboarding from 20 hours to 12, making her an easy choice for a phone screen over the more generic Document A."
+}

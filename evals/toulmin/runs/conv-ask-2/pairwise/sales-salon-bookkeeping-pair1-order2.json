@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-35-10Z",
+  "without_skill_run": "2026-11-16T20-05-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B tells me Carla ran a salon for six years and that she doesn't do tax returns, so my cousin keeps his job and just gets cleaner books. That takes away my biggest reason to hesitate. B also gives me a free month if she misses the 10th and lets me leave on 30 days' notice, so booking the call feels safe. A only says it 'works hard' to hit the 10th."
+}

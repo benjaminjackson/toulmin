@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:36:32.237583+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 445
+  tags: []
+  notes: extracted 445 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 3
+    objections: 5
+    fit: 6
+  details:
+    agree: The candid tone and clear budget would reassure a wary backer, but the
+      pitch leaves out the refund guarantee, the two-week update promise, the reviewer
+      video and even the game's name, which are the things most likely to win over
+      someone who has already lost $85.
+    honest: It drops 'proven hit' and frames the 23 convention-heavy ratings fairly,
+      though 'shipping outside the US isn't priced yet' is an unsupplied claim and
+      'three years' rounds up a little.
+    works_the_facts: The budget arithmetic is correct and useful (572 backers, about
+      $25,350 in costs, about $2,700 headroom), but it never notes that 572 backers
+      is only 46% of the 1,240 sign-ups, which is the most favourable true figure
+      available.
+    right_comparison: The only alternative it gives is the bare line 'this campaign
+      is how the game gets made', with nothing on what happens to backers or the game
+      if the goal is missed.
+    qualification: November 2027 is stated as an estimate with nothing attached if
+      it slips, even though the writer could have named the full refund for deliveries
+      more than three months late.
+    objections: It deals directly with the first-time-creator worry (finished design
+      and art, signed quote, itemised costs), but it leaves out the refund and update
+      commitments that answer the fear of non-delivery, and it ends the ratings section
+      on self-doubt.
+    fit: It is about 500 words and laid out as a crowdfunding pitch, but it never
+      names the game or the creator, which a campaign page needs.

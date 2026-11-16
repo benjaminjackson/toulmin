@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A answers my real worry: it explains why the shelving report was late, names Dave Lin as responsible for the final report, and commits to quarterly fresh-food numbers. Its figures are honest and fully filled in. B still has placeholders, gives only a vague promise to be on time, and leaves the operating costs blank."
+}

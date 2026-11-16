@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-03-02Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is addressed to me by name, makes three specific requests and offers real help: an emergency list of residents and a meeting any weekday evening. That makes it read like reasonable people I can work with, not a loud few. B is still full of placeholders, asks for more without offering anything back, and its tone about the part order is more accusatory."
+}

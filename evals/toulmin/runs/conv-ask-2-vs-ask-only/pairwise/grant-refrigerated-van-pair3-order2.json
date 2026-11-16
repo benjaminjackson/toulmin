@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-34-49Z",
+  "without_skill_run": "2026-11-16T20-23-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is complete and candid: it names the pantry and signer, says the $4,500 yearly running cost isn't budgeted yet, and states the $11,000 left in reserve. Its harvest-month estimate is honest, and it gives a clear fix for the late report. A still has placeholders for the name, county and how running costs will be paid, which makes me doubt their follow-through."
+}

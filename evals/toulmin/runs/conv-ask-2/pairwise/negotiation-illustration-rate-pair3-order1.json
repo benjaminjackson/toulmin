@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-33-58Z",
+  "without_skill_run": "2026-11-16T20-03-30Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is a finished, specific email. It names the book, commits to the September 1 deadline, and says plainly that she can't take another book at $9,000. That tells me I'd have to raise the fee rather than switch to the cheaper illustrator. Document B still has unfilled placeholders and no deadline commitment, so it reads as less serious and gives me less reason to go above budget."
+}

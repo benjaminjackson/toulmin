@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-front-office",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-34-26Z",
+  "without_skill_run": "2026-11-16T20-23-49Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A comes to me finished, with names filled in, and it handles the renovation question with care: it admits the overhaul helped and that she isn't claiming all of the rise, which fits what I already believe. B arrives with unfilled placeholders like [GM name] and [Your name], says flatly that part of the rise 'came from the desk itself,' and claims an outside hire would need months to get up to speed, so it reads as less polished and more overstated, even though it adds a useful 30-day plan."
+}

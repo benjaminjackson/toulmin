@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:05:18.518846+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 387
+  tags: []
+  notes: extracted 387 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 4
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 2
+    objections: 4
+    fit: 8
+  details:
+    agree: The neighbour-on-Alder framing and the open admission about traffic make
+      it credible. But the two traffic-focused commissioners get only 'I'll take that
+      trade' and a vague promise to fix it later, so they have no concrete reason
+      to change their vote.
+    honest: The numbers are accurate. However, 'won't push residents' cars onto Alder
+      or the side streets' and 'a problem we know how to fix' go further than 72 spaces
+      and a C-to-D rating can support.
+    works_the_facts: 'It repeats the given figures and derives almost nothing from
+      them: no 64 of 412 (about one in six on the waiting list), no trips per unit,
+      no share of the 2,100 gap. The one derived line, ''64 families who stop waiting'',
+      is stated loosely.'
+    right_comparison: It sets an empty, paved lot and a three-year waiting list against
+      a one-grade slip at rush hour, which is a fair comparison. It doesn't say what
+      happens to the list or the gap if the project is turned down.
+    qualification: The only hedge is 'signal timing, turn lanes, or whatever the engineers
+      recommend'. That names nothing the commission can check or attach as a condition,
+      such as a signal that keeps the intersection at C.
+    objections: It names the traffic objection and deals with parking. But it meets
+      the traffic objection only by accepting it, and it ignores 20 months of construction
+      disruption and neighbours' fear of losing street parking.
+    fit: At about 430 words it is a spoken address that fits three minutes, with a
+      clear ask at the end. The unfilled [Name] and [Church Name] placeholders are
+      the only blemish.

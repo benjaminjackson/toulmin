@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-35-49Z",
+  "without_skill_run": "2026-11-16T20-25-16Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B names the applicant in full and is open about the five-week absence and the failed safety test, but shows him handling both well. That makes its praise more believable to me. A leaves out his surname, and its line \"missed two shifts in three years\" quietly skips the five weeks away, so it reads thinner and less trustworthy."
+}

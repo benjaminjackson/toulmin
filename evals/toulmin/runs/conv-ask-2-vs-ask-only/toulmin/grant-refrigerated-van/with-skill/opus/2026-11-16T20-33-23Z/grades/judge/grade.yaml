@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T20:34:49.416732+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 455
+  tags: []
+  notes: extracted 455 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 7
+    right_comparison: 8
+    qualification: 6
+    objections: 6
+    fit: 8
+  details:
+    agree: Marisol gets a candid, well-supported case and a named owner for the report
+      she once had to chase, but the unfunded $4,500 a year against $11,000 left in
+      reserves could make her hesitate.
+    honest: The draft drops the unsupported 'double' claim, says plainly that the
+      9,000 pounds may not return, and every number traces back to the brief or the
+      user's added facts.
+    works_the_facts: It works out 3,000 lb a month, a 50% seasonal increase and about
+      5 lb per household, all correctly, and gives the cost share as 'more than a
+      quarter', but it never states the annual effect, which is about 12.5%.
+    right_comparison: 'The no-van alternative is described exactly as the facts show
+      it: produce keeps being turned away and fresh food stays at 6,000 of 38,000
+      pounds a month.'
+    qualification: The reporting promises are checkable (Dave Lin, final report 30
+      days after the grant year, quarterly fresh-food totals against the 6,000 lb
+      baseline), but they set no target number and say nothing about what happens
+      if the produce doesn't come.
+    objections: The late report is handled squarely with a reason, a named person
+      and a deadline, but the draft brings up the unbudgeted $4,500 operating cost
+      and gives no plan for paying it, which leaves that objection open.
+    fit: It is a plain-prose narrative of roughly 480 words, under the 500-word limit,
+      and signed by the director as a grant narrative should be.

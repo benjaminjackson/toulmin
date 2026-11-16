@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is a complete application that gives me the exact explanation I needed for the late 2023 report—that their previous treasurer was hospitalized—and names the new treasurer, Dave Lin, who will send quarterly updates. While I'm concerned that the $4,500 operating cost isn't budgeted yet, B's honesty about that and the farm letters gives me enough confidence to work with them, whereas Document A is an unfinished template full of bracketed placeholders."
+}

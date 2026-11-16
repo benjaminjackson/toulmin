@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T20:36:24.516528+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 192
+  tags: []
+  notes: extracted 192 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 7
+    objections: 8
+    fit: 9
+  details:
+    agree: A plain apology, a credit for bad weather weeks and a weekly email address
+      this household's two complaints directly, though a skeptic may still hesitate
+      because the credit amount isn't stated.
+    honest: 'Every claim comes from the facts given, and the limits are stated outright:
+      the greens aren''t netted, crop loss can''t be ruled out, and last season gets
+      no credit.'
+    works_the_facts: 'It gives the facts accurately but derives nothing from them:
+      it never says how big a credit is (for example, about $24.50 for a full week),
+      and it leaves out the survey result that 29 of 41 former members asked for exactly
+      these fixes.'
+    right_comparison: 'It sets last season against this one honestly and points to
+      the deadline and the 52 remaining shares, but it doesn''t make the actual choice
+      concrete: same price, now with weather protection, versus not joining.'
+    qualification: The 'more than a third' threshold, the March 15 deadline and the
+      no-loss disclaimer are concrete, but the email doesn't say who judges the one-third
+      cut or how big the credit is.
+    objections: It meets 'you went quiet' with weekly emails and 'no refund' with
+      a forward credit policy plus an honest no on last season, and it raises no objection
+      the facts already settle.
+    fit: It's a short, personal email of about 180 words with a subject line, a clear
+      list of changes and a call to action, all under the 200-word limit.

@@ -1,0 +1,25 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-05-18Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I drive through that intersection all the time.",
+      "why": "The brief says the speaker lives on Alder Road two blocks from the church, but does not state whether the speaker drives or how often they use the intersection at Alder and 4th."
+    },
+    {
+      "quote": "But here is what a D means: a longer wait at a light during the busiest part of the day.",
+      "why": "The brief does not say there is currently a traffic light at the intersection of Alder and 4th (and the user's background notes indicate a traffic signal does not yet exist there)."
+    },
+    {
+      "quote": "The church's back lot is 1.8 acres of pavement",
+      "why": "The brief states that the lot is a 1.8-acre parking lot, but does not state that it is paved."
+    },
+    {
+      "quote": "land that's already paved.",
+      "why": "The brief states that the site is a parking lot, but does not specify that the land is paved."
+    }
+  ],
+  "invented_count": 4
+}

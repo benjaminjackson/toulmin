@@ -1,0 +1,29 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-00-33Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Each day you decide who tends the light, who keeps the household going, and what you can afford to give up before the thaw.",
+      "why": "The brief only states that players see a lighthouse keeper's family through a winter, without giving these specific daily game mechanics or decisions."
+    },
+    {
+      "quote": "families, longtime hobby gamers, and people who had never tried a cooperative game.",
+      "why": "The brief says the game was playtested with about 60 different people, but gives no details on who those playtesters were or their gaming backgrounds."
+    },
+    {
+      "quote": "Nearly every session changed something. Rules got cut, choices got harder, and the tension got sharper.",
+      "why": "The brief mentions 140 playtest sessions took place, but does not state how often the game changed or what specific revisions were made."
+    },
+    {
+      "quote": "What's left is the version that kept people around the table saying \"one more winter.\"",
+      "why": "The brief does not contain this quote or state how playtesters reacted at the end of sessions."
+    },
+    {
+      "quote": "I'll post updates at every stage, including factory proofs, production photos, and shipping progress, so you always know where your copy is.",
+      "why": "The user only committed to posting an update every two weeks until every copy ships, without promising factory proofs, production photos, or updates at every stage."
+    }
+  ],
+  "invented_count": 5
+}

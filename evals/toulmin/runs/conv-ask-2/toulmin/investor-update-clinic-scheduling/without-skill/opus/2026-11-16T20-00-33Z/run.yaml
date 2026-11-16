@@ -1,0 +1,60 @@
+task:
+  name: investor-update-clinic-scheduling
+  type: investor-update
+  set: tune
+  reader: The lead angel investor, who put in $250,000 and has the right to join the
+    next round. The founder skipped the last two quarterly updates, and the investor
+    said so in a short, cold email last month. The investor decides whether to keep
+    backing the company and taking the founder's calls.
+  prompt: 'I need to send a quarterly update to our investors. I''m the founder of
+    a scheduling app for physical therapy clinics. We have 6 people.
+
+
+    Numbers for the quarter:
+
+    - Monthly recurring revenue is $41,000, the same as three months ago.
+
+    - We added 9 clinics and lost 4. One of the 4 was our largest customer, a 12-clinic
+    chain that paid $5,500 a month. They moved to the scheduler built into their electronic
+    records system.
+
+    - We have $480,000 in the bank and lose about $44,000 a month.
+
+    - Clinics that use our automatic text reminders have a no-show rate of 7%, against
+    13% before they started.
+
+    - I didn''t send updates for the last two quarters.
+
+    - Next month we start selling the reminder feature on its own for $150 a month.
+
+
+    Under 500 words. It goes to 11 investors.'
+  user_knows: '- The company is Cadence Scheduling. I''m Sam Patel, the founder.
+
+    - I skipped the last two updates because the numbers were flat and I didn''t want
+    to send bad news. There was no other reason.
+
+    - 6 clinics have said they will buy the reminder feature on its own when it launches
+    on December 1.
+
+    - Two of our other customers use the same electronic records system as the chain
+    that left. Together they pay $3,800 a month.
+
+    - I can commit to an update in the first week of every quarter from now on. The
+    next one goes out January 7.
+
+    - I can commit to a monthly one-page set of numbers for any investor who asks
+    for it.
+
+    - I cannot promise that customers on that records system won''t leave the same
+    way.
+
+    - What I want from investors: 20 minutes on the phone, and introductions to clinic
+    chains.'
+config:
+  name: without-skill
+  runner: /Users/ben/github/toulmin/evals/toulmin/run-without-skill
+  model: opus
+started: '2026-11-16T20:00:33.391553+00:00'
+duration_seconds: 22.11
+exit_code: 0

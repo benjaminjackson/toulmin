@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-36-19Z",
+  "without_skill_run": "2026-11-16T20-06-07Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me a real name, a no-contract guarantee, and a promise of a free month if she's late, whereas Document B stays anonymous and left out the exact $149 price hike from the facts. Both options make it clear I can keep my cousin for tax season, and while Document B mentions specific salon pain points, A's transparency and low-risk terms make me much more comfortable booking a call despite the big jump from $600 a year."
+}

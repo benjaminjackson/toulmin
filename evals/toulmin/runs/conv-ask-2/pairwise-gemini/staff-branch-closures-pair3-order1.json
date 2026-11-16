@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-37-39Z",
+  "without_skill_run": "2026-11-16T20-07-29Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes the two protections that actually make me willing to give the phone center a shot: choosing shifts by seniority, and being able to try the job for up to six months without losing my severance. It also acknowledges that we chose branch work for the in-person connection and doesn't insult us with unfilled template brackets or empty promises to 'work with us' on schedules."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-34-49Z",
+  "without_skill_run": "2026-11-16T20-23-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A reads as a finished, signed application that owns the late report and states fresh-food gains I can check in honest harvest-month terms. B has placeholders, including '[How this will be paid]', where the $4,500 a year should be covered, and that looks unfinished to someone who already had to chase this pantry for a report."
+}

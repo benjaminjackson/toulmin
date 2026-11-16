@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:26:22.373261+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 199
+  tags: []
+  notes: extracted 199 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 8
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 7
+    objections: 8
+    fit: 9
+  details:
+    agree: The plain apology, the weekly email and the credit when weather cuts a
+      box by more than a third deal directly with this household's complaints that
+      the farm went quiet and kept their money, so they will probably reconsider,
+      though nothing is offered for last year's losses.
+    honest: Every commitment and figure comes from the facts given, but 'many of you'
+      blurs 29 of 41 respondents, and 'half what it should have' drops the 'about'
+      from 'about half'.
+    works_the_facts: 'The email repeats the raw facts and works out nothing from them:
+      it doesn''t use 29 of 41, it doesn''t give the weekly value of a share (about
+      $24.50), and it doesn''t show the credit last year''s six thin weeks would have
+      earned under the new policy.'
+    right_comparison: The only comparison is that the price hasn't changed; the email
+      never sets last year's handling (no credit, one email) against what the same
+      storm would mean this year, beyond listing the changes.
+    qualification: 'The hedge is specific and the reader can check it: no promise
+      of zero loss, the greens are not netted, and any box cut by more than a third
+      gets a credit; it lacks an amount or timing for the credit.'
+    objections: The objection that the farm went silent and kept their money is answered
+      head-on by the apology, the weekly email and the credit, and the email raises
+      no objection the facts already settle.
+    fit: It is a short email of about 190 words with a subject line, a link, the deadline
+      and a signature, as the brief asked.

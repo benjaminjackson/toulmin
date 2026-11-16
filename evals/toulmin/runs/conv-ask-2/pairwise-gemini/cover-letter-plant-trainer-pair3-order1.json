@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-34-29Z",
+  "without_skill_run": "2026-11-16T20-01-37Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me concrete evidence that this teacher actually understands audits, signed training records, and GMP basics, rather than just offering generic assurances like Document B. It also includes practical details on her start date and interview availability, and doesn't leave unfilled template brackets."
+}

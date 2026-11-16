@@ -1,0 +1,25 @@
+{
+  "task": "sales-salon-bookkeeping",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-05-37Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Every account reconciled and categorized, with a clear report showing where your money went.",
+      "why": "The brief only states that the bookkeeper does \"monthly books\" and does not specify reconciling every account or providing a report."
+    },
+    {
+      "quote": "Paid correctly and on time, tips included.",
+      "why": "The brief only states \"payroll for up to 10 staff\" and does not specify that tips are included in payroll."
+    },
+    {
+      "quote": "including ones who had been with me for years.",
+      "why": "The brief says the price was raised for \"existing clients,\" not that clients had been with the bookkeeper for years."
+    },
+    {
+      "quote": "There are no introductory deals and no surprise increases for new clients.",
+      "why": "The brief does not mention a policy regarding introductory deals or future price increases for new clients."
+    }
+  ],
+  "invented_count": 4
+}

@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T20:35:49.255332+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 326
+  tags: []
+  notes: extracted 326 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 8
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 6
+    objections: 7
+    fit: 8
+  details:
+    agree: A quick-reading committee member gets concrete evidence of reliability,
+      initiative with data, and $8,000 in savings, and the two weak points are handled
+      frankly, so the letter would likely move the applicant toward a place, though
+      the weaker written English is left without much reassurance.
+    honest: Every figure matches what the writer was given, but 'seriously ill' slightly
+      strengthens 'got sick', and 'every time' adds a little colour the facts don't
+      directly state.
+    works_the_facts: The $8,000 saving and the cover arranged within two days are
+      used well, but 'two missed shifts in three years' is never turned into its stronger
+      form, about 2 out of roughly 780 scheduled shifts.
+    right_comparison: The letter ties his proven attendance and data work to what
+      a two-year program demands, but it never sets him against a typical applicant
+      or shows a trend in his growth beyond 'gone beyond the routine'.
+    qualification: A reference letter needs no conditional hedge here, and the commitments
+      (weekend job, phone number) are stated plainly and can be checked.
+    objections: The five-week absence is turned into proof that he plans ahead and
+      keeps his word, but the written-English concern gets only a bare mention of
+      the night class, with no evidence of progress, such as his passing the safety
+      test on the second attempt.
+    fit: It is a one-page letter signed by the farm manager with contact details,
+      as requested, though it never gives his surname, Reyes, which an admissions
+      file needs.

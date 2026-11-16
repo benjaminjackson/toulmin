@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me what I look for as a wary backer: a firm delivery date, updates every two weeks, a refund if delivery is more than three months late, no stretch goals, a signed quote, and an honest note that most ratings came from people who played at the creator's table. A has nice atmosphere but gives no delivery date and makes no refund promise, so I'd be left guessing about the risks."
+}

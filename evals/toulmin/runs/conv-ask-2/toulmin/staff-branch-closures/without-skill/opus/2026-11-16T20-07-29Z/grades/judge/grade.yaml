@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T20:08:07.939760+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 462
+  tags: []
+  notes: extracted 462 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 4
+    honest: 7
+    works_the_facts: 3
+    right_comparison: 5
+    qualification: 3
+    objections: 4
+    fit: 7
+  details:
+    agree: 'A teller who has spent ten years at a branch and doesn''t want phone work
+      gets a warm tone and a vague ''same pay or higher'', but nothing that makes
+      staying easier: no $1.50 raise, no seniority-first shift choice, and no 6-month
+      window to leave and still get severance.'
+    honest: 'It drops the unsupported ''better for everyone'' claim and keeps the
+      numbers accurate, but it makes up details the facts don''t support: one-on-ones
+      with managers rather than HR, a training start date, and a bracketed claim that
+      the other five branches aren''t affected.'
+    works_the_facts: 'The figures are just repeated: it doesn''t state the pay increase
+      as $1.50 an hour, and it doesn''t turn the severance rule into a concrete example
+      (ten years = 20 weeks of pay) for a group that is mostly long-tenured.'
+    right_comparison: The 44% fall in visits and the 60% rise in phone and chat contacts
+      show why keeping the branches open isn't the plan, and severance is named as
+      the staff member's alternative, but the two choices are never set side by side
+      for the reader.
+    qualification: 'The hedges can''t be checked: ''we''ll work with you where we
+      can'' and ''we expect it to cut wait times'' have no number or target, and every
+      deadline is a [DATE] placeholder even though February 14 and March 1 were available.'
+    objections: 'It acknowledges the change in hours, but it never addresses the main
+      objection, not wanting to work on the phones, and it leaves out the facts that
+      answer it best: the 6-month trial that keeps severance and seniority priority
+      on shifts.'
+    fit: It is a COO email of about 400 words with clear sections, but the unfilled
+      placeholders, including the sender's own name, mean it isn't ready to send.

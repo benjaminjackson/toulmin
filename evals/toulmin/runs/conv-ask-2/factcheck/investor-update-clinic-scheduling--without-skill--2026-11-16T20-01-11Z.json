@@ -1,0 +1,25 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-01-11Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Q3 update",
+      "why": "The brief does not state that this update is specifically for Q3."
+    },
+    {
+      "quote": "Competing as a standalone scheduler against a free built-in option is a hard position, and this quarter showed it.",
+      "why": "The brief only says the scheduler is built into the electronic records system, not that it is free."
+    },
+    {
+      "quote": "This lets us sell to clinics that already have a scheduler, including the ones built into their records system, instead of competing with it.",
+      "why": "The brief does not state that the standalone reminder feature can integrate with or work alongside third-party or built-in schedulers."
+    },
+    {
+      "quote": "The customer we just lost is exactly the kind of clinic this is built for.",
+      "why": "The brief does not say the standalone reminder product was built to target clinics on competing schedulers or chains that left."
+    }
+  ],
+  "invented_count": 4
+}

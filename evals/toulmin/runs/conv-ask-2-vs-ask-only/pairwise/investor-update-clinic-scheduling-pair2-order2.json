@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-33-09Z",
+  "without_skill_run": "2026-11-16T20-22-51Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B puts a short summary near the top and works out that the six pre-sold clinics bring in only $900 a month against $44,000 of burn. It also ties the phone-call request to the runway decision, which is what a lead investor with a right to join the next round wants to discuss. However, B's claim that the founder hasn't decided whether to raise or cut burn isn't in the brief. A is just as candid but reads more like a status report and has no clear decision point."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-31-58Z",
+  "without_skill_run": "2026-11-16T20-04-00Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is much more convincing because it gives me concrete facts I can verify—like the score reaching 8.2 before the renovation started, keeping overtime under plan for the last seven weeks, and having our controller Ben Oduya already on board to help with the budget. It also directly addresses my hesitation about the outside candidate and shows self-awareness by bringing up the Friday wait times, whereas Document B reads like an unfinished template with placeholders."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-34-03Z",
+  "without_skill_run": "2026-11-16T20-05-18Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks directly to the commissioners' traffic concern: the builder pays for a signal that keeps Alder and 4th at a C rating, and B asks for that signal as a condition of approval. It also offers neighbours weekday parking and a seat on the construction group. A plays down the drop to D, leaves placeholder names in the text and never mentions the construction trucks."
+}

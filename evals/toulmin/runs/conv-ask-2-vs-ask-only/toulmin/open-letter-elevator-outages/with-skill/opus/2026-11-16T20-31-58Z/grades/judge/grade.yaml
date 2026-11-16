@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:33:12.948040+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 427
+  tags: []
+  notes: extracted 427 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 5
+    objections: 6
+    fit: 8
+  details:
+    agree: The calm tone, specific asks and offer to meet give her something easy
+      to say yes to, but there is no reply deadline, and leaving out the missed dialysis
+      appointments makes it easier for her to see this as an inconvenience than as
+      harm.
+    honest: The figures match the brief and the second-elevator claim is carefully
+      hedged, but some lines go further than the facts, such as 'cannot get to the
+      doctor' as a general claim, the hypothetical ninth-floor resident, and 'traps
+      the same neighbours'.
+    works_the_facts: "Turning 41 days into one day in eight is a good move, but the\
+      \ letter never shows 74 of 112 as two-thirds of households, never sets the five\
+      \ months since June against the 6\u20138 week promise, and drops the dialysis\
+      \ fact."
+    right_comparison: It sets 'safe' against 'reliable' and repeats the June promise
+      to show nothing has changed, but it never spells out the status quo going forward,
+      such as how many more outage days to expect if the pattern continues.
+    qualification: '''We are not engineers'' and ''as far as we know'' are honest
+      hedges, but neither comes with a date, a number or a stated consequence, such
+      as a deadline for the written repair date.'
+    objections: It deals with the passing-certificate defence and the cost of a second
+      elevator, but it doesn't directly answer her view that this is 'a few loud people',
+      because 74 households is never framed as a clear majority of the 112.
+    fit: It is a properly addressed open letter of about 430 words that reads cleanly
+      whether it's posted in the lobby or seen by a reporter.

@@ -1,0 +1,21 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-31-58Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "In the seven years since, our labs have had no injury that needed more than first aid.",
+      "why": "The brief gives 2019 as the year the lab safety program was written, not the current year or that seven years have passed since."
+    },
+    {
+      "quote": "Every student passes a lab safety quiz before working in the lab, and I keep a signed record of each one.",
+      "why": "The user only said she keeps a signed record for every student's lab safety quiz, not that every student must pass the quiz before working in the lab."
+    },
+    {
+      "quote": "My teaching contract runs until June 14, and I can start then.",
+      "why": "The user only said she cannot start before June 14 because her contract runs until then, not that she can start on June 14 specifically."
+    }
+  ],
+  "invented_count": 3
+}

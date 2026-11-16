@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:23:23.570589+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 205
+  tags: []
+  notes: extracted 205 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 4
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 3
+    qualification: 3
+    objections: 3
+    fit: 8
+  details:
+    agree: 'A warm, clear ask, but it gives an editor with a $9,000 budget and an
+      $8,000 newer illustrator nothing besides past sales to justify $2,500 more:
+      no schedule commitment, no spot drawings and no fourth printing.'
+    honest: It drops the unsupported claim that every other publisher pays at least
+      $12,000 and keeps to the real figures, though 'my fees outside our work have
+      gone up' rests on a single $12,500 book.
+    works_the_facts: It restates the figures but works none of them out, such as $9,000
+      over four months being about $2,250 a month or $11,500 being $1,000 under her
+      own outside rate, and it leaves out the fourth printing, the sketch timeline
+      and the September 1 delivery.
+    right_comparison: The only comparison is with another publisher; the editor's
+      real alternative, a cheaper but unproven illustrator against a record of two
+      20,000-copy books still being reprinted, is never addressed.
+    qualification: It names no checkable commitment such as sketches within six weeks
+      of signing or final art by September 1, and it doesn't acknowledge the end-of-next-week
+      deadline, so the only conditional is a vague 'can no longer set aside that much
+      time'.
+    objections: The budget-and-cheaper-option objection isn't met with added value
+      or a reason the proven sales outweigh $3,500, and asking Nadia to 'take this
+      to whoever needs to approve it' misreads who makes the decision.
+    fit: A properly formatted email of about 200 words, well under the limit, though
+      it still ends with the '[Your name]' placeholder even though the name was known.

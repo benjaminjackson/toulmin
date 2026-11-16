@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-33-03Z",
+  "without_skill_run": "2026-11-16T20-22-38Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks more directly to neighbors who oppose the project. It admits that traffic will still increase and covers the 20 months of construction trucks. It also adds two concrete commitments: neighbors can park in the lot, and the speaker will serve on the neighbor group. A says the signal means 'the traffic gets handled', which overstates what the study shows, and it skips construction entirely."
+}

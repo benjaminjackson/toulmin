@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-34-54Z",
+  "without_skill_run": "2026-11-16T20-04-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is more convincing because it is specific. It names the $8,000 the early mastitis catches saved, says he arranged cover for the 5-week absence and came back on the promised day, and offers a weekend job and a working phone number. B is full of placeholders and adds claims the brief doesn't support, such as 'on his own initiative'. It also leaves out the two days' notice, which makes it read like a generic template."
+}

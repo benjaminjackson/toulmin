@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T20:26:06.284515+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 323
+  tags: []
+  notes: extracted 323 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 7
+    honest: 4
+    works_the_facts: 6
+    right_comparison: 5
+    objections: 6
+    fit: 9
+  details:
+    agree: A quick reader gets concrete, credible evidence (solo 3 a.m. shift, nine
+      early mastitis cases, $8,000 saved, a job held open), though a skeptical member
+      may still wonder how his written English will hold up in coursework.
+    honest: '"In three years he has missed two shifts" and "for the past three years"
+      leave out the five-week absence, even though the brief counts the two missed
+      shifts separately from it, and "on his own initiative," "nobody asked him,"
+      and "no one checks on him" are claims the brief never gives.'
+    works_the_facts: The nine cases and the $8,000 saving are used well, but two missed
+      shifts are never set against the roughly 780 scheduled shifts (better than 99%
+      attendance), and the absence handled with his cousin covering and a return on
+      the promised day isn't turned into a point in his favour.
+    right_comparison: '"I would put him up against anyone I have employed" is the
+      only comparison, and it is a vague claim, not one the facts back, so the reader
+      gets no sense of how he compares with typical applicants or workers.'
+    qualification: A reference letter of firm commitments (the weekend job and a phone
+      number) needs no conditional hedges, and this one contains none.
+    objections: The likely worry about written English is met with the night class,
+      but there is no evidence of progress (such as passing the safety course's written
+      test on his second try), and the five-week leave, which a phone call could bring
+      out, is not handled before the reader hears about it another way.
+    fit: It is a tight one-page letter from the farm manager with a signature and
+      contact details, as the brief asked.

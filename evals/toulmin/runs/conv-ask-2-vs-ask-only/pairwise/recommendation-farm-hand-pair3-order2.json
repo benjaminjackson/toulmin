@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-36-47Z",
+  "without_skill_run": "2026-11-16T20-26-06Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B ties Tomás's herd-data work to what the program teaches. It is candid about the two days' notice and the failed safety test, and it gives a real phone number. A leaves out the two days' notice, adds a claim that \"nobody assigned him that work,\" which isn't in the facts, and ends with [Phone] and [Email] placeholders."
+}

@@ -1,6 +1,6 @@
 ---
 name: toulmin
-description: Build, plan and check persuasive arguments with Toulmin's model (claim, grounds, warrant, backing, qualifier, rebuttal). Use this skill before writing anything meant to change a reader's mind or win a decision — a pitch, proposal, case for support, fundraising ask, grant application, op-ed, sales or outreach email, cover letter, memo or message that recommends a course of action, a reply to an objection — even when the user only says "write", "draft" or "help me say this" and never uses the word "argument". Use it when planning what to argue and to whom before any prose exists ("what's our angle", "how do we make the case", "how do I convince them", "what's the strongest argument for this"). Use it when checking whether an argument holds up, the user's draft or someone else's ("is this convincing", "does this hold up", "where is this weak", "poke holes in this", "why isn't this landing", "how would a sceptic read this"). If the piece has a reader who has to be brought to agree with something, load this skill first.
+description: Build, plan and check persuasive arguments with Toulmin's model (claim, grounds, warrant, backing, qualifier, rebuttal). Use this skill before writing anything meant to bring a particular reader to agree, decide or act — a pitch, proposal, case for support, fundraising ask, grant application, op-ed, sales page, sales or outreach email, negotiation email, cover letter, reference or recommendation letter, speech or public comment, open letter, memo or message that recommends a course of action, an update or announcement that carries bad news or has to keep people on board (to investors, staff, customers, members), a reply to an objection — even when the user only says "write", "draft" or "help me say this" and never uses the word "argument". Use it when planning what to argue and to whom before any prose exists ("what's our angle", "how do we make the case", "how do I convince them", "what's the strongest argument for this"). Use it when checking whether an argument holds up, the user's draft or someone else's ("is this convincing", "does this hold up", "where is this weak", "poke holes in this", "why isn't this landing", "how would a sceptic read this"). If the piece has a reader who has to be brought to agree with something, load this skill first.
 ---
 
 # Toulmin's model of argument
@@ -55,10 +55,26 @@ Then look at the rebuttals again. Each one that names a person or group who coul
 
 ### Drafting
 
-Work through the six questions first, then write. How much of that work the user sees depends on the size of the piece.
+Work through the six questions first. Then ask the user for what the argument is missing. Then write.
 
-- **Long or high-stakes** (a proposal, a pitch, a case for support, an op-ed, a memo to a decision-maker, anything the user will send to someone who can say no to something that matters): show the six parts as a short list before writing any prose. Let the user correct them. Write from the agreed version.
-- **Short** (an email of a few paragraphs, a single paragraph, a reply in a thread): work through the six parts without showing them and hand over the prose. Show the breakdown only if the user asks, or if you find a weak spot as described below.
+**Ask before you write, for every piece, long or short.** The user's request is never everything the user knows. The six questions show where the argument is thin, and the user can often fill that place with one sentence. A draft written without asking argues from half the grounds, and it leaves blanks or invents details where the user had the answer. Send one message with at most six questions, the most useful first. Ask only what would change the piece and what the request does not already answer. Look for these:
+
+- **What the reader gets and what it costs them.** The terms as they touch this reader: pay, price, dates, what they keep, what they lose, what they can still do if they change their mind. These are the grounds the reader cares about most, and a request often leaves half of them out because the user knows them too well to say them.
+- **Grounds for the reader's main objection.** Name the objection this reader will raise and ask what the user has that answers it: what has already been done or offered about it, what has changed since, what the proposal leaves in place. This question matters most. The fact that answers the objection is very often one the user did not think to mention.
+- **Backing.** What shows the writer can deliver, or knows the reader's world: a record, a credential, a time they did this before, someone who has checked their work or will vouch for it.
+- **What the writer can commit to.** A date, a number, a named person, what happens if it is missed. A qualification or a promise in the piece has to come from the user. Ask what they can stand behind; do not propose one and write it in.
+- **The reader.** Who exactly reads this, what they already think of the writer, and anything they hold against the writer, when the request does not say.
+- **The names and dates the piece cannot go out without.** Who it is addressed to, who signs it, a deadline.
+- **What the reader will find out anyway.** Close with one open question: is there a cost, a limit, a weak number or a past failure that the request leaves out and this reader knows or will learn? Each of these is a rebuttal. It is better met in the piece than found afterwards.
+
+If the claim outruns the grounds (see "When the evidence supports less than the claim"), put that decision in the same message, so the user answers once.
+
+How much of the six-part work the user sees with the questions depends on the size of the piece.
+
+- **Long or high-stakes** (a proposal, a pitch, a case for support, an op-ed, a memo to a decision-maker, anything the user will send to someone who can say no to something that matters): show the six parts as a short list above the questions. Let the user correct them. Write from the agreed version.
+- **Short** (an email of a few paragraphs, a single paragraph, a reply in a thread): send only the questions, with one line on why each matters. Show the breakdown only if the user asks, or if you find a weak spot as described below.
+
+When the answers come back, go through the six questions again before writing. A new fact can replace the ground the piece leads with, answer a rebuttal outright, or let the claim stand without the qualifier. When the user does not know, write without it and do not fill the place with a guess. Write a complete piece: no bracketed blank where a question would have got the answer, and no name, date or figure the user did not give.
 
 Turning the parts into prose:
 
@@ -66,7 +82,9 @@ Turning the parts into prose:
 - **State the warrant when the reader does not already hold it, or when saying it adds force. Leave it unstated when the reader takes it for granted.** A campus administrator knows no more parking can be built, so an argument for a bus service does not need to say so. The director of the bus company does not know that, and without it the facts do not lead anywhere. Spelling out a warrant the reader already holds reads as talking down to them.
 - Always know the warrant, even when it stays off the page. An argument whose warrant you cannot write down is one you do not understand yet.
 - Use the reader's own concerns as grounds where the facts allow. The restaurant owners are told about staff turnover and profit, not about fairness to waitresses.
+- A figure that shows the reader's own offer, decision or past conduct in a poor light is not a ground this reader accepts on sight. When the piece needs the reader's goodwill, start from what the two sides have built or share, give the figure once as the writer's position, and do not work it through for the reader as a lesson.
 - Deal with a rebuttal in the prose when the reader is likely to raise it themselves, and answer it: from the user's facts, or with a step the writer proposes, worded as a proposal. Naming an objection and then asking the reader to look past it, or leaving it for someone else to solve, is not an answer. Do not state as fact a reassuring detail the user never gave. When the reader already holds something against the writer, deal with it before the ask. Leave a rebuttal out when the reader is unlikely to raise it, but keep the answer ready.
+- Put in every fact the user gave that bears on this reader's decision, the unwelcome ones too: a running cost, a small sample, a missed deadline. State each one plainly, once, next to what answers it. Leaving it out does not strengthen the piece. The reader who finds it later stops trusting the rest, and the reader who sees it stated trusts the rest more. Before handing over, go down the user's facts and answers one at a time and check that each one that touches the reader's decision is in the piece.
 - Say what happens if the reader says no, in the user's own figures. The reader weighs the request against doing nothing, and a piece that leaves that side blank lets them assume doing nothing costs nothing.
 - Do not label the parts in the finished piece. The reader should see an argument, not a diagram.
 

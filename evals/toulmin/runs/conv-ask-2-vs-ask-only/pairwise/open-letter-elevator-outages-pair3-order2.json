@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-34-28Z",
+  "without_skill_run": "2026-11-16T20-23-48Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "A drops the second-elevator dispute and asks only for three things Keystone can start now, which is harder for me to dismiss as a few loud people making demands. B's 'two-thirds of the building' point and its offer to meet do count, but its extra ask for a feasibility study and the 'take it on trust' line feel like the same old fight."
+}

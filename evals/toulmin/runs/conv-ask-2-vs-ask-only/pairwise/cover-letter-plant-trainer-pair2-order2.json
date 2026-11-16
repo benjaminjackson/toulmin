@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-33-17Z",
+  "without_skill_run": "2026-11-16T20-22-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B reads as a finished, specific letter. It gives the May 2 course completion, mentions signed records twice, ties those records to audits, and is frank about the regulated-industry gap, which tells me this teacher understands documentation. A makes similar points but still has placeholders, and B's added claim of 'without leaving out any procedures' is a minor stretch rather than a clear misstatement."
+}

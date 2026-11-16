@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T20:03:03.443525+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 186
+  tags: []
+  notes: extracted 186 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 4
+    objections: 3
+    fit: 6
+  details:
+    agree: The evidence makes a reasonable case, but nothing gives an editor with
+      a $9,000 budget and an $8,000 alternative a reason to go above budget, such
+      as committed dates or the free extras, so she may well counter or pass.
+    honest: It correctly drops the unsupported claim that every other publisher pays
+      $12,000 and invents no numbers, though 'my rate elsewhere has gone up' rests
+      on a single $12,500 book.
+    works_the_facts: 'It lists the raw facts but works out nothing from them: not
+      the per-month earnings on a four-month job, not how far $11,500 sits below $12,500
+      or inside the agent''s range, and not the fourth printing.'
+    right_comparison: 'It compares against another publisher''s fee but never takes
+      on the editor''s real alternative: a newer illustrator with no bestselling or
+      reading-list record, at $8,000.'
+    qualification: The email has no hedges and the ask doesn't need one; the missing
+      delivery commitments are scored under objections.
+    objections: The budget objection and the cheaper-illustrator option are left unanswered,
+      and the available offsets (sketches within 6 weeks, final art by September 1,
+      two free spot drawings) go unused.
+    fit: It is a well-toned email under 250 words, but it keeps placeholders even
+      though the names and title (Nadia, Elena, The Night Garden) were known, and
+      it neither makes the requested 'everyone pays more' point in an honest form
+      nor explains why it was left out.

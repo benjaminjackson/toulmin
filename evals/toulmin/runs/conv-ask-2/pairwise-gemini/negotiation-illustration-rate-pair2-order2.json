@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-33-00Z",
+  "without_skill_run": "2026-11-16T20-03-03Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B gives me concrete value to help justify breaking my $9,000 budget—specifically the fourth printing success, the fast six-week sketch turnaround, and free marketing art. It also makes it clear that $9,000 is a dealbreaker for her, forcing me to seriously weigh her proven track record and reliability against taking a risk on the cheaper, newer illustrator."
+}

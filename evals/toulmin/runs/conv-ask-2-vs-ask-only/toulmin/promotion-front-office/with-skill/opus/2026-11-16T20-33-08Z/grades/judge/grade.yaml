@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:34:26.810449+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 401
+  tags: []
+  notes: extracted 401 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 6
+    objections: 8
+    fit: 9
+  details:
+    agree: For a GM who credits the renovation, the 7.9-to-8.2 rise before the work
+      began is hard to dismiss, and the seven-week record gives a concrete reason
+      to choose her over the outsider, though it may not fully outweigh his larger-hotel
+      experience.
+    honest: It drops the unsupported "main reason" claim and uses only real figures,
+      but "while I was rebuilding" quietly suggests she caused the early gain, and
+      "no learning period" overstates things given she has never run a budget.
+    works_the_facts: It works out that nearly half the score gain came before the
+      renovation and that training now takes about half as long, but it leaves turnover
+      as raw counts (9 of 14, 5 of 14) instead of the stronger 64% to 36%.
+    right_comparison: It compares the score before and after the renovation and turnover
+      before and after her promotion, and it describes the outside candidate fairly,
+      but it never says what hiring an outsider would mean in transition time for
+      the team.
+    qualification: The budget commitments are checkable (finance course within three
+      months, weekly sessions with the controller), but they don't give a number to
+      measure progress against or say what happens if she falls short.
+    objections: It answers the renovation objection with the pre-renovation numbers,
+      admits the budget gap and the outsider's experience, and doesn't raise objections
+      the facts already answer.
+    fit: It is a one-page memo addressed to the GM with clear sections, as the brief
+      asked.

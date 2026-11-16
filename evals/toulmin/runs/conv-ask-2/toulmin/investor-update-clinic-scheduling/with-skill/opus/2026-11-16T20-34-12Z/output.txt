@@ -1,0 +1,41 @@
+I've written the update, at about 420 words.
+
+- **Two figures I calculated:** revenue would drop to $37,200 if the two at-risk customers leave, and the six committed clinics add up to $900 a month. I put that second number in because investors will work it out themselves. It's better if they see you say it first.
+- **No target or fallback plan:** you haven't set either, so I didn't make one up. The phone calls are framed as a way to get investors' input on both.
+- **Check before the calls:** find out whether the reminder product works with the records system the chain moved to. I left it out because you don't know yet. It's the first question a sharp investor will ask, because it decides whether the clinics you're losing can become reminder customers.
+- **Before you send:** add your name at the bottom and your company name to the subject line if you want it there.
+
+<final_document>
+Subject: Quarterly update: flat revenue, lost our largest customer, reminders launch December 1
+
+Hi all,
+
+First: I haven't sent an update in two quarters. The numbers were flat and I didn't want to send bad news. That's the only reason, and it was the wrong call. From now on you'll get an update the first week of every quarter, starting January 7. If you'd also like a one-page set of numbers every month, reply and I'll add you.
+
+**The numbers**
+- Monthly recurring revenue: $41,000, the same as three months ago
+- Clinics: added 9, lost 4
+- Cash: $480,000 in the bank, losing about $44,000 a month, so roughly 11 months of runway
+- Team: 6
+
+**What happened**
+Our largest customer, a 12-clinic chain paying $5,500 a month, moved to the scheduler built into their electronic records system. The 9 new clinics made up for everything we lost, including the chain. That's why revenue held flat instead of falling. But it didn't grow.
+
+The risk isn't over. Two other customers use the same records system, and together they pay $3,800 a month. I can't promise they won't make the same move. If they do, monthly revenue drops to $37,200.
+
+**What's working**
+Clinics that use our automatic text reminders have a 7% no-show rate. Before they started, it was 13%. That's nearly half as many missed appointments.
+
+**What we're doing about it**
+On December 1 we start selling the reminders on their own for $150 a month. Here's our thinking: a records system can replace our scheduler, but the reminders are the part where clinics see results. Six clinics have told us they'll buy it at launch.
+
+To be plain about where this stands: six clinics is $900 a month. That's a start, not an answer. I haven't yet set a target for the product or decided what we do if it doesn't sell. I'd like your help with both. In the January 7 update I'll report how many clinics are paying for reminders.
+
+**What I'm asking for**
+1. Twenty minutes on the phone with each of you. I want your read on the reminder launch, what target we should hold ourselves to with 11 months of cash, and what we should do if we miss it.
+2. Introductions to physical therapy clinic chains, either for the full product or for reminders alone.
+
+We aren't planning to raise money right now.
+
+Thank you, and I'm sorry for the silence.
+</final_document>

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-33-09Z",
+  "without_skill_run": "2026-11-16T20-01-11Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A owns the reason for the silence without excuses, sets a concrete date for the next update, and offers a realistic, unvarnished look at both the churn risk ($3,800 MRR exposed) and the modest initial impact of the new product ($900 MRR). That level of candor and accountability actually rebuilds my trust enough to take the 20-minute call, whereas Document B feels generic and leaves unedited template placeholders."
+}

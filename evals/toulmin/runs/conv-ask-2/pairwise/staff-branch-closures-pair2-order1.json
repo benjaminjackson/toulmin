@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-36-30Z",
+  "without_skill_run": "2026-11-16T20-06-53Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me the concrete details I need to decide: a $1.50 raise, shift picks by seniority, offer and decision dates, a six-month window to leave and still get severance, and HR one-on-ones. It is also honest about the hours and the phone team's turnover. Document B leaves placeholders and vague promises, which makes it harder to trust or act on."
+}

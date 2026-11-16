@@ -1,0 +1,21 @@
+{
+  "task": "win-back-farm-share",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-06-51Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "so one storm is less likely to hit everything we grow.",
+      "why": "The brief states that a second field on higher ground was added, but does not give the reason for adding it."
+    },
+    {
+      "quote": "I read every reply.",
+      "why": "The brief does not mention that the sender reads every reply."
+    },
+    {
+      "quote": "Thanks for the seasons you spent with us.",
+      "why": "The brief only states that the non-renewing households had a share last year, not that they were members for multiple seasons."
+    }
+  ],
+  "invented_count": 3
+}

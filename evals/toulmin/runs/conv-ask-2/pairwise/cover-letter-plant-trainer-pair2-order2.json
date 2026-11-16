@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-33-17Z",
+  "without_skill_run": "2026-11-16T20-01-04Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks directly to my worry about regulated work. It mentions signed training records, two state audits with no findings, a GMP course already underway, and a measured cut from 20 to 12 hours, and it's addressed to me by name. A is full of placeholders and only promises to learn, with no proof behind it."
+}

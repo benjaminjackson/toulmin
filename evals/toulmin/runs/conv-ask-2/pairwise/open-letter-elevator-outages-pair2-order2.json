@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-33-13Z",
+  "without_skill_run": "2026-11-16T20-03-40Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is addressed to me by name and drops the second-elevator demand. It asks for three specific things I could actually do, offers a resident list and evening meetings, and mentions Channel 7, so it reads as a reasonable group I should deal with now. A has unfilled placeholders and open-ended demands, such as supplier details and the feasibility assessment, which make it easy to dismiss."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-farm-share",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-35-30Z",
+  "without_skill_run": "2026-11-16T20-06-23Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A fixes what actually made me leave: I'd get a credit any week weather cuts a box by more than a third, and a weekly email so the farm doesn't go quiet on me. It also apologizes plainly and is honest about what the nets can't protect. B admits the failure, but it only offers pause credits and nets, says nothing about how bad weeks would be handled, and still has placeholders like [link] and [Your name] in it."
+}
