@@ -1,0 +1,212 @@
+#!/usr/bin/env bash
+# Blind rubric judge, a smevals checker.
+#
+# It asks Opus to read the finished document as the reader the task names and to score seven items from 0 to 10.
+# The judge sees exactly three inputs: the reader description, the brief the writer was given, and the document.
+# It never sees the config name, the run path, the transcript or any other file, so it cannot tell which
+# configuration wrote the document.
+#
+# Normal use (called by `smevals grade`, working directory = the grade workspace):
+#   - reader comes from SMEVALS_TASK_READER (the task's `reader` key; smevals sets SMEVALS_TASK_<KEY> for every
+#     scalar task key, checked with a throwaway eval)
+#   - brief comes from SMEVALS_TASK_PROMPT (the task's `prompt` key)
+#   - document comes from ./document.txt, written by the extract-document check that runs before this one
+#   - model comes from SMEVALS_CHECK_MODEL (the `model:` key of the check)
+#   Prints one JSON object on stdout: score = (agree + honest) / 20, metrics = the seven items, details = the reasons.
+#   Saves the raw judge reply as ./judge-response.json.
+#
+# Inspection: `judge --print-prompt <run-dir>` prints the exact prompt text, without calling the model.
+#   - reader and brief come from <run-dir>/run.yaml, which smevals writes with the full task under `task:`
+#   - document comes from <run-dir>/grades/judge/document.txt; smevals keeps each grader's workspace at
+#     <run-dir>/grades/<grader name>/, so if the judge grader has not run, grades/judge-repeat/ is tried next
+set -u
+
+script_directory=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+# shellcheck source=../lib/base.sh
+source "$script_directory/../lib/base.sh"
+
+# The JSON schema the judge reply must follow. Every item has a score and a one-sentence reason.
+# qualification may have a null score when the document needs no qualification.
+JUDGE_SCHEMA='{
+  "type": "object",
+  "properties": {
+    "agree": {"$ref": "#/$defs/item"},
+    "honest": {"$ref": "#/$defs/item"},
+    "works_the_facts": {"$ref": "#/$defs/item"},
+    "right_comparison": {"$ref": "#/$defs/item"},
+    "qualification": {"$ref": "#/$defs/nullable_item"},
+    "objections": {"$ref": "#/$defs/item"},
+    "fit": {"$ref": "#/$defs/item"}
+  },
+  "required": ["agree", "honest", "works_the_facts", "right_comparison", "qualification", "objections", "fit"],
+  "additionalProperties": false,
+  "$defs": {
+    "item": {
+      "type": "object",
+      "properties": {
+        "reason": {"type": "string"},
+        "score": {"type": "integer", "minimum": 0, "maximum": 10}
+      },
+      "required": ["reason", "score"],
+      "additionalProperties": false
+    },
+    "nullable_item": {
+      "type": "object",
+      "properties": {
+        "reason": {"type": "string"},
+        "score": {"type": ["integer", "null"], "minimum": 0, "maximum": 10}
+      },
+      "required": ["reason", "score"],
+      "additionalProperties": false
+    }
+  }
+}'
+
+# Print the full judge prompt. Arguments: reader description, writer's brief, document text.
+# This one function builds the prompt for both the real call and --print-prompt, so what is printed is what is sent.
+build_prompt() {
+  local reader_description=$1
+  local writer_brief=$2
+  local document_text=$3
+  cat <<EOF
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+$reader_description
+</reader>
+
+<brief>
+$writer_brief
+</brief>
+
+<document>
+$document_text
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.
+EOF
+}
+
+# Find the document.txt that a graded run left behind, for --print-prompt. Argument: the run directory.
+# Prints the path, or nothing when no grade workspace holds a document.txt.
+find_graded_document() {
+  local run_directory=$1
+  local grader_name
+  for grader_name in judge judge-repeat; do
+    if [ -f "$run_directory/grades/$grader_name/document.txt" ]; then
+      echo "$run_directory/grades/$grader_name/document.txt"
+      return 0
+    fi
+  done
+  return 1
+}
+
+# Handle `judge --print-prompt <run-dir>`: print the prompt for a finished, graded run and exit.
+print_prompt_for_run() {
+  local run_directory=$1
+  if [ ! -f "$run_directory/run.yaml" ]; then
+    echo "judge: no run.yaml in $run_directory" >&2
+    exit 2
+  fi
+  local document_path
+  document_path=$(find_graded_document "$run_directory")
+  if [ -z "$document_path" ]; then
+    echo "judge: no grades/judge/document.txt or grades/judge-repeat/document.txt in $run_directory" >&2
+    exit 2
+  fi
+  local reader_description
+  local writer_brief
+  # yq -r prints the string value without YAML quoting.
+  reader_description=$(yq -r '.task.reader' "$run_directory/run.yaml")
+  writer_brief=$(yq -r '.task.prompt' "$run_directory/run.yaml")
+  build_prompt "$reader_description" "$writer_brief" "$(cat "$document_path")"
+  exit 0
+}
+
+# Print a failure result in the smevals checker format and exit non-zero. Argument: the note to record.
+fail_with_note() {
+  local note=$1
+  jq -n --arg notes "$note" '{notes: $notes}'
+  exit 1
+}
+
+# Handle the normal checker call: build the prompt, call the judge, print the grade JSON.
+run_check() {
+  if [ -z "${SMEVALS_TASK_READER:-}" ]; then
+    fail_with_note "the task has no reader key"
+  fi
+  if [ -z "${SMEVALS_TASK_PROMPT:-}" ]; then
+    fail_with_note "the task has no prompt key"
+  fi
+  if [ ! -s document.txt ]; then
+    fail_with_note "document.txt is missing or empty in the grade workspace"
+  fi
+  if [ -z "${SMEVALS_CHECK_MODEL:-}" ]; then
+    fail_with_note "the check has no model key"
+  fi
+
+  build_prompt "$SMEVALS_TASK_READER" "$SMEVALS_TASK_PROMPT" "$(cat document.txt)" > judge-prompt.txt
+
+  claude_stripped --model "$SMEVALS_CHECK_MODEL" --tools "" --output-format json --json-schema "$JUDGE_SCHEMA" \
+    < judge-prompt.txt > judge-response.json 2> judge-stderr.txt
+  local claude_exit_status=$?
+  if [ "$claude_exit_status" -ne 0 ]; then
+    fail_with_note "judge call exited with status $claude_exit_status; see judge-stderr.txt"
+  fi
+
+  # The structured reply arrives in .structured_output; older CLI versions put it in .result, sometimes as a
+  # JSON string. `fromjson?` parses a string and yields nothing (instead of an error) when it cannot.
+  local verdict
+  verdict=$(jq -c '.structured_output // (.result | if type == "string" then (fromjson? // null) else . end)' judge-response.json 2>/dev/null)
+  # `jq -e` exits non-zero when the expression is false or null, so this checks the two scored items are numbers.
+  if ! printf '%s' "$verdict" | jq -e '(.agree.score | type == "number") and (.honest.score | type == "number")' > /dev/null 2>&1; then
+    fail_with_note "judge reply has no structured verdict; see judge-response.json"
+  fi
+
+  # Build the grade: score from agree and honest; metrics leave out qualification when its score is null.
+  # `with_entries(select(.value != null))` drops keys whose value is null.
+  printf '%s' "$verdict" | jq '{
+    score: ((.agree.score + .honest.score) / 20),
+    metrics: ({
+      agree: .agree.score,
+      honest: .honest.score,
+      works_the_facts: .works_the_facts.score,
+      right_comparison: .right_comparison.score,
+      qualification: .qualification.score,
+      objections: .objections.score,
+      fit: .fit.score
+    } | with_entries(select(.value != null))),
+    details: {
+      agree: .agree.reason,
+      honest: .honest.reason,
+      works_the_facts: .works_the_facts.reason,
+      right_comparison: .right_comparison.reason,
+      qualification: .qualification.reason,
+      objections: .objections.reason,
+      fit: .fit.reason
+    }
+  }'
+  exit 0
+}
+
+if [ "${1:-}" = "--print-prompt" ]; then
+  if [ -z "${2:-}" ]; then
+    echo "usage: judge --print-prompt <run-dir>" >&2
+    exit 2
+  fi
+  print_prompt_for_run "$2"
+fi
+
+run_check

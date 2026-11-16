@@ -1,0 +1,102 @@
+#!/usr/bin/env bash
+# Test the blind rubric judge (checkers/judge).
+# It builds a fake graded run for the board-memo task in a temporary directory, checks the prompt that
+# `judge --print-prompt` prints, then makes one real judge call on the sample document.
+# Prints PASS or FAIL per test and exits non-zero when any test fails.
+set -u
+
+script_directory=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+judge_checker="$script_directory/judge"
+task_file="$script_directory/../tasks/board-memo.yaml"
+sample_document="$script_directory/fixtures/board-memo-document.txt"
+failure_count=0
+
+# Record one test result. Arguments: test name, then the exit status of the check (0 is a pass).
+report() {
+  local test_name=$1
+  local check_status=$2
+  if [ "$check_status" -eq 0 ]; then
+    echo "PASS $test_name"
+  else
+    echo "FAIL $test_name"
+    failure_count=$((failure_count + 1))
+  fi
+}
+
+work_directory=$(mktemp -d)
+# Remove the temporary directory when the script exits, whatever the exit path.
+trap 'rm -rf "$work_directory"' EXIT
+
+# A fake finished run, laid out the way smevals lays one out: run.yaml holds the task under `task:`, and the
+# judge grader's workspace at grades/judge/ holds the document.txt that extract-document wrote.
+run_directory="$work_directory/run"
+mkdir -p "$run_directory/grades/judge"
+# yq '{"task": .}' wraps the whole task file under a `task:` key.
+yq '{"task": .}' "$task_file" > "$run_directory/run.yaml"
+cp "$sample_document" "$run_directory/grades/judge/document.txt"
+
+reader_description=$(yq -r '.reader' "$task_file")
+writer_brief=$(yq -r '.prompt' "$task_file")
+printed_prompt=$("$judge_checker" --print-prompt "$run_directory")
+
+# grep -F matches the text literally; -q prints nothing and only sets the exit status.
+printf '%s' "$printed_prompt" | grep -qF "$reader_description"
+report "printed prompt contains the reader description" $?
+
+# The brief has several lines, so compare with a substring test instead of grep, which matches line by line.
+if [[ "$printed_prompt" == *"$writer_brief"* ]]; then
+  report "printed prompt contains the brief" 0
+else
+  report "printed prompt contains the brief" 1
+fi
+
+document_text=$(cat "$sample_document")
+if [[ "$printed_prompt" == *"$document_text"* ]]; then
+  report "printed prompt contains the document" 0
+else
+  report "printed prompt contains the document" 1
+fi
+
+# grep -c counts matching lines; -i ignores case; -E reads the pattern as an extended regular expression.
+banned_word_lines=$(printf '%s' "$printed_prompt" | grep -ciE 'with-skill|without-skill|plugin|transcript|toulmin')
+if [ "$banned_word_lines" -eq 0 ]; then
+  report "printed prompt names no configuration, plugin or transcript" 0
+else
+  report "printed prompt names no configuration, plugin or transcript" 1
+fi
+
+# One real judge call, run the way smevals runs a checker: working directory = the grade workspace,
+# task keys and check keys in SMEVALS_ variables.
+grade_workspace="$run_directory/grades/judge"
+checker_output=$(cd "$grade_workspace" && \
+  SMEVALS_TASK=board-memo \
+  SMEVALS_TASK_READER="$reader_description" \
+  SMEVALS_TASK_PROMPT="$writer_brief" \
+  SMEVALS_CHECK_MODEL=opus \
+  "$judge_checker")
+checker_exit_status=$?
+report "real judge call exits 0" "$checker_exit_status"
+
+# jq -e sets the exit status from the result: 0 only when the expression is true.
+printf '%s' "$checker_output" | jq -e '.score | type == "number" and . >= 0 and . <= 1' > /dev/null 2>&1
+report "real judge call returns a score between 0 and 1" $?
+
+# details has a reason for all seven items; metrics has all seven scores, except that qualification is left
+# out when the judge scored it null.
+seven_items='["agree","honest","works_the_facts","right_comparison","qualification","objections","fit"]'
+printf '%s' "$checker_output" | jq -e --argjson items "$seven_items" '
+  (.details | keys | sort) == ($items | sort)
+  and ((.metrics | keys | sort) == ($items | sort) or (.metrics | keys | sort) == ($items - ["qualification"] | sort))
+' > /dev/null 2>&1
+report "real judge call returns all seven items" $?
+
+test -s "$grade_workspace/judge-response.json"
+report "real judge call saves judge-response.json" $?
+
+echo "judge output:"
+echo "$checker_output"
+
+if [ "$failure_count" -ne 0 ]; then
+  exit 1
+fi
+exit 0
