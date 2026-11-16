@@ -1,0 +1,67 @@
+#!/usr/bin/env bash
+# smevals Checker: copies the document the model wrote out of its reply.
+# Reads output.txt from the Run directory and writes document.txt in the grade
+# workspace (the working directory) with the text between the LAST
+# <final_document> and </final_document> pair, minus leading and trailing
+# blank lines. The judge Check that runs after this one reads document.txt.
+# No pair, or an empty document, fails with "format failure".
+set -euo pipefail
+
+output_file="$SMEVALS_RUN_DIR/output.txt"
+document_file="document.txt"
+
+# Print a one-line JSON result for smevals and exit with the given code.
+# Arguments: exit code, metrics JSON, notes text, tags JSON array.
+emit_result() {
+  local exit_code="$1"
+  local metrics_json="$2"
+  local notes_text="$3"
+  local tags_json="$4"
+  # --argjson passes a value already in JSON form; --arg passes a plain string.
+  jq -cn \
+    --argjson metrics "$metrics_json" \
+    --arg notes "$notes_text" \
+    --argjson tags "$tags_json" \
+    '{metrics: $metrics, notes: $notes, tags: $tags}'
+  exit "$exit_code"
+}
+
+if [ ! -f "$output_file" ]; then
+  emit_result 1 '{}' "format failure" '["format_failure"]'
+fi
+
+# -R reads raw text instead of JSON and -s reads the whole file as one string.
+# Splitting on the opening tag and taking the last piece gives the text after
+# the last <final_document>. Splitting that on the closing tag must give at
+# least two pieces, or the last opening tag was never closed; then we print
+# nothing. The two sub() calls strip whole blank lines at the start and end.
+# -j prints the string with no added newline.
+document_text="$(jq -Rsj '
+  (split("<final_document>")) as $after_open_tags
+  | if ($after_open_tags | length) < 2 then
+      ""
+    else
+      ($after_open_tags | last | split("</final_document>")) as $around_close_tag
+      | if ($around_close_tag | length) < 2 then
+          ""
+        else
+          $around_close_tag[0]
+          | sub("^([ \t\r]*\n)+"; "")
+          | sub("(\n[ \t\r]*)+$"; "")
+        end
+    end
+' "$output_file")"
+
+# A document of only whitespace counts as empty.
+if [ -z "${document_text//[[:space:]]/}" ]; then
+  emit_result 1 '{}' "format failure" '["format_failure"]'
+fi
+
+# Our choice: document.txt ends with one newline, like any text file.
+printf '%s\n' "$document_text" > "$document_file"
+
+# wc -w counts words; the arithmetic expansion $(( )) strips the padding
+# spaces that macOS wc puts before the number.
+document_words=$(( $(wc -w < "$document_file") ))
+
+emit_result 0 "{\"document_words\": $document_words}" "extracted $document_words words" '[]'

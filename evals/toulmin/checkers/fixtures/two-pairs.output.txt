@@ -1,0 +1,13 @@
+First draft:
+
+<final_document>
+Draft one text.
+</final_document>
+
+After revision:
+
+<final_document>
+Draft two text.
+
+It keeps the second paragraph.
+</final_document>
