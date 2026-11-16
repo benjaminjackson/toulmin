@@ -1,9 +1,18 @@
 #!/usr/bin/env bash
 # smevals Runner for both arms of the toulmin eval.
 # Reads the prompt from SMEVALS_PROMPT, the model from SMEVALS_MODEL and the arm from ARM (with-skill or without-skill).
-# Sends only the prompt text to claude on standard input. No other task key reaches the model.
+# Sends only the prompt text to claude on standard input. No other task key reaches the writer.
 # Saves the claude event stream as transcript.jsonl in the run directory and prints the final result text.
 # Exits non-zero only for an infrastructure failure: timeout, no result event, or a result marked as an error.
+#
+# TOULMIN_MODE picks how the writer works:
+# - headless (the default): one turn. headless-note.txt tells the writer that nobody can answer.
+# - conversation: conversation-note.txt tells the writer that the user is present. While a reply has no
+#   <final_document> pair, a simulated user answers it and the same writer session is resumed with the answer.
+#   The simulated user knows the request and the task's `user_knows` key. After its third answer the next user
+#   message is fixed (see final_nudge_message). transcript.jsonl holds the event streams of all writer turns in
+#   order, and dialogue.jsonl holds one line per message: {"role": "writer" | "user", "text": ...}. The first line
+#   is the request itself.
 #
 # evals/toulmin/isolation-proof sources this file to call run_one_attempt, so both use the same flags.
 
@@ -14,21 +23,33 @@ script_directory=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
 repository_root=$(cd "$script_directory/../.." && pwd)
 base_script="$script_directory/lib/base.sh"
 headless_note_path="$script_directory/headless-note.txt"
+conversation_note_path="$script_directory/conversation-note.txt"
 timeout_seconds=900
+simulated_user_model=opus
+maximum_simulated_answers=3
+final_nudge_message="Please write it now with what you have."
 
-# Run claude once for one arm. Standard input: the prompt.
-# Arguments: arm, model, path of the file that receives the event stream.
+# shellcheck source=lib/user-knows.sh
+source "$script_directory/lib/user-knows.sh"
+
+# Run one writer turn of claude for one arm. Standard input: the user message.
+# Arguments: arm, model, path of the file that receives the event stream, path of the note appended to the system
+# prompt, working directory ("" for a new empty one that is removed afterwards), then any extra claude flags.
 # Prints the final result text. Returns non-zero on an infrastructure failure.
-run_one_attempt() {
+# Why one function: every writer turn in both modes gets the same tools and the same plugin flag.
+run_writer_turn() {
   local arm=$1
   local model=$2
   local transcript_path=$3
+  local note_path=$4
+  local working_directory=$5
+  shift 5
 
   local -a claude_flags=(
     --model "$model"
     --tools "Skill,Read,Glob,Grep"
     --allowedTools "Skill,Read,Glob,Grep"
-    --append-system-prompt "$(cat "$headless_note_path")"
+    --append-system-prompt "$(cat "$note_path")"
     --output-format stream-json
     --verbose
   )
@@ -41,11 +62,17 @@ run_one_attempt() {
     echo "run-claude: unknown arm '$arm' (expected with-skill or without-skill)" >&2
     return 2
   fi
+  # "$@" holds the extra flags, for example the session flags of a conversation turn.
+  claude_flags+=("$@")
 
   # `timeout` can only start a program, not a shell function, so it starts a new bash that
   # sources base.sh and calls claude_stripped. In `bash -c 'script' name arg1 arg2 ...`,
   # "name" becomes $0 and the remaining words become "$1", "$2", ... inside the script.
-  timeout "$timeout_seconds" bash -c 'source "$1"; shift; claude_stripped "$@"' run-claude "$base_script" "${claude_flags[@]}" > "$transcript_path"
+  if [ -z "$working_directory" ]; then
+    timeout "$timeout_seconds" bash -c 'source "$1"; shift; claude_stripped "$@"' run-claude "$base_script" "${claude_flags[@]}" > "$transcript_path"
+  else
+    timeout "$timeout_seconds" bash -c 'source "$1"; shift; claude_stripped_in_directory "$@"' run-claude "$base_script" "$working_directory" "${claude_flags[@]}" > "$transcript_path"
+  fi
   local claude_status=$?
   if [ "$claude_status" -eq 124 ]; then
     echo "run-claude: claude timed out after $timeout_seconds seconds" >&2
@@ -69,6 +96,17 @@ run_one_attempt() {
   printf '%s\n' "$(printf '%s' "$result_event" | jq -r '.result')"
 }
 
+# Run claude once for one arm in headless mode. Standard input: the prompt.
+# Arguments: arm, model, path of the file that receives the event stream.
+# Prints the final result text. Returns non-zero on an infrastructure failure.
+# isolation-proof calls this function, so its arguments stay as they were.
+run_one_attempt() {
+  local arm=$1
+  local model=$2
+  local transcript_path=$3
+  run_writer_turn "$arm" "$model" "$transcript_path" "$headless_note_path" ""
+}
+
 # Return 0 when the text has an opening and a closing final_document tag.
 has_final_document() {
   local result_text=$1
@@ -78,11 +116,172 @@ has_final_document() {
   return 1
 }
 
-# Run the arm named by ARM on SMEVALS_PROMPT, retrying once when the reply has no final document.
+# Append one message to dialogue.jsonl as {"role": ..., "text": ...}.
+# Arguments: dialogue path, role (writer or user), message text.
+append_dialogue_line() {
+  local dialogue_path=$1
+  local role=$2
+  local message_text=$3
+  jq -cn --arg role "$role" --arg text "$message_text" '{role: $role, text: $text}' >> "$dialogue_path"
+}
+
+# Print the prompt for the simulated user. Arguments: the request, the user_knows text (may be empty), the dialogue path.
+# The prompt names no arm, plugin or skill, so the simulated user cannot tell which arm it is talking to.
+build_simulated_user_prompt() {
+  local request_text=$1
+  local user_knows_text=$2
+  local dialogue_path=$3
+  if [ -z "${user_knows_text//[[:space:]]/}" ]; then
+    user_knows_text="Nothing beyond what the request says."
+  fi
+  # The first dialogue line is the request, which has its own section, so `tail -n +2` starts at the second line.
+  # Each message is shown as "Assistant:" or "You:" followed by its text.
+  local conversation_text
+  conversation_text=$(tail -n +2 "$dialogue_path" | jq -r 'if .role == "writer" then "Assistant:\n" + .text + "\n" else "You:\n" + .text + "\n" end')
+  cat <<EOF
+You are the user in a conversation with a writing assistant. You sent the request below. You also know the things listed under "What you know", which you did not put in the request. Write your next message to the assistant.
+
+<request>
+$request_text
+</request>
+
+<what_you_know>
+$user_knows_text
+</what_you_know>
+
+<conversation>
+$conversation_text
+</conversation>
+
+Rules:
+- You are this user. Write in the user's own plain voice, as short as a real person would type.
+- Answer only what the assistant asked in its last message.
+- Give a fact from what you know only when a question calls for it. Do not add a fact the assistant did not ask about, even when it would help. An open question such as "is there anything else I should know?" does call for the facts that bear on it.
+- When you are asked something you do not know, say you do not know.
+- When you are asked to choose or confirm, follow the preferences you stated in the request or in what you know. Where you have no preference, take the assistant's recommendation.
+- When the assistant's last message asks you nothing, reply with exactly: Go ahead.
+- Never write or edit the document, and never give writing advice.
+- Reply with only your message to the assistant, nothing else.
+EOF
+}
+
+# Ask the simulated user for its next message and print it. Arguments: the request, the user_knows text, the dialogue path.
+# One stripped claude call with no tools per answer. Returns non-zero on an infrastructure failure or an empty answer.
+simulate_user_reply() {
+  local request_text=$1
+  local user_knows_text=$2
+  local dialogue_path=$3
+  local response_json
+  response_json=$(build_simulated_user_prompt "$request_text" "$user_knows_text" "$dialogue_path" | timeout "$timeout_seconds" bash -c 'source "$1"; shift; claude_stripped "$@"' run-claude "$base_script" --model "$simulated_user_model" --tools "" --output-format json)
+  local claude_status=$?
+  if [ "$claude_status" -ne 0 ]; then
+    echo "run-claude: the simulated user call exited with status $claude_status" >&2
+    return 1
+  fi
+  local is_error
+  is_error=$(printf '%s' "$response_json" | jq -r '.is_error')
+  if [ "$is_error" != "false" ]; then
+    echo "run-claude: the simulated user reply is marked as an error or has no result" >&2
+    return 1
+  fi
+  local answer_text
+  answer_text=$(printf '%s' "$response_json" | jq -r '.result // ""')
+  if [ -z "${answer_text//[[:space:]]/}" ]; then
+    echo "run-claude: the simulated user reply is empty" >&2
+    return 1
+  fi
+  printf '%s\n' "$answer_text"
+}
+
+# Run one writer conversation and print the writer's last reply.
+# Arguments: arm, model, run directory. Returns non-zero on an infrastructure failure.
+# All writer turns share one session: the first turn sets its ID with --session-id, later turns use --resume.
+# A session can be resumed only from the directory it started in, so the turns share one empty directory made here
+# with mktemp -d, outside this repository, and removed at the end.
+run_conversation() {
+  local arm=$1
+  local model=$2
+  local run_directory=$3
+  local transcript_path="$run_directory/transcript.jsonl"
+  local dialogue_path="$run_directory/dialogue.jsonl"
+  : > "$transcript_path"
+  : > "$dialogue_path"
+
+  local user_knows_text
+  user_knows_text=$(task_user_knows "${SMEVALS_TASK:-}")
+
+  local session_directory
+  session_directory=$(mktemp -d)
+  # Each turn's stream goes to this file first and is then appended to transcript.jsonl. It is outside the session
+  # directory, so the writer's Glob and Read tools cannot see it.
+  local turn_stream_path
+  turn_stream_path=$(mktemp)
+  # uuidgen prints upper case; claude accepts a UUID in lower case, the usual form.
+  local session_id
+  session_id=$(uuidgen | tr '[:upper:]' '[:lower:]')
+
+  local conversation_status=0
+  local writer_reply
+  local user_message=$SMEVALS_PROMPT
+  local answer_count=0
+  append_dialogue_line "$dialogue_path" user "$user_message"
+  writer_reply=$(printf '%s' "$user_message" | run_writer_turn "$arm" "$model" "$turn_stream_path" "$conversation_note_path" "$session_directory" --session-id "$session_id")
+  if [ $? -ne 0 ]; then
+    conversation_status=1
+  fi
+  cat "$turn_stream_path" >> "$transcript_path"
+
+  while [ "$conversation_status" -eq 0 ]; do
+    append_dialogue_line "$dialogue_path" writer "$writer_reply"
+    if has_final_document "$writer_reply"; then
+      break
+    fi
+    # After the third simulated answer and the fixed nudge, the run ends with no document, as a headless run with
+    # no tags does: the reply is printed and extract-document records the format failure.
+    if [ "$answer_count" -gt "$maximum_simulated_answers" ]; then
+      echo "run-claude: no <final_document> pair after $answer_count user replies" >&2
+      break
+    fi
+    if [ "$answer_count" -lt "$maximum_simulated_answers" ]; then
+      user_message=$(simulate_user_reply "$SMEVALS_PROMPT" "$user_knows_text" "$dialogue_path")
+      if [ $? -ne 0 ]; then
+        conversation_status=1
+        break
+      fi
+    else
+      user_message=$final_nudge_message
+    fi
+    answer_count=$((answer_count + 1))
+    append_dialogue_line "$dialogue_path" user "$user_message"
+    writer_reply=$(printf '%s' "$user_message" | run_writer_turn "$arm" "$model" "$turn_stream_path" "$conversation_note_path" "$session_directory" --resume "$session_id")
+    if [ $? -ne 0 ]; then
+      conversation_status=1
+    fi
+    cat "$turn_stream_path" >> "$transcript_path"
+  done
+
+  rm -f "$turn_stream_path"
+  # rmdir removes the directory only when it is empty; the writer has no tool that writes files.
+  if ! rmdir "$session_directory" 2>/dev/null; then
+    echo "run-claude: the session directory $session_directory was not empty and was kept" >&2
+  fi
+  if [ "$conversation_status" -ne 0 ]; then
+    return 1
+  fi
+  printf '%s\n' "$writer_reply"
+}
+
+# Run the arm named by ARM on SMEVALS_PROMPT in the mode named by TOULMIN_MODE.
+# Headless mode retries once when the reply has no final document.
 main() {
   local arm=${ARM:-}
+  local mode=${TOULMIN_MODE:-headless}
   if [ "$arm" != "with-skill" ] && [ "$arm" != "without-skill" ]; then
     echo "run-claude: ARM must be with-skill or without-skill" >&2
+    exit 2
+  fi
+  if [ "$mode" != "headless" ] && [ "$mode" != "conversation" ]; then
+    echo "run-claude: TOULMIN_MODE must be headless or conversation" >&2
     exit 2
   fi
   if [ -z "${SMEVALS_PROMPT:-}" ] || [ -z "${SMEVALS_MODEL:-}" ]; then
@@ -93,6 +292,15 @@ main() {
   # smevals starts the runner in the run directory. claude_stripped changes directory only inside a subshell.
   local run_directory=$PWD
   local result_text
+
+  if [ "$mode" = "conversation" ]; then
+    result_text=$(run_conversation "$arm" "$SMEVALS_MODEL" "$run_directory")
+    if [ $? -ne 0 ]; then
+      exit 1
+    fi
+    printf '%s\n' "$result_text"
+    exit 0
+  fi
 
   result_text=$(printf '%s' "$SMEVALS_PROMPT" | run_one_attempt "$arm" "$SMEVALS_MODEL" "$run_directory/transcript.jsonl")
   if [ $? -ne 0 ]; then

@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:58:37.621336+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 374
+  tags: []
+  notes: extracted 374 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 4
+    honest: 6
+    works_the_facts: 3
+    right_comparison: 4
+    qualification: 3
+    objections: 3
+    fit: 6
+  details:
+    agree: The parallel between a lab and a plant is believable, but a skeptical HR
+      manager gets a letter addressed to '[Hiring Manager's Name]' at '[Company]'
+      with an unfinished AP sentence, and it gives her no proof on records, which
+      is her main doubt, so a phone screen is uncertain.
+    honest: It rightly drops the unsupported claim about halving training time, but
+      it understates the GMP course as something she 'plans to start' when she is
+      already enrolled and finishes May 2, and the 90-day plan promises more than
+      the facts show.
+    works_the_facts: It leaves out the strongest figure, that she cut new-teacher
+      training from 20 hours to 12 (40%), and it doesn't state the AP gain as 17 points
+      or a roughly 41% relative rise, or the total of about 18 teachers trained.
+    right_comparison: The AP pass rate is shown as a trend from 41% to 58%, but the
+      training-time claim has no 20-hour baseline, so the reader has nothing real
+      to compare 'shortening onboarding' against.
+    qualification: The 90-day promise of 'a target you can hold me to' names no number,
+      and the GMP course has no completion date, so the reader cannot check either
+      one.
+    objections: It raises the GMP-records gap itself but leaves out the signed training
+      records she keeps and the two clean state audits, which largely answer that
+      objection, and it never gives her June 14 start date or interview availability.
+    fit: It is a one-page cover letter as asked, but the bracketed placeholders remain
+      for her name, the company and the HR manager, even though she knows all three.

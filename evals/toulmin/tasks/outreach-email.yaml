@@ -14,3 +14,12 @@ prompt: |-
   - Her IT director led a two-year rollout of their current warehouse system that finished last year, and from what I hear he shuts down anything that touches it.
 
   I want to tell her we cut picking errors in half. Keep it short. She should be able to read it on her phone.
+user_knows: |-
+  - The company is PickCheck. I'm Jordan Lee, co-founder.
+  - We install nothing on the warehouse system. We read the order export file it already produces, and nothing writes back to it.
+  - One customer cancelled last year after 4 months because their pickers found the scanning slow.
+  - I can commit to a free 30-day pilot in one of her warehouses.
+  - I can commit to a reference call with the operations manager at the pet-supply distributor.
+  - I cannot get setup under 3 weeks.
+  - What I want: a 20-minute call. I can send a calendar link.
+  - I know "cut errors in half" is true for one customer and not the others. If that is pointed out, I'm fine with saying what we did for the pet-supply distributor.

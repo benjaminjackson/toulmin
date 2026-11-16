@@ -10,13 +10,24 @@
 # - The call runs from a new empty directory outside this repository. A project settings file is found by
 #   walking up from the working directory, and this repository's own .claude/settings.json has a hook.
 
-# Run `claude -p` stripped of all user and project customisation.
+# Run `claude -p` stripped of all user and project customisation, in a new empty directory that is removed afterwards.
 # Arguments: extra flags for claude (for example --model, --tools, --plugin-dir). Standard input: the prompt.
 claude_stripped() {
   local empty_directory
   empty_directory=$(mktemp -d)
-  (cd "$empty_directory" && claude -p --setting-sources project --strict-mcp-config "$@")
+  claude_stripped_in_directory "$empty_directory" "$@"
   local exit_status=$?
   rmdir "$empty_directory" 2>/dev/null
   return $exit_status
+}
+
+# Run `claude -p` stripped the same way as claude_stripped, but in a directory the caller made and keeps.
+# Why: a session can be resumed only from the directory it started in, so a conversation of several turns
+# needs one directory that lasts for all of them. The caller makes it with `mktemp -d` (so it is outside
+# this repository and empty) and removes it at the end.
+# Arguments: the directory, then extra flags for claude. Standard input: the prompt.
+claude_stripped_in_directory() {
+  local working_directory=$1
+  shift
+  (cd "$working_directory" && claude -p --setting-sources project --strict-mcp-config "$@")
 }

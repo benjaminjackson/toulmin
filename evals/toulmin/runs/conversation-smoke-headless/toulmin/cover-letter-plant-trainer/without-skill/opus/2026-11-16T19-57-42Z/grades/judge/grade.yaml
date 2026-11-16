@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T19:58:11.801200+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 368
+  tags: []
+  notes: extracted 368 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 4
+    honest: 8
+    works_the_facts: 3
+    right_comparison: 3
+    qualification: 2
+    objections: 4
+    fit: 6
+  details:
+    agree: A skeptical plant HR manager would see a familiar teacher-to-trainer letter
+      with no proof of record-keeping or regulated rigor, so a phone screen is possible
+      but not likely.
+    honest: It correctly drops the unsupported 'cut training in half' claim and invents
+      no numbers, though 'learned new systems quickly' and the 'assess gaps and confirm
+      competence' method go a little beyond what the brief shows.
+    works_the_facts: 'It leaves out the strongest available figures: the new-teacher
+      training cut from 20 to 12 hours (40%), the signed records for every trainee
+      and quiz, and two clean state audits, so the case rests on weaker numbers.'
+    right_comparison: The offer to make training 'faster' has no baseline, and the
+      letter never uses the real before-and-after of the writer's own rewrite (20
+      to 12 hours) to show what improvement looks like.
+    qualification: 'Needed checkable conditions are missing: the GMP basics course
+      finishing May 2, the June 14 earliest start date, and interview availability,
+      so the gap admission ends in a vague ''I''m confident'' with no date or commitment.'
+    objections: It names the GMP-records and LMS gap but answers it with general confidence
+      instead of the facts that meet it directly (signed training records, clean state
+      audits, GMP course enrollment).
+    fit: It is a one-page cover letter in the correct form, but placeholders stand
+      where the known name, Calder Pharmaceuticals, Westfield, and Karen Doyle should
+      be.

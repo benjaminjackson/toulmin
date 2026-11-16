@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# Checks every toulmin eval task in tasks/: each has name, type, set, reader and prompt, the set is
-# original, tune or sealed, and no prompt or reader names the skill or the thing it does. Also checks
+# Checks every toulmin eval task in tasks/: each has name, type, set, reader, prompt and user_knows, the set is
+# original, tune or sealed, and no prompt, reader or user_knows names the skill or the thing it does. Also checks
 # that the five original tasks are present and that tune and sealed each hold exactly one task of
 # each of the twelve document types. With --verbatim FILE, also checks that each task with a "## name"
 # heading in FILE has a prompt byte-identical to the prompt text in FILE (PROMPTS.md layout).
@@ -60,7 +60,7 @@ check_task() {
   fi
   local failures_before="$failure_count"
   local key
-  for key in name type set reader prompt; do
+  for key in name type set reader prompt user_knows; do
     if ! jq -e --arg key "$key" 'has($key)' <<<"$task_json" >/dev/null; then
       report_failure "$task_name" "no $key key"
     fi
@@ -76,7 +76,7 @@ check_task() {
     report_failure "$task_name" "set '$task_set' is not original, tune or sealed"
   fi
   local field_name
-  for field_name in prompt reader; do
+  for field_name in prompt reader user_knows; do
     local field_text
     field_text="$(jq -r --arg key "$field_name" '.[$key] // ""' <<<"$task_json")"
     if grep -Eiq "$forbidden_pattern" <<<"$field_text"; then

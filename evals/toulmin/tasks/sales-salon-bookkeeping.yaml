@@ -14,3 +14,12 @@ prompt: |-
   - The first call is free and takes 20 minutes.
 
   Keep it to about 350 words, with a button at the end to book the call.
+user_knows: |-
+  - I'm Carla Benson. My business is Chair and Ledger.
+  - I managed a hair salon for 6 years before I became a bookkeeper.
+  - I don't do income tax returns. A client's own accountant or tax preparer keeps doing those, and gets clean books from me.
+  - I raised the price because I added payroll for up to 10 staff, which I didn't do before.
+  - I can commit that if I miss the 10th, that month's fee is free. This started in January.
+  - I can commit that clients can stop with 30 days' notice. There is no contract.
+  - I cannot take more than about 5 new clients this year.
+  - The button goes to my calendar. Calls are Tuesday to Saturday.

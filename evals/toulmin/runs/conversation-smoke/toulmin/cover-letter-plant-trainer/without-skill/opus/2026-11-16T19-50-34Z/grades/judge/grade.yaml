@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T19:51:05.785653+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 380
+  tags: []
+  notes: extracted 380 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 4
+    honest: 6
+    works_the_facts: 3
+    right_comparison: 3
+    qualification: 2
+    objections: 4
+    fit: 6
+  details:
+    agree: A skeptical HR manager would see a candidly ordinary teacher letter. It
+      leaves out the signed training records, the two clean state audits and the cut
+      from 20 to 12 hours, which are the facts most likely to earn a phone screen.
+    honest: 'The letter rightly drops the unsupported claim about halving training
+      time, but it adds things the brief doesn''t support: an annual revision cycle
+      ''based on where new staff struggled'', the claim ''I learn new systems quickly'',
+      and the topics the training supposedly covers.'
+    works_the_facts: 'The figures are left raw: the letter never turns 20 to 12 hours
+      into a 40% cut, never names the 17-point AP gain, and never adds up roughly
+      24 hours a year of adult training, so the strongest true forms are lost.'
+    right_comparison: The key before-and-after, onboarding cut from 20 hours to 12,
+      is missing, so the letter never shows what training looked like before Laura
+      changed it; only the AP 41% baseline appears.
+    qualification: "The GMP gap is hedged with a vague 'I plan to learn\u2026 thoroughly\
+      \ and early' instead of the enrolled course ending May 2, and the June 14 start\
+      \ constraint and interview availability are left out."
+    objections: 'The letter admits the regulated-industry gap but doesn''t answer
+      it with the evidence the facts provide: signed training records for every trainee,
+      two clean state audits and a GMP course already underway.'
+    fit: It is a one-page cover letter as asked, but it is full of placeholders even
+      though the name, the company (Calder Pharmaceuticals, Westfield) and the addressee
+      (Karen Doyle) were known.

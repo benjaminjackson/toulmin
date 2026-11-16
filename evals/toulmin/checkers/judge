@@ -24,6 +24,8 @@ set -u
 script_directory=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
 # shellcheck source=../lib/base.sh
 source "$script_directory/../lib/base.sh"
+# shellcheck source=../lib/user-knows.sh
+source "$script_directory/../lib/user-knows.sh"
 
 # The JSON schema the judge reply must follow. Every item has a score and a one-sentence reason.
 # qualification may have a null score when the document needs no qualification.
@@ -71,16 +73,28 @@ task_judge_note() {
   /opt/homebrew/bin/yq -r '.judge_note // ""' "$script_directory/../tasks/$task_name.yaml"
 }
 
-# Print the full judge prompt. Arguments: reader description, writer's brief, document text, note on the brief (may be empty).
+# Print the full judge prompt. Arguments: reader description, writer's brief, document text, note on the brief (may be empty),
+# paragraph on what the user also knew (may be empty, see lib/user-knows.sh).
 # This one function builds the prompt for both the real call and --print-prompt, so what is printed is what is sent.
+# With both optional arguments empty the prompt is byte for byte what it was before user_knows existed.
 build_prompt() {
   local reader_description=$1
   local writer_brief=$2
   local document_text=$3
   local brief_note=${4:-}
+  local user_knows_block=${5:-}
   local brief_note_block=""
   if [ -n "$brief_note" ]; then
     brief_note_block="The person who wrote the brief adds this about its facts: $brief_note"
+  fi
+  # The user_knows paragraph goes right after the judge note, on the same template line, so that a task with
+  # neither leaves the template unchanged.
+  if [ -n "$user_knows_block" ] && [ -n "$brief_note_block" ]; then
+    brief_note_block="$brief_note_block
+
+$user_knows_block"
+  elif [ -n "$user_knows_block" ]; then
+    brief_note_block=$user_knows_block
   fi
   cat <<EOF
 You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
@@ -149,7 +163,7 @@ print_prompt_for_run() {
   writer_brief=$(yq -r '.task.prompt' "$run_directory/run.yaml")
   local task_name
   task_name=$(yq -r '.task.name' "$run_directory/run.yaml")
-  build_prompt "$reader_description" "$writer_brief" "$(cat "$document_path")" "$(task_judge_note "$task_name")"
+  build_prompt "$reader_description" "$writer_brief" "$(cat "$document_path")" "$(task_judge_note "$task_name")" "$(user_knows_paragraph "$task_name")"
   exit 0
 }
 
@@ -175,7 +189,7 @@ run_check() {
     fail_with_note "the check has no model key"
   fi
 
-  build_prompt "$SMEVALS_TASK_READER" "$SMEVALS_TASK_PROMPT" "$(cat document.txt)" "$(task_judge_note "$SMEVALS_TASK")" > judge-prompt.txt
+  build_prompt "$SMEVALS_TASK_READER" "$SMEVALS_TASK_PROMPT" "$(cat document.txt)" "$(task_judge_note "$SMEVALS_TASK")" "$(user_knows_paragraph "$SMEVALS_TASK")" > judge-prompt.txt
 
   claude_stripped --model "$SMEVALS_CHECK_MODEL" --tools "" --output-format json --json-schema "$JUDGE_SCHEMA" \
     < judge-prompt.txt > judge-response.json 2> judge-stderr.txt

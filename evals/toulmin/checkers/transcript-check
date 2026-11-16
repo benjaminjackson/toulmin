@@ -81,6 +81,16 @@ metrics_json="$(jq -cn \
   --argjson read_toulmin_book "$read_toulmin_book" \
   '{skill_loaded: $skill_loaded, read_karbach: $read_karbach, read_uses_of_argument: $read_uses_of_argument, read_toulmin_book: $read_toulmin_book}')"
 
+# In conversation mode run-claude writes dialogue.jsonl. Its first line is the request, so every later user line is
+# a simulated user message. user_replies counts those, to show how often each arm asked. It does not change pass or fail.
+# A headless run has no dialogue.jsonl and gets no user_replies metric.
+dialogue_file="$SMEVALS_RUN_DIR/dialogue.jsonl"
+if [ -f "$dialogue_file" ]; then
+  # -s reads every line into one array; the count of user lines minus the request, never below zero.
+  user_replies="$(jq -s '[.[] | select(.role == "user")] | length | if . > 0 then . - 1 else 0 end' "$dialogue_file")"
+  metrics_json="$(printf '%s' "$metrics_json" | jq -c --argjson user_replies "$user_replies" '. + {user_replies: $user_replies}')"
+fi
+
 if [ "$arm_name" = "with-skill" ]; then
   if [ "$skill_loaded" != "true" ]; then
     emit_result 1 "$metrics_json" "trigger failure" '["trigger_failure"]'

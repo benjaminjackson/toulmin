@@ -1,0 +1,36 @@
+I wrote the letter without the "cut training time in half" claim, because I think it would hurt you with this reader. You can still put it back.
+
+**The claim versus your evidence:** "Half" is a precise figure about a program you haven't seen. What you can show is that you build safety training that works, that you train adults on lab procedures, and that your teaching produces measurable results.
+
+**How a hiring manager will read it:** In a GMP plant, much of new-hire training is required: reading SOPs, sign-offs and qualification steps that can't simply be skipped. A teacher with no regulated-industry experience promising to halve it sight unseen suggests they don't yet understand compliance. That's the same gap the manager is already worried about. Nothing you've told me answers that objection.
+
+**What I wrote instead:** You'll shorten the time it takes new hires to work on their own without cutting anything that keeps them safe or compliant. In your first 90 days, you'll map the current program, report where the time goes and propose a target they can hold you to. It's still a bold offer, but it's one you can keep. If you want the original claim anyway, replace the first sentence of the fifth paragraph with: "I believe I can cut your new-hire training time in half without cutting anything that keeps people safe or keeps you compliant." Expect to be asked how in the interview.
+
+**Before you send it:**
+- **The AP paragraph has a placeholder.** Add one sentence on what you actually changed to raise the pass rate. The result is more convincing when they can see how you got it.
+- **I committed you to starting a GMP fundamentals course before your first day.** That's how the letter answers the missing GMP experience instead of just admitting it. Keep that sentence only if you'll actually do it. Pick a specific course and name it if you can.
+- **Fill in the brackets:** the hiring manager's name, the company name and your name.
+
+At about 420 words, it should fit on one page.
+
+<final_document>
+Dear [Hiring Manager's Name],
+
+I'm applying for the Training Coordinator position at [Company]. I've taught high school chemistry for nine years. The core of that job is the core of yours: teaching people to work with hazardous materials by following a procedure correctly, every time.
+
+In 2019 I wrote my school's lab safety program. Since then, with about 140 students a year working with chemicals in our labs, we haven't had one injury that needed more than first aid. That record rests on what a plant relies on too: written procedures, training before anyone starts the work, and sticking to the procedure even when it's inconvenient.
+
+I also train adults. Every year I give our new science teachers, about two a year, roughly 12 hours of training on lab procedures before they run a lab on their own. They arrive knowing the science but not our rooms, our chemicals or our protocols. I expect that's close to where your new hires start.
+
+I also check whether my teaching works. When I started teaching AP Chemistry, 41% of my students passed the exam. Four years later, 58% pass. [One sentence on what you changed to get there.]
+
+That's what I'd bring to your onboarding. I'd look for where new hires lose time: waiting, repeating material they've already mastered, or learning things out of order. Then I'd shorten the time it takes them to work on their own without cutting anything that keeps them safe or keeps you compliant. In my first 90 days I would map your current program, report where the time goes, and propose specific changes with a target you can hold me to.
+
+I'll be direct about what I don't have yet. I haven't worked in a regulated industry, and I haven't maintained GMP training records. I haven't used your learning management system either; I run my courses in Google Classroom. I expect the records side to be where I learn the most at first. I plan to start a GMP fundamentals course before my first day so that I arrive knowing the vocabulary and the reasons behind the requirements.
+
+I live about 30 minutes from the plant and would welcome the chance to talk about your training program.
+
+Sincerely,
+
+[Your Name]
+</final_document>

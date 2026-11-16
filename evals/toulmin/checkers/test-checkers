@@ -22,13 +22,14 @@ workspace_dir=""
 
 # Build a run directory from fixture files, then run one checker in a fresh
 # grade workspace. Arguments: checker name, arm name, transcript fixture (or
-# "-"), output fixture (or "-"). Sets checker_stdout, checker_exit_code and
+# "-"), output fixture (or "-"), and optionally a dialogue fixture. Sets checker_stdout, checker_exit_code and
 # workspace_dir.
 run_checker() {
   local checker_name="$1"
   local arm_name="$2"
   local transcript_fixture="$3"
   local output_fixture="$4"
+  local dialogue_fixture="${5:--}"
   case_number=$((case_number + 1))
   local run_dir="$scratch_dir/run-$case_number"
   workspace_dir="$scratch_dir/workspace-$case_number"
@@ -39,6 +40,9 @@ run_checker() {
   fi
   if [ "$output_fixture" != "-" ]; then
     cp "$fixtures_dir/$output_fixture" "$run_dir/output.txt"
+  fi
+  if [ "$dialogue_fixture" != "-" ]; then
+    cp "$fixtures_dir/$dialogue_fixture" "$run_dir/dialogue.jsonl"
   fi
   # The parentheses run the checker in a subshell so the cd stays local to it.
   checker_stdout="$(cd "$workspace_dir" && SMEVALS_RUN_DIR="$run_dir" "$checkers_dir/$checker_name")"
@@ -102,6 +106,18 @@ report_case "without-skill, toulmin skill listed in init: contaminated" \
 run_checker transcript-check without-skill without-skill-called.transcript.jsonl -
 report_case "without-skill, toulmin skill called: contaminated" \
   '.exit_code != 0 and .result.notes == "contaminated" and .result.tags == ["contaminated"]'
+
+run_checker transcript-check with-skill with-skill-loaded.transcript.jsonl - two-replies.dialogue.jsonl
+report_case "conversation, two simulated user replies: user_replies is 2, still passes" \
+  '.exit_code == 0 and .result.metrics.user_replies == 2 and .result.metrics.skill_loaded == true'
+
+run_checker transcript-check without-skill without-skill-listed.transcript.jsonl - two-replies.dialogue.jsonl
+report_case "conversation, toulmin listed: still contaminated, user_replies recorded" \
+  '.exit_code != 0 and .result.notes == "contaminated" and .result.metrics.user_replies == 2'
+
+run_checker transcript-check without-skill without-skill.transcript.jsonl -
+report_case "headless, no dialogue.jsonl: no user_replies metric" \
+  '.exit_code == 0 and (.result.metrics | has("user_replies") | not)'
 
 run_checker extract-document with-skill - one-pair.output.txt
 report_case "one tag pair: exits 0 with document_words" \

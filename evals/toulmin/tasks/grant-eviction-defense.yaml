@@ -14,3 +14,13 @@ prompt: |-
   - The county gives us $60,000 a year, and that contract is up for renewal in October.
 
   The project summary has to be 300 words or less.
+user_knows: |-
+  - The clinic is the Tenant Defense Project. I'm Maria Chen, managing attorney.
+  - The application is due March 3. The foundation decides in May.
+  - A family fund has pledged $20,000 a year for two years toward the new attorney. The rest of the gap comes from our general budget.
+  - The attorney who is leaving in June has agreed to spend her last month training the new hire.
+  - Our last attorney opening took 5 months to fill.
+  - I can commit to a report to the foundation every six months on cases opened and how they ended.
+  - I can commit to asking the county clerk for court-wide outcome data starting in January, so we have a comparison next year.
+  - I cannot promise the county will renew our $60,000 contract in October.
+  - I have no figure for what happens to tenants without a lawyer in our county.

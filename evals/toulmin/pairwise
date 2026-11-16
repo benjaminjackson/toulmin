@@ -20,6 +20,8 @@ SCRIPT_DIR=$(cd "$(dirname "$0")" && pwd)
 source "$SCRIPT_DIR/lib/base.sh"
 # shellcheck source=lib/gemini.sh
 source "$SCRIPT_DIR/lib/gemini.sh"
+# shellcheck source=lib/user-knows.sh
+source "$SCRIPT_DIR/lib/user-knows.sh"
 
 OPUS_PARALLEL_CALLS=8
 GEMINI_PARALLEL_CALLS=4
@@ -89,6 +91,12 @@ build_prompt() {
   brief_note=$(/opt/homebrew/bin/yq -r '.judge_note // ""' "$(dirname "${BASH_SOURCE[0]}")/tasks/$task_name.yaml")
   if [ -n "$brief_note" ]; then
     printf 'The person who wrote the brief adds this about its facts: %s\n\n' "$brief_note"
+  fi
+  # What the user knew but did not put in the request (see lib/user-knows.sh). A task with none adds nothing.
+  local user_knows_text
+  user_knows_text=$(user_knows_paragraph "$task_name")
+  if [ -n "$user_knows_text" ]; then
+    printf '%s\n\n' "$user_knows_text"
   fi
   printf 'Two documents were written from this brief.\n\n'
   printf '<document_a>\n%s\n</document_a>\n\n' "$(cat "$document_a_file")"

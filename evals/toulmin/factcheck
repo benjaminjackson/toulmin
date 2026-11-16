@@ -16,6 +16,8 @@ set -euo pipefail
 SCRIPT_DIR=$(cd "$(dirname "$0")" && pwd)
 # shellcheck source=lib/gemini.sh
 source "$SCRIPT_DIR/lib/gemini.sh"
+# shellcheck source=lib/user-knows.sh
+source "$SCRIPT_DIR/lib/user-knows.sh"
 
 YQ=/opt/homebrew/bin/yq
 GEMINI_MODEL=gemini-4-argon
@@ -54,6 +56,12 @@ build_prompt() {
   printf '<brief>\n%s\n</brief>\n\n' "$brief"
   if [ -n "$brief_note" ]; then
     printf 'The person who wrote the brief adds this about its facts: %s\n\n' "$brief_note"
+  fi
+  # What the user knew but did not put in the request (see lib/user-knows.sh). A task with none adds nothing.
+  local user_knows_text
+  user_knows_text=$(user_knows_paragraph "$task_name")
+  if [ -n "$user_knows_text" ]; then
+    printf '%s\n\n' "$user_knows_text"
   fi
   printf '<document>\n%s\n</document>\n\n' "$(cat "$run_dir/grades/judge/document.txt")"
   printf 'List every statement the document presents as fact that the brief does not give and that cannot be worked out from the facts in the brief by arithmetic. A number, a name, a date, an event, a study, a quote or a cause all count when the brief does not support them.\n\n'

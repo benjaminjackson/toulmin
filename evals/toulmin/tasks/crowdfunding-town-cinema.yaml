@@ -14,3 +14,12 @@ prompt: |-
   - The nearest other cinema is 38 miles away.
 
   Keep it under 350 words.
+user_knows: |-
+  - I'm Ruth Albers. The cinema is the Majestic on Main Street. The campaign opens May 1.
+  - This time the goal is $35,000 lower than last time, and the bank's $25,000 counts toward it, so we need $60,000 from the public.
+  - Three local businesses have already pledged $11,000 in writing.
+  - The roof estimate is from last fall. The contractor said it could rise by up to 15%.
+  - I can commit to an all-or-nothing campaign: if we don't reach $85,000 by June 30, every pledge is returned in full.
+  - I can commit to a public spending report every three months, posted at the town library.
+  - If we raise it, we plan to reopen by Thanksgiving.
+  - I cannot promise new films in their opening week. That depends on the film distributors.

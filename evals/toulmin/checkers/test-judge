@@ -65,6 +65,38 @@ else
   report "printed prompt names no configuration, plugin or transcript" 1
 fi
 
+# The user_knows paragraph. TOULMIN_TASKS_DIR points the judge at copies of the task in the temporary directory.
+copied_tasks_directory="$work_directory/tasks"
+mkdir -p "$copied_tasks_directory"
+user_knows_heading="The user also knew the following and gave some of it to the writer when asked:"
+
+# A copy with no user_knows key: the prompt must not mention it.
+yq 'del(.user_knows)' "$task_file" > "$copied_tasks_directory/board-memo.yaml"
+prompt_without_user_knows=$(TOULMIN_TASKS_DIR="$copied_tasks_directory" "$judge_checker" --print-prompt "$run_directory")
+if [[ "$prompt_without_user_knows" != *"$user_knows_heading"* ]] && [[ "$prompt_without_user_knows" != *"<user_knows>"* ]]; then
+  report "task with no user_knows: prompt has no user_knows paragraph" 0
+else
+  report "task with no user_knows: prompt has no user_knows paragraph" 1
+fi
+
+# A copy with a known user_knows list: the paragraph comes after the judge note and before the document.
+# strenv() reads a value from the environment into yq, so the text needs no quoting inside the expression.
+SAMPLE_FACT="- I know the sample fact." yq '.user_knows = [strenv(SAMPLE_FACT) | sub("^- "; "")]' "$task_file" > "$copied_tasks_directory/board-memo.yaml"
+prompt_with_user_knows=$(TOULMIN_TASKS_DIR="$copied_tasks_directory" "$judge_checker" --print-prompt "$run_directory")
+expected_paragraph="The person who wrote the brief adds this about its facts: $(yq -r '.judge_note' "$task_file")
+
+$user_knows_heading
+<user_knows>
+- I know the sample fact.
+</user_knows>
+
+<document>"
+if [[ "$prompt_with_user_knows" == *"$expected_paragraph"* ]]; then
+  report "task with user_knows: paragraph sits after the judge note and before the document" 0
+else
+  report "task with user_knows: paragraph sits after the judge note and before the document" 1
+fi
+
 # One real judge call, run the way smevals runs a checker: working directory = the grade workspace,
 # task keys and check keys in SMEVALS_ variables.
 grade_workspace="$run_directory/grades/judge"

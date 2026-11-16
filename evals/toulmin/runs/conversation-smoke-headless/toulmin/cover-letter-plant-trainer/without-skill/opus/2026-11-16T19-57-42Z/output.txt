@@ -1,0 +1,32 @@
+I left out the line about cutting their new-hire training time in half. You haven't seen their onboarding program yet, so a hiring manager will see that as a guess. In a regulated plant, a promise to speed up training can also suggest you'd cut corners on compliance. The letter instead offers to review their onboarding and make it faster and clearer, which you can back up. If you learn their current training time in an interview, that's the place to talk about specific improvements.
+
+The letter also mentions the GMP and LMS gaps directly, because the posting asks for GMP experience and the reader will notice it's missing. It names your real strengths for that gap: you've written a safety program people follow and you train adults on procedures every year. If you've started a GMP course or certificate, add one sentence about it in the fourth paragraph. That would help a lot.
+
+Fill in the bracketed parts before you send it.
+
+<final_document>
+[Your Name]
+[Phone] | [Email]
+[Date]
+
+[Hiring Manager's Name]
+[Company Name]
+[Address]
+
+Dear [Hiring Manager's Name],
+
+I'm applying for the Training Coordinator position at [Company Name]. For nine years I've taught high school chemistry, and much of that job is getting people to follow technical procedures safely and correctly every time. I'd like to bring that work to your plant.
+
+Each year I teach about 140 students across five classes. In a chemistry lab, doing a procedure "mostly right" isn't good enough. In 2019 I wrote our school's lab safety program, and since then our labs have had no injuries that needed more than first aid. That record comes from clear written procedures, training that sticks, and routines people keep following after the training ends.
+
+I also train adults. Every year I run about 12 hours of lab-procedure training for each new science teacher at my school, usually two new hires a year. They come in with different backgrounds and need to be ready to supervise a lab full of students quickly. I've learned to work out what each new hire already knows, focus on the gaps, and confirm they can do the work rather than just sit through it.
+
+My teaching has measurable results. Over the four years I've taught AP Chemistry, our pass rate rose from 41% to 58%. I got there by breaking hard material into clear steps, checking understanding often, and changing course when the data showed students weren't getting it. These are the same skills a training program needs.
+
+I haven't worked in a regulated industry, and I haven't kept GMP training records or used your learning management system. I'm not going to downplay that. I've built and maintained a safety program that people actually follow, and I've learned new systems quickly, including running my courses in Google Classroom. I'm confident I can learn your documentation requirements and platform fast and carefully. I'd also welcome the chance to review your current new-hire training and find ways to make it faster and clearer without giving up any accuracy or compliance.
+
+Thank you for your time and consideration. I'd be glad to talk about how my experience could support your training program.
+
+Sincerely,
+[Your Name]
+</final_document>
