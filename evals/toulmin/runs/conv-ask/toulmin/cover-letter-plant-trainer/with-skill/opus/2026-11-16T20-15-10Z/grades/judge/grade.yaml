@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T20:16:14.532979+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 340
+  tags: []
+  notes: extracted 340 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 6
+    objections: 5
+    fit: 8
+  details:
+    agree: The signed records, the two clean state audits and the cut from 20 to 12
+      hours would likely get a skeptical HR manager to grant a phone screen, but she
+      would still be unsure about the LMS gap and the start date.
+    honest: The letter rightly drops the unsupported claim about halving training
+      time, but it adds 'without dropping any required content' and says students
+      pass the quiz 'before working in the lab', and neither is in the facts.
+    works_the_facts: It gives the raw figures but never puts them in their strongest
+      true form, such as a 40% cut in training time, a 17-point rise in the pass rate,
+      or the total number of teachers trained since 2020.
+    right_comparison: Before-and-after comparisons are stated accurately (20 to 12
+      hours, 41% to 58%, injuries since 2019), but the AP gain isn't shown as a steady
+      trend and the safety record has no pre-2019 baseline.
+    qualification: The GMP course has a specific end date she can check (May 2), but
+      the letter leaves out the June 14 start constraint and her interview availability,
+      both of which matter for scheduling.
+    objections: It deals directly with the lack of regulated-industry and GMP experience,
+      but says nothing about not having used the plant's LMS, and it stretches school
+      audit results into proof of GMP-grade recordkeeping.
+    fit: This is a properly addressed one-page cover letter of suitable length, though
+      the heading has no contact details and there is no closing note on availability.

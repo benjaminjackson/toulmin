@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-16-43Z",
+  "without_skill_run": "2026-11-16T20-05-29Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is concrete and credible. It gives the $8,000 the vet says early detection saved, explains how he arranged cover with his cousin and came back on the promised day, and offers a weekend job while he studies. A has unfilled placeholders and skips the two days' notice he gave before leaving, which makes it feel generic and less frank."
+}

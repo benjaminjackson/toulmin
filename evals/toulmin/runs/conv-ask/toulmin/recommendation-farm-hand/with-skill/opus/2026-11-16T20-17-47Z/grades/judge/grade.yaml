@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:18:48.044299+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 325
+  tags: []
+  notes: extracted 325 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 8
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 6
+    objections: 8
+    fit: 9
+  details:
+    agree: 'A quick-reading committee member gets concrete evidence on the program''s
+      own ground: data-driven health flagging, $8,000 saved, a solo 3 a.m. shift.
+      The two likely worries, written English and the five-week absence, are each
+      answered before the reader reaches them.'
+    honest: Nearly every claim traces to the facts, but 'seriously ill' goes beyond
+      'got sick'. The letter also invents 'learned our software by sticking with it'
+      and quietly leaves out that he gave only two days' notice.
+    works_the_facts: The $8,000 savings figure is well placed. The attendance record
+      stays as '2 shifts in 3 years' when it could have been put as roughly 2 missed
+      out of about 780 solo early shifts.
+    right_comparison: The letter frames his current work as what the program trains
+      people to do, which helps. But it never compares him with a typical applicant
+      or shows any trend, such as how far he has progressed from novice to flagging
+      cases.
+    qualification: The English caveat is honest and names the night class and the
+      weekend job commitment. It gives no level, timeline or checkable progress, apart
+      from offering a phone number.
+    objections: 'Both the reliability concern raised by the absence and the written-coursework
+      concern are met with specific facts: the cousin covered his shifts, he returned
+      on the promised date, and he is taking the night class. No objection is raised
+      that doesn''t need answering.'
+    fit: It is a tight one-page letter from the farm manager, with contact details
+      and a clear recommendation, and it suits a quick reader.

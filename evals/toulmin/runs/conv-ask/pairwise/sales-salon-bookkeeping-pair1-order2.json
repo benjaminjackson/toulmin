@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-16-14Z",
+  "without_skill_run": "2026-11-16T20-05-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B comes from a named person who managed a salon for six years, and it backs the 10th-of-the-month deadline with a free month if she misses it. That gives me real reasons to trust her over my cousin. A admits the missed deadlines and then offers nothing for them, and its note about the price increase leaves me more uneasy than reassured."
+}

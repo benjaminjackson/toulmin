@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-15-58Z",
+  "without_skill_run": "2026-11-16T20-02-19Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is more convincing to a wary backer. It admits that most of the 8.1 ratings came from people who played at the creator's own convention table, and it gives budget math I can check from the signed factory quote. It also names a delivery date and an outside reviewer. B has unfilled placeholders, no delivery date, and claims I can't verify, like the range of playtesters, which makes it feel less reliable."
+}

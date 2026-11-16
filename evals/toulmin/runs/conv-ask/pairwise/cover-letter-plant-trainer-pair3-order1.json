@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-15-10Z",
+  "without_skill_run": "2026-11-16T20-01-37Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A tackles my main doubt about teachers head-on. It cites signed training records, two state audits with no findings, a training course cut from 20 hours to 12, and a GMP course she is already enrolled in. B stays generic, is full of placeholders, and admits the GMP gap without showing any documentation track record."
+}

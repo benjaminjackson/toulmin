@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-14-57Z",
+  "without_skill_run": "2026-11-16T20-03-30Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is a finished, specific email: it names The Night Garden, mentions the fourth printing and offers firm commitments on sketches, final art by September 1 and two free marketing spots. Those give me concrete reasons to pay more than the cheaper newer illustrator would cost. B still has unfilled placeholders and offers nothing beyond the request, so it reads as less serious and is easier to turn down."
+}

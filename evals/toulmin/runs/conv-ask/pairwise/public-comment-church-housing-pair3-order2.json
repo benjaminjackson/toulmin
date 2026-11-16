@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-15-17Z",
+  "without_skill_run": "2026-11-16T20-05-18Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B speaks directly to the commissioners' main worry about traffic on Alder Road. It offers the builder-funded signal that keeps the intersection at a C, asks for that signal as a condition of approval, and adds the neighbor-parking commitment. Document A only asks us to accept the drop to a D, and it still has unfilled placeholders like [Your Name]."
+}

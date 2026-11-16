@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T20:17:21.239750+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 433
+  tags: []
+  notes: extracted 433 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 5
+    honest: 4
+    works_the_facts: 4
+    right_comparison: 6
+    qualification: 4
+    objections: 5
+    fit: 7
+  details:
+    agree: 'Staff who don''t want phone work get a candid, respectful case and clear
+      dates, but the two strongest reasons to try the role are missing: the $1.50-an-hour
+      raise and keeping severance if they leave within 6 months.'
+    honest: 'It avoids the unsupported ''better for everyone'' claim, but it invents
+      material: undecided rotation frequency and evening pay, members complaining,
+      and ''most of our members'' now reaching us by phone and chat, which the 60%
+      rise does not show.'
+    works_the_facts: The 44%, 60% and 9-minute figures appear, but only as given;
+      'same pay or higher' undersells the real $1.50-an-hour raise, and nothing is
+      worked out, such as what the severance comes to after ten years (20 weeks).
+    right_comparison: It sets the 44% fall in branch visits against the 60% rise in
+      phone and chat and the hold times, but it never says what happens to these branches
+      or jobs if nothing changes.
+    qualification: Offer and decision dates are concrete, but the open question about
+      shift rotation and evening pay has no date and no consequence, and it wasn't
+      a fact the writer had.
+    objections: It deals openly with the schedule worry and offers HR meetings, but
+      it leaves out the 6-month severance fallback, which answers 'what if I hate
+      the phones', and never mentions the two weeks of rumours.
+    fit: It is a COO email of about 420 words with sensible sections, but the sign-off
+      has no name, only a title.

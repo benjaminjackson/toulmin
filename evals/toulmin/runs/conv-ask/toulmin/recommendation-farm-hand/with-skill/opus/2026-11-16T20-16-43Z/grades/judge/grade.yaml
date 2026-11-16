@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T20:17:47.264819+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 324
+  tags: []
+  notes: extracted 324 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 5
+    objections: 8
+    fit: 8
+  details:
+    agree: 'A quick reader gets a clear case: he runs the 3 a.m. shift alone, his
+      early mastitis catches saved about $8,000, and the absence is explained well,
+      though leaving out the phone number makes the offer to answer questions weaker.'
+    honest: Most claims match the facts, but 'seriously ill' and 'I held his job for
+      him' go a little beyond what the brief says, and the line saying he already
+      does 'a good part of what your program teaches' is the writer's guess.
+    works_the_facts: It uses the $8,000 and the nine cases well, but it never turns
+      two missed shifts in about 780 scheduled ones into a near-perfect attendance
+      rate, which would be the strongest true way to state it.
+    right_comparison: "It never compares Tom\xE1s with other workers or a typical\
+      \ applicant, so the committee has no baseline for judging how unusual his reliability\
+      \ or initiative is."
+    qualification: The hedges ('I expect him to bring the same effort') can't be checked,
+      and the weekend-job commitment gives no hours and no end date.
+    objections: It deals head-on with the two things a committee would worry about,
+      the five-week absence and his written English, uses the facts that answer them
+      (the cousin covering, the on-time return, the night class), and raises no worries
+      the facts don't support.
+    fit: It is a one-page letter signed by the farm manager, as asked, but it leaves
+      out the phone number the user offered for the committee to call.

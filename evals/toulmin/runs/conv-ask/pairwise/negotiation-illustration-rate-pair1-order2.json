@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-13-02Z",
+  "without_skill_run": "2026-11-16T20-02-34Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is a finished letter to me by name: it adds the fourth printing, says plainly that she can't do another book at $9,000, and ends with a direct question I can answer. That makes the request feel real and easy to act on. A has unfilled placeholders like [Name] and [Book Title] and a softer ask, so it reads as a draft."
+}

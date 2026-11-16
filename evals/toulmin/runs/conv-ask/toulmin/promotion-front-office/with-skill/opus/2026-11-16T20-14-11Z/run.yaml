@@ -1,0 +1,63 @@
+task:
+  name: promotion-front-office
+  type: promotion-case
+  set: tune
+  reader: The hotel's general manager, who decides who becomes front office manager.
+    He likes the writer but is also interviewing an outside candidate who ran the
+    front desk at a larger hotel, and he believes the rise in guest scores came mostly
+    from the renovation.
+  prompt: 'Help me write a case for my promotion. I''m the assistant front office
+    manager at a 180-room hotel, and the front office manager job is open. I''m applying,
+    and my general manager wants it in writing by Friday.
+
+
+    Facts:
+
+    - I''ve worked here 6 years, the last 2 as assistant manager.
+
+    - Our guest score for check-in on the main review site went from 7.9 to 8.6 over
+    the last 18 months. The lobby and all the rooms were renovated during the same
+    time.
+
+    - I rewrote the front desk training. New hires now work the desk alone after 5
+    shifts instead of 9.
+
+    - Front desk turnover was 9 of 14 people in the year before I became assistant
+    manager, and 5 of 14 last year.
+
+    - I''ve covered the front office manager''s job alone for the 7 weeks since she
+    left.
+
+    - I have never managed a budget. The front office manager owns a $1.1 million
+    payroll budget.
+
+
+    I want it to say I''m the main reason our guest scores went up. One page.'
+  user_knows: '- My name is Daniela Ruiz. The general manager is Mark Ellison.
+
+    - The renovation started 5 months into those 18 months. Our check-in score had
+    already gone from 7.9 to 8.2 before it started.
+
+    - In the 7 weeks I''ve covered the job, no front desk shift went uncovered, and
+    overtime came in under the monthly plan.
+
+    - Guest complaints about check-in waits on Friday evenings are still the most
+    common complaint at the desk.
+
+    - I can commit to finishing the hotel company''s finance course in my first 3
+    months, which the company pays for.
+
+    - I can commit to weekly sessions on the payroll budget with our controller, Ben
+    Oduya, who has offered them.
+
+    - I cannot match the outside candidate''s experience at a larger hotel.
+
+    - I know the renovation happened in the same period. If it is pointed out that
+    "main reason" goes past the facts, I''m fine with saying what I did.'
+config:
+  name: with-skill
+  runner: /Users/ben/github/toulmin/evals/toulmin/run-with-skill
+  model: opus
+started: '2026-11-16T20:14:11.369847+00:00'
+duration_seconds: 65.74
+exit_code: 0

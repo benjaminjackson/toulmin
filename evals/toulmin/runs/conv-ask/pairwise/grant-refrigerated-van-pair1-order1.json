@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-13-02Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A deals with the late report directly: it names Dave Lin as responsible, sets a 30-day deadline and commits to quarterly fresh-food reports, which answers my main concern after chasing their last report. Document B still has placeholders and offers only a vague promise to be on time. A leaves out the yearly insurance and fuel cost, but B only has a blank where that cost should be, so it doesn't answer the question either."
+}

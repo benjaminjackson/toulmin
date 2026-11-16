@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-15-21Z",
+  "without_skill_run": "2026-11-16T20-01-54Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives the honest reason for going quiet, firm commitments (January 7, monthly numbers), lays out the concentration risk with figures, and makes specific asks. That answers my cold email directly. B has a thinner apology, placeholders left unfilled, no fundraising plan and no concrete commitments, so it reads as unfinished."
+}

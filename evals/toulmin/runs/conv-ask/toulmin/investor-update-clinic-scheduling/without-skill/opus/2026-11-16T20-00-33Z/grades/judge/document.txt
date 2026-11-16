@@ -1,0 +1,53 @@
+**Subject: [Company] Q3 update: flat MRR, lost our largest customer, launching standalone reminders**
+
+Hi all,
+
+This update is overdue. I didn't send one for the last two quarters, and I'm sorry about that. You should hear from us every quarter whether the news is good or bad, and from now on you will.
+
+**The numbers**
+
+- **MRR:** $41,000, the same as three months ago
+- **Clinics:** 9 added, 4 lost
+- **Cash:** $480,000 in the bank
+- **Burn:** about $44,000 a month, which gives us roughly 11 months of runway
+- **Team:** 6 people
+
+**What happened**
+
+Flat MRR hides two different things.
+
+The bad part: we lost our largest customer. They were a 12-clinic chain paying $5,500 a month, and they moved to the scheduler built into their electronic records system. That's the biggest risk to our business. Large clinic groups already pay for an EHR, and when its scheduler is good enough, a separate tool is easy to cut.
+
+The good part: we replaced that revenue. We signed 9 new clinics, enough to cover the chain plus 3 smaller losses. Without that one loss, MRR would have grown.
+
+**What's working**
+
+Clinics that use our automatic text reminders have a 7% no-show rate. Before they started, it was 13%. That's close to half the no-shows gone. For a PT clinic, a no-show is an empty slot that can't be billed, so customers feel this result directly. It's also the clearest evidence of value we have.
+
+**What we're doing about it**
+
+Next month we start selling text reminders on their own for $150 a month.
+
+This answers the problem the chain exposed. A clinic that's happy with its EHR scheduler doesn't have to replace it. Clinics we've lost to EHR schedulers, or would have, can still buy the part of our product with the clearest return. It's also a smaller, easier first purchase that can lead to the full scheduler later.
+
+Over the next quarter we'll be watching:
+
+1. How many clinics buy standalone reminders, and how quickly
+2. Whether those buyers later upgrade to the full scheduler
+3. Whether reminder results stay as strong with clinics that don't use our scheduler
+
+**Runway**
+
+At current burn we have about 11 months. I'm taking that seriously. Within the next quarter we'll decide whether to cut burn or prepare to raise, and the standalone reminder numbers will drive that decision. I'll share our reasoning in the next update.
+
+**How you can help**
+
+- **Introductions to PT clinic owners or operators,** especially clinics that are happy with their EHR but still have trouble with no-shows. They're exactly who the new product is for.
+- **Advice from anyone who has seen a company sell one feature on its own** next to a full product: pricing, packaging, and whether it cannibalized the main product.
+
+I'm happy to get on a call with any of you to go deeper. Just reply.
+
+Thank you for your patience and your support.
+
+[Your name]
+Founder, [Company]

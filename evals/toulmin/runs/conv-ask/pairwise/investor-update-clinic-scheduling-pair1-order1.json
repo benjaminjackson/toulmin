@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-13-02Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me what my cold email asked for: a plain reason for the silence, a dated commitment (January 7, plus monthly numbers on request), the $3,800 a month still at risk, and the six committed buyers, with a clear ask. B has unfilled placeholders, leaves out the at-risk customers and the commitments, and reads more generic."
+}

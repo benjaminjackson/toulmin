@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-farm-share",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-17-21Z",
+  "without_skill_run": "2026-11-16T20-06-51Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks directly to my two grievances: it promises a credit when weather cuts a box by more than a third, and a weekly email so the farm won't go quiet again. It's also honest that it can't promise no crop loss. A only lists infrastructure and pauses, which do nothing about getting paid for thin boxes, and it has placeholders instead of a real name."
+}

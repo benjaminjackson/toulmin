@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-14-57Z",
+  "without_skill_run": "2026-11-16T20-03-30Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is personal and specific, and it gives me something concrete to take to my boss: the fourth printing, a firm schedule, free marketing spots and a clear deadline, so paying more than my budget and more than the newer illustrator's $8,000 is easier to justify. A has unfilled placeholders and offers nothing beyond the request, though both stay honest and avoid the claim that every other publisher pays at least $12,000."
+}

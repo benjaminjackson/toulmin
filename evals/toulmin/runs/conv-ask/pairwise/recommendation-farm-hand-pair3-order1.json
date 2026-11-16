@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-17-47Z",
+  "without_skill_run": "2026-11-16T20-06-05Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives concrete, checkable details: real names, the vet's $8,000 estimate, the cousin covering his shifts, his return on the promised day, a weekend job kept open, and a phone number to call. B still has bracketed placeholders and adds claims the brief doesn't support, so it reads as an unfinished template."
+}

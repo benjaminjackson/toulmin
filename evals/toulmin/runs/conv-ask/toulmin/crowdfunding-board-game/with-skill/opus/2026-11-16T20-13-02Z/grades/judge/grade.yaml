@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:14:23.185942+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 454
+  tags: []
+  notes: extracted 454 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 4
+    objections: 5
+    fit: 8
+  details:
+    agree: The finished art and rules, signed quote, outside reviewer video and plain
+      delivery date would reassure a wary backer, but someone who has already lost
+      $85 gets no refund promise or update schedule, and that's what would actually
+      get them to pledge.
+    honest: It sensibly drops 'proven hit' and doesn't invent numbers, but 'most were
+      strangers who owed me nothing' isn't in the facts, and it implies the 23 ratings
+      are independent when most came from people who played at the creator's own table.
+    works_the_facts: The 572-backer figure is correct and well framed against the
+      1,240 sign-ups, but the money section leaves out the 10% fees and never shows
+      that costs are covered at goal (about $22.5k in costs plus $2.8k in fees against
+      $28k), so it misses its strongest budget point.
+    right_comparison: '''If it doesn''t fund, the game stays a prototype'' is accurate
+      but thin, and it never compares the backer''s real choices, such as waiting
+      for the reviewer video or waiting for retail.'
+    qualification: It gives a firm November 2027 date but no consequence if that date
+      slips, even though the creator could offer a full refund at three months late
+      and an update every two weeks, both of which the reader could check.
+    objections: It deals openly with the first-time-creator worry using the surveyor
+      framing and the finished assets, but it doesn't answer this reader's main fear
+      of a project that never ships, because it leaves out the refund and update commitments.
+    fit: It's a well-structured campaign pitch of about 550 words, close to the 500
+      asked for, with clear sections and a call to action.

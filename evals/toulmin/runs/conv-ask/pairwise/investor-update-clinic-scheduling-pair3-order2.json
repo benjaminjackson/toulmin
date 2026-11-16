@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-15-21Z",
+  "without_skill_run": "2026-11-16T20-01-54Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B owns the silence with a real reason and a dated commitment (January 7, plus monthly numbers on request). It also names the $3,800 at-risk accounts and makes specific asks. A has unfilled placeholders and a vague promise, which would only confirm my doubts about this founder."
+}

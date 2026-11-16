@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-14-11Z",
+  "without_skill_run": "2026-11-16T20-03-40Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B names me and my company, gives a concrete harm (missed dialysis), and sets aside the second-elevator fight. It asks for specific, doable things and offers something back: a list of residents who need help and weekday-evening meetings. That makes it read like reasonable neighbors I can work with, not a few loud people. A's placeholders and its vague demands for an engineering assessment are easier to wave off."
+}

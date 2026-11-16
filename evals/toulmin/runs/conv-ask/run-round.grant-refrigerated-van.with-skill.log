@@ -1,0 +1,6 @@
+grant-refrigerated-van / with-skill / opus ... ok (67.1s) -> runs/conv-ask/toulmin/grant-refrigerated-van/with-skill/opus/2026-11-16T20-13-02Z
+    grade: pass score=0.75
+grant-refrigerated-van / with-skill / opus ... ok (87.0s) -> runs/conv-ask/toulmin/grant-refrigerated-van/with-skill/opus/2026-11-16T20-14-25Z
+    grade: pass score=0.6
+grant-refrigerated-van / with-skill / opus ... ok (97.5s) -> runs/conv-ask/toulmin/grant-refrigerated-van/with-skill/opus/2026-11-16T20-16-07Z
+    grade: pass score=0.65

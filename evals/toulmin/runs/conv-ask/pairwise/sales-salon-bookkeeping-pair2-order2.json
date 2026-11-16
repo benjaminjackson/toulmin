@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-17-24Z",
+  "without_skill_run": "2026-11-16T20-06-07Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B tells me she managed a hair salon for six years, so I'd trust her right away. It also explains that clean books just make my accountant's job cheaper, which makes it sound like my cousin keeps doing my taxes. A mentions booth rent and tips, which feels familiar, but it never tells me she has worked in a salon herself."
+}

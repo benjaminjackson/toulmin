@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T20:16:18.400352+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 411
+  tags: []
+  notes: extracted 411 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 6
+    objections: 6
+    fit: 8
+  details:
+    agree: The speech meets the two commissioners' traffic concern head-on and gives
+      them a concrete condition, the signal, that they can vote for, though the opposed
+      neighbours get nothing about the 20 months of construction trucks they will
+      live through.
+    honest: Every number traces to the facts given, and the speaker says plainly that
+      they can't promise traffic won't get worse; the only stretches are small inferences
+      such as 'no homes are torn down' and the closing line that the intersection
+      'keeps the same rating,' which is true only with the signal.
+    works_the_facts: It works out useful figures (64 homes is about one in six households
+      on the waiting list, and 72 spaces means eight to spare), but it leaves out
+      others, such as the 64 homes as a share of the 2,100 shortfall, or 310 trips
+      spread across a day.
+    right_comparison: The no-vote alternative is described accurately (the lot stays
+      empty and 412 households keep waiting), but it doesn't point out that the morning
+      backup on Alder already happens without the project, so a no vote fixes nothing
+      there.
+    qualification: Making the signal a condition of approval is a specific commitment
+      the commission can check and enforce, but it has no deadline, for example installation
+      before occupancy, and says nothing about what happens if the signal isn't built.
+    objections: It handles traffic and parking well, but it leaves out the 20 months
+      of construction trucks on Alder Road and the speaker's promise to serve on the
+      neighbour group, both of which the hostile room would care about and both of
+      which the user had supplied.
+    fit: It's a spoken address of about 470 words, slightly long for three minutes
+      at a normal pace but close, with a clear ask at the start and again at the end.

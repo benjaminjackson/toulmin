@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-13-02Z",
+  "without_skill_run": "2026-11-16T20-03-02Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A names me directly and cites the missed dialysis appointments. It also concedes I may be right about the second elevator and offers concrete commitments: a resident list and weekday meetings. That makes it harder to dismiss as a few loud people. Document B still has placeholders and makes heavier demands without offering anything in return."
+}

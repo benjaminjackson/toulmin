@@ -1,0 +1,50 @@
+I've drafted the update from your answers. It's about 440 words.
+
+<final_document>
+Subject: Cadence Scheduling – quarterly update, and an apology
+
+Hi all,
+
+First, an apology. I didn't send updates for the last two quarters. The numbers were flat and I didn't want to send bad news. That was the wrong call: you should hear bad news early, and from me. Starting now, you'll get an update in the first week of every quarter. The next one goes out January 7. If you'd also like a one-page set of numbers each month, reply and I'll send it.
+
+**The numbers**
+
+- Monthly recurring revenue: $41,000, the same as three months ago
+- Clinics: 9 added, 4 lost
+- Cash: $480,000. We lose about $44,000 a month, which lasts until about October 2027.
+
+**What's behind the flat revenue**
+
+Two things moved in opposite directions. We lost our largest customer, a 12-clinic chain paying $5,500 a month. They moved to the scheduler built into their electronic records system. Revenue from all our other customers grew from $35,500 to $41,000, about 15% in one quarter.
+
+**The risk this exposed**
+
+Electronic records vendors are building their own schedulers, and a clinic that already pays for one has a reason to drop us. Two of our current customers use the same system as the chain that left. Together they pay $3,800 a month, and I can't promise they'll stay. If both leave, our monthly revenue falls to $37,200.
+
+**What we're doing about it**
+
+Clinics that use our automatic text reminders have a 7% no-show rate. Before they started, it was 13%. Fewer no-shows matter to a clinic whoever runs its calendar.
+
+On December 1 we start selling the reminders on their own for $150 a month. That means a clinic using its records system's scheduler stops being a lost sale and becomes someone we can sell to. Six clinics have said they'll buy at launch. That's $900 a month. It's small, but it's our first real test of whether clinics will pay for reminders alone. I don't yet know which other records systems the reminders will work with. The January 7 update will report how many clinics bought, and what we learned.
+
+**Cash**
+
+I haven't decided between raising money, cutting costs or aiming for profitability on the cash we have. I'd value your view before I do.
+
+**What I'm asking for**
+
+1. **20 minutes on the phone.** Reply with a time that suits you, and I'll take you through the numbers and the reminder launch.
+2. **Introductions to physical therapy clinic chains.** Our biggest loss was a chain, and chains are where one conversation can bring in many clinics.
+
+Thanks for your patience over the last six months, and for reading this.
+
+Sam Patel
+Founder, Cadence Scheduling
+</final_document>
+
+A few choices to check before you send:
+
+- **15% growth:** Revenue was flat overall, but your other customers grew from $35,500 to $41,000 a month. That's the strongest fact you have, so it comes right after the loss.
+- **What you can't promise:** I put in the $3,800 at risk and the $37,200 worst case. I left out any reminder compatibility claims, sales targets and a date for the cash decision, because you couldn't stand behind them yet. The January 7 update is the only date you committed to.
+- **No-show figures:** These have no sample size behind them, so I didn't call them proof. If an investor asks how many clinics and months they cover, you'll need an answer. Worth pulling that before the calls.
+- **Why chains:** The update says introductions to chains matter because one conversation can bring in many clinics. That's my reasoning, not something you told me. Cut the line if it doesn't match why you want them.

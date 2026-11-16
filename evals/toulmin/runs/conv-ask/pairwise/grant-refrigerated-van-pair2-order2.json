@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-14-25Z",
+  "without_skill_run": "2026-11-16T20-01-17Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B handles the late shelving report directly: it gives the reason, names Dave Lin as responsible for the final report with a 30-day deadline, and promises quarterly fresh-food reports. A leaves placeholders, has no named owner, and claims 9,000 extra pounds are expected without saying the farms might not offer that much again. B also cites the two farm letters and states its fresh-food projection accurately, so it earns more trust."
+}

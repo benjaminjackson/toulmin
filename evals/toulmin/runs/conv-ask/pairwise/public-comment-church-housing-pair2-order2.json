@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-14-09Z",
+  "without_skill_run": "2026-11-16T20-04-49Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B answers the traffic concern that commissioners care most about with something concrete: a funded signal that keeps the intersection at C, made a condition of approval. It also offers neighbours a voice during construction. A only asks residents to accept the D rating and vaguely suggests fixes, and it leaves placeholders where the speaker's and church's names should go."
+}

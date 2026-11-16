@@ -1,0 +1,26 @@
+I've kept the apology plain, as you asked. I didn't mention the 16-hour days because it can read as an excuse. If you want people to know, one line like "I was in the fields trying to save what was left, and I should have written anyway" fits without going over 200 words.
+
+Two other choices to check:
+- **The fall survey:** I wrote "many of you" instead of "29 of 41." Those 41 are only the people who answered, and exact numbers would make this feel like a form letter.
+- **The ending:** I didn't know how people sign up, so the email doesn't link anywhere. Add your sign-up link or instructions before the last line.
+
+<final_document>
+Subject: We got last summer wrong. Here's what's changed.
+
+Hi,
+
+On July 9, hail destroyed about half our crops. For six weeks your box held about half what it should have. We gave no credit, and I sent one short email. That wasn't good enough, and I'm sorry.
+
+In our fall survey, many of you said the way we handled bad weeks was the problem. Here's what's changed:
+
+- If weather cuts a box by more than a third, you get a credit for that week.
+- I'll send a short email every Thursday of the season.
+- You can pause up to two weeks and get credit for them.
+
+We've also spent $31,000 on a second field on higher ground and hail nets over our tomatoes and peppers. The nets only cover the tomatoes and peppers, and I can't promise there won't be crop loss. But if a bad week comes, you'll hear about it, and you won't pay for a half-empty box.
+
+A full share is still $540. Sign-up closes March 15, and 52 shares are left. I'd be glad to have you back.
+
+Sam Turner
+Greenbank Farm
+</final_document>

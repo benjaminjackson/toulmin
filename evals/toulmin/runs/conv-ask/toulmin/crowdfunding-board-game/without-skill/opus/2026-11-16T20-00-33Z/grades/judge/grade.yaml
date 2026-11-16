@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:01:42.824972+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 497
+  tags: []
+  notes: extracted 497 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 5
+    honest: 5
+    works_the_facts: 6
+    right_comparison: 3
+    qualification: 2
+    objections: 4
+    fit: 8
+  details:
+    agree: The clear budget breakdown and the frank first-timer disclosure help, but
+      a backer who lost $85 before would still look for a delivery date and a refund
+      promise, and the pitch gives neither, so they may hold off.
+    honest: 'It rightly drops ''proven hit'', but it makes up details: that nearly
+      every session changed something, the mix of player types, and the ''one more
+      winter'' quote. It also presents the 23 ratings as independent when most came
+      from the designer''s own convention table.'
+    works_the_facts: "It works out the shipping cost at goal (about 571 copies \xD7\
+      \ $9 \u2248 $5,100), the 10% fees and the buffer, and these roughly add up to\
+      \ $28,000. But it never uses the signed quote, the finished rules or the 90k-subscriber\
+      \ reviewer video, which are its strongest true points."
+    right_comparison: Its only comparison is a vague 'campaign price' on day one.
+      It never says what the game would cost later or at retail, or what a backer
+      risks compared with waiting.
+    qualification: The only hedges are 'updates at every stage' and 'you'll hear it
+      from me first'. There's no November delivery date, no promise of an update every
+      two weeks, and no full refund if delivery is more than three months late, though
+      all three were available.
+    objections: It admits the first-timer worry but answers it with a surveying metaphor
+      rather than the commitments the reader needs (a refund if late, a delivery date,
+      a regular update schedule), and it has no real risks section.
+    fit: It's a well-structured campaign pitch of roughly 550 words, close to the
+      500 asked for.

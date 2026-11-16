@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-13-02Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B says plainly why the updates stopped, commits to a January 7 date and offers monthly numbers. It also discloses the $3,800 a month still at risk and gives real launch evidence (6 committed clinics). That rebuilds trust with an investor who is annoyed about the missed updates. A has placeholders, a vague promise and a claim that the 9 new clinics covered the lost revenue, which nothing in the facts supports. It reads like a generic template."
+}

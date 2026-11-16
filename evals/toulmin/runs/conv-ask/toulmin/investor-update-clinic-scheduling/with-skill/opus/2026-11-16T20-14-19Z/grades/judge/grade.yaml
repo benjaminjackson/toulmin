@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T20:15:21.486716+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 449
+  tags: []
+  notes: extracted 449 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 8
+    honest: 6
+    works_the_facts: 9
+    right_comparison: 8
+    qualification: 5
+    objections: 8
+    fit: 9
+  details:
+    agree: A direct apology with the real reason, dated commitments, and a candid
+      account of the risk would likely bring the cold lead investor back to taking
+      the call, though the unresolved cash plan leaves some doubt.
+    honest: 'The figures are accurate, but the writer adds facts that aren''t in the
+      brief: that the founder doesn''t know which records systems the reminders will
+      work with, and that they haven''t decided between raising, cutting or reaching
+      profitability. It also turns one chain''s departure into a general trend of
+      records vendors building their own schedulers.'
+    works_the_facts: The writer correctly works out runway to about October 2027,
+      growth among the other customers from $35,500 to $41,000 (about 15%), a $37,200
+      downside if both at-risk customers leave, and $900 a month in committed reminder
+      sales, and puts each in its most favourable true form.
+    right_comparison: The flat headline figure is shown as a large loss set against
+      real growth elsewhere, and the 'if nothing changes' case is given as runway
+      and the at-risk revenue.
+    qualification: The writer promises a checkable January 7 report on reminder sales,
+      but sets no target number or consequence if the launch disappoints, and the
+      risk to the $3,800 a month has no date attached.
+    objections: The investor's complaint about the silence is answered first, with
+      the honest reason and specific commitments, and the concentration risk is raised
+      before the investor can raise it, though the open-ended cash question invites
+      a fresh worry.
+    fit: It is a clear investor update email of roughly 480 words, under the 500-word
+      limit, with headed sections and a specific request.

@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T20:06:51.044946+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 202
+  tags: []
+  notes: extracted 202 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 4
+    honest: 7
+    works_the_facts: 3
+    right_comparison: 3
+    qualification: 2
+    objections: 3
+    fit: 7
+  details:
+    agree: The admission that it 'wasn't good enough' will land, but a reader who
+      left over thin boxes with no credit and silence gets no promise of weather credit
+      or regular updates, so a field and tomato nets probably won't win them back.
+    honest: Every fact matches the brief and the nets are correctly limited to tomatoes
+      and peppers, though 'I think I know why' assumes the reader's reason, and the
+      email never says that crop loss can still happen.
+    works_the_facts: Figures are repeated rather than worked, and the $31,000 is aimed
+      at the farm's effort rather than the reader's benefit; nothing like the survey
+      result showing others would return is used.
+    right_comparison: The only comparison is 'same price as last year'; nothing shows
+      what a bad-weather week would look like for this reader now against last July,
+      which is the comparison they care about.
+    qualification: 'A hedge is clearly needed, because weather loss can recur and
+      the nets don''t cover the greens, but none is given: no commitment like credit
+      when a box is cut by more than a third, and no plain statement that loss can''t
+      be ruled out.'
+    objections: 'The core objections, ''you went quiet'' and ''no credit for thin
+      boxes'', are named but not answered: there''s no weekly-email commitment and
+      no weather credit, and the pause credit doesn''t address hail.'
+    fit: It's an email under 200 words with a subject line, a clear deadline and a
+      sign-up action, but placeholders remain for the name, farm and link.

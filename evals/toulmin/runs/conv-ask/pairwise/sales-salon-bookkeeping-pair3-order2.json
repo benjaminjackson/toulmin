@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-18-25Z",
+  "without_skill_run": "2026-11-16T20-06-39Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B makes me trust her more: she ran a salon herself, gives a free month if she's late, says there's no commitment and treats my accountant as someone who keeps doing my taxes, so my cousin still has his job. A admits three missed deadlines and a price rise without saying why, and neither builds my confidence."
+}

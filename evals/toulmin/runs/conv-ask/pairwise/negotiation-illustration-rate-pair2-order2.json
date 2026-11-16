@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-14-03Z",
+  "without_skill_run": "2026-11-16T20-03-03Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B reads as a finished, personal note. It states the $11,500 ask up front and makes clear she won't do the book at $9,000, which tells me I have to decide. A is still full of placeholders like [Name] and [Book Title], so it feels like a template, and it never says what happens if I stay at $9,000."
+}

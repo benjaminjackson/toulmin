@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-17-47Z",
+  "without_skill_run": "2026-11-16T20-06-05Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives real names, the $8,000 vet estimate, the fact that he arranged cover for his absence and came back when he said he would, a promise to keep his job open part-time on weekends, and a phone number. A is full of placeholders and adds claims the brief doesn't support, such as that he learned the software in depth without anyone requiring it."
+}

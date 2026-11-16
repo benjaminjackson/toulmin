@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T20:15:53.274704+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 217
+  tags: []
+  notes: extracted 217 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 7
+    objections: 5
+    fit: 9
+  details:
+    agree: The editor likes Elena, and the sales record, the reading-list book and
+      the free extras make a real case, but nothing helps the editor justify going
+      $2,500 over the $9,000 budget when a newer illustrator would do the book for
+      $8,000, so the likely result is a counteroffer rather than a yes at $11,500.
+    honest: Every figure comes from the brief, and the unsupported claim that 'every
+      other publisher pays at least $12,000' is replaced by the one $12,500 fee and
+      the agent's range; only the general line 'the market has moved' goes slightly
+      beyond what those two facts show.
+    works_the_facts: It correctly points out that $9,000 sits below the bottom of
+      the agent's range, but it never points out that $11,500 is still $1,000 below
+      what the other publisher paid, never gives the size of the raise, and never
+      turns four months of work into a monthly figure or notes that the rate has stayed
+      flat across six books.
+    right_comparison: It compares her fee with market rates and says the rate hasn't
+      changed in four years, but it never sets her proven sales against the real alternative
+      of an unproven illustrator at $8,000.
+    qualification: 'The conditions can be checked: sketches within six weeks of signing,
+      final art by September 1, an answer by the end of next week, and a clear statement
+      that she won''t take the book at $9,000, though the letter doesn''t say what
+      happens after that.'
+    objections: The editor's main objections, the fixed $9,000 budget and the cheaper
+      newer illustrator, are only met indirectly through the sales figures and the
+      free spot drawings, and they are never actually answered.
+    fit: It's a clear, warm email with a subject line, at about 220 words, which is
+      under the 250-word limit.

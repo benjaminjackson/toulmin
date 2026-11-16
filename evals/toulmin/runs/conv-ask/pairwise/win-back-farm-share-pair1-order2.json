@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-farm-share",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-16-22Z",
+  "without_skill_run": "2026-11-16T20-06-23Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks directly to what made me leave. It promises a credit when weather cuts a box by more than a third, and it promises an email every Thursday so the farm doesn't go quiet. It's also honest about the limits, since crop loss can still happen and the nets don't cover the greens. A apologizes, but it doesn't change anything about how bad weeks are handled, and it still has placeholder text in it."
+}

@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:04:48.919147+00:00'
+outcome: pass
+score: 0.35
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 407
+  tags: []
+  notes: extracted 407 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.35
+  metrics:
+    agree: 3
+    honest: 4
+    works_the_facts: 3
+    right_comparison: 3
+    qualification: 1
+    objections: 2
+    fit: 6
+  details:
+    agree: The two commissioners worried about traffic get only the claim that a D
+      rating is a slightly longer wait. The speech never mentions the builder's offer
+      to pay for a signal, which keeps Alder and 4th at a C, so the resisting reader
+      has little reason to change their vote.
+    honest: 'Several things are made up or overstated: the list of jobs (cashiers,
+      aides, teachers'' aides), ''some already worship at this church'', ''doesn''t
+      mean gridlock'', and ''won''t push cars onto neighborhood streets''. It also
+      speaks for the neighbours with ''my neighbors and I can handle''.'
+    works_the_facts: 'The numbers are repeated but never worked out: 64 units would
+      house about 15% of the 412 waiting households, 310 trips comes to about 5 per
+      unit, and 72 spaces is 1.125 per unit.'
+    right_comparison: It compares a D rating with no project, when the real choice
+      is a signal that keeps a C. It never says that traffic already backs up past
+      the speaker's house at 8 a.m., and the 'nothing changes' side is described only
+      as the lot sitting empty.
+    qualification: The speech should ask for approval with the signal as a checkable
+      condition, plus the 20-month construction period and the neighbour group, but
+      it offers no condition, date or commitment.
+    objections: Traffic is raised, but the answer is to wave it off rather than use
+      the signal. Construction trucks, overflow parking and the written offer to share
+      weekday parking are all missing.
+    fit: It is a spoken public comment that fits roughly in 3 minutes, but it still
+      has [NAME] and [CHURCH NAME] placeholders and runs slightly long.

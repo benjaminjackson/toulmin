@@ -1,0 +1,30 @@
+I've drafted the letter (about 380 words, so it fits on one page). It covers the five weeks away the way we discussed. It says once, plainly, that his written English is weaker, so the night class comes across as his effort to improve rather than an excuse. I left out how he learned the software, along with the location and the college name.
+
+You should check a few things before you send it:
+
+- **Dates.** The letter will be read around February 2027, so I wrote "the winter of 2025–26" and "summer 2026" instead of "last winter" and "last summer." Fix these if I've got the years wrong.
+- **Contact details.** You didn't give a phone number or email, so the letter just invites questions. Admissions offices often want a way to reach the person writing, so you may want to add one under your name.
+- **Date line.** There isn't one. Add the date you submit it, before February 1.
+
+<final_document>
+Dear Admissions Committee,
+
+I am writing to recommend Tomás Reyes for your two-year Agricultural Technology program. I manage Hollis Dairy, a 400-cow operation, and Tomás has worked for me for three years, since he was 19. He already does a good part of what your program teaches, and I believe the training will make him better at it.
+
+Tomás runs our 3 a.m. milking shift on his own, five days a week. Apart from the family emergency I describe below, he has missed two shifts in three years.
+
+He also learned our herd management software, and he now uses it to flag sick cows for our veterinarian. During the winter of 2025–26 he caught nine cases of mastitis early. Our vet estimates that catching them when he did saved the farm about $8,000. That work means reading the data, noticing what's wrong and acting before a small problem becomes an expensive one. I expect your program trains people to do exactly that.
+
+You should know about one absence. In summer 2026, Tomás's father became seriously ill in Mexico, and Tomás had to leave for five weeks with two days' notice. Before he went, he arranged for his cousin, who used to work for us, to cover his shifts. He came back on the day he said he would, and I held his job for him. I see the way he handled it as a reason to trust him.
+
+His spoken English is good, but his written English is not yet as strong. He is taking a night class to improve it while still working the early shift. I expect him to bring the same effort to his coursework.
+
+We want Tomás to keep working with us. While he is in the program, I will keep a part-time weekend job open for him.
+
+I recommend him strongly, and I would be glad to answer any questions you have.
+
+Sincerely,
+
+Mike Hollis
+Farm Manager, Hollis Dairy
+</final_document>

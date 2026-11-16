@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-16-07Z",
+  "without_skill_run": "2026-11-16T20-02-05Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B addresses the late shelving report head-on: it explains why, names Dave Lin as responsible, and commits to quarterly fresh-food numbers and a final report within 30 days, which is exactly what I'd look for after chasing them for four months. B also backs the farm supply with letters. A doesn't mention the late report at all, which would make me trust it less."
+}

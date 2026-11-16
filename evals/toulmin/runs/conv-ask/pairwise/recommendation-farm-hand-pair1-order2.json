@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-15-53Z",
+  "without_skill_run": "2026-11-16T20-04-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives concrete, checkable details: the $8,000 the vet estimated was saved, a promise to keep his job open part-time on weekends, and a real name and phone number. A still has placeholders like [Farm Name] and [Last Name], so it reads as unfinished and is harder to trust."
+}

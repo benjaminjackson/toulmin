@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:16:33.464103+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 428
+  tags: []
+  notes: extracted 428 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 8
+    honest: 6
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 6
+    objections: 8
+    fit: 9
+  details:
+    agree: The cold investor gets a plain apology with the real reason, dated commitments,
+      and the bad news told straight, so a phone call becomes likely; the one thing
+      missing is a clear plan for the money.
+    honest: 'Most claims stay within the facts, but two are invented: that the writer
+      hasn''t confirmed which records systems the standalone product works with, and
+      that they haven''t decided whether to raise money.'
+    works_the_facts: 'Several figures are worked out correctly: about 11 months of
+      runway, revenue of $37,200 and about 10 months of runway if the two at-risk
+      customers leave, roughly 37 standalone sales to replace the lost account, and
+      about $5,500 of growth that offset the loss; it leaves out the $900 a month
+      that the six committed clinics are worth.'
+    right_comparison: It shows what happens if nothing changes (flat revenue, about
+      11 months of cash, a known risk that would cut runway to 10 months), though
+      it never says outright where the current path leads if the launch fails.
+    qualification: The January 7 promise to report standalone sales gives a date the
+      investor can check, but it sets no target number and says nothing about what
+      happens if sales fall short.
+    objections: It deals head-on with the investor's likely objections (the missed
+      updates, flat revenue, losing customers on the records system, whether six commitments
+      mean much) and doesn't raise worries the facts already answer.
+    fit: It's a well-organised investor email of roughly 460 words, under the 500-word
+      limit, with clear sections and specific requests.

@@ -1,0 +1,58 @@
+task:
+  name: public-comment-church-housing
+  type: public-comment-speech
+  set: tune
+  reader: The five members of the county planning commission, who vote tonight on
+    the permit, and the 60 or so neighbours in the room. Most of the neighbours oppose
+    the project, and two commissioners have said at earlier hearings that traffic
+    on Alder Road is their main concern.
+  prompt: 'I''m going to speak at our county planning commission tonight in favor
+    of a housing project, and I want help writing what I''ll say. The church I belong
+    to wants to build 64 apartments on its back parking lot. All of them would rent
+    to households earning under 60% of the area median income.
+
+
+    Facts:
+
+    - The church lot is 1.8 acres and sits empty 6 days a week.
+
+    - The county''s own housing report says we are short about 2,100 affordable homes.
+
+    - The traffic study estimates 310 more car trips a day on Alder Road, and says
+    the intersection at Alder and 4th would drop from a C rating to a D at rush hour.
+
+    - The plan has 72 parking spaces for the 64 units.
+
+    - 412 households are on the county housing authority''s waiting list. The average
+    wait is 3 years.
+
+    - I''ve lived on Alder Road for 19 years, two blocks from the church.
+
+
+    Each speaker gets 3 minutes.'
+  user_knows: '- I''m Margaret Shaw. The church is St. Luke''s Lutheran. The builder
+    is a nonprofit, Cascade Housing Partners.
+
+    - The builder has offered to pay for a traffic signal at Alder and 4th. The traffic
+    study says that keeps the intersection at C.
+
+    - Building would take about 20 months, with trucks on Alder Road.
+
+    - Some mornings around 8, traffic on Alder already backs up past my house.
+
+    - The church can commit, and has put in writing, that neighbors can use the lot
+    for parking on weekdays when there is space.
+
+    - I can commit to serving on the neighbor group the church has promised to set
+    up during construction.
+
+    - I cannot promise traffic will not get worse.
+
+    - What I want tonight: approval of the permit, with the traffic signal as a condition.'
+config:
+  name: with-skill
+  runner: /Users/ben/github/toulmin/evals/toulmin/run-with-skill
+  model: opus
+started: '2026-11-16T20:15:17.175474+00:00'
+duration_seconds: 48.67
+exit_code: 0

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-13-02Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a wary backer, B gives me what I look for: a firm November 2027 delivery date, a signed factory quote, finished rules and art, and an outside reviewer I can watch before pledging. A has a more honest budget that counts fees and a buffer, but it gives no delivery date, which matters more to someone who has lost money on a project that never shipped."
+}

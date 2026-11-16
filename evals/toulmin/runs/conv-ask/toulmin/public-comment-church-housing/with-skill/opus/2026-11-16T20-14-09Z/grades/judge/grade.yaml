@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T20:15:17.117490+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 384
+  tags: []
+  notes: extracted 384 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 7
+    qualification: 6
+    objections: 5
+    fit: 9
+  details:
+    agree: Opening with traffic, then turning the signal into a permit condition,
+      speaks straight to the two commissioners' concern, and the speaker's 19 years
+      as an Alder Road neighbour gives her standing with the room, though opposing
+      neighbours will still see the construction disruption and parking left unaddressed.
+    honest: Every figure traces to the facts given and church membership is disclosed
+      up front, but 'stays where it is now' slightly overstates a study finding about
+      the intersection's rating while 310 more daily trips may still lengthen the
+      backups she describes.
+    works_the_facts: The 'one in six of the waiting list' figure (64/412) is a good
+      derived number and the three-year wait is used well, but the 2,100 shortfall,
+      the 72 spaces for 64 units, and the 20-month construction period are left as
+      raw numbers or dropped.
+    right_comparison: It sets C-with-signal against D-without and sets the lot sitting
+      empty six days a week against 412 households waiting three years, which describes
+      the status quo fairly, though it never says whether the shortfall or the list
+      is growing.
+    qualification: Making the signal a permit condition is a concrete, checkable safeguard
+      tied to the study's C rating, but it has no timing (for example, signal in place
+      before occupancy) and no consequence if it isn't delivered.
+    objections: The traffic objection is met head-on, but the likely neighbour objections
+      about parking spillover and 20 months of construction trucks go unanswered,
+      even though the written weekday-parking commitment and the 72 spaces were there
+      to answer them.
+    fit: At about 430 words in plain spoken style with a clear ask at the start and
+      end, it fits a three-minute public comment well.

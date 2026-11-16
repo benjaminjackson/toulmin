@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-14-23Z",
+  "without_skill_run": "2026-11-16T20-01-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B speaks directly to my worry about first-time creators. It gives a signed quote, an itemized goal that includes fees, a realistic November delivery date and the backer math, and it says up front that most of the ratings came from people who played at the creator's table. Document A has placeholder text and a vague risks section that wouldn't reassure someone who has already lost money on a project that never shipped."
+}

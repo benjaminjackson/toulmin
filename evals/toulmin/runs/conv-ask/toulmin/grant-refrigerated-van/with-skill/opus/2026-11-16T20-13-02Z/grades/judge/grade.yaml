@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:14:25.465327+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 468
+  tags: []
+  notes: extracted 468 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 6
+    objections: 5
+    fit: 9
+  details:
+    agree: Marisol would likely recommend it, since the late report is owned directly,
+      Dave Lin is named with a 30-day deadline, and quarterly reporting is offered,
+      but the unbudgeted running costs leave her an opening to hesitate.
+    honest: The draft drops the unsupported claim that fresh food will double, says
+      plainly that it can't promise a set number of pounds, and its figures (half,
+      about 15 lb per household, over 60 percent of reserves) are accurate, though
+      'mostly canned and boxed' goes a little beyond what the brief says.
+    works_the_facts: 'It works the numbers well: 3,000 lb a month against 6,000 is
+      a 50% increase, 9,000 lb across 610 households is about 15 lb each, and $18,000
+      is about 62% of $29,000 in reserves, but it never sets out what the van would
+      mean over a full year.'
+    right_comparison: The no-van case (continuing to turn away cold produce) matches
+      the facts and is backed by the farm letters, though it rests on a single summer's
+      offer.
+    qualification: The reporting commitments are dated and checkable (every quarter,
+      and 30 days after the grant year ends), but the hedge on pounds has no baseline
+      figure to judge against and says nothing about what happens if little produce
+      is accepted.
+    objections: The late-report concern is answered squarely, but the $4,500 a year
+      for insurance and fuel is left out, and stressing the drop to $11,000 in reserves
+      makes Marisol more likely to ask how the van will be kept running.
+    fit: It is a focused grant narrative, just under 500 words, with suitable structure
+      and tone.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-13-02Z",
+  "without_skill_run": "2026-11-16T20-03-02Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B addresses me by name and makes specific asks I can actually act on, like a stair chair, a repair date and a rent credit. It also admits that I may be right about a second elevator and offers concrete help from the association, so it is harder for me to dismiss them as a few loud people. The dialysis case makes the stakes concrete, while A's placeholders and vaguer requests read as a generic complaint."
+}

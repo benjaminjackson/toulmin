@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-13-02Z",
+  "without_skill_run": "2026-11-16T20-04-19Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B gives the traffic-focused commissioners and the worried neighbours a real answer: a signal paid for by the builder that keeps Alder and 4th at a C rating, made a condition of the permit. It also discloses the speaker's church membership, which builds trust. Document A treats the drop to a D rating as a minor inconvenience and claims, without support, that the project won't push cars onto local streets. That would put off this room."
+}

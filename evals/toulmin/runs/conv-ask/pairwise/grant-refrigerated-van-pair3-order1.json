@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-16-07Z",
+  "without_skill_run": "2026-11-16T20-02-05Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A owns the late shelving report, gives the reason, names Dave Lin as responsible, and commits to quarterly fresh-food reports and a final report within 30 days. That answers my biggest worry about this grantee. Document B leaves the late report out, says nothing about the farm letters, and is vague about reporting, so the gap is obvious even though B is honest that reserves would drop to $11,000."
+}

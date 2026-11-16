@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-15-58Z",
+  "without_skill_run": "2026-11-16T20-02-19Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me what I check before pledging: art and rules finished, a signed factory quote, budget math I can verify, a firm November 2027 delivery date and an independent reviewer video. It also admits that most of the 8.1 ratings came from people who played at the creator's own table. A has placeholders and no delivery date, and it says nothing about the risks, so B feels much safer to back, even without the refund promise."
+}

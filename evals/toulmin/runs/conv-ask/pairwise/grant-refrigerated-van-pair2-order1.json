@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-14-25Z",
+  "without_skill_run": "2026-11-16T20-01-17Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A explains the late report directly, names Dave Lin as responsible with a 30-day deadline and quarterly fresh-food totals, cites the farm letters, and admits the 9,000 pounds isn't guaranteed. That is what I need after chasing their last report for four months. B leaves placeholders right where the accountability fix should be, and it promises at least 9,000 pounds that they can't actually promise."
+}

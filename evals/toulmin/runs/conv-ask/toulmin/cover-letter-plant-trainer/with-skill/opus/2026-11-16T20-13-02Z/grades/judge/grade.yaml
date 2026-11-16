@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T20:14:08.795934+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 350
+  tags: []
+  notes: extracted 350 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 7
+    qualification: 5
+    objections: 7
+    fit: 7
+  details:
+    agree: A skeptical HR manager would see audited signed records, a dated GMP course
+      and a training-time cut, so a phone screen is likely, but the letter never says
+      when Laura can interview or start, which weakens the push to act.
+    honest: The letter correctly drops the unsupported claim about halving training
+      time, but it invents how the cut was achieved ('cut repetition and taught the
+      reasons') and says every student 'passes' the quiz when the facts only say a
+      record exists for each quiz.
+    works_the_facts: It uses the 20-to-12-hour cut and the seven-year injury record,
+      but never states the reduction as 40% or adds up totals such as roughly 1,000
+      students and about a dozen trained teachers with no serious injury.
+    right_comparison: The before-and-after figures (20 to 12 hours, 41% to 58%) are
+      accurate, and the letter rightly avoids comparing against Calder's current training
+      time, which it doesn't know.
+    qualification: The GMP gap is tied to a checkable date (May 2), but the 90-day
+      plan has no number or consequence, and the June 14 start constraint goes unmentioned.
+    objections: The 'teachers don't know regulated plants' objection is met head-on
+      with audited records and the GMP course, but start-date timing and the unfamiliar
+      learning management system, both real screening concerns, are left out.
+    fit: It is a one-page cover letter in the right register, though it ends without
+      a signature name and leaves out interview availability.

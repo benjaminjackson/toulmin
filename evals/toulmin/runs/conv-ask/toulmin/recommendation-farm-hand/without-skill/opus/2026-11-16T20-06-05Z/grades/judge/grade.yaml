@@ -1,0 +1,60 @@
+grader: judge
+graded: '2026-11-16T20:06:37.335717+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 335
+  tags: []
+  notes: extracted 335 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 5
+    honest: 4
+    works_the_facts: 3
+    right_comparison: 3
+    qualification: 3
+    objections: 5
+    fit: 6
+  details:
+    agree: It's a warm, clear letter that a quick reader would take as a solid recommendation,
+      but it leaves out the $8,000 saving, the part-time job held open during the
+      program and the offer to take a call, so it reads like many of the other 150
+      letters.
+    honest: 'Several claims aren''t in the facts: that ''nobody required him'' to
+      learn the software, that he deals with equipment problems before the crew arrives,
+      that he works on weaknesses ''without being asked'', and that his father was
+      ''seriously'' ill.'
+    works_the_facts: 'The facts allow two stronger figures, but the letter uses neither:
+      about 780 solo 3 a.m. shifts with 2 missed (better than 99.7% attendance), and
+      the vet''s estimate that the nine early mastitis catches saved about $8,000.'
+    right_comparison: "Nothing sets Tom\xE1s against the typical applicant or a typical\
+      \ young farm worker, so the reader has no baseline for how unusual unsupervised\
+      \ night responsibility and catching cases from herd data are."
+    qualification: The written-English caveat is hedged without anything the reader
+      can check, such as when the night class ends, his progress so far, or that he
+      failed and then passed the written safety test, so the committee can't judge
+      the risk for coursework.
+    objections: 'It raises the absence and the written-English concern, but on the
+      absence it leaves out the answers it had: he arranged his cousin to cover his
+      shifts and came back on the day he said. It also never addresses whether he
+      can stay employed through the program, even though his job is being held open
+      part-time.'
+    fit: "It's the right length and form for a one-page manager's letter, but it still\
+      \ has placeholders for the farm name, the manager's name, Tom\xE1s's surname\
+      \ and the phone number, which the writer was able to get."

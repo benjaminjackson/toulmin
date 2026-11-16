@@ -1,0 +1,61 @@
+grader: judge
+graded: '2026-11-16T20:05:46.816491+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 387
+  tags: []
+  notes: extracted 387 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 4
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 3
+    objections: 3
+    fit: 7
+  details:
+    agree: The two commissioners focused on traffic get only an admission that the
+      intersection drops to a D and a request to accept 'a slightly longer wait.'
+      The speech never mentions the builder's offer to pay for a signal that keeps
+      the intersection at C, and it never asks for that signal as a condition of approval,
+      so they have little reason to change their vote.
+    honest: The speech is mostly faithful to the facts and openly says traffic will
+      get worse, but two lines go too far. 'Residents won't be pushing their cars
+      out onto our street' claims more than 72 spaces for 64 units can guarantee,
+      and the jobs listed for future residents are guesses presented as facts.
+    works_the_facts: The figures are repeated as given and never worked into anything
+      more useful, such as 64 homes housing about one in six of the 412 households
+      on the waiting list, or 1.1 parking spaces per unit.
+    right_comparison: 'It sets the project against the status quo of an empty lot
+      and a three-year wait, which is fair. But it leaves out the real traffic comparison:
+      with the signal the builder has offered, the intersection stays at C instead
+      of dropping to D.'
+    qualification: The only hedge is a vague 'I'm not going to tell you that number
+      is zero.' There is nothing the commission can check later, such as making approval
+      conditional on the signal that keeps the intersection at C, or the church's
+      written promise to let neighbours park on the lot.
+    objections: 'Traffic, the main objection, is answered with ''D isn''t gridlock''
+      instead of the signal offer, and several other things the speaker could have
+      used are missing: 20 months of construction trucks on Alder Road, the neighbour
+      parking commitment, and the neighbour group the church has promised to set up.'
+    fit: At about 400 words it fits in three minutes and reads well as spoken testimony,
+      though the name and church are left as placeholders and the closing ask is not
+      the conditional approval the speaker actually wants.

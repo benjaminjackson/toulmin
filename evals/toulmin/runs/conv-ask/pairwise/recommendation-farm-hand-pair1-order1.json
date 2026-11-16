@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-15-53Z",
+  "without_skill_run": "2026-11-16T20-04-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is a finished letter. It gives the farm's name, the $8,000 the early mastitis catches saved, a commitment to keep his job part-time on weekends, and a phone number, so I can trust it and act on it. B's bracketed placeholders make it look unfinished and generic, which costs it credibility even though it openly mentions the five-week absence."
+}

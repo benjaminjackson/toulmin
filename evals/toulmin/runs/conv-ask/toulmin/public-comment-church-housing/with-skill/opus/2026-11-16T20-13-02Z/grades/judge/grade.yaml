@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:14:09.221269+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 385
+  tags: []
+  notes: extracted 385 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 7
+    qualification: 6
+    objections: 5
+    fit: 9
+  details:
+    agree: Making the signal a condition, backed by the study saying the intersection
+      keeps its C rating, speaks directly to the two commissioners who care most about
+      traffic. The neighbours, though, get nothing on construction trucks or the morning
+      backups they already live with.
+    honest: The numbers are accurate, but some claims go further than the facts. 'The
+      problem we're worried about has a fix' leaves out that the 310 extra daily trips
+      stay on Alder Road even with the signal. 'No one is displaced and no green space
+      is lost' is an inference the brief doesn't state.
+    works_the_facts: 'It works out that 64 homes is about one in six of the 412 waiting
+      households, and that 72 spaces is more than one per unit. It uses little else:
+      for example, it never puts the 64 homes against the 2,100-home shortfall.'
+    right_comparison: It compares the intersection with and without the signal, and
+      says that if the permit is denied the lot stays empty and households keep waiting.
+      Both comparisons follow the facts in the brief.
+    qualification: Asking for the signal as a condition of the permit is concrete
+      and anyone can check it. But the speech never admits she can't promise traffic
+      won't get worse, and it sets no timing or consequence for the signal.
+    objections: It answers the main traffic objection at the intersection. It leaves
+      out the 20 months of construction trucks and the existing 8 a.m. backups, and
+      it doesn't use the written weekday parking offer or her promise to serve on
+      the neighbour group, both of which would answer the neighbours' worries.
+    fit: It is a spoken statement of roughly 420 words, which fits the three-minute
+      limit, and it opens and closes with a clear request.

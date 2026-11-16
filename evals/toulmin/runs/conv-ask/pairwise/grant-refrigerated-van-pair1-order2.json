@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-13-02Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks directly to my worry from 2023: it names Dave Lin as responsible for the final report, gives a 30-day deadline and promises quarterly updates, and it backs up the farm claim with letters. A is full of unfilled placeholders, and its promise to fix late reporting is vague. B does leave out the van's yearly operating cost, but it is still far more convincing."
+}
