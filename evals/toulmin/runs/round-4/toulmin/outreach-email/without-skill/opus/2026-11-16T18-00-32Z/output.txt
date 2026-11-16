@@ -1,0 +1,27 @@
+I didn't write "we cut picking errors in half" as a general claim, because only one customer has seen that. The pet-supply distributor went from 4.1 to 1.9, a drop of about 54%. The other customer who shared numbers went from 2.8 to 2.2, about 21%. If Dana asks for references and hears 21%, a broad "in half" claim will hurt your credibility right when she's deciding whether to trust you. So the email gives the halving result to that one customer, which is accurate and still strong.
+
+<final_document>
+Subject: Your $600K in wrong-item returns
+
+Hi Dana,
+
+Last spring you told [Magazine] that wrong-item returns cost you "north of $600,000 a year." That line is why I'm writing.
+
+We make pick-verification software. Pickers scan each item with a phone camera, and it flags the wrong item before the box is sealed.
+
+A regional pet-supply distributor with 3 warehouses cut mis-picks by more than half with it. They went from 4.1 to 1.9 per 1,000 order lines in their first five months.
+
+It sits on top of your warehouse management system and doesn't replace it. Setup takes about 3 weeks. It costs $1,250 per site per month.
+
+Would you be open to a 20-minute call to see whether the numbers work for your five sites?
+
+[Your name]
+Co-founder, [Company]
+[Phone]
+</final_document>
+
+Some other choices I made:
+
+- **Your IT director:** I didn't mention him. The line "sits on top of your WMS and doesn't replace it" deals with his likely objection without showing you've heard gossip about their team. Before you send, check that you can stand behind anything you'd say about how much the software touches their WMS. If it reads from or writes to their system, he will ask about that, so be ready to explain it.
+- **Price:** For five sites it comes to about $75K a year, roughly an eighth of the returns cost she quoted. I didn't spell that out, because it suggests savings you can't promise. You could add it if you want a sharper point.
+- **Placeholders:** Fill in the magazine name and your details.

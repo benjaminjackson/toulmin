@@ -1,0 +1,64 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+A retired homeowner on a fixed income in the Ridgeview precinct who opens the door to a volunteer. This reader has read the neighbourhood association president's letter in this week's paper and voted against the last library levy. The reader decides how to vote on Measure 4.
+</reader>
+
+<brief>
+Can you write a door-knocking script for our volunteers? I'm the field lead for Yes on Measure 4, the library levy on the March ballot in our city.
+
+Facts:
+- The levy is 19 cents per $1,000 of assessed value, for 6 years.
+- The median assessed home value in the city is $410,000. In Ridgeview, the precinct we canvass first, it's $640,000.
+- 38% of households in the city rent.
+- The levy raises $2.3 million a year. It restores Sunday hours at all 5 branches and keeps the Ridgeview branch open. Without it that branch closes in July.
+- Library visits are up 22% since 2021.
+- The last library levy, 4 years ago, failed 48 to 52.
+- Ridgeview has a lot of retired homeowners on fixed incomes. The neighborhood association president there campaigned against the last levy and has a letter in this week's paper calling this one "a blank check."
+
+I want volunteers to say the levy costs the average household less than a cup of coffee a month. It has to fit on one side of a card, about 60 to 90 seconds at the door.
+</brief>
+
+<document>
+**YES ON MEASURE 4: RIDGEVIEW DOOR SCRIPT**
+
+**INTRO**
+"Hi, I'm ___, a volunteer with Yes on Measure 4, the library levy on the March ballot. Do you have a minute?"
+
+**ASK FIRST**
+"Have you heard about Measure 4? How are you leaning?"
+*(Listen. If they're undecided or leaning no, keep going. If they're a firm no, thank them and move on.)*
+
+**THE CASE**
+"Without Measure 4, the Ridgeview branch closes this July. Measure 4 keeps it open and brings back Sunday hours at all five branches. More people use the library now than in years; visits are up 22% since 2021."
+
+**THE COST: SAY IT STRAIGHT**
+"It's 19 cents per $1,000 of assessed value, for six years, and then it ends. On a typical Ridgeview home, about $640,000, that's about $122 a year, or roughly $10 a month."
+*(Renters: "It's billed to property owners. For you, it's a vote on whether your branch stays open.")*
+
+**IF THEY SAY "BLANK CHECK"**
+"I understand the concern. The rate is set at 19 cents for six years, then it ends. It raises $2.3 million a year for two things: keeping this branch open and Sunday hours at all five branches."
+
+**CLOSE**
+"The last library levy lost 48 to 52, so every vote really counts. Can we count on your yes in March?"
+
+- **Yes:** "Thank you! Would you mention it to a neighbor?"
+- **Undecided:** "Fair enough. Can I leave this with you?"
+- **No:** "Thanks for your time. Have a good day."
+
+*Record: Yes / Lean Yes / Undecided / Lean No / No*
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

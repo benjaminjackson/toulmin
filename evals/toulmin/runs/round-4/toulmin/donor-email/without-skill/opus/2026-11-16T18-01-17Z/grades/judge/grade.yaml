@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T18:01:55.680544+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 231
+  tags: []
+  notes: extracted 231 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 7
+    objections: 5
+    fit: 9
+  details:
+    agree: The match and the $575 child-year give a lapsed donor a concrete reason
+      to return, but someone still upset about Eastside gets only 'we heard you',
+      with nothing on why the branch closed or what has changed, so they may not give.
+    honest: It drops the brief's unsupportable promise that every child is guaranteed
+      a place and says plainly 'We won't reach all 61 this month'; every figure it
+      uses comes from the brief.
+    works_the_facts: Doubling the $85 average gift and showing that $575 matched funds
+      a full child-year are good derivations, but it never works out that a fully
+      used match ($30,000) funds about 26 of the 61 children, or that clearing the
+      whole list needs $70,150.
+    right_comparison: It never spells out what happens if the reader doesn't give
+      (children stay on the list, and any unused match money is lost), and it doesn't
+      use last year's 9 gifts and $1,240 to show how far below this need ordinary
+      giving falls.
+    qualification: 'The hedge is real and checkable: not all 61 will be reached, the
+      December 31 deadline and $15,000 cap are named, and a January report on the
+      number placed is promised, though it gives no target number to judge that report
+      against.'
+    objections: It raises the Eastside closure directly and doesn't avoid it, but
+      the reply is only acknowledgment, with no reason for the closure and no sign
+      that Eastside families are served now, so the resisting reader's grievance is
+      named but not answered.
+    fit: It is a year-end appeal email of roughly 235 words, under the 250 limit,
+      signed by the executive director, with a clear subject line, a call to action
+      and a P.S.

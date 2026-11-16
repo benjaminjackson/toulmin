@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T18:00:40.140865+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 223
+  tags: []
+  notes: extracted 223 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 5
+    honest: 9
+    works_the_facts: 4
+    right_comparison: 3
+    qualification: 7
+    objections: 5
+    fit: 8
+  details:
+    agree: The candid nod to the Eastside closure and the doubled gift could move
+      a lapsed donor, but this reader gets no reason to trust the school again and
+      no concrete result for their gift, so the email is unlikely to win them back.
+    honest: The email does not make the requested promise that every waiting child
+      gets a place, which the numbers can't support, and every figure it uses comes
+      from the brief.
+    works_the_facts: It doubles $85 and shows $575 matching up to a full year of lessons,
+      but it never works out the total need ($70,150) or that a fully used match funds
+      about 26 children, so the reader has no sense of scale.
+    right_comparison: 'It never says what happens without the gift: that most of the
+      61 children stay on the waiting list in January and the unused match goes unclaimed.'
+    qualification: The match terms give a date (December 31), a cap ($15,000) and
+      a condition (returning donors) the reader can check, though the email doesn't
+      spell out what happens if the deadline is missed.
+    objections: It names the Eastside closure and the angry letters honestly, but
+      'I'm not asking you to feel differently' leaves the grievance where it was,
+      with nothing on why the branch closed or whether any of these children come
+      from the Eastside.
+    fit: At about 210 words, signed by the executive director, with one clear call
+      to action, it fits the requested form, and it rightly leaves out the guarantee
+      the writer asked for.

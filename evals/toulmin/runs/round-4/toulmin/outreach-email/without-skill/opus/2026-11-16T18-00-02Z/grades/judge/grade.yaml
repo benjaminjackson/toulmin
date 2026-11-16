@@ -1,0 +1,52 @@
+grader: judge
+graded: '2026-11-16T18:00:32.559256+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 135
+  tags: []
+  notes: extracted 135 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 4
+    objections: 6
+    fit: 8
+  details:
+    agree: Dana's own $600K figure opens the email, and a concrete before-and-after
+      result makes a 20-minute call an easy yes, but nothing ties the $75K cost to
+      her savings, and nothing gives her a line to take to her IT director.
+    honest: It drops the 'cut errors in half' claim and gives the pet-supply numbers
+      accurately, but it shows only the best of six customers and leaves out the 2.8-to-2.2
+      result, so the single case reads as more typical than the facts support.
+    works_the_facts: It works out $75,000 a year for five sites, but it never states
+      the 54% reduction or what that would mean against her $600K (about $320K a year,
+      a payback of roughly 4 to 1), which is the strongest true figure available.
+    right_comparison: The status quo of $600K+ a year in returns appears in the opening
+      line, but it never comes back as the alternative to set against the $75K price.
+    qualification: The only hedge is 'see whether those numbers could hold up in your
+      buildings', which is vague and gives her no number, timeframe or checkpoint
+      she could test, such as a mis-pick rate after five months at one site.
+    objections: Saying it doesn't replace the WMS and runs on top of it speaks to
+      the IT director's resistance, but it doesn't say how little IT work or integration
+      is needed, which is what he would actually object to.
+    fit: It is short and plain, with brief paragraphs that read easily on a phone,
+      as the brief asked.

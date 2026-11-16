@@ -1,0 +1,57 @@
+I wrote the script, but I left out the "less than a cup of coffee a month" line. At the door it would come across as untrue, especially in Ridgeview.
+
+**Why the coffee line doesn't work:**
+
+- **Citywide:** a $410,000 home pays $410 × $0.19 = **$77.90 a year, or about $6.50 a month.** That's a fancy latte, not "less than a cup of coffee."
+- **Ridgeview:** a $640,000 home pays **$121.60 a year, or about $10 a month.** Several coffees. You're starting there.
+- **"Average household" is also off.** Your figure is the median home value, not the average. And 38% of households rent, so they don't get a levy bill directly.
+- **Ridgeview is the worst place to get caught on this.** The voters there are retirees on fixed incomes who check their tax bills. A local opponent is already calling the levy a "blank check." If a volunteer says "less than a coffee a month" and the voter works out $10, you lose that voter, and maybe the neighbors too. The last levy lost 48–52, so one round of "the library people fudged the numbers" could decide this race.
+
+**What I used instead:** the exact figures, plus a simple rule voters can apply to their own home: **$19 a year for every $100,000 of assessed value.** It's easy to remember, it holds up to checking, and it treats fixed-income voters with respect. If you want a small-sounding framing, "about 21 cents a day" is accurate for the median home, though it's about 33 cents a day in Ridgeview.
+
+**Things to check before printing:**
+
+1. **The "blank check" reply** relies on your description that the money goes to Sunday hours and the Ridgeview branch, and that the levy expires after 6 years. Confirm the ballot language actually limits how the money can be spent. If it doesn't, cut "the money goes to specific things."
+2. **Senior relief:** if your state or county has a property-tax exemption or deferral for seniors or people with disabilities, add one line about it to the fixed-income reply. It would be your strongest answer in Ridgeview.
+3. **Don't name the association president** on the card or at the door. Answer the argument, not the person.
+
+The spoken part runs about 170 words, or roughly 75 seconds at a normal pace.
+
+<final_document>
+**YES ON MEASURE 4: DOOR SCRIPT**
+
+**OPEN**
+"Hi, I'm [NAME], a volunteer with Yes on Measure 4, the library levy on the March ballot. Do you have a minute?"
+
+**ASK**
+"Have you heard about Measure 4 yet?" *(Listen first.)*
+
+**WHY IT MATTERS**
+"Library visits are up 22% since 2021, but our branches have lost their Sunday hours. Measure 4 brings back Sunday hours at all five branches and keeps the Ridgeview branch open. Without it, Ridgeview closes this July."
+
+**WHAT IT COSTS**
+"It's 19 cents per $1,000 of assessed value, for six years. That's $19 a year for every $100,000 your home is assessed at."
+- **Citywide:** "For a median home, about $410,000, that's about $78 a year, or roughly $6.50 a month."
+- **Ridgeview:** "For a typical Ridgeview home, about $640,000, that's about $122 a year, or roughly $10 a month."
+
+**CLOSE**
+"Can we count on your yes vote in March?"
+- **Yes:** Thank them, mark the sheet, and ask if they'll take a yard sign or volunteer.
+- **Undecided:** Leave literature. "Happy to answer any questions." Mark the sheet.
+- **No:** "Thanks for your time." Move on. Don't argue.
+
+---
+
+**IF THEY SAY…**
+
+**"It's a blank check."**
+"It's a fixed rate for six years, and it pays for specific things: Sunday hours at all five branches and keeping Ridgeview open. After six years it ends unless voters renew it."
+
+**"I'm on a fixed income."**
+"That's a real concern, and I'd rather give you the exact number. It's $19 a year for every $100,000 of assessed value. For a $640,000 home, that's about $122 a year."
+
+**"I rent."**
+"It's a property tax, so it's billed to owners. The Sunday hours and the Ridgeview branch are there for everyone."
+
+**Don't know the answer?** "Good question. I don't want to guess. Can I have someone follow up?" Write it down.
+</final_document>

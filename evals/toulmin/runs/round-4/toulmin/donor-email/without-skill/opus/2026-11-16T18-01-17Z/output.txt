@@ -1,0 +1,45 @@
+I didn't include the line promising that a gift this month guarantees every child on the waiting list a place. The numbers don't support it:
+
+- **What it costs:** 61 children × $1,150 = **$70,150**.
+- **The most this group could give:** if all 340 lapsed donors gave their average $85, that's $28,900. With the full $15,000 match, it comes to about $43,900. That's still $26,000 short.
+- **What's likely:** last December this list gave $1,240. If you tripled that, the match would bring it to about $7,500, which is enough for roughly 6 children.
+
+These readers already stopped trusting you once. A former board member forwards your emails with comments, so a promise that doesn't come true in January will be noticed and passed around. Instead, the draft makes promises you can keep: each gift is doubled, $575 funds a full year for one child, and you'll report back on how many children were placed.
+
+**Check before sending:**
+- **The Eastside paragraph.** Admitting the closure upset people is usually the best way to win lapsed donors back, but your executive director should be comfortable with that wording. I didn't say why the branch closed, because I don't know.
+- **"Starts lessons in January."** This assumes you have teachers and space for funded children right away. If you don't, change it to "this winter."
+- **The match terms.** Confirm that the foundation counts every 2019–2022 donor as "returning."
+- **The January follow-up.** The email promises a report on how many children were placed, so put it on your calendar.
+
+The email is about 210 words.
+
+<final_document>
+**Subject:** 61 kids are waiting. This month, your gift counts twice.
+
+Dear [First Name],
+
+You've supported [School Name] before, and it's been a while since we heard from you. We know some of that goes back to 2022, when we closed our Eastside branch. That decision was hard on families and supporters we care about, and some of you told us so directly. We heard you.
+
+I'm writing because 61 children are on our waiting list for subsidized lessons right now. A full year of weekly lessons costs us $1,150 per child.
+
+This month there's a special reason to come back. A family foundation will match every gift from returning donors dollar for dollar, up to $15,000, through December 31.
+
+That means:
+- **$85 becomes $170**
+- **$575 becomes $1,150, a full year of lessons for one child**
+- **Any amount you give is doubled**
+
+Every child we fund by December 31 starts lessons in January. We won't reach all 61 this month, but every gift moves a name off that list. In January, I'll write to tell you exactly how many children got their place.
+
+**[Give now: your gift will be matched]**
+
+Thank you for what you gave before, and for thinking about coming back.
+
+Warmly,
+
+[Executive Director Name]
+Executive Director, [School Name]
+
+P.S. The match ends December 31. Gifts from returning donors are doubled, up to $15,000 in total.
+</final_document>

@@ -1,0 +1,11 @@
+{
+  "task": "outreach-email",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T18-00-02Z",
+  "without_skill_run": "2026-11-16T18-00-02Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "reason": "B works out the payoff against my own $600K figure (about $300K at their best result, about $125K at their weaker one, against a $75K cost). It also offers to walk my IT team through it first, which gets ahead of my biggest internal obstacle. A shows only the best result and leaves both the math and the IT problem to me."
+}

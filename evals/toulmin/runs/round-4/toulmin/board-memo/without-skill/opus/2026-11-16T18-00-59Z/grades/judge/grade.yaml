@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T18:01:51.750551+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 419
+  tags: []
+  notes: extracted 419 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 10
+    right_comparison: 9
+    qualification: 8
+    objections: 7
+    fit: 7
+  details:
+    agree: The arithmetic, the June checkpoint, the sponsorship fallback and the direct
+      handling of the colleague would move most of the board, but the two ad-background
+      members may still ask why ads have to end rather than run alongside membership,
+      and the memo answers that only with a thin line about wasted effort.
+    honest: "It turns the brief's 'will replace' into a stated goal, admits that 2027\
+      \ membership revenue will fall short of $84,000, and leaves unknown figures\
+      \ in brackets rather than making them up; the only stretch is the $65\u2013\
+      70k ad projection, and that is clearly marked as conditional."
+    works_the_facts: 'Every derived figure checks out and does useful work: the 36%
+      drop, $20,352 a year from the pilot, 1.5% conversion, 875 members needed (6%
+      of the list), about 13 a week needed against 35 a week achieved, and what ads
+      will bring if nothing changes.'
+    right_comparison: "It describes keeping ads as it really looks, a revenue line\
+      \ falling at a steady rate and likely to bring about $65\u201370k next year,\
+      \ not a flat $84k."
+    qualification: The checkpoint has a date (June 30), a number (500, with 400 as
+      the trigger), a consequence (return to the board with options including sponsorship)
+      and a review meeting, though the numbers are still placeholders in brackets.
+    objections: It meets the revenue gap, the risk of slow growth and the 11-year
+      colleague head-on and asks the sales-background members for help, but it never
+      directly answers the obvious question of why ads can't continue alongside membership.
+    fit: It is in proper memo form and tightly organised, but with all its sections
+      and lists it probably runs slightly past one page.

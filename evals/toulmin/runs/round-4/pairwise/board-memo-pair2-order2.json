@@ -1,0 +1,11 @@
+{
+  "task": "board-memo",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T18-01-23Z",
+  "without_skill_run": "2026-11-16T18-00-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "reason": "Document A states facts accurately and admits the cost most likely to worry us: in 2027, ad revenue stops in January while membership income builds slowly. That candour is what would win over the two of us from advertising and sales. Document B says ads fell 36% \"in a single year\", but the drop was over two years. That error inflates its projected decline, and B never mentions the first-year revenue gap, so the sales-minded board members would catch both and stop trusting the rest of the memo."
+}

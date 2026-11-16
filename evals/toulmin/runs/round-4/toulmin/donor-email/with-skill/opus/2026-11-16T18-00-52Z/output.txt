@@ -1,0 +1,50 @@
+I left out the guarantee because it isn't true, and with this audience a claim that isn't true is the biggest risk you could take.
+
+**The numbers:**
+- Placing all 61 children costs **$70,150** (61 × $1,150).
+- Last December this group gave **$1,240**.
+- Suppose every one of the 340 lapsed donors came back at their $85 average. That's $28,900, plus the full $15,000 match, for $43,900. It still only covers about 38 children.
+
+No realistic response gets you to 61. Your former board member forwards these emails with her comments, and a promise people can check and find false is exactly what she'd pick up on.
+
+**What the email says instead.** The match is the strongest true thing you have, so I built the email around it:
+- $85 becomes $170.
+- $575 pays for one child's full year.
+- If returning donors use the whole match, that's $30,000, which places 26 children in January. I wrote that as an "if," so it stays true even if the response is modest.
+- It also spells out what happens if they don't give: most of the children will still be on the waiting list in January.
+
+**Eastside.** The email brings up the closure before it asks for anything. These readers are already holding it against you, so leaving it out would read as avoidance. I didn't invent reasons for the closure or claims about what has changed since. If anything has really changed, one specific sentence about it would be the most persuasive thing you could add. Another strong line: if any of the 61 children live in the old Eastside neighborhoods, say so.
+
+**Check before sending:**
+- Make sure the school will actually use gifts that come in this month to place waiting-list children in January. The "$575 = one child's year" line depends on it.
+- Fill in the bracketed placeholders.
+- The email is about 225 words, not counting the subject line.
+
+<final_document>
+Subject: 61 kids are waiting. This month, your gift counts twice.
+
+Dear [First name],
+
+We know many of you stepped away after we closed our Eastside branch in 2022, and some of you told us plainly why. We haven't forgotten those letters. We're writing anyway, because of 61 children.
+
+That's how many kids are on our waiting list for subsidized lessons right now. A year of weekly lessons costs us $1,150 per child. Without new support, most of them will still be waiting when lessons start in January.
+
+This month, your help goes twice as far. A family foundation will match every gift from a returning donor, dollar for dollar, up to $15,000, through December 31. That means:
+
+- $85 becomes $170
+- $575 becomes a full year of lessons for one child
+- $1,150 becomes a full year for two children
+
+If returning donors use the full match, that's $30,000, enough to take 26 children off the waiting list and into lessons this January.
+
+You gave to [School name] because you believed every kid deserves a chance to make music. These 61 children are waiting to hear yes.
+
+[Give now and double your gift →]
+
+With gratitude,
+
+[Executive Director's name]
+Executive Director, [School name]
+
+P.S. The match ends December 31 and applies only to gifts from returning donors like you. Whatever you give this month, the foundation will match it.
+</final_document>

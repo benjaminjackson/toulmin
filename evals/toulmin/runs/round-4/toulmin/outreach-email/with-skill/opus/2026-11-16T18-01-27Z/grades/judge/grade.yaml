@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T18:02:10.604506+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 195
+  tags: []
+  notes: extracted 195 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 8
+    right_comparison: 6
+    qualification: 5
+    objections: 8
+    fit: 8
+  details:
+    agree: Opening with her own $600K figure, showing a break-even she can check,
+      and dealing with the IT-system worry up front makes a 20-minute call an easy
+      yes for a busy VP.
+    honest: All the numbers are correct and the weaker result is disclosed, but calling
+      21% 'our smaller result' hides that only two of six customers track errors and
+      one hasn't shared numbers, so it reads as a floor when it isn't.
+    works_the_facts: It works out the $75K annual cost, the roughly 13% break-even
+      against her $600K, and the 21% and 54% reductions, so the weaker case still
+      reads as a clear win.
+    right_comparison: Doing nothing is implicitly set as $600K a year in returns that
+      keeps going, which matches the facts, but the email never says outright what
+      that costs her each year she waits.
+    qualification: The 'not every site improves that much' hedge is backed by a real
+      number, but the single-warehouse pilot has no success bar, timeframe or consequence
+      Dana could hold them to.
+    objections: 'It meets the IT director''s likely objection directly: it doesn''t
+      replace the warehouse system, IT can review it first, and they can start with
+      one warehouse. It raises no objection the facts already answer.'
+    fit: It's short, in short paragraphs that read easily on a phone, with a sharp
+      subject line and one clear ask, as the brief wanted.

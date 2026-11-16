@@ -1,0 +1,60 @@
+grader: judge
+graded: '2026-11-16T18:02:51.378031+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 413
+  tags: []
+  notes: extracted 413 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 7
+    right_comparison: 8
+    qualification: 8
+    objections: 5
+    fit: 8
+  details:
+    agree: The math, quarterly targets and a named funding gap give the board something
+      concrete to vote on, but the two members from advertising are never told why
+      ads have to end instead of running alongside membership, and the plan for the
+      11-year staff member is left as a placeholder.
+    honest: The numbers check out and replacement is framed as a goal rather than
+      a promise, but the claim that ads slow the site and get in the way of reader
+      support is not in the brief, and the memo quietly assumes the 212 pilot members
+      are still paying.
+    works_the_facts: 'The derived figures are correct ($20k/yr, 1.5%, 875 members,
+      6.25%, about $67k projected ads, about $52k first-year revenue), but the memo
+      calls the target ''four times the pilot'' when it could have shown the better
+      true comparison: the pilot ran at about 35 sign-ups a week, and the goal needs
+      only about 13 a week over a year.'
+    right_comparison: The memo projects the ad decline to about $67k in 2027 and sizes
+      the member count to match it, though it then measures the transition gap against
+      last year's $84k rather than the declining baseline, which makes the cost look
+      bigger than it is.
+    qualification: Net quarterly targets with board reporting and a June 30 trigger
+      at 550 members are dated, numeric and checkable, though the consequence of missing
+      the trigger, 'bring options', is soft.
+    objections: The memo covers the revenue gap and slow growth, and it mentions sponsorship
+      as a non-display option, but it skips the sales-minded objection that ads still
+      bring in $84k and could run alongside membership, and the staff question is
+      left as a placeholder.
+    fit: It is a properly formed board memo, about one page, with a clear request
+      and decision list, though several bracketed placeholders still need filling
+      in before it can go out.

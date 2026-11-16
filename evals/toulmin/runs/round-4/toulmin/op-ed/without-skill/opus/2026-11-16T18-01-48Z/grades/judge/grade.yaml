@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T18:02:47.057606+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 646
+  tags: []
+  notes: extracted 646 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 3
+    objections: 6
+    fit: 7
+  details:
+    agree: The nurse's log and the respectful handling of each concern could move
+      an undecided parent, but a board member worried about athletics and the $180,000
+      gets a promise of plans to come rather than a reason to accept the cost.
+    honest: "The piece rightly stops short of promising a higher graduation rate,\
+      \ but it invents details: the 6:40/6:45 buses, 'September through December,'\
+      \ the 8\u201310 hour and 11 p.m. sleep claims, and 'other districts have reworked\
+      \ schedules.' It also overstates with 'every school day' and 'not in dispute.'"
+    works_the_facts: It turns the figures into useful forms ('more than seven in ten,'
+      'one in six doesn't finish,' first period above the next two combined), but
+      it never puts the $180,000 per student or against the 412 visits, and never
+      shows what a one-point attendance gain would mean here.
+    right_comparison: The status quo appears as exhausted students and full morning
+      nurse visits, but the cost comparison is only gestured at ('what we lose now'),
+      and no trend or concrete figure for staying at 7:25 is given.
+    qualification: The call to 'track graduation, attendance and nurse visits' names
+      things to watch but gives no date, no target number and no consequence if the
+      results don't come.
+    objections: All three objections are raised fairly, and the early-supervision
+      idea for working parents is concrete, but darkness and missed classes are handed
+      off to a future 'plan,' and the cost answer is rhetorical.
+    fit: It reads like a proper op-ed with a clear ask and a strong close, but it
+      runs at or slightly past the 650-word limit once the headline and byline are
+      counted.

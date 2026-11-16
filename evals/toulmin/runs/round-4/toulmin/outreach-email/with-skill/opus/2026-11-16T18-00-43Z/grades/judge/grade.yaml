@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T18:01:27.708888+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 208
+  tags: []
+  notes: extracted 208 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 6
+    objections: 8
+    fit: 8
+  details:
+    agree: Dana gets her own $600K figure back, a break-even she can check in her
+      head, a low-risk one-site start and a direct answer on the IT director, so she
+      would plausibly take a 20-minute call, though the evidence base is thin.
+    honest: "The email turns the brief's blanket 'cut errors in half' into 'more than\
+      \ half' at one customer and shows the weaker 2.8\u21922.2 result too, but it\
+      \ leaves out that only two of six customers have shared data, and 'That's the\
+      \ problem we solve' overreaches a little."
+    works_the_facts: It works out the $75,000 annual cost for five sites and the roughly
+      12% break-even against $600K, then measures both results (54% and 21%) against
+      that bar, which is the most useful form these facts can take.
+    right_comparison: Doing nothing means the $600K-plus a year in returns keeps going,
+      and the email sets that cost against the software's price; the brief gives no
+      trend to add.
+    qualification: It names a real condition ('if your returns cost moves with your
+      error rate') and offers a one-site trial she can check, but the trial has no
+      time frame, target number or consequence if the target is missed.
+    objections: 'It meets the IT director''s likely resistance head-on: the software
+      sits on top of the warehouse system, setup takes three weeks, and it offers
+      a walkthrough before anything goes ahead, without raising objections the facts
+      don''t support.'
+    fit: At about 200 words in short paragraphs it reads easily on a phone, and it
+      ends with a single clear request, as the brief asked.

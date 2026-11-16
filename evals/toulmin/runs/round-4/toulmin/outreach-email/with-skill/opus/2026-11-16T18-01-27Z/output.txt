@@ -1,0 +1,31 @@
+I've written the email around a narrower claim than "we cut picking errors in half."
+
+**Why I narrowed the claim.** "We cut picking errors in half" sounds like a typical result. Only one customer has shown that: the pet-supply distributor went from 4.1 to 1.9, which is a 54% drop. The other customer that shared numbers went from 2.8 to 2.2, which is 21%. If Dana asks "is that typical?", the honest answer is no, and a VP of operations will ask. So the email says **"our biggest customer cut mis-picks by more than half."** That's true and it's just as strong. You could use the broad version instead, but I wouldn't. It's the line most likely to come back at you on the first call.
+
+**Why the smaller result helps.** For five warehouses you'd charge $75,000 a year (5 × $1,250 × 12). That's about 12.5% of her $600K. So the software pays for itself if it cuts wrong-item shipments by roughly 13%, and your *weaker* result was 21%. That means you don't need to promise "half" for the numbers to work. The weaker result already clears the bar. This assumes her returns cost goes down in step with mis-picks, which is reasonable since she was talking about wrong-item returns. Expect her to check it, though.
+
+**The IT director.** I didn't mention him or the rollout. You heard about that secondhand, and bringing it up in a cold email would show you've been asking around about her team. The email covers it a different way: it says the software doesn't replace their warehouse system, offers to walk IT through exactly what it connects to first, and offers to start with one site. Before that walkthrough, you'll probably need a separate pitch written for him. He's the one who can block this even if Dana says yes.
+
+**Before you send.** Starting with one warehouse is written as an offer. Make sure you're willing to do it. Also be ready for her to ask for the name of the 21% customer, or to ask about the customer that hasn't shared numbers.
+
+<final_document>
+Subject: Your $600K in wrong-item returns
+
+Hi Dana,
+
+Last spring you told [magazine] that wrong-item returns cost you "north of $600,000 a year." That number is why I'm writing.
+
+We make pick-verification software. Pickers scan each item with a phone camera, and it flags a wrong item before the box closes.
+
+Our biggest customer, a pet-supply distributor with three warehouses, went from 4.1 mis-picks per 1,000 order lines to 1.9 in their first five months. That's more than half.
+
+Not every site improves that much. Another customer went from 2.8 to 2.2. But the numbers work even at that level. Covering all five of your warehouses would cost $75,000 a year, so it pays for itself if it cuts wrong-item shipments by about 13%. Our smaller result was 21%.
+
+It doesn't replace your warehouse management system. It sits on top of it, and setup takes about three weeks. If your IT team wants to see exactly what it connects to before anything else happens, I'll walk them through it first. We could also start with a single warehouse.
+
+Worth 20 minutes to see whether your numbers could look like that?
+
+[Your name]
+Co-founder, [Company]
+[Phone]
+</final_document>

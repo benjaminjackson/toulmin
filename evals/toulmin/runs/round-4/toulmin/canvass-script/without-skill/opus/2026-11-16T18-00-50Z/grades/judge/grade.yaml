@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T18:01:37.681080+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 262
+  tags: []
+  notes: extracted 262 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 8
+    objections: 8
+    fit: 8
+  details:
+    agree: For a Ridgeview retiree, hearing that their own branch closes in July,
+      plus a plain $10-a-month figure and a firm end date, is a real reason to reconsider,
+      but nothing speaks directly to the strain on a fixed income, so a past no-voter
+      may still hold out.
+    honest: "The cost figures are correct ($640k \xD7 0.19/1000 \u2248 $122/yr, about\
+      \ $10/mo) and the misleading coffee line is rightly left out, though \"more\
+      \ people use the library now than in years\" goes a little beyond what a 22%\
+      \ rise since 2021 supports."
+    works_the_facts: It works out the Ridgeview cost from the rate and the local median
+      instead of quoting the citywide average, which is honest for this precinct,
+      but it misses gentler true forms such as about 33 cents a day.
+    right_comparison: The alternative is stated concretely (the Ridgeview branch closes
+      in July and Sunday hours are not restored) and set against rising use, which
+      matches the facts.
+    qualification: The facts are firm (closure in July, a fixed rate, a six-year term),
+      so the script needs no hedging.
+    objections: It answers the 'blank check' charge from the paper with the fixed
+      rate, the sunset date, the dollar amount raised and its two named uses, and
+      raises no objection the facts already settle, though the fixed-income worry
+      gets no reply of its own.
+    fit: "It fits one side of a card and runs about 60\u201390 seconds, with branches\
+      \ for each response and a tally line, though it leaves out the coffee comparison\
+      \ the field lead asked for without giving the reason."

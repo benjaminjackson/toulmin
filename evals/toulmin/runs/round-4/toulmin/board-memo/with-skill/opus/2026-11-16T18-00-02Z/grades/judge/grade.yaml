@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T18:01:23.794248+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 477
+  tags: []
+  notes: extracted 477 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 8
+    honest: 8
+    works_the_facts: 10
+    right_comparison: 10
+    qualification: 9
+    objections: 8
+    fit: 7
+  details:
+    agree: 'The memo answers the ad-background members on their own terms: the ad
+      trend, the year-one cash gap and the checkpoint all speak to them, but the unfilled
+      funding source and the blank plan for the ad sales colleague leave real openings
+      for resistance.'
+    honest: It correctly softens the brief's 'will replace within a year' into a target
+      and labels projections as projections, though it assumes all 212 pilot members
+      are still paying and adds an untested claim that early sign-ups are the most
+      loyal readers.
+    works_the_facts: 'Every derived figure checks out and is put to good use: about
+      20% annual decline, the $67k and $54k projections, 35 sign-ups a week against
+      13 needed, 1.5% against 6.25% of the list, 875 members, and about $52k of 2027
+      cash from linear growth.'
+    right_comparison: It compares membership with ads on their declining trend ($67k
+      in 2027) rather than a flat $84k, and it compares year-one cash honestly against
+      that figure.
+    qualification: The checkpoint of 500 members by June 30, 2027 is checkable, and
+      missing it means a stated return to the board with options including resuming
+      ads, though 500 sits a little below the linear path of about 550.
+    objections: It meets the likely objections from sales-minded members (pace slowing,
+      cancellations, cash gap, why not run both), but the 'why not both' answer and
+      the ad colleague plan are left as placeholders.
+    fit: It is a properly formatted board memo that probably just fits on one page,
+      but several bracketed placeholders still need filling before it can go out.

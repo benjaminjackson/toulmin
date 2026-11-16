@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T18:00:57.705807+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 645
+  tags: []
+  notes: extracted 645 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 3
+    objections: 6
+    fit: 8
+  details:
+    agree: The nurse's first-hand line at the office door and the clear attendance-to-graduation
+      chain should persuade a sympathetic parent, but a board member worried about
+      the $180,000 and the 8 a.m. drop-offs gets reassurance rather than a plan they
+      could vote on with confidence.
+    honest: 'It properly declines to promise the graduation gain the brief wanted,
+      but it adds claims the brief never gave: the 11 p.m. sleep onset, the eight-to-ten-hour
+      need, crash and depression links, and that students were ''fine by mid-morning''
+      and ''weren''t sick''.'
+    works_the_facts: It derives 'nearly three in four', 'one in six' and the comparison
+      of first period with second and third combined, but it never turns the one-point
+      attendance rise into school days per student or the bus cost into a per-student
+      figure.
+    right_comparison: The status quo is shown as daily exhaustion and first-period
+      visits, and the neighbouring district is used fairly as the counterfactual,
+      though nothing is said about any trend in our own tardies or graduation rate.
+    qualification: The only hedge is 'no one can promise... by a set number', which
+      gives the board no checkable measure, such as first-period visits or tardies
+      by a stated date, or any consequence if those don't move.
+    objections: 'All three objections are named and treated as real, but the answers
+      are thin: early-open supervision and lighted fields are proposals with no cost,
+      and the reply on cost is a general appeal rather than a figure.'
+    fit: It is a properly shaped op-ed with headline, byline and a clear ask tied
+      to the April 14 vote, and at roughly 630 words it comes in under the 650-word
+      cap.

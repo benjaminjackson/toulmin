@@ -1,0 +1,29 @@
+I didn't use "we cut picking errors in half" because it isn't accurate as written. Only one of your six customers did that. Of the two others who track error rates, one improved by about 20% and the other hasn't shared numbers. If Dana asks "across how many customers?", the general claim falls apart at the moment you most need her trust. "Our largest customer cut mis-picks by more than half" is true and still makes the point, so I used that and kept the real numbers.
+
+<final_document>
+Subject: Wrong-item returns at [Company]
+
+Hi Dana,
+
+Last spring you told [Magazine] that returns from wrong-item shipments cost you "north of $600,000 a year." I may be able to help with that.
+
+We make pick-verification software. Pickers scan each item with a phone camera, and it flags a wrong item before the box closes.
+
+Our largest customer is a pet-supply distributor with 3 warehouses. In their first five months, their mis-picks dropped by more than half, from 4.1 to 1.9 per 1,000 order lines.
+
+It doesn't replace your warehouse management system. It sits on top of it, and setup takes about three weeks.
+
+It costs $1,250 per site per month, which comes to $75,000 a year for all five of your warehouses.
+
+Would a 20-minute call be worth it to see whether those numbers would hold up in your operation?
+
+[Your name]
+Co-founder, [Company]
+[Phone]
+</final_document>
+
+A few notes:
+
+- **The IT director.** The WMS line is there for him, since it's the first question he'll ask. I left out anything that hints you've heard about him, because that's secondhand and would come across badly in a cold email. Before the call, find out exactly how your product connects to the WMS (read-only? an API? file exports?). That's the conversation that will decide the deal.
+- **The math.** I gave the yearly price next to her $600K figure but didn't say how much she'd save. Saying "you'd save $300K" would mean promising her the same results as your best customer.
+- **Fill in** her company name, the magazine name and your signature. Check her exact quote against the article before you send.

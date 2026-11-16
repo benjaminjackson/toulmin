@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T18:01:51.760843+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 285
+  tags: []
+  notes: extracted 285 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 8
+    objections: 8
+    fit: 8
+  details:
+    agree: A Ridgeview retiree who voted no last time hears that their own branch
+      closes in July and gets a plain $10-a-month figure they can check, which could
+      move some resisters, though the card gives no reason the levy was redesigned
+      since the last one failed.
+    honest: Every number traces to the brief and the misleading coffee line was dropped,
+      but 'pays for exactly two things' and 'tightly limited' go slightly further
+      than the brief, which doesn't say the money is legally restricted to those uses.
+    works_the_facts: "The $122 a year and $10 a month figures come correctly from\
+      \ 19 cents \xD7 $640,000 and suit the precinct, and the card gives a formula\
+      \ for working out your own bill; a per-day figure or the city-median comparison\
+      \ could have made it look smaller and still be true."
+    right_comparison: 'The alternative is put concretely: the Ridgeview branch closes
+      this July and Sunday hours stay gone, set against the 22% rise in visits.'
+    qualification: A door script stating fixed terms needs no hedge, and the card
+      adds none.
+    objections: It answers the 'blank check' letter with the fixed rate, the six-year
+      limit and the named uses, and treats the fixed-income worry with respect, without
+      bringing up objections the reader didn't have.
+    fit: The main pitch fits on one side of a card and runs about 60 to 90 seconds
+      with short rebuttals underneath; it leaves out the requested coffee line, which
+      is defensible because the claim isn't true for Ridgeview homes.

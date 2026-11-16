@@ -1,0 +1,35 @@
+I recommend a different headline from the one you asked for. "We cut picking errors in half" is true for one customer, but you can't say it about the product as a whole. Of the three customers with numbers to report, one went from 4.1 to 1.9 per 1,000 lines (a 54% drop). One went from 2.8 to 2.2 (21%). One hasn't shared. A VP of operations who asks "across all your customers?" will get the 21% figure, and after that the "half" claim looks inflated. So the draft says your largest customer cut errors by more than half, which is completely true, and then puts both results next to her own cost figure.
+
+Even the weaker result pays for itself, and that's your strongest point:
+
+- **Cost:** 5 sites × $1,250 × 12 months = $75,000 a year.
+- **At a 21% drop:** about $125,000 a year saved on her $600K. This assumes her return costs fall in line with her mis-pick rate.
+- **At half:** about $300,000 saved.
+
+Two other choices in the draft:
+
+- **Her IT director.** The email says the software sits on top of her warehouse system rather than replacing it, and offers to take IT through it before she commits. It doesn't promise "no integration work," because you didn't tell me that. If it's true, add it, because it's the line most likely to get her past him.
+- **Placeholders.** Fill in the bracketed parts: the magazine, her company and your sign-off.
+
+The body is about 150 words, which is short enough to read on a phone.
+
+<final_document>
+Subject: Your $600K in wrong-item returns
+
+Hi Dana,
+
+Last spring you told [Magazine] that wrong-item returns cost [Company] "north of $600,000 a year."
+
+We make pick-verification software. Pickers scan each item with a phone camera, and it flags a wrong item before the box closes.
+
+Our largest customer is a pet-supply distributor with 3 warehouses. In their first five months, they went from 4.1 mis-picks per 1,000 order lines to 1.9. That's more than half. Another customer went from 2.8 to 2.2.
+
+For your 5 warehouses we'd cost $75,000 a year. Cutting your mis-picks in half would be worth about $300,000 a year. Even our smaller result, a drop of about a fifth, would be worth about $125,000.
+
+It doesn't replace your warehouse management system. It sits on top of it, and setup takes about three weeks. I'm happy to walk your IT team through exactly how it works before you commit to anything.
+
+Do you have 20 minutes in the next couple of weeks?
+
+[Your name]
+Co-founder, [Your company]
+</final_document>

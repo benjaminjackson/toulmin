@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T18:00:59.019604+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 399
+  tags: []
+  notes: extracted 399 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 8
+    qualification: 8
+    objections: 6
+    fit: 7
+  details:
+    agree: "The declining-ad trend, the pilot math and the June checkpoint give the\
+      \ sales-minded members solid ground, but placeholders for how the $15,000\u2013\
+      $32,000 gap is covered and for the 11-year staffer's role leave their biggest\
+      \ worries open."
+    honest: It rightly softens the requested 'will replace' into a goal with a review,
+      and every figure checks out; small slips are stating as fact that pilot members
+      were the most loyal readers and assuming without saying so that the 212 pilot
+      members carry into January to reach the $52,000 figure.
+    works_the_facts: 'It works out the drop rate, the 2027 ad projection, the annual
+      value of the pilot, the members and list share needed, and the first-year gap,
+      but it frames the target as ''four times the pilot'' instead of the more favourable
+      true comparison of pace: 212 sign-ups in six weeks with almost no promotion
+      against roughly 13 net sign-ups a week needed over a year.'
+    right_comparison: It sets membership against ads as they are actually trending
+      (about $67,000 in 2027) rather than a flat $84,000, and it shows the gap against
+      both figures.
+    qualification: The checkpoint names a checkable number (550 members), a date (June
+      30) and a consequence (options including bringing back advertising), backed
+      by monthly reports, though the consequence only promises to 'bring options'
+      rather than a set action.
+    objections: It meets the 'ads still earn money' and 'what if it fails' objections
+      and names the ad sales lead respectfully, but the staffing plan and gap funding
+      are left as brackets, which is exactly where the ad-background members and the
+      colleague's 11 years will press.
+    fit: It is a properly structured board memo with a motion, about a page long,
+      but it is near the limit and carries several unfilled brackets.

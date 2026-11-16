@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T18:00:50.667426+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 295
+  tags: []
+  notes: extracted 295 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 8
+    objections: 6
+    fit: 8
+  details:
+    agree: The script is respectful and puts the July closure of my own branch first,
+      but as a fixed-income homeowner who voted no last time, I'm told I'll pay about
+      $120 a year and get nothing that makes that sum feel small or worth it, so it
+      may not change my vote.
+    honest: "The arithmetic is correct ($640k \u2192 $121.60/yr; $500k \u2192 $95;\
+      \ a 48\u201352 loss is a 4-point margin), and the script rightly drops the 'cup\
+      \ of coffee' line, which is false for Ridgeview. But 'using the library more\
+      \ than ever' claims more than the 22%-since-2021 figure supports."
+    works_the_facts: It works out the Ridgeview cost and a do-it-yourself formula,
+      but it never uses the $2.3M a year raised or a per-day figure (about 33 cents).
+      The fixed-income example uses a $500k home, which tells a Ridgeview owner nothing
+      about their own bill.
+    right_comparison: It clearly sets out the alternative (the Ridgeview branch closes
+      in July and Sunday hours stay gone) alongside the rise in visits, though it
+      doesn't spell out the cost of losing the branch next to the $10 a month.
+    qualification: A persuasive door script with a stated rate, a stated term and
+      a dated consequence doesn't need any hedging.
+    objections: The 'blank check' charge from the president's letter gets a solid
+      answer (fixed rate, six-year end, named uses), but the fixed-income reply just
+      hands over a formula and a lower-value example without addressing whether the
+      cost is affordable.
+    fit: "The main pitch runs about 60\u201375 seconds and the whole thing plausibly\
+      \ fits on one card with its rebuttals. It leaves out the requested coffee comparison,\
+      \ which is the right call because the figures make it untrue."

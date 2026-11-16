@@ -1,0 +1,11 @@
+{
+  "task": "board-memo",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T18-02-38Z",
+  "without_skill_run": "2026-11-16T18-01-51Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "reason": "Document B says ad revenue fell from $131,000 to $84,000 \"in one year\" when it took two years, and it leaves out the first-year revenue gap. The board members from advertising backgrounds would catch both and stop trusting the memo. Document A states the decline accurately, admits the roughly $32,000 transition gap and asks for bridge funding, so it is more honest and more convincing."
+}

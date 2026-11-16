@@ -1,0 +1,36 @@
+task:
+  name: board-memo
+  reader: The seven board members of the nonprofit newsroom, who must vote on the
+    proposal. Two of them come from advertising and sales backgrounds and will be
+    the hardest to move. All of them know the part-time ad sales person, who has been
+    with the newsroom for 11 years.
+  prompt: 'Help me write a memo to our board. I run a small nonprofit newsroom with
+    9 staff. I want the board to approve dropping display ads and moving to a reader
+    membership program from January.
+
+
+    What I have:
+
+    - Ads brought in $84,000 last year, down from $131,000 two years ago.
+
+    - We ran a 6-week membership pilot in the spring. 212 readers signed up at $8
+    a month. We did no marketing beyond two newsletter mentions.
+
+    - Our newsletter has 14,000 subscribers.
+
+    - A newsroom about our size in another state told me membership now covers 40%
+    of their budget.
+
+    - Two of our seven board members come from advertising and sales backgrounds.
+    Our ad sales person is part-time and has been with us for 11 years.
+
+
+    I want the memo to say that membership will replace our ad revenue within a year.
+    Keep it to one page.'
+config:
+  name: without-skill
+  runner: /Users/ben/github/toulmin/evals/toulmin/run-without-skill
+  model: opus
+started: '2026-11-16T18:01:51.826462+00:00'
+duration_seconds: 39.14
+exit_code: 0

@@ -1,0 +1,56 @@
+I've written the card, but I didn't use the coffee line as you asked for it, because the math doesn't support it.
+
+**The coffee line.** At 19¢ per $1,000:
+
+| | Per year | Per month | Per week |
+|---|---|---|---|
+| Typical home citywide ($410K) | $77.90 | $6.49 | $1.50 |
+| Typical Ridgeview home ($640K) | $121.60 | $10.13 | $2.34 |
+
+"Less than a cup of coffee a month" is a stretch citywide, where it's $6.49 a month. In Ridgeview, at $10 a month, it's wrong. Retired homeowners checking their tax bill will catch that, and the opposition is already saying you aren't being straight with them. Two smaller problems: your figures are medians, not averages, and 38% of households rent, so "the average household" doesn't fit them either.
+
+What the numbers do support is **"less than a cup of coffee a week."** That's true both citywide and in Ridgeview. The card gives the real dollar figure first, then the coffee comparison. I'd recommend that order for this precinct: telling a skeptical voter on a fixed income the exact cost is what earns their trust.
+
+**Other choices in the card:**
+- **It leads with the branch closing in July, not the price.** In Ridgeview that's the biggest thing at stake, and it's your own fact.
+- **The "blank check" answer uses only facts you gave me:** a fixed rate, a 6-year end date, and named uses. Check the ballot language. If it legally restricts the money to library services, or sets up an oversight committee, add that. It's a much stronger answer, but I didn't want volunteers saying something I couldn't confirm.
+- **The fixed-income answer has a blank.** If your county offers a senior property-tax exemption or deferral, it belongs there and could be your best line in Ridgeview. If there isn't one, volunteers should give the yearly figure and acknowledge the concern rather than argue with it.
+- **Renters skip the cost section.** It isn't their bill, and the library services are what matter to them.
+- **The neighborhood association president's letter needs its own reply.** It deserves a letter in the paper, not just answers at the door, ideally from a Ridgeview retiree who uses that branch.
+
+The main script is about 170 words, which fits 60 to 90 seconds at a relaxed pace.
+
+<final_document>
+**YES ON MEASURE 4: DOOR SCRIPT (Ridgeview)**
+
+**OPEN**
+"Hi, I'm [name], a volunteer from [neighborhood]. I'm talking with neighbors about Measure 4, the library levy on the March ballot. Got a minute?"
+
+**ASK**
+"Do you or anyone in your household use the Ridgeview library?" *(Listen. Let them talk.)*
+
+**WHAT'S AT STAKE**
+"If Measure 4 doesn't pass, the Ridgeview branch closes this July. Measure 4 keeps it open and brings back Sunday hours at all five branches. People are using the libraries more than ever: visits are up 22% since 2021."
+
+**THE COST** *(homeowners only; renters, skip to Close)*
+"It's 19 cents per $1,000 of assessed value. On a typical Ridgeview home that's about $10 a month, or $2.34 a week. That's less than a cup of coffee a week."
+
+**CLOSE**
+"The last library levy lost 48 to 52. This one will be close too. Can we count on your yes vote in March?"
+*Mark: 1 Strong Yes · 2 Lean Yes · 3 Undecided · 4 Lean No · 5 No*
+
+---
+
+**IF THEY SAY…**
+
+**"It's a blank check."**
+"I've heard that. Here's what it actually is: the rate is fixed at 19 cents per $1,000, it ends after six years, and it pays for Sunday hours and keeping Ridgeview open. That's about $2.3 million a year for those things."
+
+**"I'm on a fixed income."**
+"That's a fair concern. On a $640,000 home it's about $122 a year. [SENIOR EXEMPTION/DEFERRAL INFO, IF AVAILABLE]"
+
+**"What does it cost on my house?"**
+"Take your assessed value in thousands and multiply by 19 cents. A $500,000 home pays $95 a year."
+
+**Not interested?** "Thanks for your time. Have a good day." *Mark and move on. Don't argue.*
+</final_document>

@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T18:01:48.583938+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 583
+  tags: []
+  notes: extracted 583 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 5
+    honest: 6
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 3
+    objections: 4
+    fit: 8
+  details:
+    agree: The nurse's firsthand data and the neighbouring district make a warm, credible
+      case. A board member or parent already worried about dark practices, early drop-offs
+      and $180,000 gets questions and possible ideas rather than solutions, though,
+      so the reader who resists is unlikely to change their mind.
+    honest: 'The piece rightly declines to promise a higher graduation rate. However,
+      it adds things the brief doesn''t contain: the eight-to-10-hour sleep need,
+      the biology of the teen body clock, and ''middle and'' schools in the AAP recommendation.'
+    works_the_facts: It works out the 72% and the 'one in six' figures. It never turns
+      the one-point attendance gain into days per student per year, and it doesn't
+      put the $180,000 into a per-student or per-day cost.
+    right_comparison: The status quo is shown fairly as the morning line at the nurse's
+      office and set against a real district that made the change, though the piece
+      says nothing about whether things are currently getting worse or staying the
+      same.
+    qualification: The graduation hedge is honest. Still, nothing gives the reader
+      a number, a date or a consequence to check later, such as a tardy or attendance
+      target to review a year after the change.
+    objections: All three objections are stated fairly, but 'logistics problems have
+      solutions' plus questions for another district leaves the athletic director's
+      and working parents' concerns largely unanswered.
+    fit: This is a properly shaped op-ed, roughly within 650 words, with a clear ask
+      tied to the vote date; it reasonably softens the graduation-rate claim the brief
+      asked for.

@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T18:00:56.858736+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 284
+  tags: []
+  notes: extracted 284 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 8
+    right_comparison: 8
+    qualification: 6
+    objections: 7
+    fit: 8
+  details:
+    agree: For a retiree who uses or values the Ridgeview branch, the July closure
+      and a concrete $10 a month on their own home could move them, but the script
+      never says what is different from the levy they voted against, so a firm No
+      probably stays No.
+    honest: "Every figure checks out ($640k \xD7 0.19 = $121.60 a year, about $10.13\
+      \ a month, about $2.34 a week), and the writer rightly dropped the 'less than\
+      \ a coffee a month' claim, but 'more than ever' goes beyond a 22% rise since\
+      \ 2021, and 'this one will be close too' is a guess."
+    works_the_facts: It works out yearly, monthly, weekly and per-home costs from
+      the rate, uses the Ridgeview median rather than the city one, and gives a do-it-yourself
+      formula, though a per-day figure or the citywide $78-a-year figure was left
+      unused.
+    right_comparison: 'The alternative is stated as the facts show it: the Ridgeview
+      branch closes in July and Sunday hours stay gone, set against rising use, the
+      22% increase in visits.'
+    qualification: The July closure is a dated consequence the reader can check, but
+      'this one will be close too' cannot be checked, and the exemption line is an
+      unfilled placeholder.
+    objections: It answers the 'blank check' charge directly with the fixed rate,
+      the six-year limit and the named uses, and it addresses fixed income with a
+      real number, but it doesn't say why this levy deserves a vote that the last
+      one didn't.
+    fit: The main pitch runs about 60 to 90 seconds and the layout suits a card, though
+      the objection section may make it tight to fit on one side.

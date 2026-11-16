@@ -1,0 +1,11 @@
+{
+  "task": "donor-email",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T18-00-52Z",
+  "without_skill_run": "2026-11-16T18-00-40Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "reason": "As a donor who was hurt by the Eastside closure, I'd be more moved by A's \"you had every right to,\" its open admission that not every child will be placed, and its promise to report back in February with real numbers. Those rebuild trust better than B's slightly defensive \"We're writing anyway,\" though B's figure of 26 children funded by the full match is honest and strong."
+}

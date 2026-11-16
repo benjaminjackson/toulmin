@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T18:03:55.735213+00:00'
+outcome: pass
+score: 0.4
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 441
+  tags: []
+  notes: extracted 441 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.4
+  metrics:
+    agree: 5
+    honest: 3
+    works_the_facts: 6
+    right_comparison: 3
+    qualification: 8
+    objections: 5
+    fit: 7
+  details:
+    agree: The pilot arithmetic and the June checkpoint are persuasive, but the two
+      board members from ad sales will spot that the ad decline is overstated, and
+      nothing covers the 2027 revenue gap while membership builds, so they are likely
+      to hold out.
+    honest: The memo says ads fell 36% 'in one year' and 'dropped by a third last
+      year', but the brief puts that drop over two years, and the $54k and $35k projections
+      are inflated by the same error.
+    works_the_facts: 'The pilot figures are worked well: 35 a week, $20,352 a year,
+      875 members needed, 13 a week required against 35 achieved. The ad trend is
+      derived wrongly, though, and the memo never tests whether the 212 pilot members
+      are still paying.'
+    right_comparison: Staying with ads is described with a doubled annual decline
+      rate (about 20% a year is closer, roughly $67k this year), so the alternative
+      looks worse than the facts show.
+    qualification: 'The checkpoint is checkable: 500 members worth $48k by June 30,
+      2027, and if it is missed, a revised budget and a recommendation on resuming
+      ads in July.'
+    objections: 'It deals with pilot self-selection, cancellations, the hybrid option
+      and the colleague (though the colleague plan is still a placeholder), but it
+      leaves out the main sales objection: giving up all ad income on January 1 while
+      membership revenue ramps up slowly.'
+    fit: It is a proper board memo of roughly one page with a clear decision request,
+      though the placeholders and the number of sections push it close to the length
+      limit.

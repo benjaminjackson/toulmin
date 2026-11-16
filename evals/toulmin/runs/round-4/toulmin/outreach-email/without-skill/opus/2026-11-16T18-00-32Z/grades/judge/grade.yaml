@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T18:00:57.256953+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 130
+  tags: []
+  notes: extracted 130 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 3
+    right_comparison: 4
+    qualification: 3
+    objections: 6
+    fit: 9
+  details:
+    agree: The specific $600K hook and a clean result could earn a reply, but Dana
+      gets no savings estimate for her own sites and nothing that helps her get past
+      her IT director, so a call is possible but not likely.
+    honest: The 'more than half' claim is true for the one named customer (4.1 to
+      1.9 is about a 54% cut) and nothing is invented, but presenting only the best
+      of six customers suggests a typical result when another customer improved by
+      only about 21%.
+    works_the_facts: 'It never works the obvious numbers: halving $600K saves roughly
+      $300K a year, against $75K a year for five sites at $1,250 a month, about a
+      4x return, so the email leaves ''whether the numbers work'' for Dana to figure
+      out.'
+    right_comparison: The status quo of $600K or more a year in returns is only implied
+      by the subject line and opening, and is never set against the price or the expected
+      reduction.
+    qualification: The single-customer result has no hedge that Dana could check,
+      such as noting that results vary by site (one customer saw 2.8 to 2.2) or stating
+      what reduction would cover the cost by a set date.
+    objections: '''Sits on top of your WMS and doesn''t replace it'' partly answers
+      the IT director''s likely veto, but it doesn''t say how little his team would
+      have to touch or change, and that is his real worry.'
+    fit: It is short, scannable on a phone, has a clear subject line and a single
+      request, which matches the brief.

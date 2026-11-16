@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T18:01:46.767898+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 231
+  tags: []
+  notes: extracted 231 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 5
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 5
+    objections: 5
+    fit: 8
+  details:
+    agree: The match and the concrete $85-to-$170 example give a lapsed donor a real
+      reason to come back, but a reader still upset about Eastside gets an acknowledgment
+      and no reason to trust the school again, so many will stay away.
+    honest: It rightly drops the brief's unsupportable guarantee for all 61 children
+      (that would cost $70,150, and the full match only covers 26), but the P.S. line
+      'whatever you give, the foundation will match it' skips the $15,000 cap, and
+      the $30,000 scenario is presented as though it were within reach.
+    works_the_facts: It correctly works out the doubled gifts, $575 per matched child
+      and 26 children from a full match, but it never sets the $15,000 needed against
+      last year's $1,240 from 9 gifts, or against the roughly $28,900 that all 340
+      donors would give at $85 each.
+    right_comparison: '''Most will still be waiting'' is a fair statement of the no-gift
+      outcome, but it leaves out the trend from last December''s response, which shows
+      how far the likely result falls short of 26 children.'
+    qualification: The match has a date (December 31) and a cap ($15,000), but 'if
+      returning donors use the full match' doesn't tell the reader how likely that
+      is or what happens if far less comes in.
+    objections: It opens by naming the Eastside closure and the angry letters, which
+      a resentful reader will notice, but it offers no explanation, no account of
+      what has changed, and no link between the waiting-list children and Eastside
+      families, so the objection is acknowledged rather than answered.
+    fit: It's a year-end email of about 240 words, under the 250 limit, with a subject
+      line, a clear call to action and an executive director signature, and it departs
+      from the brief only by sensibly leaving out the guarantee the facts can't support.

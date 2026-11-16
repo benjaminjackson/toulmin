@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T18:01:23.777184+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 145
+  tags: []
+  notes: extracted 145 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 3
+    objections: 6
+    fit: 8
+  details:
+    agree: The opening quotes Dana's own $600,000 figure and the ask is small, so
+      she might take a call, but nothing connects the result to her money or gives
+      her a reason her IT director would accept.
+    honest: The drop from 4.1 to 1.9 is accurately called 'more than half', but the
+      email shows only the best customer and leaves out the 2.8-to-2.2 result and
+      that just 2 of 6 customers track rates, so the result looks more typical than
+      it is.
+    works_the_facts: It works out the $75,000 annual cost but never sets it against
+      her $600,000 loss; for example, halving her returns would save about $300,000
+      a year, roughly four times the price.
+    right_comparison: Her current $600,000-a-year loss appears only as the opening
+      hook and is never compared with the $75,000 cost, so she isn't shown what happens
+      if she does nothing.
+    qualification: '''Whether those numbers would hold up'' is a vague hedge that
+      names no number she could check, no date, and no consequence if the result falls
+      short.'
+    objections: Saying it sits on top of the WMS and takes three weeks to set up partly
+      answers the IT worry, but it doesn't say how much IT work or system access is
+      needed, which is the director's real objection.
+    fit: It is short, has a clear subject line, uses short paragraphs that read easily
+      on a phone, and ends with a single ask, which fits the brief.

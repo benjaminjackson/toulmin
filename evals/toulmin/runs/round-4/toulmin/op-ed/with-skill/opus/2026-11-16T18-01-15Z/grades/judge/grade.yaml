@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T18:02:45.110772+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 621
+  tags: []
+  notes: extracted 621 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 7
+    objections: 8
+    fit: 7
+  details:
+    agree: Each of the three objections a resisting parent or board member would raise
+      gets a concrete answer, and the honest refusal to promise a graduation number
+      makes the case more believable, though the supervised-building offer leaves
+      its own cost unstated.
+    honest: The piece declines to claim a graduation increase and bounds the per-student
+      cost honestly, but 'Those are the numbers that lead to graduation' and 'first
+      period is where most of those mornings are lost' go slightly beyond what the
+      visit and tardy data show, and the internal-clock claim isn't in the brief.
+    works_the_facts: It turns the raw figures into 'nearly three in four', 'one student
+      in six', 'about half as often' and an upper bound of about $200 a student or
+      a dollar a school day, each a fair and favourable reframing of the brief's numbers.
+    right_comparison: The no-change alternative is described as a repeat of last fall's
+      400-plus visits, short sleep and an 84% rate, which fits the facts, though the
+      brief gives no trend and 'the same 84 percent' assumes the rate stays flat.
+    qualification: It names checkable measures (tardies, attendance, nurse visits,
+      failures), a two-year deadline and a consequence (say so and reconsider), but
+      it sets no numeric threshold for what counts as improvement.
+    objections: Cost, working parents and athletics are each met directly, and the
+      athletics trade-off is conceded and weighed rather than waved away, with no
+      invented objections.
+    fit: "It has the right op-ed form and a clear call to vote yes on April 14, but\
+      \ at roughly 660\u2013680 words it likely runs a little over the 650-word cap."

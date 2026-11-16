@@ -1,0 +1,35 @@
+I wrote the email around what your numbers can support, which is a little less than "we cut picking errors in half." You can change it back if you want, but I'd advise against it.
+
+**Why I didn't make the flat "half" claim:** Only one of the two customers who report numbers halved their errors. The pet-supply distributor went from 4.1 to 1.9, a 54% drop. The other went from 2.8 to 2.2, which is 21%. A VP of operations will likely ask "for everyone?" If she later finds out the second result was 21%, the headline looks oversold. So the email says you cut errors by more than half *at one named customer*, and it gives the second result too.
+
+**Why that version still works:** Your numbers make a strong case against her own figure:
+- Five sites at $1,250 a month comes to $75,000 a year.
+- If her returns cost of $600,000 or more moves with her mis-pick rate, cutting errors by about 12.5% pays for the software.
+- Both of your reported results clear that easily. Even the 21% result works out to roughly $126,000 a year.
+
+That's a better pitch than "half" because it holds up whichever result she gets. One caveat: it assumes her returns cost goes down roughly in line with her error rate, so the email says that openly.
+
+**The IT director:** I didn't mention what you've heard about him. The email answers his likely objection ahead of time: the software doesn't replace their warehouse system, and you offer to walk him through it before anything else happens. If it's true that your software only *reads* from the warehouse system and never writes to it, say that in one line. That's the strongest thing you can tell him, but I didn't state it because you didn't confirm it.
+
+**Fill in:** the magazine name and your sign-off.
+
+<final_document>
+Subject: Your $600K in wrong-item returns
+
+Hi Dana,
+
+In your interview with [Magazine] last spring, you put the cost of wrong-item returns at "north of $600,000 a year." That's the problem we solve.
+
+Your pickers scan each item with a phone camera, and our software flags a wrong item before the box closes. At a regional pet-supply distributor with three warehouses, mis-picks fell from 4.1 to 1.9 per 1,000 order lines in five months. That's more than half. At another customer, they fell from 2.8 to 2.2.
+
+Here's how the cost works for you. All five of your sites would cost $75,000 a year. If your returns cost moves with your error rate, cutting mis-picks by about 12% pays for it. Both results above beat that easily.
+
+It doesn't replace your warehouse system. It sits on top of it, and setup takes about three weeks. I know your team just finished a big rollout, so I'd be glad to walk your IT director through exactly how it connects before anything else happens.
+
+Pricing is per site, so you could start with one warehouse and see your own numbers before deciding on the rest.
+
+Would you have 20 minutes in the next couple of weeks?
+
+[Your name]
+Co-founder, [Company]
+</final_document>

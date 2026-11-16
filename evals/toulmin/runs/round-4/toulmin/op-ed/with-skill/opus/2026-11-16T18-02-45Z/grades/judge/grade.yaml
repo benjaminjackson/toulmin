@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T18:04:06.787721+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 682
+  tags: []
+  notes: extracted 682 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 5
+    objections: 5
+    fit: 7
+  details:
+    agree: The nurse's first-hand log and candid tone would persuade a sympathetic
+      parent, but a board member who resists still has no answer on athletics and
+      only a 'look at it' proposal for working parents, so they may stay unconvinced.
+    honest: 'It rightly declines the graduation-rate promise the brief asked for,
+      but it adds unsupported claims: that the other district hasn''t had a full four-year
+      class, that students would gain ''the hour of sleep they need'', and that the
+      AAP is ''the main professional body''.'
+    works_the_facts: 'It turns the raw figures into useful forms: 412 is more than
+      198+171 combined, visits drop by more than half, 640/890 is nearly three in
+      four, 84% means one in six doesn''t finish, and 31% is ''almost a third''; it
+      leaves the $180,000 cost unscaled (no per-student or per-visit figure).'
+    right_comparison: 'The status quo is shown as a cost too: 412 first-period visits
+      and avoidable tardies repeated next year if nothing changes. The brief gives
+      no trend data, so none is overlooked.'
+    qualification: It names the outcomes to track (tardies, attendance, nurse visits,
+      graduation) and asks for annual public reports, but sets no target number, no
+      date to judge by and no consequence if the later start fails.
+    objections: The cost objection is answered by comparison, and working parents
+      get a concrete suggestion (supervised early opening), but the athletic director's
+      objection is handed back as homework rather than answered.
+    fit: "It is a well-built op-ed with a clear ask and a dated vote, but at roughly\
+      \ 660\u2013680 words it runs slightly over the 650-word limit, and the name\
+      \ and school are still placeholders."

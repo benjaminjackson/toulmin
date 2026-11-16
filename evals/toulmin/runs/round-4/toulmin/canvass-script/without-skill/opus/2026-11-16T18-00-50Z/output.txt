@@ -1,0 +1,45 @@
+I wrote the card, but I left out the "less than a cup of coffee a month" line. It doesn't hold up, and Ridgeview is the worst place to use it.
+
+**The math:**
+- **Median city home ($410,000):** 410 × $0.19 = $77.90 a year, about **$6.50 a month**. That's more than a regular coffee and close to a latte. It's also the *median*, not the "average household."
+- **Ridgeview median ($640,000):** 640 × $0.19 = $121.60 a year, about **$10 a month**. That's two coffees or more.
+- **Renters (38% of households):** They don't get a levy bill, so "costs your household" doesn't really apply to them either way.
+
+In Ridgeview, voters are retired homeowners on fixed incomes who know their assessed values and can do this math at the door. The opposition is already calling the levy a "blank check." If a volunteer's number is off by half, it backs up that framing and hurts the volunteer's credibility on everything else they say. The last levy lost by 4 points, so it isn't worth the risk. Giving the real number up front works better. About $10 a month to keep their own branch from closing is a defensible ask.
+
+**Notes on the card:**
+- I wrote it for Ridgeview because that's where you start. For the rest of the city, change the cost line to: *"On a typical home here, about $410,000, that's about $78 a year, or about $6.50 a month."* If you still want something short and catchy for citywide turf, "about $1.50 a week" is accurate.
+- **Before printing, check two things I couldn't confirm:**
+  1. Does the ballot language legally limit the money to these uses, or set up an oversight or audit committee? If yes, add that to the "blank check" answer, because it's your strongest reply. If not, keep the wording as it is. It describes what the levy funds without promising a legal restriction.
+  2. Does your state or county offer a senior or fixed-income property tax exemption or deferral that applies to levies? If so, put it on the card for Ridgeview. It speaks directly to their main worry.
+- The main path runs about 170 spoken words, which is roughly 60–75 seconds with pauses.
+
+<final_document>
+**YES ON MEASURE 4: RIDGEVIEW DOOR SCRIPT**
+
+**INTRO**
+"Hi, I'm ___, a volunteer with Yes on Measure 4, the library levy on the March ballot. Do you have a minute?"
+
+**ASK FIRST**
+"Have you heard about Measure 4? How are you leaning?"
+*(Listen. If they're undecided or leaning no, keep going. If they're a firm no, thank them and move on.)*
+
+**THE CASE**
+"Without Measure 4, the Ridgeview branch closes this July. Measure 4 keeps it open and brings back Sunday hours at all five branches. More people use the library now than in years; visits are up 22% since 2021."
+
+**THE COST: SAY IT STRAIGHT**
+"It's 19 cents per $1,000 of assessed value, for six years, and then it ends. On a typical Ridgeview home, about $640,000, that's about $122 a year, or roughly $10 a month."
+*(Renters: "It's billed to property owners. For you, it's a vote on whether your branch stays open.")*
+
+**IF THEY SAY "BLANK CHECK"**
+"I understand the concern. The rate is set at 19 cents for six years, then it ends. It raises $2.3 million a year for two things: keeping this branch open and Sunday hours at all five branches."
+
+**CLOSE**
+"The last library levy lost 48 to 52, so every vote really counts. Can we count on your yes in March?"
+
+- **Yes:** "Thank you! Would you mention it to a neighbor?"
+- **Undecided:** "Fair enough. Can I leave this with you?"
+- **No:** "Thanks for your time. Have a good day."
+
+*Record: Yes / Lean Yes / Undecided / Lean No / No*
+</final_document>

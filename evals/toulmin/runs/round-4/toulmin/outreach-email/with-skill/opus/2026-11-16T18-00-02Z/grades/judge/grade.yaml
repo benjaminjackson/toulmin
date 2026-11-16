@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T18:00:43.085038+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 170
+  tags: []
+  notes: extracted 170 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 3
+    objections: 7
+    fit: 8
+  details:
+    agree: "Dana gets her own $600K figure and a $75K cost against $125K\u2013$300K\
+      \ in savings, and the IT concern is addressed head-on, so she would likely agree\
+      \ to a 20-minute call, though a cautious IT director might still balk."
+    honest: Every number traces to the brief and 'more than half' is accurate (54%),
+      but calling 2.2 'our smaller result' suggests a full range when only 3 of 6
+      customers track errors and one hasn't shared its numbers.
+    works_the_facts: It correctly turns price into $75K a year and both results into
+      dollar savings against her own figure, which is conservative because hers is
+      a floor, but it misses easier hooks like payback in months or roughly $15K cost
+      per site against her returns cost per site.
+    right_comparison: Doing nothing is implied as keeping $600K+ a year in returns,
+      but the email never says outright what each month of waiting costs.
+    qualification: Results vary widely between customers, but the email offers no
+      checkable condition, such as a one-site pilot with a target mis-pick rate by
+      a set date and what happens if it's missed.
+    objections: The IT director's resistance is met with 'doesn't replace your WMS,'
+      'sits on top,' a three-week setup and an offer to walk IT through it first,
+      and no objection is raised unnecessarily, though it could say more plainly that
+      the WMS itself is untouched.
+    fit: It is short, has a clear subject line, uses short paragraphs that read well
+      on a phone and ends with a single ask.

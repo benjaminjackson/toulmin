@@ -1,0 +1,62 @@
+I wrote the card, but I left out the coffee line. It doesn't hold up, and Ridgeview is where it would hurt you most.
+
+**The math:** 19 cents per $1,000 of assessed value works out to:
+
+| Home value | Per year | Per month | Per week |
+|---|---|---|---|
+| City median, $410,000 | $77.90 | $6.49 | $1.50 |
+| Ridgeview median, $640,000 | $121.60 | $10.13 | $2.34 |
+
+- **The coffee claim:** $6.49 a month is more than a cup of coffee in most places, and $10 a month in Ridgeview clearly is. In a precinct full of retirees on fixed incomes, with a letter in the paper already saying the levy can't be trusted, one homeowner doing the math out loud on a doorstep could undo the conversation.
+- **"Average household":** The figure is really the median *home*. 38% of households rent, and they don't get a property tax bill directly.
+- **What does hold up:** "Less than a cup of coffee a *week*" is true for both the city median and Ridgeview.
+
+For Ridgeview I'd skip the coffee comparison and give the real number: "about $10 a month." For this audience a plain figure they can check themselves earns more trust than a comparison that can sound like the cost is being played down. If you want a coffee line for other precincts, use "less than a cup of coffee a week."
+
+**Choices I made in the script:**
+- **It opens with the July closure.** For Ridgeview, that's the cost of a no vote, and it's the strongest point you have.
+- **The "blank check" answer uses only your facts:** a fixed rate, six years, $2.3M a year, and two named uses. It doesn't name the association president or attack the letter.
+- **It doesn't promise extras.** There's no mention of an audit, an oversight committee or a senior exemption, because you didn't give me any of those.
+
+**Check before printing:**
+1. **Ballot language.** Make sure it actually commits the money to Sunday hours and keeping Ridgeview open. If it doesn't, change "It pays for exactly two things" to "The plan is to…".
+2. **Senior relief.** If your state or county has a property tax exemption or deferral for seniors, add one line to the fixed-income answer. It would be your best reply there.
+3. **Renters.** They'll need a separate card for other precincts. Don't reuse the homeowner cost line with them.
+
+<final_document>
+**YES ON MEASURE 4 — RIDGEVIEW DOOR CARD**
+
+**OPEN**
+"Hi, I'm [name], a volunteer with Yes on Measure 4, the library levy on the March ballot. Do you have a minute?"
+
+**ASK FIRST**
+"Do you or anyone in your house use the Ridgeview library?"
+*[Listen. Let them talk.]*
+
+**THE CASE**
+"Here's why I'm out today. If Measure 4 doesn't pass, the Ridgeview branch closes this July. *[Pause.]*
+
+Measure 4 keeps it open, and it brings back Sunday hours at all five branches. Library visits are up 22% since 2021. People are using these libraries.
+
+For a typical Ridgeview home it comes to about $10 a month."
+
+**THE ASK**
+"Can we count on your yes vote in March?"
+
+- **YES:** "Thank you. The last library levy lost 48 to 52, so every vote matters." *[Record. Make the campaign ask.]*
+- **UNSURE:** "What would help you decide?" *[Use the answers below.]*
+- **NO:** "Thanks for your time. Have a good day." *[Record. Move on. Don't argue.]*
+
+---
+
+**IF THEY SAY…**
+
+**"It's a blank check."**
+"I've heard that. It's actually tightly limited: a fixed rate of 19 cents per $1,000 of assessed value, for six years, and then it expires. It raises $2.3 million a year and pays for exactly two things: Sunday hours at all five branches and keeping Ridgeview open."
+
+**"I'm on a fixed income."**
+"That's fair, and it's real money. On a typical Ridgeview home it's about $10 a month, or $122 a year. You can check yours: take your assessed value, divide by 1,000, and multiply by 19 cents. For that, the Ridgeview branch stays open."
+
+**"How much exactly?"**
+"19 cents per $1,000 of assessed value. A $640,000 home pays about $122 a year."
+</final_document>

@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T18:02:38.639047+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 461
+  tags: []
+  notes: extracted 461 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 9
+    right_comparison: 7
+    qualification: 9
+    objections: 6
+    fit: 8
+  details:
+    agree: The arithmetic, the checkpoint and the respectful handling of the ad seller
+      make this hard to reject, but the two ad-background members may still balk at
+      switching off ads on 31 December, before membership has shown it can fill the
+      gap.
+    honest: The headline claim is framed as an expectation, backed by a target and
+      a checkpoint, and the figures are accurate; the only overreach is the line that
+      the peer newsroom shows the model 'can carry well beyond' our ad income, which
+      relies on a budget comparison we don't have.
+    works_the_facts: 'Every useful figure is worked out from the brief: annual pilot
+      revenue, 875 members needed, 6% of the list, 13 a week against the pilot''s
+      35, the 545-member June milestone, and the projected range for ads.'
+    right_comparison: The memo treats the status quo as a declining ad business rather
+      than a steady $84,000, which is right, but it applies only one year of decline
+      to 2027 when the trend points to two, so it actually makes keeping ads look
+      better than it is.
+    qualification: The hedge comes with a firm date (30 June 2027), a number (545
+      members, about $52,000) and a consequence (a revised budget and options at the
+      July meeting).
+    objections: 'Pilot self-selection, cancellations and the ad seller''s future are
+      all addressed, but the memo never answers the ad members'' most likely question:
+      why not keep ads while membership builds, given the revenue gap early in 2027?'
+    fit: It's a properly formatted board memo with a clear decision request, and at
+      roughly 550 words it fits on one page, though only just.

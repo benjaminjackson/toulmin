@@ -1,0 +1,11 @@
+{
+  "task": "donor-email",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T18-01-46Z",
+  "without_skill_run": "2026-11-16T18-01-17Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "reason": "As a donor still unhappy about Eastside, I'd respond better to B. \"I'm not asking you to forget it\" respects my grievance, while A's \"We heard you\" reads as stock PR. B's conditional math ($30,000 at full match funds 26 children) is honest and concrete, and its promise to report back \"whether or not you give\" feels like no strings are attached."
+}

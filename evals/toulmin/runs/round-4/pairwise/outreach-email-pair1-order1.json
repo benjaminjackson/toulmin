@@ -1,0 +1,11 @@
+{
+  "task": "outreach-email",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T18-00-02Z",
+  "without_skill_run": "2026-11-16T18-00-02Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "reason": "A shows the payoff in Dana's own numbers (about $300K saved against $75K a year) and offers to walk her IT team through it first, which deals with her IT director's resistance. It's also more honest because it reports the weaker 2.8→2.2 result next to the best one, while B mentions only the strongest customer."
+}

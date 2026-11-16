@@ -1,0 +1,58 @@
+I've drafted the memo, but I didn't write it to say membership *will* replace ad revenue within a year. Your numbers support something close to that, but not that exact claim. Two members of your board come from advertising, and they're the ones most likely to spot the gap.
+
+**What your numbers support**
+- Ads are falling about 20% a year ($131k to $84k over two years). If that keeps up, keeping ads means about $67k next year and $54k the year after, not $84k. That's your strongest point.
+- The 212 pilot members are worth $20,352 a year, about a quarter of last year's ad revenue.
+- Matching $84k takes 875 paying members, which is 6.25% of your newsletter list. That means adding about 13 members a week for a year. The pilot brought in about 35 a week with two newsletter mentions.
+
+**Where the bold version breaks**
+- Members join gradually, so even if you reach 875 by December, 2027 membership income would be about $52k. Ads on their current trend would bring about $67k. Someone on the board will work this out, and a memo that says "will replace" won't survive it.
+- The 35-a-week pace came from your most loyal readers. It will slow, and some members will cancel.
+- The 40% figure from the other newsroom shows membership can work. It doesn't predict what you'll get.
+
+**What I did instead**
+The memo makes "replace ad revenue within a year" a target: 875 paying members by December 31, 2027. It adds a June 30 checkpoint of 500 members and says what you'll do if you miss it. That gives the board something to hold you to, which works better on a sceptical board than a flat promise. If you'd still rather say "will," change the first paragraph. Leave the year-one cash section as it is either way.
+
+**Before you send it**
+1. **Are the 212 pilot members still paying?** The $20,352 figure assumes they are. If some have cancelled, use the current number and redo the sums.
+2. **Your ad salesperson.** I couldn't decide this for you, so it's a bracket in the memo. Please talk to them before the memo goes out. They shouldn't find out from a board document.
+3. **Why not run ads and membership side by side?** The board will ask, and your notes don't give a reason. I wrote one ("splitting a small staff…"). Swap in your own if it's different.
+4. **The year-one shortfall** (about $15k, less whatever ad sales cost you) needs a funding source. Fill in that bracket.
+5. **Naming the peer newsroom** makes the 40% figure more convincing, if they don't mind.
+
+<final_document>
+**MEMO**
+
+**To:** Board of Directors
+**From:** [Name], Executive Director
+**Date:** [Date]
+**Re:** Replacing display ads with reader membership from January 2027
+
+**Recommendation**
+I'm asking the board to approve ending display advertising on January 1, 2027, and moving to a reader membership program. Our target is for membership to bring in what ads did, $84,000 a year, by the end of 2027. I'm proposing a mid-year checkpoint so the board can hold us to it.
+
+**Why now**
+Ad revenue fell from $131,000 to $84,000 in two years, roughly 20% a year. If that continues, ads will bring in about $67,000 next year and $54,000 the year after. Keeping ads does not keep $84,000. It keeps a number that is shrinking every year.
+
+**What the pilot showed**
+In six weeks this spring, with two newsletter mentions and no other promotion, 212 readers joined at $8 a month. That's about 35 a week, and 1.5% of our 14,000 newsletter subscribers. Those members are worth $20,352 a year, a quarter of last year's ad revenue. [Peer newsroom], a newsroom about our size, now covers 40% of its budget through membership.
+
+**What it will take**
+Matching $84,000 takes 875 paying members, or 6.25% of our current newsletter list. That means adding about 660 members over twelve months, or 13 a week. The pilot brought in 35 a week with almost no effort.
+
+**Risks and how we'll manage them**
+- *The pace will slow.* Early sign-ups come from our most loyal readers. That's why the target is 13 a week, not 35.
+- *Members cancel.* The 875 target counts paying members after cancellations. I'll report sign-ups and cancellations to the board monthly.
+- *Year-one cash.* Members build up over the year, so membership will bring in less than $84,000 during 2027 even if we hit the target. Steady growth from 212 to 875 members brings in about $52,000 in 2027. Ads on their current trend would likely bring about $67,000. We'll cover the gap of roughly $15,000, less the cost of ad sales we no longer carry, from [source].
+- *Why not run both?* Asking readers to pay to support us while we sell their attention to advertisers weakens the pitch. Running both would also split a small staff between two sales efforts. [Confirm or replace with your reason.]
+
+**Checkpoint**
+By June 30, 2027, we should have at least 500 paying members. If we don't, I'll come back to the board with options, including returning to ad and sponsorship sales.
+
+**Our ad sales colleague**
+[Name] has sold our advertising part-time for 11 years. [Proposed plan, e.g., a transition role, timeline, and support. Discuss with them before this memo circulates.]
+
+**Board action requested**
+1. Approve ending display advertising effective January 1, 2027.
+2. Adopt a membership target of 875 paying members by December 31, 2027, with a checkpoint of 500 by June 30, 2027.
+</final_document>

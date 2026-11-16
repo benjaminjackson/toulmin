@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T18:02:28.182587+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 309
+  tags: []
+  notes: extracted 309 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 7
+    right_comparison: 8
+    objections: 7
+    fit: 8
+  details:
+    agree: A wary Ridgeview retiree gets a straight number and a concrete stake, their
+      own branch closing in July, which earns trust, but the fixed-income reply only
+      repeats the $122 cost and gives them little new reason to change last time's
+      no vote.
+    honest: "The script drops the requested 'less than a cup of coffee' line, which\
+      \ the facts don't support at $6.50\u2013$10 a month, and all its figures check\
+      \ out ($77.90 and $121.60 a year); the only additions are mild inferences, such\
+      \ as Sunday hours having been lost and the levy ending unless renewed."
+    works_the_facts: It works out a useful $19 per $100,000 rule and monthly figures
+      for both medians, but it leaves out the $2.3M annual total and gives the fixed-income
+      reader $122 a year instead of the gentler 'about $10 a month' or about 33 cents
+      a day.
+    right_comparison: 'It says plainly what happens with no levy: Ridgeview closes
+      in July and Sunday hours stay gone, set against visits rising 22%, which is
+      what the facts show.'
+    qualification: A door script with a fixed rate, a fixed term and a dated consequence
+      doesn't need a hedge, and the script adds none beyond 'about' on rounded figures.
+    objections: The 'blank check' and fixed-income objections are answered with a
+      fixed rate, named uses and a sunset, though the blank-check reply would hit
+      harder with the $2.3M-a-year cap, and the renter answer fits the 38% who rent.
+    fit: "The main pitch runs about 60\u201390 seconds and the card is compact with\
+      \ clear branches, but the objection section makes one side tight, and the requested\
+      \ coffee line is dropped without a note to the field lead explaining why."

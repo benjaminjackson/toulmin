@@ -1,0 +1,53 @@
+I didn't put the "every child on the waiting list" guarantee in the email, because the numbers can't support it.
+
+**The guarantee and what the numbers show:**
+- **The cost:** 61 children × $1,150 = **$70,150**.
+- **If every lapsed donor came back:** all 340 at their average $85 gives $28,900. With the full $15,000 match that's $43,900, which covers 38 children.
+- **The most this campaign can raise:** the match is capped, so the ceiling is $30,000, which covers 26 children. Reaching it means this group gives about 12 times what they gave last December.
+- **Last December's numbers, doubled by the match:** about $2,480, which covers 2 children.
+
+Unless other money is already set aside for the rest of the list, some of those children will still be waiting in January. Lapsed donors, and especially your former board member, are the readers most likely to do this math. A broken guarantee would hurt trust you're trying to rebuild.
+
+**What I wrote instead:** an honest version that keeps the urgency:
+- Every $1,150 raised moves one child off the list.
+- The match doubles each gift, so the gift sizes in the email show what each one pays for.
+- A stretch goal of 26 children if returning donors reach the full match. That's a real condition people can check.
+
+If other funding really does cover the rest of the list, tell me and I'll put the stronger claim back with that fact behind it.
+
+**On Eastside:** I acknowledge the closure briefly, before the ask, and don't defend it. People who left over it will notice if it's missing. I kept it to things you told me and made no promises about Eastside. Change the wording if you've given an official explanation before.
+
+**Check before sending:**
+- The line "every $1,150 we raise together moves one child off it" needs to be true. That means the money will go to subsidized lessons for children on the list.
+- Whether the foundation agrees to be described as "a family foundation," and that your list matches its definition of "returning donor."
+- Fill in the bracketed placeholders.
+
+<final_document>
+Subject: 61 children are waiting. This month, your gift counts twice.
+
+Dear [First name],
+
+You used to give to [School name], and I want to start with thank you. Your gifts helped children learn music here.
+
+I also know that some of you stopped giving after we closed our Eastside branch in 2022. That was a hard decision, and some of you told us plainly how you felt about it. You had every right to.
+
+I'm writing because 61 children are on our waiting list for subsidized lessons right now. A year of weekly lessons costs us $1,150 per child. Their families can't cover it. Without help, these children will still be waiting when lessons start in January.
+
+This December, there's a way to make your return go twice as far. A family foundation will match every gift from returning donors, dollar for dollar, up to $15,000, through December 31.
+
+That means:
+- $85 becomes $170, nearly two months of lessons for one child.
+- $575 becomes $1,150, a full year of lessons for one child.
+- If returning donors meet the full match, that's $30,000: a year of lessons for 26 children.
+
+I can't promise you every child on that list a place in January. I can promise that every $1,150 we raise together moves one child off it.
+
+[Give now — your gift will be matched]
+
+Thank you for considering coming back.
+
+Warmly,
+
+[Executive Director's name]
+Executive Director, [School name]
+</final_document>

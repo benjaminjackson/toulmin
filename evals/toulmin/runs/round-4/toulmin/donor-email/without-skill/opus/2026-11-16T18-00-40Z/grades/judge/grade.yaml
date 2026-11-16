@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T18:01:17.003479+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 226
+  tags: []
+  notes: extracted 226 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 5
+    right_comparison: 3
+    qualification: 6
+    objections: 5
+    fit: 8
+  details:
+    agree: The candid acknowledgement of the closure and the doubled $85 gift may
+      bring back a softened lapsed donor, but someone still angry about Eastside gets
+      no reason to believe things have changed.
+    honest: "It rightly drops the unsupportable guarantee (61 \xD7 $1,150 = $70,150,\
+      \ against at most $30,000 even with a fully used match) and invents nothing,\
+      \ though 'or sooner if we reach $15,000' is an inference from the cap rather\
+      \ than a stated fact."
+    works_the_facts: "The $85\u2192$170 and $575\u2192$1,150 conversions are correct\
+      \ and well framed, but it never works out the total need ($70,150), how many\
+      \ children a fully used match could fund (about 26), or how far last year's\
+      \ $1,240 falls short."
+    right_comparison: It never says what happens if donors don't return (children
+      stay on the list, the match goes unclaimed), and it doesn't use last year's
+      response as a baseline.
+    qualification: The February report on how many of the 61 started lessons is dated
+      and checkable, but there's no target number and no stated consequence if the
+      match isn't reached.
+    objections: 'It names the Eastside hurt honestly but doesn''t answer it: no reason
+      for the closure, nothing on whether Eastside families are served now, and nothing
+      showing what has changed.'
+    fit: It is a year-end email of roughly 230 words with a subject line and a clear
+      call to action, signed by the executive director, as asked; it replaces the
+      requested guarantee for a defensible reason.

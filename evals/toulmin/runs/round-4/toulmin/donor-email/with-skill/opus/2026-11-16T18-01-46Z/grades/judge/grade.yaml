@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T18:02:32.612286+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 200
+  tags: []
+  notes: extracted 200 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 7
+    objections: 5
+    fit: 8
+  details:
+    agree: The letter names the Eastside closure up front, gives a concrete doubling
+      offer, and promises to report back, so it could win back a moderately unhappy
+      donor; a reader still angry about the closure gets an acknowledgement but no
+      reason to see the decision differently.
+    honest: It drops the brief's unsupported claim that a gift guarantees every waiting
+      child a place, presents the full match as conditional ('if we reach'), and every
+      figure traces back to the brief.
+    works_the_facts: It works out useful figures from the brief ($85 becomes $170,
+      $575 matched pays for one child, $30,000 funds 26 children), but it never says
+      that 61 children would cost about $70,150, and it doesn't use last year's $1,240
+      to show how much of a stretch the match is.
+    right_comparison: The alternative, that every child it can't fund stays on the
+      waiting list, is accurate and plain, though it never says that even the full
+      match leaves 35 children waiting.
+    qualification: The match has a firm cap and deadline ($15,000, December 31), and
+      the January report gives the reader something to check, but the letter doesn't
+      say what happens to any part of the match nobody claims.
+    objections: 'It names the closure grievance respectfully but only steps around
+      it: it gives no reason for the closure and doesn''t say whether these lessons
+      reach families on the Eastside, which is the real objection for this reader.'
+    fit: It is a year-end email of about 210 words with a subject line, a call to
+      action and the executive director's signature, as the brief asked, and it rightly
+      leaves out the 'guarantee' claim the facts can't support.

@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T18:01:15.395281+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 614
+  tags: []
+  notes: extracted 614 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 7
+    qualification: 5
+    objections: 7
+    fit: 9
+  details:
+    agree: The nurse's firsthand numbers, honest tone and concrete plan for drop-offs
+      and sports would win over many parents and board members, but a resistant reader
+      gets no cost per student and no specifics on athletics, so the $180,000 and
+      the after-dark practices could still decide their vote.
+    honest: The piece won't promise a higher graduation rate even though the brief
+      asked for that, and it reports the attendance gain accurately, but it calls
+      three-quarters of 'our students' short on sleep when the figure covers only
+      survey respondents, and the teen-body-clock claim comes from outside the brief.
+    works_the_facts: It works out that 640 of 890 is nearly three in four, that 84%
+      graduation leaves one in six behind, and that 7:25 is an hour and five minutes
+      before the 8:30 recommendation, but it skips easy, telling figures like the
+      $180,000 per student or per day and how many students a one-point attendance
+      gain represents.
+    right_comparison: It frames voting no as keeping costs that don't appear in the
+      budget (412 visits, short sleep, late graduates), which matches the brief, though
+      there's no trend data to show whether things are getting worse.
+    qualification: It asks for annual public reporting of tardies, attendance, nurse
+      visits and graduation, which readers can check, but it sets no target number,
+      no review date and no consequence if the numbers don't move.
+    objections: It states the athletic director's, parents' and budget objections
+      fairly and answers each, proposing a supervised early space for children dropped
+      off before 8 a.m. shifts, but the athletics and funding answers stay vague promises
+      of a review and an accounting.
+    fit: It is a well-built op-ed with a headline, a call to action and a byline,
+      at roughly 630 words, under the 650-word limit.

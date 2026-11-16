@@ -1,0 +1,11 @@
+{
+  "task": "board-memo",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T18-02-38Z",
+  "without_skill_run": "2026-11-16T18-01-51Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "reason": "B states correctly that ad revenue fell over two years. It also admits the roughly $32,000 shortfall in 2027 while membership grows, and it asks for funding to cover it, which the board members from ad sales would insist on. A says the drop happened in one year, which inflates its projections, and it ignores the 2027 shortfall."
+}

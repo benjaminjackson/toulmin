@@ -1,0 +1,11 @@
+{
+  "task": "donor-email",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T18-01-46Z",
+  "without_skill_run": "2026-11-16T18-01-17Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "reason": "As a donor still angry about the Eastside closure, I'd respond better to A. \"I'm not asking you to forget it\" respects my anger, where B's \"We heard you\" sounds like corporate PR. A is also more concrete: a full match funds 26 of the 61 children. A promises to report back \"whether or not you give\", and neither email falsely claims that every child is guaranteed a place."
+}
