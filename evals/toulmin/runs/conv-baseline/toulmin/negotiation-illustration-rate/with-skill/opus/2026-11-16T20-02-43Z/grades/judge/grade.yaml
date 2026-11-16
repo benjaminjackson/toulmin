@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:03:29.724853+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 199
+  tags: []
+  notes: extracted 199 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 4
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 2
+    objections: 3
+    fit: 6
+  details:
+    agree: 'The sales record and the $12,500 comparison make the case for a raise,
+      but an editor with a $9,000 budget and an $8,000 newcomer gets nothing beyond
+      the $11,500 ask: no firm schedule, no added value and no sign of what Elena
+      will accept as a floor.'
+    honest: The writer rightly drops the unsupported claim that every other publisher
+      pays at least $12,000, and every figure matches the brief; only 'standard range'
+      slightly strengthens the agent's 'normal'.
+    works_the_facts: The '$2,000 below the bottom of the range' and '$1,000 less than
+      elsewhere' figures are useful, but the $2,250-a-month figure is a weak frame,
+      and the email leaves out the fourth printing and the four years with no raise
+      as a cost to her.
+    right_comparison: 'The email compares the fee with the market and another publisher,
+      but it never takes on the editor''s real alternative: a cheaper, untested illustrator
+      set against Elena''s proven sales and reliability.'
+    qualification: 'The email has no dates or checkable commitments: it leaves out
+      sketches within 6 weeks, final art by September 1, the spot drawings and the
+      reply-by-end-of-next-week timing.'
+    objections: The editor's main objections, the budget cap and a cheaper option,
+      go unanswered, even though the free spot drawings and the guaranteed deadline
+      could have answered them.
+    fit: It is a well-formed email of about 200 words, so it meets the length limit,
+      but it leaves bracketed placeholders for the names and book title even though
+      the user supplied them.

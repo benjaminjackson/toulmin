@@ -1,0 +1,17 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-04-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "When we brought in our herd management software, Tomás learned it on his own initiative.",
+      "why": "The brief states only that he learned the herd management software, not that the farm recently brought it in while he was working there or that he learned it on his own initiative rather than as part of his training."
+    },
+    {
+      "quote": "He did not need anyone to tell him to do that.",
+      "why": "The brief states that he is taking a night class for his written English, not that he enrolled in it without anyone telling him to."
+    }
+  ],
+  "invented_count": 2
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-00-33Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks directly to my worry from 2023: it explains why the report was late, makes Dave Lin responsible for the final report within 30 days, commits to quarterly fresh-food numbers, and admits the $4,500 a year for insurance and fuel isn't budgeted yet. A leaves placeholders where the fix for the late report and the operating costs should be, so I'd be asked to trust promises that aren't there."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-06-46Z",
+  "without_skill_run": "2026-11-16T20-06-39Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B actually sounds like someone who gets my business when she mentions tips, commission, retail product, and the slow weeks after the holidays. It also puts the $199 price right near the top instead of making me scroll for it, and ties the price increase directly to client retention so it makes sense why she brought it up."
+}

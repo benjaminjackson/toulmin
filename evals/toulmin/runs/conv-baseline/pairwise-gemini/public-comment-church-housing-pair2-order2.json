@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-04-57Z",
+  "without_skill_run": "2026-11-16T20-04-49Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A immediately addresses the room's primary concern—traffic—which makes the speaker seem more credible and empathetic to the skeptical neighbors and undecided commissioners. Furthermore, Document B loses credibility by falsely claiming there is already a traffic light at Alder and 4th, whereas Document A stays strictly honest to the facts provided in the brief."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-04-04Z",
+  "without_skill_run": "2026-11-16T20-04-35Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins because it gives me concrete evidence that the check-in scores rose to 8.2 before the renovation even started, which actually changes my mind about who deserves credit for the improvement. It also eases my concerns about the $1.1M budget and the outside candidate by showing she has already kept overtime under plan for seven weeks and reminding me of the risk to a newly stabilized team if I hire from outside."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-00-33Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A explains why the shelving report was late and makes it concrete: Dave Lin is named as responsible, the final report is due within 30 days, and quarterly fresh-food reports will come in along the way. It also states the $4,500 a year in insurance and fuel openly. B leaves placeholders and only promises on-time reports, which does nothing to ease my worry about chasing them again."
+}

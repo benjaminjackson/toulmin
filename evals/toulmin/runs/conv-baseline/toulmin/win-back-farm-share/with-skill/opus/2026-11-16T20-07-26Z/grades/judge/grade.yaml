@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T20:08:01.867996+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 196
+  tags: []
+  notes: extracted 196 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 4
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 2
+    objections: 4
+    fit: 8
+  details:
+    agree: The plain apology lands, but this reader left over no credit for bad weeks
+      and over the farm going silent, and the email promises neither a weather credit
+      nor regular updates, so they have little reason to sign up again.
+    honest: Most claims match the facts, but 'All of that cost us $31,000' wrongly
+      includes the pause option in a cost that covered only the field and the nets.
+    works_the_facts: Turning six weeks of half boxes into 'roughly three weeks of
+      produce you paid for and didn't get' is a sharp, honest calculation, but the
+      email never says what that came to in dollars against the $540 share.
+    right_comparison: It compares old and new setups but never tells the reader what
+      a bad week would look like under the new terms compared with last July, which
+      is the comparison they care about.
+    qualification: It needed to admit that crop loss could happen again, say that
+      the nets cover only tomatoes and peppers and not the greens, and give a checkable
+      promise such as a credit when a box is cut by more than a third, but it hedges
+      nothing.
+    objections: The 'you went quiet' complaint gets an apology but no promise of weekly
+      emails, and the no-refund complaint is answered only with a pause option the
+      member controls, which does nothing for weather losses.
+    fit: It is a short, clear email of about 180 words with the deadline and a link,
+      though the name and farm are left as placeholders.

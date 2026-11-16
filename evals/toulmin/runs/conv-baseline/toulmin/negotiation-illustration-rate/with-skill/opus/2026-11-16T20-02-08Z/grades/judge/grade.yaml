@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:02:43.147910+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 180
+  tags: []
+  notes: extracted 180 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 3
+    objections: 3
+    fit: 6
+  details:
+    agree: An editor with a $9,000 budget and an $8,000 newer illustrator available
+      gets an honest, well-supported request, but nothing that justifies the $2,500
+      premium over the cheaper option, so they might counter rather than meet $11,500.
+    honest: It wisely drops the unsupported 'every other publisher pays at least $12,000'
+      claim and invents nothing, though 'with my sales' slightly narrows the agent's
+      'with my record'.
+    works_the_facts: The $2,250-a-month figure is real arithmetic, but it shows how
+      little she earns rather than the value she brings, and the email leaves out
+      the fourth printing, the Sept 1 commitment, the six-week sketches and the free
+      spot drawings.
+    right_comparison: 'It compares her fee with the $12,500 from another publisher
+      and the agent''s range, but never with the editor''s real alternative: an untested
+      illustrator for $8,000 against her proven bestselling record.'
+    qualification: The only conditional is a vague 'keep making room in my schedule';
+      it gives no answer-by date, no September 1 delivery commitment, and doesn't
+      state the $11,000 floor or that she can't take the book at $9,000.
+    objections: It doesn't address the budget ceiling or the cheaper newer illustrator,
+      and it holds back the deadline guarantee and free marketing spots that would
+      make the higher fee easier to approve.
+    fit: It's a properly formed email well under 250 words, but it leaves placeholders
+      for the names, title, publisher and state even though the user supplied most
+      of them.

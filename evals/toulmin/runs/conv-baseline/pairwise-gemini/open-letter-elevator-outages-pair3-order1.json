@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-05-09Z",
+  "without_skill_run": "2026-11-16T20-04-20Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A uses my name and specific details about our building, making it impossible to ignore, especially since it explicitly points out that two-thirds of the building signed the petition rather than just a few loud residents. It also clearly states their specific demands—like the stair-climbing chair and rent credits—while the promise to post my written response in the lobby forces me to take them seriously and act."
+}

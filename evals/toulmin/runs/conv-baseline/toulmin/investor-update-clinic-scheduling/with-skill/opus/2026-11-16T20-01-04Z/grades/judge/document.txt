@@ -1,0 +1,35 @@
+Subject: [Company] quarterly update: flat revenue, one big loss, and a new product next month
+
+Hi all,
+
+I'm sorry I didn't send updates for the last two quarters. You should have heard from me, and from now on you'll get one every quarter, good or bad.
+
+**The numbers**
+- Monthly recurring revenue: $41,000, the same as three months ago.
+- Clinics: 9 added, 4 lost.
+- Cash: $480,000. Net burn: about $44,000 a month, which gives us roughly 11 months of runway.
+
+**What happened**
+The flat revenue hides two separate changes. We lost our largest customer, a 12-clinic chain paying $5,500 a month, about 13% of our revenue. They moved to the scheduler built into their electronic records system.
+
+The rest of the business grew. Without that chain, revenue went from $35,500 to $41,000, up 15% in one quarter.
+
+The loss still matters. A records system with its own scheduler can take a customer from us without us doing anything wrong. That will happen again, and I'd rather plan for it than hope it doesn't.
+
+**What's working**
+Clinics that use our automatic text reminders have a no-show rate of 7%, against 13% before they started. That's almost half of their missed appointments gone. Every no-show is a therapist's hour the clinic pays for and can't bill, so clinics see this result directly in their revenue.
+
+**What's next**
+Next month we start selling text reminders on their own for $150 a month. This responds directly to the customer we lost. A clinic that keeps the scheduler in its records system can still buy reminders from us. The competitor that cost us our biggest customer becomes a way to sell the feature that gets our best results.
+
+For scale: 37 clinics on the reminder product would replace the chain's revenue. My target is [X] reminder customers by the next update, and I'll report the actual number either way.
+
+**Runway**
+At current burn we have about 11 months of cash. [Your plan: e.g. raise / reduce burn / reach breakeven, and what you'll do if the reminder target is missed.]
+
+**How you can help**
+Introductions to physical therapy clinics that schedule inside their records system. They're the customers the reminder product is built for, and a warm introduction will help a lot as we launch.
+
+Thanks for your patience over the last six months. You'll hear from me next quarter.
+
+[Your name]

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-03-29Z",
+  "without_skill_run": "2026-11-16T20-03-30Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters make the same honest case and ask for $11,500. A reads as warmer and more collaborative. B's \"well below the market\" and its $2,250-a-month calculation feel a little like a lecture, and B is signed \"Ben\" instead of the illustrator's name, which would strike me as odd."
+}

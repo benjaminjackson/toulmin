@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-02-55Z",
+  "without_skill_run": "2026-11-16T20-01-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B addresses me by name and answers my main doubt about teachers with proof: signed training records that passed two state audits, a GMP course already underway, and a training program cut from 20 to 12 hours with no drop in safety. A is a generic template that only says good habits will carry over, so I'd notice the gap right away."
+}

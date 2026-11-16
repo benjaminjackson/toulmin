@@ -1,0 +1,17 @@
+{
+  "task": "promotion-front-office",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-05-06Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Budget management is the one gap in my experience (\"how I plan to close the one gap in my experience\").",
+      "why": "The brief only states that the user has never managed a budget, not that this is the only gap in their experience (and the additional context notes they also lack the outside candidate's larger-hotel experience)."
+    },
+    {
+      "quote": "The department has stayed stable during the vacancy.",
+      "why": "The brief only states that the user has covered the front office manager's job alone for 7 weeks, without stating how the department performed or whether it remained stable during that time."
+    }
+  ],
+  "invented_count": 2
+}

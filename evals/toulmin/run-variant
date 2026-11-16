@@ -5,10 +5,16 @@ set -uo pipefail
 variant_name=$1
 # Work from the folder this script is in, so the script runs from any checkout.
 cd "$(dirname "${BASH_SOURCE[0]}")" || exit 1
-runs_directory="runs/wide-$variant_name"
+# Conversation rounds (TOULMIN_MODE=conversation) live in runs/conv-*, headless rounds in runs/wide-*.
+if [ "${TOULMIN_MODE:-headless}" = "conversation" ]; then
+  runs_prefix="runs/conv"
+else
+  runs_prefix="runs/wide"
+fi
+runs_directory="$runs_prefix-$variant_name"
 mkdir -p "$runs_directory/toulmin"
 # Reuse the baseline's no-skill runs, so each variant is judged against the same documents.
-for task_directory in runs/wide-baseline/toulmin/*/; do
+for task_directory in "$runs_prefix-baseline"/toulmin/*/; do
   task_name=$(basename "$task_directory")
   mkdir -p "$runs_directory/toulmin/$task_name"
   if [ ! -d "$runs_directory/toulmin/$task_name/without-skill" ]; then

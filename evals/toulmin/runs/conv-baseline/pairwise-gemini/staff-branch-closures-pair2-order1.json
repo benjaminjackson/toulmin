@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-06-52Z",
+  "without_skill_run": "2026-11-16T20-06-53Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A speaks directly to the 14 of us rather than addressing us in the third person in an all-staff email, and it includes the crucial promise that senior staff get to choose shifts first. It also gives concrete dates for our offers and decisions rather than leaving us hanging with placeholders."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-05-09Z",
+  "without_skill_run": "2026-11-16T20-04-20Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A names me, the building and the specific asks, including a stair chair and a rent credit, and its June-to-November timeline makes the stalled repair hard to brush off. B still has bracketed placeholders, reads like a generic form letter and is easier to dismiss as coming from a few loud people."
+}

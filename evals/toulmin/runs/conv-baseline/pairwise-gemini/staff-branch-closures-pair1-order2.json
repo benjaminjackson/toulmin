@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-05-46Z",
+  "without_skill_run": "2026-11-16T20-06-16Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses our biggest worry about the rotating hours by promising that those of us who have been here the longest get first pick of shifts, and it gives us actual dates for the offer and decision instead of empty placeholders. It also feels much more honest by acknowledging what will be harder about the change rather than glossing over the loss of our 9-to-5 schedules."
+}

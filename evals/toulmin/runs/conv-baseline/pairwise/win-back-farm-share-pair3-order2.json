@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "win-back-farm-share",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-07-26Z",
+  "without_skill_run": "2026-11-16T20-07-18Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B names my loss directly as about three weeks of produce I paid for and didn't get. It also admits I got neither an explanation nor a fair answer, and it asks me to reply, which speaks to my feeling that the farm went quiet. Neither email promises a credit for bad weather weeks or regular updates, so the gap between them is small."
+}

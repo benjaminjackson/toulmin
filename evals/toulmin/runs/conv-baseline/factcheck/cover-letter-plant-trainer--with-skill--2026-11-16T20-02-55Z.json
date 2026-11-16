@@ -1,0 +1,17 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-02-55Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "In the seven years since, our labs have not had one injury that needed more than first aid.",
+      "why": "The brief states the lab safety program was written in 2019, but never gives the current year to establish that seven years have passed."
+    },
+    {
+      "quote": "I run all of my courses in Google Classroom",
+      "why": "The brief only says that the user uses Google Classroom, not that all of her courses are run in it."
+    }
+  ],
+  "invented_count": 2
+}

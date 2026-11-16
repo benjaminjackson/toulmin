@@ -1,0 +1,50 @@
+I didn't have a plan for the roughly 11 months of runway, so I left a placeholder in that section rather than guess. Fill it in or delete it before sending. It's about 430 words.
+
+<final_document>
+Subject: Quarterly update: flat revenue, a big loss, and what it showed us
+
+Hi all,
+
+First, an apology: this is my first update in two quarters. That's on me. From now on you'll hear from me every quarter.
+
+In short, revenue is flat and we lost our largest customer. That loss pointed us to what I think is our best opportunity.
+
+**Numbers**
+- Monthly recurring revenue: $41,000, the same as three months ago
+- Customers: 9 new, 4 lost
+- Cash: $480,000
+- Net burn: about $44,000 a month, which gives us about 11 months of runway
+- Team: 6
+
+**The bad news**
+Our largest customer was a 12-clinic chain paying $5,500 a month, about 13% of our revenue. They left for the scheduler built into their electronic records system. The nine new clinics made up for that loss and the three other cancellations, so revenue is flat instead of down. But flat is not where we want to be.
+
+The risk goes beyond one customer. Records systems are adding scheduling that's good enough for many clinics. Larger groups already pay for those systems, so they have a reason to drop a separate scheduler.
+
+**The good news**
+Clinics that use our automatic text reminders have cut their no-show rate from 13% to 7%, almost in half. For a physical therapy clinic, a no-show is a lost visit that can't be filled. This is the clearest value we deliver, and it doesn't depend on being the clinic's scheduler.
+
+**What we're doing**
+Next month we start selling text reminders on their own for $150 a month. The product is built for clinics like the one we just lost: they keep the scheduler in their records system and add our reminders on top. This gives us a market among the clinics that records-system scheduling is taking from us. It's also a cheaper way to start with clinics that won't switch schedulers.
+
+Next quarter I'll report on:
+- How many clinics buy reminders on their own, and the revenue from them
+- Churn, and whether offering reminders alone keeps at-risk customers with us
+- Burn and runway
+
+**Runway**
+At our current burn we have about 11 months of cash. [Your plan: when you expect to raise or reach break-even, the milestones you need first, and any cost changes.]
+
+**How you can help**
+- Introduce us to owners or operators of physical therapy clinics, especially groups that schedule inside their records system.
+- Connect me with anyone who has sold an add-on to practices built around a dominant records system. I'd value 30 minutes with them.
+
+Thank you for your patience and your support. I'm happy to talk anytime.
+
+[Your name]
+</final_document>
+
+A few choices you may want to check:
+- **Bad news first:** the loss of the chain comes before the reminder results, so investors see you raising it yourself.
+- **"Fills in" for "made up for":** I said the nine new clinics *made up for* the lost revenue. That's what flat revenue means in total, but if part of it came from existing customers paying more, say so.
+- **No quarter name:** I didn't put a quarter name in the subject line because I wasn't sure which quarter this covers. Add "Q3" or whichever is right.

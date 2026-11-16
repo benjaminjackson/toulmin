@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-01-04Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B's numbers are sharper (the rest of the business grew 15%, and 37 reminder clinics would replace the lost chain), but it leaves the runway plan and the reminder target as unfilled placeholders. A skeptical investor would see those holes in exactly the sections that matter most. A is complete, sets a firm time for the raise-or-cut decision and asks for specific help, so it is more likely to rebuild my trust."
+}

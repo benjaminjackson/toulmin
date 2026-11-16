@@ -1,0 +1,29 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-01-04Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Every no-show is a therapist's hour the clinic pays for and can't bill, so clinics see this result directly in their revenue.",
+      "why": "The brief does not state the length of a physical therapy appointment, how therapists are paid, whether no-shows can be billed, or the effect on clinic revenue."
+    },
+    {
+      "quote": "This responds directly to the customer we lost.",
+      "why": "The brief does not say that selling the reminder feature on its own was decided in response to losing the 12-clinic chain."
+    },
+    {
+      "quote": "A clinic that keeps the scheduler in its records system can still buy reminders from us.",
+      "why": "The brief does not state that the standalone reminder feature can integrate or work alongside a records system's built-in scheduler."
+    },
+    {
+      "quote": "My target is [X] reminder customers by the next update, and I'll report the actual number either way.",
+      "why": "Neither the brief nor the user's facts state that the founder has set a target number of reminder customers for the next update."
+    },
+    {
+      "quote": "Introductions to physical therapy clinics that schedule inside their records system. They're the customers the reminder product is built for",
+      "why": "The brief does not state that the standalone reminder product was built specifically for clinics that schedule inside their records system, and the founder wanted introductions to clinic chains rather than clinics using their records system's scheduler."
+    }
+  ],
+  "invented_count": 5
+}

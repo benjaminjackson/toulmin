@@ -1,0 +1,6 @@
+recommendation-farm-hand / with-skill / opus ... ok (25.9s) -> runs/conv-baseline/toulmin/recommendation-farm-hand/with-skill/opus/2026-11-16T20-04-51Z
+    grade: pass score=0.55
+recommendation-farm-hand / with-skill / opus ... ok (24.2s) -> runs/conv-baseline/toulmin/recommendation-farm-hand/with-skill/opus/2026-11-16T20-05-30Z
+    grade: pass score=0.45
+recommendation-farm-hand / with-skill / opus ... ok (22.2s) -> runs/conv-baseline/toulmin/recommendation-farm-hand/with-skill/opus/2026-11-16T20-06-10Z
+    grade: pass score=0.7

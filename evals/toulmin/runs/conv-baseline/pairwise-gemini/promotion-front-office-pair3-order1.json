@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-05-21Z",
+  "without_skill_run": "2026-11-16T20-05-06Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me hard evidence I hadn't considered—specifically that the check-in score rose from 7.9 to 8.2 before the renovation even started, and that she has kept overtime under plan with zero uncovered shifts for the last seven weeks. Document B relies on vague placeholders where those crucial facts should be."
+}

@@ -1,0 +1,17 @@
+{
+  "task": "grant-refrigerated-van",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-00-33Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "so food grown a few miles away never reached the families who rely on us.",
+      "why": "The brief only says the farms are \"local\" and does not specify that they are \"a few miles away.\""
+    },
+    {
+      "quote": "Our board will identify where it will come from before the van is purchased, and we will confirm the source in our first quarterly report.",
+      "why": "Neither the brief nor the user's additional information mentions a board, a plan to identify the funding source before purchasing the van, or a commitment to confirm that source in the first quarterly report."
+    }
+  ],
+  "invented_count": 2
+}

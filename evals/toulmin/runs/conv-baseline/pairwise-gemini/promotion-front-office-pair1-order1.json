@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-03-03Z",
+  "without_skill_run": "2026-11-16T20-04-00Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A directly addresses my skepticism about the guest scores by proving that check-in ratings rose from 7.9 to 8.2 before the renovation even began. It also gives me much greater confidence in her ability to handle the $1.1M payroll budget by pointing out she has already kept overtime under plan for the past seven weeks and has secured weekly mentoring with our controller, Ben Oduya."
+}

@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T20:08:56.678097+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 451
+  tags: []
+  notes: extracted 451 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 7
+    qualification: 8
+    objections: 7
+    fit: 8
+  details:
+    agree: The plain admission of what is hard, the six-month exit with severance
+      intact, and shift choice by seniority give a reluctant teller real reasons to
+      try the role, though the email never acknowledges the two weeks of rumours or
+      the loss of counter work they valued, and a long-serving teller may still feel
+      managed.
+    honest: It drops the unsupported 'better for everyone' claim and invents no numbers,
+      but 'Your job is secure' and the line that hold times are unfair to colleagues
+      go a little past what the brief states.
+    works_the_facts: It repeats 'same pay or higher' when pay actually starts $1.50
+      an hour above teller pay, and it never works out what the severance means for
+      someone with ten years (20 weeks of pay), so the strongest true figures go unused.
+    right_comparison: It shows the alternative accurately, with branch visits falling
+      44% while phone and chat contacts rose 60% and a 9-minute hold, and it makes
+      clear the branches cannot stay open, though it doesn't spell out where those
+      trends lead if nothing changes.
+    qualification: It names checkable commitments with dates (offers by February 14,
+      decision due March 1, a six-month window to leave with severance) and states
+      plainly what cannot be promised, such as 9-to-5 hours.
+    objections: It meets the main objections about hours, changing work and being
+      stuck in a role they dislike, but it does not answer how long service at a branch
+      is valued beyond seniority in picking shifts, and it says nothing about commuting
+      to Elm Avenue.
+    fit: This is an email from the COO of roughly the requested 400 words with a clear
+      structure, though the name and HR contact are left as placeholders when Rachel
+      Greene's name was known.

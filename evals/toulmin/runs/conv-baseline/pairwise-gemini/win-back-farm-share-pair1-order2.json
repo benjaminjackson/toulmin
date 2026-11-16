@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-06-19Z",
+  "without_skill_run": "2026-11-16T20-06-23Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Neither email addresses what will happen to my money or communication if bad weather strikes again, as a vacation pause doesn't protect me from another six weeks of half-empty boxes. However, Document A is slightly better because it doesn't ask me to blindly re-commit and instead invites me to reply and tell the farmer what it would actually take to bring me back."
+}

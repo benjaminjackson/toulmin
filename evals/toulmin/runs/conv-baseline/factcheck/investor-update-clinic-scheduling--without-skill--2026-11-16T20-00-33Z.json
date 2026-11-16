@@ -1,0 +1,37 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-00-33Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Q3 update",
+      "why": "The brief does not state which quarter this update is for."
+    },
+    {
+      "quote": "That's the biggest risk to our business.",
+      "why": "The brief does not identify losing customers to EHR schedulers as the biggest risk to the business."
+    },
+    {
+      "quote": "It's also the clearest evidence of value we have.",
+      "why": "The brief does not state that the reduction in no-show rates is the clearest evidence of value the company has."
+    },
+    {
+      "quote": "This answers the problem the chain exposed.",
+      "why": "The brief does not state why the company is launching the standalone reminder feature or that it was created in response to losing the chain."
+    },
+    {
+      "quote": "Over the next quarter we'll be watching:\n\n1. How many clinics buy standalone reminders, and how quickly\n2. Whether those buyers later upgrade to the full scheduler\n3. Whether reminder results stay as strong with clinics that don't use our scheduler",
+      "why": "The brief does not mention what metrics or outcomes the company plans to track over the next quarter."
+    },
+    {
+      "quote": "Within the next quarter we'll decide whether to cut burn or prepare to raise, and the standalone reminder numbers will drive that decision. I'll share our reasoning in the next update.",
+      "why": "The brief says nothing about plans to cut burn or raise money, nor does it link those decisions to the standalone reminder numbers."
+    },
+    {
+      "quote": "Advice from anyone who has seen a company sell one feature on its own next to a full product: pricing, packaging, and whether it cannibalized the main product.",
+      "why": "Neither the brief nor the additional user context states that the founder wants advice on selling a standalone feature, pricing, packaging, or cannibalization."
+    }
+  ],
+  "invented_count": 7
+}

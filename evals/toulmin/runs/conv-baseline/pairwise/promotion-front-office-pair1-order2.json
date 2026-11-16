@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-front-office",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-03-03Z",
+  "without_skill_run": "2026-11-16T20-04-00Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B answers my doubt about the renovation with evidence: check-in had already gone from 7.9 to 8.2 before the work started. It also gives concrete results from the seven weeks of coverage (no uncovered shifts, overtime under plan) and a specific budget plan with Ben. A leans on placeholders and vague claims and never addresses the timing of the renovation."
+}

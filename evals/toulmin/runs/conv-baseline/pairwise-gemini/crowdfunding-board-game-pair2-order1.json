@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-02-03Z",
+  "without_skill_run": "2026-11-16T20-01-42Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who lost money on an unfulfilled campaign, Document A wins me over by laying out the exact math—including platform fees and a buffer—showing that 572 backers covers the full 1,500-copy print run. Document B is less transparent with the budget, omits a delivery date, and makes up details about the playtesters that weren't in the facts."
+}

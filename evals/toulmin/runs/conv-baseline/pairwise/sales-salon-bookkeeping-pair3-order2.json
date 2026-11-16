@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-06-46Z",
+  "without_skill_run": "2026-11-16T20-06-39Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks my salon's language with tips, commission, retail and slow weeks, and it explains that an accountant bills for time spent sorting receipts. That makes me wonder whether my cousin's $600 hides cleanup work, so I'm more tempted to book. A says the same facts, but in a more generic way."
+}

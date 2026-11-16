@@ -1,0 +1,45 @@
+I've written the update below. It's about 420 words.
+
+<final_document>
+Subject: [Company] investor update: [Quarter]
+
+Hi all,
+
+First, an apology. This is my first update in six months. I should have written to you for each of the last two quarters, and from now on I'll send one every quarter.
+
+The short version: we lost our largest customer and still held revenue flat. We have about 11 months of runway. Next month we start selling, on its own, the part of our product with the clearest proof that it works.
+
+**The numbers**
+- Monthly recurring revenue: $41,000, the same as three months ago
+- Customers: 9 new clinics added, 4 lost
+- Cash: $480,000
+- Net burn: about $44,000 a month, which gives roughly 11 months of runway
+- Team: 6
+
+**What happened**
+Our largest customer left. They're a 12-clinic chain that paid $5,500 a month, about 13% of our revenue, and they moved to the scheduler built into their electronic records system. The 9 new clinics covered that loss and the other three cancellations, which is why revenue held flat instead of falling.
+
+What we learned from this matters more than the lost revenue. Records systems will keep adding scheduling that's "good enough," and larger chains in particular will choose the convenience of one vendor. Competing as a standalone scheduler gets harder as our customers get bigger.
+
+**What's working**
+Clinics that use our automatic text reminders have a 7% no-show rate. Before they started using them, it was 13%. That cuts missed appointments almost in half, and every no-show is an empty slot the clinic can't bill. Of everything we do, this is the value that's clearest and easiest to measure.
+
+**What's next**
+Next month we start selling reminders on their own for $150 a month. That means we can sell to clinics that are keeping their records system's scheduler, including the kind of customer we just lost, without asking them to switch. In the next update I'll report early results: sign-ups, how many convert, and whether reminders get the same drop in no-shows when they run alongside other schedulers.
+
+**Runway**
+At our current burn, our cash lasts until about [month] 2027. Over the next two quarters our main focus is the reminder launch, and its early numbers will shape our plans for spending and fundraising. I'll share those plans with you as they take shape.
+
+**How you can help**
+[Specific ask, e.g. introductions to clinic owners or to people at records system companies]
+
+Thanks for your patience, and for your support. I'm glad to talk through any of this by phone.
+
+[Name]
+</final_document>
+
+A few things to check before you send it:
+
+- **Placeholders:** fill in the company name, the quarter, the runway month and your ask. If the next 30 days count as month one, $480,000 lasts until about October 2027. Investors expect an ask, so it's worth adding a specific one. If you don't have one, delete that section.
+- **Missed updates:** I kept the apology short and didn't give a reason. Investors usually care more about a promise of regular updates than an explanation.
+- **What I assumed:** I said the standalone reminders work alongside other schedulers, including the one built into records systems. If that's wrong, change the "What's next" paragraph. I also described the 13% figure as "lost," which is true, but you could cut "about 13% of our revenue" if you'd rather not stress how concentrated your revenue was.

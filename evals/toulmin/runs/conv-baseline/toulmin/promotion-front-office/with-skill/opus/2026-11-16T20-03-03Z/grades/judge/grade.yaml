@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:04:04.378587+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 428
+  tags: []
+  notes: extracted 428 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 7
+    honest: 6
+    works_the_facts: 8
+    right_comparison: 5
+    qualification: 5
+    objections: 6
+    fit: 8
+  details:
+    agree: The pre-renovation rise from 7.9 to 8.2, the seven weeks of covering the
+      job and the concrete budget plan give a GM who credits the renovation real reason
+      to reconsider, but the memo never acknowledges the outside candidate's experience
+      at a larger hotel, so it leaves his main alternative unanswered.
+    honest: The memo avoids the 'main reason' overclaim and its numbers are correct,
+      but 'a stable, well-trained desk is what guests are actually rating at check-in'
+      and the claim that an outside hire would 'lose the momentum' go further than
+      the facts support, and it does not mention that most of the gain came after
+      the renovation began.
+    works_the_facts: It works out turnover rates of 64% and 36%, four fewer people
+      to replace each year, a 44% cut in training time and the more-than-40%-before-renovation
+      share of the gain, and puts each in its most favourable true form.
+    right_comparison: It sets promotion against an outside hire, but it describes
+      the outsider only through the assumed 'months to learn' cost and leaves out
+      the larger-hotel experience the GM is actually weighing.
+    qualification: The budget plan names a three-month deadline and weekly sessions
+      with a named controller, which the GM can check, but it gives no measure of
+      success and no consequence if the course or the budget results fall short.
+    objections: It answers the renovation objection directly with pre-renovation data
+      and admits the budget gap with a plan, but it does not address the outside candidate's
+      larger-hotel experience.
+    fit: It is a one-page memo in the written form the GM asked for, though the name
+      placeholders are still unfilled.

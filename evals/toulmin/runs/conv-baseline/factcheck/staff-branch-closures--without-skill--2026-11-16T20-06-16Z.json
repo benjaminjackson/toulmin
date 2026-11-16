@@ -1,0 +1,21 @@
+{
+  "task": "staff-branch-closures",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-06-16Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Your manager and HR will meet with each of you one-on-one by [date] to go over the role, the schedule and your options.",
+      "why": "The brief does not mention mandatory one-on-one meetings with both a manager and HR (and the user's additional information only mentions optional one-on-one meetings with HR for those who want one)."
+    },
+    {
+      "quote": "If you work at one of our other five branches, your location, role and hours aren't changing.",
+      "why": "While the number of remaining branches (five) can be worked out by arithmetic, the brief does not state that the location, role, and hours for staff at the other branches will not change."
+    },
+    {
+      "quote": "I'll also hold an open Q&A session on [date and time] for anyone who wants to hear more.",
+      "why": "Neither the brief nor the user's additional information states that the COO will hold an open Q&A session."
+    }
+  ],
+  "invented_count": 3
+}

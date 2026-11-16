@@ -1,0 +1,17 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-06-10Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "he went home to Mexico because his father was seriously ill.",
+      "why": "The brief states that his father got sick in Mexico, not that Mexico is Tomás's home or that the illness was serious."
+    },
+    {
+      "quote": "His spoken English is strong.",
+      "why": "The brief only states that his written English is weaker than his spoken English, not that his spoken English is strong."
+    }
+  ],
+  "invented_count": 2
+}

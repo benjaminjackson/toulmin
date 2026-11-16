@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-05-55Z",
+  "without_skill_run": "2026-11-16T20-06-07Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B speaks my language (booth rent, commission splits, tips, retail vs. service sales tax), so it convinces me she knows salons in a way my cousin might not, and its hedge on the $800 savings reads as straight with me. A's '$800 is four months of my fee' line is good, but it reads more generic, and leading with the price hike makes me weigh $2,400 a year against my cousin's $600 before I've decided I need her."
+}

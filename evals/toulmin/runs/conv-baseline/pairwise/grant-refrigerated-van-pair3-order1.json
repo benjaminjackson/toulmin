@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-03-29Z",
+  "without_skill_run": "2026-11-16T20-02-05Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A owns up to the late shelving report and makes a fix I can hold them to: Dave Lin is named as responsible for the final report, and they'll send fresh-food pounds every quarter. It also admits the $4,500 a year for insurance and fuel. Document B never mentions the late report or the running costs, and it counts on another 9,000 pounds that nobody has promised, so I'd trust it less even though A still has placeholders to fill in."
+}

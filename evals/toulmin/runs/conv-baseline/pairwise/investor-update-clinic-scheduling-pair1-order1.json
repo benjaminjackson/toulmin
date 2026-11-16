@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-01-04Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "A leaves visible placeholders exactly where I most need answers, the runway plan and the reminder target, so to an already-irritated investor it reads as unfinished. B gives a concrete runway decision, specific things it will track and a call offer, which makes me more willing to keep taking the founder's calls."
+}

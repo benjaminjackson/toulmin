@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "promotion-front-office",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-03-03Z",
+  "without_skill_run": "2026-11-16T20-04-00Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A uses the fact that check-in had already risen from 7.9 to 8.2 before the renovation began. That directly answers my view that the renovation drove the scores. A also gives concrete results from the seven weeks of cover (no uncovered shifts, overtime under plan) and a specific budget plan built around weekly sessions with Ben. B only claims credit for the scores, leaves placeholders, and gives a vaguer budget plan."
+}

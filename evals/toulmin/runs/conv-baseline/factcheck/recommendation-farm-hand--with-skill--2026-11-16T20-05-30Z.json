@@ -1,0 +1,29 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-05-30Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Nobody else is on the farm at that hour.",
+      "why": "The brief says Tomás runs the 3 a.m. milking shift on his own, not that nobody else is anywhere on the farm at that time."
+    },
+    {
+      "quote": "If something goes wrong with a cow or the equipment, he decides what to do.",
+      "why": "The brief does not state what Tomás does or what authority he has if something goes wrong with a cow or the equipment."
+    },
+    {
+      "quote": "In three years he has missed two shifts.",
+      "why": "The brief specifies that he missed two shifts \"not counting those 5 weeks\" he left when his father was sick, so saying he only missed two shifts in three years without that qualifier is inaccurate."
+    },
+    {
+      "quote": "Nobody required this of him. He saw that the software could tell him something and he learned to read it.",
+      "why": "The brief only states that he learned the herd management software, not that he did so entirely on his own initiative without being required or trained to do so."
+    },
+    {
+      "quote": "Tomás's spoken English is strong",
+      "why": "The brief only states that his written English is weaker than his spoken English, not that his spoken English is strong."
+    }
+  ],
+  "invented_count": 5
+}

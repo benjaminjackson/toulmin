@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:07:25.449369+00:00'
+outcome: pass
+score: 0.35
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 375
+  tags: []
+  notes: extracted 375 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.35
+  metrics:
+    agree: 3
+    honest: 4
+    works_the_facts: 3
+    right_comparison: 3
+    qualification: 3
+    objections: 2
+    fit: 8
+  details:
+    agree: A four-chair owner whose fond cousin charges $600 a year sees $199 a month
+      (about $2,388 a year) and nothing that tells her she can keep her cousin for
+      the tax return, so she is unlikely to book.
+    honest: The page says 'None of them left over the price,' but both clients left
+      last year and the raise came in January, so the evidence can't support that
+      claim, and the line about the accountant charging 'whether you have a bookkeeper
+      or not' muddles the clean-books claim.
+    works_the_facts: 'The numbers are only repeated: ''missed three times'' isn''t
+      turned into 9 of 12 months on time, the 29 of 31 clients still with her (and
+      both leavers sold their salons) isn''t stated as a rate, and 9 of 31 seeing
+      lower accountant bills isn''t put against the yearly cost.'
+    right_comparison: The page compares her to a generic accountant sorting receipts,
+      not to the reader's real alternative of a cousin who does year-end books for
+      $600, and it never says that cousin can keep doing the income tax return.
+    qualification: The admission that she missed the 10th three times has no consequence
+      attached, even though she now gives the month free if she misses it, and there's
+      no checkable condition such as the 30-day notice or the limit of about 5 new
+      clients.
+    objections: 'The page raises the price increase and the missed deadlines without
+      the answers she has (payroll was added, a free month if she''s late, no contract),
+      and it never meets the main objection: ''my cousin does it for $600.'''
+    fit: It's about 350 words of sales-page text with clear sections and a booking
+      button at the end, as the brief asked.

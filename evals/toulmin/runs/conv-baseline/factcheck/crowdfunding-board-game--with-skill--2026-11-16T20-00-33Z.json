@@ -1,0 +1,37 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-00-33Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Tested for three years.",
+      "why": "The brief only states that playtest sessions have been run \"since 2023\" and does not give the current year or state that testing lasted three years."
+    },
+    {
+      "quote": "What I can tell you is that it has been tested harder than most first games ever are.",
+      "why": "Neither the brief nor the user's knowledge provides a comparison to how much most first games are tested."
+    },
+    {
+      "quote": "Each session showed me something to fix: a rule to cut, a card to rebalance, a turn to speed up.",
+      "why": "The brief does not mention what happened during the playtest sessions, whether the game even uses cards, or what specific changes were made."
+    },
+    {
+      "quote": "The game you'd be backing is what's left after three years of that.",
+      "why": "The brief only says testing has run \"since 2023\" and does not establish a three-year duration."
+    },
+    {
+      "quote": "People who played at my table went home and rated it on BoardGameGeek.",
+      "why": "The brief only refers to \"the main board game ratings site\" rather than naming BoardGameGeek, and does not state that players rated it after going home."
+    },
+    {
+      "quote": "and the average is 8.1 out of 10.",
+      "why": "The brief states the average rating is 8.1, but does not state that the rating scale is out of 10."
+    },
+    {
+      "quote": "My answer is the record above: three years, 140 sessions, and a game that's finished and ready to print.",
+      "why": "The brief only states that playtesting has occurred \"since 2023,\" not that it has lasted three years."
+    }
+  ],
+  "invented_count": 7
+}

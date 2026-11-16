@@ -1,0 +1,33 @@
+task:
+  name: recommendation-farm-hand
+  type: recommendation-letter
+  set: tune
+  reader: A member of the admissions committee for the agricultural technology program
+    at a state technical college, which has 40 places and about 150 applicants. The
+    member reads each letter quickly and has no view of this applicant yet.
+  prompt: "I need to write a reference letter. I manage a 400-cow dairy farm, and\
+    \ one of our workers, Tom\xE1s, is applying to the two-year agricultural technology\
+    \ program at the state technical college.\n\nWhat I know about him:\n- He's worked\
+    \ for us for 3 years, since he was 19.\n- He runs the 3 a.m. milking shift on\
+    \ his own, 5 days a week.\n- He learned our herd management software and now flags\
+    \ sick cows for the vet. Last winter he caught 9 cases of mastitis early.\n- He\
+    \ left for 5 weeks in the middle of last summer when his father got sick in Mexico.\
+    \ He told me 2 days before he left.\n- His written English is weaker than his\
+    \ spoken English. He's taking a night class for it.\n- He has missed 2 shifts\
+    \ in 3 years, not counting those 5 weeks.\n\nOne page, from me as farm manager."
+  user_knows: "- The farm is Hollis Dairy. I'm Mike Hollis, farm manager. His full\
+    \ name is Tom\xE1s Reyes.\n- The letter is due February 1, through the college's\
+    \ online portal.\n- Before he left for Mexico, he got his cousin, who had worked\
+    \ for us before, to cover his shifts, and he came back on the day he said he would.\n\
+    - The vet told us catching those mastitis cases early saved us about $8,000.\n\
+    - He failed the written test in a dairy safety course once and passed it the second\
+    \ time.\n- I can commit to keeping his job open part-time on weekends while he\
+    \ is in the program.\n- I can commit to taking a phone call from the committee.\
+    \ My number is 555-0187.\n- I cannot pay any of his tuition."
+config:
+  name: with-skill
+  runner: /Users/ben/github/toulmin/evals/toulmin/run-with-skill
+  model: opus
+started: '2026-11-16T20:04:51.045875+00:00'
+duration_seconds: 25.91
+exit_code: 0

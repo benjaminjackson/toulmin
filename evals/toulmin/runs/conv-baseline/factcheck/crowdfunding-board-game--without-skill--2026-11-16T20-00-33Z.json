@@ -1,0 +1,49 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-00-33Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "On a rocky stretch of coast, a lighthouse keeper's family faces the longest season of the year. Storms roll in. Supplies run low. And every night, no matter what, the lamp at the top of the tower has to be lit. Ships are counting on it, and so is everyone inside.",
+      "why": "The brief only states that you see a lighthouse keeper's family through a winter, without mentioning a rocky coast, storms, low supplies, Ships counting on the lamp, or having to light it every night."
+    },
+    {
+      "quote": "Each day you decide who tends the light, who keeps the household going, and what you can afford to give up before the thaw.",
+      "why": "The brief gives no details about the gameplay mechanics, daily turns, or specific player decisions."
+    },
+    {
+      "quote": "It came from three years of watching people play it.",
+      "why": "The brief says playtesting started in 2023, and the provided information does not state what the current year is or that playtesting lasted three years."
+    },
+    {
+      "quote": "families, longtime hobby gamers, and people who had never tried a cooperative game.",
+      "why": "The brief only says that about 60 different people playtested the game, with no information on their backgrounds or gaming experience."
+    },
+    {
+      "quote": "Nearly every session changed something. Rules got cut, choices got harder, and the tension got sharper.",
+      "why": "The brief does not mention what happened during the playtest sessions or how the game changed over time."
+    },
+    {
+      "quote": "What's left is the version that kept people around the table saying \"one more winter.\"",
+      "why": "The brief does not mention playtesters wanting to play again or quoting anyone saying \"one more winter.\""
+    },
+    {
+      "quote": "the 23 players who have rated it on BoardGameGeek",
+      "why": "The brief only refers to \"the main board game ratings site\" and does not name BoardGameGeek."
+    },
+    {
+      "quote": "What you see on this page is what goes to the printer.",
+      "why": "The provided information states that the art and rules are finished, but does not mention what is displayed on the crowdfunding page."
+    },
+    {
+      "quote": "I'll post updates at every stage, including factory proofs, production photos, and shipping progress, so you always know where your copy is.",
+      "why": "The creator committed to posting an update every two weeks, not to sharing factory proofs, production photos, and shipping progress at every stage."
+    },
+    {
+      "quote": "Backing on day one gets you the game at the campaign price",
+      "why": "The brief gives a single price of $49 and does not state that the price is special to the campaign or will increase later."
+    }
+  ],
+  "invented_count": 10
+}

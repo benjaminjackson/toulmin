@@ -1,0 +1,13 @@
+{
+  "task": "promotion-front-office",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-04-35Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "No shifts went uncovered and service didn't slip.",
+      "why": "The brief only states that she covered the front office manager's job alone for seven weeks, not whether any front desk shifts went uncovered or how service performed during that time."
+    }
+  ],
+  "invented_count": 1
+}

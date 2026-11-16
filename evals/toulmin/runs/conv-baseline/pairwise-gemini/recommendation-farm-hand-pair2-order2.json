@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-05-30Z",
+  "without_skill_run": "2026-11-16T20-05-29Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters are very similar and effective, though neither writer appears to have gathered the extra details from the farm manager. Document A is slightly more persuasive because its framing of Tomás taking a night class on top of a 3 a.m. shift vividly demonstrates his grit, and Document B omits the five-week absence entirely."
+}

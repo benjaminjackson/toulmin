@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-05-55Z",
+  "without_skill_run": "2026-11-16T20-06-07Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "A's opening about booth rent, commission splits, tips and retail-only sales tax sounds like someone who knows my salon, and that makes $199 a month feel more worth considering than the $600 a year I pay my cousin. B is more open about the price rise, but its shoebox talk and early price ask don't win me over as much, and neither page tells me my cousin could still do my taxes."
+}

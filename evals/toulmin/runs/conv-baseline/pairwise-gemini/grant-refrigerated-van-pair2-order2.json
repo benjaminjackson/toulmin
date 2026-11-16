@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-02-02Z",
+  "without_skill_run": "2026-11-16T20-01-17Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses my biggest concerns as a program officer: it gives a real explanation for the late 2023 report along with a named person (Dave Lin) and quarterly check-ins to prevent a repeat, and it proactively answers how they will afford the ongoing insurance and fuel costs when spending down their reserves. It also backs up the farm donations with commitment letters and rightly prompts the applicant to explain cold storage, which is a major operational question."
+}

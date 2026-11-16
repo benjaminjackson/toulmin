@@ -1,0 +1,60 @@
+grader: judge
+graded: '2026-11-16T20:03:29.653363+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 433
+  tags: []
+  notes: extracted 433 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 5
+    objections: 7
+    fit: 7
+  details:
+    agree: 'Marisol would likely be persuaded: the late report is addressed head-on
+      with a named person and a deadline, and the case is concrete and cautious, though
+      the unfilled cold-storage blank and reserves dropping to zero leave her with
+      doubts.'
+    honest: The writer drops the unsupported 'double' claim and every figure checks
+      out (one in six, about 15 lb per household, more than a quarter, more than two
+      years); 'The food is already available' is stated more firmly than the facts
+      allow, though the hedge comes right after it.
+    works_the_facts: 'The figures are worked out well: 9,000 lb becomes 3,000 lb a
+      month and a 50% summer increase (18,000 to 27,000), plus per-household pounds
+      and how long the reserves cover running costs, with the summer framing as the
+      most favourable true version.'
+    right_comparison: The alternative, that next summer repeats last summer's refusals,
+      is accurate and fits the facts, though it is brief and gives no sense of the
+      trend in fresh food as a share of what they distribute.
+    qualification: The hedge on farm supply is honest and there are dated checkpoints
+      (quarterly totals, report due 30 days after year end), but the condition sets
+      no minimum pounds the reader can hold them to and says nothing about what happens
+      if offers fall short.
+    objections: 'Her main worries are answered: the late report (cause, a new named
+      owner, a deadline) and the running costs; but the cold-storage gap is left blank,
+      and spending the reserves down to cover $4,500 a year is presented as reassuring
+      when it isn''t.'
+    fit: It is a narrative of about 480 words with clear headed sections, within the
+      500-word limit, but the bracketed fill-in blank means it is not yet ready to
+      submit.

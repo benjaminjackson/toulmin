@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:06:46.401417+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 318
+  tags: []
+  notes: extracted 318 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 4
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 3
+    qualification: 3
+    objections: 3
+    fit: 8
+  details:
+    agree: The page is plain and believable, but a salon owner who pays her cousin
+      $600 a year sees $199 a month (about $2,400 a year) with no word on keeping
+      him, no exit terms and no reason for the price rise, so she is unlikely to book
+      the call.
+    honest: Every figure matches the brief and the $800 equals four months of fees,
+      but the line that the accountant bills 'every hour' of sorting a shoebox is
+      the writer's assumption, not something the facts show.
+    works_the_facts: Turning $800 into four months of fees is a good derivation, but
+      the page never frames the 31 clients with two departures as near-total retention,
+      never says nine clients saw lower accountant bills, and leaves the three missed
+      closes as a bare count instead of putting them against the year's total closes.
+    right_comparison: It compares itself to a shoebox and an hourly-billing accountant,
+      not to this reader's real setup (a relative doing year-end work for $600), and
+      it never says she can keep her own tax preparer, who would then get clean books.
+    qualification: 'The admitted missed deadlines and the price increase have no checkable
+      remedy or reason: there''s no free month if the 10th is missed, no mention that
+      payroll was added, and no 30-day no-contract exit, though the writer had all
+      three.'
+    objections: The resisting reader's main objections (cost compared with her cousin,
+      being locked in, losing her cousin) go unanswered, while the page raises its
+      own worries about missed deadlines and the price rise and leaves them unresolved.
+    fit: It runs about 340 words with sensible headings and ends with the booking
+      button as asked, though it doesn't mention that calls run Tuesday to Saturday.

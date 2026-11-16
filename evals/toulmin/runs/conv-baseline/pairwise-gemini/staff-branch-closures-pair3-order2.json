@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-07-54Z",
+  "without_skill_run": "2026-11-16T20-07-29Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses our biggest fears by acknowledging that phone work is different from counter work, honoring our seniority when picking the new rotating shifts, and offering a 6-month window to try the job without losing our severance. Document A leaves out these vital commitments and uses unfilled placeholders instead of giving us actual dates and locations."
+}

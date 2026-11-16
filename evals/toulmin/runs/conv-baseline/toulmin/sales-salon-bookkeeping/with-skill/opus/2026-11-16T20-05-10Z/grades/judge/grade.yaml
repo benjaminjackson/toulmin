@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T20:05:55.754304+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 299
+  tags: []
+  notes: extracted 299 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 4
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 3
+    qualification: 3
+    objections: 3
+    fit: 8
+  details:
+    agree: The salon specialism and plain admissions will appeal to her, but the page
+      never gives her a reason to pay about $2,388 a year when her cousin charges
+      $600, or to see that she can keep him, so a reader who resists has little reason
+      to book.
+    honest: Nearly every claim follows the brief, but "One saved $800" drops the fact
+      that the client only said she did.
+    works_the_facts: 'It repeats the raw numbers without working them: no annual cost,
+      no 29 of 31 retained, and no 9 of 31 share. It also leaves out that the price
+      went up because payroll was added, so the increase looks arbitrary.'
+    right_comparison: Her real alternative is a once-a-year tax-time bookkeeper at
+      $600, and the page answers it only with a generic accountant fixing messy books,
+      never saying that her own accountant or cousin keeps doing her returns.
+    qualification: It admits three missed deadlines but leaves out the remedy (that
+      month's fee is free since January), so the hedge has no consequence the reader
+      can hold Carla to, and the hedge on accountant savings is vague.
+    objections: The main objections (cost compared with her cousin, loyalty to him,
+      being locked in) go unanswered, even though the no-contract 30-day notice and
+      the fact that the cousin can keep doing her taxes were there to use.
+    fit: It runs about 330 words of sales-page text with clear sections and ends on
+      the booking button, as the brief asked.

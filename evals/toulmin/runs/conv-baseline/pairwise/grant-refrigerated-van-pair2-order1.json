@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-02-02Z",
+  "without_skill_run": "2026-11-16T20-01-17Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A deals with my main worry, the late report: it explains why it was late, names Dave Lin as responsible for the final report within 30 days, and commits to quarterly fresh-food numbers. It also admits the farm offers aren't guaranteed and covers the $4,500 yearly operating cost. Document B leaves the accountability fix as a placeholder, states the 9,000 pounds as a firm expectation, and never mentions running costs."
+}

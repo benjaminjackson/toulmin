@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-07-26Z",
+  "without_skill_run": "2026-11-16T20-07-18Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A directly does the math on the three weeks of produce I lost and ends by inviting me to reply with what would change my mind, which makes me feel like the farmer is finally opening a two-way conversation after going silent last summer. While neither email promises a weather credit or better communication this season, A's invitation to reply gives me a reason to engage rather than just walk away."
+}

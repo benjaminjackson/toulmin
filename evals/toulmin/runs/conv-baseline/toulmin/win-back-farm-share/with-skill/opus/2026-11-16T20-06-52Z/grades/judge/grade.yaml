@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:07:26.176025+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 191
+  tags: []
+  notes: extracted 191 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 5
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 3
+    objections: 4
+    fit: 7
+  details:
+    agree: The plain apology and the unchanged $540 price will reach this household,
+      but nothing promises them money back if the boxes are thin again, which was
+      their main grievance, so a wary reader may still hold off.
+    honest: The facts and figures are accurate, including that the nets cover only
+      tomatoes and peppers, but 'you'll hear from me quickly and you'll get the whole
+      story' is a vague promise the writer was never given in those words.
+    works_the_facts: Setting the $31,000 spend beside the unchanged $540 price works
+      well, but the email leaves out the survey result that 29 of 41 people who answered
+      would return if bad weeks were handled better, and it calculates nothing new.
+    right_comparison: It says the price is the same as last year, but it never sets
+      rejoining against the household's real alternative, and it doesn't make clear
+      that the nets leave the greens exposed.
+    qualification: '''I can''t promise good weather'' is a hedge the reader can''t
+      check, and the email skips the concrete commitment that was available: a credit
+      for any week weather cuts a box by more than a third, plus a weekly Thursday
+      email.'
+    objections: The apology deals with the silence after the hail, but the main objection,
+      'what if the boxes are thin again and I get no credit?', goes unanswered, because
+      the two-week pause credit is a different thing.
+    fit: It is an email of under 200 words, as asked, but it leaves [Name], [Your
+      name] and [Farm name] as placeholders even though the details were known, and
+      it doesn't give the sign-up link on the website.

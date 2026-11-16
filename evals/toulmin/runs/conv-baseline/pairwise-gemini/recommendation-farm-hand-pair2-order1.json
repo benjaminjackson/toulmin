@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-05-30Z",
+  "without_skill_run": "2026-11-16T20-05-29Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B is slightly more compelling because it explicitly connects the night English class to his 3 a.m. start time, which highlights his work ethic, and it stays more honest to the brief by acknowledging the five-week absence rather than implying he was only absent for two days in three years. Both letters would have been stronger if the writer had gathered the specific financial impact of the mastitis catches and the promise of weekend employment."
+}

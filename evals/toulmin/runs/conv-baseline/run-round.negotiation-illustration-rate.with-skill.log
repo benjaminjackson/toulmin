@@ -1,0 +1,6 @@
+negotiation-illustration-rate / with-skill / opus ... ok (22.9s) -> runs/conv-baseline/toulmin/negotiation-illustration-rate/with-skill/opus/2026-11-16T20-02-08Z
+    grade: pass score=0.65
+negotiation-illustration-rate / with-skill / opus ... ok (33.7s) -> runs/conv-baseline/toulmin/negotiation-illustration-rate/with-skill/opus/2026-11-16T20-02-43Z
+    grade: pass score=0.65
+negotiation-illustration-rate / with-skill / opus ... ok (36.2s) -> runs/conv-baseline/toulmin/negotiation-illustration-rate/with-skill/opus/2026-11-16T20-03-29Z
+    grade: pass score=0.6

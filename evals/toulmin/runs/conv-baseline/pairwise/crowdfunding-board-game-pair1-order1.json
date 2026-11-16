@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-00-33Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "B's line-by-line budget (factory quote, shipping, 10% fees and a buffer) answers my main worry about first-time creators, and its claims stay within the facts. A is more open that the ratings came from people at the creator's own table, but its unfilled placeholders and lack of a budget breakdown make it feel less ready."
+}

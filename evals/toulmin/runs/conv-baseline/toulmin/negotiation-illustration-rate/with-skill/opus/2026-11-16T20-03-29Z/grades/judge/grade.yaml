@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T20:04:19.842462+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 216
+  tags: []
+  notes: extracted 216 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 5
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 5
+    objections: 4
+    fit: 4
+  details:
+    agree: The market evidence and sales record make a fair case, but an editor with
+      a $9,000 budget and an $8,000 newer illustrator gets nothing extra, such as
+      the September 1 date, sketches within six weeks or free spot drawings, to justify
+      going over budget, so she may counter low or move on.
+    honest: It rightly drops the unsupported claim that 'every other publisher pays
+      at least $12,000', and every figure comes from the brief, but signing it 'Ben'
+      instead of Elena puts a false name on it.
+    works_the_facts: It works out the $2,000 gap below the range, the $1,000 under
+      last year's fee and the $2,250 a month, but it leaves out the fourth printing
+      and never says the fee has stayed flat across six books while her sales grew.
+    right_comparison: It sets the fee against the market and another publisher, and
+      touches on the flat rate since the first book, but never deals with the editor's
+      real alternative, a cheaper and unproven illustrator against her proven sellers.
+    qualification: The ask is a plain request with no conditions, so no hedge is needed.
+    objections: The budget-and-cheaper-option objection is only met indirectly through
+      'that record was built largely with you', and the deadline and marketing commitments
+      that would answer it are left out.
+    fit: It is under 250 words and has the right email form, but it leaves '[Book
+      Title]' and '[Name]' placeholders even though the writer knew The Night Garden
+      and Nadia Brooks, and it is signed with the wrong name.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-02-03Z",
+  "without_skill_run": "2026-11-16T20-01-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives me what I actually check before pledging: a line-by-line budget, a specific delivery date and the backer count needed to fund. A is vague about where the money goes, gives no delivery date, and still has a placeholder title and an unfilled extras line, which makes a first-time creator look less ready."
+}

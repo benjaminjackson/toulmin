@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-02-08Z",
+  "without_skill_run": "2026-11-16T20-02-34Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A strikes a warmer, more collaborative tone by focusing on our shared success rather than breaking down her monthly income or hinting that she might not have room in her schedule for us. Because going above my $9,000 budget requires special effort when I have an $8,000 alternative ready, Document A's gracious framing makes me much more inclined to advocate for the extra funds."
+}

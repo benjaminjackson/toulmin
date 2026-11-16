@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-07-26Z",
+  "without_skill_run": "2026-11-16T20-07-18Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both emails are very similar and neither guarantees what will happen if bad weather hits again, nor do they explain why the farm went silent last year. However, Document B wins slightly because it explicitly calculates the three weeks of lost produce we paid for and ends by inviting us to reply with what would change our minds, which makes it feel like the farmer is finally opening up communication."
+}

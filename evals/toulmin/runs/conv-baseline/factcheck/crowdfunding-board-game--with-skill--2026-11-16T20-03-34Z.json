@@ -1,0 +1,33 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-03-34Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Every one of those sessions helped shape the rules that will be in your box.",
+      "why": "Neither the brief nor the user's additional information states that every single playtest session helped shape the rules."
+    },
+    {
+      "quote": "The art is finished. The rules are finished.",
+      "why": "The brief itself does not state that the art and rules are finished (this only appears in the extra information outside the brief)."
+    },
+    {
+      "quote": "All that's left is paying for the printing, and that's what this campaign is for.",
+      "why": "The brief does not state that paying for printing is the only step remaining, and the campaign funds also cover shipping and platform fees."
+    },
+    {
+      "quote": "That leaves about $5,400 for platform fees and for the things nobody plans for.",
+      "why": "The brief does not mention platform fees or contingency funds, nor does it state why the goal was set higher than the printing and shipping costs."
+    },
+    {
+      "quote": "I've been testing this game in the hours around that job since 2023.",
+      "why": "The brief states the designer works full time as a land surveyor and has run playtests since 2023, but does not state he has had that job since 2023 or tested the game around its hours."
+    },
+    {
+      "quote": "And I'm committing to delivery in **November 2027**.",
+      "why": "The brief does not give a delivery date, and even the user's extra notes only say 'November next year' without specifying the year 2027."
+    }
+  ],
+  "invented_count": 6
+}

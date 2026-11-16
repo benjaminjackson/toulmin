@@ -1,0 +1,61 @@
+grader: judge
+graded: '2026-11-16T20:06:19.650746+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 411
+  tags: []
+  notes: extracted 411 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 7
+    right_comparison: 5
+    qualification: 4
+    objections: 5
+    fit: 8
+  details:
+    agree: The memo gives the renovation credit, then points to the 7.9-to-8.2 rise
+      before construction began, which should move a GM who credits the renovation.
+      The budget plan is thin, though, and the memo never takes on the outside candidate's
+      experience at a larger hotel, so the GM still has an easy reason to pick the
+      outsider.
+    honest: 'It drops the ''main reason'' claim and makes the score argument carefully,
+      but it overstates in places: ''under plan every month'' stretches a 7-week record,
+      ''my work so far has been payroll work in practice'' goes beyond the facts,
+      and the claim that an outsider ''would need months'' has no support.'
+    works_the_facts: The 64%-to-36% turnover rates, the 44% cut in training time and
+      the 0.3 points gained before the renovation are all derived correctly and well
+      chosen, but 'close to half the turnover' undersells a 44% drop in leavers and
+      states it loosely.
+    right_comparison: The memo describes the outside hire only as someone who 'would
+      need months to learn this hotel' and leaves out the strength the GM actually
+      sees in that candidate, experience running a larger hotel's front desk, so the
+      alternative isn't shown as the facts present it.
+    qualification: The budget commitment has a time frame (the first quarter) but
+      no measure the GM could check and no consequence if it slips, and it swaps the
+      controller's offered weekly sessions and the company finance course for vaguer
+      monthly reviews.
+    objections: The memo answers the renovation objection well, but it only half-answers
+      the budget gap by leaving out the finance course and the controller's weekly
+      sessions, and it never addresses the larger-hotel experience.
+    fit: It is a one-page internal memo with clear section headings, which is the
+      form and length asked for, though it leaves name placeholders that would need
+      filling in.

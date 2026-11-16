@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T20:03:52.369317+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 426
+  tags: []
+  notes: extracted 426 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 3
+    objections: 5
+    fit: 6
+  details:
+    agree: The repeated '6 to 8 weeks' since June and the modest offers (a stair list,
+      weekday meetings) make it hard to dismiss, but the letter leaves out its strongest
+      facts, the missed dialysis appointments and the 74-of-112 majority, so a skeptical
+      manager can still file it as a complaint.
+    honest: The numbers match the brief, and the letter honestly concedes both the
+      inspection and that a second elevator may not be possible, though 'more than
+      five months later' and 'one day in every eight' depend on a current date the
+      brief does not give.
+    works_the_facts: It turns 41 days into a rate and points out the repeated estimate,
+      but it never shows that 74 of 112 households is about two-thirds of the building,
+      the figure that most directly answers the 'few loud people' view.
+    right_comparison: 'It describes the status quo accurately: a second identical
+      6-to-8-week promise, a 12-day stretch and an inspection that does not measure
+      reliability, so it shows that nothing will change unless management acts.'
+    qualification: It asks for a written response and a meeting but gives no deadline
+      and says nothing about what happens if management doesn't respond, so the reader
+      has nothing dated to check.
+    objections: It meets the 'it passed inspection' and 'second elevator is impossible'
+      objections well, but it leaves the reader's main dismissal, that this is a small
+      loud minority, unanswered even though 74 of 112 households signed.
+    fit: It has the right open-letter form at roughly 450 words, but the '[Management
+      Company Name]' placeholder is left in the heading even though the company's
+      name, Keystone Property Group, was available, and that looks unfinished for
+      a letter going on the lobby wall and to the press.

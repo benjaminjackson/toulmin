@@ -1,0 +1,49 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-02-03Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "About 60 different people have played it, at home and at two conventions.",
+      "why": "Neither the brief nor the additional user information states that any of the playtest sessions took place at home."
+    },
+    {
+      "quote": "Each session showed me something to fix.",
+      "why": "The provided information does not state what occurred during the playtest sessions or that every session revealed something to fix."
+    },
+    {
+      "quote": "The game you're backing today has been reshaped by three years of those sessions.",
+      "why": "The brief only says playtesting began in 2023, without specifying the current year or stating that testing lasted for three years."
+    },
+    {
+      "quote": "The game has an 8.1 average from its first 23 ratings on BoardGameGeek.",
+      "why": "The brief only refers to 'the main board game ratings site' and does not explicitly name BoardGameGeek."
+    },
+    {
+      "quote": "**About $5,450:** platform and payment fees, plus a margin for surprises.",
+      "why": "While $5,450 is the remainder of the $28,000 goal, the brief does not mention platform fees or a margin for surprises, and the user's extra context only mentions 10% ($2,800) for fees without stating the rest is a margin for surprises."
+    },
+    {
+      "quote": "It has a costed factory quote, shipping priced per copy, a budget you can read line by line, and three years of testing behind it.",
+      "why": "The brief only states that playtesting started in 2023, not that it has lasted for three years."
+    },
+    {
+      "quote": "Expected delivery is **November 2027**.",
+      "why": "The brief gives no delivery date, and the extra user context only says 'November next year' without specifying the current year is 2026."
+    },
+    {
+      "quote": "I'll post an update at every stage: final proofs, production, freight and shipping.",
+      "why": "The brief mentions nothing about update schedules, and the user's extra context commits to updates every two weeks rather than at specific stages like final proofs, production, and freight."
+    },
+    {
+      "quote": "If something slips, you'll hear about it from me first, along with the reason and the new date.",
+      "why": "Neither the brief nor the additional context includes a commitment to notify backers with a reason and a new date if the schedule slips."
+    },
+    {
+      "quote": "Most games on this platform ask you to trust a prototype.",
+      "why": "The provided materials contain no facts or statistics about what most games on the crowdfunding platform ask of backers."
+    }
+  ],
+  "invented_count": 10
+}

@@ -1,0 +1,49 @@
+I drafted the narrative, but I didn't include the claim that you'll double fresh food in the first year. Your own numbers don't support it, and a reviewer can check that quickly.
+
+- You give out about 6,000 lbs of fresh food a month, which is about 72,000 lbs a year. Doubling means adding about 72,000 lbs a year.
+- The produce you turned down was 9,000 lbs over three months. Recovering all of it adds about 12% to a year's fresh food. It adds about 50% during those three summer months.
+- That leaves you about 63,000 lbs short of doubling. The funder knows you, and you were late on your last report, so you can't afford a target you're likely to miss.
+
+If you have other sources the van would open up, such as grocery store or dairy donations or farms beyond last summer's offers, tell me how many pounds. If they add up, I'll put the doubling claim back in. Until then, the draft uses the 50% summer increase, which your evidence supports.
+
+There are four gaps a reviewer is likely to ask about. I've marked them in brackets for you to fill in:
+1. **What it costs to run the van.** Insurance, fuel and maintenance, and who pays for them. This matters more because your reserves drop to $11,000.
+2. **The late report.** It's better to admit it and say what you've changed than to leave it out.
+3. **What the 2023 shelving grant achieved.**
+4. **Your food bank's name and town.**
+
+The draft is about 400 words, which leaves room for your bracketed details.
+
+<final_document>
+**Project Narrative: Refrigerated Van for Fresh Food Recovery**
+
+**The Need**
+
+[Food Bank Name] is a volunteer-run food bank serving 610 households in [Town], a community of about 9,000 people. We distribute about 38,000 pounds of food each month. Only about 6,000 pounds of that, roughly 16 percent, is fresh produce, milk and eggs.
+
+There's plenty of fresh food nearby. What limits us is that we can't move it cold. Last summer, local farms offered us about 9,000 pounds of produce over three months. We had to turn all of it down because we had no refrigerated vehicle to collect it and no way to keep it cold until distribution. That produce was grown a few miles from families who needed it, and it never reached them.
+
+**The Project**
+
+We request $50,000 toward a $68,000 refrigerated van. We will cover the remaining $18,000 from our own reserves, more than 60 percent of what we hold, because this van addresses the biggest gap in what we offer. The van will let us collect perishable donations directly from farms and keep them at safe temperatures from pickup to distribution.
+
+**Expected Outcomes**
+
+In the first year, we expect to:
+
+- Accept the farm donations we currently turn down. Based on last summer's offers, that is about 9,000 additional pounds of produce, which would increase our fresh food distribution by about 50 percent during the harvest months.
+- [Add any other fresh food sources the van will open up, with estimated pounds.]
+- Track pounds of fresh food received and distributed each month and report results to the Foundation.
+
+**Our Capacity**
+
+We have 23 regular volunteers, and four of them have committed to driving the van on a weekly schedule, so pickups won't depend on any one person. We estimate the van will cost $[X] a year to insure, fuel and maintain, and we will fund this through [source].
+
+**Our History with the Foundation**
+
+In 2023, the Foundation awarded us $12,000 for shelving, which [describe the result, e.g., increased our storage capacity by X or let us serve X more households]. Our final report on that grant was submitted four months late. We take that seriously. Since then, we have [describe the change, e.g., assigned a volunteer to track grant deadlines, or set up calendar reminders 60 days before each report is due]. We will submit all reports for this grant on time.
+
+**Conclusion**
+
+Families in [Town] already rely on us for food. With a refrigerated van, we can give them more of the fresh, healthy food our local farms want to share, and stop turning donations away.
+</final_document>

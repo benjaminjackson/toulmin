@@ -1,0 +1,21 @@
+{
+  "task": "promotion-front-office",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-05-21Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "overtime has come in under the monthly plan every month.",
+      "why": "The user's facts state that overtime came in under the monthly plan during the 7 weeks, which covers only one completed month rather than multiple months."
+    },
+    {
+      "quote": "the $1.1 million payroll budget is the largest responsibility in this role.",
+      "why": "The brief states that the front office manager owns a $1.1 million payroll budget, but does not state that it is the largest responsibility in the role."
+    },
+    {
+      "quote": "An outside candidate would need months to learn this hotel, this team and our guests.",
+      "why": "Neither the brief nor the user's additional facts mention how long it would take an outside candidate to learn the hotel, team, or guests."
+    }
+  ],
+  "invented_count": 3
+}

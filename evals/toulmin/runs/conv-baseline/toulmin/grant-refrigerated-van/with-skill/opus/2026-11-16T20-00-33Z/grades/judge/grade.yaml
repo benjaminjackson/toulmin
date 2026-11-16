@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T20:02:02.639605+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 444
+  tags: []
+  notes: extracted 444 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 6
+    objections: 7
+    fit: 8
+  details:
+    agree: Marisol gets a direct account of the late report, a named person responsible
+      and a deadline, plus quarterly data. But leaving out the farms' letters makes
+      the case for future supply weaker than it needed to be.
+    honest: It drops the unsupported 'double' claim, and every derived figure checks
+      out. The present-tense 'food is already being offered' and 'farms are already
+      offering' lean a little past a supply Joan says she cannot promise.
+    works_the_facts: It correctly derives a 50% rise over the summer months, a month
+      and a half of fresh food, about 10 lb per household, and nearly two-thirds of
+      reserves. It omits the two farm letters, which are the strongest available evidence,
+      and never states the $11,000 left in reserve.
+    right_comparison: The alternative, that next summer repeats last summer, matches
+      the facts. The current 6,000-lb baseline is set out clearly as the measure for
+      comparison.
+    qualification: The report deadline (30 days, Dave Lin) and the insurance-source
+      confirmation are checkable. The quarterly fresh-food reporting has no target
+      number, and nothing says what happens if the $4,500 source isn't found.
+    objections: It deals head-on with the late-report history Marisol cares about,
+      along with operating costs and drivers. It leaves open whether the farms will
+      actually give again, a doubt the omitted letters would have answered.
+    fit: It is a plain narrative under the 500-word limit, though it never names the
+      Millbrook Community Pantry.

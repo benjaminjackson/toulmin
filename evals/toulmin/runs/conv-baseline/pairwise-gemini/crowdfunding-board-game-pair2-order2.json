@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-02-03Z",
+  "without_skill_run": "2026-11-16T20-01-42Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins me over because it actually shows the math: calculating that 572 backers are needed to hit the $28,000 goal and breaking down how that covers the factory quote, shipping for those backers, and platform fees with a buffer. Document A leaves out the math and a delivery date, and even has unedited template brackets, though B still misses including the specific refund guarantee and bi-weekly update schedule the creator could have offered."
+}

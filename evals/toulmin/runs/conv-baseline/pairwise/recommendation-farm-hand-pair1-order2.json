@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-04-51Z",
+  "without_skill_run": "2026-11-16T20-04-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B is a little more convincing. It explains why catching mastitis early matters (less lost milk, less spread through the herd), adds \"without reservation,\" and puts the five-week leave inside a strong record of reliability. Both letters go somewhat beyond the facts given, and A reads about as well, so the gap is small."
+}

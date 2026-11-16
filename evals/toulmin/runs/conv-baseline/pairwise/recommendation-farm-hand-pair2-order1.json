@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-05-30Z",
+  "without_skill_run": "2026-11-16T20-05-29Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters make the same strong case: he works the 3 a.m. shift alone, he's reliable, and he caught mastitis early using the software. B openly mentions the five-week absence and frames it sympathetically, so its \"only two missed shifts\" claim and its candour read as more believable. A leaves the absence out, which makes its attendance claim quietly misleading."
+}

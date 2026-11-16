@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-02-08Z",
+  "without_skill_run": "2026-11-16T20-02-34Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters make the same honest case and ask for the same $11,500, but B frames the sales record as having earned a raise and turns the fee into about $2,250 a month, which makes the request feel more concrete. Its line about making room in her schedule also hints, gently, that I can't count on her availability at the old fee."
+}

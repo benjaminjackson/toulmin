@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:06:53.606023+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 472
+  tags: []
+  notes: extracted 472 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 4
+    honest: 8
+    works_the_facts: 3
+    right_comparison: 6
+    qualification: 3
+    objections: 3
+    fit: 6
+  details:
+    agree: 'Long-tenured staff who don''t want phone work get facts and empathy, but
+      nothing that lowers the risk of saying yes: no $1.50 raise, no seniority-based
+      shift choice, no 6-month severance safety net, so many will start looking elsewhere.'
+    honest: It correctly drops the 'better for everyone' claim and states the brief's
+      numbers accurately, though 'get it right the first time' and the strain on phone
+      staff are mild unsupported additions.
+    works_the_facts: 'The figures are only repeated and never worked: no severance
+      example for a ten-year employee (20 weeks), no concrete pay increase, and no
+      point about what the 9-minute wait does if nothing changes.'
+    right_comparison: It shows the falling branch visits against rising phone and
+      chat demand, which explains why keeping the branches isn't realistic, but for
+      staff it frames the choice as the center versus severance without saying that
+      closure is fixed and 9-to-5 hours aren't available anywhere.
+    qualification: The offer date, decision deadline and Q&A are left as [date] placeholders
+      when Feb 14 and March 1 were available, and nothing says what happens if the
+      deadline passes.
+    objections: The dislike of phone work and rotating hours is acknowledged but not
+      answered, even though the seniority shift choice and the 6-month option to still
+      take severance would meet it directly, and the two weeks of rumours go unmentioned.
+    fit: It is a COO email of roughly the right length and structure, but leftover
+      placeholders for the name, dates, HR contact and an editorial note mean it can't
+      be sent as written.

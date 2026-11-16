@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-03-34Z",
+  "without_skill_run": "2026-11-16T20-02-19Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins my trust because it confirms the art and rules are completely finished, gives a realistic delivery date, and does the exact math to show the funding goal actually covers manufacturing and shipping. Document A leaves out whether the art is done and doesn't realize that shipping 1,500 copies plus printing already exceeds the $28,000 goal if they don't clarify the backer count at the funding threshold."
+}

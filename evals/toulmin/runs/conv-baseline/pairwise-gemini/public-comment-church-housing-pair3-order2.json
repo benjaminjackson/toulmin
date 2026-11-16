@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-05-35Z",
+  "without_skill_run": "2026-11-16T20-05-18Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Neither writer thought to ask the speaker if there were any proposed traffic mitigations, missing the crucial fact that the builder offered to pay for a traffic signal that keeps the intersection at a C rating. Between the two, Document A stays completely honest to the provided facts, whereas Document B invents an assumption that there is already a signal at Alder and 4th and proposes a condition not in the facts."
+}

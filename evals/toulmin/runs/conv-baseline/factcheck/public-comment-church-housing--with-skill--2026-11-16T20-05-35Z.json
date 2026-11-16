@@ -1,0 +1,33 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-05-35Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "A D at rush hour means I'll wait at that light a little longer at the busiest times of day.",
+      "why": "The brief does not say there is already a traffic light at Alder and 4th, and the user's background notes show the intersection does not currently have a signal."
+    },
+    {
+      "quote": "This project would house 64 of them.",
+      "why": "The brief says the units would rent to households earning under 60% of the area median income, not that the tenants will come specifically from the county housing authority's waiting list."
+    },
+    {
+      "quote": "It does that without taking any open land or tearing anything down.",
+      "why": "The brief states the apartments will be built on the back parking lot, which is 1.8 acres, but does not state that nothing at all will be torn down or that no open land is involved."
+    },
+    {
+      "quote": "That lot is 1.8 acres of asphalt that sits empty six days a week.",
+      "why": "The brief says it is a 1.8-acre parking lot, not specifically that it is paved with asphalt."
+    },
+    {
+      "quote": "I walk past it, and most days there's nothing there.",
+      "why": "The brief says the speaker lives two blocks from the church, not that they walk past the lot."
+    },
+    {
+      "quote": "I would rather have 64 families who finally got off that waiting list as my neighbors than keep an empty parking lot next door.",
+      "why": "The brief says the speaker lives two blocks from the church, not next door to the parking lot, and does not say the 64 households will come off the housing authority's waiting list."
+    }
+  ],
+  "invented_count": 6
+}

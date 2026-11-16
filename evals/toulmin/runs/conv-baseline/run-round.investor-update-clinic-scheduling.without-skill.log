@@ -1,0 +1,6 @@
+investor-update-clinic-scheduling / without-skill / opus ... ok (22.1s) -> runs/conv-baseline/toulmin/investor-update-clinic-scheduling/without-skill/opus/2026-11-16T20-00-33Z
+    grade: pass score=0.55
+investor-update-clinic-scheduling / without-skill / opus ... ok (26.5s) -> runs/conv-baseline/toulmin/investor-update-clinic-scheduling/without-skill/opus/2026-11-16T20-01-11Z
+    grade: pass score=0.45
+investor-update-clinic-scheduling / without-skill / opus ... ok (28.0s) -> runs/conv-baseline/toulmin/investor-update-clinic-scheduling/without-skill/opus/2026-11-16T20-01-54Z
+    grade: pass score=0.45

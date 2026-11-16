@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-02-08Z",
+  "without_skill_run": "2026-11-16T20-02-34Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both emails are honest and make the same case. A edges ahead because the $2,250-a-month figure shows plainly that the current fee is low, and 'keep making room in my schedule for your books' quietly suggests I might lose her, which gives me a reason to pay more than the $8,000 option."
+}

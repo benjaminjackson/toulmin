@@ -1,0 +1,41 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-05-29Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "On that shift there is no one else around to catch a problem or fix a mistake.",
+      "why": "The brief says he runs the shift on his own, not that no one else is around on the farm."
+    },
+    {
+      "quote": "On a dairy farm, that kind of reliability is rare, and it is the main reason I trust him with the shift.",
+      "why": "The brief does not state why the manager trusts him with the shift or that such reliability is rare."
+    },
+    {
+      "quote": "he did it by paying close attention to the animals and the data together.",
+      "why": "The brief only states that he learned the herd management software and caught nine cases of mastitis early, without specifying his method."
+    },
+    {
+      "quote": "Nobody required him to take on that responsibility. He saw the need and learned what he had to learn.",
+      "why": "The brief does not say whether learning the software and flagging sick cows was voluntary or required."
+    },
+    {
+      "quote": "caring for his father, who was seriously ill.",
+      "why": "The brief only says his father got sick in Mexico, not that the illness was serious or that Tomás was caring for him."
+    },
+    {
+      "quote": "He came back and picked up his full responsibilities again.",
+      "why": "While the brief implies he returned, it does not state that he resumed all of his full responsibilities upon return."
+    },
+    {
+      "quote": "His spoken English is strong, and he communicates well with me, our vet, and the rest of the crew.",
+      "why": "The brief only says his written English is weaker than his spoken English, not that his spoken English is strong or that he communicates well with the manager, vet, and crew."
+    },
+    {
+      "quote": "He enrolled in a night English class on his own",
+      "why": "The brief states he is taking a night class, not that he enrolled in it on his own initiative."
+    }
+  ],
+  "invented_count": 8
+}

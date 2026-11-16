@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-05-10Z",
+  "without_skill_run": "2026-11-16T20-05-37Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Neither document asked the writer's source for the extra facts that would actually persuade me, like the fact that I wouldn't have to fire my cousin at tax time, that she used to manage a salon, or that the price went up because payroll was added. Between the two, Document A is slightly more convincing because it names real salon headaches like booth rent and card tips, though those details had to be guessed by the writer."
+}

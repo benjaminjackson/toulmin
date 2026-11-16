@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-04-06Z",
+  "without_skill_run": "2026-11-16T20-04-19Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "For commissioners focused on Alder Road traffic and a room of opposed neighbours, A works better: it says up front that the speaker belongs to the church, and it offers a concrete mitigation tied to the approval (a review of the signal timing). B brushes traffic off with 'the choice isn't close' and 'my neighbors and I can handle' it, which speaks for opponents in the room, and it overclaims that the project won't push cars onto neighbourhood streets."
+}

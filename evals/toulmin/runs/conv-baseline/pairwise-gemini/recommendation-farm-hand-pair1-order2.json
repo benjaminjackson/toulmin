@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-04-51Z",
+  "without_skill_run": "2026-11-16T20-04-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters are very similar and use the same facts, though neither writer appears to have asked for the specific farm and applicant details. Document B has a slight edge because it uses more authentic dairy terminology ('parlor' instead of 'barn'), gives a sharper explanation of the financial impact of catching mastitis early, and handles the five-week absence more concisely without devoting a whole paragraph to it."
+}

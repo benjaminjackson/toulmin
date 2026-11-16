@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-06-52Z",
+  "without_skill_run": "2026-11-16T20-06-51Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B directly promises better communication if something goes wrong again, which addresses my frustration with the farm going silent last year. However, neither email addresses what happens financially if bad weather hits again, and Document B invents a communication promise not in the brief while leaving out a link to actually sign up."
+}

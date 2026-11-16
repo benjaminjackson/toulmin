@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-02-37Z",
+  "without_skill_run": "2026-11-16T20-03-02Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B shows the association is reasonable and organized by accepting that a second elevator isn't feasible and offering concrete help with a mobility list and flexible meeting times. Document A comes across as hostile and unrealistic by demanding we pay for an engineering study on a second elevator and disclose our private vendor details."
+}

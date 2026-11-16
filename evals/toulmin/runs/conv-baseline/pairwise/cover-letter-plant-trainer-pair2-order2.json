@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-01-43Z",
+  "without_skill_run": "2026-11-16T20-01-04Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is addressed to me by name and gives concrete evidence that matters in a regulated plant: training cut from 20 hours to 12 with no drop in the safety record, and a GMP course already in progress to close the gap. A leaves template placeholders and answers the GMP gap only with a promise to learn, which is exactly what I expect from teachers who don't know how a plant works."
+}

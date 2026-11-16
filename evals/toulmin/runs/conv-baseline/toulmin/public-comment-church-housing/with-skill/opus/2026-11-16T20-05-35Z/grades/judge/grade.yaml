@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:06:23.271251+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 385
+  tags: []
+  notes: extracted 385 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 4
+    honest: 6
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 2
+    objections: 4
+    fit: 5
+  details:
+    agree: Commissioners worried about traffic hear the D rating played down as 'a
+      little longer' and get only a vague timing review, not the builder-funded signal
+      that keeps the intersection at C, so the resisting reader has little reason
+      to change their vote.
+    honest: The numbers are accurate, but the speech says the project 'would house
+      64 of them' (waiting-list families), which the facts do not guarantee, and it
+      calls a drop from C to D only 'a little longer' at the light.
+    works_the_facts: It works out the one-in-six share of the waiting list and the
+      more-than-one-space-per-home parking ratio, but it never sets 64 units against
+      the 2,100-home shortfall and ignores the signal that keeps the C rating.
+    right_comparison: The 'if you say no' paragraph sets out the status quo fairly
+      (an empty lot, families still waiting, the same traffic), though it skips the
+      existing 8am backups that would make the comparison sharper.
+    qualification: The only condition is a staff review of signal timing 'once occupied',
+      with no date, no measure and no consequence if the review is missed or the result
+      is bad, and it replaces the signal condition the speaker actually wants.
+    objections: It takes on rush-hour traffic but answers it weakly, and it leaves
+      out 20 months of construction trucks, the neighbour parking commitment and the
+      neighbour group, which are concerns this room will have.
+    fit: It reads as a spoken public comment, but at about 480 words it runs slightly
+      past three minutes and still has unfilled placeholders for the name, the church
+      and a parking sentence.

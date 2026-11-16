@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-04-06Z",
+  "without_skill_run": "2026-11-16T20-04-19Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks to traffic-focused commissioners and wary neighbours better: it discloses the speaker's church membership, admits the speaker will sit in the slower line too, and offers a concrete mitigation. A brushes off traffic with \"the choice isn't close\" and adds claims the brief doesn't support, such as who the residents would be and that no cars will spill onto nearby streets."
+}

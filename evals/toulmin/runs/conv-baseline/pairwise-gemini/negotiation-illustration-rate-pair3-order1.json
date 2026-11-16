@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-03-29Z",
+  "without_skill_run": "2026-11-16T20-03-30Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B leads with the value and sales success she has brought to our list before bringing up her outside rates, which feels much more collaborative and gives me a better case to take to my finance team. Document A feels a bit confrontational by immediately calling my standard budget 'well below the market' and spelling out the math for me."
+}

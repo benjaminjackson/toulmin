@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-06-46Z",
+  "without_skill_run": "2026-11-16T20-06-39Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B's warmer tone and plain question-and-answer layout make it easier for me to picture booking a call, though neither page helps me weigh $199 a month against the $600 a year I pay my cousin. Both stretch the facts: A says nobody left over the price, but the raise only came in January, and B calls missing 3 of 12 deadlines 'almost always'."
+}

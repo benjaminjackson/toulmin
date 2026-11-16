@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T20:05:30.848439+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 386
+  tags: []
+  notes: extracted 386 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 6
+    honest: 5
+    works_the_facts: 3
+    right_comparison: 4
+    qualification: 4
+    objections: 5
+    fit: 7
+  details:
+    agree: A busy committee member would see a credible, specific endorsement, but
+      the placeholders, the vague 'real money', and no weekend-job or phone-call commitment
+      make it read like a solid letter rather than one that sets him apart from the
+      other 150 applicants.
+    honest: 'Several details aren''t in the brief: ''Nobody assigned him this work.
+      He saw what the data could tell him'', ''keeps the equipment running'', and
+      ''went straight back to his full schedule''; the letter also leaves out that
+      he gave only two days'' notice before the leave, which tilts the account in
+      his favour.'
+    works_the_facts: The letter doesn't turn two missed shifts in three years (about
+      780 scheduled shifts) into an attendance rate, and it says 'real money' when
+      the known figure was a vet-estimated $8,000.
+    right_comparison: "Explaining why early mastitis detection matters gives the reader\
+      \ a useful baseline, but nothing places Tom\xE1s against what is typical for\
+      \ a farm worker or for an applicant, so his record has no reference point."
+    qualification: 'The note about his written English is candid and points to the
+      night class, but it gives nothing the committee can check: no class name, no
+      completion date, no level reached.'
+    objections: It deals with written English directly and mentions the five-week
+      leave, but it leaves out the facts that settle the leave question (his cousin
+      covered his shifts and he came back on the day he said), so a doubt the facts
+      already answer is left half open.
+    fit: It is a one-page letter from the farm manager in the right form and register,
+      but it has bracketed placeholders for the name, farm, phone and surname, which
+      the user could have supplied.

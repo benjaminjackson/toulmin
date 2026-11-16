@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-04-06Z",
+  "without_skill_run": "2026-11-16T20-04-19Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Neither writer evidently asked the speaker for more details, so both missed the crucial fact that the builder offered to pay for a traffic signal to keep the intersection at a C rating—and instead, both invented the false detail that there is already a traffic light there. However, Document B is slightly more persuasive because the speaker is upfront with her neighbors about being a member of the church, rather than hiding her affiliation like in Document A."
+}

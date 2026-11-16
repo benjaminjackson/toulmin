@@ -1,0 +1,61 @@
+grader: judge
+graded: '2026-11-16T20:05:21.332756+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 442
+  tags: []
+  notes: extracted 442 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 8
+    right_comparison: 6
+    qualification: 5
+    objections: 7
+    fit: 7
+  details:
+    agree: The point that the score had already gone from 7.9 to 8.2 before the renovation
+      started directly answers the GM's belief that the renovation did it, and the
+      seven weeks of covered shifts with overtime under plan are strong evidence,
+      though the budget plan is vague enough to leave him leaning toward the more
+      experienced outside candidate.
+    honest: The numbers are accurate, but saying the pre-renovation gain 'came from
+      the people at the desk' assigns a cause the facts only suggest, and 'most of
+      my work has been on the parts of that budget the desk can control' recasts turnover
+      work as budget work.
+    works_the_facts: 'It turns the raw figures into useful ones: turnover goes from
+      losing almost two-thirds to keeping almost two-thirds, the shorter training
+      saved about 20 shifts across five replacements, and the pre-renovation rise
+      was almost half the total gain.'
+    right_comparison: It compares promoting her with hiring from outside and uses
+      the stabilising turnover trend, but it describes the outside candidate only
+      as someone who needs ramp-up time and never sets their larger-hotel experience
+      against her lack of budget experience.
+    qualification: 'The budget commitment has a timeframe (90 days, then monthly reviews)
+      but no measurable target and no consequence if it slips, and it leaves out the
+      specific commitments she had: the company finance course and weekly sessions
+      with Ben Oduya.'
+    objections: It meets the renovation and budget objections head on, but it handles
+      the outside candidate's experience at a larger hotel only indirectly, through
+      the continuity argument.
+    fit: 'It is a one-page memo as asked, but it still has placeholders for names
+      the user provided (Daniela Ruiz, Mark Ellison) and an unresolved ''[or: our
+      controller]'' choice.'

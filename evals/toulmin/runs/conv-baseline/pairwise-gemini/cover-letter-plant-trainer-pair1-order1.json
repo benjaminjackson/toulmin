@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-00-33Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A stands out immediately because the candidate is proactively taking a GMP basics course, acknowledges the strict reality of SOPs and regulators, and gives a concrete example of cutting adult training time from 20 to 12 hours without sacrificing safety. It is also customized to me and our plant, whereas Document B is generic and offers only vague assurances about learning GMP quickly."
+}

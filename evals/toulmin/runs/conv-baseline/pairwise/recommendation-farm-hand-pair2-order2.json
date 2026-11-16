@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-05-30Z",
+  "without_skill_run": "2026-11-16T20-05-29Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B is more convincing on a quick read. It states early why Tomás fits the program and explains why catching mastitis early matters for the herd. A covers the same facts but is flatter, and its five-week absence paragraph doesn't help the case. B leaves out that absence, which makes its 'missed two shifts' line slightly flattering, but it says nothing false."
+}

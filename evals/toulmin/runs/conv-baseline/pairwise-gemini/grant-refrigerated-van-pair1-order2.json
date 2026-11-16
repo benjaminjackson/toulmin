@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-00-33Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses my biggest concern—the four-month-late report on the 2023 shelving grant—with a clear explanation, a named person responsible going forward (Dave Lin), and a commitment to quarterly updates. It is also a complete narrative with real operating cost numbers rather than a template full of bracketed placeholders, though I will still ask how they plan to store the cold food once picked up and how they will cover the $4,500 annual operating cost given their low reserves."
+}

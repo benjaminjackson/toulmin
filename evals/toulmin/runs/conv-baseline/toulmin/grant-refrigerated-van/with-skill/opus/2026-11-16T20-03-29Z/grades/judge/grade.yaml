@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:05:10.450397+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 428
+  tags: []
+  notes: extracted 428 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 5
+    objections: 6
+    fit: 7
+  details:
+    agree: Marisol would see a sound, honest case and a fix for the late report, but
+      the unresolved $4,500 running cost, set against an $11,000 reserve, leaves her
+      main sustainability doubt open.
+    honest: It drops the unsupported 'double' claim and promises no set poundage,
+      but '9,000 pounds is more than we hand out in six weeks' overstates it slightly,
+      since six weeks of fresh food is about 9,000 pounds.
+    works_the_facts: 'The derived figures are correct and useful: about 10 pounds
+      per household, 50% more fresh food in those summer months, and more than a quarter
+      of the cost from reserves. The six-weeks comparison is slightly off, and it
+      never sets a yearly fresh-food target from the baseline.'
+    right_comparison: The no-van case (farms offer, the pantry says no, families stay
+      at about 10 pounds a month) fits the facts, though it assumes the farms will
+      offer again, which the director cannot promise.
+    qualification: Quarterly reports measured against 6,000 pounds a month, plus a
+      named person and a 30-day deadline for the final report, are checkable, but
+      the hedge on poundage gives no target number and no consequence if the gain
+      doesn't come.
+    objections: It meets the late-report concern directly with a named owner and a
+      deadline, and the driver concern with four committed volunteers, but leaves
+      the van's running cost as a bracketed gap.
+    fit: At about 430 words with clear sections, it fits the 500-word narrative format,
+      but it still has two placeholders, including the organisation's name, which
+      the writer could have filled in.

@@ -1,0 +1,25 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-01-11Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Q3 update",
+      "why": "The brief does not state that this is the Q3 update."
+    },
+    {
+      "quote": "multi-site chains are the most likely to consolidate onto one system.",
+      "why": "The brief only states that one 12-clinic chain moved to its records system's scheduler, not that multi-site chains in general are the most likely to consolidate."
+    },
+    {
+      "quote": "against a free built-in option",
+      "why": "The brief states the scheduler is built into the electronic records system, not that it is free."
+    },
+    {
+      "quote": "This lets us sell to clinics that already have a scheduler, including the ones built into their records system, instead of competing with it. The customer we just lost is exactly the kind of clinic this is built for.",
+      "why": "The brief only states that the reminder feature will be sold on its own next month, not that it integrates with or is built for clinics using third-party or built-in records system schedulers."
+    }
+  ],
+  "invented_count": 4
+}

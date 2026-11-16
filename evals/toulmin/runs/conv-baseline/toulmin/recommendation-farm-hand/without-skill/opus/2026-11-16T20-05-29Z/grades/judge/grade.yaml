@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T20:06:05.891280+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 368
+  tags: []
+  notes: extracted 368 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 5
+    honest: 6
+    works_the_facts: 3
+    right_comparison: 3
+    objections: 5
+    fit: 6
+  details:
+    agree: "The 3 a.m. solo shift and the nine early mastitis cases make a sympathetic,\
+      \ believable case, but a committee member reading quickly gets few hard numbers\
+      \ or commitments to set Tom\xE1s apart from 150 applicants."
+    honest: The letter mostly sticks to the facts, but 'seriously ill', 'Nobody required
+      him' and 'enrolled... on his own' go beyond the brief, and putting 'only two
+      shifts' right next to the five-week absence plays down that gap.
+    works_the_facts: 'Nothing is calculated: the letter never turns two missed shifts
+      into roughly 2 of about 780 shifts, and it doesn''t use the vet''s $8,000 savings
+      figure to show what the early catches were worth.'
+    right_comparison: "It doesn't show what sets Tom\xE1s apart from a typical applicant,\
+      \ or how his three-year record compares with ordinary farm workers beyond the\
+      \ general claim that 'that kind of reliability is rare'."
+    qualification: A letter of recommendation doesn't need hedged conditions, and
+      this one has none.
+    objections: The night class partly answers the worry about his written English,
+      but the letter leaves the five-week absence open to doubt when it could have
+      said he arranged his cousin to cover his shifts and came back on the day he
+      promised, and it never mentions the part-time weekend job offer that would support
+      him finishing the program.
+    fit: It's a one-page letter from the farm manager as the brief asked, but placeholders
+      remain for the name, farm and phone number, all of which the user had available.

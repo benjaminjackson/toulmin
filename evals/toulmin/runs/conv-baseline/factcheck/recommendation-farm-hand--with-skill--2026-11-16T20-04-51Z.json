@@ -1,0 +1,33 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-04-51Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I supervise him directly",
+      "why": "The brief states that the writer manages the 400-cow dairy farm where Tomás works, but does not state that the writer is his direct supervisor."
+    },
+    {
+      "quote": "keeps the equipment running",
+      "why": "The brief states that Tomás runs the 3 a.m. milking shift on his own, but does not mention equipment maintenance or keeping equipment running."
+    },
+    {
+      "quote": "When he came back he went straight back to his full schedule.",
+      "why": "The brief and additional facts state that he left for five weeks and returned on the day he said he would, but do not state that he went straight back to his full schedule."
+    },
+    {
+      "quote": "Nobody assigned him this work. He saw what the data could tell him and started using it.",
+      "why": "The brief states that Tomás learned the herd management software and flags sick cows for the vet, but does not state that he did this unassigned or on his own initiative."
+    },
+    {
+      "quote": "Tomás speaks English well",
+      "why": "The brief only states that his written English is weaker than his spoken English, not how well he speaks English."
+    },
+    {
+      "quote": "he learns on his own",
+      "why": "The brief states that he learned the herd management software and is taking a night class for English, not that he learns on his own."
+    }
+  ],
+  "invented_count": 6
+}

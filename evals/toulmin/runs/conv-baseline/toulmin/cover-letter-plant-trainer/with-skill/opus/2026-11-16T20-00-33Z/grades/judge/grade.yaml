@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:01:43.350135+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 375
+  tags: []
+  notes: extracted 375 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 6
+    objections: 4
+    fit: 7
+  details:
+    agree: The candid tone and the 20-to-12-hour redesign make a phone screen plausible,
+      but a skeptical HR manager never sees evidence that this teacher already keeps
+      audit-ready records, so her assumption is only partly shaken.
+    honest: The claims stay within the facts, and the letter rightly drops the unsupported
+      'cut training in half' promise; the line that the newly trained teachers kept
+      'the same safety record' is a mild inference rather than a stated fact.
+    works_the_facts: 'The raw numbers are repeated but never put in their strongest
+      true form: a 40% cut in training time, a 17-point pass-rate gain, about 1,000
+      students trained without a serious injury, and roughly 12 teachers trained since
+      2020.'
+    right_comparison: The AP trend is given, but the real alternative, an experienced
+      GMP trainer, is never set against what this candidate offers, apart from a general
+      claim that teaching novices is the core of the job.
+    qualification: The May 2 course date and the 90-day review are concrete and checkable,
+      but nothing says what happens if they are missed, and the June 14 earliest start
+      date is left out entirely.
+    objections: 'The letter admits she has no GMP record-keeping experience but leaves
+      out the facts that answer that objection: she keeps signed training records
+      for every trainee, and two state audits of them found nothing.'
+    fit: It is a proper one-page cover letter addressed to the named manager, but
+      it keeps name placeholders and omits interview availability and the start date
+      that the application needs.

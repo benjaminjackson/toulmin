@@ -1,0 +1,60 @@
+grader: judge
+graded: '2026-11-16T20:06:10.343598+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 370
+  tags: []
+  notes: extracted 370 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 5
+    honest: 4
+    works_the_facts: 3
+    right_comparison: 4
+    qualification: 4
+    objections: 3
+    fit: 6
+  details:
+    agree: A quick reader gets a warm, specific picture of a reliable early-shift
+      worker who learned the herd software. But the letter has no dollar figure, no
+      promise of continued work and no named farm or person behind it, so it looks
+      like many of the 150 other letters and doesn't stand out.
+    honest: '''Missed two shifts in three years'' and ''one of the most dependable''
+      leave out the 5-week absence with 2 days'' notice, which the brief explicitly
+      excludes from that count. The letter also invents details: ''Nobody required
+      this of him,'' ''nobody else is on the farm,'' and the claim that the cows might
+      be ''lost altogether.'''
+    works_the_facts: 'It leaves out the vet''s $8,000 savings figure. It also misses
+      an easy calculation: 2 missed shifts out of roughly 780 is an attendance rate
+      above 99.7%. The nine mastitis cases are listed with no value attached.'
+    right_comparison: "The only comparison is a general one about early versus late\
+      \ mastitis detection. Nothing shows the committee how Tom\xE1s compares with\
+      \ a typical applicant, or what difference the program would make for him."
+    qualification: The written-English hedge is honest, but the reader has nothing
+      to check it against. The letter gives no class progress or dates and doesn't
+      mention that he passed the written dairy safety test on his second attempt.
+    objections: A careful reader will doubt he can handle written coursework, and
+      the letter answers that only with effort, not results. It hides the summer absence
+      instead of answering it with the facts that he arranged his cousin to cover
+      and came back on the day he promised. It also leaves out the weekend job offer,
+      which answers worries about him managing financially during the program.
+    fit: "It is a one-page letter from the farm manager in the right format. However,\
+      \ it is full of placeholders for the farm name, Tom\xE1s's surname, the manager's\
+      \ name and the phone number, which the user could have supplied."

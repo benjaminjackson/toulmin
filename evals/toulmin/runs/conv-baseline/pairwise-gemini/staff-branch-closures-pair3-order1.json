@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-07-54Z",
+  "without_skill_run": "2026-11-16T20-07-29Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A includes the six-month trial period where we can still keep our severance if we hate the phones, and it promises shift preference based on seniority. Since many of us have been here over ten years and dread call center work, those specific commitments give us a real reason to try the new role instead of leaving immediately."
+}

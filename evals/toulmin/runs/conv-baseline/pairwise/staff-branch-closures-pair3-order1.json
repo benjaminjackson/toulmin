@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-branch-closures",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-07-54Z",
+  "without_skill_run": "2026-11-16T20-07-29Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A gives me concrete dates, says senior staff choose shifts first, lets me leave with severance within six months if the job doesn't suit me, and admits the work is different and that 9-to-5 can't be promised. That makes trying the phone role much less risky. Document B leaves the dates blank, skips the seniority and six-month protections, and offers only a vague \"we'll work with you where we can,\" so I'd be more likely to start looking elsewhere."
+}

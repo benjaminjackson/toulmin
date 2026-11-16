@@ -1,0 +1,49 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-02-19Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The supply boat stops coming in December.",
+      "why": "The brief does not mention a supply boat or December."
+    },
+    {
+      "quote": "Together you ration what's in the stores, keep the lamp burning through storms, and look after each other when the cold and the quiet start to take their toll.",
+      "why": "The brief only says you see a lighthouse keeper's family through a winter, without giving specific gameplay mechanics like rationing stores or keeping the lamp burning through storms."
+    },
+    {
+      "quote": "it works just as well as a quiet solo evening as it does around a full table.",
+      "why": "The brief states the game is for 1 to 4 players, not how well the solo mode works compared to a full table."
+    },
+    {
+      "quote": "I've spent three years making sure this game works before asking anyone to pay for it.",
+      "why": "The brief states playtesting has run since 2023, but does not state how many years the creator has spent working on the game."
+    },
+    {
+      "quote": "from families to veteran gamers",
+      "why": "The brief only says playtesting involved about 60 different people, without describing them as families or veteran gamers."
+    },
+    {
+      "quote": "where strangers sat down, played and told me what they thought",
+      "why": "The brief says the creator took the game to 2 conventions and that ratings came from people who played at the table, not that those players were strangers or gave feedback."
+    },
+    {
+      "quote": "Every one of those sessions changed something. The game you're backing has been reworked again and again, based on what happened when real people played it.",
+      "why": "The brief mentions 140 playtest sessions, but does not say that every session changed something or that the game was repeatedly reworked."
+    },
+    {
+      "quote": "I've built this game in the evenings and on weekends.",
+      "why": "The brief says the creator works full time as a land surveyor, not when they worked on the game."
+    },
+    {
+      "quote": "I'm not a big publisher with a warehouse and a team. I'm one person",
+      "why": "The brief says this is the creator's first published game and campaign, not whether they worked completely alone or have a warehouse."
+    },
+    {
+      "quote": "Crowdfunding is the only way this game gets printed.",
+      "why": "The brief does not state that crowdfunding is the only way the game can be printed."
+    }
+  ],
+  "invented_count": 10
+}

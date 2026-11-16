@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T20:05:09.251223+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 430
+  tags: []
+  notes: extracted 430 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 6
+    objections: 7
+    fit: 9
+  details:
+    agree: The 74-of-112 figure and the point about the June promise make it hard
+      to dismiss the association as a few loud people, but the letter offers nothing
+      in return, such as the weekday-evening meeting or the list of residents who
+      need help on the stairs, and it leaves out the missed dialysis appointments,
+      so a defensive manager has less reason to cooperate than she might.
+    honest: The figures match the brief and the claims about the second elevator are
+      properly hedged, though 'Our members asked us to make this letter public' and
+      the description of what a wheelchair user cannot reach go slightly beyond the
+      facts given.
+    works_the_facts: It derives useful figures (one day in every eight, two households
+      in every three, a six-to-eight-week window that closed in August), but it does
+      not give the August outage its strongest concrete form, the resident who missed
+      two dialysis appointments.
+    right_comparison: The 'if nothing changes' paragraph sets out the status quo the
+      facts show, a repeated estimate and more stretches like August, though it does
+      not put a number on the pace of outages going forward.
+    qualification: The 'if that is so' on the second elevator is apt and checkable,
+      and there is a firm November 30 date, but the letter never says what happens
+      if the date is missed.
+    objections: It meets the passing-certificate defence and the 'few loud people'
+      view with facts, and it handles the cost objection to a second elevator fairly,
+      but it does not address any claim she might make that Keystone has done all
+      it can.
+    fit: It is a properly formatted open letter of roughly 420 words, suited both
+      to posting in the lobby and to sending to the press.

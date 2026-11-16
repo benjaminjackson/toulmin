@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T20:02:02.924272+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 399
+  tags: []
+  notes: extracted 399 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 4
+    honest: 6
+    works_the_facts: 7
+    right_comparison: 5
+    qualification: 3
+    objections: 4
+    fit: 6
+  details:
+    agree: The apology and the 15% underlying-growth framing would help, but this
+      investor was cold after two skipped updates, and the draft still has blanks
+      where the runway plan, the target, the company name and the signature should
+      be, so they would read it as unfinished and not something to back.
+    honest: The numbers check out, but 'That will happen again' states as certain
+      something the founder cannot know, and the line that the competitor 'becomes
+      a way to sell' the feature claims more than the brief supports.
+    works_the_facts: It works out the underlying rise from $35,500 to $41,000 (15%),
+      the chain's 13% share of revenue, about 11 months of runway, the near-halving
+      of no-shows and the 37 reminder clinics needed to replace the chain, but it
+      does not compare that 37 with the 6 clinics already committed or show the pace
+      needed.
+    right_comparison: 'It shows that the flat headline hides growth, but it leaves
+      out what happens if nothing changes: the $3,800 a month from two customers on
+      the same records system is not named, and the runway section stops at a placeholder.'
+    qualification: Promising to 'report the actual number either way' is the right
+      kind of hedge, but the target is still [X], no date is given, and there is no
+      stated consequence if the target is missed because the runway plan is blank.
+    objections: It apologises for the missed updates, but it doesn't say why they
+      were skipped, doesn't commit to a date (January 7) or offer the monthly numbers
+      sheet, and doesn't answer how the 11-month runway will be handled, which are
+      the things a doubtful lead investor would ask.
+    fit: It is the right form and comes in under 500 words, but it can't be sent to
+      11 investors with four placeholders left in, and it drops the ask for a 20-minute
+      call.

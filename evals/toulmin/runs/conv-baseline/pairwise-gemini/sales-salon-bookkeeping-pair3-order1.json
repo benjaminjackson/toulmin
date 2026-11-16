@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-06-46Z",
+  "without_skill_run": "2026-11-16T20-06-39Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both documents only use the initial brief and miss the crucial facts that would actually get me to book—namely that I wouldn't have to fire my cousin at tax time, and that she used to manage a salon herself. Between the two, Document A wins slightly because mentioning tips, commission, retail product, and the post-holiday slump makes me feel like she actually knows my business, whereas Document B relies on generic 'sorting receipts at midnight' clichés."
+}

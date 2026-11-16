@@ -1,0 +1,29 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-01-04Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "That's across seven years",
+      "why": "The brief says the lab safety program was written in 2019, and does not give a current year from which 'seven years' can be calculated."
+    },
+    {
+      "quote": "most of them handling chemicals for the first time.",
+      "why": "The brief does not mention whether the applicant's students have handled chemicals before."
+    },
+    {
+      "quote": "These are experienced professionals who are new to our lab, and they need to be working safely and independently within days.",
+      "why": "The brief only calls them 'new science teachers' and says nothing about whether they have prior professional experience or how many days they have to begin working independently."
+    },
+    {
+      "quote": "I got there by tracking where students struggled and changing what I taught to fix it.",
+      "why": "The brief gives the AP Chemistry pass rate increase from 41% to 58% but does not explain what caused it or what methods the teacher used."
+    },
+    {
+      "quote": "What I do have is nine years of reading regulations, writing procedures, and learning new classroom systems on my own",
+      "why": "The brief does not state that the applicant spent nine years reading regulations or learning multiple classroom systems on their own (it only mentions using Google Classroom and writing the lab safety program in 2019)."
+    }
+  ],
+  "invented_count": 5
+}

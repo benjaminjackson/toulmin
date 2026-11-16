@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-03-03Z",
+  "without_skill_run": "2026-11-16T20-04-00Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly challenges my assumption that the renovation drove the score increase by pointing out the 7.9 to 8.2 rise that happened before construction even started. It also eases my concerns about the $1.1M budget and the outside candidate by showing she has already kept overtime under plan for seven weeks and has arranged weekly mentoring with our controller, Ben."
+}

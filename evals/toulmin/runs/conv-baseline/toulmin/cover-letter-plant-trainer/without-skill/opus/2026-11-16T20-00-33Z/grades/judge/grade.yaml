@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T20:01:04.391885+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 362
+  tags: []
+  notes: extracted 362 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 4
+    honest: 8
+    works_the_facts: 3
+    right_comparison: 3
+    qualification: 2
+    objections: 3
+    fit: 6
+  details:
+    agree: 'A skeptical HR manager would read this as a standard teacher-to-trainer
+      letter: it admits the GMP gap, never shows the signed, state-audited training
+      records, and so gives her little reason to make the phone call.'
+    honest: The letter rightly drops the unsupported 'cut training in half' claim
+      and invents no numbers, though phrases like 'training that sticks' and 'expect
+      to learn both quickly' stretch a little past the evidence.
+    works_the_facts: 'It gives the raw figures but never puts them in their strongest
+      form: the 20-to-12-hour redesign (a 40% cut, which is the honest replacement
+      for the half-time claim) is left out, and so is the 17-point (about 41% relative)
+      rise in the AP pass rate.'
+    right_comparison: The 12-hour teacher training appears without the 20-hour program
+      it replaced, so the reader sees no before-and-after and no proof the writer
+      has already shortened onboarding.
+    qualification: The GMP gap is hedged with a vague 'expect to learn quickly' when
+      there was a checkable fact to use (the GMP course finishing May 2), and the
+      June 14 earliest start date, which the reader needs, is left out.
+    objections: The letter raises the reader's main doubt, no regulated-plant experience,
+      and leaves it unanswered, even though the signed training records, the two clean
+      state audits and the GMP course in progress would have met it directly.
+    fit: It is a one-page cover letter as requested, but it is still full of placeholders
+      even though the name, company, plant and HR manager (Karen Doyle) were all known.

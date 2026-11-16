@@ -1,0 +1,17 @@
+{
+  "task": "negotiation-illustration-rate",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-03-03Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "For context, last year another publisher paid me $12,500 for a 32-page book of the same scope.",
+      "why": "The brief says the other publisher's book was 'of the same length' (32 pages), not that it was 'of the same scope' (such as also having about 14 full spreads)."
+    },
+    {
+      "quote": "Each of these books takes me about four months of full-time work.",
+      "why": "The brief states that each book takes about 4 months, not that it requires 4 months of 'full-time work'."
+    }
+  ],
+  "invented_count": 2
+}

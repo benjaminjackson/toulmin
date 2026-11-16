@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-04-51Z",
+  "without_skill_run": "2026-11-16T20-04-59Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B turns the five-week leave into evidence that he handles setbacks and comes back to finish the job, which speaks directly to whether he will complete the program. Otherwise the two letters are close in specifics and candor, and each adds small unsupported details (B: 'when we brought in' the software; A: 'nobody assigned him this work')."
+}

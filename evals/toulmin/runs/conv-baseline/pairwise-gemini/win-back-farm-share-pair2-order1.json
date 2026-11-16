@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-06-52Z",
+  "without_skill_run": "2026-11-16T20-06-51Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A explicitly acknowledges that we paid for full boxes and promises better communication in the future if things go wrong again, directly addressing our frustration that the farm went quiet after the storm. Document B only invites us to reply now rather than committing to better updates during the season."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-02-55Z",
+  "without_skill_run": "2026-11-16T20-01-37Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A stands out because the applicant addresses my biggest concern about teachers—whether they understand regulatory compliance—by citing two clean state audits of her signed training records and noting she is already taking a GMP course. She also gives a concrete example of cutting adult training time from 20 hours to 12 without hurting safety, whereas Document B relies on generic promises about keeping careful records."
+}

@@ -1,0 +1,43 @@
+I've drafted a statement of about 340 words, which comes to roughly 2½ minutes read aloud. That leaves you some room for nerves or applause.
+
+**How the argument is built:**
+- **What you're asking:** approve the 64 apartments.
+- **Who decides:** the commissioners, not the neighbors who oppose it. They have to weigh traffic and parking against the housing need, so the speech gives them both sides with real numbers.
+- **The main point:** if a project houses a lot of people who need homes and the cost to the neighborhood is small, it should be approved.
+- **Objections:** you take on traffic and parking first. You live two blocks away and drive through that intersection, so you can say the cost is real and that you'll share it. That's the strongest thing you bring to the podium.
+- **Figures I worked out from your facts:**
+  - 64 homes is about one in six of the 412 households on the waiting list.
+  - 72 spaces for 64 units is more than one per home, with 8 to spare.
+- **If they say no:** the lot stays empty, the shortage stays at 2,100, and 412 households keep waiting. The speech says this out loud.
+
+<final_document>
+Good evening, Commissioners. My name is [NAME]. I've lived on Alder Road for 19 years, two blocks from [CHURCH NAME]. I'm also a member of that church, so I'll say that up front. I'm here to ask you to approve the 64 apartments on its back lot.
+
+I want to start with what neighbors are worried about, because I'm one of those neighbors.
+
+The traffic study says this adds about 310 car trips a day on Alder, and that Alder and 4th drops from a C to a D at rush hour. I drive through that intersection. I'll be sitting in that slower line with everyone else. It means a longer wait at a light during rush hour. It's a D, not a failing grade. I'd support the commission asking the county to review the signal timing at Alder and 4th as part of this approval.
+
+On parking: the plan has 72 spaces for 64 apartments. Every household gets a space on site, with eight to spare.
+
+Now the other side of the ledger.
+
+The county's own housing report says we are short about 2,100 affordable homes. Today, 412 households are on the housing authority's waiting list. The average wait is three years. Three years.
+
+This project would house 64 of those households. That's about one in every six families on that list right now.
+
+And it does that on land that isn't being used. That lot is 1.8 acres of pavement that sits empty six days a week. No homes come down, and no one is pushed out.
+
+So here is the trade. On one side, a slower rush hour at one intersection, and I'll be sharing it. On the other, 64 families getting off a three-year waiting list.
+
+If this is turned down, nothing changes. The lot stays empty, the county stays 2,100 homes short, and those 412 households keep waiting.
+
+I've watched this neighborhood for 19 years. I'd like it to be a place that made room. Please approve this project.
+
+Thank you.
+</final_document>
+
+**Before tonight:**
+1. **Fill in** your name and the church's name.
+2. **Check the "D, not a failing grade" line.** On the usual traffic grading scale, F is failing and D still counts as working. But some counties set their own minimum grade. If your county's minimum is C, cut that sentence and keep the signal-timing line.
+3. **The signal-timing line is my addition**, not something from the project plan. It's worded as your suggestion, so it's accurate either way. Cut it if you'd rather not propose anything.
+4. **Expect a question about Sunday parking.** If the apartments go on the back lot, where will Sunday worshippers park? I don't know the answer, and the speech doesn't raise it. It's worth knowing before you go up.

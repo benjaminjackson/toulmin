@@ -1,0 +1,13 @@
+{
+  "task": "grant-refrigerated-van",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-02-05Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "This would be the Foundation's second investment in our work, following its $12,000 grant for shelving in 2023.",
+      "why": "The brief mentions a 2023 grant from the foundation, but does not state that it was the foundation's only prior grant or that this application would be its second investment."
+    }
+  ],
+  "invented_count": 1
+}

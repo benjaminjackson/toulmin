@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-05-55Z",
+  "without_skill_run": "2026-11-16T20-06-07Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document B immediately hooks me by mentioning the exact headaches I deal with—booth rent, commission splits, and separating retail sales tax from services—which my cousin doesn't really understand. It also explains that I'd still use my cousin at tax time with cleaner books, whereas Document A makes a weird point about raising prices on loyal clients and focuses on saving $800 on an accountant when I only pay $600 total."
+}

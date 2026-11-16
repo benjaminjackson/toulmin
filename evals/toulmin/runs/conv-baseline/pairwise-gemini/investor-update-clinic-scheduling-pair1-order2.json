@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-01-04Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A is a complete email that connects the lost customer directly to the strategic pivot, outlines clear metrics to watch (including cannibalization risks), and invites me to get on a call. Document B leaves critical sections like the runway plan as unedited bracketed placeholders and makes a flawed math claim by ignoring the three other churned clinics when calculating growth."
+}

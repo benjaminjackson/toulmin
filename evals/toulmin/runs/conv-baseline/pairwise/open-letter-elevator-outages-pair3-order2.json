@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-05-09Z",
+  "without_skill_run": "2026-11-16T20-04-20Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is addressed to me by name and points out that the June promise of 'six to eight weeks' would have meant mid-August at the latest, yet it is November and I'm hearing the same thing. That makes it hard for me to dismiss the letter as a few loud people. Its specific asks (a written date, a stair chair with trained staff, a rent credit) are concrete things I can act on, while A's placeholders and general requests are easier to brush off."
+}

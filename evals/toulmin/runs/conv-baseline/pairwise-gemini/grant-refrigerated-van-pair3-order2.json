@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-03-29Z",
+  "without_skill_run": "2026-11-16T20-02-05Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses my biggest hesitation—the four-month-late report from 2023—by naming a specific person responsible and offering quarterly check-ins, and it backs up the farm partnerships with attached letters. While Document B still has a couple of bracketed placeholders to fill in, Document A completely ignores the past reporting failure and ongoing operating costs, which would prevent me from recommending a $50,000 grant to the committee."
+}

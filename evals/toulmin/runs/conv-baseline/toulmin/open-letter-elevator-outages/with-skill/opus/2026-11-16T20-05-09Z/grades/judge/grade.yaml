@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:06:16.706623+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 430
+  tags: []
+  notes: extracted 430 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 5
+    honest: 6
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 4
+    objections: 7
+    fit: 6
+  details:
+    agree: The calm, factual tone and the repeated six-to-eight-week promise would
+      make a defensive manager pause, but the letter leaves out the missed dialysis
+      appointments, offers no meeting, and doesn't mention the association's stair-assistance
+      list, so it reads as a list of demands to be answered rather than an invitation
+      to work together.
+    honest: Most figures hold up, but 'mid-August at the latest' assumes the June
+      promise came early in the month, and the fourth demand for an engineering assessment
+      is the writer's addition, not something the association asked for.
+    works_the_facts: The letter turns the raw numbers into useful forms, such as 'one
+      day in every eight', 'two-thirds of the building' and 'about four days a month',
+      but it leaves out the dialysis appointments, the most powerful fact available.
+    right_comparison: The status quo is projected fairly as about four outage days
+      a month with residents stuck at home, though nothing shows whether outages are
+      getting more or less frequent.
+    qualification: '''If a second elevator is truly not possible'' is a fair hedge,
+      but the letter gives no deadline for a response and no consequence if the repair
+      date is missed, so the reader has nothing concrete to check.'
+    objections: The letter answers the 'few loud people' view with 74 of 112 households,
+      the 'we've handled it' view with the repeated promise, and the inspection certificate
+      directly, and it doesn't raise objections the facts already settle.
+    fit: It works as an open letter for the lobby and the press, but at roughly 470
+      words it runs over the 400 asked for, and it carries no date.

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-03-34Z",
+  "without_skill_run": "2026-11-16T20-02-19Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone burned by a failed campaign before, Document A wins me over because it confirms the art and rules are 100% finished, gives a realistic delivery date, and explicitly does the math on how 572 backers covers printing, shipping, fees, and a buffer. Document B leaves out the completion status and delivery timeline while making up gameplay details and includes unfinished template placeholders."
+}

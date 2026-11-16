@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-06-52Z",
+  "without_skill_run": "2026-11-16T20-06-53Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B speaks to us directly. It names the hard parts plainly (no 9-to-5, phone work is different) and gives firm commitments: offers by Feb 14, decision by March 1, senior staff choose shifts first, and an HR meeting. Document A is full of placeholders where those answers should be, and it is partly addressed to the other branches."
+}

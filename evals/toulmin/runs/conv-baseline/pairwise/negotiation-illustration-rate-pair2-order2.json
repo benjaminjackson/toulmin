@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-02-43Z",
+  "without_skill_run": "2026-11-16T20-03-03Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both are honest and avoid the unsupported claim that every publisher pays $12,000. B makes the gap more concrete: $9,000 is $2,000 below the bottom of the normal range, and $11,500 is still $1,000 less than she was paid elsewhere last year, which makes the request feel restrained. The monthly breakdown is a bit pointed, but overall B is the stronger case for paying more than the $8,000 alternative."
+}

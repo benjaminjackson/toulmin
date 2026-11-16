@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T20:04:05.985734+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 360
+  tags: []
+  notes: extracted 360 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 7
+    qualification: 6
+    objections: 7
+    fit: 7
+  details:
+    agree: The audited signed records, the 20-to-12-hour cut with no loss in safety
+      and the upfront GMP gap would likely earn a phone screen from a doubtful HR
+      manager, but the line saying teaching is 'the same job in a different building'
+      is likely to put that reader off.
+    honest: The letter drops the unsupported 'cut your training in half' claim and
+      every figure matches the facts, but 'the same job in a different building' and
+      'I measure whether my training works,' backed only by AP pass rates, claim more
+      than the facts show.
+    works_the_facts: 'It gives the raw numbers but never states their strongest true
+      form: the 40% cut in training time, the 17-point pass-rate gain, or the hours
+      saved and roughly 1,260 students taught over nine years.'
+    right_comparison: The before-and-after figures (20 to 12 hours, 41% to 58%) and
+      seven years without a serious injury are described accurately, though nothing
+      says what the injury record was before the 2019 program.
+    qualification: The GMP course has a checkable end date of May 2, but the promise
+      to learn the LMS 'in my first week' and the 90-day plan come with no measure
+      or consequence, and the June 14 start date that limits her availability is left
+      out.
+    objections: It answers the GMP-records and regulated-industry objections well
+      with the state audits and the enrolled course, but it doesn't say when she could
+      start (June 14) or when she's free to interview, both of which a screener would
+      need to know.
+    fit: It is a one-page cover letter in the right form, but it leaves placeholders
+      for her name and contact details even though her name was known, and the closing
+      omits her interview availability.

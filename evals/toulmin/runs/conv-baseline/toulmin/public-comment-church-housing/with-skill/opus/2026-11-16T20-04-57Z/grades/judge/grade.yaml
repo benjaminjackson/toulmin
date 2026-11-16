@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T20:05:35.119413+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 383
+  tags: []
+  notes: extracted 383 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 4
+    honest: 5
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 2
+    objections: 3
+    fit: 6
+  details:
+    agree: The two commissioners focused on traffic hear only that a D grade is a
+      'slower light,' and nobody tells them the builder will pay for a signal that
+      keeps the intersection at C, so the doubters get little reason to change their
+      votes.
+    honest: 'The speech makes claims the facts don''t support: ''won''t be parking
+      up and down our street,'' ''don''t have to clear anything or bring in new roads,''
+      and ''a little slower'' all go further than the evidence, and it never mentions
+      the existing 8am backups or the 20 months of construction trucks.'
+    works_the_facts: It works out a useful figure (the 64 units would cover about
+      one in six of the families on the waiting list) and notes the eight extra parking
+      spaces, but it leaves out the 2,100-home shortfall in proportion and the signal's
+      effect on the C rating.
+    right_comparison: It says the alternative is an empty lot and an unchanged waiting
+      list, but it assumes the list stays at 412 without any trend data, and it compares
+      against an unmitigated D rather than a D versus a C with the signal.
+    qualification: The only condition offered is a vague 'signal-timing review' with
+      no date, number or consequence, when the specific condition available was a
+      builder-funded signal that keeps the intersection at C.
+    objections: It names the traffic objection but answers it by playing it down instead
+      of with the signal, and it leaves out construction disruption and the weekday
+      parking and neighbour-group commitments that would speak to the opponents in
+      the room.
+    fit: It is the right form for public comment and roughly fits three minutes at
+      about 430 words, but it still has [Name] and [Church Name] placeholders even
+      though the user gave both names.

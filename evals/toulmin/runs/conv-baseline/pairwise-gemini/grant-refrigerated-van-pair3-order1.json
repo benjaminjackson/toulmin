@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-03-29Z",
+  "without_skill_run": "2026-11-16T20-02-05Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "After spending four months chasing their last report, I need to see that they've fixed their reporting problem before I recommend stepping up from a $12,000 grant to $50,000. Document A owns the late report directly, names the person now responsible, and includes crucial details like farm commitment letters and ongoing operating costs that Document B completely ignores."
+}

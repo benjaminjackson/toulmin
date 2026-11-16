@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-03-29Z",
+  "without_skill_run": "2026-11-16T20-03-30Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B makes the same honest case in a warmer, more collaborative tone, and its line that the fee would let her keep doing these books quietly signals what is at stake. A's per-month arithmetic reads a little like a guilt trip, and it is signed with the wrong name ('Ben'), which would confuse me as the editor."
+}

@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T20:04:59.561517+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 437
+  tags: []
+  notes: extracted 437 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 5
+    honest: 6
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 3
+    objections: 5
+    fit: 7
+  details:
+    agree: The backer math and the plain tone would reassure a wary backer a little,
+      but this reader has lost $85 before and would look for a refund promise and
+      an update schedule, and the pitch offers neither, so they might well hold off.
+    honest: Dropping 'proven hit' was right and the numbers are accurate, but 'nobody
+      sits down for a second and third game of something they didn't enjoy' reads
+      voluntary replays into playtest counts, and the pitch calls the 23 ratings honest
+      without saying most came from people who played at the creator's own convention
+      table.
+    works_the_facts: The 572 backers and the $22,548 cost at goal are worked out correctly,
+      but the roughly 10% fees (about $2,800) are left vague, and the pitch never
+      compares the 1,240 sign-ups with the 572 backers needed, which is the strongest
+      fact it has.
+    right_comparison: The pitch never compares this campaign with the risky first-time
+      projects the reader has backed, for example by setting the finished art, the
+      signed quote and the costed budget against what usually goes wrong.
+    qualification: It names November 2027 as the delivery date but gives no consequence
+      if that date is missed, and leaves out both the refund for delivery more than
+      three months late and the update every two weeks.
+    objections: It takes on the 'will you deliver?' question head-on, but it doesn't
+      use the strongest answers available (refund, regular updates, the signed quote,
+      the launch-week review), and it leaves the question of where the ratings came
+      from hanging.
+    fit: It is a pitch of about 500 words with sensible sections, but it never names
+      the game, the creator or the campaign dates.

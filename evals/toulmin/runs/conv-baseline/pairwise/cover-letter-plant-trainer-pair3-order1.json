@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-02-55Z",
+  "without_skill_run": "2026-11-16T20-01-37Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A answers my main doubt about regulated plants with concrete evidence: signed training records that passed two state audits, an enrolled GMP course, and a cut in training time from 20 hours to 12. B only claims the right habits, and its unfilled placeholders make it look generic."
+}

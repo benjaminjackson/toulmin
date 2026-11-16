@@ -1,0 +1,25 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-05-09Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "That is about one day in every eight.",
+      "why": "The brief states the elevator was out of service on 41 days this year and mentions events through September, but does not state how many days of the year have elapsed to calculate a one-in-eight rate."
+    },
+    {
+      "quote": "It is now November, and we are being told the same thing: six to eight weeks.",
+      "why": "Neither the brief nor the user's additional information states that the current month is November."
+    },
+    {
+      "quote": "But a decision that leaves our oldest and least mobile neighbors dependent on one unreliable elevator needs more than a one-line answer.",
+      "why": "The brief states what management said about the cost and feasibility of a second elevator, but does not say management gave only a one-line answer."
+    },
+    {
+      "quote": "If nothing changes, this year's record means residents should expect the elevator to be down about four days a month.",
+      "why": "Because the brief does not give the current date, a rate of about four days a month cannot be worked out by arithmetic from the 41 outage days this year."
+    }
+  ],
+  "invented_count": 4
+}

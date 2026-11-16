@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T20:03:34.261736+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 428
+  tags: []
+  notes: extracted 428 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 5
+    honest: 5
+    works_the_facts: 5
+    right_comparison: 3
+    qualification: 3
+    objections: 4
+    fit: 6
+  details:
+    agree: The candid first-timer section and line-by-line budget would reassure this
+      wary backer somewhat, but there is no refund promise, no fixed update schedule
+      and not even the game's name, so someone who has already lost $85 is given little
+      reason to trust it.
+    honest: It doesn't say the 8.1 rating came mostly from people who played at the
+      creator's own convention table, it makes up 'each session showed me something
+      to fix', it calls the numbers checkable although shipping is approximate, and
+      it says without support that 'most games' ask you to trust a prototype.
+    works_the_facts: The 572 backers needed against 1,240 sign-ups is a sound, favourable
+      calculation, and the budget split matches 10% fees, but the line that 1,500
+      copies is 'far more than the goal requires' is muddled, and the finished art
+      and rules, the signed quote and the reviewer's launch-week video are all left
+      out.
+    right_comparison: The only comparison is an unsupported claim about 'most games
+      on this platform', and the backer's real alternatives, which are not pledging
+      or waiting for a retail copy, are never described.
+    qualification: It gives a November 2027 delivery date but no consequence if that
+      date is missed (the available refund after three months late is left out), and
+      it promises updates 'at every stage' instead of the fortnightly schedule the
+      creator can commit to.
+    objections: It names the first-time-creator worry directly, but it answers it
+      with a comparison to surveying instead of the refund guarantee and regular updates
+      that actually address the fear of a project that never ships.
+    fit: At about 500 words it is the right length and format for a pitch, but it
+      never names the game (Lantern Winter) or the creator.

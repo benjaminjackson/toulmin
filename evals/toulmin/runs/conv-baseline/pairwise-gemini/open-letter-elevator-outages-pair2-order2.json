@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-03-52Z",
+  "without_skill_run": "2026-11-16T20-03-40Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B addresses me and Keystone directly and explicitly states that the letter is going to local news media, which forces me to take it seriously as a PR threat. However, Document A's offer to meet and its more practical requests—unlike Document B's non-starter demands for rent credits and a staffed stair-climbing chair—make me slightly more inclined to actually work with the association."
+}

@@ -1,0 +1,63 @@
+task:
+  name: open-letter-elevator-outages
+  type: open-letter
+  set: tune
+  reader: The regional manager of the property management company, who will read the
+    letter and decide what to do about the elevator. She believes the company has
+    handled the outages well and that the tenants' association is a few loud people.
+  prompt: 'I need help with an open letter from our tenants'' association to our property
+    management company. We plan to post it in the lobby and send it to the local TV
+    station. I''m the association''s secretary.
+
+
+    Facts:
+
+    - Our building has 9 stories, 112 apartments and one elevator.
+
+    - The elevator was out of service on 41 days this year, including one stretch
+    of 12 days in August.
+
+    - 23 of our residents are over 75, and 6 use wheelchairs or walkers.
+
+    - The management company says a new controller part is on order and should arrive
+    in 6 to 8 weeks. They said the same thing in June.
+
+    - The city inspected the elevator in September and gave it a passing certificate.
+
+    - 74 households signed our petition asking for a second elevator. Management says
+    that would cost about $400,000 and can''t be done in this building.
+
+
+    About 400 words.'
+  user_knows: '- The building is Harbor View Apartments, 220 Grant Street. The management
+    company is Keystone Property Group, and the regional manager is Diane Weller.
+    I''m Rosa Delgado.
+
+    - We post the letter in the lobby on the 1st of next month. A reporter at Channel
+    7 said she would come if we do.
+
+    - During the 12-day outage in August, a resident on the 8th floor missed two dialysis
+    appointments.
+
+    - The city inspection checks that the elevator is safe. It does not look at how
+    often it breaks down.
+
+    - We have no engineer''s opinion on a second elevator. Management may be right
+    that it can''t be done.
+
+    - What we want: a written date for the repair, a stair-climbing chair and trained
+    staff for residents who can''t walk the stairs, and a rent credit for outage days.
+
+    - The association can commit to meeting management on any weekday evening.
+
+    - The association can commit to keeping a list of residents who need help on the
+    stairs and sharing it with management for emergencies.
+
+    - We cannot speak for all 112 households. 74 signed.'
+config:
+  name: with-skill
+  runner: /Users/ben/github/toulmin/evals/toulmin/run-with-skill
+  model: opus
+started: '2026-11-16T20:03:52.498585+00:00'
+duration_seconds: 62.6
+exit_code: 0

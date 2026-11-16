@@ -1,0 +1,63 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+The five members of the county planning commission, who vote tonight on the permit, and the 60 or so neighbours in the room. Most of the neighbours oppose the project, and two commissioners have said at earlier hearings that traffic on Alder Road is their main concern.
+</reader>
+
+<brief>
+I'm going to speak at our county planning commission tonight in favor of a housing project, and I want help writing what I'll say. The church I belong to wants to build 64 apartments on its back parking lot. All of them would rent to households earning under 60% of the area median income.
+
+Facts:
+- The church lot is 1.8 acres and sits empty 6 days a week.
+- The county's own housing report says we are short about 2,100 affordable homes.
+- The traffic study estimates 310 more car trips a day on Alder Road, and says the intersection at Alder and 4th would drop from a C rating to a D at rush hour.
+- The plan has 72 parking spaces for the 64 units.
+- 412 households are on the county housing authority's waiting list. The average wait is 3 years.
+- I've lived on Alder Road for 19 years, two blocks from the church.
+
+Each speaker gets 3 minutes.
+</brief>
+
+The user also knew the following and gave some of it to the writer when asked:
+<user_knows>
+- I'm Margaret Shaw. The church is St. Luke's Lutheran. The builder is a nonprofit, Cascade Housing Partners.
+- The builder has offered to pay for a traffic signal at Alder and 4th. The traffic study says that keeps the intersection at C.
+- Building would take about 20 months, with trucks on Alder Road.
+- Some mornings around 8, traffic on Alder already backs up past my house.
+- The church can commit, and has put in writing, that neighbors can use the lot for parking on weekdays when there is space.
+- I can commit to serving on the neighbor group the church has promised to set up during construction.
+- I cannot promise traffic will not get worse.
+- What I want tonight: approval of the permit, with the traffic signal as a condition.
+</user_knows>
+
+<document>
+Good evening, Commissioners. My name is [Name], and I've lived on Alder Road for 19 years, two blocks from [Church Name]. I'm also a member of that church, and I want to say so up front. I'm here as both a neighbor and a member, and I'm asking you to approve these 64 apartments.
+
+Your own housing report says this county is about 2,100 affordable homes short. Right now, 412 households are on the housing authority's waiting list, and on average they wait three years. Every one of these 64 apartments would rent to a household earning under 60 percent of the area median income. That's enough homes for about one in six of the families on that list.
+
+The land is already there. It's a 1.8-acre parking lot that sits empty six days a week. We don't have to clear anything or bring in new roads. We'd just be putting homes on blacktop that mostly stores nothing.
+
+I know traffic is the main worry, and I take it seriously, because I'm the one who lives on Alder Road. The county's traffic study estimates 310 more car trips a day, and it says the Alder and 4th intersection would drop from a C to a D at rush hour. I drive through that intersection every day, and I've thought about what that means. It means a slower light at rush hour. It does not mean a failing intersection. If the commission wants to soften it further, I'd ask you to make a signal-timing review at Alder and 4th a condition of approval.
+
+On parking, the plan has 72 spaces for 64 units, so every apartment gets a space and there are eight left over. These residents won't be parking up and down our street.
+
+So here's the trade as I see it. On one side, my commute gets a little slower at rush hour. On the other side, 64 households get a home they can afford, after a wait that averages three years. I'll take that trade, and I'm the neighbor who has to live with it.
+
+If you say no tonight, nothing really changes, and that's the problem. The lot stays empty six days a week, and the list stays at 412 families and three years.
+
+Please approve this project. Thank you.
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

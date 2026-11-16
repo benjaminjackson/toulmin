@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-06-52Z",
+  "without_skill_run": "2026-11-16T20-06-53Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A speaks directly to us. It names what's hard (no 9-to-5, phone work is different) and gives firm commitments: senior staff choose shifts first, written offers by Feb 14, a decision due March 1, and an HR one-on-one. B is full of [DATE] placeholders and partly speaks to the other branches, so it reads as less settled and less trustworthy."
+}

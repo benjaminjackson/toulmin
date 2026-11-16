@@ -1,0 +1,33 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-04-57Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "We don't have to clear anything or bring in new roads.",
+      "why": "The brief does not state whether clearing or building new roads will be required for the project."
+    },
+    {
+      "quote": "We'd just be putting homes on blacktop that mostly stores nothing.",
+      "why": "The brief does not state that the parking lot is surfaced with blacktop."
+    },
+    {
+      "quote": "The county's traffic study estimates 310 more car trips a day",
+      "why": "The brief mentions \"the traffic study\" but does not state that it was conducted by the county."
+    },
+    {
+      "quote": "I drive through that intersection every day",
+      "why": "The brief does not state that the speaker drives through the intersection at Alder and 4th every day."
+    },
+    {
+      "quote": "It means a slower light at rush hour.",
+      "why": "The brief does not say there is currently a traffic light at Alder and 4th, and the user's background notes show the intersection does not have a traffic signal yet."
+    },
+    {
+      "quote": "On one side, my commute gets a little slower at rush hour.",
+      "why": "The brief does not state that the speaker has a rush-hour commute."
+    }
+  ],
+  "invented_count": 6
+}

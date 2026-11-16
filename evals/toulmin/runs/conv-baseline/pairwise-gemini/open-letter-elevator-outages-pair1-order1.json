@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-02-37Z",
+  "without_skill_run": "2026-11-16T20-03-02Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A drops the impossible demand for a second elevator and instead makes specific, actionable requests while offering practical help from the association, like maintaining an emergency mobility list. Document B's demand that we pay to commission an engineering study for a $400,000 structural project just confirms my belief that the association is unreasonable."
+}

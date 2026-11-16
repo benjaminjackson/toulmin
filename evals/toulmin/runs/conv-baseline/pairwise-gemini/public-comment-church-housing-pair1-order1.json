@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-04-06Z",
+  "without_skill_run": "2026-11-16T20-04-19Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is much more honest and effective because the speaker upfront discloses her membership in the church, whereas Document B hides that affiliation and makes up unsupported claims about who will live there and where they shop. Document A also shows greater respect for the hostile neighbors by speaking only for her own willingness to endure traffic, rather than presumptuously claiming 'my neighbors and I can handle' it."
+}

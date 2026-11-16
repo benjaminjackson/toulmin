@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-01-04Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A quantifies the exact math I care about—showing 15% underlying growth and that it takes 37 reminder customers to replace the lost chain—and pushes the founder to state a hard target and runway plan rather than kicking the decision down the road like Document B does. However, both emails fail to explain *why* the founder went dark for six months or give a concrete date for the next update, which only partially rebuilds my trust."
+}

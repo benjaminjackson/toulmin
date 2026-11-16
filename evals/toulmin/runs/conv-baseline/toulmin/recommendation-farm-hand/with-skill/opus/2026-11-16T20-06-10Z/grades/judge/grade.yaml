@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T20:06:44.144954+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 344
+  tags: []
+  notes: extracted 344 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 3
+    right_comparison: 4
+    objections: 5
+    fit: 5
+  details:
+    agree: The 3 a.m. solo shift, two missed shifts and nine early mastitis catches
+      make a believable case, but bracket placeholders and no concrete payoff or support
+      plan leave a quick reader with no strong reason to rank this letter above the
+      other 149.
+    honest: No numbers are invented, and the claims stay close to the brief, though
+      'does it right' and 'one of the most dependable people on my crew' go a little
+      past the facts given.
+    works_the_facts: 'The facts are listed but not worked: it doesn''t turn two missed
+      shifts into roughly 2 of about 780, and it leaves out the $8,000 the vet said
+      early detection saved, using the vague ''makes a real difference'' in its place.'
+    right_comparison: The only comparison is the loose 'practical experience that
+      many students won't have', with nothing specific setting him against a typical
+      applicant.
+    qualification: A reference letter doesn't need hedged conditions, and the document
+      doesn't depend on any.
+    objections: It handles the written-English worry well with the night class, but
+      it raises the five-week absence without the facts that answer it (his cousin
+      covered his shifts and he returned on the promised date), and it leaves out
+      the part-time weekend job that would answer whether he'll finish the program.
+    fit: The length and letter format are right for one page, but the farm name, his
+      surname, the manager's name, the phone number and the date are all left as brackets
+      even though the user had given them.

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-00-33Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is addressed to me by name and plant. It shows a real training cut, from 20 hours to 12, and it handles the GMP gap with a course she's already enrolled in and a 90-day plan, all without overpromising. A is generic and only says she'd 'learn quickly', which is exactly the teacher-applicant pattern I'm wary of."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-01-43Z",
+  "without_skill_run": "2026-11-16T20-01-04Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A is addressed to me by name and shows real steps toward GMP: a course ending May 2 and cutting training from 20 to 12 hours without losing safety. B has unfilled placeholders and only promises to learn GMP, which confirms my doubts about teachers."
+}

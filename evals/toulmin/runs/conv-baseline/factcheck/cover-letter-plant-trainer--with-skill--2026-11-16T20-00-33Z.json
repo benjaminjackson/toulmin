@@ -1,0 +1,21 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-00-33Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "In the seven years since, our labs have not had a single injury that needed more than first aid.",
+      "why": "The brief states the program was written in 2019, and does not provide the current year to calculate that seven years have passed since then."
+    },
+    {
+      "quote": "most of them handling chemicals for the first time.",
+      "why": "Neither the brief nor the user's background information states whether the students had handled chemicals before."
+    },
+    {
+      "quote": "I use Google Classroom every day",
+      "why": "The brief only states that the applicant uses Google Classroom, not that she uses it every day."
+    }
+  ],
+  "invented_count": 3
+}

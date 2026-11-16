@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-06-10Z",
+  "without_skill_run": "2026-11-16T20-06-05Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters are very similar and persuasive, but Document B claims that nobody required him to learn the software in depth and that he works on his English without being asked, which slightly invents facts not in the brief. Document A stays strictly honest to the provided facts while making the same strong points—especially the line about putting the data and the animals together."
+}

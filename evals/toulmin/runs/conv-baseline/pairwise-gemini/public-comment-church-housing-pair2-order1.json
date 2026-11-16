@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-04-57Z",
+  "without_skill_run": "2026-11-16T20-04-49Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both speeches rely entirely on the initial brief without uncovering the critical fact that the builder offered to pay for a traffic signal to keep the intersection at a C rating. However, Document B is slightly more persuasive because it addresses the main traffic concern upfront, whereas Document A mistakenly assumes there is already a traffic light at Alder and 4th."
+}

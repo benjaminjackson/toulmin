@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-00-33Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses my skepticism about teachers transitioning into pharma by mentioning her enrollment in a GMP basics course and acknowledging that any training changes must still satisfy SOPs and regulators. She also uses concrete examples, like cutting new-teacher training from 20 hours to 12 while maintaining safety, instead of making unrealistic promises."
+}

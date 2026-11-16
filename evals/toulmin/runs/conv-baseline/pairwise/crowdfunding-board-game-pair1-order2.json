@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-00-33Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "As a wary backer, I trust A's line-by-line budget (manufacturing, shipping, fees, buffer) and its plain admission that this is a first-time creator. B is more candid that the 8.1 rating came from people who played at the designer's own table, but its leftover placeholders ([Game name], [your name]) make it look unfinished, and it gives no budget breakdown."
+}

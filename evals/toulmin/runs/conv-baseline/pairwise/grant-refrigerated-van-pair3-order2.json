@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-03-29Z",
+  "without_skill_run": "2026-11-16T20-02-05Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B admits the late shelving report outright and names Dave Lin as responsible for a report due within 30 days, with quarterly fresh-food numbers, which answers my biggest worry. It also discloses the $4,500 yearly operating cost and does not promise a set tonnage. A treats the 2023 grant as a smooth partnership, says nothing about the four months I spent chasing the report, and assumes the full 9,000 pounds will come back."
+}

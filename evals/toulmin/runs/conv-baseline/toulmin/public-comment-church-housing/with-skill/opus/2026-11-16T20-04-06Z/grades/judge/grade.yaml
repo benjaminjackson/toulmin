@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T20:04:57.086933+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 336
+  tags: []
+  notes: extracted 336 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 4
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 3
+    objections: 4
+    fit: 7
+  details:
+    agree: The two commissioners focused on traffic hear only that a D is 'not failing'
+      and a vague request to review signal timing, so the speech gives them no concrete
+      reason to vote yes, though the waiting-list case may move a few neighbours.
+    honest: The figures match the brief and 'one in six' (64/412) holds up, but 'no
+      one is pushed out' and the claim that every household gets a space assume more
+      than the facts support.
+    works_the_facts: It turns 64 of 412 into one in six and frames the 72 spaces as
+      eight to spare, but it doesn't use the signal fact that keeps the intersection
+      at C, which would have been the strongest true version of the traffic numbers.
+    right_comparison: The 'if turned down, nothing changes' passage describes the
+      status quo plainly (empty lot, 2,100 short, 412 waiting), though it doesn't
+      say whether the shortage is growing.
+    qualification: The only condition is a loose 'review the signal timing', when
+      the obvious checkable condition was a builder-funded signal that keeps Alder
+      and 4th at a C, and it gives no date or consequence if that isn't met.
+    objections: Parking is answered, but the main traffic objection is met by minimizing
+      it rather than with the signal offer, and the speech ignores 20 months of construction
+      trucks, existing morning backups and the neighbour-parking commitment.
+    fit: At roughly 350 words it fits a 3-minute spoken slot and reads well aloud,
+      but it leaves [NAME] and [CHURCH NAME] as placeholders even though the user
+      gave both.

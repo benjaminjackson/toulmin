@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:02:36.958710+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 372
+  tags: []
+  notes: extracted 372 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 3
+    honest: 6
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 2
+    objections: 3
+    fit: 5
+  details:
+    agree: A cold investor gets a vague apology with no reason, no dated promise,
+      no runway plan (just a placeholder), and no concrete ask such as a call, so
+      it does little to win back their trust or their calls.
+    honest: Nothing is made up and the derived figures check out (about 13% of revenue,
+      about 11 months of runway, no-shows nearly halved), but 'We grew this quarter'
+      overstates a quarter where revenue was flat, and the claim that new clinics
+      replaced exactly the chain's revenue goes beyond what the brief shows.
+    works_the_facts: It works out runway, the chain's share of revenue and the no-show
+      reduction, but it leaves out the 6 committed reminder buyers and never puts
+      a number on what the $150 product could add against the $44,000 monthly burn.
+    right_comparison: It compares revenue to the prior quarter and names the risk
+      from records vendors' own schedulers, but it never says what happens if nothing
+      changes, such as cash running out around next autumn or the two customers paying
+      $3,800 a month on the same records system.
+    qualification: The next-quarter report lists metrics with no targets, no date
+      (January 7 is missing) and no consequence if they're missed, and the runway
+      plan is left as a placeholder.
+    objections: The investor's real complaint, the silence, gets a one-line apology
+      with no reason and no checkable commitment such as the monthly one-pager, and
+      the obvious worry about the next customer leaving is raised in general terms
+      without the $3,800 exposure.
+    fit: It's the right length and in update form, but bracketed placeholders for
+      the name, company, runway plan and asks mean it isn't ready to send.

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-03-52Z",
+  "without_skill_run": "2026-11-16T20-03-40Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is addressed to me by name and includes the actual specific demands of the tenants (like the stair-climbing chair and rent credits), whereas Document B is an unfinished template with placeholders. Furthermore, Document A gives me a clear deadline before they go to the media, which forces me to take them seriously and act immediately."
+}

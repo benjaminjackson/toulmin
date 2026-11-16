@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T20:06:52.376440+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 0
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 169
+  tags: []
+  notes: extracted 169 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 5
+    honest: 9
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 3
+    objections: 4
+    fit: 7
+  details:
+    agree: The plain apology lands, but this reader left over silence and no credit
+      in bad weeks, and nothing here promises either will be different next time hail
+      hits, so a wary household may hold back.
+    honest: Every claim matches the brief, including that the nets cover only tomatoes
+      and peppers and that good weather can't be promised; nothing is inflated or
+      invented.
+    works_the_facts: It uses $31,000, the unchanged $540 and 52 shares left, but derives
+      nothing from them, such as the weekly cost or how much of a box was lost over
+      six weeks of half boxes.
+    right_comparison: It sets this season against last summer's failure, but it never
+      shows what the reader faces in a new bad week compared with last year, and it
+      doesn't mention the 29 of 41 surveyed ex-members who would return.
+    qualification: '''No farm can promise good weather'' is an honest hedge, but it
+      names no threshold, credit or communication the reader could check if crops
+      are lost again.'
+    objections: 'The objection about going quiet and giving no credit is apologised
+      for but not answered: the pause credit covers only weeks the member chooses
+      to skip, and there is no commitment to a weather credit or weekly emails.'
+    fit: It's a short email well under 200 words with a clear call to action, though
+      it leaves the name, farm name and link as unfilled placeholders.

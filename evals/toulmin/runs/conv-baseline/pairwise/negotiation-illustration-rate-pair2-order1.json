@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-02-43Z",
+  "without_skill_run": "2026-11-16T20-03-03Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A gives me concrete numbers I could take to my boss to justify going over budget: she's $2,000 below the bottom of her agent's range, and $11,500 is $1,000 less than another publisher paid her. Document B is a little warmer, but its case is softer, and the monthly breakdown in A, though slightly pointed, makes the gap concrete without overstating anything."
+}

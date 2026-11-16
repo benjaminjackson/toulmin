@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:02:54.831888+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+    user_replies: 1
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 332
+  tags: []
+  notes: extracted 332 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 5
+    qualification: 5
+    objections: 4
+    fit: 8
+  details:
+    agree: The safety program and the 20-to-12-hour training rewrite would make a
+      skeptical HR manager take her seriously, but the letter leaves out her strongest
+      evidence on regulated recordkeeping, so the 'teacher who doesn't know a plant'
+      doubt only partly goes away.
+    honest: It rightly drops the unsupported claim about cutting training time in
+      half, but 'roughly 1,000 students' is an estimate the brief doesn't state, and
+      saying the newly trained teachers' labs have 'the same safety record' stretches
+      the facts a little.
+    works_the_facts: It works out a student total, but it never states that 20 to
+      12 hours is a 40% cut, never adds up the roughly a dozen teachers she has trained,
+      and gives the AP numbers without a relative gain or any link to the job.
+    right_comparison: Before-and-after figures appear for the training hours and the
+      AP pass rate, but the letter never compares her with the real alternative, a
+      candidate who has GMP experience, and never ties that comparison to the audited
+      record-keeping she already does.
+    qualification: The GMP course has a checkable completion date of May 2, but the
+      letter never mentions the June 14 earliest start, which the reader needs, and
+      says nothing about what happens if the course or the LMS learning falls short.
+    objections: It names the GMP records gap but answers it only with a course, and
+      leaves out the signed training records and two clean state audits, which answer
+      the objection directly.
+    fit: It is a properly addressed one-page cover letter at a suitable length, with
+      only the clumsy 'I can also show results' paragraph out of place.

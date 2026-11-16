@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-06-10Z",
+  "without_skill_run": "2026-11-16T20-06-05Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters make the same strong case, but B ties the software work and his habit of watching both the data and the animals more directly to the program. A adds claims the brief doesn't support, such as that he learned the software 'on his own' without being required and went 'straight back to his full schedule'. That makes B a little more credible as well as a little more persuasive."
+}

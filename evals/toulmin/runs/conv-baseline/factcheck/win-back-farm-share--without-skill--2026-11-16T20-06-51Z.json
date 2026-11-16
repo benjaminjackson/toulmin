@@ -1,0 +1,17 @@
+{
+  "task": "win-back-farm-share",
+  "arm": "without-skill",
+  "run": "2026-11-16T20-06-51Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I read every reply.",
+      "why": "Neither the brief nor the additional user information states that the farmer reads every reply."
+    },
+    {
+      "quote": "Thanks for the seasons you spent with us.",
+      "why": "The brief only states that the recipients had a share last year, not that they were members for multiple seasons."
+    }
+  ],
+  "invented_count": 2
+}

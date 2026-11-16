@@ -1,0 +1,33 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-04-06Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I drive through that intersection.",
+      "why": "The brief does not state that the speaker drives or uses the intersection at Alder and 4th."
+    },
+    {
+      "quote": "It means a longer wait at a light during rush hour.",
+      "why": "The brief does not say that the intersection at Alder and 4th currently has a traffic light (and the user's background notes indicate it does not have a signal yet)."
+    },
+    {
+      "quote": "I'd support the commission asking the county to review the signal timing at Alder and 4th as part of this approval.",
+      "why": "By referring to 'the signal timing at Alder and 4th,' the document presupposes as fact that a traffic signal already exists at that intersection, which the brief does not state."
+    },
+    {
+      "quote": "Every household gets a space on site, with eight to spare.",
+      "why": "The brief states there are 72 parking spaces for 64 units, but does not state how those spaces are assigned or whether each household is guaranteed one."
+    },
+    {
+      "quote": "This project would house 64 of those households.",
+      "why": "The brief says the units will rent to households earning under 60% of the area median income and mentions the county housing authority's waiting list, but does not say the project's tenants will come directly from that waiting list."
+    },
+    {
+      "quote": "On the other, 64 families getting off a three-year waiting list.",
+      "why": "The brief does not state that the 64 apartments will be filled by households from the county housing authority's waiting list."
+    }
+  ],
+  "invented_count": 6
+}

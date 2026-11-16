@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-00-33Z",
+  "without_skill_run": "2026-11-16T20-00-33Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "As someone who got burned before, Document A wins me over by showing the exact math behind the $28,000 goal—including platform fees and a $2,600 buffer—which proves this first-time creator has actually budgeted for fulfillment. It also sells the theme and tension of the game much better while staying completely honest about the playtest numbers and convention ratings."
+}

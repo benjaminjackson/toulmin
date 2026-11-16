@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-05-46Z",
+  "without_skill_run": "2026-11-16T20-06-16Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A directly addresses our fears about the new schedule with an honest 'What will be harder' section, and it gives us a concrete promise that those of us who have been here the longest get to pick our shifts first. It also provides real dates for our offers and decisions rather than placeholders, making us feel respected as we weigh whether to stay or take the severance."
+}

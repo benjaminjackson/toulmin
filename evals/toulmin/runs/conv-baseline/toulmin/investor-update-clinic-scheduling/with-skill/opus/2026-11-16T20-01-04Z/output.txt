@@ -1,0 +1,50 @@
+I've drafted the update below, under 500 words. A few choices you should know about before sending:
+
+- **The flat MRR is split into its two parts.** Losing the chain took $5,500 a month, which was about 13% of revenue. Without that chain, revenue went from $35,500 to $41,000, up 15% in a quarter. That's the strongest true thing your numbers show, and it answers what investors will ask first.
+- **The two missed updates come first.** Investors who went six months without hearing from you will notice the silence before the numbers. Admitting it up front means they read the rest without that hanging over it.
+- **I linked the lost customer to the new product.** The chain left for a scheduler built into their records system. Selling reminders on their own means clinics can keep that scheduler and still pay you. You know your market better than I do, so check that this framing holds.
+- **37 reminder customers at $150 a month replace the lost $5,500.** I added that figure so the launch has a clear scale.
+
+**Things you need to fill in:**
+- **Company name.**
+- **Sign-up target.** How many reminder customers you're aiming for by the next update.
+- **What you'll do about runway.** $480,000 at $44,000 a month is about 11 months. Investors will do that maths themselves. Say whether you plan to raise, cut costs or something else, and what you'll do if the reminders miss the target.
+- **The ask.** I suggested asking for introductions to clinics that use their records system's scheduler. Change it if you need something else more.
+
+<final_document>
+Subject: [Company] quarterly update: flat revenue, one big loss, and a new product next month
+
+Hi all,
+
+I'm sorry I didn't send updates for the last two quarters. You should have heard from me, and from now on you'll get one every quarter, good or bad.
+
+**The numbers**
+- Monthly recurring revenue: $41,000, the same as three months ago.
+- Clinics: 9 added, 4 lost.
+- Cash: $480,000. Net burn: about $44,000 a month, which gives us roughly 11 months of runway.
+
+**What happened**
+The flat revenue hides two separate changes. We lost our largest customer, a 12-clinic chain paying $5,500 a month, about 13% of our revenue. They moved to the scheduler built into their electronic records system.
+
+The rest of the business grew. Without that chain, revenue went from $35,500 to $41,000, up 15% in one quarter.
+
+The loss still matters. A records system with its own scheduler can take a customer from us without us doing anything wrong. That will happen again, and I'd rather plan for it than hope it doesn't.
+
+**What's working**
+Clinics that use our automatic text reminders have a no-show rate of 7%, against 13% before they started. That's almost half of their missed appointments gone. Every no-show is a therapist's hour the clinic pays for and can't bill, so clinics see this result directly in their revenue.
+
+**What's next**
+Next month we start selling text reminders on their own for $150 a month. This responds directly to the customer we lost. A clinic that keeps the scheduler in its records system can still buy reminders from us. The competitor that cost us our biggest customer becomes a way to sell the feature that gets our best results.
+
+For scale: 37 clinics on the reminder product would replace the chain's revenue. My target is [X] reminder customers by the next update, and I'll report the actual number either way.
+
+**Runway**
+At current burn we have about 11 months of cash. [Your plan: e.g. raise / reduce burn / reach breakeven, and what you'll do if the reminder target is missed.]
+
+**How you can help**
+Introductions to physical therapy clinics that schedule inside their records system. They're the customers the reminder product is built for, and a warm introduction will help a lot as we launch.
+
+Thanks for your patience over the last six months. You'll hear from me next quarter.
+
+[Your name]
+</final_document>

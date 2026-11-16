@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-06-19Z",
+  "without_skill_run": "2026-11-16T20-06-23Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both emails stick only to the initial brief and miss the specific promises around future communication and weather credits. However, Document B wins slightly because it explicitly opens a dialogue by inviting me to reply and share what would bring me back, whereas Document A feels more transactional despite its direct apology."
+}

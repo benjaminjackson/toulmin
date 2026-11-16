@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-06-10Z",
+  "without_skill_run": "2026-11-16T20-06-05Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters make the same case: solo 3 a.m. shifts, nine mastitis cases caught early, a good attendance record and a night class. B reads a bit more vividly, but it adds claims the brief doesn't support, such as that he learned the software \"on his own\" without being required to and went \"straight back to his full schedule.\" A stays honest to the facts and is just as convincing."
+}

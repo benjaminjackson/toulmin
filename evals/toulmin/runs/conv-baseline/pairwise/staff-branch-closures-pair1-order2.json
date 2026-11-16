@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-05-46Z",
+  "without_skill_run": "2026-11-16T20-06-16Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is upfront about what gets harder (evening hours, no promise of 9-to-5) and gives concrete dates, seniority-based shift choice, and a clear offer of severance with no judgment attached, so it treats us long-tenured, wary staff as adults. A has placeholder dates and puts things more gently, so it feels less trustworthy and gives us less to decide on."
+}
