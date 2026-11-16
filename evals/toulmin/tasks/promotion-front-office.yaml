@@ -1,0 +1,16 @@
+name: promotion-front-office
+type: promotion-case
+set: tune
+reader: "The hotel's general manager, who decides who becomes front office manager. He likes the writer but is also interviewing an outside candidate who ran the front desk at a larger hotel, and he believes the rise in guest scores came mostly from the renovation."
+prompt: |-
+  Help me write a case for my promotion. I'm the assistant front office manager at a 180-room hotel, and the front office manager job is open. I'm applying, and my general manager wants it in writing by Friday.
+
+  Facts:
+  - I've worked here 6 years, the last 2 as assistant manager.
+  - Our guest score for check-in on the main review site went from 7.9 to 8.6 over the last 18 months. The lobby and all the rooms were renovated during the same time.
+  - I rewrote the front desk training. New hires now work the desk alone after 5 shifts instead of 9.
+  - Front desk turnover was 9 of 14 people in the year before I became assistant manager, and 5 of 14 last year.
+  - I've covered the front office manager's job alone for the 7 weeks since she left.
+  - I have never managed a budget. The front office manager owns a $1.1 million payroll budget.
+
+  I want it to say I'm the main reason our guest scores went up. One page.

@@ -1,0 +1,45 @@
+{
+  "task": "op-ed",
+  "arm": "without-skill",
+  "run": "2026-11-16T18-00-02Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Every school day, shortly after the first bell, the line starts forming outside my office.",
+      "why": "The brief gives the total number of first-period visits last fall, not that a line forms outside the nurse's office every school day shortly after the first bell."
+    },
+    {
+      "quote": "students who had fallen asleep at their desks and couldn't shake it off.",
+      "why": "The brief says 'kids falling asleep' as a reason for visits, not specifically that they had fallen asleep at their desks and couldn't shake it off."
+    },
+    {
+      "quote": "By mid-morning, many of those same students are fine. They weren't sick. They were exhausted.",
+      "why": "The brief only gives visit counts for the first three periods and does not state that the same first-period students are fine by mid-morning or that their symptoms were exhaustion rather than illness."
+    },
+    {
+      "quote": "During adolescence, the body's internal clock shifts later, and most teens can't fall asleep much before 11 p.m., however early they go to bed.",
+      "why": "The brief does not mention adolescent circadian rhythm shifts or a specific 11 p.m. threshold before which most teens cannot fall asleep."
+    },
+    {
+      "quote": "A student who has to catch a bus before 7 a.m. is working against their own biology.",
+      "why": "The brief does not state what time students catch the bus."
+    },
+    {
+      "quote": "That is why the American Academy of Pediatrics recommends that high schools start no earlier than 8:30.",
+      "why": "The brief states the AAP recommendation, but does not give the biological reason why the AAP makes that recommendation."
+    },
+    {
+      "quote": "Teenagers need eight to ten.",
+      "why": "The brief notes how many students sleep under 7 hours, but does not state the 8-to-10-hour medical sleep requirement for teenagers."
+    },
+    {
+      "quote": "It is linked to weaker concentration and memory, more anxiety and depression, and more car crashes among young drivers.",
+      "why": "The brief does not mention research linking sleep loss to concentration, memory, anxiety, depression, or car crashes among young drivers."
+    },
+    {
+      "quote": "Every morning I send tired students back to class after an ice pack or a few minutes' rest, knowing that what they really need is sleep.",
+      "why": "The brief does not say what treatments the nurse gives students (such as an ice pack or a few minutes' rest) or that she sends tired students back to class every morning."
+    }
+  ],
+  "invented_count": 9
+}

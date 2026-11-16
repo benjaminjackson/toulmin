@@ -1,27 +1,48 @@
 #!/usr/bin/env bash
 # Blind head-to-head judge for the toulmin eval. smevals cannot pair runs, so this script does it.
 #
-#   pairwise <runs-dir>                                  judge every pair not judged yet
-#   pairwise --print-prompt <runs-dir> <task> <k> <order>  print the exact prompt for one pair and order, with no model call
+#   pairwise [--judge opus|gemini] <runs-dir>                                  judge every pair not judged yet
+#   pairwise [--judge opus|gemini] --print-prompt <runs-dir> <task> <k> <order>  print the exact prompt for one pair and order, with no model call
+#
+# --judge picks the model that judges (default opus). Both judges get the same prompt.
+# Opus results go to <runs-dir>/pairwise/, Gemini (gemini-4-argon) results to <runs-dir>/pairwise-gemini/, with the same file names.
 #
 # For each task, the scored runs of each arm (as `summary --runs` decides) are put in time order,
 # and the k-th with-skill run is paired with the k-th without-skill run (k counts from 1).
 # Each pair is judged twice: order 1 shows the with-skill document as A, order 2 shows it as B.
-# One JSON file per pair and order goes to <runs-dir>/pairwise/. A file that exists is not judged again.
+# One JSON file per pair and order goes to the judge's results directory. A file that exists is not judged again.
+# Each file has the winner, the margin ("clear", "slight" or "none") and the judge. Files written before the margin
+# and judge fields existed have neither.
 set -euo pipefail
 
 SCRIPT_DIR=$(cd "$(dirname "$0")" && pwd)
 # shellcheck source=lib/base.sh
 source "$SCRIPT_DIR/lib/base.sh"
+# shellcheck source=lib/gemini.sh
+source "$SCRIPT_DIR/lib/gemini.sh"
 
-PARALLEL_CALLS=8
-VERDICT_SCHEMA='{"type":"object","properties":{"reason":{"type":"string"},"winner":{"type":"string","enum":["A","B","tie"]}},"required":["reason","winner"]}'
+OPUS_PARALLEL_CALLS=8
+GEMINI_PARALLEL_CALLS=4
+GEMINI_MODEL=gemini-4-argon
+VERDICT_SCHEMA='{"type":"object","properties":{"reason":{"type":"string"},"winner":{"type":"string","enum":["A","B","tie"]},"margin":{"type":"string","enum":["clear","slight","none"]}},"required":["reason","winner","margin"]}'
 
 # Print usage and exit with the given status.
 usage() {
-  echo "usage: pairwise <runs-dir>" >&2
-  echo "       pairwise --print-prompt <runs-dir> <task> <k> <order>" >&2
+  echo "usage: pairwise [--judge opus|gemini] <runs-dir>" >&2
+  echo "       pairwise [--judge opus|gemini] --print-prompt <runs-dir> <task> <k> <order>" >&2
   exit "$1"
+}
+
+# Print the results directory for one judge: <runs-dir>/pairwise for opus, <runs-dir>/pairwise-gemini for gemini.
+# Why: the two judges must never overwrite or skip each other's results, and summary reads only the opus directory.
+results_dir() {
+  local runs_dir=$1
+  local judge=$2
+  if [ "$judge" = gemini ]; then
+    echo "$runs_dir/pairwise-gemini"
+  else
+    echo "$runs_dir/pairwise"
+  fi
 }
 
 # Print the run directory of the k-th scored run of one task and arm, in time order, or nothing if there is none.
@@ -72,17 +93,49 @@ build_prompt() {
   printf 'Two documents were written from this brief.\n\n'
   printf '<document_a>\n%s\n</document_a>\n\n' "$(cat "$document_a_file")"
   printf '<document_b>\n%s\n</document_b>\n\n' "$(cat "$document_b_file")"
-  printf 'As the reader described above, say which document is more likely to bring you to agree or act, while it stays honest to the facts in the brief. If neither is more likely, say tie. Give one or two sentences of reason, then the winner: "A", "B" or "tie".\n'
+  printf 'As the reader described above, say which document is more likely to bring you to agree or act, while it stays honest to the facts in the brief. If neither is more likely, say tie. Also say how big the gap is: "clear" if you would notice the difference without being asked to compare, "slight" if it is a close call, "none" if it is a tie. Reply with only a JSON object with three fields: "reason" (one or two sentences), "winner" ("A", "B" or "tie") and "margin" ("clear", "slight" or "none").\n'
+}
+
+# Ask the chosen judge for a verdict on the prompt in a file, and print the verdict as compact JSON, or nothing.
+# Arguments: the judge (opus or gemini), the prompt file.
+# Why one function: judge_one then checks and writes the verdict the same way for both judges.
+ask_judge() {
+  local judge=$1
+  local prompt_file=$2
+  if [ "$judge" = gemini ]; then
+    local answer
+    # A failed call prints its one-line reason on stderr, which is kept so the user sees why.
+    answer=$(gemini_text "$GEMINI_MODEL" < "$prompt_file") || true
+    # Gemini may wrap the JSON in a code fence or add words around it. First try the whole reply as JSON;
+    # if that fails, take the text from the first "{" to the last "}" and try that.
+    # -R reads raw text, -s reads it all as one string; "try ... catch" moves on when fromjson fails.
+    printf '%s' "$answer" | jq -Rsc '
+      try fromjson
+      catch ((capture("(?s)(?<object>\\{.*\\})").object // "") | fromjson? // null)' 2>/dev/null || true
+    return
+  fi
+  local response
+  # The judge's stderr is dropped; a failed call is caught by the caller through the missing winner.
+  response=$(claude_stripped --model opus --tools "" --output-format json --json-schema "$VERDICT_SCHEMA" < "$prompt_file" 2>/dev/null) || true
+  # The verdict arrives in .structured_output, or as JSON text in .result on some versions; try both.
+  # fromjson? returns nothing instead of an error when .result is not JSON.
+  echo "$response" | jq -c '.structured_output // (.result | if type == "string" then (fromjson? // null) else . end)' 2>/dev/null || true
 }
 
 # Judge one pair in one order and write its result file. Prints one status line.
-# Arguments: runs directory, task, pair index k, order.
+# Arguments: judge (opus or gemini), runs directory, task, pair index k, order.
 judge_one() {
-  local runs_dir=$1
-  local task=$2
-  local index=$3
-  local order=$4
-  local result_file="$runs_dir/pairwise/$task-pair$index-order$order.json"
+  local judge=$1
+  local runs_dir=$2
+  local task=$3
+  local index=$4
+  local order=$5
+  local result_file
+  result_file="$(results_dir "$runs_dir" "$judge")/$task-pair$index-order$order.json"
+  local judge_name=opus
+  if [ "$judge" = gemini ]; then
+    judge_name=$GEMINI_MODEL
+  fi
   local runs_json
   runs_json=$("$SCRIPT_DIR/summary" --runs "$runs_dir")
   local with_skill_run
@@ -92,15 +145,11 @@ judge_one() {
   local prompt_file
   prompt_file=$(mktemp)
   build_prompt "$with_skill_run" "$without_skill_run" "$order" > "$prompt_file"
-  local response
-  # The judge's stderr is dropped; a failed call is caught below by the missing winner.
-  response=$(claude_stripped --model opus --tools "" --output-format json --json-schema "$VERDICT_SCHEMA" < "$prompt_file" 2>/dev/null) || true
-  rm -f "$prompt_file"
-  # The verdict arrives in .structured_output, or as JSON text in .result on some versions; try both.
-  # fromjson? returns nothing instead of an error when .result is not JSON.
   local verdict
-  verdict=$(echo "$response" | jq -c '.structured_output // (.result | if type == "string" then (fromjson? // null) else . end)' 2>/dev/null) || true
-  if ! echo "$verdict" | jq -e '.winner == "A" or .winner == "B" or .winner == "tie"' > /dev/null 2>&1; then
+  verdict=$(ask_judge "$judge" "$prompt_file")
+  rm -f "$prompt_file"
+  # A verdict counts only when both the winner and the margin are one of the allowed words.
+  if ! echo "$verdict" | jq -e '(.winner == "A" or .winner == "B" or .winner == "tie") and (.margin == "clear" or .margin == "slight" or .margin == "none")' > /dev/null 2>&1; then
     echo "FAIL $task pair $index order $order: no valid verdict" >&2
     return 1
   fi
@@ -115,8 +164,10 @@ judge_one() {
     --argjson order "$order" \
     --arg with_skill_run "$(basename "$with_skill_run")" \
     --arg without_skill_run "$(basename "$without_skill_run")" \
-    --arg a_arm "$a_arm" '
+    --arg a_arm "$a_arm" \
+    --arg judge "$judge_name" '
     {
+      judge: $judge,
       task: $task,
       pair: $pair,
       order: $order,
@@ -131,15 +182,20 @@ judge_one() {
         else "with-skill"
         end
       ),
+      margin: .margin,
       reason: .reason
     }' > "$result_file.tmp"
   mv "$result_file.tmp" "$result_file"
-  echo "ok   $task pair $index order $order: $(jq -r .winner_arm "$result_file")"
+  echo "ok   $task pair $index order $order: $(jq -r '"\(.winner_arm) (\(.margin))"' "$result_file")"
 }
 
-# List every pair and order not judged yet, one "task k order" line each.
+# List every pair and order the given judge has not judged yet, one "task k order" line each.
+# Arguments: runs directory, judge (opus or gemini).
 list_missing_judgements() {
   local runs_dir=$1
+  local judge=$2
+  local judge_results_dir
+  judge_results_dir=$(results_dir "$runs_dir" "$judge")
   local runs_json
   runs_json=$("$SCRIPT_DIR/summary" --runs "$runs_dir")
   local task
@@ -153,7 +209,7 @@ list_missing_judgements() {
     for ((index = 1; index <= pair_count; index++)); do
       local order
       for order in 1 2; do
-        if [ ! -f "$runs_dir/pairwise/$task-pair$index-order$order.json" ]; then
+        if [ ! -f "$judge_results_dir/$task-pair$index-order$order.json" ]; then
           echo "$task $index $order"
         fi
       done
@@ -162,7 +218,29 @@ list_missing_judgements() {
 }
 
 # Parse arguments and either print one prompt, judge one pair, or judge every missing pair in parallel.
+# --judge may come anywhere on the command line; it is taken out first and the rest is read as before.
 main() {
+  local judge=opus
+  local remaining_arguments=()
+  while [ $# -gt 0 ]; do
+    if [ "$1" = --judge ]; then
+      if [ $# -lt 2 ]; then
+        usage 1
+      fi
+      judge=$2
+      shift 2
+    else
+      remaining_arguments+=("$1")
+      shift
+    fi
+  done
+  if [ "$judge" != opus ] && [ "$judge" != gemini ]; then
+    echo "pairwise: --judge must be opus or gemini, not $judge" >&2
+    usage 1
+  fi
+  # "${array[@]+...}" expands to nothing when the array is empty; plain "${array[@]}" fails under set -u on older bash.
+  set -- ${remaining_arguments[@]+"${remaining_arguments[@]}"}
+
   case "${1:-}" in
     -h|--help)
       usage 0
@@ -186,23 +264,27 @@ main() {
       ;;
     --judge-one)
       # Internal: one judge call, started by xargs below.
-      judge_one "$2" "$3" "$4" "$5"
+      judge_one "$judge" "$2" "$3" "$4" "$5"
       ;;
     *)
       if [ $# -ne 1 ] || [ ! -d "$1" ]; then
         usage 1
       fi
       local runs_dir=${1%/}
-      mkdir -p "$runs_dir/pairwise"
+      mkdir -p "$(results_dir "$runs_dir" "$judge")"
       local missing
-      missing=$(list_missing_judgements "$runs_dir")
+      missing=$(list_missing_judgements "$runs_dir" "$judge")
       if [ -z "$missing" ]; then
         echo "pairwise: every pair is already judged"
         return 0
       fi
-      # xargs -P runs up to PARALLEL_CALLS calls at once; -L 1 gives each call one "task k order" line.
+      local parallel_calls=$OPUS_PARALLEL_CALLS
+      if [ "$judge" = gemini ]; then
+        parallel_calls=$GEMINI_PARALLEL_CALLS
+      fi
+      # xargs -P runs up to parallel_calls calls at once; -L 1 gives each call one "task k order" line.
       # xargs exits non-zero if any call failed. Run the script again to retry only the failed ones.
-      echo "$missing" | xargs -P "$PARALLEL_CALLS" -L 1 "$SCRIPT_DIR/pairwise" --judge-one "$runs_dir"
+      echo "$missing" | xargs -P "$parallel_calls" -L 1 "$SCRIPT_DIR/pairwise" --judge "$judge" --judge-one "$runs_dir"
       ;;
   esac
 }

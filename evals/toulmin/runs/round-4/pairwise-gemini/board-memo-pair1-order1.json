@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "board-memo",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T18-00-02Z",
+  "without_skill_run": "2026-11-16T18-00-02Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A makes the growth math much more convincing by showing we only need 13 new members a week compared to the pilot's 35, and it proactively answers the exact question our advertising-background members will ask first: why we can't just run ads and memberships at the same time. It also gives our 11-year ad sales colleague the respect of a dedicated section rather than a bullet point under 'risks.'"
+}

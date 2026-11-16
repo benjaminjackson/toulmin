@@ -1,0 +1,37 @@
+{
+  "task": "board-memo",
+  "arm": "without-skill",
+  "run": "2026-11-16T18-01-51Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Executive Director",
+      "why": "The brief only says the author runs a small nonprofit newsroom and does not give their specific job title."
+    },
+    {
+      "quote": "November [X], 2026",
+      "why": "The brief does not state the current month or year."
+    },
+    {
+      "quote": "January 2027",
+      "why": "The brief mentions starting in January, but does not give the year 2027."
+    },
+    {
+      "quote": "Display ad revenue fell from $131,000 to $84,000 over two years, a 36% drop.",
+      "why": "The brief's clarification explicitly states that the $47,000 (36%) drop happened in one year (between the year before last and last year), not over two years."
+    },
+    {
+      "quote": "If that trend continues, ads will bring in about $67,000 in 2027.",
+      "why": "This figure cannot be derived from the brief's facts by valid arithmetic because it relies on the writer's false premise of a two-year decline and ignores the intermediate year between last year and 2027."
+    },
+    {
+      "quote": "They also slow our site",
+      "why": "The brief does not mention anything about display ads affecting the speed of the newsroom's website."
+    },
+    {
+      "quote": "Matching projected 2027 ad revenue takes about 700 members.",
+      "why": "This number is calculated from the invented $67,000 ad revenue projection rather than facts in the brief."
+    }
+  ],
+  "invented_count": 7
+}

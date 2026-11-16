@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
-# Usage: evals/toulmin/run-round <runs-dir> <n> [grader]
+# Usage: evals/toulmin/run-round <runs-dir> <n> [grader] [set]
 # Brings every task and config of the toulmin eval up to <n> complete runs in <runs-dir>.
+# With a set name (for example original, tune or sealed), only the tasks whose task file has that value
+# in its `set` key are run and counted. A task file with no `set` key never matches a set name.
+# Pass an empty grader ("") to filter by set without grading.
 # Starts one worker per task and config, all at once. Each worker calls `smevals run` once per missing run,
 # with at most <n>+2 attempts so a failing runner cannot loop for ever.
 # With a grader name, each run is graded as it finishes (smevals run -g <grader>).
@@ -13,13 +16,14 @@ script_directory=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
 eval_name=toulmin
 configs=(with-skill without-skill)
 
-if [ $# -lt 2 ] || [ $# -gt 3 ]; then
-  echo "usage: run-round <runs-dir> <n> [grader]" >&2
+if [ $# -lt 2 ] || [ $# -gt 4 ]; then
+  echo "usage: run-round <runs-dir> <n> [grader] [set]" >&2
   exit 2
 fi
 runs_directory=$1
 target_count=$2
 grader_name=${3:-}
+set_name=${4:-}
 mkdir -p "$runs_directory"
 
 # Print the number of complete runs for one task and config: run.yaml exists and records exit_code 0.
@@ -60,10 +64,20 @@ run_worker() {
   done
 }
 
+# Collect the task names to run. With a set name, keep only the task files whose `set` key equals it.
+# yq prints an empty string for a missing key here (`// ""`), so a task with no set never matches.
 task_names=()
 for task_file in "$script_directory"/tasks/*.yaml; do
+  if [ -n "$set_name" ] && [ "$(yq -r '.set // ""' "$task_file")" != "$set_name" ]; then
+    continue
+  fi
   task_names+=("$(yq -r '.name' "$task_file")")
 done
+
+if [ ${#task_names[@]} -eq 0 ]; then
+  echo "run-round: no task file has set: $set_name" >&2
+  exit 2
+fi
 
 # `&` starts each worker in the background; `wait` blocks until every worker has finished.
 for task_name in "${task_names[@]}"; do

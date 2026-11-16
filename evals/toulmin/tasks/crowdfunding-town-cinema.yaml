@@ -1,0 +1,16 @@
+name: crowdfunding-town-cinema
+type: crowdfunding-pitch
+set: sealed
+reader: "A long-time resident of the town who loved the cinema and wants it back, but who gave $200 to the hospital's ambulance fund this month and remembers the cinema's first campaign, which ended in refunds. The reader decides whether to pledge and how much."
+prompt: |-
+  Can you write the pitch for our crowdfunding campaign? I chair the volunteer group trying to reopen the one-screen cinema in our town of 6,500. It closed in 2022.
+
+  Facts:
+  - We need $85,000 to replace the projector and sound system and fix the roof. The building's owner has agreed to rent it to us for $1 a year for 10 years if we raise it.
+  - We ran a campaign 3 years ago for $120,000. It reached $47,000 and we refunded everyone.
+  - This time a local bank has pledged $25,000 if we raise the rest by June 30.
+  - 46 volunteers have signed up to run the box office and the snack bar.
+  - When it closed, the cinema was selling about 180 tickets a week.
+  - The nearest other cinema is 38 miles away.
+
+  Keep it under 350 words.

@@ -1,0 +1,45 @@
+{
+  "task": "board-memo",
+  "arm": "with-skill",
+  "run": "2026-11-16T18-01-23Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Executive Director",
+      "why": "The brief says the writer runs the newsroom, but does not state that their title is Executive Director."
+    },
+    {
+      "quote": "January 2027",
+      "why": "The brief says the change would happen 'from January', but does not specify the year 2027 (nor 2026 elsewhere in the memo)."
+    },
+    {
+      "quote": "ending display advertising on 31 December 2026, and launching a paid reader membership program on 1 January 2027.",
+      "why": "The brief only says 'from January' and gives no specific dates or years such as 31 December 2026 or 1 January 2027."
+    },
+    {
+      "quote": "[X] of those 212 members are still paying today.",
+      "why": "The brief says they ran a 6-week membership pilot in the spring, not that the pilot members have continued paying up to the present."
+    },
+    {
+      "quote": "That means adding 663 members over twelve months",
+      "why": "Subtracting the 212 pilot sign-ups from 875 assumes all 212 pilot participants are still active paying members, which the brief does not state."
+    },
+    {
+      "quote": "We'll have a proper launch campaign, ad-free reading as a member benefit",
+      "why": "The brief does not mention plans for a launch campaign or offering ad-free reading as a specific member benefit."
+    },
+    {
+      "quote": "so the model can carry well beyond what ads now bring us.",
+      "why": "The brief does not state the size of the newsroom's total budget, so there is no way to know whether 40% of the budget is more than the $84,000 ads bring in."
+    },
+    {
+      "quote": "at the July meeting",
+      "why": "The brief does not mention the board's meeting schedule or that there is a July meeting."
+    },
+    {
+      "quote": "and knows our local business community better than anyone.",
+      "why": "The brief only says the ad sales person is part-time and has been with the newsroom for 11 years, not how well they know the local business community."
+    }
+  ],
+  "invented_count": 9
+}

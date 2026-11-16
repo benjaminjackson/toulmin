@@ -1,0 +1,37 @@
+{
+  "task": "board-memo",
+  "arm": "without-skill",
+  "run": "2026-11-16T18-00-02Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "From: [Name], Executive Director",
+      "why": "The brief says the writer runs the newsroom, not that their title is Executive Director."
+    },
+    {
+      "quote": "effective January 2027",
+      "why": "The brief gives the month of January, not the year 2027."
+    },
+    {
+      "quote": "Display ad revenue fell from $131,000 to $84,000 over two years. That's a 36% drop, about 20% a year.",
+      "why": "The brief and its clarification state the 36% drop happened in one year (between the year before last and last year), not over two years at 20% a year."
+    },
+    {
+      "quote": "If the trend continues, ads will bring in roughly $67,000 in 2027.",
+      "why": "This projection is calculated from the invented 20%-per-year drop rather than the brief's actual one-year drop of 36%, and it invents the year 2027."
+    },
+    {
+      "quote": "Replacing the projected $67,000 takes about 700 members (5%).",
+      "why": "The $67,000 target and the resulting 700-member figure are derived from the false premise that ad revenue fell over two years rather than one."
+    },
+    {
+      "quote": "That's $15,000–$32,000 less than ads would have earned.",
+      "why": "The $15,000 figure depends on the $67,000 projection, which comes from misstating the one-year ad revenue drop as a two-year drop."
+    },
+    {
+      "quote": "the June 2027 board meeting",
+      "why": "The brief does not mention the year 2027 or that the board holds a meeting in June."
+    }
+  ],
+  "invented_count": 7
+}

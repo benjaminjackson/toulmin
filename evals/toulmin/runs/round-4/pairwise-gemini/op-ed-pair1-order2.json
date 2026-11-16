@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "op-ed",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T18-00-02Z",
+  "without_skill_run": "2026-11-16T18-00-02Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B handles the objections with much greater realism and intellectual honesty, whereas Document A casually proposes expensive field lights for athletics while already asking for $180,000 in busing costs. Additionally, Document B's call to track and report the metrics annually makes the connection to the graduation rate much more compelling to a board member or skeptical parent."
+}

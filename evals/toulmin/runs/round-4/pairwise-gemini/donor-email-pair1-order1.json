@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "donor-email",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T18-00-02Z",
+  "without_skill_run": "2026-11-16T18-00-02Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A addresses the Eastside closure right at the beginning before asking for money, which feels much more respectful to a frustrated former donor, and its transparent math builds trust. Document B waits until after the pitch to mention the closure and ends with a mildly guilt-tripping line comparing my feelings about Eastside to the 61 waiting kids."
+}

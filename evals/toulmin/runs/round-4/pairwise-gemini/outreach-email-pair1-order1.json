@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "outreach-email",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T18-00-02Z",
+  "without_skill_run": "2026-11-16T18-00-02Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins my trust by showing both its best and smaller results rather than cherry-picking, and it calculates that even the lower 20% drop easily pays for the $75,000 software. Plus, explicitly offering to walk my IT team through how it works upfront addresses my biggest internal roadblock right away."
+}

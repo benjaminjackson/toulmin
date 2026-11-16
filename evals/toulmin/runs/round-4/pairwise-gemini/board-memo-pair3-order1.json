@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "board-memo",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T18-02-38Z",
+  "without_skill_run": "2026-11-16T18-01-51Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A stays true to the facts by correctly stating that ad revenue dropped 36% in a single year (whereas Document B misstates this as happening over two years, lowering the urgency). Furthermore, Document A directly anticipates and answers the toughest skepticism from the advertising-background board members—such as the 'low-hanging fruit' pilot bias, churn, and why ads can't just run alongside memberships—while offering a hard mid-year off-ramp."
+}

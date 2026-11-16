@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "donor-email",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T18-00-02Z",
+  "without_skill_run": "2026-11-16T18-00-02Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins me over by addressing the Eastside branch closure right at the beginning and validating my frustration ('You had every right to'), whereas Document A's 'I'm not asking you to feel differently... I'm asking you to think about 61 kids' feels slightly guilt-tripping. Document B is also refreshingly transparent with the math, showing that the full match covers 26 kids and being honest about what my gift can and cannot guarantee."
+}

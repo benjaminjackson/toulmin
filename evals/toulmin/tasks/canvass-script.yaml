@@ -1,4 +1,6 @@
 name: canvass-script
+type: canvass-script
+set: original
 reader: "A retired homeowner on a fixed income in the Ridgeview precinct who opens the door to a volunteer. This reader has read the neighbourhood association president's letter in this week's paper and voted against the last library levy. The reader decides how to vote on Measure 4."
 prompt: |-
   Can you write a door-knocking script for our volunteers? I'm the field lead for Yes on Measure 4, the library levy on the March ballot in our city.

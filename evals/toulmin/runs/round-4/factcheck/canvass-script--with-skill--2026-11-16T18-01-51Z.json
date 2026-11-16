@@ -1,0 +1,13 @@
+{
+  "task": "canvass-script",
+  "arm": "with-skill",
+  "run": "2026-11-16T18-01-51Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Do you know how you'll vote, by mail or in person?",
+      "why": "The brief does not mention what voting methods (such as voting by mail or in person) are available in this city."
+    }
+  ],
+  "invented_count": 1
+}

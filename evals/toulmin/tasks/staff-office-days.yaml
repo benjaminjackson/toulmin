@@ -1,0 +1,16 @@
+name: staff-office-days
+type: staff-announcement
+set: sealed
+reader: "The firm's 46 architects and designers. About a third were hired as fully remote in 2021 and 2022, some live more than two hours away, and several have said in reviews that remote work is the main reason they stay. They decide whether to go along with the change, push back, or leave."
+prompt: |-
+  I need to tell our staff that we're ending fully remote work. I'm one of the three partners at an architecture firm with 46 architects and designers.
+
+  What I can say:
+  - From September 1, everyone works in the office on Tuesday, Wednesday and Thursday.
+  - 15 of our people were hired as fully remote in 2021 and 2022. 4 of them live more than two hours from the office.
+  - Those 4 can keep working remotely until the end of next year. After that, they come in once a week.
+  - Last year we lost two large hospital projects in the final interview. Both clients told us our team seemed not to know each other.
+  - Based on our review records, junior staff hired since 2022 are taking about 30% longer to reach the point where they lead a project.
+  - The partners have been coming in one day a week. We'll be in all three days too.
+
+  Keep it to one page. It goes out by email before an all-staff meeting on Friday.

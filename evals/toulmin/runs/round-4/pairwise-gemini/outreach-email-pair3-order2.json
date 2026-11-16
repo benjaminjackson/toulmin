@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "outreach-email",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T18-01-27Z",
+  "without_skill_run": "2026-11-16T18-00-57Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins me over by showing honest, conservative math that proves ROI even with their smaller customer result, rather than cherry-picking only their best case like Document A does. It also directly addresses my biggest internal hurdle—my protective IT director—by offering an upfront technical walkthrough and a single-warehouse pilot."
+}

@@ -1,0 +1,117 @@
+#!/usr/bin/env bash
+# Test verdict against the hand-made result files in fixtures/verdict. Makes no model call.
+#
+# fixtures/verdict/tasks holds the task files that give each fixture task its type
+# (memo-a and memo-b are "memo", email-a is "email", script-a has no task file so its type is its name).
+#
+# fixtures/verdict/two-judges has 8 pairs per judge and 8 factcheck files:
+#   pairwise (first judge):
+#     memo-a pair 1   win, both orders clear          -> clear win
+#     memo-a pair 2   win, one order slight           -> win, not clear
+#     memo-a pair 3   order flip                      -> tie
+#     memo-b pair 1   win, old files with no margin   -> win, not clear
+#     email-a pair 1  loss
+#     email-a pair 2  loss
+#     email-a pair 3  win, both orders clear          -> clear win
+#     script-a pair 1 only order 1 judged             -> tie
+#   pairwise-gemini (second judge): every order clear; memo-a pair 3 is a win (first judge: tie)
+#     and email-a pair 1 is a win (first judge: loss, so the judges name opposite arms). The rest agree.
+#   factcheck: with skill invented counts 0, 1, 0, 0; without skill 2, 0, 1, 0.
+#
+# fixtures/verdict/wilson has 48 old-format pairs (no margin, no second judge, no factcheck):
+# 36 with-skill wins and 12 losses, all of type memo.
+set -euo pipefail
+
+SCRIPT_DIR=$(cd "$(dirname "$0")" && pwd)
+FIXTURES="$SCRIPT_DIR/fixtures/verdict"
+export VERDICT_TASKS_DIR="$FIXTURES/tasks"
+failures=0
+
+# Record one failed check and print why.
+fail() {
+  echo "FAIL: $1"
+  failures=$((failures + 1))
+}
+
+# Check that a jq filter is true for a verdict JSON, and print ok or FAIL with the given description.
+# Why: each check below is one claim about one number, so each failure names exactly what is wrong.
+expect() {
+  local verdict_json=$1
+  local filter=$2
+  local description=$3
+  if jq -e "$filter" <<< "$verdict_json" > /dev/null; then
+    echo "ok   $description"
+  else
+    fail "$description (filter: $filter)"
+  fi
+}
+
+two_judges=$("$SCRIPT_DIR/verdict" --json "$FIXTURES/two-judges")
+wilson=$("$SCRIPT_DIR/verdict" --json "$FIXTURES/wilson")
+
+# Pair verdicts: the order flip (memo-a pair 3) and the missing order (script-a pair 1) are ties.
+expect "$two_judges" '.judges.opus | .pairs == 8 and .wins == 4 and .ties == 2 and .losses == 2' "first judge: 4 wins, 2 ties, 2 losses over 8 pairs"
+expect "$two_judges" '.judges.opus.types[] | select(.type == "memo") | .wins == 3 and .ties == 1 and .losses == 0' "order flip in memo-a pair 3 is a tie"
+expect "$two_judges" '.judges.opus.types[] | select(.type == "script-a") | .ties == 1 and .wins == 0' "pair with one order judged is a tie, and a task with no task file has its name as type"
+expect "$two_judges" '.judges.opus.win_rate == 0.625' "win rate counts a tie as half a win: (4 + 1) / 8"
+
+# Margin and clear share.
+expect "$two_judges" '.judges.opus | .clear_wins == 2 and .clear_share == 0.5' "first judge: 2 of 4 wins clear (slight order and missing margin are not clear)"
+expect "$two_judges" '.judges.gemini | .clear_wins == 6 and .clear_share == 1' "second judge: 6 of 6 wins clear"
+expect "$two_judges" '.conditions["3"].outcome == "PASS"' "condition 3 passes at exactly half clear"
+expect "$wilson" '.judges.opus.has_margin == false' "old files with no margin do not crash and show has_margin false"
+expect "$wilson" '.conditions["3"].outcome == "NOT TESTED"' "condition 3 is NOT TESTED when no file has a margin"
+
+# Wilson lower bound for 36 of 48.
+expect "$wilson" '.judges.opus | .pairs == 48 and .wins == 36 and .losses == 12 and .win_rate == 0.75' "wilson fixture: 36 wins, 12 losses, rate 0.75"
+expect "$wilson" '.judges.opus.lower_bound == 0.612' "Wilson 95% lower bound for 36 of 48 is 0.612"
+expect "$wilson" '.conditions["2"].outcome == "PASS"' "condition 2 passes at rate 0.75, bound 0.612, no bad type"
+
+# A type with more losses than wins fails condition 2.
+expect "$two_judges" '.judges.opus.types[] | select(.type == "email") | .losses_above_wins == true' "email type is marked: 1 win, 2 losses"
+expect "$two_judges" '.conditions["2"].judges[] | select(.judge == "opus") | .outcome == "FAIL" and (.detail | contains("email"))' "condition 2 fails for the first judge and names the email type"
+expect "$two_judges" '.conditions["2"].outcome == "FAIL"' "condition 2 fails overall"
+
+# Agreement between the two judges.
+expect "$two_judges" '.agreement | .shared_pairs == 8 and .same_verdict == 6 and .not_opposite == 7' "agreement: same verdict 6 of 8, not opposite 7 of 8"
+expect "$two_judges" '.agreement | .same_share == 0.75 and .not_opposite_share == 0.875' "agreement shares 0.75 and 0.875"
+expect "$two_judges" '.conditions["4"].outcome == "FAIL"' "condition 4 fails at 0.75 agreement"
+expect "$wilson" '.agreement == null and .conditions["4"].outcome == "NOT TESTED"' "condition 4 is NOT TESTED without the second judge"
+
+# Invented facts.
+expect "$two_judges" '.invented_facts["with-skill"] | .documents == 4 and .mean_invented == 0.25 and .documents_with_any == 1' "with skill: mean 0.25, 1 document with an invented fact"
+expect "$two_judges" '.invented_facts["without-skill"] | .documents == 4 and .mean_invented == 0.75 and .documents_with_any == 2' "without skill: mean 0.75, 2 documents with an invented fact"
+expect "$two_judges" '.conditions["5"].outcome == "PASS"' "condition 5 passes when with skill invents fewer facts"
+expect "$wilson" '.invented_facts == null and .conditions["5"].outcome == "NOT TESTED"' "condition 5 is NOT TESTED without factcheck"
+
+# Text form prints every section.
+text_output=$("$SCRIPT_DIR/verdict" "$FIXTURES/two-judges")
+for heading in "## Judge: opus" "## Judge: gemini" "## Judge agreement" "## Invented facts" "## Conditions" "Condition 5: PASS"; do
+  if grep -qF "$heading" <<< "$text_output"; then
+    echo "ok   text output has \"$heading\""
+  else
+    fail "text output has no \"$heading\""
+  fi
+done
+
+# Unusable input: a directory with no pairwise results exits non-zero.
+if "$SCRIPT_DIR/verdict" "$FIXTURES/tasks" > /dev/null 2>&1; then
+  fail "verdict exits 0 on a directory with no pairwise results"
+else
+  echo "ok   verdict exits non-zero on a directory with no pairwise results"
+fi
+
+# The real round-4 files (old format) give a table, with or without pairwise-gemini/ and factcheck/.
+unset VERDICT_TASKS_DIR
+round_output=$("$SCRIPT_DIR/verdict" "$SCRIPT_DIR/runs/round-4")
+if grep -qF "| Type | Wins | Ties | Losses |" <<< "$round_output" && grep -qF "Condition 2:" <<< "$round_output"; then
+  echo "ok   verdict prints a table and conditions for runs/round-4"
+else
+  fail "verdict did not print a table for runs/round-4"
+fi
+
+if [ "$failures" -gt 0 ]; then
+  echo "$failures check(s) failed"
+  exit 1
+fi
+echo "all checks passed"

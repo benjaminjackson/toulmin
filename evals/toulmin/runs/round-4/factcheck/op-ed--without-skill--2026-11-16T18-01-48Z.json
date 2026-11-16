@@ -1,0 +1,37 @@
+{
+  "task": "op-ed",
+  "arm": "without-skill",
+  "run": "2026-11-16T18-01-48Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Every school day last fall, the busiest hour in my office was the first one.",
+      "why": "The brief only gives the total number of visits for the fall semester by period, not whether first period was the busiest hour on every single school day."
+    },
+    {
+      "quote": "From September through December, I recorded 412 visits during first period",
+      "why": "The brief states the visits were logged \"last fall\" without specifying the months of September through December."
+    },
+    {
+      "quote": "For many students, that means a bus before 6:45",
+      "why": "The brief gives no information about bus schedules or pickup times."
+    },
+    {
+      "quote": "During adolescence, teenagers' internal clocks shift later, and many can't fall asleep before 11 p.m. no matter how responsible they are.",
+      "why": "The brief does not mention teenage circadian rhythms or an inability to fall asleep before 11 p.m."
+    },
+    {
+      "quote": "Teens need eight to ten hours of sleep a night.",
+      "why": "The brief mentions a survey tracking who gets under 7 hours of sleep, but does not state the specific medical recommendation of 8 to 10 hours."
+    },
+    {
+      "quote": "Other districts that have switched have had to rework practice times, facilities and game schedules.",
+      "why": "The brief gives no information on how other districts handled athletic scheduling after changing start times."
+    },
+    {
+      "quote": "I know who's slumped over, who skipped breakfast and who was up past midnight and still caught the 6:40 bus.",
+      "why": "The brief does not mention students skipping breakfast, staying up past midnight, or taking a 6:40 bus."
+    }
+  ],
+  "invented_count": 7
+}

@@ -1,0 +1,13 @@
+{
+  "task": "canvass-script",
+  "arm": "with-skill",
+  "run": "2026-11-16T18-00-56Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "and pays for exactly two things: Sunday hours at all five branches and keeping Ridgeview open.",
+      "why": "The brief states that the levy restores Sunday hours and keeps the Ridgeview branch open, not that it pays exclusively for those two things."
+    }
+  ],
+  "invented_count": 1
+}

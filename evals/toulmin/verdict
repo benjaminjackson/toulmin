@@ -1,0 +1,329 @@
+#!/usr/bin/env bash
+# Test one round of the toulmin eval against the bars the user agreed (conditions 2 to 5).
+#
+#   verdict <runs-dir>          tables and one PASS / FAIL / NOT TESTED line per condition
+#   verdict --json <runs-dir>   the same numbers as one JSON object
+#
+# Inputs, all under <runs-dir>:
+#   pairwise/<task>-pair<k>-order<1|2>.json         first judge (Opus). Required.
+#   pairwise-gemini/<task>-pair<k>-order<1|2>.json  second judge. Optional.
+#   factcheck/<task>--<arm>--<run>.json             invented facts per document. Optional.
+# The document type of a task is the `type` key of tasks/<task>.yaml next to this script.
+# A missing task file or `type` key makes the type the task name.
+# VERDICT_TASKS_DIR overrides the tasks directory (test-verdict uses it for its fixtures).
+#
+# Exit status is 0 whatever the verdict. It is non-zero only when the input is unusable.
+set -euo pipefail
+
+SCRIPT_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+TASKS_DIR=${VERDICT_TASKS_DIR:-$SCRIPT_DIR/tasks}
+YQ=/opt/homebrew/bin/yq
+
+# Print usage and exit with the given status.
+usage() {
+  echo "usage: verdict [--json] <runs-dir>" >&2
+  exit "$1"
+}
+
+# Print every JSON file in one directory as one JSON array, or the word null when the directory
+# does not exist or holds no JSON file. Why: null tells the jq program "this judge or factcheck did not run".
+collect_directory() {
+  local directory=$1
+  if [ -d "$directory" ] && [ -n "$(ls "$directory"/*.json 2>/dev/null)" ]; then
+    # -s reads every file into one array.
+    jq -s '.' "$directory"/*.json
+  else
+    echo null
+  fi
+}
+
+# Print a JSON object that maps every task name in the given pair arrays to its document type.
+# Why: the per-type table needs the type, and it lives in the task files, not in the result files.
+collect_types() {
+  local task_names_json=$1
+  local types_json='{}'
+  local task_name
+  local task_type
+  local task_file
+  # jq -r '.[]' prints one task name per line.
+  while IFS= read -r task_name; do
+    task_file="$TASKS_DIR/$task_name.yaml"
+    task_type=""
+    if [ -f "$task_file" ]; then
+      task_type=$("$YQ" -r '.type // ""' "$task_file")
+    fi
+    if [ -z "$task_type" ]; then
+      task_type=$task_name
+    fi
+    types_json=$(jq -c --arg task "$task_name" --arg type "$task_type" '. + {($task): $type}' <<< "$types_json")
+  done < <(jq -r '.[]' <<< "$task_names_json")
+  echo "$types_json"
+}
+
+# The jq program that works out every number and condition from the collected inputs.
+# $(cat <<'JQ' ... JQ) holds a jq program in a variable; the quoted 'JQ' stops bash from expanding $ inside it.
+VERDICT_PROGRAM=$(cat <<'JQ'
+def round3: if . == null then null else (. * 1000 | round) / 1000 end;
+def mean: if length == 0 then null else add / length end;
+
+# Wilson score interval, lower bound, 95% (z = 1.96), for a rate over n trials.
+def wilson_lower($rate; $n):
+  if $n == 0 then null
+  else
+    (1.96 * 1.96) as $z_squared
+    | (($rate + $z_squared / (2 * $n) - 1.96 * (($rate * (1 - $rate) / $n + $z_squared / (4 * $n * $n)) | sqrt))
+       / (1 + $z_squared / $n))
+  end;
+
+# Turn the result files of one judge into one verdict per pair.
+# Rule (the same as summary's head_to_head): the two orders of one pair make one result, and the pair is a
+# win for an arm only when both orders name that arm. Anything else is a tie. Unlike summary, which leaves
+# out a pair with only one order judged, here a missing order also makes the pair a tie.
+# A win is clear when both orders have margin "clear". Old files have no margin, so their wins are not clear.
+def pair_verdicts($types):
+  group_by([.task, .pair])
+  | map(
+      . as $orders
+      | ($orders | map(.winner_arm)) as $winners
+      | (if ($orders | length) == 2 and $winners[0] == $winners[1] then $winners[0] else "tie" end) as $winner
+      | {
+          task: $orders[0].task,
+          pair: $orders[0].pair,
+          type: $types[$orders[0].task],
+          result: (if $winner == "with-skill" then "win" elif $winner == "without-skill" then "loss" else "tie" end),
+          clear: (($orders | length) == 2 and ($orders | all(.margin == "clear"))),
+          has_margin: ($orders | any(has("margin")))
+        });
+
+# Wins, ties and losses in a list of pair verdicts.
+def tally:
+  {
+    wins: map(select(.result == "win")) | length,
+    ties: map(select(.result == "tie")) | length,
+    losses: map(select(.result == "loss")) | length
+  };
+
+# All numbers for one judge, or null when that judge has no files.
+def judge_stats($files; $types):
+  if $files == null then null
+  else
+    ($files | pair_verdicts($types)) as $pairs
+    | ($pairs | tally) as $counts
+    | ($pairs | length) as $pair_count
+    | (($counts.wins + 0.5 * $counts.ties) / $pair_count) as $rate
+    | ($pairs | map(select(.result == "win" and .clear)) | length) as $clear_wins
+    | {
+        pairs: $pair_count,
+        wins: $counts.wins,
+        ties: $counts.ties,
+        losses: $counts.losses,
+        win_rate: ($rate | round3),
+        lower_bound: (wilson_lower($rate; $pair_count) | round3),
+        # The unrounded numbers, so a condition never passes because of rounding. Removed before printing.
+        exact_win_rate: $rate,
+        exact_lower_bound: wilson_lower($rate; $pair_count),
+        has_margin: ($pairs | any(.has_margin)),
+        clear_wins: $clear_wins,
+        clear_share: (if $counts.wins == 0 then null else ($clear_wins / $counts.wins | round3) end),
+        types: (
+          $pairs | group_by(.type)
+          | map((tally) + {type: .[0].type} | . + {losses_above_wins: (.losses > .wins)})
+        ),
+        verdicts: ($pairs | map({task, pair, result}))
+      }
+  end;
+
+# Agreement between the two judges on the pairs both judged, or null when one judge has no results.
+def agreement($first; $second):
+  if $first == null or $second == null then null
+  else
+    ($second.verdicts | map({key: "\(.task)|\(.pair)", value: .result}) | from_entries) as $second_by_pair
+    | ($first.verdicts | map(select($second_by_pair["\(.task)|\(.pair)"] != null)
+        | {first: .result, second: $second_by_pair["\(.task)|\(.pair)"]})) as $shared
+    | ($shared | length) as $shared_count
+    | if $shared_count == 0 then null
+      else
+        {
+          shared_pairs: $shared_count,
+          same_verdict: ($shared | map(select(.first == .second)) | length),
+          not_opposite: ($shared | map(select([.first, .second] | sort != ["loss", "win"])) | length)
+        }
+        | . + {
+            same_share: (.same_verdict / $shared_count | round3),
+            not_opposite_share: (.not_opposite / $shared_count | round3)
+          }
+      end
+  end;
+
+# Invented facts per arm, or null when factcheck did not run.
+def invented_facts($files):
+  if $files == null then null
+  else
+    reduce ("with-skill", "without-skill") as $arm ({};
+      ($files | map(select(.arm == $arm) | .invented_count)) as $counts
+      | .[$arm] = {
+          documents: ($counts | length),
+          mean_invented: ($counts | mean | round3),
+          documents_with_any: ($counts | map(select(. >= 1)) | length)
+        })
+  end;
+
+# Combine a list of per-judge outcomes ("PASS", "FAIL", "NOT TESTED") into one.
+def combine:
+  map(select(. != "NOT TESTED")) as $tested
+  | if ($tested | length) == 0 then "NOT TESTED"
+    elif ($tested | all(. == "PASS")) then "PASS"
+    else "FAIL"
+    end;
+
+judge_stats($opus_files; $types) as $opus
+| judge_stats($gemini_files; $types) as $gemini
+| ({opus: $opus, gemini: $gemini} | with_entries(select(.value != null))) as $judges
+| agreement($opus; $gemini) as $agreement
+| invented_facts($factcheck_files) as $facts
+| {
+    judges: ($judges | map_values(del(.verdicts, .exact_win_rate, .exact_lower_bound))),
+    agreement: $agreement,
+    invented_facts: $facts,
+    conditions: {
+      "2": (
+        $judges | to_entries | map(
+          .value as $stats
+          | ($stats.types | map(select(.losses_above_wins) | .type)) as $bad_types
+          | {
+              judge: .key,
+              outcome: (if $stats.exact_win_rate >= 0.75 and $stats.exact_lower_bound > 0.60 and ($bad_types | length) == 0 then "PASS" else "FAIL" end),
+              detail: "win rate \($stats.win_rate) (needs >= 0.75), lower bound \($stats.lower_bound) (needs > 0.60), types with more losses than wins: \(if ($bad_types | length) == 0 then "none" else $bad_types | join(", ") end)"
+            })
+        | {outcome: (map(.outcome) | combine), judges: .}
+      ),
+      "3": (
+        $judges | to_entries | map(
+          .value as $stats
+          | if ($stats.has_margin | not) then
+              {judge: .key, outcome: "NOT TESTED", detail: "no result file has a margin"}
+            elif $stats.wins == 0 then
+              {judge: .key, outcome: "FAIL", detail: "no wins"}
+            else
+              {
+                judge: .key,
+                outcome: (if $stats.clear_wins * 2 >= $stats.wins then "PASS" else "FAIL" end),
+                detail: "\($stats.clear_wins) of \($stats.wins) wins are clear (\($stats.clear_share), needs >= 0.5)"
+              }
+            end)
+        | {outcome: (map(.outcome) | combine), judges: .}
+      ),
+      "4": (
+        if $agreement == null then {outcome: "NOT TESTED", detail: "no second judge results"}
+        else
+          {
+            outcome: (if $agreement.same_verdict >= 0.8 * $agreement.shared_pairs then "PASS" else "FAIL" end),
+            detail: "same pair verdict on \($agreement.same_verdict) of \($agreement.shared_pairs) pairs (\($agreement.same_share), needs >= 0.8)"
+          }
+        end
+      ),
+      "5": (
+        if $facts == null or $facts["with-skill"].documents == 0 or $facts["without-skill"].documents == 0 then
+          {outcome: "NOT TESTED", detail: "no factcheck results for both arms"}
+        else
+          {
+            # Compare the sums scaled by document counts, so rounding of the means cannot change the outcome.
+            outcome: (if ($factcheck_files | map(select(.arm == "with-skill") | .invented_count) | add) * $facts["without-skill"].documents
+                         <= ($factcheck_files | map(select(.arm == "without-skill") | .invented_count) | add) * $facts["with-skill"].documents
+                      then "PASS" else "FAIL" end),
+            detail: "mean invented facts with skill \($facts["with-skill"].mean_invented), without skill \($facts["without-skill"].mean_invented) (with must not be above without)"
+          }
+        end
+      )
+    }
+  }
+JQ
+)
+
+# Print the verdict JSON (stdin) as tables and condition lines.
+render_text() {
+  local program
+  program=$(cat <<'JQ'
+def show: if . == null then "-" else tostring end;
+(.judges | to_entries[] as $entry
+  | $entry.value as $stats
+  | "## Judge: \($entry.key)",
+    "",
+    "Pairs \($stats.pairs). With skill: wins \($stats.wins), ties \($stats.ties), losses \($stats.losses).",
+    "Win rate (tie = half a win) \($stats.win_rate), Wilson 95% lower bound \($stats.lower_bound).",
+    "Clear wins \($stats.clear_wins) of \($stats.wins) (share \($stats.clear_share | show))\(if $stats.has_margin then "" else ", no result file has a margin" end).",
+    "",
+    "| Type | Wins | Ties | Losses | More losses than wins |",
+    "|---|---|---|---|---|",
+    ($stats.types[] | "| \(.type) | \(.wins) | \(.ties) | \(.losses) | \(if .losses_above_wins then "YES" else "" end) |"),
+    ""),
+(if .agreement != null then
+   "## Judge agreement",
+   "",
+   "Same pair verdict: \(.agreement.same_verdict) of \(.agreement.shared_pairs) pairs (\(.agreement.same_share)).",
+   "Not opposite arms: \(.agreement.not_opposite) of \(.agreement.shared_pairs) pairs (\(.agreement.not_opposite_share)).",
+   ""
+ else empty end),
+(if .invented_facts != null then
+   "## Invented facts",
+   "",
+   "| Arm | Documents | Mean invented count | Documents with at least one |",
+   "|---|---|---|---|",
+   (.invented_facts | to_entries[] | "| \(.key) | \(.value.documents) | \(.value.mean_invented | show) | \(.value.documents_with_any) |"),
+   ""
+ else empty end),
+"## Conditions",
+"",
+(.conditions | to_entries[] as $condition
+  | if $condition.value.judges != null then
+      "Condition \($condition.key): \($condition.value.outcome)",
+      ($condition.value.judges[] | "  \(.judge): \(.outcome): \(.detail)")
+    else
+      "Condition \($condition.key): \($condition.value.outcome): \($condition.value.detail)"
+    end)
+JQ
+)
+  jq -r "$program"
+}
+
+# Parse arguments, collect the inputs and print the verdict.
+main() {
+  local mode=text
+  case "${1:-}" in
+    -h|--help) usage 0 ;;
+    --json) mode=json; shift ;;
+  esac
+  if [ $# -ne 1 ] || [ ! -d "$1" ]; then
+    usage 1
+  fi
+  local runs_dir=${1%/}
+  local opus_files
+  opus_files=$(collect_directory "$runs_dir/pairwise")
+  if [ "$opus_files" = null ]; then
+    echo "verdict: no result files in $runs_dir/pairwise" >&2
+    exit 1
+  fi
+  local gemini_files
+  gemini_files=$(collect_directory "$runs_dir/pairwise-gemini")
+  local factcheck_files
+  factcheck_files=$(collect_directory "$runs_dir/factcheck")
+  local task_names_json
+  # Every task name that appears in either judge's files, once each.
+  task_names_json=$(jq -n -c --argjson opus "$opus_files" --argjson gemini "$gemini_files" '($opus + ($gemini // [])) | map(.task) | unique')
+  local types_json
+  types_json=$(collect_types "$task_names_json")
+  local verdict_json
+  verdict_json=$(jq -n \
+    --argjson opus_files "$opus_files" \
+    --argjson gemini_files "$gemini_files" \
+    --argjson factcheck_files "$factcheck_files" \
+    --argjson types "$types_json" \
+    "$VERDICT_PROGRAM")
+  if [ "$mode" = json ]; then
+    echo "$verdict_json"
+  else
+    echo "$verdict_json" | render_text
+  fi
+}
+
+main "$@"

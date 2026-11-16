@@ -1,0 +1,29 @@
+{
+  "task": "op-ed",
+  "arm": "without-skill",
+  "run": "2026-11-16T18-00-57Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Teenagers need eight to 10.",
+      "why": "The brief does not mention a specific recommended range of eight to 10 hours of sleep for teenagers."
+    },
+    {
+      "quote": "In adolescence, the body's internal clock shifts later, and most teens can't fall asleep early no matter when the lights go out.",
+      "why": "The brief does not mention biological circadian rhythm shifts in adolescence or teens' inability to fall asleep early."
+    },
+    {
+      "quote": "the American Academy of Pediatrics recommends that middle and high schools start no earlier than 8:30 a.m.",
+      "why": "The brief states that the American Academy of Pediatrics recommendation applies to high schools, not middle schools."
+    },
+    {
+      "quote": "some of which a district down the road has already found.",
+      "why": "The brief does not state whether the other district had or solved these specific logistics problems (athletics, parent drop-offs, or bus contract costs)."
+    },
+    {
+      "quote": "a neighboring district has shown us it can work.",
+      "why": "The brief states the other district is 'two counties over,' not a 'neighboring district.'"
+    }
+  ],
+  "invented_count": 5
+}

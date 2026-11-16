@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "canvass-script",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T18-01-51Z",
+  "without_skill_run": "2026-11-16T18-01-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B speaks directly to me as a Ridgeview homeowner by leading with the immediate threat to our local branch and proactively addressing the 'blank check' letter I just read in the paper, including the specific $2.3 million cap. Both scripts wisely avoided the insulting 'cup of coffee' line and gave me the honest $122 annual cost for a Ridgeview home, but B doesn't require me to bring up my objections first before answering them."
+}

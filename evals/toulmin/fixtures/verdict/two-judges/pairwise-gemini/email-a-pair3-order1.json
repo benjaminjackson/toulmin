@@ -1,0 +1,8 @@
+{
+  "task": "email-a",
+  "pair": 3,
+  "order": 1,
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "judge": "pairwise-gemini"
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "op-ed",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T18-02-45Z",
+  "without_skill_run": "2026-11-16T18-01-48Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A stays completely faithful to the facts in the brief while smartly pointing out that the neighboring district hasn't yet completed a full four-year graduation cycle on the new schedule, nor should we ignore how they actually solved the athletics problem. Document B invents details not in the brief (like 6:40 bus times, skipped breakfasts, and general biological explanations) and brushes off the athletic director's concerns more generically."
+}

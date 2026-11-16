@@ -1,0 +1,17 @@
+{
+  "task": "op-ed",
+  "arm": "with-skill",
+  "run": "2026-11-16T18-00-02Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "kids who had fallen asleep at their desks and couldn't shake it",
+      "why": "The brief only says first-period visits included \"kids falling asleep\" and does not say they fell asleep at their desks before coming to the office."
+    },
+    {
+      "quote": "Teenagers' internal clocks shift later during adolescence, so telling them to go to bed earlier doesn't fix a 7:25 start. That is why the American Academy of Pediatrics recommends that high schools start no earlier than 8:30.",
+      "why": "The brief states that the American Academy of Pediatrics recommends a start time no earlier than 8:30, but it does not mention teenagers' internal clocks shifting during adolescence or give that as the reason for the recommendation."
+    }
+  ],
+  "invented_count": 2
+}

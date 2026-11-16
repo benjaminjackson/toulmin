@@ -1,0 +1,16 @@
+name: win-back-farm-share
+type: win-back-email
+set: tune
+reader: "A household that paid $540 for last year's vegetable share and cancelled after a July hailstorm left the boxes thin for six weeks with no refund or credit. They felt the farm went quiet when things went wrong. They decide whether to sign up for next season."
+prompt: |-
+  Can you write an email to people who didn't renew their farm share? I run a 30-acre vegetable farm and sell 22-week shares that people pick up every Thursday.
+
+  Facts:
+  - Last year 260 households had a share. 97 didn't renew.
+  - On July 9 a hailstorm destroyed about half our crops. For the next 6 weeks the boxes had about half the usual amount. We didn't offer refunds or credit, and I sent one short email about it.
+  - A full share is $540 this year, the same as last year.
+  - This year we've added a second field on higher ground and put up 2 hail nets over our tomatoes and peppers. That cost $31,000.
+  - Members can now pause up to 2 weeks and get credit for them.
+  - Sign-up closes March 15. 52 shares are left.
+
+  Under 200 words.

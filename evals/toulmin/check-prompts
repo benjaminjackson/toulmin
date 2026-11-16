@@ -1,15 +1,22 @@
 #!/usr/bin/env bash
-# Checks the five toulmin eval tasks: each has name, reader and prompt, and no prompt
-# names the skill or the thing it does. With --verbatim FILE, also checks that each
-# prompt is byte-identical to the prompt text for that task in FILE (PROMPTS.md layout).
+# Checks every toulmin eval task in tasks/: each has name, type, set, reader and prompt, the set is
+# original, tune or sealed, and no prompt or reader names the skill or the thing it does. Also checks
+# that the five original tasks are present and that tune and sealed each hold exactly one task of
+# each of the twelve document types. With --verbatim FILE, also checks that each task with a "## name"
+# heading in FILE has a prompt byte-identical to the prompt text in FILE (PROMPTS.md layout).
 set -euo pipefail
 
 script_directory="$(cd "$(dirname "$0")" && pwd)"
 tasks_directory="$script_directory/tasks"
-expected_tasks=(board-memo donor-email canvass-script outreach-email op-ed)
+original_tasks=(board-memo donor-email canvass-script outreach-email op-ed)
+document_types=(grant-proposal sales-page cover-letter investor-update staff-announcement public-comment-speech negotiation-email win-back-email promotion-case open-letter crowdfunding-pitch recommendation-letter)
+allowed_sets='^(original|tune|sealed)$'
 forbidden_pattern='toulmin|argument|argue|persuad|convinc|skill'
 verbatim_file=""
+verbatim_match_count=0
 failure_count=0
+# One "name<TAB>type<TAB>set" line per task that parsed, filled by check_task and read by check_task_set.
+task_summary_lines=""
 
 # Prints how to call this script and exits 2, so a wrong call is never mistaken for a check failure.
 print_usage_and_exit() {
@@ -34,35 +41,50 @@ extract_markdown_prompt() {
   awk -v t="$task_name" '/^## /{s=($2==t);p=0;next} s&&/^prompt:$/{p=1;getline;next} s&&p{buf=buf $0 "\n"} END{sub(/\n+$/,"",buf);printf "%s",buf}' "$markdown_file"
 }
 
-# Runs every check on one task file and prints "ok <task>" if all of them pass.
-check_task() {
+# Succeeds if the markdown file has a "## name" heading for this task, so --verbatim only checks tasks the file holds.
+markdown_has_task() {
   local task_name="$1"
-  local task_file="$tasks_directory/$task_name.yaml"
-  if [[ ! -f "$task_file" ]]; then
-    report_failure "$task_name" "missing $task_file"
-    return
-  fi
+  local markdown_file="$2"
+  grep -Fxq "## $task_name" "$markdown_file"
+}
+
+# Runs every check on one task file, records its name, type and set, and prints "ok <task>" if all checks pass.
+check_task() {
+  local task_file="$1"
+  local task_name
+  task_name="$(basename "$task_file" .yaml)"
   local task_json
   if ! task_json="$(yq -o=json '.' "$task_file")"; then
     report_failure "$task_name" "yq cannot parse $task_file"
     return
   fi
   local failures_before="$failure_count"
-  if ! jq -e 'has("prompt")' <<<"$task_json" >/dev/null; then
-    report_failure "$task_name" "no prompt key"
-  fi
-  if ! jq -e 'has("reader")' <<<"$task_json" >/dev/null; then
-    report_failure "$task_name" "no reader key"
-  fi
+  local key
+  for key in name type set reader prompt; do
+    if ! jq -e --arg key "$key" 'has($key)' <<<"$task_json" >/dev/null; then
+      report_failure "$task_name" "no $key key"
+    fi
+  done
   if ! jq -e --arg stem "$task_name" '.name == $stem' <<<"$task_json" >/dev/null; then
     report_failure "$task_name" "name is not $task_name"
   fi
-  local prompt_text
-  prompt_text="$(jq -r '.prompt // ""' <<<"$task_json")"
-  if grep -Eiq "$forbidden_pattern" <<<"$prompt_text"; then
-    report_failure "$task_name" "prompt matches /$forbidden_pattern/i"
+  local task_type
+  local task_set
+  task_type="$(jq -r '.type // ""' <<<"$task_json")"
+  task_set="$(jq -r '.set // ""' <<<"$task_json")"
+  if [[ ! "$task_set" =~ $allowed_sets ]]; then
+    report_failure "$task_name" "set '$task_set' is not original, tune or sealed"
   fi
-  if [[ -n "$verbatim_file" ]]; then
+  local field_name
+  for field_name in prompt reader; do
+    local field_text
+    field_text="$(jq -r --arg key "$field_name" '.[$key] // ""' <<<"$task_json")"
+    if grep -Eiq "$forbidden_pattern" <<<"$field_text"; then
+      report_failure "$task_name" "$field_name matches /$forbidden_pattern/i"
+    fi
+  done
+  if [[ -n "$verbatim_file" ]] && markdown_has_task "$task_name" "$verbatim_file"; then
+    verbatim_match_count=$((verbatim_match_count + 1))
     # Compare both sides as JSON-encoded strings so trailing newlines are not lost by $(...).
     local task_prompt_json
     local markdown_prompt_json
@@ -74,20 +96,45 @@ check_task() {
       report_failure "$task_name" "prompt differs from $verbatim_file"
     fi
   fi
+  task_summary_lines+="$task_name"$'\t'"$task_type"$'\t'"$task_set"$'\n'
   if [[ "$failure_count" == "$failures_before" ]]; then
     echo "ok $task_name"
   fi
 }
 
-# Fails unless tasks/ holds exactly the five expected yaml files, so a stray or renamed task is caught.
+# Prints the names of the tasks in one set, one per line, sorted.
+task_names_in_set() {
+  local set_name="$1"
+  printf '%s' "$task_summary_lines" | awk -F '\t' -v s="$set_name" '$3==s {print $1}' | sort
+}
+
+# Prints the types of the tasks in one set, one per line, sorted, with repeats kept so a doubled type shows up.
+task_types_in_set() {
+  local set_name="$1"
+  printf '%s' "$task_summary_lines" | awk -F '\t' -v s="$set_name" '$3==s {print $2}' | sort
+}
+
+# Fails unless the original set is exactly the five original tasks, and tune and sealed each hold
+# exactly one task of each document type, so a missing, doubled or stray task is caught.
 check_task_set() {
-  local expected_list
-  local actual_list
-  expected_list="$(printf '%s.yaml\n' "${expected_tasks[@]}" | sort)"
-  actual_list="$(cd "$tasks_directory" && ls -1 -- *.yaml 2>/dev/null | sort || true)"
-  if [[ "$expected_list" != "$actual_list" ]]; then
-    report_failure "tasks" "tasks/ does not hold exactly: ${expected_tasks[*]}"
+  local expected_originals
+  expected_originals="$(printf '%s\n' "${original_tasks[@]}" | sort)"
+  if [[ "$(task_names_in_set original)" != "$expected_originals" ]]; then
+    report_failure "tasks" "set original is not exactly: ${original_tasks[*]}"
   fi
+  local expected_types
+  expected_types="$(printf '%s\n' "${document_types[@]}" | sort)"
+  local set_name
+  for set_name in tune sealed; do
+    local task_count
+    task_count="$(task_names_in_set "$set_name" | grep -c . || true)"
+    if [[ "$task_count" != "${#document_types[@]}" ]]; then
+      report_failure "tasks" "set $set_name has $task_count tasks, expected ${#document_types[@]}"
+    fi
+    if [[ "$(task_types_in_set "$set_name")" != "$expected_types" ]]; then
+      report_failure "tasks" "set $set_name does not hold exactly one task of each type: ${document_types[*]}"
+    fi
+  done
 }
 
 if ! command -v yq >/dev/null || ! command -v jq >/dev/null; then
@@ -105,10 +152,19 @@ elif [[ $# -ne 0 ]]; then
   print_usage_and_exit
 fi
 
-for task_name in "${expected_tasks[@]}"; do
-  check_task "$task_name"
+shopt -s nullglob
+task_files=("$tasks_directory"/*.yaml)
+if [[ ${#task_files[@]} -eq 0 ]]; then
+  report_failure "tasks" "no yaml files in $tasks_directory"
+fi
+for task_file in "${task_files[@]}"; do
+  check_task "$task_file"
 done
 check_task_set
+
+if [[ -n "$verbatim_file" && "$verbatim_match_count" -eq 0 ]]; then
+  report_failure "verbatim" "no task in tasks/ has a ## heading in $verbatim_file"
+fi
 
 if [[ "$failure_count" -gt 0 ]]; then
   exit 1

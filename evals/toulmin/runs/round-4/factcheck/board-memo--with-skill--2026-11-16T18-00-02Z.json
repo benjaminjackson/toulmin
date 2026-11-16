@@ -1,0 +1,33 @@
+{
+  "task": "board-memo",
+  "arm": "with-skill",
+  "run": "2026-11-16T18-00-02Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Executive Director",
+      "why": "The brief only states that the author runs the newsroom, without giving their specific job title."
+    },
+    {
+      "quote": "January 2027",
+      "why": "The brief asks to start the program 'from January' and does not specify the year 2027 (which also appears as 'January 1, 2027', 'June 30, 2027', and 'December 31, 2027')."
+    },
+    {
+      "quote": "Ad revenue fell from $131,000 to $84,000 in two years, roughly 20% a year.",
+      "why": "The brief and its clarification state that the $47,000 (36%) drop happened in one year (between the year before last and last year), not over two years at 20% a year."
+    },
+    {
+      "quote": "If that continues, ads will bring in about $67,000 next year and $54,000 the year after.",
+      "why": "These projections are calculated from the false premise of a 20% annual drop over two years, whereas the actual one-year drop in the brief is 36%."
+    },
+    {
+      "quote": "It keeps a number that is shrinking every year.",
+      "why": "The brief only gives ad revenue for two consecutive years, showing a single year-over-year drop rather than a multi-year shrinking trend."
+    },
+    {
+      "quote": "Ads on their current trend would likely bring about $67,000. We'll cover the gap of roughly $15,000",
+      "why": "Both the $67,000 projection and the resulting $15,000 gap rely on the miscalculated 20% annual decline rather than the 36% decline given in the brief."
+    }
+  ],
+  "invented_count": 6
+}

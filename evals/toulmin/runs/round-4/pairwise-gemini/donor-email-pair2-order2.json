@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "donor-email",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T18-00-52Z",
+  "without_skill_run": "2026-11-16T18-00-40Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A wins back my trust by validating my frustration over the Eastside closure—saying I 'had every right to' be upset—and promising a specific February report on how many kids actually get placed. Document B feels more dismissive with its 'We're writing anyway' phrasing and makes the $85 gift tier feel insignificant by not showing what it achieves."
+}

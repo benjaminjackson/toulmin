@@ -1,4 +1,6 @@
 name: donor-email
+type: donor-email
+set: original
 reader: "A former donor to the community music school who gave between 2019 and 2022 and stopped after the school closed its Eastside branch. This reader was unhappy about the closure and has not given since. The reader decides whether to give this month."
 prompt: |-
   I need a year-end fundraising email for people who used to give to us and stopped. I'm the development director at a community music school, and I'm the whole development office.

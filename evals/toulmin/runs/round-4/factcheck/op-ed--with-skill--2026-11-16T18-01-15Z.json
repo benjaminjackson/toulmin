@@ -1,0 +1,29 @@
+{
+  "task": "op-ed",
+  "arm": "with-skill",
+  "run": "2026-11-16T18-01-15Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "students who fell asleep at their desks and couldn't shake it off",
+      "why": "The brief only says the nurse logged visits for \"kids falling asleep\" during first period, not that they fell asleep at their desks before coming to the office."
+    },
+    {
+      "quote": "once the morning is an hour older",
+      "why": "The brief does not state the length of class periods or that second period is an hour after first period."
+    },
+    {
+      "quote": "Teenagers' internal clocks shift later during adolescence, so this isn't a discipline problem. That is why the American Academy of Pediatrics recommends that high schools start no earlier than 8:30.",
+      "why": "The brief states the American Academy of Pediatrics' recommendation, but does not mention circadian rhythm shifts in adolescence or give that as the reason for the recommendation."
+    },
+    {
+      "quote": "here, first period is where most of those mornings are lost.",
+      "why": "The brief only gives nurse visit counts by period for the local school, not data on when most absences or tardies occur there."
+    },
+    {
+      "quote": "in the cafeteria or library",
+      "why": "The brief does not state that the school building has a cafeteria or a library."
+    }
+  ],
+  "invented_count": 5
+}

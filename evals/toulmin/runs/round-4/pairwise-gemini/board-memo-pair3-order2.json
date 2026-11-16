@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "board-memo",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T18-02-38Z",
+  "without_skill_run": "2026-11-16T18-01-51Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B gets the math right on our one-year 36% ad drop, whereas Document A mistakenly stretches that decline over two years, which reduces the urgency and undercuts credibility with the sales-minded members on the board. Document A does a great job identifying the first-year cash flow gap, while Document B better addresses why we can't just run ads and memberships together, making this a close call."
+}

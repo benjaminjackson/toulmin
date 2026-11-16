@@ -1,0 +1,17 @@
+{
+  "task": "donor-email",
+  "arm": "with-skill",
+  "run": "2026-11-16T18-01-46Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Every child we can't fund stays on the waiting list.",
+      "why": "The brief does not state that children not funded by this specific campaign will remain on the waiting list or that there are no other sources of funding for them."
+    },
+    {
+      "quote": "In January, I'll write to tell you how many children started lessons because returning donors came back, whether or not you give.",
+      "why": "The brief says nothing about sending a follow-up report in January to all lapsed donors."
+    }
+  ],
+  "invented_count": 2
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "donor-email",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T18-01-46Z",
+  "without_skill_run": "2026-11-16T18-01-17Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B speaks to me like an adult by saying \"I'm not asking you to forget it\" rather than giving me a canned PR line like \"We heard you.\" It also earns my trust by spelling out the exact math of what the match can actually accomplish—26 kids off the list—which feels much more honest and motivating after a breach of trust."
+}

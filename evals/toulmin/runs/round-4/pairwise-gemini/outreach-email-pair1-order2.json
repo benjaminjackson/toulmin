@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "outreach-email",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T18-00-02Z",
+  "without_skill_run": "2026-11-16T18-00-02Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B builds far more credibility by sharing both their best and smaller customer results, while explicitly doing the ROI math that shows we'd still come out ahead in the conservative scenario. It also proactively offers to walk my IT team through the setup before we commit, which directly addresses my biggest internal hurdle."
+}

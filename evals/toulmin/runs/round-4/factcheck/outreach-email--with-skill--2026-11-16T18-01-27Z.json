@@ -1,0 +1,8 @@
+{
+  "task": "outreach-email",
+  "arm": "with-skill",
+  "run": "2026-11-16T18-01-27Z",
+  "checker": "gemini-4-argon",
+  "invented": [],
+  "invented_count": 0
+}

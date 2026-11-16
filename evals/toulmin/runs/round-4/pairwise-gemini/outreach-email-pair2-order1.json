@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "outreach-email",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T18-00-43Z",
+  "without_skill_run": "2026-11-16T18-00-32Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins because it proactively addresses my biggest internal roadblock—my IT director's resistance after our recent WMS rollout—and offers to speak with him first. It is also much more credible because it includes a more modest customer result alongside its best case, while showing that even the lower result easily pays for the software."
+}

@@ -1,4 +1,6 @@
 name: outreach-email
+type: outreach-email
+set: original
 reader: "Dana Whitfield, VP of operations at a kitchenware distributor with 5 warehouses. She gets many vendor emails. She knows her IT director finished a two-year rollout of the current warehouse system last year and resists anything that touches it. She decides whether to reply or take a call."
 prompt: |-
   Draft a cold email for me. I'm a co-founder of a 14-person company that makes pick-verification software for warehouses. Workers scan each item with a phone camera and it flags a wrong item before the box closes.

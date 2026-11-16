@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "outreach-email",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T18-01-27Z",
+  "without_skill_run": "2026-11-16T18-00-57Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins my trust by being honest about its lower-performing customer while doing the ROI math to prove the software still pays for itself at that level. It also directly anticipates my IT director's pushback by offering to walk IT through the connection first and start with a single warehouse."
+}

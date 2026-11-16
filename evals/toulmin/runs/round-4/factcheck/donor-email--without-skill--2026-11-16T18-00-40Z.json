@@ -1,0 +1,13 @@
+{
+  "task": "donor-email",
+  "arm": "without-skill",
+  "run": "2026-11-16T18-00-40Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "in February, I'll write to tell you exactly how many of those 61 children started lessons, and what your gift made possible.",
+      "why": "The brief does not mention any plan for the executive director to send a follow-up update to donors in February."
+    }
+  ],
+  "invented_count": 1
+}

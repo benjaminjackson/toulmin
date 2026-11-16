@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "donor-email",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T18-01-46Z",
+  "without_skill_run": "2026-11-16T18-01-17Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document B acknowledges the hurt caused to Eastside families with genuine warmth and gratitude for my past support, whereas Document A feels defensive and guilt-tripping with lines like 'I'm not asking you to forget it' and 'whether or not you give.' Both documents stay honest to the math rather than making the impossible claim that this match could fund all 61 children, though Document A's specific calculation that the full match funds 26 kids is a nice touch."
+}

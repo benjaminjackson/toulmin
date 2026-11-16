@@ -1,0 +1,25 @@
+{
+  "task": "board-memo",
+  "arm": "without-skill",
+  "run": "2026-11-16T18-00-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Executive Director",
+      "why": "The brief says the author runs the newsroom, but does not give their job title."
+    },
+    {
+      "quote": "January 2027",
+      "why": "The brief mentions moving to a membership program 'from January,' but does not give the year 2027."
+    },
+    {
+      "quote": "Display ad revenue fell from $131,000 to $84,000 over two years",
+      "why": "The brief and its clarification state that the fall from $131,000 (two years ago) to $84,000 (last year) happened in one year, not over two years."
+    },
+    {
+      "quote": "If the decline continues, ads will bring in roughly $65,000–$70,000 in 2027.",
+      "why": "The brief does not include a projection of $65,000–$70,000, and a 36% annual decline from $84,000 would arithmeticly equal about $53,760 after one year (or $34,400 after two)."
+    }
+  ],
+  "invented_count": 4
+}

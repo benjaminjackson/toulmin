@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "canvass-script",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T18-00-56Z",
+  "without_skill_run": "2026-11-16T18-00-50Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Because I already read the letter calling this a 'blank check,' I appreciate that Document A gives me the exact rate, the six-year sunset limit, and the yearly cost right up front instead of making me pull the details out of the volunteer. Document B feels more guarded by only saying '$10 a month' initially, and if I express hesitation when asked for my vote, the script prompts the volunteer to walk away rather than answer my concerns."
+}

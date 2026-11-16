@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "board-memo",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T18-01-23Z",
+  "without_skill_run": "2026-11-16T18-00-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A wins the trust of sales-minded board members by honestly confronting the year-one cash flow gap (since membership ramps up gradually while ad revenue stops immediately) and building a buffer into the target for churn, whereas Document B glosses over the cash shortfall and relies on an unaccounting 875-member target. However, the margin is only slight because Document A misstates the ad revenue drop as happening over two years instead of one, while Document B gets that timeline right."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "outreach-email",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T18-00-43Z",
+  "without_skill_run": "2026-11-16T18-00-32Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses my biggest obstacle—my IT director's resistance after our recent two-year WMS rollout—and offers a low-risk single-site pilot. It also stays much more honest to the facts by including the second customer's more modest results, using that to build a realistic break-even case rather than cherry-picking only the best outcome."
+}

@@ -1,0 +1,182 @@
+#!/usr/bin/env bash
+# Fact checker for the toulmin eval: lists the facts each document states that its brief does not give.
+#
+#   factcheck <runs-dir>                                      check every scored run not checked yet
+#   factcheck --print-prompt <runs-dir> <task> <arm> <k>      print the exact prompt for one run, with no model call
+#
+# For each scored run (as `summary --runs` decides), gemini-4-argon gets the brief, the task's judge_note if it has one,
+# and the document from grades/judge/document.txt. It lists every statement the document presents as fact that the
+# brief does not give and that cannot be worked out from the brief's facts by arithmetic.
+# The prompt holds no arm name, path or tool name, so the checker cannot tell which arm wrote the document.
+# k counts the scored runs of one task and arm in time order, from 1, the same way pairwise does.
+# One JSON file per run goes to <runs-dir>/factcheck/<task>--<arm>--<run directory name>.json.
+# A file that exists is not checked again.
+set -euo pipefail
+
+SCRIPT_DIR=$(cd "$(dirname "$0")" && pwd)
+# shellcheck source=lib/gemini.sh
+source "$SCRIPT_DIR/lib/gemini.sh"
+
+YQ=/opt/homebrew/bin/yq
+GEMINI_MODEL=gemini-4-argon
+PARALLEL_CALLS=4
+
+# Print usage and exit with the given status.
+usage() {
+  echo "usage: factcheck <runs-dir>" >&2
+  echo "       factcheck --print-prompt <runs-dir> <task> <arm> <k>" >&2
+  exit "$1"
+}
+
+# Print the result file path for one run.
+# Why: the check for an existing file and the write must use the same name.
+result_file_for() {
+  local runs_dir=$1
+  local task=$2
+  local arm=$3
+  local run_dir=$4
+  echo "$runs_dir/factcheck/$task--$arm--$(basename "$run_dir").json"
+}
+
+# Print the fact-check prompt for one run.
+# Arguments: the run directory. The prompt holds only the brief, the judge note and the document.
+build_prompt() {
+  local run_dir=$1
+  local brief
+  brief=$("$YQ" -r '.task.prompt' "$run_dir/run.yaml")
+  # The judge_note is read from the task file, not from run.yaml, as pairwise does, so that runs made
+  # before the note was written are checked with it too.
+  local task_name
+  task_name=$("$YQ" -r '.task.name' "$run_dir/run.yaml")
+  local brief_note
+  brief_note=$("$YQ" -r '.judge_note // ""' "$SCRIPT_DIR/tasks/$task_name.yaml")
+  printf 'A writer was given the brief below and wrote the document below from it. Your job is to find every fact in the document that the writer invented.\n\n'
+  printf '<brief>\n%s\n</brief>\n\n' "$brief"
+  if [ -n "$brief_note" ]; then
+    printf 'The person who wrote the brief adds this about its facts: %s\n\n' "$brief_note"
+  fi
+  printf '<document>\n%s\n</document>\n\n' "$(cat "$run_dir/grades/judge/document.txt")"
+  printf 'List every statement the document presents as fact that the brief does not give and that cannot be worked out from the facts in the brief by arithmetic. A number, a name, a date, an event, a study, a quote or a cause all count when the brief does not support them.\n\n'
+  printf 'Do not list:\n'
+  printf -- '- a step the writer proposes and words as a proposal\n'
+  printf -- '- a figure the document plainly marks as an estimate or an assumption\n'
+  printf -- '- a placeholder in brackets, such as [date] or [name]\n'
+  printf -- '- common knowledge that any reader would accept without a source\n'
+  printf -- '- the writer'"'"'s own opinion, worded as opinion\n\n'
+  printf 'Reply with only a JSON object with one field, "invented": a list of objects, each with "quote" (the exact words from the document) and "why" (one sentence on what the brief does or does not say). If nothing is invented, reply {"invented": []}.\n'
+}
+
+# Print the run directory of the k-th scored run of one task and arm, in time order, or nothing if there is none.
+nth_scored_run() {
+  local runs_json=$1
+  local task=$2
+  local arm=$3
+  local index=$4
+  echo "$runs_json" | jq -rs --arg task "$task" --arg arm "$arm" --argjson index "$index" '
+    map(select(.task == $task and .arm == $arm and .scored))
+    | sort_by(.started)
+    | .[$index - 1].run_dir // empty'
+}
+
+# Check one run and write its result file. Prints one status line.
+# Arguments: runs directory, task, arm, run directory.
+check_one() {
+  local runs_dir=$1
+  local task=$2
+  local arm=$3
+  local run_dir=$4
+  local result_file
+  result_file=$(result_file_for "$runs_dir" "$task" "$arm" "$run_dir")
+  local prompt_file
+  prompt_file=$(mktemp)
+  build_prompt "$run_dir" > "$prompt_file"
+  local answer
+  # A failed call prints its one-line reason on stderr, which is kept so the user sees why.
+  answer=$(gemini_text "$GEMINI_MODEL" < "$prompt_file") || true
+  rm -f "$prompt_file"
+  # Gemini may wrap the JSON in a code fence or add words around it. First try the whole reply as JSON;
+  # if that fails, take the text from the first "{" to the last "}" and try that.
+  # -R reads raw text, -s reads it all as one string; "try ... catch" moves on when fromjson fails.
+  local reply
+  reply=$(printf '%s' "$answer" | jq -Rsc '
+    try fromjson
+    catch ((capture("(?s)(?<object>\\{.*\\})").object // "") | fromjson? // null)' 2>/dev/null) || true
+  # A reply counts only when "invented" is a list and every item has a text quote and a text why.
+  if ! echo "$reply" | jq -e '(.invented | type == "array") and all(.invented[]; (.quote | type == "string") and (.why | type == "string"))' > /dev/null 2>&1; then
+    echo "FAIL $task $arm $(basename "$run_dir"): no valid reply" >&2
+    return 1
+  fi
+  # Write to a temporary file first and rename it, so an interrupted run never leaves a half-written result.
+  echo "$reply" | jq \
+    --arg task "$task" \
+    --arg arm "$arm" \
+    --arg run "$(basename "$run_dir")" \
+    --arg checker "$GEMINI_MODEL" '
+    {
+      task: $task,
+      arm: $arm,
+      run: $run,
+      checker: $checker,
+      invented: [.invented[] | {quote, why}],
+      invented_count: (.invented | length)
+    }' > "$result_file.tmp"
+  mv "$result_file.tmp" "$result_file"
+  echo "ok   $task $arm $(basename "$run_dir"): $(jq -r .invented_count "$result_file") invented"
+}
+
+# List every scored run with no result file yet, one "task arm run-dir" line each.
+list_missing_checks() {
+  local runs_dir=$1
+  "$SCRIPT_DIR/summary" --runs "$runs_dir" | jq -r 'select(.scored) | "\(.task) \(.arm) \(.run_dir)"' |
+    while read -r task arm run_dir; do
+      if [ ! -f "$(result_file_for "$runs_dir" "$task" "$arm" "$run_dir")" ]; then
+        echo "$task $arm $run_dir"
+      fi
+    done
+}
+
+# Parse arguments and either print one prompt, check one run, or check every missing run in parallel.
+main() {
+  case "${1:-}" in
+    -h|--help)
+      usage 0
+      ;;
+    --print-prompt)
+      if [ $# -ne 5 ]; then
+        usage 1
+      fi
+      local runs_dir=${2%/}
+      local runs_json
+      runs_json=$("$SCRIPT_DIR/summary" --runs "$runs_dir")
+      local run_dir
+      run_dir=$(nth_scored_run "$runs_json" "$3" "$4" "$5")
+      if [ -z "$run_dir" ]; then
+        echo "factcheck: task $3 has no scored run $5 for arm $4" >&2
+        exit 1
+      fi
+      build_prompt "$run_dir"
+      ;;
+    --check-one)
+      # Internal: one checker call, started by xargs below.
+      check_one "$2" "$3" "$4" "$5"
+      ;;
+    *)
+      if [ $# -ne 1 ] || [ ! -d "$1" ]; then
+        usage 1
+      fi
+      local runs_dir=${1%/}
+      mkdir -p "$runs_dir/factcheck"
+      local missing
+      missing=$(list_missing_checks "$runs_dir")
+      if [ -z "$missing" ]; then
+        echo "factcheck: every scored run is already checked"
+        return 0
+      fi
+      # xargs -P runs up to PARALLEL_CALLS calls at once; -L 1 gives each call one "task arm run-dir" line.
+      # xargs exits non-zero if any call failed. Run the script again to retry only the failed ones.
+      echo "$missing" | xargs -P "$PARALLEL_CALLS" -L 1 "$SCRIPT_DIR/factcheck" --check-one "$runs_dir"
+      ;;
+  esac
+}
+
+main "$@"

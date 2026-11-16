@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "canvass-script",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T18-00-02Z",
+  "without_skill_run": "2026-11-16T18-00-02Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A treats me like an adult by giving the straightforward annual and monthly costs right up front and including the six-year sunset without me having to bring up the 'blank check' letter. Document B hides the annual cost, neglects the six-year limit until I object, and insults my intelligence with the tired 'cup of coffee' cliché when I'm worried about my fixed income."
+}

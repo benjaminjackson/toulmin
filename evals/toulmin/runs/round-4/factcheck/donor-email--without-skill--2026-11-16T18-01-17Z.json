@@ -1,0 +1,21 @@
+{
+  "task": "donor-email",
+  "arm": "without-skill",
+  "run": "2026-11-16T18-01-17Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "That decision was hard on families",
+      "why": "The brief only mentions that donors were upset and stopped giving after the Eastside branch closed, not how the closure affected families."
+    },
+    {
+      "quote": "Every child we fund by December 31 starts lessons in January. We won't reach all 61 this month, but every gift moves a name off that list.",
+      "why": "The brief does not state that children are moved off the waiting list to start lessons in January individually as their specific funding is met, nor does it state as fact that the school won't reach all 61 children this month (though the math makes reaching all 61 via the match alone impossible, total campaign outcome is unknown)."
+    },
+    {
+      "quote": "In January, I'll write to tell you exactly how many children got their place.",
+      "why": "The brief does not mention any plan for the executive director to send a follow-up email in January reporting the results."
+    }
+  ],
+  "invented_count": 3
+}

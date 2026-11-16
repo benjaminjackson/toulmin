@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "op-ed",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T18-01-15Z",
+  "without_skill_run": "2026-11-16T18-00-57Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B directly addresses the real-world objections of parents and the athletic director with concrete proposals, a per-student cost breakdown, and a two-year accountability plan, whereas Document A mostly tells the board to go ask another district how to solve them. Document B also makes a much more convincing, honest case for how the change connects to graduation rates and why the trade-off with afternoon sports is worth making."
+}

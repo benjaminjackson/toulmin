@@ -1,4 +1,6 @@
 name: op-ed
+type: op-ed
+set: original
 reader: "A reader of the local paper who is a parent in the district or a member of the school board that votes on April 14. This reader has heard the athletic director's objections and knows parents who drop their children off on the way to 8 a.m. shifts. The reader decides whether to support the later start time."
 prompt: |-
   I'm a school nurse at a public high school and I want to write an op-ed for our local paper before the school board votes on April 14 on moving the high school start time from 7:25 to 8:30.

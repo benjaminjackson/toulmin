@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "op-ed",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T18-01-15Z",
+  "without_skill_run": "2026-11-16T18-00-57Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A tackles the objections head-on by breaking down the bus cost to about a dollar per student per day, proposing a concrete early drop-off plan, and honestly weighing the trade-offs for athletics rather than just calling them 'logistics problems' as Document B does. It also proposes a clear two-year accountability review for the board, which makes voting yes feel much more responsible while staying completely faithful to the facts."
+}

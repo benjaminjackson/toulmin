@@ -1,0 +1,17 @@
+{
+  "task": "op-ed",
+  "arm": "with-skill",
+  "run": "2026-11-16T18-02-45Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "and some had fallen asleep at their desks.",
+      "why": "The brief mentions 'kids falling asleep' as a reason for nurse visits, not specifically that they fell asleep at their desks."
+    },
+    {
+      "quote": "I've spent enough mornings handing out ice packs",
+      "why": "The brief does not mention what treatments the nurse gave or that she handed out ice packs."
+    }
+  ],
+  "invented_count": 2
+}

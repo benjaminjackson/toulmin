@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "op-ed",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T18-00-02Z",
+  "without_skill_run": "2026-11-16T18-00-02Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A treats the logistical and financial objections with much more realism and respect, proposing an accountability plan to track metrics rather than overstepping with expensive, unvetted ideas like \"lighted fields\" as Document B does. Furthermore, Document A stays strictly honest to the provided facts, whereas Document B brings in outside claims about car crashes, mental health, and summer school costs."
+}

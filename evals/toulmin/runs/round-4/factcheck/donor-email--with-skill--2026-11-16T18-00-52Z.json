@@ -1,0 +1,17 @@
+{
+  "task": "donor-email",
+  "arm": "with-skill",
+  "run": "2026-11-16T18-00-52Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Without new support, most of them will still be waiting when lessons start in January.",
+      "why": "The brief does not state when lessons start or how many children will remain on the waiting list without new support (whether all, most, or some)."
+    },
+    {
+      "quote": "The match ends December 31 and applies only to gifts from returning donors like you.",
+      "why": "The brief says the foundation offered to match gifts from returning donors, not that the match applies exclusively ('only') to returning donors."
+    }
+  ],
+  "invented_count": 2
+}

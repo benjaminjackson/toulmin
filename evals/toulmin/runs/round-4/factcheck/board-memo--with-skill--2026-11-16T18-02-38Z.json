@@ -1,0 +1,29 @@
+{
+  "task": "board-memo",
+  "arm": "with-skill",
+  "run": "2026-11-16T18-02-38Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "**Date:** November 2026",
+      "why": "The brief only says the program would start in January and does not give the current month or year."
+    },
+    {
+      "quote": "January 1, 2027",
+      "why": "The brief only says the program would start in January and does not give a specific day or year."
+    },
+    {
+      "quote": "ending display advertising on December 31 and launching a reader membership program on January 1",
+      "why": "The brief only mentions moving to membership from January and does not state the exact day ads will end or the exact day membership will launch."
+    },
+    {
+      "quote": "December 2027",
+      "why": "The brief says membership will replace ad revenue within a year of January, but does not mention the year 2027."
+    },
+    {
+      "quote": "Starting from 212, that means adding about 55 members a month through 2027, or roughly 13 a week.",
+      "why": "The brief only says 212 readers signed up in a 6-week spring pilot and does not say those 212 members are still subscribed and active going into January."
+    }
+  ],
+  "invented_count": 5
+}

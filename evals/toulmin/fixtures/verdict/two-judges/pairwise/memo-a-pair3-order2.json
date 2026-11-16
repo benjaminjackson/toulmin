@@ -1,0 +1,8 @@
+{
+  "task": "memo-a",
+  "pair": 3,
+  "order": 2,
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "judge": "pairwise"
+}
