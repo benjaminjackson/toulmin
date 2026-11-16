@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-45-38Z",
+  "without_skill_run": "2026-11-16T19-19-29Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A shows a better mindset for a regulated plant by stating she would learn documentation requirements from the quality team and treat written procedures as exact rules. Document B claims she is 'already working to understand GMP documentation requirements,' which was not in the brief, and says safety 'depends less on the written rules,' which is a red flag in a GMP environment."
+}

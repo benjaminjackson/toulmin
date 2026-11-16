@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-43-59Z",
+  "without_skill_run": "2026-11-16T19-18-00Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A explicitly informs me that they are sharing this with local news, which is the exact leverage that forces me as a regional manager to take a group I consider 'a few loud people' seriously to avoid a PR headache. Furthermore, Document A stays strictly to the devastating facts, whereas Document B brings up fire emergencies—when anyone knows you don't use elevators in a fire—and demands proprietary vendor details."
+}

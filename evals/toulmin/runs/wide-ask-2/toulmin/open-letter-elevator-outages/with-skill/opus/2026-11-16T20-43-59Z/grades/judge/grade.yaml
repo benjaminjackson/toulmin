@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T20:44:56.429670+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 423
+  tags: []
+  notes: extracted 423 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 4
+    objections: 7
+    fit: 8
+  details:
+    agree: The measured tone, the 74-household figure and the repeated June promise
+      push back on her view that the association is a few loud people and that the
+      company has handled this well, but the letter gives her nothing to work with
+      (no offer to keep a list of residents who need help, no evening meetings) and
+      leads with the TV threat, so she may dig in.
+    honest: Every figure traces to the brief and the derived numbers are accurate;
+      only the flat claim that a wheelchair user 'has no way down' goes slightly past
+      what was given.
+    works_the_facts: "It turns 41 days into about one day in eight, 74 of 112 into\
+      \ two-thirds, and June plus 6\u20138 weeks into the August outage, but the 'if\
+      \ nothing changes' projection stays vague and doesn't carry the 41-day pace\
+      \ forward."
+    right_comparison: The status quo is shown fairly as repeated promises and a similar
+      next year, but there's no trend or count of outages over time to make that concrete.
+    qualification: "The doubt about the 6\u20138-week promise and the request for\
+      \ a written date are right, but the letter sets no reply deadline and no checkable\
+      \ date or consequence if the part fails to arrive again."
+    objections: It answers the passing inspection well (safe when it runs, not reliable)
+      and handles the $400,000 objection by asking to see the assessment rather than
+      disputing it, without raising objections the facts already settle.
+    fit: It's a properly formed open letter of about 430 words, though it names no
+      building, company or signer, which weakens it as a public document.

@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:46:36.584234+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 428
+  tags: []
+  notes: extracted 428 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 5
+    honest: 5
+    works_the_facts: 6
+    right_comparison: 5
+    qualification: 3
+    objections: 4
+    fit: 6
+  details:
+    agree: The apology and the clear reminder pivot would steady a cold investor somewhat,
+      but there is no reason given for the silence, no dated commitment, and no request
+      for a call, so this investor has little reason to pick up the phone.
+    honest: The figures hold up (13% of revenue, about 11 months of runway, close
+      to half of no-shows removed, about 37 clinics to replace the chain), but the
+      update is signed "Ben" when the founder is Sam Patel, which is an invented and
+      damaging error, and it never names the company.
+    works_the_facts: It works out runway, the chain's share of revenue, the cut in
+      no-shows and the number of reminder clinics needed to replace the chain, but
+      it leaves out the 6 committed reminder buyers (about $900 a month) against the
+      37 needed, and never says when the cash runs out if nothing changes.
+    right_comparison: It describes the risk of competing with records vendors on scheduling
+      alone, but treats the trend as a general expectation and leaves out the concrete
+      $3,800 a month from two customers on the same records system.
+    qualification: "\"Next quarter I'll report\u2026\" names what will be measured\
+      \ but gives no targets, no January 7 date, and no consequence if the reminder\
+      \ product falls short, so the reader has nothing to check."
+    objections: The investor's real objection, why the founder went silent and whether
+      it will happen again, gets an apology and a vague promise, but no honest reason,
+      no fixed date and no offer of monthly numbers, and the risk of further churn
+      is left unquantified.
+    fit: The update is under 500 words with a sensible structure, but the wrong signature,
+      the missing company name and an ask that names clinic owners rather than chains
+      and leaves out the 20-minute call make it a weaker fit for what was asked.

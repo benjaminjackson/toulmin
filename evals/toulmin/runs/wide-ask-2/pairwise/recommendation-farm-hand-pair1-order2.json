@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-45-42Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B reads as a candid, credible reference: it explains why catching mastitis early matters and raises the leave and the English gap openly, so the praise feels trustworthy. A is more polished but adds claims not in the facts, such as 'on his own initiative' and 'no supervisor on site', and blurs the two-day notice. A quick reader would see the two letters as similarly strong."
+}

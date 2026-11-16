@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T19:19:40.357205+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 420
+  tags: []
+  notes: extracted 420 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 5
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 6
+    qualification: 3
+    objections: 5
+    fit: 6
+  details:
+    agree: The apology up front and the candid account of the churn would help with
+      an investor who is already cold, but the runway section is an unfilled bracket,
+      and that leaves this reader without the one thing they need to decide whether
+      to keep backing the company.
+    honest: The numbers are accurate (about 11 months of runway, about 13% of revenue,
+      no-shows nearly halved), but 'independents are a different situation' and the
+      claim that the standalone feature avoids competing with built-in schedulers
+      are stated with more confidence than the brief supports.
+    works_the_facts: It works out the runway, the lost customer's share of revenue
+      and the no-show improvement, but it never says how many $150 reminder subscriptions
+      would cover the $44,000 monthly burn (about 290) or when cash runs out (around
+      late 2027).
+    right_comparison: 'It names the trend of records vendors bundling scheduling and
+      the flat revenue, but it never spells out what happens if nothing changes: flat
+      revenue until the cash runs out in about 11 months.'
+    qualification: The promise to report sign-ups next quarter has no target number
+      and no consequence if it is missed, and the runway plan is still a placeholder.
+    objections: 'It answers the missed-updates complaint directly and admits the churn
+      is structural, but it leaves open this reader''s real question: what is the
+      plan for the 11 months of runway, and why keep funding?'
+    fit: It is under 500 words and has the right shape for an investor update, but
+      the bracketed placeholders mean it can't be sent to the 11 investors as written.

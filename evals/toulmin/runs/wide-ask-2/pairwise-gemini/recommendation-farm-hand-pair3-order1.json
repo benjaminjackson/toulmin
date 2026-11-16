@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-47-21Z",
+  "without_skill_run": "2026-11-16T19-19-09Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A sounds like an authentic, plainspoken farm manager, which makes its praise of Tomás's technical and animal-handling skills much more credible. While Document A invents that the farm was left short-handed during his emergency leave, Document B also invents facts (that he taught himself the software without being told to, and that he has run the shift for 'most of that time') while reading like a generic template."
+}

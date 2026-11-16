@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:47:47.066358+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 186
+  tags: []
+  notes: extracted 186 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 4
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 3
+    objections: 3
+    fit: 6
+  details:
+    agree: 'The plain apology lands, but this household left over getting no credit
+      and no communication during thin weeks. Nothing here promises either one: there
+      is no weather credit and no weekly email, and the pause credit doesn''t help
+      with hail, so they would probably stay away.'
+    honest: Every fact matches the brief, and the email admits the nets cover only
+      tomatoes and peppers. The one soft spot is 'much better prepared', which is
+      a judgment rather than something the brief shows.
+    works_the_facts: 'The figures are just restated: $31,000, $540 ''the same as last
+      year'', and 52 shares left. Nothing is worked out from them, such as what a
+      cut box was worth to a member, or that a two-week pause credit is worth about
+      $49 at roughly $24.50 a week.'
+    right_comparison: The email contrasts last July with this year's preparations,
+      but it never shows how a hail week would now play out for a member compared
+      with last year, which is the comparison this reader cares about.
+    qualification: '''Nobody can promise a season without bad weather'' is honest
+      but gives the reader nothing to check. It could have named a threshold, such
+      as credit for any week weather cuts a box by more than a third.'
+    objections: The reader's two complaints were no credit for thin boxes and silence
+      when things went wrong. The email answers neither, and the pause credit sidesteps
+      the weather question.
+    fit: It is a short email under 200 words with a clear subject line. But it has
+      no signature or farm name and no sign-up link or directions, so the call to
+      act is incomplete.

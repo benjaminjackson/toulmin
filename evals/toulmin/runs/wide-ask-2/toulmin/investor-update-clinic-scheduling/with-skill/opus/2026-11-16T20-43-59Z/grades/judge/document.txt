@@ -1,0 +1,26 @@
+Subject: Quarterly update: MRR held at $41K after losing our largest customer; standalone reminders launch next month
+
+Hi all,
+
+First, I owe you an apology. I didn't send updates for the last two quarters, and I should have. Here is where things stand.
+
+**The numbers**
+- Monthly recurring revenue: $41,000, the same as three months ago.
+- Clinics: 9 added, 4 lost, so 5 more than last quarter.
+- Cash: $480,000. We lose about $44,000 a month, so at today's revenue we have roughly 11 months of runway.
+
+**What happened**
+One of the four clinics we lost was our largest customer, a 12-clinic chain paying $5,500 a month. They moved to the scheduler built into their electronic records system. New clinics replaced that revenue, so recurring revenue held steady. But that means a quarter of new sales went to replacing lost revenue instead of growing.
+
+The chain's decision shows a real risk. When a clinic's records system comes with a scheduler, that scheduler is already paid for and usually good enough, which makes it a hard competitor. As long as we only sell scheduling, we can lose more customers the same way.
+
+**What's working**
+Our automatic text reminders. Clinics using them have a no-show rate of 7%, down from 13% before they started. That's nearly half of their missed appointments gone. A missed physical therapy appointment is lost revenue for the clinic, so reminders are the part of our product with the clearest dollar value. One caveat: these are before-and-after figures for the same clinics, not a controlled comparison.
+
+**What we're doing next**
+Next month we start selling the reminder feature on its own for $150 a month. That lets us sell to clinics that use the scheduler in their records system, the same situation that cost us the chain, without asking them to replace it. Every 10 clinics that sign up adds $1,500 in monthly recurring revenue.
+
+**Where this leaves us**
+If nothing changes, we have about 11 months of cash. Growth now has to come from two places: new scheduling clinics, and clinics that buy reminders alone. The coming quarter will show whether clinics will pay $150 a month for reminders by themselves. That is the number we're watching most closely.
+
+Thanks for your patience and your support. I'm happy to talk any of this through.

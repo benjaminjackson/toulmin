@@ -1,0 +1,21 @@
+{
+  "task": "staff-branch-closures",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-19-13Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Please let your manager know your decision by [date].",
+      "why": "The brief does not state that staff should report their decision to their manager."
+    },
+    {
+      "quote": "Before then, you'll each have a one-on-one conversation to go through the details and answer your questions.",
+      "why": "The brief does not mention one-on-one conversations, and the user's background notes only allow for an optional meeting with HR for anyone who wants one rather than a mandatory meeting for each person."
+    },
+    {
+      "quote": "I'll be holding an open Q&A on [date/time/location or link].",
+      "why": "Neither the brief nor the user's background information mentions holding an open Q&A event."
+    }
+  ],
+  "invented_count": 3
+}

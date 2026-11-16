@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-44-50Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters do a surprisingly good job of translating classroom experience into manufacturing terms without overpromising on training times, and both address the lack of GMP experience head-on. However, Document A uses a cleaner, scannable format and avoids inventing slight details about record-keeping and written SOPs that weren't in the candidate's initial facts."
+}

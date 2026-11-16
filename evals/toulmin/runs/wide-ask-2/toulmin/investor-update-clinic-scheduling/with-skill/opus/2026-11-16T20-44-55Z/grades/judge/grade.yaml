@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:45:40.476153+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 394
+  tags: []
+  notes: extracted 394 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 5
+    honest: 4
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 3
+    objections: 4
+    fit: 7
+  details:
+    agree: The apology and plain numbers help, but this investor wants a concrete
+      commitment and a real ask. They get only a vague 'every quarter' with no January
+      7 date, no monthly numbers offer and no request for a 20-minute call, so the
+      reply may stay cold.
+    honest: The update is signed 'Ben' when the founder is Sam Patel. It claims without
+      evidence that reminders are the 'hardest for clinics to give up' and that lost
+      chains would buy them. It also leaves out the two remaining customers on the
+      same records system, who pay $3,800 a month and could leave the same way.
+    works_the_facts: 'Several useful figures are worked out correctly: about 11 months
+      of runway, $46,500 counterfactual MRR (+13%), a 46% drop in no-shows, and about
+      290 reminder customers to cover burn. But it never sets the 6 committed clinics
+      against the roughly 290 needed, or against the runway.'
+    right_comparison: 'It never says what happens if nothing changes: flat MRR, cash
+      gone around October 2027, and another $3,800 MRR exposed to the same records-system
+      risk.'
+    qualification: The only hedge is a promise to report reminder results 'next quarter',
+      with no date, no target number and no consequence if the launch falls short.
+    objections: The investor will ask why the updates stopped and whether this will
+      happen again. The update doesn't give the honest reason (Sam didn't want to
+      send bad news) or a dated commitment, and it ignores the obvious worry about
+      more customers leaving for their records system's scheduler.
+    fit: It is a well-structured investor email under 500 words, but it is signed
+      with the wrong name and its closing ask is vaguer than the specific one Sam
+      wanted.

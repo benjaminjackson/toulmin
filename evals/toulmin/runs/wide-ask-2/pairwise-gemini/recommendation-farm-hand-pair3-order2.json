@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-47-21Z",
+  "without_skill_run": "2026-11-16T19-19-09Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A presents the 5-week absence for a family medical emergency professionally as leave, whereas Document B unnecessarily highlights the two-day notice and goes beyond the brief to claim it left the farm short-handed (which actually contradicts the user's hidden facts). Additionally, Document A includes essential placeholders for the applicant's last name and the manager's contact information, making it a more functional template."
+}

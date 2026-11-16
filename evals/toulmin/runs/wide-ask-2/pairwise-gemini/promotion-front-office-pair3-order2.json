@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-45-39Z",
+  "without_skill_run": "2026-11-16T19-19-17Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B translates her operational improvements into concrete payroll math—showing me she moved us from 81 double-paid training shifts to 25—which gives me much more confidence she can handle the $1.1M budget than Document A's generic learning plan. It also frames the guest scores smartly by focusing on how her staffing stability will maintain the 8.6 score once the novelty of our renovation wears off."
+}

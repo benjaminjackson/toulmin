@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-45-40Z",
+  "without_skill_run": "2026-11-16T19-19-40Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B is more candid about the risk: it says it expects other multi-location customers to face the same choice. It also gives concrete math for the reminder product (about 37 reminder-only clinics would replace the lost chain), which makes me more inclined to keep backing the company. A does address runway and fundraising more directly, but both have a signature problem: B is signed 'Ben' instead of the founder's name, and A leaves an unfilled '[Your name]', so the gap is small."
+}

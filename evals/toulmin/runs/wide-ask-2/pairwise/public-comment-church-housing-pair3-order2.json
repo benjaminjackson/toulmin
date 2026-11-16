@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-45-46Z",
+  "without_skill_run": "2026-11-16T19-19-20Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both admit the drop from C to D and neither mentions the builder-funded signal. B is a little more convincing: its yes-or-no choice is sharper, the kindergarten-to-third-grade image is vivid, and its 'one in six' figure is accurate, while A overclaims that residents' cars won't end up on our street. A does gain trust by disclosing church membership, which B leaves out."
+}

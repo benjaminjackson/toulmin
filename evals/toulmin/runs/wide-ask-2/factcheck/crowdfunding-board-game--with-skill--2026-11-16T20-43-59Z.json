@@ -1,0 +1,25 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-43-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "On BoardGameGeek, the 23 people who have rated it give it an average of 8.1.",
+      "why": "The brief only refers to 'the main board game ratings site' and does not name BoardGameGeek."
+    },
+    {
+      "quote": "But every one of those ratings comes from someone who actually played the game.",
+      "why": "The user only knows that 'most' of the 23 ratings came from people who played at the two conventions, not every single one of them."
+    },
+    {
+      "quote": "What's left, roughly $5,400, covers the crowdfunding platform's fees and payment processing.",
+      "why": "The user stated that platform and payment fees take about 10% of the $28,000 goal ($2,800), not the entire remaining $5,400."
+    },
+    {
+      "quote": "I came after three years, 140 sessions, two conventions and a factory quote in hand.",
+      "why": "The brief only says playtesting has run 'since 2023' and does not give a current year or state that three years have passed."
+    }
+  ],
+  "invented_count": 4
+}

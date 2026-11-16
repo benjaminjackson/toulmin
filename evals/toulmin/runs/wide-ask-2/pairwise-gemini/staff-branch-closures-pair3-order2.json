@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-48-06Z",
+  "without_skill_run": "2026-11-16T19-19-13Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A treats us with more respect by not trying to spin moving to a call center with rotating shifts as 'better' for us, and it includes concrete next steps like a one-on-one conversation and a decision deadline. Document B's 'Why I believe this is better' section feels out of touch when we are losing our branches, our face-to-face work, and our 9-to-5 schedules."
+}

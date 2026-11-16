@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:46:37.994923+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 341
+  tags: []
+  notes: extracted 341 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 4
+    objections: 6
+    fit: 7
+  details:
+    agree: The 3 a.m. solo shift, the two missed shifts and the nine early mastitis
+      cases make a believable case, but a skeptical reader gets no dollar value, no
+      word on how he would keep working during the program and no contact number,
+      so the letter is less likely to stand out among 150 applicants.
+    honest: Every specific fact comes from the brief and nothing is invented; 'one
+      of the most dependable people I have employed' is the manager's own judgement
+      and a little generous given the five-week absence, but it is not a factual overstatement.
+    works_the_facts: 'The letter repeats the raw facts without deriving anything from
+      them: it never turns two missed shifts out of roughly 780 scheduled into an
+      attendance rate above 99%, and it never says what the nine early mastitis catches
+      meant for the farm.'
+    right_comparison: "It gives little sense of how Tom\xE1s compares with a typical\
+      \ applicant or with what the program usually expects, apart from saying he is\
+      \ 'already doing the kind of work your program trains people for.'"
+    qualification: A reference letter of this kind does not need conditional claims
+      or hedges with dates attached.
+    objections: It deals openly with the two likely objections, weak written English
+      and the five-week absence, but the absence is framed as 'two days' notice' with
+      nothing to soften it, and the night class is mentioned without any sign of progress,
+      so a resisting reader's doubts about reliability and coursework are only partly
+      answered.
+    fit: "It is a one-page letter from the farm manager in the right form and tone,\
+      \ but the name, farm and phone number are still placeholders and Tom\xE1s's\
+      \ surname is missing."

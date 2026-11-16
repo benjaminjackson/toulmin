@@ -1,0 +1,25 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-45-07Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The supply boat won't come again until spring. The lamp has to stay lit every night. One to four players share a lighthouse keeper's work and worries: rationing oil and food, mending what the storms break, and keeping everyone at the table going until the ice breaks up.",
+      "why": "The brief only states that the game is about seeing a lighthouse keeper's family through a winter, without mentioning a supply boat, keeping the lamp lit every night, rationing oil and food, mending storm damage, or waiting for the ice to break up."
+    },
+    {
+      "quote": "I've watched families, game groups and first-time players get through the same winter in very different ways.",
+      "why": "The brief states that 140 playtest sessions were run with about 60 people, but does not say those people included families, game groups, or first-time players."
+    },
+    {
+      "quote": "I've changed every rule that confused people and every turn that dragged.",
+      "why": "Neither the brief nor the user's additional information mentions what changes were made during playtesting or that rules confused people and turns dragged."
+    },
+    {
+      "quote": "But every one of them comes from someone who sat down, played a whole winter, and then chose to rate it.",
+      "why": "The user only knows that most of the 23 ratings came from people who played at the two conventions, not that every single rater played a complete game."
+    }
+  ],
+  "invented_count": 4
+}

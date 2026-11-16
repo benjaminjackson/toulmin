@@ -1,0 +1,64 @@
+#!/usr/bin/env bash
+# The one final test on the sealed tasks. Run it once, after the skill has stopped changing.
+# No arguments. It writes to runs/sealed-*.
+# Why a script: the test has many steps, and a step done by hand in a different way would make the result hard to trust.
+#
+# What it runs, all in conversation mode (a simulated user answers the writer), 4 runs per task:
+#   1. runs/sealed-shipped: the skill as shipped against bare Claude. This is the readiness test.
+#   2. runs/sealed-ask-only: a control skill that only says "ask questions first", against the same bare documents.
+#   3. runs/sealed-questions-only: a control with the shipped skill's question list and nothing else.
+# Then head-to-head comparisons that show where the gain comes from:
+#   shipped vs questions-only   = what the framework adds to the questions
+#   questions-only vs ask-only  = what the specific questions add to a plain instruction to ask
+#   shipped vs ask-only         = both together
+# Every comparison is judged by opus, gemini and the held-out fable judge, and fact-checked.
+set -uo pipefail
+# Work from the folder this script is in, so the script runs from any checkout.
+cd "$(dirname "${BASH_SOURCE[0]}")" || exit 1
+export TOULMIN_MODE=conversation
+runs_per_task=4
+judges="opus gemini fable"
+
+# Judge one runs directory with all three judges, fact-check it, and write summary.md and verdict.md.
+# Argument: the runs directory. Each judge and the fact check run twice; the second pass repeats only failed calls.
+judge_round() {
+  local runs_directory=$1
+  local judge
+  # $judges is left unquoted on purpose, so that the shell splits it into one word per judge.
+  for judge in $judges; do
+    ./pairwise --judge "$judge" "$runs_directory" > "$runs_directory/pairwise-$judge.log" 2>&1
+    ./pairwise --judge "$judge" "$runs_directory" >> "$runs_directory/pairwise-$judge.log" 2>&1
+  done
+  ./factcheck "$runs_directory" > "$runs_directory/factcheck.log" 2>&1
+  ./factcheck "$runs_directory" >> "$runs_directory/factcheck.log" 2>&1
+  ./summary "$runs_directory" > "$runs_directory/summary.md"
+  ./verdict "$runs_directory" > "$runs_directory/verdict.md"
+}
+
+# 1. The shipped skill against bare Claude.
+./run-round runs/sealed-shipped "$runs_per_task" judge sealed | grep -c "^OK"
+judge_round runs/sealed-shipped
+echo "done sealed-shipped"
+
+# 2 and 3. Each control against the same bare documents. Copying the bare arm first makes run-round write only the skill arm.
+for control_name in ask-only questions-only; do
+  control_directory="runs/sealed-$control_name"
+  for task_directory in runs/sealed-shipped/toulmin/*/; do
+    task_name=$(basename "$task_directory")
+    mkdir -p "$control_directory/toulmin/$task_name"
+    if [ ! -d "$control_directory/toulmin/$task_name/without-skill" ]; then
+      cp -R "$task_directory/without-skill" "$control_directory/toulmin/$task_name/without-skill"
+    fi
+  done
+  TOULMIN_PLUGIN_DIR="$PWD/variants/$control_name" ./run-round "$control_directory" "$runs_per_task" judge sealed | grep -c "^OK"
+  judge_round "$control_directory"
+  echo "done sealed-$control_name"
+done
+
+# Head-to-head comparisons between the three versions.
+export COMPARE_PREFIX=sealed
+export COMPARE_JUDGES="$judges"
+./compare-variants shipped questions-only > /dev/null
+./compare-variants questions-only ask-only > /dev/null
+./compare-variants shipped ask-only > /dev/null
+echo "done sealed comparisons"

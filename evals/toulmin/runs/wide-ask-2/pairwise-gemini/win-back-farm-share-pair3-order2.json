@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-47-47Z",
+  "without_skill_run": "2026-11-16T19-19-03Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B is more honest about the risk ('one storm is less likely to take as much' vs Document A's unrealistic 'one storm can't take everything') and directly addresses my frustration with the silence by apologizing for not giving a real explanation."
+}

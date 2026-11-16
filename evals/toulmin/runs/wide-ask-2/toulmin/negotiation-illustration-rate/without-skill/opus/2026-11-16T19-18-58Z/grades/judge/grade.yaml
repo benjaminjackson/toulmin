@@ -1,0 +1,52 @@
+grader: judge
+graded: '2026-11-16T19:19:23.200437+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 181
+  tags: []
+  notes: extracted 181 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 4
+    objections: 4
+    fit: 9
+  details:
+    agree: The warm tone, the proven sales and the specific ask below the outside
+      rate will likely get the editor to talk, but nothing gives them a reason to
+      go $2,500 over budget rather than hire the $8,000 illustrator.
+    honest: It drops the unsupported 'every other publisher pays $12,000' claim and
+      stays with the brief's facts, though 'full-time' is added to the four months
+      and the brief doesn't say that.
+    works_the_facts: It lists the raw facts but derives nothing from them, such as
+      four years with no increase, $9,000 spread over four months of work, or what
+      two 20,000-copy titles are worth to the publisher compared with the size of
+      the ask.
+    right_comparison: It compares against outside rates but never describes the editor's
+      real alternative, an unproven illustrator with no sales record, or what that
+      would risk.
+    qualification: A straightforward fee request with no forecast or condition needs
+      no hedge.
+    objections: The resisting editor's main objections, a fixed $9,000 budget and
+      a cheaper newer illustrator, are never addressed, apart from a light nod to
+      loyalty.
+    fit: It is a clean, polite email of about 190 words, under the 250-word limit,
+      with a clear ask and a next step.

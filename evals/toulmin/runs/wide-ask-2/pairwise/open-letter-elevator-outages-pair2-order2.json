@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-44-56Z",
+  "without_skill_run": "2026-11-16T19-18-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B makes me act: it says the letter is going to the lobby and a TV station and that my reply will be posted next to it, and it never claims to speak for more than the 74 households that signed. A opens by claiming to write for all 112 apartments, which lets me treat it as a few loud people overstating their case, and it puts no public pressure on me to answer."
+}

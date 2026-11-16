@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-43-59Z",
+  "without_skill_run": "2026-11-16T19-18-00Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B states that 74 households are about two-thirds of the building, which makes it hard to dismiss the association as a few loud people. It also points out that the June '6 to 8 weeks' would have ended in August, the month of the 12-day outage, and says plainly that the letter is going public, so I would have to respond. A has unfilled placeholders, and it adds claims that aren't in the facts, such as families with children being stuck and residents unable to buy groceries, which makes it easier to brush off."
+}

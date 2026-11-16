@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:45:39.066569+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 403
+  tags: []
+  notes: extracted 403 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 4
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 3
+    qualification: 3
+    objections: 3
+    fit: 8
+  details:
+    agree: He'll find it warm and sensible, but it gives in to his renovation view
+      instead of answering it, and it never deals with the bigger-hotel candidate,
+      so it probably won't change his mind.
+    honest: It drops the unsupported 'main reason' claim and gets the numbers right
+      (64% to 36%; 5 vs 9 shifts is 'nearly half' at a stretch), but 'tells you more
+      than an interview can' and 'waits through a search' overstate things, since
+      a candidate is already being interviewed.
+    works_the_facts: 'It turns the turnover figures into rates and an absolute count,
+      but it misses the strongest numbers available: the rise from 7.9 to 8.2 before
+      the renovation began, no uncovered shifts, and overtime under plan during the
+      seven weeks.'
+    right_comparison: It describes the outside hire as a future search plus ramp-up,
+      while the real alternative is a specific candidate already interviewing who
+      has larger-hotel experience, and it never weighs that experience.
+    qualification: 'The budget plan has a 90-day review, but the monthly reviews run
+      ''until you''re confident'', with no measurable target and no consequence if
+      it''s missed, and it leaves out the checkable commitments that were available:
+      the finance course in 3 months and weekly sessions with the controller.'
+    objections: The GM's main objection, that the renovation drove the scores, gets
+      a soft 'a renovation can't provide the person behind the desk' instead of the
+      pre-renovation rise from 7.9 to 8.2, and the outside candidate's experience
+      is never addressed.
+    fit: It's a clear one-page memo with good headings, though it uses generic titles
+      where the actual names were available.

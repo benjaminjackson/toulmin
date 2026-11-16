@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-45-07Z",
+  "without_skill_run": "2026-11-16T19-18-58Z",
+  "a_arm": "with-skill",
+  "winner": "tie",
+  "winner_arm": "tie",
+  "margin": "none",
+  "reason": "Both emails make the same honest case: four years at $9,000, two books over 20,000 copies, a state reading list, a $12,500 fee elsewhere and the agent's range. Both ask warmly for $11,500. B's 'lower end of the range' framing and offer of a call are a little stronger, but its unfilled placeholders and unsupported 'full-time' claim offset that, so as the editor I'd respond to either the same way."
+}

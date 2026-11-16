@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-45-42Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B frames the five-week absence appropriately as a family medical leave rather than dwelling on the two days' notice, which in Document A raises an unnecessary red flag about whether he might suddenly drop out of the program. However, Document B slightly stretches the facts by claiming he learned the software 'on his own initiative,' making the preference slight."
+}

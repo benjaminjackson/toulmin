@@ -1,0 +1,21 @@
+{
+  "task": "grant-refrigerated-van",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-45-09Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Fresh food is the hardest thing for us to get, because it has to stay cold from the moment we pick it up.",
+      "why": "The brief does not state that fresh food is the hardest item for the food bank to acquire."
+    },
+    {
+      "quote": "because this van closes the gap that cost us the most food last year.",
+      "why": "The brief mentions turning down 9,000 pounds of produce, but does not state whether this was the largest single loss of food last year."
+    },
+    {
+      "quote": "At the end of the first harvest season, we will report to the foundation how many pounds of fresh food the van collected and from how many farms, measured against the 9,000 pounds we had to turn down last summer.",
+      "why": "The user only committed to reporting fresh food pounds quarterly and filing a final report 30 days after the grant year ends, not a report at the end of the first harvest season tracking farm counts."
+    }
+  ],
+  "invented_count": 3
+}

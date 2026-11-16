@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-43-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "The two emails make almost the same case with the same honest numbers, and neither makes the overstated claim that every other publisher pays at least $12,000. B is slightly stronger because it points out that $11,500 is less than what I was paid elsewhere, while A adds \"full-time,\" which the brief doesn't support, and leaves bracketed placeholders."
+}

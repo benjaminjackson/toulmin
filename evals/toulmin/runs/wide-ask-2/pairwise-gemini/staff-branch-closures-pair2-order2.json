@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-47-19Z",
+  "without_skill_run": "2026-11-16T19-18-40Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Neither document includes the details that would actually make me consider staying, such as the $1.50 raise, seniority-based shift selection, or the 6-month severance safety net. However, Document A is slightly better because it avoids the tone-deaf 'I want you to hear this from me first' line after two weeks of rumors, and it promises to explain how the shift rotation works before we have to decide."
+}

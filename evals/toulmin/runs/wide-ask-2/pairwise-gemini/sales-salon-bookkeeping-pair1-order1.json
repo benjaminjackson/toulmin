@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-46-29Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document B immediately hooks me by mentioning the exact headaches of salon money like tips, commissions, and retail, whereas Document A feels more generic and brings up a recent price hike from $149 to $199 without explaining why, which is off-putting when I currently only pay my cousin $600 a year. Both make it clear that this service works alongside my existing tax person rather than replacing my cousin, so I'm slightly more inclined to book the call after reading B."
+}

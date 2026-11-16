@@ -1,0 +1,76 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+Marisol Ortega, the program officer at the county community foundation, who reads the application first and recommends yes or no to the grants committee. She funded this food bank's shelving in 2023 and had to chase its final report for four months.
+</reader>
+
+<brief>
+I need help with the narrative section of a grant application. I'm the director of a volunteer-run food bank in a town of about 9,000 people, and we're applying to our county community foundation for a refrigerated van.
+
+What I have:
+- We hand out about 38,000 pounds of food a month to 610 households. About 6,000 pounds of that is fresh produce, milk and eggs.
+- Last summer, local farms offered us roughly 9,000 pounds of produce over three months that we had to turn down because we had no way to pick it up cold or store it.
+- The van costs $68,000. We're asking the foundation for $50,000 and covering the other $18,000 from our reserves, which would leave us with $11,000.
+- We have 23 regular volunteers. Four of them have said they would drive the van on a weekly schedule.
+- The foundation gave us $12,000 for shelving in 2023. Our final report on that grant was four months late.
+
+I want the narrative to say the van will let us double the amount of fresh food we hand out in the first year. The narrative is limited to 500 words.
+</brief>
+
+The user also knew the following and gave some of it to the writer when asked:
+<user_knows>
+- The food bank is the Millbrook Community Pantry. I'm Joan Pruitt, director. The application is due April 1.
+- The shelving report was late because our treasurer then was in the hospital for most of that time. Our treasurer now is Dave Lin.
+- Two of the farms have written letters saying they will give again if we can pick up cold.
+- Insurance and fuel for the van will cost about $4,500 a year. That is not in our budget yet.
+- I can commit to naming Dave Lin as the person responsible for the final report, due 30 days after the grant year ends.
+- I can commit to sending the foundation our fresh food pounds every quarter.
+- I cannot promise the farms will offer the same 9,000 pounds again.
+- I know 9,000 pounds over one summer does not double our fresh food. If that is pointed out, I'll go with what the numbers support.
+</user_knows>
+
+<document>
+**Project Narrative: Refrigerated Van for Fresh Food**
+
+Our volunteer-run food bank distributes about 38,000 pounds of food every month to 610 households in a town of roughly 9,000 people. Only about 6,000 pounds of that is fresh produce, milk and eggs. The reason is not a lack of fresh food. It is that we have no refrigerated transport. We are requesting $50,000 toward a $68,000 refrigerated van.
+
+**The fresh food is already available**
+
+Last summer, local farms offered us roughly 9,000 pounds of produce over three months. We turned all of it down because we had no way to pick it up cold or store it. Had we been able to accept it, our fresh food distribution in those three months would have risen by half, from about 18,000 pounds to 27,000.
+
+**What the van will do in its first year**
+
+With the van, we can say yes to offers like last summer's. That alone adds about 9,000 pounds of fresh food a year, a 12.5 percent increase in our annual fresh distribution. In the summer months, when farms have the most to give, the increase is 50 percent. We will treat 9,000 pounds as our floor and report our results against it.
+
+**How it will run**
+
+We have 23 regular volunteers. Four of them have committed to driving the van on a weekly schedule, so pickups will not depend on any one person.
+
+**How we are sharing the cost**
+
+We will cover the remaining $18,000 from our own reserves, more than a quarter of the van's price. That leaves us with $11,000 in reserve. We are willing to spend that much of our cushion because no other purchase would change what we can offer our households as much as this one.
+
+**Our record with the Foundation**
+
+The Foundation granted us $12,000 for shelving in 2023. Our final report on that grant was four months late. We know that matters when you consider a request more than four times larger. For this grant, we propose reporting the pounds of fresh food collected by the van every quarter, so the Foundation can see results as they come in rather than only at the end.
+
+**If we cannot buy the van**
+
+Without it, we will be in the same position next summer. Farms will offer us fresh produce and we will have to say no. The 610 households we serve will keep receiving mostly shelf-stable food while produce that was offered to them is turned away.
+
+With the Foundation's support, the next offer of fresh food from a local farm will reach those households.
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

@@ -1,0 +1,17 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-43-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I drive Alder Road every day",
+      "why": "The brief states the speaker lives on Alder Road, not that they drive it every day."
+    },
+    {
+      "quote": "I'll be one of the people waiting.",
+      "why": "The brief does not state that the speaker uses the intersection at Alder and 4th during rush hour."
+    }
+  ],
+  "invented_count": 2
+}

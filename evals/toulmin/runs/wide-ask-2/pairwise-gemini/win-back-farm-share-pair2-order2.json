@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-47-12Z",
+  "without_skill_run": "2026-11-16T19-18-32Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A directly addresses my frustration that the farm went quiet after the storm by promising quick, detailed communication if something goes wrong again, whereas Document B says nothing about improving communication. While neither offers a weather-loss credit, A's explicit apology for the silence and pledge to communicate better makes me much more inclined to trust them again."
+}

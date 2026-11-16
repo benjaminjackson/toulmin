@@ -1,0 +1,49 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-18-48Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I drive through that intersection.",
+      "why": "The brief says the speaker lives on Alder Road, but does not say whether the speaker drives or uses the intersection at Alder and 4th."
+    },
+    {
+      "quote": "I'll be one of the people waiting a little longer at that light.",
+      "why": "The brief does not say there is currently a traffic light at the intersection of Alder and 4th (and the user's extra context notes the builder has offered to pay to install one)."
+    },
+    {
+      "quote": "And I'd ask you to weigh a few extra seconds at a stoplight against what's on the other side of the scale.",
+      "why": "The brief does not say the intersection has a stoplight or that the drop from a C rating to a D rating equals a delay of 'a few extra seconds.'"
+    },
+    {
+      "quote": "That's three years of families doubling up, of seniors choosing between rent and medicine, of people who work here commuting in from somewhere cheaper.",
+      "why": "The brief gives the number of households on the waiting list and the average wait time, but provides no details about the demographics, living situations, or commutes of those on the list."
+    },
+    {
+      "quote": "Some of those commuters are already driving on Alder Road.",
+      "why": "The brief does not state that people on the housing waiting list commute on Alder Road."
+    },
+    {
+      "quote": "That is exactly the kind of household on that waiting list.",
+      "why": "The brief does not state the income eligibility requirements or income levels of the households on the county housing authority's waiting list."
+    },
+    {
+      "quote": "The church's back parking lot is 1.8 acres of asphalt that sits empty six days a week.",
+      "why": "The brief states the lot is a 1.8-acre parking lot, but does not specify that it is paved with asphalt."
+    },
+    {
+      "quote": "We wouldn't be clearing open space or tearing anything down.",
+      "why": "The brief does not state whether any existing structures or open space on the lot would need to be cleared or torn down."
+    },
+    {
+      "quote": "Seventy-two parking spaces for 64 units means residents will park on the site, not on our street.",
+      "why": "The brief gives the number of spaces and units, but does not state how many cars residents will own or that 72 spaces will prevent street parking."
+    },
+    {
+      "quote": "The people who would live here are the people who already work in our stores, care for our parents, and teach our kids.",
+      "why": "The brief only states that tenants would earn under 60% of the area median income, without specifying their occupations or where they currently work."
+    }
+  ],
+  "invented_count": 10
+}

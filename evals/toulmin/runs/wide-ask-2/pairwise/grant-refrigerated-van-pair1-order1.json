@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-43-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B answers my main worry, the late report, more directly: it offers quarterly updates and says outright that the final report will be on time, and it frames the 9,000 pounds as an estimate based on last summer's offers. A calls 9,000 pounds a 'floor', which the farms cannot guarantee, and it never commits to the final report, though B's unfilled [Food Bank Name] placeholder is sloppy."
+}

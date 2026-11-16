@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-43-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A immediately addresses my hesitation about backing a first-time creator by showing the exact math of the $28,000 goal and being refreshingly honest about the small sample size of the BGG ratings. Document B leaves out the specific cost numbers they already had in the brief, uses bracketed placeholders, and makes up details about gameplay and playtesters that weren't in the facts."
+}

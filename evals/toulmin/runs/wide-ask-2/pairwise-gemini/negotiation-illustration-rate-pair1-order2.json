@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-43-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both emails are nearly identical in content and tone, making a fair, grounded case for $11,500 without resorting to the false claim that every publisher pays $12,000. Document A is slightly better simply because it includes placeholders for my name and the specific book titles, whereas Document B reads too generically with 'Hi,' and 'the next book' for someone I have worked with for four years."
+}

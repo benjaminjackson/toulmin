@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-43-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both handle traffic honestly, and neither mentions the offered signal. A is a bit more persuasive to traffic-focused commissioners: it explains that a D is slower but not failing and only at rush hour, and its closing about the cost of a no vote is sharp. B leaves placeholders in the text, adds descriptions of tenants that aren't in the brief, and plays the delay down as \"a little longer some mornings\"."
+}

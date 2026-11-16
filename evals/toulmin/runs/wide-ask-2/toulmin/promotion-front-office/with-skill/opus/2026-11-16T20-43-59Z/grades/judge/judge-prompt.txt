@@ -1,0 +1,67 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+The hotel's general manager, who decides who becomes front office manager. He likes the writer but is also interviewing an outside candidate who ran the front desk at a larger hotel, and he believes the rise in guest scores came mostly from the renovation.
+</reader>
+
+<brief>
+Help me write a case for my promotion. I'm the assistant front office manager at a 180-room hotel, and the front office manager job is open. I'm applying, and my general manager wants it in writing by Friday.
+
+Facts:
+- I've worked here 6 years, the last 2 as assistant manager.
+- Our guest score for check-in on the main review site went from 7.9 to 8.6 over the last 18 months. The lobby and all the rooms were renovated during the same time.
+- I rewrote the front desk training. New hires now work the desk alone after 5 shifts instead of 9.
+- Front desk turnover was 9 of 14 people in the year before I became assistant manager, and 5 of 14 last year.
+- I've covered the front office manager's job alone for the 7 weeks since she left.
+- I have never managed a budget. The front office manager owns a $1.1 million payroll budget.
+
+I want it to say I'm the main reason our guest scores went up. One page.
+</brief>
+
+The user also knew the following and gave some of it to the writer when asked:
+<user_knows>
+- My name is Daniela Ruiz. The general manager is Mark Ellison.
+- The renovation started 5 months into those 18 months. Our check-in score had already gone from 7.9 to 8.2 before it started.
+- In the 7 weeks I've covered the job, no front desk shift went uncovered, and overtime came in under the monthly plan.
+- Guest complaints about check-in waits on Friday evenings are still the most common complaint at the desk.
+- I can commit to finishing the hotel company's finance course in my first 3 months, which the company pays for.
+- I can commit to weekly sessions on the payroll budget with our controller, Ben Oduya, who has offered them.
+- I cannot match the outside candidate's experience at a larger hotel.
+- I know the renovation happened in the same period. If it is pointed out that "main reason" goes past the facts, I'm fine with saying what I did.
+</user_knows>
+
+<document>
+**To:** General Manager
+**From:** Assistant Front Office Manager
+**Re:** Application for Front Office Manager
+
+I'm applying for the Front Office Manager position. For the past seven weeks I've been doing the job on my own, so you've already seen how I'd run the department. This memo covers what I've done in my six years here, what I still need to learn, and how I plan to learn it.
+
+**I've kept front desk staff from leaving.** In the year before I became assistant manager, 9 of our 14 front desk employees left, which is 64% turnover. Last year 5 of 14 left, or 36%. That means four more experienced people on the desk each year, and four fewer jobs to recruit and train for.
+
+**I've made training faster.** I rewrote the front desk training program. New hires used to need 9 shifts before they could work the desk alone. Now they need 5. Fewer training shifts means less payroll spent before a new hire can handle the desk alone, and less time when experienced staff are pulled away from guests to train.
+
+**Guests have noticed.** Over the last 18 months our check-in score on the main review site went from 7.9 to 8.6. The lobby and rooms were renovated during that time, and that renovation surely helped. But check-in is the part of the stay the desk handles directly. A more experienced team that stays with us and is trained faster helped raise that score, and it will keep the score up after the renovation stops being new.
+
+**I've already done the job.** For seven weeks I've run the front office alone, handling staffing, schedules, guest problems and the daily operation. I've been here six years, two of them as assistant manager, so I know this hotel, this team and our guests.
+
+**What I haven't done yet.** I have never managed a budget, and this role owns a $1.1 million payroll budget. I'm not going to downplay that. I'd like to work through the next payroll budget with you before I take full ownership of it, so you can see how I handle it while there's still time to make corrections. Much of my work so far, keeping staff and training them faster, has been about using payroll better. Managing the budget is the next step in that work.
+
+If you hire from outside, the new manager will start with a team they don't know, a training program they didn't write and a hotel they're learning from scratch. I can keep moving forward without that break. I'd welcome the chance to talk this through before Friday.
+
+**From:** Assistant Front Office Manager
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

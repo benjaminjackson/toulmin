@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-46-38Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A wins me over by plainly acknowledging the exact math of our loss—that six half-full weeks equaled three weeks of vegetables we paid for and didn't get—and being honest that while they can't control the weather, they are taking real steps to protect the crops. Document B feels more like a marketing template, though both emails still leave me wishing for a better guarantee if weather ruins the harvest again."
+}

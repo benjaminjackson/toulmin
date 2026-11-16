@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T20:48:52.494021+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 428
+  tags: []
+  notes: extracted 428 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 4
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 2
+    objections: 4
+    fit: 7
+  details:
+    agree: The email is respectful and admits the change is hard, but a ten-year teller
+      who doesn't want phone work gets no decision date, no named pay increase and
+      no seniority shift choice, so the resisting reader is more likely to start looking
+      elsewhere.
+    honest: Most claims stay within the brief and the 'everyone will love it' framing
+      is avoided, but 'Members will get through to us faster' is stated as certain
+      when no staffing figure supports it.
+    works_the_facts: The 44%, 60% and 9-minute figures are repeated but never worked,
+      and the email gives no worked example of what severance comes to (say, 20 weeks
+      for ten years) or of what the 8-to-8 rotation means for each person's hours.
+    right_comparison: It names the falling branch visits and rising phone contacts
+      as trends, but never says what keeping the branches open would lead to, so the
+      reader can't weigh staying against the alternative.
+    qualification: Staff facing a decision need dates and conditions, but the email
+      gives no offer date, no decision deadline and no window for taking severance
+      after starting the new role, and 'if you decide the new role isn't right' has
+      no timing attached.
+    objections: It names the counter-to-headset and 9-to-5-to-rotating-shifts concerns
+      but then leaves them unanswered, with nothing on seniority-based shift choice,
+      a trial period that keeps severance, or one-on-one HR meetings.
+    fit: It is a COO email of roughly 400 words with a clear subject line and sections,
+      but the sign-off has no name and the email doesn't name the credit union.

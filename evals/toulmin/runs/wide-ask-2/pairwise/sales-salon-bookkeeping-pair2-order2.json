@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-47-13Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "A talks about tips, booth rent and commission, so it reads like the writer knows how my salon works, and that makes me more willing to book the call. B's warning that my accountant will charge me to sort out my books feels like a dig at my cousin. Still, A adds a 'no add-on fees' claim the facts don't support, and neither page explains why $199 a month beats the $600 a year I pay now."
+}

@@ -1,0 +1,17 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-19-20Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I drive through that intersection every day.",
+      "why": "Neither the brief nor the user's background information states that the speaker drives through the intersection at Alder and 4th every day."
+    },
+    {
+      "quote": "A slower light at Alder and 4th is a real cost, and I accept it.",
+      "why": "The brief does not say there is a traffic light at Alder and 4th, and the user's background notes show the intersection does not currently have a traffic signal."
+    }
+  ],
+  "invented_count": 2
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-43-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B immediately highlights her experience training adults in a lab setting and demonstrates real humility about how a regulated environment works. Unlike most teachers I screen, she specifically mentions learning our documentation requirements first and working with the quality team rather than cutting what regulations require, which makes me want to give her a phone screen."
+}

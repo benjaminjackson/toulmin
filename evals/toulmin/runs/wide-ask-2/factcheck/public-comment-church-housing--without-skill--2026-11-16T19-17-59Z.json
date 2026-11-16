@@ -1,0 +1,21 @@
+{
+  "task": "public-comment-church-housing",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-17-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I drive through that intersection all the time.",
+      "why": "The brief does not state the speaker's driving habits or routes."
+    },
+    {
+      "quote": "These are working families, seniors, and people starting over, and they're the ones on that list.",
+      "why": "The brief only states that the apartments are for households earning under 60% of the area median income, without specifying their demographics or stating that the tenants will be drawn from the county housing authority's waiting list."
+    },
+    {
+      "quote": "I'm one of the neighbors who'll sit at that light a little longer.",
+      "why": "The brief does not state that there is currently a traffic light at the intersection of Alder and 4th."
+    }
+  ],
+  "invented_count": 3
+}

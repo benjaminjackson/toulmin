@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-43-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "As commissioners worried about traffic and skeptical neighbors, we find Document A more persuasive because it stays strictly grounded in the facts, explains what a 'D' intersection rating actually means in practice, and explicitly connects the 72 parking spaces to keeping cars off our street. Document B speculates slightly beyond the facts about the demographics of the tenants and leaves in distracting placeholders."
+}

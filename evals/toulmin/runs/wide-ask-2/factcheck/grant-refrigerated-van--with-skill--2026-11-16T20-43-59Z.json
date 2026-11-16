@@ -1,0 +1,17 @@
+{
+  "task": "grant-refrigerated-van",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-43-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Had we been able to accept it, our fresh food distribution in those three months would have risen by half, from about 18,000 pounds to 27,000.",
+      "why": "The brief states the food bank had to turn the produce down because they had no way to pick it up cold or store it, and a refrigerated van alone does not resolve the lack of storage to allow accepting all 9,000 pounds."
+    },
+    {
+      "quote": "We are willing to spend that much of our cushion because no other purchase would change what we can offer our households as much as this one.",
+      "why": "The brief does not give the reason why the food bank is willing to spend that much of its reserves or state that no other purchase would change their offerings as much."
+    }
+  ],
+  "invented_count": 2
+}

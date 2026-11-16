@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-43-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A gives me a cost breakdown I can check, says plainly that this is a first-time creator, and doesn't oversell the 23 ratings, which is what a backer who has been burned before wants to see. B leaves its cost breakdown and component list as unfilled placeholders, so the parts I would look at hardest are missing."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-44-50Z",
+  "without_skill_run": "2026-11-16T19-18-48Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A wins my trust as both a commissioner and a skeptical neighbor because the speaker immediately discloses she is a member of the church, whereas Document B omits this and frames her solely as a neighbor. Additionally, Document A directly offers the two hesitant commissioners a constructive path forward by suggesting they make intersection improvements a condition of approval, while Document B falsely assumes there is already a stoplight at the intersection."
+}

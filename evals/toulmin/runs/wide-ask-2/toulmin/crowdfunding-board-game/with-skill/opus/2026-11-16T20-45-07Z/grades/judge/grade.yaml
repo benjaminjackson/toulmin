@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T20:45:58.834500+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 504
+  tags: []
+  notes: extracted 504 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 4
+    honest: 6
+    works_the_facts: 7
+    right_comparison: 4
+    qualification: 4
+    objections: 3
+    fit: 8
+  details:
+    agree: The cost breakdown and the candour about being a first-time creator will
+      reassure this backer somewhat, but with no delivery date, refund promise or
+      update schedule, someone who has already lost $85 is unlikely to pledge on this
+      page alone.
+    honest: It rightly drops the 'proven hit' claim and admits only 23 people have
+      rated the game, but 'every one of them' played a whole winter and then chose
+      to rate it goes beyond the brief and hides that most raters played at the designer's
+      own table, and 'changed every rule' and 'every session tells a different winter'
+      are claims the brief doesn't support.
+    works_the_facts: It works out correctly that the goal needs 572 backers, that
+      making and shipping their copies costs $22,548 and that about $5,450 is left
+      over, but it never puts the roughly $2,800 in fees against that remainder to
+      show the real cushion, and it doesn't give the unit cost of $11.60.
+    right_comparison: The only alternative it describes is that the game isn't made
+      and nobody is charged if the goal is missed; it never sets the risk of this
+      project against the reader's real choice of backing a first-time creator's campaign.
+    qualification: The all-or-nothing condition at $28,000 has a number and a consequence
+      the reader can check, but the page gives no delivery date, no refund trigger
+      if delivery runs late and no update schedule, and the hedge on the small number
+      of ratings carries no consequence.
+    objections: It raises the first-time-creator worry and answers it with a slogan
+      about being a careful land surveyor instead of the concrete safeguards a wary
+      backer needs (finished art and rules, a signed factory quote, a refund promise,
+      regular updates).
+    fit: It is a well-structured crowdfunding pitch of about 500 words, as the brief
+      asked.

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-44-32Z",
+  "without_skill_run": "2026-11-16T19-18-33Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both emails are virtually identical and rely strictly on the initial brief without including any of the extra value-adds (like the marketing spot drawings or specific schedule guarantees) that might have helped me justify exceeding my $9,000 budget. Document B flows slightly better and uses placeholders for names and titles rather than reading like a generic, nameless note to someone she has worked with for four years."
+}

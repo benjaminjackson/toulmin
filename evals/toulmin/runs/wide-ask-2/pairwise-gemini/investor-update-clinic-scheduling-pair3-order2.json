@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-45-40Z",
+  "without_skill_run": "2026-11-16T19-19-40Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A directly addresses the looming runway crunch and how this pivot dictates our next steps on spending and fundraising, which is my top priority as an investor with 11 months of cash left. It also makes a much smarter ask for strategic advice on selling an add-on alongside an incumbent, whereas Document B wastes space doing basic multiplication to show that a $150 product requires a lot of volume."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-46-18Z",
+  "without_skill_run": "2026-11-16T19-20-01Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A reads as a finished, honest application: it drops the doubling claim, frames 9,000 pounds as a realistic floor, and admits the late report directly, though it gives no mechanism to keep reports on time and leaves out operating costs. B covers those same gaps only with bracketed placeholders, so it looks like an unfinished draft and gives me no more assurance than A."
+}

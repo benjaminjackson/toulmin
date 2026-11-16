@@ -1,0 +1,21 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-43-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "This year that elevator has been out of service on 41 days, about one day in every eight.",
+      "why": "The brief does not state the current date, so it is impossible to calculate that 41 days is about one day in every eight (which assumes the current month is November, around day 328 of the year)."
+    },
+    {
+      "quote": "We would like to believe it, but we heard the same promise five months ago.",
+      "why": "The brief states that the previous promise was made in June and an inspection occurred in September, but it does not state the current month is November (five months after June)."
+    },
+    {
+      "quote": "1. A confirmed delivery date for the controller part, in writing, and an explanation of why the part that was on order in June has not arrived.",
+      "why": "The brief does not state that the part ordered in June never arrived (it could have arrived and failed again, or been a different controller part)."
+    }
+  ],
+  "invented_count": 3
+}

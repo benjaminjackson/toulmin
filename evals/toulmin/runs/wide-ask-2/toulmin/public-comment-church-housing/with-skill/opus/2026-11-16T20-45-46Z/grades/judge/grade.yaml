@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:46:39.234324+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 390
+  tags: []
+  notes: extracted 390 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 3
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 4
+    qualification: 2
+    objections: 3
+    fit: 8
+  details:
+    agree: The two commissioners who care most about traffic are told plainly that
+      Alder and 4th will drop to a D, and are given no fix; the speech never mentions
+      the builder's offer to pay for a signal that keeps it at C, so the resisting
+      reader has little reason to vote yes.
+    honest: The figures match the brief and 'about one in six' (64/412) is accurate;
+      'nobody loses a home' is a mild unstated inference, and conceding the D actually
+      understates the case rather than overstating it.
+    works_the_facts: 'It works the numbers well: the one-in-six share of the waiting
+      list, the kindergarten-to-third-grade picture of a three-year wait, and more
+      than one parking space per unit, though it misses putting the traffic figure
+      in its best true form, which is C with the signal.'
+    right_comparison: It presents the choice as 'yes means a D, no means a C,' when
+      with the signal a yes keeps the intersection at C, and it leaves out that Alder
+      already backs up at 8 a.m. without the project.
+    qualification: The speech needed to ask for approval conditioned on the traffic
+      signal, and to say whether the study rating holds, but it asks for unconditional
+      approval and gives no condition anyone can check.
+    objections: It names the traffic objection but answers it only with personal willingness
+      to pay the cost, while leaving out the signal, the written offer of weekday
+      parking for neighbours, the construction-truck concern, and the speaker's commitment
+      to the neighbour group.
+    fit: At roughly 390 words it is a spoken three-minute statement with a clear opening
+      and close, though it leaves out the speaker's name and doesn't name St. Luke's
+      or the nonprofit builder.

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-45-58Z",
+  "without_skill_run": "2026-11-16T19-19-25Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As someone who has been burned by a failed campaign, Document A wins me over by showing the exact math for the factory quote and shipping costs rather than just saying costs are worked out. It also earns my trust by being refreshingly honest that 23 ratings is a small sample size, while Document B feels like a generic template that even fabricates details about the playtesters and game mechanics."
+}

@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:44:42.525307+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 440
+  tags: []
+  notes: extracted 440 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 4
+    honest: 7
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 3
+    objections: 4
+    fit: 7
+  details:
+    agree: A GM who believes the renovation drove the scores gets only the claim that
+      the desk 'helped'. The memo leaves out the 7.9-to-8.2 rise before the renovation
+      started, the zero uncovered shifts and the overtime under plan, so it gives
+      him little reason to choose her over the larger-hotel candidate.
+    honest: It correctly drops the 'main reason' claim and admits she has never managed
+      a budget, but it predicts without evidence that the team will keep the score
+      up 'after the renovation stops being new', and it presents the payroll savings
+      as fact when they are inferred.
+    works_the_facts: It works out the 64% and 36% turnover rates and the four fewer
+      departures, but it never states the 44% cut in training shifts and never splits
+      the score rise into its before-renovation and after-renovation parts, which
+      is the split that matters most.
+    right_comparison: The outside hire is described only by what they lack (this team,
+      this hotel), and their larger-hotel experience is left out. The renovation comparison
+      misses the fact that the score was already rising before the work began.
+    qualification: 'The budget hedge (''work through the next payroll budget with
+      you'') gives no date, no measurable check and no consequence if it fails, and
+      it leaves out the available commitments: the finance course within 3 months
+      and weekly sessions with the controller.'
+    objections: The budget gap is met head-on, but the renovation objection gets only
+      a soft assertion when a decisive fact was available, and the outside candidate's
+      real advantage is never acknowledged or answered.
+    fit: It is a one-page memo as asked, but it uses role titles instead of the names
+      Daniela Ruiz and Mark Ellison, and it repeats the 'From:' line at the end.

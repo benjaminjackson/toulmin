@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T20:45:42.481941+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 177
+  tags: []
+  notes: extracted 177 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 4
+    honest: 8
+    works_the_facts: 3
+    right_comparison: 4
+    qualification: 3
+    objections: 3
+    fit: 6
+  details:
+    agree: 'The warm tone and the $12,500 comparison help, but an editor who can have
+      the book done for $8,000 gets no reason here to pay $3,500 more: the email doesn''t
+      mention the fourth printing, offers no firm dates and includes no free extras.'
+    honest: It rightly drops the unsupported 'every other publisher pays $12,000'
+      claim, though 'less than I've been paid elsewhere' makes one $12,500 fee sound
+      like a general pattern.
+    works_the_facts: The 'four months' figure is left bare instead of turned into
+      about $2,250 a month, and the email never adds up six books at an unchanged
+      rate or uses the fourth printing to show the books still sell.
+    right_comparison: 'It sets the fee against the other publisher and the agent''s
+      range, but never against the editor''s real alternative: an untested illustrator
+      with no sales record.'
+    qualification: The email asks only to 'find a time to talk' and gives no date.
+      It never mentions the end-of-next-week answer, the September 1 final art, or
+      sketches six weeks after signing, all of which the editor could check.
+    objections: The obvious objections, 'over budget' and 'someone cheaper is available',
+      go unanswered, even though the brief gives reliability, a reprinting backlist
+      and free marketing spot drawings to answer them.
+    fit: It is a short email under 250 words, but it has a generic greeting, no signature,
+      no book title (The Night Garden) and a vague subject line.

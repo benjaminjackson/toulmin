@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-43-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B directly acknowledges that a late report on a $12,000 grant is a real concern when asking for $50,000, and it notes that having four drivers means pickups won't depend on one person—which helps reassure me as someone who got burned by their lack of backup before. However, it's a slight margin because B also promises to treat 9,000 pounds as a 'floor' when farm donations can't actually be guaranteed, while A is more appropriately cautious with its projections."
+}

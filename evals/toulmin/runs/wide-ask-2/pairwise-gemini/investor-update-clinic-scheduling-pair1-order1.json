@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-43-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document B directly commits to sending future updates regardless of whether the news is good or bad, and includes a specific, actionable 'How you can help' section that gives me a clear reason to get on a call. Document A contains a mathematical error—claiming a quarter of new sales went to replacing lost revenue when in reality 100% of new sales just kept revenue flat—which further erodes my trust."
+}

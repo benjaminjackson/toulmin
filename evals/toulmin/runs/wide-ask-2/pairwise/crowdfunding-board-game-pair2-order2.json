@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-45-07Z",
+  "without_skill_run": "2026-11-16T19-18-43Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B is honest that 23 ratings is a small sample and shows its numbers in full: about 572 backers, $22,548 to make and ship the games, and the rest for fees and a cushion. A overstates the testing as 'hundreds of tables', gives a vague budget, has unfilled placeholders and claims things with nothing to back them, which makes a wary backer trust it less."
+}

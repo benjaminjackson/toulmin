@@ -1,0 +1,33 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-18-00Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Families with small children, residents carrying groceries and people recovering from illness or injury are stuck as well.",
+      "why": "The brief does not state that there are families with small children or people recovering from illness or injury in the building."
+    },
+    {
+      "quote": "Five months later, we're still waiting",
+      "why": "The brief mentions events in June and September, so the current month is unknown and cannot be calculated to be five months after June."
+    },
+    {
+      "quote": "we've had no explanation for the delay.",
+      "why": "The brief does not state whether or not management gave an explanation for why the part has not arrived since June."
+    },
+    {
+      "quote": "an elevator that passes inspection and then stops working for days at a time",
+      "why": "The brief does not state that the elevator broke down for days at a time after the September inspection."
+    },
+    {
+      "quote": "we haven't seen the assessment behind it",
+      "why": "The brief does not state that management has a formal assessment or that the tenants have not seen it."
+    },
+    {
+      "quote": "Share the assessment showing a second elevator isn't feasible",
+      "why": "The brief does not state that an assessment showing a second elevator isn't feasible exists."
+    }
+  ],
+  "invented_count": 6
+}

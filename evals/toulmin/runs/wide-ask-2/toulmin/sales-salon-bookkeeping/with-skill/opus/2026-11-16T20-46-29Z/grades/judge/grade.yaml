@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:47:13.502494+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 319
+  tags: []
+  notes: extracted 319 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 3
+    honest: 8
+    works_the_facts: 5
+    right_comparison: 2
+    qualification: 4
+    objections: 2
+    fit: 8
+  details:
+    agree: A four-chair owner whose cousin does her books for $600 a year finds nothing
+      that speaks to her situation, so a fee that works out to $2,388 a year looks
+      like replacing him at four times the cost, and she is unlikely to book.
+    honest: Every figure matches the brief and the missed deadlines are admitted openly,
+      though 'Nobody gets a better deal than you' and 'Salon owners stay' lean a little
+      beyond the bare facts.
+    works_the_facts: Turning the $800 saving into about four months of fees is a good
+      derived figure, but the page never states the annual cost and never puts the
+      three misses as a rate, such as 9 of 12 months on time.
+    right_comparison: The reader's real alternative is a relative who does the books
+      once a year at tax time, and the page never describes it, never says the accountant
+      keeps doing the income tax return, and never compares year-end catch-up with
+      monthly books.
+    qualification: 'The 10th-of-the-month promise gives a date and an honest record,
+      but it leaves out the consequence the writer could have offered: that month''s
+      fee is free if she misses it.'
+    objections: The page doesn't answer the main objections, 'my cousin already does
+      this' and 'it costs too much', even though the writer had the answers (Carla
+      doesn't do income tax, so the cousin keeps that job; no contract, 30 days' notice;
+      the price went up because payroll was added), and the price-rise section raises
+      a worry without giving that reason.
+    fit: At roughly 330 words with a booking button at the end, it matches the length
+      and form the brief asked for, though it doesn't say calls run Tuesday to Saturday.

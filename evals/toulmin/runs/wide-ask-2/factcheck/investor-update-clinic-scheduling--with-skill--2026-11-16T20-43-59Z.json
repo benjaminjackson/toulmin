@@ -1,0 +1,17 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-43-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "But that means a quarter of new sales went to replacing lost revenue instead of growing.",
+      "why": "Since the brief shows that monthly recurring revenue stayed flat at $41,000, 100% of new sales revenue went to replacing lost revenue, not a quarter of it (unless the writer meant \"a quarter's worth of new sales,\" which is not supported as a fraction of sales)."
+    },
+    {
+      "quote": "When a clinic's records system comes with a scheduler, that scheduler is already paid for and usually good enough",
+      "why": "The brief does not state whether schedulers built into electronic records systems are already paid for (versus costing extra) or whether they are usually good enough."
+    }
+  ],
+  "invented_count": 2
+}

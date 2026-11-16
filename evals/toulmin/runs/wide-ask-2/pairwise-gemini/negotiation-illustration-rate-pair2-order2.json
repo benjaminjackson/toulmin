@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-44-32Z",
+  "without_skill_run": "2026-11-16T19-18-33Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both emails make the exact same points using almost identical wording and leave out the specific details that might actually help me justify stretching my budget. Document A is slightly better only because its placeholders prompt the illustrator to fill in my name and the book titles, whereas Document B reads as strangely impersonal after four years of working together."
+}

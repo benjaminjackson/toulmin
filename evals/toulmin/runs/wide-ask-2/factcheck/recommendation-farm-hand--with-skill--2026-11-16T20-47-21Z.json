@@ -1,0 +1,29 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-47-21Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "I gave him that shift because I trusted him with it",
+      "why": "The brief states that he runs the 3 a.m. shift on his own, but does not state why he was assigned that shift."
+    },
+    {
+      "quote": "He has also outgrown the job I hired him for.",
+      "why": "The brief does not state what job Tomás was originally hired for or that he has outgrown it."
+    },
+    {
+      "quote": "He managed that by reading the data and also watching the animals in front of him.",
+      "why": "The brief mentions he learned the herd management software and caught nine cases of mastitis, but does not specify that he caught them by combining data reading with physical observation of the animals."
+    },
+    {
+      "quote": "That left us short-handed, and I won't pretend otherwise.",
+      "why": "The brief does not say his five-week absence left the farm short-handed, and the user's background facts actually state that his cousin covered his shifts."
+    },
+    {
+      "quote": "His spoken English is good.",
+      "why": "The brief only states that his written English is weaker than his spoken English, not how good his spoken English is."
+    }
+  ],
+  "invented_count": 5
+}

@@ -1,0 +1,17 @@
+{
+  "task": "cover-letter-plant-trainer",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-43-59Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "In the seven years since, we have had no lab injury that needed more than first aid, in labs where about 140 students a year work with chemicals and glassware.",
+      "why": "The brief gives the year 2019 for the lab safety program but does not give the current year, so the 'seven years since' cannot be worked out from the brief, and the brief states the user personally teaches 140 students a year rather than that being the total number of students in all the school's labs."
+    },
+    {
+      "quote": "I ask the same of every new teacher I train, who learns our lab rules before teaching in the lab.",
+      "why": "The brief states that the user trains new science teachers on lab procedures, not that they are required to complete this training before they are allowed to teach in the lab."
+    }
+  ],
+  "invented_count": 2
+}

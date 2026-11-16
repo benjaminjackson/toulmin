@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-45-50Z",
+  "without_skill_run": "2026-11-16T19-19-08Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A is finished and sticks to facts I can't dispute, and its asks are clear, though commissioning an independent study is a heavy ask. B's meeting offer and modest steps appeal to me, but its blank placeholders and the unsupported claim that residents were 'stuck for almost two weeks' give me an easy reason to dismiss it."
+}

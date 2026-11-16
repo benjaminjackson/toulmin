@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-44-50Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B speaks my plant's language: written procedures, verification, records that prove training happened, and learning our documentation and system before changing anything. That answers my doubt that teachers don't understand regulated work better than A's general claims and template placeholders do."
+}

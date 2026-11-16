@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-45-50Z",
+  "without_skill_run": "2026-11-16T19-19-08Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B's 'two out of every three households' undercuts my view that this is a few loud people, and its mention of local news gives me a reason to act. Its asks are concrete and leave the company room to respond. A has unfilled placeholders and a vaguer list of requests, and its claim that residents were 'stuck for almost two weeks' goes beyond the facts in the brief."
+}

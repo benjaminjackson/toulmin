@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:19:52.183302+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 359
+  tags: []
+  notes: extracted 359 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 4
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 2
+    qualification: 6
+    objections: 2
+    fit: 9
+  details:
+    agree: The page is warm and believable, but it never addresses a $2,388-a-year
+      service against her cousin's $600, so she has little reason to book.
+    honest: 'It states as general fact that ''your accountant charges less'' when
+      the brief only has nine clients reporting it, and it adds things the brief doesn''t
+      support: the booth-rent and commission expertise, ''paid correctly and on time'',
+      and clients ''with me for years''.'
+    works_the_facts: 'The figures are only restated: it never works out on time 9
+      of 12 months, 29 of 31 clients kept (none lost for cause), the annual cost,
+      or how the $800 saving compares with the fee.'
+    right_comparison: It compares itself with an owner doing the books herself at
+      midnight, not this reader's real alternative of a relative who tidies the books
+      once a year for $600.
+    qualification: The admission of three missed close dates is specific and checkable,
+      but it doesn't say what a late close costs the client or what she gets if it
+      happens.
+    objections: The main objection (price against a cheap, trusted cousin, and monthly
+      against yearly) is never met, while the page answers a 'salon down the street
+      pays less' worry nobody raised.
+    fit: At about 350 words with clear sections and a booking button at the end, it
+      matches the brief's form and length.

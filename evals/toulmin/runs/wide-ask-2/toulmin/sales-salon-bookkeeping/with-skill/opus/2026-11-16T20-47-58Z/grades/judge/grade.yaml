@@ -1,0 +1,52 @@
+grader: judge
+graded: '2026-11-16T20:48:33.113871+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 344
+  tags: []
+  notes: extracted 344 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 3
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 2
+    qualification: 4
+    objections: 2
+    fit: 8
+  details:
+    agree: The page is clear and believable, but it never shows this owner how $199
+      a month compares with the $600 a year she pays her cousin, or that her cousin
+      could keep doing her taxes, so she has little reason to book the call.
+    honest: The figures match the brief and the $800 saving is hedged properly, though
+      'the same days many salons close' is an unsupported claim added by the writer.
+    works_the_facts: It works out the miss rate as '3 times out of 12', but frames
+      it negatively instead of as 9 of 12 on time, and it never gives the annual cost,
+      the 29 of 31 retention rate, or what the $800 saving means against the fee.
+    right_comparison: The real alternative, a once-a-year cleanup by a relative or
+      tax preparer, or doing it yourself, is never described, so the reader can't
+      weigh $2,388 a year against what she pays now.
+    qualification: The accountant-savings hedge and the admission of three missed
+      deadlines are honest, but neither says what happens when a date is missed, and
+      no check or remedy is offered.
+    objections: The main objection, 'my cousin does this for $600 and I don't want
+      to drop him', goes unanswered, while the page spends space defending a price
+      increase this new reader would never have known about.
+    fit: "At roughly 350\u2013370 words, with scannable sections and the booking button\
+      \ at the end, it matches the requested form."

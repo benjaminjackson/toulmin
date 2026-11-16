@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-47-58Z",
+  "without_skill_run": "2026-11-16T19-19-18Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A immediately proves she actually understands salon operations by mentioning booth rent, commission splits, and tips, whereas Document B just says 'only salons' without proving it. However, both documents are very similar and neither explicitly reassures me that I can keep my cousin for year-end taxes rather than replacing him."
+}

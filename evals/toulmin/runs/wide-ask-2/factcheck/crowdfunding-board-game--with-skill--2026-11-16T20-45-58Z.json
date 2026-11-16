@@ -1,0 +1,33 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-45-58Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "When the storms come in, the supply boat stops running. Until the thaw, a lighthouse keeper's family has only each other, what's in the stores, and the light they have to keep burning.",
+      "why": "The brief only states that players see a lighthouse keeper's family through a winter, without mentioning a supply boat, stores, or keeping the light burning."
+    },
+    {
+      "quote": "Some of them were friends, and many were strangers who owed me nothing.",
+      "why": "The brief only mentions that about 60 different people playtested the game, not whether they were friends or strangers."
+    },
+    {
+      "quote": "Every session changed something. Rules that confused people were rewritten. Choices that didn't matter were cut. Moments that made a table go quiet were kept.",
+      "why": "The brief gives no details on what happened during playtest sessions or what changes were made to the game."
+    },
+    {
+      "quote": "where people sat down without any introduction and played it.",
+      "why": "The brief mentions taking the game to two conventions, but does not say that players sat down and played without any introduction."
+    },
+    {
+      "quote": "and so far that has held true each time a new group sat down.",
+      "why": "The brief provides an average rating from 23 people, but does not state that every new group who played the game liked it."
+    },
+    {
+      "quote": "The goal is set to cover the real cost of making and delivering the game, with nothing padded in.",
+      "why": "At 572 copies, printing ($17,400), shipping ($5,148), and the 10% platform and payment fees ($2,800) total about $25,348, and the brief does not state what the remaining funds cover or that nothing is padded in."
+    }
+  ],
+  "invented_count": 6
+}

@@ -1,0 +1,21 @@
+{
+  "task": "promotion-front-office",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-45-39Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Since the position opened, I've covered it alone while still doing my own job.",
+      "why": "The brief says she covered the front office manager's job alone for seven weeks, not that she also continued doing her own assistant manager job at the same time."
+    },
+    {
+      "quote": "For two years I've been managing the things that drive that payroll: how many people we hire, how long they train before working alone and how many of them stay.",
+      "why": "The brief states she rewrote the training and that turnover dropped, but does not state that she managed hiring numbers or retention for two years."
+    },
+    {
+      "quote": "The fall in turnover and training shifts is already showing in those costs.",
+      "why": "The brief does not give any information about whether payroll costs have actually decreased."
+    }
+  ],
+  "invented_count": 3
+}

@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T20:48:23.895249+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 180
+  tags: []
+  notes: extracted 180 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 4
+    honest: 8
+    works_the_facts: 3
+    right_comparison: 3
+    qualification: 3
+    objections: 3
+    fit: 6
+  details:
+    agree: The plain apology and unchanged price will soften this household, but it
+      is never told what happens the next time a storm thins the boxes, so its reason
+      for leaving still stands.
+    honest: Every figure matches the brief and the nets are correctly limited to tomatoes
+      and peppers, though 'one storm is less likely to take as much of the season'
+      is an inference the facts only partly support.
+    works_the_facts: 'It repeats raw facts and derives nothing: not the roughly $74
+      of produce each member lost (about $24.50 a week, half of it for six weeks),
+      not what 52 shares left means for urgency, and not the survey result.'
+    right_comparison: It never sets up the household's real alternative, staying away
+      or buying elsewhere, against what rejoining now offers.
+    qualification: '''We can''t stop hail'' admits the risk but gives no checkable
+      commitment, such as a credit for any week weather cuts a box by more than a
+      third, so the reader cannot tell what they would get if it happens again.'
+    objections: The central objection, that the farm went quiet and gave nothing back
+      when the boxes were thin, is answered only with an apology, and the pause credit
+      covers the member's own absences rather than weather losses, with no promise
+      of weekly updates.
+    fit: It is a short email under 200 words, but it ends 'Thank you,' with no name
+      or farm and gives no sign-up link or way to act.

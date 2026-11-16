@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-45-07Z",
+  "without_skill_run": "2026-11-16T19-18-43Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A shows the budget math and admits that 23 ratings is a small sample, which earns my trust as someone who has been burned before. B has a risk section, but its unfinished placeholders, the 'hundreds of tables' overclaim (it was 140 sessions) and the doubtful 'four winters' line make me more suspicious of a first-time creator."
+}

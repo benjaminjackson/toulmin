@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-46-18Z",
+  "without_skill_run": "2026-11-16T19-20-01Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is a complete, submission-ready narrative with realistic math, whereas Document A was submitted with unedited template brackets where the explanation for my biggest concern—the four-month-late report—and the van's operating costs should be. Submitting a $50,000 request with unfinished placeholders reinforces my worry about their administrative follow-through."
+}

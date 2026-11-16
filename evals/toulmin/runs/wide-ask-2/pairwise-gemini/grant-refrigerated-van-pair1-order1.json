@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-43-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both narratives are very similar in content and neither answers my biggest underlying questions about why the 2023 report was actually late or how they will afford the ongoing costs of running the van with only $11,000 left in reserves. However, Document A gets a slight edge because its acknowledgment that this request is four times larger than the last one feels more self-aware, and it avoids the unpolished '[Food Bank Name]' placeholder left in Document B."
+}

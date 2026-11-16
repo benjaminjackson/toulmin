@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-45-38Z",
+  "without_skill_run": "2026-11-16T19-19-29Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B is tighter and speaks more directly to my doubt about regulated plants: it ties the lab safety program to people following procedures exactly, says I'll learn the records rules from our quality team, and states the GMP and LMS gaps plainly. A covers similar ground but is looser, leaves a '[your LMS]' placeholder in the body text, and adds an odd line about committing to the move."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-45-40Z",
+  "without_skill_run": "2026-11-16T19-19-40Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both emails are refreshingly candid about the churn and the strategic risk, which goes a long way toward rebuilding my trust after six months of silence. However, Document B wins because it proactively addresses the 11-month runway in relation to spending and the next fundraise—my biggest concern as the lead investor—and makes a much smarter ask for strategic advice on selling an unbundled add-on alongside an incumbent."
+}

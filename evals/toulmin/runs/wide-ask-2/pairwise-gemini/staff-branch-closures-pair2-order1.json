@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-47-19Z",
+  "without_skill_run": "2026-11-16T19-18-40Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A treats our decision with respect by saying either choice is fair and being honest that rotating shifts and the new role won't be easier for everyone. Document B feels insulting with the line that 'nobody is losing their job unless they choose to,' and it contains unedited placeholders and promises not in the facts."
+}

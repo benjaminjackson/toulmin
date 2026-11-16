@@ -1,0 +1,47 @@
+I couldn't ask you questions during this session, so I wrote the update from your numbers alone. It's about 440 words.
+
+**How it's argued:** the update starts by owning the six months without an update, then gives all the numbers, bad ones included. It says what losing the chain tells you: built-in schedulers in records systems are the threat to your multi-clinic customers. It then makes the case that standalone reminders are your answer. Your no-show numbers are the evidence (13% → 7%, close to half of missed visits gone). Clinics that schedule inside their records system can still buy reminders.
+
+**Things to check before you send:**
+- **Runway.** $480k ÷ $44k is about 11 months, which is roughly October 2027. Investors will notice that on their own. If you have a plan (raise, cut spending, or a sales target that triggers a decision), add a sentence on it. I didn't make one up.
+- **"One every quarter from now on."** This is a promise in your name. Keep it only if you can stand behind it.
+- **The ask for introductions.** You didn't give me an ask, so I chose the lowest-risk one. Change it or remove it.
+- **The 37-clinic figure.** It's simple math ($5,500 ÷ $150), not a target. If you have a real target for reminder-only sign-ups, use that.
+- **Signature.** I signed it "Ben." Change it if that's wrong.
+
+<final_document>
+Subject: Quarterly update: flat revenue, a lost anchor customer, and our next move
+
+Hi all,
+
+First, an apology. This is the first update you've had from me in six months. I should have written in each of the last two quarters, and most of all in a quarter like this one. From now on you'll get one every quarter, good news or bad.
+
+**The numbers**
+- Monthly recurring revenue: $41,000, the same as three months ago
+- Clinics: 9 added, 4 lost
+- Cash: $480,000. Net burn is about $44,000 a month, which gives us roughly 11 months of runway at the current rate.
+- Team: 6
+
+**What happened**
+The flat revenue number hides two things moving in opposite directions. We signed 9 new clinics, more than twice as many as we lost. But one of the 4 we lost was our largest customer, a 12-clinic chain paying $5,500 a month, about 13% of our revenue. They moved to the scheduler built into their electronic records system. New sales made up for that loss and the other three, but no more.
+
+That loss matters for more than its size. Records vendors include a scheduler with their systems, and a large group that already runs everything in one system has a strong reason to consolidate. I expect other multi-location customers to face the same choice. If we compete with records vendors on scheduling alone, we will lose on price.
+
+**What's working**
+Our automatic text reminders. Clinics that use them have a no-show rate of 7%, against 13% before they started. That's close to half of missed appointments gone. A missed visit is revenue a clinic can't get back, so reminders are the clearest value we deliver.
+
+**What we're doing next**
+Next month we start selling reminders on their own for $150 a month. A clinic that schedules inside its records system can still buy our reminders. That means clinics we can't win as scheduling customers become customers for the reminder product. It also gives clinics a much smaller first purchase than switching their whole scheduler.
+
+For scale: every 20 reminder-only clinics adds $3,000 a month, and about 37 would replace what the chain paid.
+
+Next quarter I'll report reminder-only clinics signed, monthly recurring revenue, and how many multi-location customers we've kept.
+
+**Where you can help**
+Introductions to physical therapy clinic owners, especially ones who schedule inside their records system. They are the first buyers for the reminder product.
+
+I'm happy to talk any of this through. Just reply or give me a call.
+
+Thank you for your patience,
+Ben
+</final_document>

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-47-19Z",
+  "without_skill_run": "2026-11-16T19-18-40Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A talks to us directly. It is honest that rotating shifts are hard and that the change won't make every job easier, and it has no unfilled blanks. B leaves [location], [date] and [HR contact] blank, so the process it promises reads as unfinished. B also spends space reassuring the other five branches instead of us."
+}

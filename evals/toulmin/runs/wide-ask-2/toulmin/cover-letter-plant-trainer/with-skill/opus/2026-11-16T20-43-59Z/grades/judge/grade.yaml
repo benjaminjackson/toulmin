@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:44:50.151854+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 376
+  tags: []
+  notes: extracted 376 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 4
+    honest: 8
+    works_the_facts: 3
+    right_comparison: 3
+    qualification: 3
+    objections: 2
+    fit: 6
+  details:
+    agree: A skeptical HR manager sees a clear, honest teacher but also reads 'I have
+      not kept GMP training records' with no counter-evidence, which confirms her
+      assumption, and no start date or availability is given to make a phone screen
+      easy.
+    honest: The letter rightly drops the unsupported 'cut training in half' claim,
+      and its figures (12 hours, 140 students, 41% to 58%, seven injury-free years
+      since 2019) match the facts, though comparing a teacher onboarding to a production
+      floor is a little loose.
+    works_the_facts: It works out the 17-point gain but leaves out the strongest available
+      figure, cutting new-teacher training from 20 to 12 hours (a 40% reduction),
+      and never puts the training load in its best form.
+    right_comparison: The only before-and-after is the AP pass rate, and the 20-hour
+      to 12-hour training redesign, which is the comparison most relevant to this
+      role, is missing entirely.
+    qualification: 'The hedge ''I would spend my first weeks learning'' has no date
+      and nothing the reader can check, and it skips the real conditions: the GMP
+      course that finishes May 2 and the June 14 earliest start.'
+    objections: 'It raises the no-GMP-records objection and simply concedes it, even
+      though the facts answer it: signed training records for every trainee, two state
+      audits with no findings, and GMP coursework already under way.'
+    fit: It is a one-page cover letter in the right form, but it uses 'Dear Hiring
+      Manager' when Karen Doyle is named in the posting, leaves out the plant name
+      and the applicant's name, and has no signature.

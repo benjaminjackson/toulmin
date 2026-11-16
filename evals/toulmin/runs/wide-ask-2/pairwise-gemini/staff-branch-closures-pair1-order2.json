@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-46-36Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A respects us by not pretending that moving to rotating 8-to-8 call center shifts is a 'good move' for us, instead honestly acknowledging that we will miss our branches and find the new hours hard. It also lays out the terms clearly with bullet points and gives us a concrete next step—one-on-one meetings with HR—rather than just telling us to reply to a mass email."
+}

@@ -1,0 +1,39 @@
+Subject: Q3 update: flat revenue, a lost customer, and what we're doing about it
+
+Hi all,
+
+First, I owe you an apology. I didn't send updates for the last two quarters. You should hear how the company is doing on a regular schedule, whether the news is good or bad. From now on you'll get one every quarter.
+
+**The numbers**
+
+- MRR: $41,000, the same as three months ago
+- Clinics: 9 added, 4 lost (net +5)
+- Cash: $480,000
+- Net burn: about $44,000/month, which gives us roughly 11 months of runway (to around October 2027)
+- Team: 6
+
+**What happened**
+
+We lost our largest customer: a 12-clinic chain paying $5,500 a month. They moved to the scheduler built into their electronic records system. Revenue stayed flat because the rest of the business grew by roughly that amount. Without the loss, MRR would have been about $46,500, up 13% for the quarter.
+
+The loss tells us something important. When a clinic's records vendor offers a scheduler that's good enough, being a better scheduler won't always win. We have to be better at something the records vendors don't offer.
+
+**What's working**
+
+Clinics that use our automatic text reminders have a no-show rate of 7%, down from 13% before they started. That's about 46% fewer missed appointments. For a PT clinic, every no-show is an empty slot that can't be billed. Of everything we sell, this result is the easiest to measure and the hardest for clinics to give up.
+
+**What we're doing next**
+
+Next month we'll start selling the reminder feature on its own for $150 a month. Clinics that want to cut no-shows won't have to switch schedulers. That includes clinics like the chain we just lost. The product we're selling is the one with proof behind it.
+
+To give you a sense of scale: each 100 standalone reminder customers adds $15,000 in MRR. About 290 would cover our current burn. In next quarter's update I'll report how many we've signed, how long the sale takes, and whether these customers stay.
+
+**Where you can help**
+
+If you know owners or operators of physical therapy clinics, especially groups with several locations, an introduction would help more than anything else right now.
+
+I'm happy to talk through any of this. Just reply or grab time with me.
+
+Thanks for your patience and your support.
+
+Ben

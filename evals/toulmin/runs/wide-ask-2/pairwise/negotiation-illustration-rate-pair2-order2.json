@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-44-32Z",
+  "without_skill_run": "2026-11-16T19-18-33Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "As Nadia, I'd find these almost the same: same facts, same $11,500 ask, and neither repeats the unsupported claim that every other publisher pays at least $12,000. B reads as a finished email and says 'lower half' of the range, which is accurate, while A still has unfilled brackets and calls $11,500 the 'lower end', which stretches it a little, so B has a small edge."
+}

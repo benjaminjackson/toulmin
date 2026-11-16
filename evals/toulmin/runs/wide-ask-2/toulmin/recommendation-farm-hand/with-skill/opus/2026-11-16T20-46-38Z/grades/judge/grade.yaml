@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:47:21.246493+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 384
+  tags: []
+  notes: extracted 384 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 6
+    honest: 5
+    works_the_facts: 3
+    right_comparison: 4
+    qualification: 3
+    objections: 5
+    fit: 6
+  details:
+    agree: "The 3 a.m. solo shift and the self-taught mastitis detection make a strong\
+      \ case, but the letter has no farm name, no signer name, no surname for Tom\xE1\
+      s and no contact details, so a hurried committee member can't verify it and\
+      \ may discount it."
+    honest: 'Several claims go beyond the brief: ''nobody required him,'' ''learned
+      it on his own,'' ''seriously ill,'' ''went straight back to the 3 a.m. shift''
+      and ''without reservation'' all add strength the facts don''t supply.'
+    works_the_facts: The letter never works out that 2 missed shifts in about 780
+      is roughly a 99.7% attendance rate, never puts a value on the nine mastitis
+      catches (such as the $8,000 the vet estimated), and turns the attendance record
+      into the muddled line 'two shifts... the one exception.'
+    right_comparison: It says he 'already does part of the job your graduates are
+      trained for,' but it never sets him clearly against a typical applicant or a
+      typical worker on the crew.
+    qualification: The writing-English caveat rests on a night class with no level,
+      start date or progress, so the committee can't check it; the safety test that
+      he failed once and then passed, which would show improvement, is not used.
+    objections: It deals with the English weakness and the five-week absence, but
+      it states the two-day notice without saying that he arranged his cousin to cover
+      his shifts and came back on the date he gave, so the reader is left with a reliability
+      doubt the facts would answer.
+    fit: It is a one-page letter in the right register, but it is signed only 'Farm
+      Manager,' with no name, farm or phone number, which a reference letter needs.

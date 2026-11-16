@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-47-21Z",
+  "without_skill_run": "2026-11-16T19-19-09Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A sticks to the facts and is frank about the two days' notice and the short staffing, so its praise of the 3 a.m. shift and the mastitis catches reads as trustworthy. B adds unsupported claims ('taught himself', 'on his own initiative', 'communicates well with our vet') and is full of bracket placeholders, though A's anonymous 'Farm Manager' sign-off also weakens it."
+}

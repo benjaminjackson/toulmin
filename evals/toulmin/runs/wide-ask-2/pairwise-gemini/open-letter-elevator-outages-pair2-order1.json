@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-44-56Z",
+  "without_skill_run": "2026-11-16T19-18-36Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A forces me to act because it explicitly states that the letter is going to a local TV station and offers to post my reply in the lobby, whereas Document B falsely claims to speak for all 112 apartments and expects me to pay for a new independent engineering review."
+}

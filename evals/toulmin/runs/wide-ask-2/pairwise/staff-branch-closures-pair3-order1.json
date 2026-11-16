@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-branch-closures",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-48-06Z",
+  "without_skill_run": "2026-11-16T19-19-13Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A speaks to us directly and admits the move from a counter to a headset and onto rotating shifts is hard, which makes me more willing to trust it. Document B gives a one-on-one meeting and a Q&A, but it still has unfilled placeholders and a vague 'we'll work with you on scheduling' promise, so it reads as unfinished and less believable."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-43-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "B speaks to my real grievance: it promises updates every quarter, good or bad, names runway as the founder's main concern, and asks me for specific help, all of which makes me more willing to keep taking the founder's calls. A apologizes but commits to nothing, and its claim that 'a quarter of new sales' went to replacing lost revenue doesn't add up, though B's placeholder name and signature are sloppy."
+}

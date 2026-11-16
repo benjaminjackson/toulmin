@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-43-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A directly addresses the reason I sent that cold email by explicitly committing to send future updates whether the news is good or bad, and it ends with clear, actionable asks that give me a reason to get on a call. Document B makes no commitment to future updates, includes no specific asks, and makes a slight math error when claiming a 12-clinic chain was just one of four clinics lost."
+}

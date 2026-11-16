@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T19:19:20.482638+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 411
+  tags: []
+  notes: extracted 411 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 6
+    honest: 4
+    works_the_facts: 3
+    right_comparison: 5
+    objections: 6
+    fit: 9
+  details:
+    agree: The neighbour's standing, the honest concession on traffic and the empty-lot
+      framing will move some people, but the two commissioners focused on traffic
+      get a soft answer ('a few extra seconds') that may not persuade them.
+    honest: 'Several claims go beyond the brief: ''a few extra seconds'' understates
+      a C-to-D drop, ''Some of those commuters are already driving on Alder Road''
+      is invented, and ''residents will park on the site, not on our street'' is stated
+      as a certainty the brief doesn''t support.'
+    works_the_facts: 'The facts are mostly repeated rather than worked: the draft
+      compares 64 against the 2,100 shortfall (about 3%) instead of the waiting list,
+      where 64 of 412 is roughly 16%, and it never works out the parking ratio or
+      the trips per unit.'
+    right_comparison: The alternative is named ('64 more homes than we'll have if
+      we say no', the empty lot, the three-year wait), but the draft never says what
+      the waiting list looks like if nothing is built.
+    qualification: This is an advocacy speech that already concedes the traffic cost,
+      and it makes no conditional promise that needs a checkable hedge.
+    objections: Traffic is met head-on and parking is pre-empted with the 72 spaces,
+      but the traffic answer relies on minimising language instead of a concrete measure
+      of the impact.
+    fit: At about 430 words it fits a 3-minute slot, and it is written as a spoken
+      public comment with a clear opening and close.

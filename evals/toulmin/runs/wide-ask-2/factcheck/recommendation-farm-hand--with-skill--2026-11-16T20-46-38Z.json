@@ -1,0 +1,33 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-46-38Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "He is also the one who has done the most to use our technology well.",
+      "why": "The brief does not state how other workers on the crew use the farm's technology compared to Tomás."
+    },
+    {
+      "quote": "he has held it for a long time.",
+      "why": "The brief says Tomás has worked at the farm for three years and currently runs the 3 a.m. shift, but does not state how long he has held that specific shift."
+    },
+    {
+      "quote": "Nobody required him to take this on. He saw what the data could tell him and learned to read it.",
+      "why": "The brief says he learned the herd management software, but does not say whether he was asked to learn it or took it upon himself unprompted."
+    },
+    {
+      "quote": "his father became seriously ill in Mexico.",
+      "why": "The brief only states that his father 'got sick,' without specifying the severity as 'seriously ill.'"
+    },
+    {
+      "quote": "When he came back, he went straight back to the 3 a.m. shift.",
+      "why": "Neither the brief nor the additional context states whether he already had the 3 a.m. shift before leaving for Mexico or went straight back to that specific shift upon returning."
+    },
+    {
+      "quote": "he learned it on his own.",
+      "why": "The brief states that he learned the software, not that he was self-taught or learned it on his own."
+    }
+  ],
+  "invented_count": 6
+}

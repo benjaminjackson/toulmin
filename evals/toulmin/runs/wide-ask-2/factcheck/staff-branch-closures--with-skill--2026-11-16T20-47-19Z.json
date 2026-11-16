@@ -1,0 +1,17 @@
+{
+  "task": "staff-branch-closures",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-47-19Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "where most members now reach us.",
+      "why": "The brief gives percentage changes in branch visits and phone/chat contacts, not that most members now use phone and chat over branches or other channels."
+    },
+    {
+      "quote": "That's three more hours a day than our branches",
+      "why": "The center is open 8 a.m. to 8 p.m. (12 hours) while the branches were open 9 to 5 (8 hours), which is a difference of four hours a day, not three."
+    }
+  ],
+  "invented_count": 2
+}

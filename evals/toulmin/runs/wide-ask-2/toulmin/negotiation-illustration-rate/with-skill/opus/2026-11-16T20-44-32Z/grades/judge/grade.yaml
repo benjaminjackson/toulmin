@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T20:45:07.575244+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 174
+  tags: []
+  notes: extracted 174 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 4
+    honest: 9
+    works_the_facts: 4
+    right_comparison: 4
+    qualification: 2
+    objections: 3
+    fit: 7
+  details:
+    agree: 'The email makes a polite case on the editor''s own sales record, but an
+      editor with a $9,000 budget and an $8,000 newer illustrator gets no reason to
+      pay $2,500 more: it offers nothing extra (spot drawings, a sketch date, a September
+      1 guarantee) and doesn''t say Elena can''t do the book at $9,000.'
+    honest: Every figure matches the brief, the unsupported claim that every other
+      publisher pays at least $12,000 is rightly left out, and "lower half of that
+      range" holds because $11,500 is below the $12,000 midpoint.
+    works_the_facts: 'It repeats the facts but derives nothing from them: no note
+      that the fee hasn''t moved across six books in four years, no monthly figure
+      (about $2,250 a month for four months'' work), and no mention of the fourth
+      printing, so the sales record carries less weight than it could.'
+    right_comparison: The $12,500 fee and the agent's range give an outside benchmark,
+      but the editor's real alternative, a less proven illustrator at $8,000, is never
+      compared against Elena's record of two titles over 20,000 copies and reliable
+      delivery.
+    qualification: A checkable commitment with dates would strengthen this ask, such
+      as sketches within 6 weeks of signing, final art by September 1 and an answer
+      by the end of next week, but the email gives no dates or terms at all.
+    objections: 'The obvious objections (the budget is $9,000, and someone cheaper
+      is available) go unanswered: there are no added extras, no delivery guarantee
+      and no clear floor, and "lower half of the range" does only a little to address
+      cost.'
+    fit: It is a well-toned email of about 190 words, under the 250 limit, but it
+      has a generic subject and greeting, no sign-off name, and never names The Night
+      Garden or Nadia.

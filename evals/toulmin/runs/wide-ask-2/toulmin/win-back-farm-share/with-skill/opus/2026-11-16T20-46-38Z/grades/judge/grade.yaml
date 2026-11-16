@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T20:47:12.342106+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 182
+  tags: []
+  notes: extracted 182 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 4
+    honest: 6
+    works_the_facts: 6
+    right_comparison: 3
+    qualification: 3
+    objections: 3
+    fit: 7
+  details:
+    agree: The plain apology and the new field will help, but this reader's real grievance
+      was silence and no credit during bad weeks, and the email doesn't promise weekly
+      updates or credit for weather-cut boxes, so they have little reason to think
+      a bad week would go differently next time.
+    honest: The figures match the brief, but 'reply and I'll hold a share' invents
+      a sign-up process when signup actually runs through the website, and 'crops
+      people count on most' claims more than the facts support.
+    works_the_facts: Turning six half-full weeks into 'roughly three weeks of vegetables
+      you paid for' is a strong derivation, but the email never puts a dollar figure
+      on it (about $74) and doesn't show how scarce the 52 remaining shares are.
+    right_comparison: It never shows the reader what a bad week would look like under
+      the new arrangement compared with last July, so the reader has no picture of
+      what is different.
+    qualification: '''No farm can control the weather'' is a vague hedge with no checkable
+      commitment attached, when the email could have promised credit for any week
+      weather cuts a box by more than a third.'
+    objections: The objection that 'you went quiet and gave nothing back' gets an
+      apology but no fix, because the pause credit covers missed pickups, not weather
+      losses, and the email offers no promise of regular updates.
+    fit: It is an email under 200 words with a clear subject line, but it's unsigned
+      with no farm name and no sign-up link.

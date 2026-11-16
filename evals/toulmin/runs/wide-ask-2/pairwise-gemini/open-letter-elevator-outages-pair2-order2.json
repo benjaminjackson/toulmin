@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-44-56Z",
+  "without_skill_run": "2026-11-16T19-18-36Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B explicitly warns that this letter is going to a local television station, which immediately changes my calculus from brushing off a few complainers to managing a serious PR risk. Document A also starts by falsely claiming to speak for all 112 apartments when only 74 signed their petition, which reinforces my view that the association is exaggerating."
+}

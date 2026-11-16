@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-44-55Z",
+  "without_skill_run": "2026-11-16T19-18-51Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "A reads like an unfinished draft: it has '[Company]' and bracketed placeholders where the runway plan and the asks should be, which is insulting from a founder who already skipped two updates. B is complete and gives concrete numbers: the MRR without the lost chain, the runway date, and what standalone reminders would add to MRR. It also sets a clear way to judge the plan next quarter, so I'm more willing to keep backing the company."
+}

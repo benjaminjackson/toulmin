@@ -1,0 +1,32 @@
+I wrote the letter without the "cut new-hire training time in half" promise. I'd recommend keeping it out for three reasons:
+
+- **Nothing you've told me measures time saved.** You don't know how long their training takes now. Your strongest numbers are about safety and pass rates, not speed.
+- **It can count against you.** At a pharmaceutical plant, training is tied to written procedures and auditable records. A manager who cares about quality may read "half the time" as "cutting corners," and from the one applicant without GMP experience.
+- **They'll ask how.** If an interviewer asks how you'd do it, you'd have no answer yet.
+
+Instead, the letter makes a claim your record supports: you find where people struggle, you fix it, and you show results. It says you'd shorten training where you can without dropping anything their procedures require. If you learn their current training length and still want a bolder line, you could add: "I'm confident I can shorten your new-hire training substantially, and I'd want to show you the numbers within my first six months." That's a promise you'd be held to, so only use it if you can stand behind it.
+
+**Before you send it:**
+- **Placeholders:** fill in the hiring manager's name, the company and your name.
+- **The "seven years" line:** it assumes the safety program has been in place since 2019 with no breaks. Check that's true.
+- **The section on what you don't have:** it states plainly that you lack GMP records experience and haven't used their LMS (learning management system). The posting asks for GMP experience, so they'll notice either way, and saying it first makes your other numbers more believable. It says you'd learn their documentation rules from their quality team. That's a plan, not a claim about anything you've done. If you've started a GMP course or anything similar, add it there, because it would be your strongest answer to that gap.
+
+<final_document>
+Dear [Hiring Manager],
+
+I'm applying for the Training Coordinator position at [Company]. I've taught high school chemistry for nine years. What I do best is what this role needs: writing procedures that people must follow exactly, teaching them to people new to the work, and checking that the training worked.
+
+In 2019 I wrote my school's lab safety program. In the seven years since, no one in our labs has had an injury that needed more than first aid. I teach about 140 students a year, and most of them are teenagers using acids, open flames and glassware for the first time. A procedure only works if people follow it on a busy day. I've learned how to write and teach one so that they do.
+
+I also train adults. Every year I give our new science teachers, about two a year, roughly 12 hours of training on lab procedures before they run a lab alone. They are qualified professionals who still have to learn how things are done at our site, much like a new hire at a plant.
+
+And I measure results. Over the four years I've taught AP Chemistry, our pass rate rose from 41% to 58%. I got there by finding where students were failing and changing how I taught those topics. I'd bring the same approach to your new-hire training: find where people struggle, fix it, and shorten training where possible without dropping anything your procedures and records require.
+
+I'll be direct about what I don't have. I've never worked in a regulated industry, and I have no experience with GMP training records. I also haven't used your learning management system; I run my courses in Google Classroom. I would plan to learn your documentation requirements from your quality team first. In a chemistry lab I've always treated a written procedure as something to follow exactly, not a suggestion, and I'd bring that habit to your records.
+
+I live about 30 minutes from the plant, and I'd welcome the chance to talk with you about the role.
+
+Sincerely,
+
+[Your Name]
+</final_document>

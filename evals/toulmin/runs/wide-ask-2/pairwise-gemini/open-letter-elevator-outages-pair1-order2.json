@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-43-59Z",
+  "without_skill_run": "2026-11-16T19-18-00Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B frames the numbers more effectively—pointing out that 74 households is two-thirds of the building makes it harder for me to dismiss them as just a few loud tenants—and explicitly mentions that they are going to the local news, which creates immediate urgency for me to act. Document A feels more like a standard complaint and misses the leverage of the media threat."
+}

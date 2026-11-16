@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "open-letter-elevator-outages",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-45-50Z",
+  "without_skill_run": "2026-11-16T19-19-08Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document A offers a collaborative tone and asks to meet and work together on practical solutions, making it much easier for me to engage with them. Document B is more confrontational, threatens local news involvement, and demands that we pay for an expensive independent engineering study instead of offering to sit down and talk."
+}

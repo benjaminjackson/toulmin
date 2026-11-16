@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-47-58Z",
+  "without_skill_run": "2026-11-16T19-19-18Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B's details about booth rent and tips would speak to me more, but B also says flatly that my accountant will charge less, which the facts don't support. A says honestly that it can't promise a lower bill, and that makes me trust A enough to book the call without feeling I'd be pushing my cousin aside."
+}

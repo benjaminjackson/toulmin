@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-43-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B sets out the actual cost breakdown (the $17,400 factory quote, $9 shipping, the remainder for fees) and how many backers it takes to fund, which is exactly what a wary backer checks before trusting a first-time creator. A is warm but leaves the money section as a placeholder and gives no real numbers."
+}

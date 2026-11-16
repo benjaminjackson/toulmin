@@ -1,0 +1,33 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-18-36Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "We are writing for the residents of the 112 apartments in our building.",
+      "why": "The brief does not say the association represents all 112 apartments, and the user's notes explicitly state they cannot speak for all 112 households because only 74 signed."
+    },
+    {
+      "quote": "This year that elevator has been out of service on 41 days, roughly one day in every eight.",
+      "why": "Saying 41 days is 'roughly one day in every eight' assumes the letter is being written around late November (roughly 328 days into the year), a current date not provided in the brief."
+    },
+    {
+      "quote": "Others carry children, groceries and laundry up as many as eight flights of stairs.",
+      "why": "The brief does not mention any children living in the building or residents carrying children, groceries, or laundry up the stairs."
+    },
+    {
+      "quote": "Five months later, we're being told the same thing.",
+      "why": "The brief mentions events in June and September, but does not state that the current month is November (five months after June)."
+    },
+    {
+      "quote": "But we haven't seen the assessment behind it",
+      "why": "The brief only states that management said a second elevator would cost $400,000 and can't be done, not that an assessment was conducted or withheld from the tenants."
+    },
+    {
+      "quote": "Show us the engineering and cost review that led to your conclusion",
+      "why": "The brief does not say that management conducted an engineering and cost review to reach their conclusion."
+    }
+  ],
+  "invented_count": 6
+}

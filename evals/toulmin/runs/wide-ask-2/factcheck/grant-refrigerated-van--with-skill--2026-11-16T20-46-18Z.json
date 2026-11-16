@@ -1,0 +1,21 @@
+{
+  "task": "grant-refrigerated-van",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-46-18Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "and the food we most often can't accept.",
+      "why": "The brief mentions turning down 9,000 pounds of farm produce last summer, but it does not state how often fresh food is turned down compared to other types of food."
+    },
+    {
+      "quote": "It counts only the farms that came to us unasked.",
+      "why": "The brief says local farms offered the produce, but it does not say that they approached the food bank unasked."
+    },
+    {
+      "quote": "and to other donors whose fresh surplus we have never been able to take.",
+      "why": "The brief only mentions turning down produce from local farms last summer and says nothing about other donors with fresh surplus that the food bank has never been able to take."
+    }
+  ],
+  "invented_count": 3
+}

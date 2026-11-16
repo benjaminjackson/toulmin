@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-45-09Z",
+  "without_skill_run": "2026-11-16T19-19-01Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "B gives me a concrete fix for the late report I had to chase (board calendar, a named preparer, a board member responsible for submitting) and promises monthly tracking by source. A only promises to file on time and send one report at the end of the season. B's 'at least 9,000 pounds' framing goes a little further than A's honest 'if offers match', but B's specifics on reporting and its full-year 12% figure would make me more comfortable recommending yes."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-43-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "After my cold email, A gives me what I wanted: an apology plus a promise of updates every quarter, good news or bad, and two clear asks I can act on. B is more careful with its analysis but promises nothing on reporting and asks me for nothing. A's leftover [Company] and [Your name] placeholders look sloppy, which keeps its lead small."
+}

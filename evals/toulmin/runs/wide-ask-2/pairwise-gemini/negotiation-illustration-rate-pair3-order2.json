@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "negotiation-illustration-rate",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-45-07Z",
+  "without_skill_run": "2026-11-16T19-18-58Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both emails make the exact same points and leave out any extra perks or timeline commitments that might help me justify breaking my $9,000 budget, though both wisely avoid the false claim about what every other publisher pays. Document A is slightly better simply because it flows more naturally and includes placeholders for the specific book title and state reading list, whereas B reads a bit generically."
+}

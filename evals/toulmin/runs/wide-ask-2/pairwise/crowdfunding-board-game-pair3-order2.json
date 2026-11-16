@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "crowdfunding-board-game",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-45-58Z",
+  "without_skill_run": "2026-11-16T19-19-25Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B shows the actual budget math (factory quote, per-copy shipping, number of backers needed) and admits that 23 ratings is a small sample, which earns my trust as a wary backer of a first-time creator. A is vaguer, has unfilled placeholders and hints at stretch goals without any numbers to back it up."
+}

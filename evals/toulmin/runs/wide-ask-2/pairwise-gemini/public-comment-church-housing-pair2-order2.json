@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-44-50Z",
+  "without_skill_run": "2026-11-16T19-18-48Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B builds immediate trust with the skeptical room by disclosing the speaker's church membership upfront rather than only claiming to be a neighbor, and it stays honest to the facts without inventing a nonexistent traffic light at Alder and 4th like Document A does. Furthermore, B gives the hesitant commissioners a practical path to vote yes by suggesting they make intersection improvements a condition of approval."
+}

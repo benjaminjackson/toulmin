@@ -1,0 +1,43 @@
+I wrote the letter so the main ask is that management make the elevator reliable and give residents real commitments in writing. It doesn't demand a second elevator outright. The only information you have on whether one can be built is management's own figure, $400,000 and "can't be done here", so the letter asks to see the assessment behind that. Viewers and management can't brush that request aside, and it keeps the 74 signatures in the letter. If you'd rather demand the second elevator directly, you'll need your own evidence that it's possible, such as a contractor's opinion.
+
+**Figures I worked out from your facts:**
+- **41 down days:** that's about one day in eight so far this year.
+- **74 of 112 households signed:** that's two-thirds of the building.
+- **"Five months later":** that counts from June to now.
+
+Please check all three.
+
+**Before it goes out:**
+- **The inspection:** I dealt with it directly, because it's the first thing management and the TV station will mention. The letter's answer is that a certificate shows the elevator is safe, not how often it runs.
+- **Posting management's reply:** the letter promises the association will post management's reply in the lobby. That's my wording, so remove it if the association hasn't agreed to it.
+- **Missing details:** you didn't give the company's name, the building's name, a reply deadline or the signer's name, so the letter is addressed and signed in general terms. Add them, especially a date to reply by.
+- **Accuracy:** because a TV station will see this, it uses only the facts you gave me and accuses no one of anything beyond them. Keep it that way if you edit.
+
+The letter is about 410 words.
+
+<final_document>
+**An Open Letter to the Management of Our Building**
+
+Our building has nine stories, 112 apartments and one elevator. This year that elevator has been out of service on 41 days, about one day in every eight. In August it was down for 12 days in a row.
+
+Twenty-three of our neighbours are over 75. Six use wheelchairs or walkers. For a resident on an upper floor who cannot manage the stairs, a day without the elevator is a day they cannot get out of the building: not to a doctor, not to the pharmacy, not to buy groceries. If they are out when it fails, they cannot get home.
+
+We know the city inspected the elevator in September and gave it a passing certificate. We are glad it is safe when it runs. But a certificate does not tell anyone how often it runs, and that is the problem we live with.
+
+In June you told us a new controller part was on order and would arrive in six to eight weeks. Five months later, you are telling us the same thing. Parts can be delayed. But "six to eight weeks," repeated with no end date, is not a plan for a building where one machine is the only way up for 112 households.
+
+Seventy-four households, two-thirds of the building, signed our petition asking for a second elevator. You have told us it would cost about $400,000 and cannot be done in this building. We take that answer seriously. We are asking to see what it is based on.
+
+We ask you for the following, in writing:
+
+1. A delivery date for the controller part confirmed by the supplier, and a date for installation.
+2. A plan for outages: how residents will be notified, and what help residents who cannot use the stairs will get to leave and return to the building while the elevator is down.
+3. The assessment behind your statement that a second elevator cannot be built here.
+4. If a second elevator truly cannot be built, what you will do instead so that a single breakdown no longer cuts our oldest and least mobile neighbours off from the outside world.
+
+Doing nothing has a cost, and we have been counting it: 41 days so far this year, and more if the part slips again. We are posting this letter in our lobby and sharing it with a local television station because our neighbours have been waiting since June and deserve to know where things stand. We will post your reply beside this letter when we receive it.
+
+We would much rather solve this with you than keep counting.
+
+Secretary, on behalf of the Tenants' Association
+</final_document>

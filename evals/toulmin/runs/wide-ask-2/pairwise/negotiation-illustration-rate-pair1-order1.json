@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-43-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both emails make the same honest case: $9,000 for four years, strong sales, a reading-list book, a $12,500 fee elsewhere, and a modest request for $11,500. A is ready to send, while B still has unfilled placeholders and adds 'full-time work', which isn't in the facts I was given."
+}

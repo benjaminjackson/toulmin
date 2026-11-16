@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-43-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B shows it understands a regulated plant. It says it would learn the documentation requirements first and work with the quality team without cutting anything the regulations require, and it presents the new-teacher training as a real parallel to bringing on new hires. A leans on general teaching claims, promises to make training 'faster', and still has bracketed placeholders, which reads like the typical teacher applicant I'm wary of."
+}

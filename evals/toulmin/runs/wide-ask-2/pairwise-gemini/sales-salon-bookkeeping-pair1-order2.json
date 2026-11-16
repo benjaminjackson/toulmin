@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "sales-salon-bookkeeping",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-46-29Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Document A immediately shows that the bookkeeper understands the reality of running a salon by mentioning tips, commissions, and retail, and it takes a moment to explain what monthly bookkeeping and payroll actually take off my plate. Document B includes a whole section about raising prices in January without explaining why, which just makes me feel like I missed out on a cheaper rate."
+}

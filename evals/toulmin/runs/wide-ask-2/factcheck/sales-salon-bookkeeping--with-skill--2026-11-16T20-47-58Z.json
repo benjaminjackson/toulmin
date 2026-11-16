@@ -1,0 +1,17 @@
+{
+  "task": "sales-salon-bookkeeping",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-47-58Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "Last year I missed that date 3 times out of 12.",
+      "why": "The brief says she has 31 clients and missed the 10th three times last year, not that she missed it in 3 out of 12 months (with 31 clients, there are hundreds of monthly closes per year, not 12)."
+    },
+    {
+      "quote": "That also means I keep set hours.",
+      "why": "The brief only states that she does not answer the phone on Sundays or Mondays, not that she keeps set hours."
+    }
+  ],
+  "invented_count": 2
+}

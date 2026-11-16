@@ -1,0 +1,33 @@
+I wrote the email below without checking anything with you first, so look over these points before you send it:
+
+- **The apology.** The email says "You deserved better than that, and I'm sorry." People who left over the hail will be thinking about it, so the email deals with it before asking them back. Change the wording if it isn't how you'd say it.
+- **What the email doesn't promise.** It offers no credit for last season and doesn't promise more updates if bad weather hits again, because you didn't mention either. If you'd offer lapsed members something, like a discount or credit, say so near the top. That would help more than anything else in the email.
+- **What the nets cover.** The email says the nets only cover tomatoes and peppers. People would notice that anyway, and saying it yourself makes the rest easier to trust.
+- **Things to add:** a merge field for each person's first name, the sign-up link, and your name and farm name in the sign-off.
+
+It's about 190 words now, so adding the link and your name should keep it under 200.
+
+<final_document>
+Subject: What we changed after last July's hail
+
+Hello,
+
+You had a share with us last season and didn't renew. I think I know at least part of why.
+
+On July 9 a hailstorm destroyed about half our crops. For the next six weeks your Thursday box had about half what it should have. We didn't offer refunds or credit, and I sent you one short email about it. You deserved better than that, and I'm sorry.
+
+Here's what we've done since:
+
+- Added a second field on higher ground.
+- Put up two hail nets over our tomatoes and peppers.
+
+Those two changes cost us $31,000. We also have a new policy: you can now pause your share for up to two weeks and get credit for those weeks.
+
+The nets only cover tomatoes and peppers, and nobody can promise a season without bad weather. But we're much better prepared than we were last July.
+
+A full share is still $540, the same as last year. Sign-up closes March 15, and 52 shares are left.
+
+We'd love to have you back on Thursdays.
+
+Thank you,
+</final_document>

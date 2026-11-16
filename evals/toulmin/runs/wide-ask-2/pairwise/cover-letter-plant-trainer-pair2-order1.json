@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-44-50Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Letter A talks like someone who understands a regulated plant: it stresses written procedures, records that prove training happened, and learning the documentation rules before changing anything. Letter B is easier to skim but uses more generic claims (\"learn your system quickly,\" \"commit long term\") and still has unfilled placeholders like [LMS name]."
+}

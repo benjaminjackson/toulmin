@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-44-50Z",
+  "without_skill_run": "2026-11-16T19-18-47Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters avoid making the unrealistic promise of cutting training time in half and intelligently frame her lack of GMP experience, though neither writer gathered the stronger details she had about state audits and her GMP course. Document B wins by a slight margin because the bulleted format is easier to scan, and it avoids Document A's naive claim that high school teaching is 'the same' as pharmaceutical manufacturing or that plant floor operators all have college degrees like new teachers."
+}

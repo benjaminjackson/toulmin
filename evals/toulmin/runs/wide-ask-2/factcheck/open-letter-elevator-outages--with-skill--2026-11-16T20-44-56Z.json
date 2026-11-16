@@ -1,0 +1,21 @@
+{
+  "task": "open-letter-elevator-outages",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-44-56Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "about one day in every eight.",
+      "why": "The brief does not give the current date or month, so the total number of days elapsed this year cannot be calculated to determine the ratio of 41 outage days."
+    },
+    {
+      "quote": "Five months later, you are telling us the same thing.",
+      "why": "The brief mentions events in August and September, indicating it is at least September, but never states that the current month is November (five months after June)."
+    },
+    {
+      "quote": "We will post your reply beside this letter when we receive it.",
+      "why": "Neither the brief nor the additional user facts state that the tenants' association plans to post management's reply in the lobby."
+    }
+  ],
+  "invented_count": 3
+}

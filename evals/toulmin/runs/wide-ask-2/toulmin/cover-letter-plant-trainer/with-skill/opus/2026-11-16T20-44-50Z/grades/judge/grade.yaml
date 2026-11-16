@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T20:45:38.237181+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 382
+  tags: []
+  notes: extracted 382 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 4
+    honest: 7
+    works_the_facts: 3
+    right_comparison: 3
+    qualification: 2
+    objections: 4
+    fit: 6
+  details:
+    agree: 'The letter is candid and readable, but it reads like every other teacher''s
+      letter: it never shows the signed training records, the two clean state audits
+      or the GMP course, so a skeptical HR manager has little reason to move it into
+      the phone-screen pile.'
+    honest: It rightly drops the unprovable 'cut training time in half' claim and
+      keeps the real numbers accurate, but it adds small details the brief doesn't
+      support, such as checks on whether the procedures are being followed, 'teenagers
+      using hazardous materials for the first time', and 'showing with records' (which
+      it never backs up).
+    works_the_facts: 'The figures are only restated: it doesn''t present 41% to 58%
+      as a 17-point (about 40% relative) gain, and it misses the strongest fact, the
+      cut of new-teacher training from 20 hours to 12 (a 40% reduction), which is
+      exactly the result this employer cares about.'
+    right_comparison: It never shows a before-and-after, such as the 20-hour training
+      it replaced, and never compares itself with a conventional GMP-experienced hire,
+      so the reader has no baseline to judge improvement against.
+    qualification: 'The only hedge is a vague promise to learn their system before
+      changing anything; it leaves out the checkable details the reader needs: the
+      GMP course finishing May 2, the June 14 start date and interview availability.'
+    objections: It raises the expected 'no regulated-industry or GMP experience' objection
+      itself but answers it weakly, leaving out the signed training records, two clean
+      state audits and GMP enrollment that would actually answer it.
+    fit: It is a one-page cover letter in the right form, but it uses 'Dear Hiring
+      Manager' instead of Karen Doyle, never names Calder Pharmaceuticals, and has
+      no signature name.

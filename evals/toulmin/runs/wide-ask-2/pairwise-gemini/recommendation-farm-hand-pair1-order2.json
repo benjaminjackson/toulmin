@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-45-42Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B stays strictly faithful to the brief while sounding like a genuine, plainspoken farm manager, and its candor about the applicant's leave and language skills actually makes the strong praise more credible to an admissions committee. Document A slightly embellishes the facts (claiming he learned the software on his own initiative and speaks English 'confidently') and obscures the details of his five-week absence."
+}

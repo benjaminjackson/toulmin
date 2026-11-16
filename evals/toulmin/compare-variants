@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 # Judge two skill variants head-to-head on documents they have already written in conversation mode.
 # Arguments: first variant name, second variant name. Each needs a finished round in runs/conv-<name>.
+# COMPARE_PREFIX replaces "conv" (the sealed test uses "sealed"). COMPARE_JUDGES is a space-separated list of judges
+# to run, from opus, gemini and fable; the default is opus alone. With gemini in the list the fact check runs too.
 # Why: a variant that beats bare Claude may win only because it asks the user questions. Putting two variants
 # that both ask against each other shows what the rest of the skill adds.
 # The result goes to runs/conv-<first>-vs-<second>. There the `with-skill` arm holds the first variant's documents and
@@ -14,24 +16,33 @@ first_variant=$1
 second_variant=$2
 # Work from the folder this script is in, so the script runs from any checkout.
 cd "$(dirname "${BASH_SOURCE[0]}")" || exit 1
-comparison_directory="runs/conv-$first_variant-vs-$second_variant"
-for task_directory in "runs/conv-$first_variant"/toulmin/*/; do
+runs_prefix=${COMPARE_PREFIX:-conv}
+judges=${COMPARE_JUDGES:-opus}
+comparison_directory="runs/$runs_prefix-$first_variant-vs-$second_variant"
+for task_directory in "runs/$runs_prefix-$first_variant"/toulmin/*/; do
   task_name=$(basename "$task_directory")
   mkdir -p "$comparison_directory/toulmin/$task_name"
   if [ ! -d "$comparison_directory/toulmin/$task_name/with-skill" ]; then
-    cp -R "runs/conv-$first_variant/toulmin/$task_name/with-skill" "$comparison_directory/toulmin/$task_name/with-skill"
+    cp -R "runs/$runs_prefix-$first_variant/toulmin/$task_name/with-skill" "$comparison_directory/toulmin/$task_name/with-skill"
   fi
   if [ ! -d "$comparison_directory/toulmin/$task_name/without-skill" ]; then
-    cp -R "runs/conv-$second_variant/toulmin/$task_name/with-skill" "$comparison_directory/toulmin/$task_name/without-skill"
+    cp -R "runs/$runs_prefix-$second_variant/toulmin/$task_name/with-skill" "$comparison_directory/toulmin/$task_name/without-skill"
   fi
 done
 # summary reads the arm of a run from run.yaml, so the second variant's copies must carry the other arm's name.
 for run_file in "$comparison_directory"/toulmin/*/without-skill/opus/*/run.yaml; do
   /opt/homebrew/bin/yq -i '.config.name = "without-skill"' "$run_file"
 done
-printf 'Head-to-head of two skill variants, not a skill against bare Claude.\n\n- `with-skill` holds the documents of the `%s` variant, copied from `runs/conv-%s`.\n- `without-skill` holds the documents of the `%s` variant, copied from `runs/conv-%s`.\n' "$first_variant" "$first_variant" "$second_variant" "$second_variant" > "$comparison_directory/README.md"
-./pairwise "$comparison_directory" > "$comparison_directory/pairwise-opus.log" 2>&1
-# Second pass picks up any judge call that failed the first time.
-./pairwise "$comparison_directory" >> "$comparison_directory/pairwise-opus.log" 2>&1
+printf 'Head-to-head of two skill variants, not a skill against bare Claude.\n\n- `with-skill` holds the documents of the `%s` variant, copied from `runs/%s-%s`.\n- `without-skill` holds the documents of the `%s` variant, copied from `runs/%s-%s`.\n' "$first_variant" "$runs_prefix" "$first_variant" "$second_variant" "$runs_prefix" "$second_variant" > "$comparison_directory/README.md"
+# $judges is left unquoted on purpose, so that the shell splits it into one word per judge.
+for judge in $judges; do
+  ./pairwise --judge "$judge" "$comparison_directory" > "$comparison_directory/pairwise-$judge.log" 2>&1
+  # Second pass picks up any judge call that failed the first time.
+  ./pairwise --judge "$judge" "$comparison_directory" >> "$comparison_directory/pairwise-$judge.log" 2>&1
+  if [ "$judge" = gemini ]; then
+    ./factcheck "$comparison_directory" > "$comparison_directory/factcheck.log" 2>&1
+    ./factcheck "$comparison_directory" >> "$comparison_directory/factcheck.log" 2>&1
+  fi
+done
 ./verdict "$comparison_directory" > "$comparison_directory/verdict.md"
 cat "$comparison_directory/verdict.md"

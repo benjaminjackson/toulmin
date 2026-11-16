@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-45-09Z",
+  "without_skill_run": "2026-11-16T19-19-01Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "After spending four months chasing their last report on a much smaller $12,000 grant, Document B's empty promise to simply file on time isn't enough to make me comfortable recommending a $50,000 award. Document A earns my trust by outlining a concrete change in process—putting deadlines on the board calendar and assigning specific volunteer and board oversight—while also providing a much stronger, well-structured measurement plan."
+}

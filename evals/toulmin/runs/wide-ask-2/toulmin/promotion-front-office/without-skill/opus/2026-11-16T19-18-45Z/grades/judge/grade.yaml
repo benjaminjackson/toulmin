@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T19:19:17.131507+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 437
+  tags: []
+  notes: extracted 437 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 4
+    objections: 6
+    fit: 6
+  details:
+    agree: 'The GM gets a credible insider case: seven weeks covering the job, turnover
+      and training numbers, and an open admission that the renovation drove much of
+      the score gain. But it never sets the writer''s experience against the outside
+      candidate''s larger-hotel background, so the main reason to pick someone else
+      is left unanswered.'
+    honest: 'It rightly declines to claim the writer was the main reason scores rose.
+      A few lines go beyond the brief, though: ''without lowering the standard'' and
+      ''without a gap in leadership'' are not supported by any fact given.'
+    works_the_facts: It works out turnover falling from 64% to 36% and training getting
+      44% faster. It doesn't turn those into anything concrete, such as about 4 fewer
+      shadow shifts per new hire or roughly 4 fewer departures a year, and it calls
+      a 44% drop 'nearly half' without showing the figure.
+    right_comparison: The before-and-after turnover comparison is fair. The comparison
+      that actually matters is the writer against an outside hire, who would have
+      no knowledge of this team or property and would arrive after a seven-week vacancy,
+      and the document never makes it.
+    qualification: The budget plan names a weekly payroll review and a 60/90-day window,
+      but these are left as placeholders. It sets no measurable bar for being ready,
+      such as payroll within a set percentage of budget, and says nothing about what
+      happens if that bar is missed.
+    objections: The renovation objection and the missing budget experience are both
+      met head-on. The outside candidate's experience at a larger hotel is never addressed.
+    fit: It is a memo of about one page, as asked, but it still has several unfilled
+      bracket placeholders, including the closing goals section, so it can't be sent
+      as it stands.

@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:47:14.413987+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 426
+  tags: []
+  notes: extracted 426 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 4
+    honest: 6
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 3
+    objections: 3
+    fit: 8
+  details:
+    agree: Marisol had to chase the last report for four months, and a one-line apology
+      with no named person, no reason and no reporting dates won't reassure her; the
+      unbudgeted running costs are also left open, so she may hesitate to recommend
+      yes.
+    honest: 'It correctly drops the unsupported ''double'' claim, but it adds things
+      the brief doesn''t support: that fresh food is what families ''most often can''t
+      afford'', that the farms came ''unasked'', and that the 9,000 pounds is ''a
+      floor, not a ceiling''.'
+    works_the_facts: Its strongest true framing is that last summer's offers would
+      have added 3,000 pounds a month, raising fresh food by half in those months;
+      it also states the reserve figure plainly, but it never mentions the farm letters
+      or the $4,500 a year in running costs.
+    right_comparison: '''Next summer will look like last summer'' fairly describes
+      what happens without the van and matches the facts, though it is brief and somewhat
+      emotive.'
+    qualification: '''If farms repeat those offers'' is a real uncertainty, but the
+      reader can''t check it: there is no date, no reporting schedule tied to it,
+      and nothing said about what happens if the farms don''t give again.'
+    objections: Her main concern, the late report, gets only a vague promise, with
+      no mention of the treasurer's hospital stay, Dave Lin as the person responsible,
+      the 30-day deadline or the quarterly figures; nothing is said about how the
+      van's insurance and fuel will be paid once reserves drop to $11,000.
+    fit: It is a project narrative with clear headings and comes in under the 500-word
+      limit.

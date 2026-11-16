@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T20:47:19.560929+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 378
+  tags: []
+  notes: extracted 378 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 3
+    honest: 6
+    works_the_facts: 3
+    right_comparison: 5
+    qualification: 2
+    objections: 3
+    fit: 7
+  details:
+    agree: 'A ten-year teller who doesn''t want to work on the phones gets an acknowledgement
+      and a severance formula, but no concrete reason to stay: no $1.50 raise, no
+      seniority-based shift choice, no 6-month trial with severance kept, and no dates.'
+    honest: The figures match the brief, but 'a better place for all of us to work'
+      and 'shorter waits mean calmer members' claim more than the facts show.
+    works_the_facts: 'The numbers are repeated as given and nothing is worked out
+      from them: ''same pay or higher'' is used instead of the stronger $1.50/hour
+      figure, and there''s no severance example (10 years = 20 weeks'' pay).'
+    right_comparison: It sets the 44% fall in branch visits against the 60% rise in
+      phone and chat contacts and states the 9-minute hold time, but it doesn't say
+      what happens if nothing changes or set the severance option side by side with
+      the new role.
+    qualification: 'The decision needs dates, and none are given: no February 14 offer
+      date, no March 1 decision deadline, and no way for readers to check what happens
+      next.'
+    objections: The main objections (not wanting phone work, losing 9-to-5 hours,
+      losing long service at their branch) are named only in passing, and the commitments
+      that answer them are left out.
+    fit: It's an email of about the right length (~400 words) from the COO, but it's
+      signed only 'COO' with no name and leaves out practical details such as the
+      Elm Avenue location.

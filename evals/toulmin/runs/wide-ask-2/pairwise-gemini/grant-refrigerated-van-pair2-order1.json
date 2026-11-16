@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-45-09Z",
+  "without_skill_run": "2026-11-16T19-19-01Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both narratives own up to the late 2023 report and walk back the unrealistic math into an honest 50% summer increase, which I appreciate, though neither explains how they will cover the van's ongoing expenses with only $11,000 left in reserves. Document A wins because it stays strictly honest to the facts provided, whereas Document B invents board accountability structures, grocer outreach plans, and tracking metrics that the organization never committed to."
+}

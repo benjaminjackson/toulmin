@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T19:19:50.447634+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 387
+  tags: []
+  notes: extracted 387 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 5
+    honest: 5
+    works_the_facts: 4
+    right_comparison: 6
+    qualification: 3
+    objections: 5
+    fit: 9
+  details:
+    agree: Having a 19-year Alder Road resident accept the traffic cost openly will
+      carry weight with some commissioners, but the two who care most about traffic
+      get a concession and no mitigation, so their concern stands.
+    honest: The core figures match the brief, but the list of tenants (home health
+      aides, cooks, retirees), the claim that they 'already work here', and the promise
+      that cars will stay 'not on our street' are all invented or go beyond what 72
+      spaces for 64 units can support.
+    works_the_facts: 'The numbers are mostly repeated rather than worked: the speech
+      never says that 64 homes would house about 15% of the 412-household waiting
+      list, never breaks the 310 daily trips into a rush-hour figure, and never gives
+      the 1.1 spaces per unit; the middle-school comparison is the only figure it
+      reframes.'
+    right_comparison: It sets the project against what happens if nothing is built
+      (an empty lot six days a week, a three-year wait, the 2,100-home shortfall),
+      which matches the facts, though it says nothing about whether the shortfall
+      is growing.
+    qualification: It admits the drop from C to D as a real cost but offers nothing
+      the commissioners can check, such as a condition, a review date or a fallback
+      if traffic turns out worse than the study predicts.
+    objections: It names the traffic objection directly and uses the parking figure
+      to answer the overflow worry, but its answer to traffic is 'worth it' rather
+      than putting 310 daily trips in perspective, which is what the traffic-focused
+      commissioners needed.
+    fit: At about 430 words in plain spoken language with a clear opening and close,
+      it fits the three-minute limit.

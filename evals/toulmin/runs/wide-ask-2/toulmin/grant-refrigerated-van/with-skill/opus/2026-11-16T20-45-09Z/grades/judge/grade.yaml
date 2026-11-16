@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:46:18.617227+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 408
+  tags: []
+  notes: extracted 408 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 4
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 4
+    objections: 3
+    fit: 8
+  details:
+    agree: The case for fresh food is clear, but Marisol had to chase the last report
+      for four months, and she gets no named owner and no due date for this one, no
+      word on who pays to run the van, and nothing showing the farms will offer food
+      again, so she would hesitate to recommend yes.
+    honest: It correctly drops the 'double' claim and invents no figures, but 'the
+      van will not sit idle for lack of drivers' claims more than four weekly volunteers
+      can guarantee.
+    works_the_facts: 'It works out sound figures: 3,000 pounds a month, a rise by
+      half over the harvest months, and about 15 pounds per household. It never states
+      the yearly effect and doesn''t test whether $11,000 in reserve can carry the
+      van''s running costs.'
+    right_comparison: The no-van case (farms offer food, volunteers say no) matches
+      last summer, but it assumes the offers will come again without citing the two
+      farm letters that support that.
+    qualification: '''If this summer''s offers match last summer''s'' is a fair hedge,
+      but the reader can''t check it: it doesn''t cite the farm letters, and the reporting
+      promise has no date and no named person, and drops the quarterly figures the
+      director could have committed to.'
+    objections: The late report gets an apology, but there is no explanation (the
+      treasurer's hospital stay), no named owner (Dave Lin) and no 30-day deadline,
+      and the $4,500 a year for insurance and fuel goes unmentioned, which is the
+      obvious sustainability question with only $11,000 left in reserve.
+    fit: It is a grant narrative of about 430 words with clear sections, well under
+      the 500-word limit.

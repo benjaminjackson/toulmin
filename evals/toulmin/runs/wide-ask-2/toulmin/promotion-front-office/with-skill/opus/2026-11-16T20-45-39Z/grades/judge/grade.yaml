@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T20:46:38.108388+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 461
+  tags: []
+  notes: extracted 461 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 5
+    honest: 7
+    works_the_facts: 7
+    right_comparison: 3
+    qualification: 4
+    objections: 5
+    fit: 8
+  details:
+    agree: The memo is candid and the turnover and training numbers are solid, but
+      it never uses the 7.9-to-8.2 rise before the renovation and never mentions the
+      outside candidate, so it leaves both of the GM's doubts standing.
+    honest: It backs off the 'main reason' claim, but it states without support that
+      the savings are 'already showing in those costs' and that keeping 8.6 'depends
+      on the front office.'
+    works_the_facts: Turning the raw counts into 64% vs 36% turnover and 81 vs 25
+      training shifts makes good use of the facts, though the shift count assumes
+      every leaver was replaced one for one, and the seven weeks are backed by no
+      number at all.
+    right_comparison: The real alternative is the outside candidate from a larger
+      hotel, and the memo only hints at it in its last line, never weighing proven
+      results here against a larger property elsewhere.
+    qualification: The monthly budget review for the first quarter gives a time frame,
+      but it names no measure to be judged against and no consequence if she falls
+      short, and it leaves out the finance course and the controller sessions.
+    objections: The budget gap is faced openly, but the renovation objection gets
+      only the general point that the desk matters instead of the pre-renovation score
+      rise, and the outside candidate's experience is never answered.
+    fit: It's a clear memo of about one page, as asked, though it uses job titles
+      where the names should be.

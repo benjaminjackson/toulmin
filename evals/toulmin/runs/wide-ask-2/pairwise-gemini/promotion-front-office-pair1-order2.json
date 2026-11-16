@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "promotion-front-office",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-43-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document B makes a much stronger operational case by directly tying the training and retention improvements to payroll efficiency and by pointing out that a strong team will sustain our guest scores long after the novelty of the renovation wears off. However, Document A offers a more structured 90-day plan for learning the budget that involves the controller rather than putting the entire burden of teaching her on me."
+}

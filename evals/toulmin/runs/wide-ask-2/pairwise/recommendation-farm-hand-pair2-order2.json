@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-46-38Z",
+  "without_skill_run": "2026-11-16T19-18-37Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Both letters are short on details: A is full of unfilled brackets, and B gives no name, farm or contact. B is more convincing because it explains why catching mastitis early matters, and it openly frames the five-week absence and its two days' notice as a family emergency. A leaves out the short notice, which makes it read as more selective."
+}

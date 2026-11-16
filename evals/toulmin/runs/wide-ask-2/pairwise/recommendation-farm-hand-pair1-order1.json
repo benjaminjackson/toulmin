@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-45-42Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B reads as a more polished, confident letter: it presents the absence as family medical leave and frames the English night class as proof of initiative, so a quick reader comes away more positive. Still, B adds small unsupported details such as \"on his own initiative\" and leaves out the two-day notice. A is franker and nearly as strong, which keeps the gap small."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-45-46Z",
+  "without_skill_run": "2026-11-16T19-19-20Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both speeches rely entirely on the initial brief and miss the critical facts that would actually persuade the swing commissioners—specifically the builder's offer to pay for a traffic signal that keeps the Alder and 4th intersection at a C rating. However, Document A is slightly better because it stays strictly faithful to the facts provided, whereas Document B discloses the speaker's church membership (which Document A smartly omits or doesn't highlight to hostile neighbors) yet invents details about the specific jobs of future residents and assumes there is already a traffic light at the intersection."
+}

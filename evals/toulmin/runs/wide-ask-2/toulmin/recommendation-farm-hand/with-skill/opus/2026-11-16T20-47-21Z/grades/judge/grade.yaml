@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:48:08.766343+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 379
+  tags: []
+  notes: extracted 379 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 5
+    honest: 6
+    works_the_facts: 3
+    right_comparison: 3
+    qualification: 3
+    objections: 3
+    fit: 6
+  details:
+    agree: "A quick reader gets a warm, credible picture, but the unsigned letter\
+      \ (no name, no farm, no surname for Tom\xE1s, no phone number) and the admission\
+      \ of being left short-handed give a skeptical reader reasons to doubt it."
+    honest: The core facts are accurate, but 'by reading the data and also watching
+      the animals in front of him' is invented, 'I gave him that shift because I trusted
+      him' goes beyond the facts, and 'without reservation' is strong for a letter
+      that then states a reservation.
+    works_the_facts: 'Facts are restated rather than worked: ''two shifts in three
+      years'' is never shown as roughly 2 of about 780 shifts, and the nine mastitis
+      cases are never tied to the vet''s $8,000 savings estimate.'
+    right_comparison: "The committee is choosing among 150 applicants, but the letter\
+      \ never sets Tom\xE1s against a typical applicant or a typical 22-year-old farmhand,\
+      \ beyond a loose remark that he has outgrown his job."
+    qualification: The written-English concern is hedged only with 'I expect him to
+      bring it'; there is no checkable detail such as the night class's level or end
+      date, or the safety test he passed on the second attempt.
+    objections: "The letter raises the short-notice absence and says it left the farm\
+      \ short-handed, even though the cousin covered every shift and Tom\xE1s came\
+      \ back on the day he promised, so it creates an objection the facts already\
+      \ answer, and it leaves out the part-time weekend job that would ease concerns\
+      \ about him finishing the program."
+    fit: "It is a one-page letter from the farm manager as asked, but it is signed\
+      \ only 'Farm Manager', with no name, farm, or contact details, and calls the\
+      \ applicant only 'Tom\xE1s', which is a serious gap for a reference."

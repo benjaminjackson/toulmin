@@ -1,0 +1,33 @@
+I couldn't ask you questions before writing, so I left out anything you didn't tell me. The email has no refund offer, no promise about future storms and no signer name.
+
+**Choices I made:**
+- **The apology comes before the ask.** These readers are upset about getting half boxes at full price with almost no explanation. If the email skipped that and went straight to the new field, it would read as a sales pitch. I state the shortfall plainly and say it should have been handled better.
+- **I didn't overstate the hail protection.** The nets cover only tomatoes and peppers. You didn't say why the new field reduces risk, so the email only says one storm is less likely to do as much damage. If higher ground protects the crops in a specific way, adding one sentence about it would make the email stronger.
+- **"We can't stop hail" is stated openly.** People will be wondering what happens if it hails again, so it's better to answer that up front.
+
+**Before sending:**
+- **Sign the email.** It ends at "Thank you," without a name.
+- **Add a sign-up link** if you have one.
+- **Think about a goodwill offer** for people who had the short boxes, like a discount or bonus produce. That would answer their complaint better than any wording can. Add it only if you can afford it.
+
+The email is about 175 words.
+
+<final_document>
+Subject: We got last summer wrong
+
+Hi,
+
+You didn't renew your farm share this year, and I think I know why.
+
+On July 9, a hailstorm destroyed about half our crops. For the next six weeks, your box held about half of what it should have. You'd paid the full price, we didn't offer a refund or credit, and all I sent you was one short email. You deserved a real explanation, and I'm sorry you didn't get one.
+
+We can't stop hail, but here's what we've changed:
+
+- We spent $31,000 on a second field on higher ground and two hail nets over our tomatoes and peppers. Our crops are no longer all in one place, so one storm is less likely to take as much of the season.
+- You can now pause your share for up to two weeks and get credit for those weeks.
+- A full share is still $540, the same as last year.
+
+Sign-up closes March 15, and there are 52 shares left. I'd love to see you back on Thursdays.
+
+Thank you,
+</final_document>

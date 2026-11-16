@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-43-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both speeches rely purely on the initial facts without bringing in the crucial traffic signal solution, making them very similar, but Document B is slightly more effective for commissioners and neighbors because it contextualizes what a 'D' traffic rating actually means and explicitly connects the parking spaces to preventing street spillover. Document A also slightly undermines its own case by inventing specific demographics ('working families, seniors') not supported by the facts and incorrectly implying there is already a traffic light at the intersection."
+}

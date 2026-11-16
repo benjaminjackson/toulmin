@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "sales-salon-bookkeeping",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-47-58Z",
+  "without_skill_run": "2026-11-16T19-19-18Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both pages leave out what matters most to me: that my cousin would keep doing my taxes. B comes closer, because it says clean books leave my accountant 'less to fix' and admits it can't promise savings, while A flatly says my accountant will charge less. B also says why closing by the 10th helps me, though A's mention of booth rent and commission splits is a point in its favor."
+}

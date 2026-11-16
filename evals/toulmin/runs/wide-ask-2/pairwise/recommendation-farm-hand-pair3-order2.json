@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "recommendation-farm-hand",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-47-21Z",
+  "without_skill_run": "2026-11-16T19-19-09Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B reads as more credible: it admits the two days' notice and the short staffing, and it links his software-plus-stock-sense skills to what the program teaches. A is padded with bracketed placeholders and adds claims the brief doesn't support, like 'taught himself' and 'on his own initiative'. Both lack a name and contact details, so the gap is small."
+}

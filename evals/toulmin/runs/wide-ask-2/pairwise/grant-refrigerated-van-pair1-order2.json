@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "grant-refrigerated-van",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-43-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both documents correct the doubling claim to about 12 percent a year, but B promises to treat 9,000 pounds as a floor, which the food bank can't guarantee since the farms may not offer as much again. A's projection is hedged on last summer's offers, and it commits to quarterly updates and an on-time final report, which matters to me after chasing the last one. B is more direct about the late report, and A's placeholder name is sloppy, so this is a close call."
+}

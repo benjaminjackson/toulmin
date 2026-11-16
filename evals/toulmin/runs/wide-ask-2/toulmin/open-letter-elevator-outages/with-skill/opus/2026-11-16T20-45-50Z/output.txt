@@ -1,0 +1,47 @@
+I've drafted the letter. I made three decisions without being able to ask you:
+
+- **The second elevator.** Your facts don't show a second elevator can be built, and management says it can't. So the letter doesn't claim it can. It asks management to show what "can't be done" is based on, or to get an independent assessment. If the letter demanded the elevator outright, management could answer on TV with "$400,000 and physically impossible," and you'd have no reply. This version leaves them with a question they have to answer.
+- **The inspection.** Management will point to the passing certificate, so the letter raises it first. A certificate says the elevator is safe when it runs. It doesn't say how often it runs.
+- **Facts not added.** I didn't say which floors the six residents with wheelchairs or walkers live on, or whether the elevator has broken down since September. Neither was in your facts, so the letter only says what a breakdown means for someone on an upper floor.
+
+**Figures I worked out:**
+- 41 days is about one day in eight. I counted from January 1 to mid-November; it will be a little lower by year-end.
+- 74 of 112 households is two out of three.
+- If the 6–8 week estimate in June had been right, the part would have arrived in July or August.
+
+**Before you send it:**
+- Add the management company's name to the heading and the building's name or address to the signature line. The TV station will need both.
+- Add a date by which you want a written reply. A deadline gives the TV station something to follow up on. I didn't make one up.
+- Be ready to back the outage figures with a written log of dates. Reporters may ask for it.
+
+The letter is about 400 words.
+
+<final_document>
+**An Open Letter to Our Property Management Company**
+
+From the Tenants' Association
+
+Our building has nine stories, 112 apartments and one elevator.
+
+This year that elevator has been out of service on 41 days, roughly one day in every eight. In August it was out for 12 days in a row.
+
+For most of us a breakdown means climbing stairs. For some of our neighbours it means far more. Twenty-three residents are over 75, and six use wheelchairs or walkers. For a resident in a wheelchair on an upper floor, a broken elevator can mean no way to reach a doctor's appointment or bring home groceries, and no easy way out of the building in an emergency.
+
+In June you told us a new controller part was on order and would arrive in six to eight weeks. It did not arrive. Now you are telling us the same thing: six to eight weeks. We don't think it's unreasonable to want more than the same estimate a second time.
+
+We know the city inspected the elevator in September and issued a passing certificate. We don't dispute it. But a certificate tells us the elevator is safe when it runs. It tells us nothing about how often it runs, and that is the problem we live with.
+
+Seventy-four households, two out of every three in this building, signed our petition asking for a second elevator. You have told us it would cost about $400,000 and can't be done in this building. We take the cost seriously. But "can't be done" is a conclusion, and we have never seen what it is based on.
+
+We are asking for three things:
+
+1. **The facts about the repair, in writing.** Who the part was ordered from, when it was ordered, the date it is due, and what you will do if that date passes.
+
+2. **A plan for outages until the repair is done.** How residents who cannot use the stairs will be helped while the elevator is down, and how every household will be told when it breaks down and when it is expected back.
+
+3. **The basis for "can't be done."** If you have an engineering or feasibility assessment for a second elevator, share it with us. If you don't, we ask you to commission an independent one so that residents can see the options and their costs for themselves.
+
+We want this building to work for everyone who lives in it, including the neighbours who depend on the elevator most. We are posting this letter in our lobby and sharing it with local news because this has gone on for most of a year. We look forward to your written reply on each of these points.
+
+The Tenants' Association
+</final_document>

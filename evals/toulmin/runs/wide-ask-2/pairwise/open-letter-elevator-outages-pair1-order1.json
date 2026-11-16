@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "open-letter-elevator-outages",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-43-59Z",
+  "without_skill_run": "2026-11-16T19-18-00Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A is tighter and more measured: it points out that the June promise ran straight through the August outage and makes four focused requests, which makes it hard to wave off as a few loud people. B reads as an unfinished draft with bracketed placeholders, and it adds claims the brief doesn't support, such as families with small children and a petition from earlier this year."
+}

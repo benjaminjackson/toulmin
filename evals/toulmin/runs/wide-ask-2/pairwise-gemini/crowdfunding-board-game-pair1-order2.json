@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-43-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "As a cautious backer who has been burned before, Document B wins me over by putting the exact printing, shipping, and fee math right on the table instead of leaving placeholders like Document A. Both wisely avoid the dishonest 'proven hit' claim and stay humble about the 23 BGG ratings, but B's transparent financial breakdown actually earns my trust in a first-time creator."
+}

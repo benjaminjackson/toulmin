@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "public-comment-church-housing",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-43-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B speaks more directly to commissioners worried about traffic: it explains that a D rating means slower but not failing, and only at rush hour. It also shows the scale (about one in six of the waiting list) and the cost of saying no, while staying honest about the traffic study. A covers the same facts but plays down the D rating as a 'little longer' wait, and is a bit less pointed. Neither speech mentions the signal condition."
+}

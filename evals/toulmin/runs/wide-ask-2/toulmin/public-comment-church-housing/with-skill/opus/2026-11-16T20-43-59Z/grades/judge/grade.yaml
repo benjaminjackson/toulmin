@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T20:44:50.560335+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 377
+  tags: []
+  notes: extracted 377 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 4
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 2
+    objections: 4
+    fit: 8
+  details:
+    agree: The speech is candid and neighbourly, but the two commissioners worried
+      about traffic get only 'a D isn't failing' and no fix, so it gives them little
+      reason to change their vote.
+    honest: The figures match the brief, the speaker discloses church membership,
+      and the D rating is fairly conceded; 'I drive Alder Road every day' and 'nobody
+      loses a home, business, or park' are small unsupported additions.
+    works_the_facts: Turning 64 of 412 households into 'one in six' is a good derived
+      figure, and 72 spaces for 64 units is used well, but the 310 daily trips are
+      never put in a smaller per-hour or per-unit form, and the empty-six-days fact
+      is never tied to shared parking.
+    right_comparison: The no-vote alternative is stated accurately (lot stays empty,
+      shortage unchanged, 412 households keep waiting), but it leaves out that with
+      a signal the traffic trade-off largely disappears.
+    qualification: The ask is an unconditional 'approve' when it should be approval
+      with the traffic signal as a checkable condition that keeps Alder and 4th at
+      a C; no condition, number or consequence is named.
+    objections: Traffic and parking are faced directly, but the strongest answer to
+      the traffic objection (the builder-funded signal keeping the C rating) is missing,
+      and the 20 months of construction trucks and the neighbour parking commitment
+      are not mentioned.
+    fit: At about 420 spoken words it fits three minutes and reads as a natural first-person
+      public comment, with an opening disclosure and a clear close.

@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:45:09.123565+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 432
+  tags: []
+  notes: extracted 432 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 5
+    honest: 6
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 4
+    objections: 4
+    fit: 8
+  details:
+    agree: The case for fresh food is clear and the numbers are honest, but Marisol,
+      who had to chase the last report for four months, gets an admission of lateness
+      with no reason, no named person and no final-report date, so the draft gives
+      her little to answer her committee with.
+    honest: It rightly drops the 'double' claim and its arithmetic is correct, but
+      'we will treat 9,000 pounds as our floor' and 'the fresh food is already available'
+      promise a repeat of farm offers the director cannot guarantee.
+    works_the_facts: It works out the 12.5 percent annual increase, the 50 percent
+      summer increase (18,000 to 27,000 pounds) and the cost share of 'more than a
+      quarter' correctly and frames each well, though it gives no per-household or
+      cost-per-pound figure.
+    right_comparison: The no-van case is described accurately as next summer repeating
+      last summer's turned-down offers, without inventing a worsening trend.
+    qualification: Quarterly reporting against a 9,000-pound target can be checked,
+      but the draft gives no reporting dates, says nothing about what happens if the
+      target is missed, and its 'floor' rests on farm offers that could turn out either
+      way.
+    objections: It raises the late report but does not explain it or name who is responsible
+      for the final report and when, and it leaves out the unbudgeted $4,500 a year
+      for insurance and fuel against a reserve of only $11,000, which a program officer
+      will ask about.
+    fit: It is a narrative with clear headings at about 440 words, inside the 500-word
+      limit.

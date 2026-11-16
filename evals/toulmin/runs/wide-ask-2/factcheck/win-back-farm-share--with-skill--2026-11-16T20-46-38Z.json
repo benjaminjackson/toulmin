@@ -1,0 +1,17 @@
+{
+  "task": "win-back-farm-share",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-46-38Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "two of the crops people count on most now have protection.",
+      "why": "The brief states that hail nets were put over tomatoes and peppers, not that these are the two crops members count on most."
+    },
+    {
+      "quote": "If you'll give us another season, reply to this email and I'll hold a share for you.",
+      "why": "Neither the brief nor the user's additional information states that replying to the email will hold a share, as sign-up is actually through a link on the website."
+    }
+  ],
+  "invented_count": 2
+}

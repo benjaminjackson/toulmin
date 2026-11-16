@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "negotiation-illustration-rate",
+  "pair": 2,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-44-32Z",
+  "without_skill_run": "2026-11-16T19-18-33Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "The two emails make the same honest case: $9,000 since the first book, the strong sales and state reading list, the $12,500 fee from another publisher, the agent's range and a modest $11,500 ask. B's bracketed placeholders ([Editor's name], [Book Title], [State]) would read as careless if I received them, while A's generic greeting is only a little impersonal, so A edges ahead."
+}

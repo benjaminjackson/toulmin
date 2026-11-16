@@ -1,0 +1,61 @@
+{
+  "task": "crowdfunding-board-game",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-18-43Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "The Long Dark Season",
+      "why": "The brief does not provide the name of the game, and the user's actual title is 'Lantern Winter'."
+    },
+    {
+      "quote": "The supply boat won't come again until spring. The oil has to last, the children have to eat, and ships need the light every night.",
+      "why": "The brief only states that you see a lighthouse keeper's family through a winter, without mentioning a supply boat, oil, children, or ships."
+    },
+    {
+      "quote": "on an island at the edge of the map.",
+      "why": "The brief does not specify that the lighthouse is located on an island or at the edge of the map."
+    },
+    {
+      "quote": "Each turn you decide what gets done today and what has to wait: fixing the lamp, rationing the stores, caring for someone who's sick, or going out in the storm.",
+      "why": "The brief does not describe the turn structure or specific in-game actions like fixing the lamp, rationing stores, caring for the sick, or going out in a storm."
+    },
+    {
+      "quote": "No two winters play out the same, and the hardest choices often have nothing to do with the light.",
+      "why": "The brief does not mention replayability, variable game outcomes, or the nature of the choices in the game."
+    },
+    {
+      "quote": "Tested at hundreds of tables, one game at a time",
+      "why": "The brief states there were 140 playtest sessions, not that the game was tested at 'hundreds of tables'."
+    },
+    {
+      "quote": "families, first-timers, longtime hobby gamers and solo players.",
+      "why": "The brief only says the game was playtested with about 60 different people, without detailing their backgrounds or experience levels."
+    },
+    {
+      "quote": "Every session changed something.",
+      "why": "The brief does not state that changes were made to the game after every playtest session."
+    },
+    {
+      "quote": "plus a reserve for freight and surprises",
+      "why": "Neither the brief nor the arithmetic supports a reserve for freight and surprises, especially since manufacturing ($17,400), shipping ($13,500 for 1,500 copies), and 10% fees ($2,800) already exceed the $28,000 goal."
+    },
+    {
+      "quote": "It doesn't include any pay for me.",
+      "why": "The brief does not explicitly state whether the creator is taking any pay, though the expenses exceed the goal."
+    },
+    {
+      "quote": "If we go past the goal, the extra money gives the project a safety margin before any stretch goals.",
+      "why": "The brief does not state how overfunding will be used, and the user's notes explicitly state they cannot promise stretch goals."
+    },
+    {
+      "quote": "and built a reserve into the goal.",
+      "why": "The brief does not mention building a financial reserve into the $28,000 goal, and the provided costs for 1,500 copies already exceed $28,000."
+    },
+    {
+      "quote": "This game has been through four winters of playtesting.",
+      "why": "The brief only says playtesting has occurred 'since 2023', without stating it spanned four winters."
+    }
+  ],
+  "invented_count": 13
+}

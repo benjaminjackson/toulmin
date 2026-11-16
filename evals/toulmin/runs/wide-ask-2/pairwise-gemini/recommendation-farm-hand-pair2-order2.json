@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "recommendation-farm-hand",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-46-38Z",
+  "without_skill_run": "2026-11-16T19-18-37Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both letters are very similar and present the exact same strengths, though neither writer sought out the extra context that would have made the letter truly stand out. Document A is slightly better because it formats the letter properly with placeholders for names and contact info, and it doesn't unnecessarily highlight the two-day notice before the five-week absence."
+}

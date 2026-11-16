@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "win-back-farm-share",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-47-47Z",
+  "without_skill_run": "2026-11-16T19-19-03Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both emails are very similar and only use the basic facts, but Document A's subject line and opening are more direct in owning the mistake. Document A also explicitly acknowledges that I paid full price for half-empty boxes and frames the new field more honestly—saying a storm is 'less likely to take as much' rather than claiming 'one storm can't take everything.'"
+}

@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T20:45:46.478191+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 413
+  tags: []
+  notes: extracted 413 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 4
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 3
+    objections: 4
+    fit: 6
+  details:
+    agree: The speech is personal and well organized, but the two commissioners worried
+      about traffic only get told that a D grade 'isn't the road stopping' and a vague
+      'consider a condition', not the funded signal that keeps the intersection at
+      C, so the resisting reader has little reason to change their vote.
+    honest: The figures are accurate and 'one in six' is a fair rounding of 64/412,
+      but 'I drive through that intersection all the time' is an invented detail,
+      and saying a D 'just means a longer wait' plays down the impact a little.
+    works_the_facts: It works out useful figures (one in six of the waitlist, eight
+      spare parking spaces) and makes good use of the lot sitting empty six days a
+      week, but it never uses the strongest available fact, that the signal keeps
+      the intersection at C.
+    right_comparison: The 'if you say no' paragraph sets out the status quo fairly
+      (empty lot, a 2,100-home shortfall, families still waiting), but it doesn't
+      add that approval with the signal would leave traffic at grade C, so the trade-off
+      looks worse than it is.
+    qualification: The only condition is a vague 'if you believe the intersection
+      needs improvement', when the speaker's actual ask is approval conditioned on
+      a specific, builder-funded signal that the study says holds the C rating.
+    objections: Parking and the loss of open space are dealt with, but the main traffic
+      objection gets a shrug instead of the signal, and the speech doesn't mention
+      20 months of construction trucks, neighbour weekday parking, or the neighbour
+      group the speaker could commit to.
+    fit: It's in the right first-person speech form, but at about 470 words it runs
+      close to or past three minutes, and repeating the 'nineteen years' line spends
+      time that the missing commitments needed.

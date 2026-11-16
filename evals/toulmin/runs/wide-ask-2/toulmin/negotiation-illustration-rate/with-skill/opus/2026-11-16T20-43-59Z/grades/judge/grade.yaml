@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T20:44:32.863129+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 179
+  tags: []
+  notes: extracted 179 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 4
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 4
+    objections: 3
+    fit: 7
+  details:
+    agree: The editor has a $9,000 budget and an $8,000 alternative, and gets a polite
+      request with no deadline, no extras and no reason why a $2,500 raise is worth
+      more than saving $1,000, so the likely reply is a counteroffer near $9,500 or
+      a switch to the cheaper illustrator.
+    honest: It rightly leaves out the unsupported claim that every other publisher
+      pays at least $12,000 and uses only real figures, but 'Rates have also gone
+      up elsewhere' suggests a trend when the brief gives only one fee and the agent's
+      range.
+    works_the_facts: 'It lists the raw numbers but works nothing out from them: not
+      the six books at an unchanged fee over four years, not the four months of work
+      as monthly pay, and not the fourth printing that would make the sales case concrete.'
+    right_comparison: It sets her fee against another publisher's fee and the agent's
+      range, but ignores the editor's real alternative, an untested illustrator at
+      $8,000, against her proven sales and her state reading-list title.
+    qualification: The email makes a direct ask without hedges, and none are needed.
+    objections: 'The objections about budget and a cheaper illustrator get no answer:
+      it offers no commitment to sketches in six weeks and final art by September
+      1, no free marketing spot drawings, and no point about the risk of switching
+      away from an illustrator whose books sell.'
+    fit: It is a fitting email of about 190 words, well under the limit, but it has
+      no names, a generic subject line, and no mention of The Night Garden or the
+      reply deadline.

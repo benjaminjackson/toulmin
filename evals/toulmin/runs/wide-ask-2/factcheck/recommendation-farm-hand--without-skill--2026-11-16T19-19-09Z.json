@@ -1,0 +1,33 @@
+{
+  "task": "recommendation-farm-hand",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-19-09Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "For most of that time Tomás has run our 3 a.m. milking shift alone, five days a week.",
+      "why": "The brief states that he runs the 3 a.m. shift on his own five days a week, not how long he has been on that shift out of his three years on the farm."
+    },
+    {
+      "quote": "He taught himself our herd management software",
+      "why": "The brief says he learned the herd management software, not that he taught himself."
+    },
+    {
+      "quote": "He did it because he was paying attention to the data and to the animals, not because anyone told him to.",
+      "why": "The brief does not state whether flagging sick cows in the software was his own idea or an assigned duty."
+    },
+    {
+      "quote": "He came back and stepped straight back into his full responsibilities.",
+      "why": "The brief does not mention whether he immediately resumed his full responsibilities upon returning from Mexico."
+    },
+    {
+      "quote": "His spoken English is strong, and he communicates well with the crew, our vet and me.",
+      "why": "The brief only states that his written English is weaker than his spoken English, not that his spoken English is strong or that he communicates directly with the vet and crew."
+    },
+    {
+      "quote": "He is taking a night class to improve it, on his own initiative and around a demanding work schedule.",
+      "why": "The brief says he is taking a night class for his written English, not whether it was on his own initiative."
+    }
+  ],
+  "invented_count": 6
+}

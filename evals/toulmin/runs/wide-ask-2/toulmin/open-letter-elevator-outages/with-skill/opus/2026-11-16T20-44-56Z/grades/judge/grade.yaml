@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T20:45:50.441264+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 450
+  tags: []
+  notes: extracted 450 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 5
+    honest: 9
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 4
+    objections: 7
+    fit: 6
+  details:
+    agree: The two-thirds petition figure and the measured tone make it hard to dismiss
+      as a few loud people, but the letter offers nothing in return (no meeting, no
+      resident assistance list), sets no reply deadline, and never names Keystone
+      or Diane Weller, so a manager who thinks things are handled can easily stall.
+    honest: Every figure traces to the brief, the derived ones (one day in eight,
+      two-thirds, five months since June) hold up, and the letter does not claim to
+      speak for all 112 households or dispute management's cost estimate.
+    works_the_facts: It turns the raw numbers into rates that land, like one day in
+      eight, two-thirds of households and the repeated 'six to eight weeks' since
+      June, but it leaves out the August dialysis missed appointments, the strongest
+      concrete cost.
+    right_comparison: The do-nothing alternative is described as 41 days and counting,
+      with the part promise repeated since June, but the letter doesn't show what
+      that pace means for the rest of the year or what one more 12-day outage costs
+      specific residents.
+    qualification: '''If the part slips again'' and ''if a second elevator truly cannot
+      be built'' name real uncertainties, but none comes with a deadline for a reply
+      or a consequence if the date passes.'
+    objections: It deals with the passing certificate and the $400,000 'can't be done'
+      claim fairly, and it implicitly answers the 'few loud people' view with 74 households,
+      though it doesn't head off the view that management has already done its part
+      by ordering the part.
+    fit: It is an open letter of about the right length, but it is addressed to no
+      one by name, names neither the building nor the company, is signed without the
+      secretary's name, and drops the asks the user gave (a stair chair, trained staff,
+      a rent credit) in favour of vaguer requests.

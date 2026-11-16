@@ -1,0 +1,52 @@
+grader: judge
+graded: '2026-11-16T19:18:40.931219+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 443
+  tags: []
+  notes: extracted 443 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 5
+    honest: 6
+    works_the_facts: 3
+    right_comparison: 5
+    qualification: 3
+    objections: 5
+    fit: 8
+  details:
+    agree: The email is clear and respectful, but a long-tenured teller who doesn't
+      want phone work gets no concrete picture of the job, so many resisters would
+      start looking elsewhere.
+    honest: It rightly drops the 'better for everyone' claim, but 'your jobs and hours
+      aren't changing' for the other branches and 'fewer frustrated calls' reaching
+      them are not in the brief.
+    works_the_facts: It repeats the brief's figures but works out nothing from them,
+      such as what severance means for a ten-year employee (20 weeks) or the 12-hour
+      day against the old 8-hour one.
+    right_comparison: It sets the 44% drop in visits against the 60% rise in contacts
+      and the 9-minute hold, but it never says what keeping the branches open would
+      lead to.
+    qualification: '''Members should wait less'' gives no target wait time and no
+      date, and the decision deadlines are left as placeholders.'
+    objections: It acknowledges the loss of the branch and the harder hours, but it
+      doesn't take on the main objection, dislike of phone work, beyond one line saying
+      their knowledge is valued.
+    fit: It is an email from the COO with a subject line at about 420 words, which
+      matches what the brief asked for.

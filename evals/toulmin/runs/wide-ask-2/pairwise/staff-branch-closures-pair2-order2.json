@@ -1,0 +1,13 @@
+{
+  "judge": "opus",
+  "task": "staff-branch-closures",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-47-19Z",
+  "without_skill_run": "2026-11-16T19-18-40Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "As branch staff who don't want phone work, I'd trust B more. It speaks to the 14 of us directly, admits rotating shifts are hard on people with childcare or fixed commitments, and says plainly that the change doesn't make every job easier. A gives more about the process (a decision deadline, private talks with HR, a staff meeting), but it talks about us in the third person and leaves blanks like [location] and [date], so it reads as unfinished."
+}

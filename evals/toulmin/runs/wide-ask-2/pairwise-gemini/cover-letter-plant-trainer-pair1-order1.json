@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-43-59Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Document A wins me over because the applicant explicitly commits to learning our documentation requirements thoroughly before proposing changes and working with our quality team so nothing required by regulations is cut. That shows a realistic respect for how a regulated plant operates, whereas Document B relies on more generic claims about transferable habits and making training faster."
+}

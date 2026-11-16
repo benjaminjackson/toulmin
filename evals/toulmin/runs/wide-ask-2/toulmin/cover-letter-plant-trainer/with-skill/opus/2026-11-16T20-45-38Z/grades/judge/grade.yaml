@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T20:46:29.561485+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 345
+  tags: []
+  notes: extracted 345 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 4
+    honest: 8
+    works_the_facts: 3
+    right_comparison: 3
+    qualification: 2
+    objections: 3
+    fit: 6
+  details:
+    agree: The letter is clear and candid, but a skeptical HR manager would read a
+      teacher who admits having no GMP or records experience and offers no proof of
+      documentation discipline, so it probably doesn't get a phone screen.
+    honest: It drops the unsupported 'cut training in half' claim and states the gaps
+      plainly, though 'most of them are teenagers using acids, open flames and glassware
+      for the first time' adds a little colour the facts don't give.
+    works_the_facts: 'It leaves out the strongest numbers available: the cut from
+      20 to 12 hours of new-teacher training (40% shorter), the signed training records,
+      and the two clean state audits. It also doesn''t turn the pass-rate rise into
+      its stronger form, a 17-point gain.'
+    right_comparison: The before-and-after for training (20 hours down to 12) is the
+      honest substitute for the 'half' claim and is never mentioned, so the reader
+      gets nothing to set against the 12 hours.
+    qualification: 'The only hedge, ''shorten training where possible'', is vague,
+      and the letter leaves out the checkable conditions: the GMP course ending May
+      2, the earliest start date of June 14, and interview availability.'
+    objections: It raises the records and regulation objection itself, then answers
+      it with a vague habit instead of the facts that would settle it (signed records
+      for every trainee and quiz, two state audits with no findings, GMP course enrolment).
+    fit: It is a one-page cover letter as asked, but it keeps placeholders for her
+      name, the company and the manager even though Laura Benitez, Calder Pharmaceuticals
+      in Westfield and Karen Doyle were known.

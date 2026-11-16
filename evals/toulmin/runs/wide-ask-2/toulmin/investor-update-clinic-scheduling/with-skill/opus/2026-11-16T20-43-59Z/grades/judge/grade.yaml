@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T20:44:55.310836+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 388
+  tags: []
+  notes: extracted 388 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 4
+    honest: 6
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 3
+    objections: 3
+    fit: 8
+  details:
+    agree: An investor who is already cold gets a clear, candid picture, but the apology
+      has nothing behind it (no explanation, no promised schedule for updates, no
+      January 7 date) and there is no specific ask, so it is unlikely to win back
+      their trust or their willingness to keep taking calls.
+    honest: Most claims are accurate, and the before-and-after caveat on reminders
+      is a good touch, but "a quarter of new sales went to replacing lost revenue"
+      has no basis in the facts given and contradicts flat MRR, which means all net
+      new revenue went to replacing what was lost.
+    works_the_facts: It correctly works out the 11-month runway, the net gain of 5
+      clinics, the near-halving of no-shows and $1,500 per 10 reminder clinics, but
+      it never shows how many reminder sales it would take to change the runway or
+      reduce the $44K burn.
+    right_comparison: It states the do-nothing path (11 months of cash, flat MRR,
+      more customers could leave the same way), but it doesn't put a number on the
+      churn risk or say what flat revenue means for the runway trend.
+    qualification: '"The coming quarter will show whether clinics will pay" names
+      no target number, no date to check it against, and no consequence if the target
+      is missed.'
+    objections: 'This investor''s real objection is the silence and whether it will
+      happen again, and the draft never answers it: no reason is given for the missed
+      updates and no regular schedule is promised, and "thanks for your patience"
+      reads badly to someone who complained about the silence.'
+    fit: It is a well-structured investor email of about 430 words with a clear subject
+      line, which fits the 500-word limit and the 11-investor audience.

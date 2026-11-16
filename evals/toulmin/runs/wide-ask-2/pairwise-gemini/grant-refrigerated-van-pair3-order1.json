@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "grant-refrigerated-van",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-46-18Z",
+  "without_skill_run": "2026-11-16T19-20-01Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document A is a finished application I can actually recommend, whereas Document B was submitted with unfilled bracketed placeholders—which, after I already had to chase this applicant for four months on their 2023 report, signals the exact administrative carelessness I am worried about. Both narratives smartly corrected the math on the fresh food increase, though I will still need to ask the director during site review what changed internally to ensure on-time reporting and how they will cover ongoing van operating costs with only $11,000 left in reserves."
+}

@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "investor-update-clinic-scheduling",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-44-55Z",
+  "without_skill_run": "2026-11-16T19-18-51Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B is a complete, ready-to-send email that does the math on what it will take for the new $150/month feature to cover their burn rate, showing the founder is thinking realistically about scale. Document A leaves unfinished bracketed placeholders, notably dodging the most critical question about their 11-month runway, and asks for introductions to independent clinics rather than the clinic chains the founder actually wants."
+}

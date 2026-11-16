@@ -1,0 +1,25 @@
+{
+  "task": "investor-update-clinic-scheduling",
+  "arm": "with-skill",
+  "run": "2026-11-16T20-44-55Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "(to around October 2027)",
+      "why": "The brief does not state the current year, and even with the November timeframe implied in the additional notes, 11 months of runway would end around October of the following year rather than 2027."
+    },
+    {
+      "quote": "Without the loss, MRR would have been about $46,500, up 13% for the quarter.",
+      "why": "The brief says the company lost 4 customers and only gives the $5,500 MRR for one of them, making it impossible to calculate what total MRR would have been without the losses or how much the rest of the business grew."
+    },
+    {
+      "quote": "We have to be better at something the records vendors don't offer.",
+      "why": "This implies that electronic records vendors do not offer automatic text reminders, which is not stated in the brief."
+    },
+    {
+      "quote": "Ben",
+      "why": "The brief does not name the founder as Ben, and the additional facts state the founder's name is Sam Patel."
+    }
+  ],
+  "invented_count": 4
+}

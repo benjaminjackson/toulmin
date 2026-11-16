@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "cover-letter-plant-trainer",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-45-38Z",
+  "without_skill_run": "2026-11-16T19-19-29Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both letters are very similar and sensibly avoid the naive promise to cut training time in half, though neither includes the specific details about the applicant's signed training records, state audits, or GMP coursework. Document B is slightly more convincing because the applicant says they would learn documentation requirements from the quality team first and treats written procedures as mandatory, whereas Document A says safety depends 'less on the written rules,' which is the wrong mindset for a GMP plant."
+}

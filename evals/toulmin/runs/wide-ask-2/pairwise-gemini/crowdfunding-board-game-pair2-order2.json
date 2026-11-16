@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "crowdfunding-board-game",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-45-07Z",
+  "without_skill_run": "2026-11-16T19-18-43Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Document B wins my trust as a cautious backer by actually doing the math on the funding goal (which otherwise looks like a shortfall on 1,500 copies) and being disarmingly honest that 23 ratings is a small sample size. Document A not only leaves the funding math unexplained, but also claims the game was tested at 'hundreds of tables' and brings up stretch goals, which makes me nervous for a first-time creator."
+}

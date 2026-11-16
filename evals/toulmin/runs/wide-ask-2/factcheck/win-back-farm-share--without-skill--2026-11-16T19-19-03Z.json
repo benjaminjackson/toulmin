@@ -1,0 +1,13 @@
+{
+  "task": "win-back-farm-share",
+  "arm": "without-skill",
+  "run": "2026-11-16T19-19-03Z",
+  "checker": "gemini-4-argon",
+  "invented": [
+    {
+      "quote": "We planted a second field on higher ground, so one storm can't take everything.",
+      "why": "The brief only says they \"added a second field on higher ground,\" not that it has already been planted (especially since sign-up closes March 15) or that one storm can't hit both fields."
+    }
+  ],
+  "invented_count": 1
+}

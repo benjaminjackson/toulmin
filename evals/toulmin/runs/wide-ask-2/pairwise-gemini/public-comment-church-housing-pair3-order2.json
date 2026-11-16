@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "public-comment-church-housing",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T20-45-46Z",
+  "without_skill_run": "2026-11-16T19-19-20Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both speeches are nearly identical in structure and rely only on the initial brief rather than uncovering the crucial traffic signal solution. Document A is slightly more persuasive to the room because the speaker upfront discloses her membership in the church—building trust with skeptical neighbors who might otherwise feel misled—and specifically links the 72 parking spaces to keeping cars off our street."
+}

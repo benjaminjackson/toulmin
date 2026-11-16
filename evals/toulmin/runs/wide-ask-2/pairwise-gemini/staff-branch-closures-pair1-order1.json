@@ -1,0 +1,13 @@
+{
+  "judge": "gemini-4-argon",
+  "task": "staff-branch-closures",
+  "pair": 1,
+  "order": 1,
+  "with_skill_run": "2026-11-16T20-46-36Z",
+  "without_skill_run": "2026-11-16T19-17-59Z",
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Document B acknowledges that we will miss our branches and our members instead of pretending this is a better job for us, which feels much more honest since we don't want to work on the phones. It also clearly lays out the next steps for one-on-one meetings and decision timelines, whereas Document A leaves us guessing about how this will actually happen."
+}

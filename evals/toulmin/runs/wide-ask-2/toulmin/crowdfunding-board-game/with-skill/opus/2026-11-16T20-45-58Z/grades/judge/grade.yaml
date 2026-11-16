@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T20:46:54.266168+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 455
+  tags: []
+  notes: extracted 455 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 4
+    honest: 5
+    works_the_facts: 6
+    right_comparison: 3
+    qualification: 2
+    objections: 3
+    fit: 7
+  details:
+    agree: The pitch is warm and the cost breakdown is reassuring, but a backer who
+      lost money once gets no delivery date, no refund promise and no update schedule,
+      so they have nothing to stop them from waiting.
+    honest: It rightly drops 'proven hit' and admits that 23 ratings is a small sample,
+      but it invents 'many were strangers', hides that most raters played at the creator's
+      own table, and says 'nothing padded in' even though about $2,650 above the 10%
+      fees goes unexplained.
+    works_the_facts: It works out 572 backers and the $22,550 cost at goal correctly,
+      but it never puts the leftover into dollars, never compares 1,240 sign-ups to
+      the 572 backers needed, and never shows the share of the 1,500-copy run that
+      is already covered.
+    right_comparison: Nothing describes what happens if the campaign fails, or how
+      this compares with pledging to an established publisher, so the reader has nothing
+      to weigh the risk against.
+    qualification: This pitch needs checkable commitments, and the November delivery
+      date, the full refund if delivery is more than three months late, and the update
+      every two weeks are all missing.
+    objections: The worry about a first-time creator gets only the surveyor analogy,
+      and the facts that would actually answer it (finished art and rules, a signed
+      factory quote, the reviewer's launch-week video, the refund policy) are left
+      out.
+    fit: It is roughly 500 words in pitch form with sensible sections, but it never
+      gives the game's title, Lantern Winter, or the creator's name.
