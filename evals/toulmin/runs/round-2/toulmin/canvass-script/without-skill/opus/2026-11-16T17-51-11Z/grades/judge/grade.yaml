@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T17:51:54.061787+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 297
+  tags: []
+  notes: extracted 297 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 6
+    right_comparison: 8
+    qualification: 7
+    objections: 7
+    fit: 8
+  details:
+    agree: A resistant Ridgeview retiree gets a plain, honest cost of about $10 a
+      month and a concrete local stake, the branch closing in July, which may move
+      some of them, but nothing tells them how small the levy is relative to what
+      it saves them.
+    honest: The script drops the requested coffee line, which was false for a $640,000
+      Ridgeview home, and both monthly figures ($10.13 and $6.49) are correctly derived,
+      with no invented facts.
+    works_the_facts: The monthly costs for both medians are correct, but the script
+      never puts them in more favourable true forms such as about 33 cents a day or
+      $122 a year, and it leaves out the $2.3 million total that would show exactly
+      what the money buys.
+    right_comparison: It states the alternative as the facts give it, with Ridgeview
+      closing in July and no Sunday hours, and adds the 22% rise in visits as the
+      trend that a closure would cut against.
+    qualification: 'The few conditions it gives can be checked: a fixed rate that
+      ends after six years and a July closure date with a clear consequence, and there
+      is no vague hedging.'
+    objections: The 'blank check' and fixed-income objections, the two this reader
+      actually holds, are met directly and honestly, though the blank-check reply
+      could have cited the $2.3 million a year tied to named uses.
+    fit: The main pitch is a tight 60 to 90 seconds and the layout suits a card, though
+      the rebuttal section makes one side of a card crowded.

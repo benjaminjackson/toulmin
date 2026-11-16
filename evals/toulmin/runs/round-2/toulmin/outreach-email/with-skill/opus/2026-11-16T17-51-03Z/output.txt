@@ -1,0 +1,33 @@
+I wrote the email around your largest customer's result rather than a flat "we cut picking errors in half."
+
+**What the facts support:** "Cut picking errors in half" says that's what your product does in general. What you have is one customer at 54% (4.1 → 1.9), one at 21% (2.8 → 2.2), and one that hasn't shared numbers. Dana runs a five-warehouse operation. If she asks "across your customers?" the honest answer is "no," and the email loses her trust.
+
+**What I used instead:** "Our largest customer cut mis-picks by more than half." It's true and just as striking. I also put in your 21% customer, because it actually helps you. Your price for all 5 of her sites is $75,000 a year. If her $600K in returns falls in line with mis-picks, a 21% drop saves her about $126K. So even your weaker result pays for itself, and a result like your largest customer's would be worth about $300K. That makes the claim one she can check, not one she has to take on trust.
+
+**Her IT director:** He's likely the person who blocks this, so the email answers his objection before she has to raise it. It doesn't mention him, since "from what I hear" would read as odd in a cold email.
+
+Check these before sending:
+- **The WMS line.** I wrote "sits on top of it rather than replacing it," which is all you told me. If you can honestly say it needs no changes to her system, say so. That's the sentence her IT director will care about. If it needs read access or an integration, don't say "no changes." He'll find out.
+- **The math line.** It assumes her return costs fall in step with mis-picks. That's reasonable, but it's an assumption, so I worded it as "on your figure."
+- **Fill in** the magazine name and your sign-off.
+
+<final_document>
+Subject: Your $600K in wrong-item returns
+
+Hi Dana,
+
+In your [Publication] interview last spring, you put the cost of wrong-item returns at "north of $600,000 a year." We build software to bring that number down.
+
+Pickers scan each item with a phone camera. If it's the wrong item, we flag it before the box is closed.
+
+Our largest customer is a pet-supply distributor with three warehouses. In five months they cut mis-picks by more than half, from 4.1 per 1,000 order lines to 1.9.
+
+Covering all five of your warehouses would cost $75,000 a year. On your figure, a result like theirs would be worth about $300,000 a year. Even a 21% drop, which is what another customer saw, would cover the cost.
+
+It sits on top of your warehouse management system rather than replacing it. Setup takes about three weeks.
+
+Would you have 20 minutes to talk about trying it at one of your sites?
+
+[Your name]
+Co-founder, [Company]
+</final_document>

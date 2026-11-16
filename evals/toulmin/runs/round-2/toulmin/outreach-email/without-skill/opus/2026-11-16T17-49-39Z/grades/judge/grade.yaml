@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T17:50:07.628927+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 124
+  tags: []
+  notes: extracted 124 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 3
+    right_comparison: 4
+    qualification: 4
+    objections: 6
+    fit: 9
+  details:
+    agree: Dana gets a specific, short, relevant pitch tied to her own $600K figure,
+      but it never turns that figure into savings against cost, so it gives her little
+      reason to push past her IT director.
+    honest: It credits the halving to one named customer, and 4.1 to 1.9 really is
+      more than half, so it avoids the brief's broader 'we cut errors in half' claim;
+      it does leave out the weaker 2.8 to 2.2 result.
+    works_the_facts: "It doesn't work out the obvious numbers: halving $600K saves\
+      \ about $300K a year, and five sites cost about $75K a year (5 \xD7 $1,250 \xD7\
+      \ 12), a roughly 4:1 return the reader never sees."
+    right_comparison: The alternative of doing nothing, about $600K a year in returns
+      that keeps coming, is only hinted at by the subject line and is never set against
+      the price.
+    qualification: '''Whether those numbers could hold up in your warehouses'' is
+      a fair hedge, but it names no pilot, no date, no target rate and nothing that
+      happens if the target is missed.'
+    objections: '''Sits on top of it, doesn''t replace'' meets the IT director''s
+      main objection, but the email doesn''t say how little his team has to touch
+      or integrate, which is what he will ask.'
+    fit: It's short and readable on a phone, with a clear subject line and one call
+      to action, as the brief asked.

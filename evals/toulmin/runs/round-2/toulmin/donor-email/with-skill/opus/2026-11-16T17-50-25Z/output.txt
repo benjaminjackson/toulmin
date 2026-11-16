@@ -1,0 +1,45 @@
+I didn't use the line saying a gift this month guarantees every child on the waiting list a place in January. Your figures don't support it. Here's the math and what I wrote instead.
+
+**The math**
+- **What you need:** 61 children × $1,150 = **$70,150**.
+- **The most the match can bring:** the foundation matches up to $15,000, so the most this campaign can raise *with* the match is **$30,000**. That pays for about **26 children**.
+- **If every lapsed donor came back:** if all 340 gave their old average of $85, that's $28,900. With the match capped at $15,000, the total is $43,900. That's still about $26,000 short.
+- **What last December looked like:** this group gave $1,240. If they give that much again and it's doubled, you get about $2,500, enough for two children.
+
+A promise to place every child in January would almost certainly be broken. The people on this list would find out, starting with your former board member, who forwards your emails with comments. These donors already left once over a decision they felt let them down. A second broken promise would likely lose them for good.
+
+**What I wrote instead.** The claim in the draft is that each gift counts twice, $575 pays for a full year for one child, and meeting the full match covers 26 children. Everything in it is true, and anyone can check it. I went with this version because it still reads as urgent, and you can keep standing behind it after January.
+
+**On Eastside:** the email mentions the closure briefly before the ask, because these readers will be thinking about it. I didn't give a reason for it or say anything has changed, because I don't know either. If you can add one true sentence about what's different now, the email will be stronger. Otherwise, the plain acknowledgment is better than skipping it.
+
+Fill in the brackets before sending. The draft is about 190 words.
+
+<final_document>
+**Subject:** 61 kids are waiting. This month, your gift counts twice.
+
+Dear [First Name],
+
+You may have stopped giving after we closed the Eastside branch in 2022. I understand why. It was a real loss for the families there, and I'd rather say so plainly than act as if it didn't happen.
+
+I'm writing anyway, because 61 children are on our waiting list for subsidized lessons right now. A year of weekly lessons costs us $1,150 per child.
+
+This month, your gift can do twice as much. A family foundation will match every gift from a returning donor dollar for dollar, up to $15,000, through December 31.
+
+That means:
+- $85 becomes $170.
+- $575 becomes $1,150, a full year of lessons for one child.
+- If we meet the full match, that's $30,000, enough for 26 children to start lessons in January.
+
+Every child we can't fund keeps waiting.
+
+[Give now →]
+
+If you were with us before, I'd be glad to have you back.
+
+Warmly,
+
+[Executive Director Name]
+Executive Director, [School Name]
+
+P.S. The match ends December 31. Any gift you make before then is doubled.
+</final_document>

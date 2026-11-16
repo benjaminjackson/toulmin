@@ -1,0 +1,53 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+Dana Whitfield, VP of operations at a kitchenware distributor with 5 warehouses. She gets many vendor emails. She knows her IT director finished a two-year rollout of the current warehouse system last year and resists anything that touches it. She decides whether to reply or take a call.
+</reader>
+
+<brief>
+Draft a cold email for me. I'm a co-founder of a 14-person company that makes pick-verification software for warehouses. Workers scan each item with a phone camera and it flags a wrong item before the box closes.
+
+Facts:
+- Our biggest customer, a regional pet-supply distributor with 3 warehouses, went from 4.1 mis-picks per 1,000 order lines to 1.9 over their first five months.
+- We have 6 paying customers. Two others track error rates. One went from 2.8 to 2.2. The other hasn't shared numbers.
+- Setup takes about 3 weeks. It doesn't replace the warehouse management system, it sits on top of it.
+- Price is $1,250 per site per month.
+- The email goes to Dana Whitfield, VP of operations at a kitchenware distributor with 5 warehouses. In a trade magazine interview last spring she said returns from wrong-item shipments cost them "north of $600,000 a year."
+- Her IT director led a two-year rollout of their current warehouse system that finished last year, and from what I hear he shuts down anything that touches it.
+
+I want to tell her we cut picking errors in half. Keep it short. She should be able to read it on her phone.
+</brief>
+
+<document>
+Subject: Your $600K in wrong-item returns
+
+Hi Dana,
+
+Last spring you told [Magazine] that wrong-item returns cost you "north of $600,000 a year." That's the problem we solve.
+
+With our software, pickers scan each item with a phone camera, and it flags a wrong item before the box is closed. At our largest customer, a pet-supply distributor with three warehouses, mis-picks fell from 4.1 to 1.9 per 1,000 order lines in their first five months.
+
+At your scale: it's $1,250 per site per month, or $75,000 a year for all five warehouses. Against $600,000 in returns, it pays for itself if it stops about 1 wrong shipment in 8.
+
+It doesn't replace your warehouse management system. It sits on top of it, and setup takes about three weeks.
+
+Do you have 20 minutes in the next two weeks? I'll walk you through the pet distributor's results and what setup would look like at one of your sites.
+
+Best,
+[Your name]
+Co-founder, [Company]
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

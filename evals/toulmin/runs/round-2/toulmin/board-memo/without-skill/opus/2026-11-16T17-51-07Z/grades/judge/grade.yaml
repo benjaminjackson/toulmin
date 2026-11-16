@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T17:51:59.722463+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 450
+  tags: []
+  notes: extracted 450 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 9
+    right_comparison: 8
+    qualification: 9
+    objections: 6
+    fit: 8
+  details:
+    agree: The sales-minded members get checkable milestones, a June fallback and
+      a respectful role for the colleague they know, but the unfilled gap source and
+      the missing case for why not run ads alongside membership could still hold them
+      back.
+    honest: It frames full replacement as a goal rather than a promise and reports
+      the peer newsroom accurately, though the claims that ads slow the site and erode
+      trust, and the mention of promoting at events, are not in the brief.
+    works_the_facts: "The numbers check out ($20,400 run rate, 1.5% conversion, 875\
+      \ members, 6.25%, about 4x the pilot, 36% drop, milestone run rates), and it\
+      \ compares the needed pace with the pace already reached, though the $15\u2013\
+      30k gap range is loosely derived."
+    right_comparison: It describes the alternative as a declining revenue source,
+      gives the two-year trend and projects it forward conservatively, instead of
+      treating $84,000 as a stable figure.
+    qualification: The hedge names a specific number (500 members), a date (June 30)
+      and a consequence (options including bringing ads back), backed by quarterly
+      reporting the board can check.
+    objections: It addresses the jump in conversion rate, the colleague's role and
+      the transition shortfall, but it doesn't answer why the newsroom can't keep
+      ads and add membership, or what happens if members cancel, which are the likely
+      objections from the ad-background members.
+    fit: It is a tight, scannable memo that should fit on about one page, though placeholders
+      such as the bridge-funding source are left unfilled.

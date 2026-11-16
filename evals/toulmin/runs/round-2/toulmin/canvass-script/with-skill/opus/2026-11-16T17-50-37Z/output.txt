@@ -1,0 +1,58 @@
+Before the script, one correction. **The coffee line isn't accurate, and in Ridgeview it's off by a lot.**
+
+- City median home ($410,000): 410 × $0.19 = **$77.90 a year, about $6.50 a month.** That's more like two coffees a month than less than one.
+- Ridgeview median ($640,000): **$121.60 a year, about $10 a month.**
+- "Average household" also doesn't fit. The figure is for the median *home*, and 38% of households rent.
+
+Ridgeview is full of retired homeowners who know their assessed value and will do the math on the porch. The opposition is already calling this a "blank check." If a volunteer's cost figure falls apart at the first door, it backs up that story.
+
+**What I recommend instead:** "less than a cup of coffee a *week*." That holds up citywide ($1.50 a week) and in Ridgeview ($2.34 a week). I've also given volunteers a rule anyone can check: **$19 a year for every $100,000 of assessed value.** It's open about the cost, so it works against the "blank check" charge instead of feeding it. I wrote the card this way. If you want to keep a monthly framing, "about $6.50 a month for a typical home" is the accurate version.
+
+**How the card is built**
+- **Ridgeview gets the branch closure first.** "Your branch closes in July" matters more to these voters than anything citywide.
+- **The "blank check" answer uses your own facts:** a fixed rate, a 6-year end date, a known amount, and named uses. I haven't added any oversight or audit promises because you didn't give me any. If the measure includes them, add them, because they're the strongest answer to that objection.
+- **Fixed incomes:** if your state has a senior property-tax exemption or deferral that covers levies, that's the best answer for Ridgeview. I left it out because I can't confirm it. Please check.
+- **Things kept off the card:** the 48–52 result (it's useful for training volunteers, not for the doorstep) and the neighborhood association president. Volunteers should answer the argument without naming or attacking a neighbor.
+- **Renters are a second audience** (38% citywide). The card has a short line for them, but they may need their own version for other precincts.
+- **Timing:** the main script runs about 70–80 seconds read aloud. The objection answers are only for when a voter raises them.
+
+<final_document>
+**YES ON MEASURE 4: Library Levy | Door Script (Ridgeview)**
+
+**OPEN**
+"Hi, I'm [name], a neighbor volunteering for Yes on Measure 4, the library levy on the March ballot. Do you have a minute?"
+
+**THE CASE**
+"Without Measure 4, the Ridgeview library branch closes this July. Measure 4 keeps it open and brings back Sunday hours at all five branches in the city.
+
+People are using the libraries more than ever. Visits are up 22% since 2021.
+
+Here's exactly what it costs: 19 cents per $1,000 of assessed value. That's **$19 a year for every $100,000** your home is assessed at. For a typical Ridgeview home that's about $10 a month, which is less than a cup of coffee a week. It's a fixed rate, and it ends after 6 years."
+
+**ASK**
+"Can we count on your Yes vote on Measure 4 in March?"
+→ YES: "Thank you! Can I put you down for a reminder before Election Day?"
+→ UNSURE: "What would help you decide?" (go to answers below)
+→ NO: "Thanks for your time. Have a good day." (Mark and move on. Don't argue.)
+
+---
+
+**IF THEY SAY...**
+
+**"It's a blank check."**
+"It's actually very specific. It's a fixed rate, and it ends in 6 years. It raises $2.3 million a year, and that money keeps the Ridgeview branch open and restores Sunday hours at all five branches."
+
+**"I'm on a fixed income."**
+"That's fair, and it's why we're upfront about the cost. Take your assessed value, and it's $19 a year per $100,000. What you get for that is keeping your neighborhood branch open."
+
+**"What does it cost me?"**
+Have them name their assessed value, then multiply by 0.00019. ($500,000 = $95 a year. $640,000 = $122 a year.)
+
+**"I rent."**
+"The levy is on property. For a typical home in the city it's about $6.50 a month, and it keeps all five branches open on Sundays."
+
+**"The last one failed."**
+"It did. This time the Ridgeview branch is on the line. Without Measure 4, it closes in July."
+
+**Stick to these numbers. If you don't know an answer, say so and offer to have someone follow up.**
+</final_document>

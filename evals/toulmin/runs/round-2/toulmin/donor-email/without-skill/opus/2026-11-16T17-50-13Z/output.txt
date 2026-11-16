@@ -1,0 +1,45 @@
+I left out the line saying their gift guarantees every child on the waiting list a place in January. Your own numbers show that can't happen:
+
+- **What it would cost:** 61 children × $1,150 = **$70,150**.
+- **The most this campaign could raise:** if all 340 lapsed donors gave their average $85, that's $28,900. Add the full $15,000 match and you get $43,900, still $26,000 short.
+- **What's likely:** last December this group gave $1,240.
+
+A promise like that could do real damage with people who already feel let down, especially with a former board member forwarding your emails to her friends with comments. She'd only need a calculator. So the draft keeps to what is true: what one gift buys with the match, and what happens if you hit the full match ($30,000 is about 26 children).
+
+**Other notes:**
+- **The Eastside line:** I put in one short acknowledgment because ignoring the closure could read as tone-deaf to the people who left over it. Your executive director should decide whether to keep "and I understand why." It's honest and doesn't argue, but it's their voice. If you'd rather not bring it up at all, cut that sentence and the next two. The email works without them.
+- **Match terms:** check with the foundation that "returning donors" includes everyone on this list. Also ask whether you can name them, since a named match usually feels more real to readers.
+- **Waiting-list number:** if the 61 changes before you send, update it in both the subject line and the first paragraph.
+- **Alternate subject line:** "Your gift counts twice this December"
+
+The draft is about 215 words.
+
+<final_document>
+**Subject:** 61 kids are waiting for a teacher
+
+Dear [First Name],
+
+Right now, 61 children are on our waiting list for subsidized music lessons. They're ready to learn. What they're waiting for is funding.
+
+It's been a while since we've heard from you. I know some of you stepped away after we closed our Eastside branch in 2022, and I understand why. I'm not asking you to forget that. I'm asking you to think about these kids.
+
+This December, a family foundation will match every gift from returning donors dollar for dollar, up to $15,000, through December 31.
+
+A year of weekly lessons costs us $1,150 per child. With the match:
+
+- **$85 becomes $170**, about two months of lessons
+- **$575 becomes $1,150**, a full year for one child
+
+If we meet the full match, that's $30,000. That's enough to take 26 children off the waiting list and get them into lessons in January.
+
+**[Give now and your gift will be doubled →]**
+
+Every gift brings a child closer to a first lesson. Thank you for thinking about it, and for what you gave us before.
+
+With gratitude,
+
+[Executive Director Name]
+Executive Director, [School Name]
+
+P.S. The match ends December 31. Any gift you make before then is doubled.
+</final_document>

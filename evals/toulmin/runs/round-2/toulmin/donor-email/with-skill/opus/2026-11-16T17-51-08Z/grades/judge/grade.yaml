@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T17:51:50.010599+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 213
+  tags: []
+  notes: extracted 213 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 8
+    objections: 5
+    fit: 7
+  details:
+    agree: Opening with the Eastside closure and offering a concrete, matched, verifiable
+      outcome could bring this reader back, but the placeholder where the actual answer
+      about Eastside should go leaves the grievance acknowledged and still unresolved.
+    honest: It drops the brief's unsupported promise to guarantee every waiting-list
+      child a place, and every figure ($170, $575, $30,000, 26 children) comes correctly
+      from the given numbers.
+    works_the_facts: It works out good figures ($575 doubled is one child's year,
+      and the full match funds 26 children), but it leaves out that 61 children need
+      about $70,000 and never sets the $15,000 goal against last December's $1,240
+      from 9 gifts.
+    right_comparison: It says plainly what happens if the school falls short (children
+      stay on the list and the match goes unused), but it hides the 35 children the
+      match can't reach and the weak recent giving from this group.
+    qualification: The match has a clear cap ($15,000), a deadline (December 31) and
+      a consequence if it is missed, and the promised January count of children who
+      started gives the reader a way to check.
+    objections: It names the Eastside anger head-on and says the donors were right,
+      but the sentence about what happened to Eastside families, or what has changed,
+      is still a blank, so this reader's real objection gets no answer.
+    fit: It is an email under 250 words signed by the executive director as asked,
+      but the unfilled placeholder in its most important paragraph means it can't
+      be sent as written.

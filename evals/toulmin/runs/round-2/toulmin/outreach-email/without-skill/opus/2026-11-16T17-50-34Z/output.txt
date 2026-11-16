@@ -1,0 +1,32 @@
+I made one change you didn't ask for. The email doesn't say "we cut picking errors in half." Instead it gives your biggest customer's actual numbers. Only one of your six customers has halved its errors. The other one that tracks error rates went from 2.8 to 2.2, which is about a 21% drop. A VP of ops who gets interested will ask for references. If the email promised "half" and the second reference says 21%, you lose her trust right when the deal is starting. 4.1 to 1.9 is a 54% drop, so the specific numbers still show the result without overstating it.
+
+Other choices:
+
+- **Her $600K quote comes first.** It shows you did your homework, and it's the cost she already cares about.
+- **The IT concern is handled without naming him.** The line "doesn't replace your warehouse system, sits on top of it" answers that worry. I didn't mention her IT director because you only know about him secondhand, and bringing him up in a cold email would come across badly. Before you send, confirm exactly what your product needs from their warehouse system (read-only access? an API? file exports?). That's his first question, and she'll pass it straight to him.
+- **The price is included.** $75K a year for all five sites looks small next to $600K in losses. I didn't project her savings, because one customer's result doesn't support that promise. She can work it out herself.
+- **Fill in the placeholders:** the magazine name, plus your name and company.
+
+<final_document>
+Subject: Your $600K in wrong-item returns
+
+Hi Dana,
+
+Last spring you told [Magazine] that returns from wrong-item shipments cost you "north of $600,000 a year." That's why I'm writing.
+
+We make pick-verification software. Pickers scan each item with a phone camera, and it flags a wrong item before the box is closed.
+
+Our largest customer is a pet-supply distributor with three warehouses. In their first five months, they went from 4.1 mis-picks per 1,000 order lines to 1.9.
+
+Two things you'd probably want to know:
+
+- It doesn't replace your warehouse system. It sits on top of the one you have.
+- Setup takes about three weeks.
+
+It's $1,250 per site per month, so $75,000 a year for all five of your warehouses.
+
+Would a 20-minute call be worth it to see if this would work on your floors?
+
+[Your name]
+Co-founder, [Company]
+</final_document>

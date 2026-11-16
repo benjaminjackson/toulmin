@@ -1,0 +1,31 @@
+I wrote the draft below. I made one change to what you asked for: the email doesn't say "we cut picking errors in half" as a general result.
+
+**Why I changed the headline claim:** Only one of your two customers with numbers got to half: 4.1 to 1.9 is a 54% drop. The other went from 2.8 to 2.2, which is 21%. If Dana asks "is that typical?" in a call, a blanket "we cut errors in half" would stop holding up, and you'd lose credibility at the moment it matters most. "Cut mis-picks by more than half at our largest customer" is just as strong and fully true. If you'd still prefer the flat claim, that's your decision, but I recommend this version.
+
+**The 21% result is actually useful to you.** Five sites cost $1,250 × 5 × 12 = **$75,000 a year**. Against her own figure of $600K+, that pays for itself at about a **12.5% reduction**. Both customers who measured cleared that, including the weaker one. So even your weaker number helps your case. This assumes her return costs go down in step with mis-picks, which is a fair assumption, and the email states it as rough math.
+
+**About the IT director:** The email deals with him without letting on that you've heard about him. It says you don't replace the WMS, which is true. I didn't write "no IT work" or "doesn't touch your WMS," because I don't know what your integration needs. He's a second person you have to win over. If Dana passes this to him, the first thing he'll ask is exactly what data you read and what his team has to do. It's worth having a one-paragraph answer ready before you send.
+
+I left out the "6 paying customers" figure. For a buyer with 5 warehouses, it makes you look small without adding any evidence.
+
+<final_document>
+Subject: Your $600K wrong-item number
+
+Hi Dana,
+
+In your interview last spring you put the cost of wrong-item returns at "north of $600,000 a year." I think we can take a real bite out of that.
+
+We make pick-verification software. Pickers scan each item with a phone camera, and it flags a wrong item before the box is sealed.
+
+Our largest customer, a pet-supply distributor with three warehouses, went from 4.1 mis-picks per 1,000 order lines to 1.9 in their first five months. That's down more than half.
+
+Rough math for you: all five of your sites would cost $75,000 a year. If return costs track mis-picks, it pays for itself at a 12.5% reduction. Our other customer that tracks errors saw a 21% drop.
+
+It doesn't replace your warehouse management system. It sits on top of it, and setup takes about three weeks.
+
+Do you have 20 minutes to see whether those numbers would hold up in your buildings?
+
+[Your name]
+Co-founder, [Company]
+[Phone]
+</final_document>

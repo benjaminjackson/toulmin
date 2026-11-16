@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T17:50:52.504309+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 210
+  tags: []
+  notes: extracted 210 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 5
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 6
+    objections: 3
+    fit: 8
+  details:
+    agree: The match and the per-child numbers are concrete, but a reader who left
+      over Eastside gets one sentence of acknowledgment and is then told to 'think
+      about these kids', which may feel like being guilted rather than won back.
+    honest: The draft drops the brief's false 'guarantees every child' claim and gives
+      the true 26-child figure, though the P.S. says 'any gift' is doubled without
+      repeating the $15,000 cap.
+    works_the_facts: "The $170 \u2248 two months, $575 \u2192 one year and $30,000\
+      \ \u2192 26 children figures are all correctly derived, but the draft never\
+      \ sets the full $30,000 against what this group has actually given (9 gifts\
+      \ and $1,240 last year, $28,900 even if all 340 gave $85), so the 26-child outcome\
+      \ looks more likely than it is."
+    right_comparison: It never says what happens if the match isn't met, or that even
+      a full match leaves 35 of the 61 children still waiting, so the reader can't
+      see the real alternative.
+    qualification: The conditional 'if we meet the full match' comes with a date (December
+      31), a number ($15,000/$30,000) and a consequence (26 children), but it doesn't
+      say what a partial result would mean.
+    objections: The Eastside grievance is named and then set aside with no explanation
+      of why the branch closed and no sign that anything has changed, and the 'some
+      of you' wording in a personal email reads as a mass message to the very reader
+      most likely to forward it with comments.
+    fit: It is a year-end email of roughly 200 words with a subject line, a call-to-action
+      button and a P.S., signed by the executive director as the brief asked.

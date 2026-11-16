@@ -1,0 +1,11 @@
+{
+  "task": "donor-email",
+  "pair": 3,
+  "order": 1,
+  "with_skill_run": "2026-11-16T17-51-08Z",
+  "without_skill_run": "2026-11-16T17-50-52Z",
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "reason": "As a lapsed donor still unhappy about Eastside, I'm moved more by A: it says outright I was right to object, is honest that the full match funds 26 of the 61 children rather than all of them, and promises a January report on results. B's 'we heard you' feels like a polite brush-off by comparison, though A's Eastside placeholder must be filled in before sending."
+}

@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T17:50:25.130166+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 230
+  tags: []
+  notes: extracted 230 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 6
+    qualification: 7
+    objections: 6
+    fit: 8
+  details:
+    agree: Opening with a frank acknowledgment of the Eastside closure and then giving
+      a concrete, doubled impact gives a lapsed, resentful donor a respectful reason
+      to come back, though nothing in it repairs the specific grievance.
+    honest: The writer rightly refuses the brief's 'guarantees every child' claim
+      and every figure checks out ($575 matched is $1,150, and $30,000 covers 26 children),
+      though 'twice as far as at any other time' slightly overreaches.
+    works_the_facts: The per-gift and full-match conversions are well derived, but
+      the email never states the $70,150 needed for all 61 children, and the 26-children
+      scenario assumes the full $15,000 when last year's pace ($1,240 from 9 gifts)
+      suggests a far smaller result.
+    right_comparison: The alternative of children 'who would otherwise keep waiting'
+      is accurate but thin, and the email doesn't say that match dollars go unclaimed
+      if returning donors don't give by December 31.
+    qualification: The hedge that 26 is not every child is checkable and carries a
+      number and the December 31 date, but it never names the consequence of missing
+      the match, which is lost foundation money.
+    objections: The closure grievance is named and validated without defensiveness,
+      but the email doesn't say whether these lessons reach families the Eastside
+      branch used to serve, so a resisting reader's core objection is acknowledged
+      rather than answered.
+    fit: It is a year-end email of about 230 words, signed by the executive director,
+      with a subject line and call to action, as asked, and it properly declines the
+      one instruction that would have been false.

@@ -1,0 +1,33 @@
+I didn't use "we cut picking errors in half." Only one of your six customers has data that shows it, so the line would be overstated.
+
+- **What the line says vs. what you have:** "We cut errors in half" sounds like a typical result. You have one halving (4.1 → 1.9, a 54% drop). The other customer that tracks errors fell 21% (2.8 → 2.2), and the third hasn't shared numbers.
+- **What I wrote instead:** the pet distributor's exact before-and-after figures, labelled as one customer. The numbers are still striking and every word is true.
+- **Why I didn't write the bold version:** a VP of ops will ask "across how many customers?" on the first call. If the honest answer is "one," the email loses her trust.
+
+Your facts also give you a stronger point than "in half." Five sites at $1,250 a month is $75,000 a year. Against her own $600,000 figure, the software pays for itself if it prevents about 1 wrong shipment in 8, which is roughly 13%. Your weaker result, 21%, still clears that. So the cost case holds even if she doesn't get the halving. This assumes her returns cost rises and falls with the number of mis-picks.
+
+Before you send, check these:
+
+- **The IT director:** I left him out of the email, since what you know comes from hearsay. I also said only what you told me: it doesn't replace her warehouse system, it sits on top of it. If the software needs any connection to that system, even read-only, say so plainly on the first call. He'll find out anyway, and an IT director who already blocks changes will take the news worse from his own discovery than from you.
+- **"One of your sites":** this isn't a promise of a pilot, but it invites one. Make sure you're willing to start at a single site.
+- **Placeholders:** add the magazine's name, plus your name and company.
+
+<final_document>
+Subject: Your $600K in wrong-item returns
+
+Hi Dana,
+
+Last spring you told [Magazine] that wrong-item returns cost you "north of $600,000 a year." That's the problem we solve.
+
+With our software, pickers scan each item with a phone camera, and it flags a wrong item before the box is closed. At our largest customer, a pet-supply distributor with three warehouses, mis-picks fell from 4.1 to 1.9 per 1,000 order lines in their first five months.
+
+At your scale: it's $1,250 per site per month, or $75,000 a year for all five warehouses. Against $600,000 in returns, it pays for itself if it stops about 1 wrong shipment in 8.
+
+It doesn't replace your warehouse management system. It sits on top of it, and setup takes about three weeks.
+
+Do you have 20 minutes in the next two weeks? I'll walk you through the pet distributor's results and what setup would look like at one of your sites.
+
+Best,
+[Your name]
+Co-founder, [Company]
+</final_document>

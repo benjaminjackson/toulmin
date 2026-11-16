@@ -1,0 +1,59 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+A reader of the local paper who is a parent in the district or a member of the school board that votes on April 14. This reader has heard the athletic director's objections and knows parents who drop their children off on the way to 8 a.m. shifts. The reader decides whether to support the later start time.
+</reader>
+
+<brief>
+I'm a school nurse at a public high school and I want to write an op-ed for our local paper before the school board votes on April 14 on moving the high school start time from 7:25 to 8:30.
+
+What I've got:
+- Last fall I logged 412 visits to my office during first period: headaches, kids falling asleep, stomach complaints. That's more than second and third period put together (198 and 171).
+- In a survey our health class ran, 640 of the 890 students who answered said they sleep under 7 hours on school nights.
+- A district two counties over moved to 8:30 three years ago. Their first-period tardies dropped 31%, and their superintendent told our board that attendance went up "about a point."
+- Our four-year graduation rate is 84%.
+- The American Academy of Pediatrics recommends that high schools start no earlier than 8:30.
+- The athletic director says practices would end after dark from November on and away games would mean missed last-period classes. A lot of parents drop their kids off on the way to 8 a.m. shifts. The district says the bus contract would cost an extra $180,000 a year.
+
+I want the piece to say that a later start will raise our graduation rate. 650 words max.
+</brief>
+
+<document>
+**Our students are asleep in first period. The board can fix that on April 14.**
+
+On April 14, the school board will vote on moving the high school's start time from 7:25 to 8:30. As the school nurse, I see what 7:25 costs our students every morning, and I'm asking the board to vote yes.
+
+Last fall I logged 412 visits to my office during first period: headaches, stomachaches, students who had fallen asleep at their desks and couldn't shake it. Second period brought 198 visits. Third period brought 171. First period alone sent me more students than the next two combined. Nothing about the subjects taught at 7:25 explains that. The hour does.
+
+Our students tell us they're exhausted. When our health class surveyed students, 640 of the 890 who answered, nearly three in four, said they sleep less than seven hours on school nights. Teenagers' body clocks shift later in adolescence, and most can't fall asleep early enough to get a full night before a 7:25 bell. That is why the American Academy of Pediatrics recommends that high schools start no earlier than 8:30.
+
+We don't have to guess what happens when a district takes that advice. A district two counties over moved to 8:30 three years ago. Its first-period tardies dropped 31 percent, and its superintendent told our board that attendance went up about a point.
+
+That matters beyond the morning. Our four-year graduation rate is 84 percent, which means roughly one student in six doesn't finish on time. Students rarely fall behind all at once. They fall behind one missed or slept-through class at a time, one failed course at a time. A schedule that gets more students to class on time and awake goes after the problem where it starts. I believe a later start will help more of our students graduate, and we should hold it to that. The board should publish first-period tardies, attendance and course failures every year, and the graduation rate when the first class to spend all four years on the new schedule graduates. If those numbers don't move, we'll know, and we can act.
+
+The objections to this change are real, and they deserve answers.
+
+Athletics. Practices would end after dark from November on, and away games would pull athletes out of last period. Our neighbors have run sports on an 8:30 schedule for three years. Before April 14, the board should ask them how they handled practice times, lighting and game schedules. And weigh the trade honestly: today, the class our students lose most is the one that starts at 7:25.
+
+Working parents. Many families drop students off on the way to 8 a.m. shifts. The district should open the building early, with a supervised space in the library or cafeteria, so no student is left waiting outside.
+
+Cost. The bus contract would add $180,000 a year. That is real money. But the current schedule has costs too; they just don't arrive as an invoice. They show up in my office, in the attendance office, and in the one student in six who doesn't graduate on time.
+
+If the board votes no, nothing changes: another year of 7:25 bells, and another fall in which first period sends me more students than the two periods after it combined. Our students deserve better than that. Vote yes on April 14.
+
+*[Name] is the school nurse at [High School].*
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

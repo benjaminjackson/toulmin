@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T17:52:17.428535+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 560
+  tags: []
+  notes: extracted 560 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 3
+    objections: 7
+    fit: 8
+  details:
+    agree: The nurse's-office scene and the clear vote request will move a parent
+      or board member who is undecided, but a reader who already backs the athletic
+      director's objections gets proposed fixes, not evidence they work, so they may
+      well stay unconvinced.
+    honest: "The graduation claim is carefully hedged, but the piece adds several\
+      \ facts the brief never gave: the 11 p.m. sleep onset, teens needing 8\u2013\
+      10 hours, and that the nearby district 'still fields teams.'"
+    works_the_facts: It turns 640/890 into 72 percent and 84 percent into 'one in
+      six', and it frames 412 against the 369 combined, though nothing is done with
+      the $180,000 (no per-student or per-day figure, for example).
+    right_comparison: The status quo is shown concretely through first-period visits
+      and the sleep survey, and the neighbouring district serves as the comparison,
+      but the piece says nothing about trends in graduation or attendance at this
+      school.
+    qualification: It admits no one can promise a graduation gain, but it offers nothing
+      the reader can check, such as a target for attendance or tardies, a review date,
+      or what would happen if the numbers don't move.
+    objections: All three objections from the brief are named and answered fairly,
+      though the early-supervision fix for working parents carries its own staffing
+      cost that goes unmentioned, and the athletics answers are suggestions, not commitments.
+    fit: It is a well-shaped local op-ed with a headline and byline, about 620 words
+      and under the 650 limit, though it deliberately softens the graduation-rate
+      claim the writer asked for.

@@ -1,0 +1,26 @@
+I didn't write "we cut picking errors in half" as a general claim, because only one of your three measured customers saw that. The pet-supply distributor went from 4.1 to 1.9, which is about 54% fewer. The other customer went from 2.8 to 2.2, which is about 21% fewer. If Dana's team checks references, a broad "half" claim falls apart on the second call. The draft says "more than half" but ties it to the one customer, so it's still the headline and it holds up.
+
+Other choices I made:
+
+- **The IT director:** The email doesn't mention him, since what you know about him is secondhand. Instead it says up front that you sit on top of the WMS rather than replace it, so she can make that case to him herself. I didn't write "no IT involvement." Unless that's true, it would cost you trust in the first meeting.
+- **Price:** I included it. At five sites it comes to about $75K a year, which is small next to her $600K figure, so she can see the value without you spelling it out. I didn't project savings for her company, because one customer's result isn't a promise.
+- **Customer name:** I left the pet-supply distributor unnamed. Name them only if they've said you can.
+- **The 2.8→2.2 result:** It's not in a cold email this short, but be ready to share it if she asks about results across customers.
+
+<final_document>
+**Subject:** Your $600K in wrong-item returns
+
+Hi Dana,
+
+Last spring you told [Magazine] that returns from wrong-item shipments cost [Company] "north of $600,000 a year." That's the problem we work on.
+
+With our software, pickers scan each item with a phone camera, and it flags a wrong item before the box closes. One customer, a regional pet-supply distributor with 3 warehouses, cut mis-picks by more than half in five months, from 4.1 to 1.9 per 1,000 order lines.
+
+It doesn't replace your warehouse management system. It sits on top of it. Setup takes about three weeks, and it's $1,250 per site per month.
+
+Is it worth 20 minutes to see whether those numbers could hold up in your warehouses?
+
+[Your name]
+Co-founder, [Company]
+[Phone]
+</final_document>

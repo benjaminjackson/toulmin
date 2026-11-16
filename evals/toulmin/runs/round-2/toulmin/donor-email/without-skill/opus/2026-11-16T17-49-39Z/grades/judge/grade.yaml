@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T17:50:13.162981+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 198
+  tags: []
+  notes: extracted 198 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 5
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 3
+    qualification: 5
+    objections: 4
+    fit: 8
+  details:
+    agree: The direct acknowledgement of the Eastside closure and the doubled-gift
+      framing could bring back a lukewarm lapsed donor, but someone still upset gets
+      'we heard you' plus a placeholder in place of any account of what changed, so
+      they have little reason to return.
+    honest: The email rightly drops the brief's false promise that every child gets
+      a place, and its figures are accurate, but 'many of you told us how much it
+      hurt' overstates the brief's 'a few wrote angry notes'.
+    works_the_facts: The $575 matched cost, $85 becoming $170 and 26 children from
+      a $30,000 full match are all derived correctly, but the email never weighs the
+      $15,000 match against last year's $1,240 from 9 gifts, and never says that 35
+      children would still be waiting even at the full match.
+    right_comparison: The email never spells out the alternative, which is children
+      staying on the waiting list and the match going unclaimed if donors don't give,
+      and it gives no trend for the waiting list.
+    qualification: '''If we reach the full match'' is tied to a number ($30,000),
+      an outcome (26 children) and, earlier in the email, a deadline (December 31),
+      but it never says what happens if the match falls short, even though falling
+      short is the likely result.'
+    objections: The email does name the Eastside objection, but its only answer is
+      an empty optional placeholder, so a resisting reader's real complaint is acknowledged
+      and not met.
+    fit: It is a year-end email of about 200 words, under the 250-word limit, with
+      a subject line and a call to action, and it is signed by the executive director
+      as the brief asked, though the placeholders mean it still needs filling in before
+      it can be sent.

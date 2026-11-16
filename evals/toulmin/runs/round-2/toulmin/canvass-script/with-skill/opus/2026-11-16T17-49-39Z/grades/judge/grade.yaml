@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T17:50:36.960891+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 314
+  tags: []
+  notes: extracted 314 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 8
+    right_comparison: 8
+    objections: 7
+    fit: 8
+  details:
+    agree: A fixed-income Ridgeview voter who opposed the last levy gets a concrete
+      local loss (their branch closes in July), a cost in their own home's terms,
+      and a direct answer to the 'blank check' letter, though $122 a year still lands
+      hard on a tight budget.
+    honest: The arithmetic is correct and the misleading 'coffee a month' line is
+      avoided, but 'more than ever' goes beyond a 22% rise since 2021, and 'goes to
+      two things' claims a restriction on the money that the brief doesn't state.
+    works_the_facts: Converts the rate correctly into $121.60 a year, $2.34 a week
+      and about $10 a month for the Ridgeview median, plus $19 per $100k and a $500k
+      example, picking the weekly figure where the coffee comparison is actually true.
+    right_comparison: 'The alternative is stated plainly and matches the facts: without
+      the levy the Ridgeview branch closes in July and Sunday hours stay gone, while
+      visits have risen 22%.'
+    qualification: A door script making fixed-rate, fixed-term claims needs no hedging,
+      and the one conditional it has (closure in July if the measure fails) is already
+      concrete.
+    objections: Answers the blank-check charge with the fixed rate, six-year sunset
+      and named uses, and answers fixed income with the monthly cost, but never says
+      why this levy differs from the one the reader voted against.
+    fit: "Fits on one side of a card, with a spoken core of about 60\u201390 seconds\
+      \ and short rebuttal lines, but it quietly drops the coffee-a-month line the\
+      \ field lead asked for without saying why."

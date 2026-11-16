@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T17:51:45.713842+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 160
+  tags: []
+  notes: extracted 160 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 8
+    right_comparison: 7
+    qualification: 6
+    objections: 6
+    fit: 9
+  details:
+    agree: It opens with Dana's own $600K figure, and the cost-vs-value maths plus
+      the one-site pilot ask make a reply easy, though the IT-director worry gets
+      only one line near the end.
+    honest: 'Every number checks against the brief: 53% is more than half, $75K is
+      right, $300K is slightly understated, and 21% is right; it leaves out that only
+      two of six customers have measured results, but it does show the weaker case.'
+    works_the_facts: It works out the annual cost for five sites, the dollar value
+      of a halving on her figure, and that even the weaker 21% result pays for itself,
+      all from the brief's numbers and in their strongest true form.
+    right_comparison: The alternative is her own stated $600K a year in returns, which
+      carries on if nothing changes; this is implied clearly rather than stated, and
+      the brief gives no trend for it.
+    qualification: Giving the 21% result as a floor next to the halving is a fair,
+      checkable hedge, but it has no timeframe for when results would show at her
+      sites and no measure for judging the pilot.
+    objections: The 'sits on top, doesn't replace' line and the single-site pilot
+      partly answer the IT director's resistance, but the line comes late and doesn't
+      say how little it asks of IT or of the system he rolled out.
+    fit: It is short, the paragraphs fit a phone screen, the subject line is concrete,
+      and it ends with a single clear ask, as the brief requested.

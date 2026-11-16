@@ -1,0 +1,57 @@
+I've written the memo, but I changed one thing you asked for. It doesn't promise that membership will replace ad revenue within a year. It sets that as the target and shows the math behind it. With two advertising and sales people on the board, a flat promise built on a 6-week pilot is the line they're most likely to pick apart.
+
+**The math:**
+- **The pilot** works out to about $20,400 a year (212 members × $8 × 12).
+- **To match $84,000**, you need about 875 members. That's 6.25% of your newsletter list, roughly four times what the pilot reached.
+- **That's achievable**, since the pilot got 1.5% of your list in six weeks with almost no promotion. But it isn't proven yet.
+- **First-year cash will fall short of $84,000** even if you reach 875 by December, because members join gradually through the year. My estimate is $50,000–55,000 from membership in 2027. The memo names that gap openly so the board doesn't find it first.
+
+**Other choices I made:**
+- **Ad trend:** I used your ad decline as a point in your favour. Ads fell 36% in two years, so the real comparison is probably $65,000 or less next year, not $84,000.
+- **The other newsroom:** I mentioned its 40% only as a sign that this model works. Without knowing its budget, it's not evidence that yours will.
+- **Your ad sales person:** I proposed moving them into a membership and sponsorship role rather than leaving their future unsaid. The board will ask about it, and it's the respectful choice. If you have a different plan, change that line, and tell them before the board sees the memo.
+- **Placeholders:** Fill in the bracketed items. One of them is how you'll cover the first-year gap; I assumed reserves or a bridge grant.
+
+**Worth considering:** keeping sponsorships while you drop display ads. They're a separate revenue line, and it's an easy win with the ad-background board members. I left it out of the memo to keep your proposal clean.
+
+<final_document>
+**MEMO**
+
+**To:** Board of Directors
+**From:** [Your name], Executive Director
+**Date:** [Date]
+**Re:** Proposal to replace display advertising with reader membership, starting January 2027
+
+**Decision requested**
+I ask the board to approve ending display advertising on January 1, 2027, and making reader membership our main source of earned revenue. Our goal is for membership to fully replace our ad revenue by the end of 2027.
+
+**Why now**
+Display ad revenue fell from $131,000 to $84,000 in two years, a 36% drop. If that trend continues, ads may bring in $65,000 or less next year. We'd be giving up a shrinking source of revenue, not a stable one. Ads also slow our site and work against the reader trust our journalism depends on.
+
+**What the pilot showed**
+In our 6-week spring pilot, 212 readers became members at $8 a month. We promoted it only through two newsletter mentions. That's 1.5% of our 14,000 newsletter subscribers, and it works out to about $20,400 a year. A newsroom of similar size in another state told us membership now covers 40% of its budget, which suggests the model can work at our scale.
+
+**What success requires**
+Replacing $84,000 takes about 875 members at $8 a month, or 6.25% of our current newsletter list. That's roughly four times the pilot, with a full year of real promotion behind it instead of two mentions. I propose these milestones, which we'll report to the board quarterly:
+
+| Date | Members | Annual run rate |
+|---|---|---|
+| March 31, 2027 | 400 | $38,400 |
+| June 30, 2027 | 650 | $62,400 |
+| December 31, 2027 | 875 | $84,000 |
+
+If we're below 500 members at the end of June, I'll bring the board options to change course, including bringing back some advertising or sponsorship.
+
+**The transition-year gap**
+Members will join gradually through the year, so 2027 membership revenue will be lower than the year-end run rate, probably about $50,000–55,000. Compared with likely 2027 ad revenue, that leaves a gap of roughly $15,000–30,000. I propose covering it with [reserves / a bridge grant from ___].
+
+**Staffing**
+[Name], who has sold our advertising part-time for 11 years, knows our community and local businesses better than anyone. I propose moving [Name] into a membership and sponsorship role. That keeps those relationships working for us under the new model.
+
+**Next steps if approved**
+- Notify advertisers in December.
+- Launch the membership campaign in January, with promotion in the newsletter, on the site and at events.
+- First quarterly report to the board in April.
+
+I welcome the board's questions, especially from members with advertising and sales experience. Your input on the membership campaign would be valuable.
+</final_document>

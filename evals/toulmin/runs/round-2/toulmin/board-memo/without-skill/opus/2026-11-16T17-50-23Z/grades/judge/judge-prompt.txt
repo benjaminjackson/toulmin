@@ -1,0 +1,67 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+The seven board members of the nonprofit newsroom, who must vote on the proposal. Two of them come from advertising and sales backgrounds and will be the hardest to move. All of them know the part-time ad sales person, who has been with the newsroom for 11 years.
+</reader>
+
+<brief>
+Help me write a memo to our board. I run a small nonprofit newsroom with 9 staff. I want the board to approve dropping display ads and moving to a reader membership program from January.
+
+What I have:
+- Ads brought in $84,000 last year, down from $131,000 two years ago.
+- We ran a 6-week membership pilot in the spring. 212 readers signed up at $8 a month. We did no marketing beyond two newsletter mentions.
+- Our newsletter has 14,000 subscribers.
+- A newsroom about our size in another state told me membership now covers 40% of their budget.
+- Two of our seven board members come from advertising and sales backgrounds. Our ad sales person is part-time and has been with us for 11 years.
+
+I want the memo to say that membership will replace our ad revenue within a year. Keep it to one page.
+</brief>
+
+<document>
+**MEMO**
+
+**To:** Board of Directors
+**From:** [Name], [Title]
+**Date:** [Date]
+**Re:** Replacing display advertising with reader membership, starting January
+
+**Decision requested**
+Approve ending display advertising and launching a reader membership program in January, with a target of fully replacing ad revenue within 12 months and a formal board review at six months.
+
+**Why change now**
+Ad revenue fell from $131,000 to $84,000 over two years, a 36% drop. If that trend continues, we should expect about $65,000–70,000 next year and less after that. We aren't giving up $84,000 a year; we're giving up a declining source of revenue.
+
+**What the pilot showed**
+In a six-week pilot this spring, 212 readers signed up at $8 a month. Our only promotion was two mentions in the newsletter. That is about 1.5% of our 14,000 newsletter subscribers, reached with almost no effort, and it already brings in about $20,000 a year. [Add: X of the 212 are still paying today.]
+
+A newsroom of similar size in [state] now gets 40% of its budget from membership.
+
+**The math**
+To match last year's ad revenue we need about 875 members at $8 a month. Allowing for payment fees and normal cancellations, our target is **1,000 members by the end of 2027**. That is about 7% of our current newsletter list. We need roughly 800 more members, or about 15 a week. That is less than half the pilot's pace, and this time we will be marketing actively.
+
+**The plan**
+- January launch with a dedicated campaign across the newsletter, the site and social media
+- An ongoing membership ask in every newsletter and on article pages once ads are removed
+- Member benefits [e.g., member events, early access, a members' newsletter]
+- [Ad salesperson's name], who has been with us for 11 years, will [proposed role, e.g., move into membership and donor relations]. Their experience building relationships with our community is directly relevant to this work.
+
+**Risks and safeguards**
+The pilot's early sign-ups were likely our most loyal readers, so growth may slow. To manage this, we will report membership numbers to the board every month. At six months, we will present a full review against a midpoint target of 500 members. If we are well short of that, we will bring the board options, including adjusting pricing, increasing marketing, or bringing back limited sponsorships.
+
+**Recommendation**
+Approve the move to membership beginning January, with monthly reporting and a six-month review.
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

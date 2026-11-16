@@ -1,0 +1,11 @@
+{
+  "task": "outreach-email",
+  "pair": 1,
+  "order": 2,
+  "with_skill_run": "2026-11-16T17-49-39Z",
+  "without_skill_run": "2026-11-16T17-49-39Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "reason": "B works out the full cost for my five warehouses ($75K a year against my $600K in returns) and shows it pays for itself if it stops about one wrong shipment in eight. That gives me a business case I can act on, and the call request is specific. Both say the software sits on top of our warehouse management system and both stay honest to the brief's facts."
+}

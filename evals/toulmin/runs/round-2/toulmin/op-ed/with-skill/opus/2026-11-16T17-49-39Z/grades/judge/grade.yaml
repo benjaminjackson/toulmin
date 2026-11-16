@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T17:50:58.136914+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 568
+  tags: []
+  notes: extracted 568 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 6
+    objections: 6
+    fit: 8
+  details:
+    agree: The first-period visit numbers and the neighbouring district's results
+      make a strong practical case, and each objection gets a concrete response, but
+      a resisting board member may still find the athletics and cost answers thin.
+    honest: It turns the writer's wish into a hedged 'I believe' with a commitment
+      to measure, and its arithmetic is sound; however, 'Nothing about the subjects...
+      The hour does' claims causation outright, and the line about adolescent body
+      clocks brings in a fact the brief didn't supply.
+    works_the_facts: It derives 'nearly three in four' from 640/890, 'one in six'
+      from the 84% graduation rate, and first period exceeding the next two periods
+      combined; it could also have said that 412 is more than double either later
+      period.
+    right_comparison: The status quo is described accurately as another year of 7:25
+      bells and the same pattern of first-period visits, and its unbilled costs are
+      set against the bus invoice, though the brief gives no trend to build on.
+    qualification: It names checkable measures (tardies, attendance, course failures,
+      and graduation rate when the first four-year cohort finishes), but it sets no
+      target number and the consequence, 'we can act', is vague.
+    objections: Working parents get a concrete fix in the supervised early-opening
+      space; athletics is mostly passed off as 'ask the neighbours'; and cost is met
+      with rhetoric rather than a per-student or offsetting figure.
+    fit: It is a properly structured op-ed with a headline, a clear ask tied to the
+      April 14 vote and a byline, and at roughly 640 words it sits within the 650-word
+      limit.

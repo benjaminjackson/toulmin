@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T17:51:03.249254+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 165
+  tags: []
+  notes: extracted 165 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 9
+    right_comparison: 7
+    qualification: 5
+    objections: 6
+    fit: 9
+  details:
+    agree: The opening quotes her own $600K figure and the break-even math is concrete,
+      so a reply is likely, but the IT director's resistance only gets one line and
+      could still stop it.
+    honest: The halving is correctly tied to one customer and the 21% result is disclosed,
+      but 'our other customer that tracks errors' hides that a third tracking customer
+      hasn't shared numbers, which could be bad news.
+    works_the_facts: The $75,000 a year for five sites, the 12.5% break-even against
+      $600K, the 21% from 2.8 to 2.2 and the 'more than half' from 4.1 to 1.9 are
+      all correctly derived and well chosen.
+    right_comparison: The alternative is her ongoing $600K-plus loss, which the break-even
+      sets against the cost, though it never says outright that doing nothing keeps
+      that cost every year.
+    qualification: '''If return costs track mis-picks'' names a real assumption she
+      can check, but there is no date, no measurable target and no consequence if
+      results fall short, such as a trial period or an exit clause.'
+    objections: Saying it 'sits on top' of the WMS with three-week setup partly meets
+      the IT objection, but 'sits on top' doesn't spell out how little IT work or
+      system integration is needed, which is what the director would want to know.
+    fit: It is short and easy to read on a phone, with a pointed subject line and
+      one clear ask.

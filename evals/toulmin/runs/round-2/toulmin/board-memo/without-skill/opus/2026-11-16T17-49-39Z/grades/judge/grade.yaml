@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T17:50:23.026196+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 426
+  tags: []
+  notes: extracted 426 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 6
+    right_comparison: 8
+    qualification: 6
+    objections: 7
+    fit: 7
+  details:
+    agree: The ad trend, the target table and the risk controls give the sales-background
+      members a sober case they can vote for, but leading with 'four times the pilot's
+      conversion rate' and leaving the bridge funding and the colleague's future as
+      blanks gives the resisters easy reasons to hold back.
+    honest: It doesn't make the unsupported promise that membership will replace ad
+      revenue within a year, calls that goal unguaranteed, and invents no figures,
+      but one peer newsroom isn't enough to say the model 'works for outlets like
+      ours'.
+    works_the_facts: 'The drop rate, the 2027 projection, the pilot''s annual revenue
+      and the members-needed table are all correctly derived, but it misses the most
+      favourable true framing: 212 sign-ups in six weeks is about 35 a week, while
+      875 in a year needs only about 17 a week, so the hurdle is presented as 4x when
+      on pace it is roughly half.'
+    right_comparison: It describes keeping ads honestly, as about $84,000 shrinking
+      roughly 20% a year to about $67,000, which is a fair, trend-based picture of
+      the alternative.
+    qualification: Quarterly checkpoints and a six-month trigger with a stated consequence
+      (bringing back sponsorships or limited ads) are the right structure, but the
+      targets, the threshold percentage and the bridge amount are all placeholders,
+      so the reader can't yet check anything.
+    objections: It meets the ad-side worry about giving up certain revenue with the
+      decline trend, bridge funding and a sponsorship fallback, and it addresses the
+      11-year colleague and invites the sales experts' input, though the staffing
+      plan is still blank.
+    fit: It is a properly structured board memo close to one page, though the table,
+      bullets and bracketed placeholders may push it slightly over and leave it unfinished.

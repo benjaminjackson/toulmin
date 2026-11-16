@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T17:51:07.493429+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 496
+  tags: []
+  notes: extracted 496 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 9
+    right_comparison: 9
+    qualification: 9
+    objections: 7
+    fit: 9
+  details:
+    agree: The trend argument, the one-third-pace target and the June checkpoint will
+      move most of the board, but the two ad-background members are left asking why
+      ads must end instead of running alongside membership while it grows, and the
+      memo never answers that.
+    honest: The memo turns the brief's 'replace within a year' into a checkable goal
+      of 875 members by December 2027 and labels the $35,000 figure as an extrapolation,
+      though '$20,350 a year' assumes every pilot member keeps paying.
+    works_the_facts: 'Every figure checks out and is put in its strongest true form:
+      the 36% drop, $20,352, 1.5%, 35 a week, 875 members (6%), 13 a week (about a
+      third of the pilot pace), about $52,000 in 2027, $1,700 against $7,000 a month,
+      and 550 by June.'
+    right_comparison: The memo compares membership against falling ad revenue, roughly
+      $35,000 in 2027 if the trend holds, rather than against a flat $84,000, and
+      it states plainly that 2027 membership income will be below 2025 ads.
+    qualification: The checkpoint names a date (June 30, 2027), a target (550), a
+      trigger (fewer than 450) and a consequence (options at that meeting, including
+      returning to ads or sponsorships), and it promises monthly cancellation reports.
+    objections: It handles pilot self-selection, cancellations, early cash flow and
+      the 11-year colleague well, but it never answers the sales-minded members' main
+      objection, which is why not run both, and the cash-flow gap is pushed to a December
+      plan.
+    fit: It is a properly headed board memo of about one page, with a clear decision
+      request and recommendation.

@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T17:51:11.661662+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 287
+  tags: []
+  notes: extracted 287 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 6
+    honest: 9
+    works_the_facts: 8
+    right_comparison: 8
+    qualification: 7
+    objections: 7
+    fit: 7
+  details:
+    agree: The script gives a Ridgeview retiree who voted no a concrete local stake
+      (their branch closes in July), a correct cost for their own home (about $10
+      a month), and a direct answer to the 'blank check' letter, though it's unlikely
+      to fully win over someone already set against it.
+    honest: 'Every claim traces to the brief, and the coffee line the writer asked
+      for is rightly dropped: about $10 a month in Ridgeview, or $6.50 citywide, is
+      more than a cup of coffee, so the line would have been false.'
+    works_the_facts: The script works out monthly and daily costs at both the Ridgeview
+      median ($640,000 gives about $10.13 a month, 33 cents a day) and the city median
+      (about $6.49 a month, 21 cents a day), gives a do-it-yourself formula, and frames
+      the cost in its smallest true unit, though the $2.3M a year it raises is never
+      used.
+    right_comparison: It states plainly what happens without the levy (the Ridgeview
+      branch closes in July and Sunday hours stay gone) and pairs that with the 22%
+      rise in visits since 2021.
+    qualification: 'The conditions it names can be checked and have dates or numbers:
+      the branch closes in July if the levy fails, and the levy expires after six
+      years unless voters renew it.'
+    objections: The 'blank check' and fixed-income objections are answered with specifics,
+      but the fixed-income reply only repeats the $10 figure instead of the 33-cents-a-day
+      framing, and the renter reply is thin.
+    fit: The main pitch runs about 60 to 90 seconds in card form, but with the rebuttal
+      section added it may be tight to fit on one side of a card.

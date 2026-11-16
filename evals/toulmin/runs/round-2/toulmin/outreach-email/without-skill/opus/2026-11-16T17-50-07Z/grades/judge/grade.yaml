@@ -1,0 +1,52 @@
+grader: judge
+graded: '2026-11-16T17:50:34.027736+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 118
+  tags: []
+  notes: extracted 118 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 3
+    right_comparison: 4
+    qualification: 2
+    objections: 7
+    fit: 9
+  details:
+    agree: The opening with her own $600k quote and the line saying it sits on top
+      of the WMS give Dana a reason to take a 15-minute call, but she gets no dollar
+      case she could take to her IT director.
+    honest: The 4.1-to-1.9 claim is correctly tied to one customer, but showing only
+      the best result while leaving out the 2.8-to-2.2 customer is cherry-picking,
+      and 'needs no changes to it' says more than the brief supports.
+    works_the_facts: 'It never turns the numbers into her terms: a cut of about 54%
+      applied to $600k is roughly $320k a year, against about $75k a year for 5 sites
+      at $1,250 a month.'
+    right_comparison: The status quo shows up only as the quoted $600k, and the email
+      never sets it against the price or the likely savings.
+    qualification: With one customer behind the headline result and another seeing
+      only a 21% drop, the email needed a checkable hedge (for example, what to expect
+      at her sites and by when), and it gives none.
+    objections: It deals head-on with the IT director's worry about the WMS ('sits
+      on top', 3-week setup) without raising objections the brief already answers,
+      but it says nothing about how much IT time the setup takes.
+    fit: It is short, easy to read on a phone and ends with one clear ask, as the
+      brief requested.

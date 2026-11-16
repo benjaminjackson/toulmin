@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T17:51:23.105497+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 361
+  tags: []
+  notes: extracted 361 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 8
+    right_comparison: 8
+    qualification: 7
+    objections: 7
+    fit: 7
+  details:
+    agree: Telling a resistant Ridgeview retiree up front that their branch closes
+      in July and what it will cost them earns some trust, but $122 a year on a fixed
+      income is a real cost, and the script gives this reader little beyond the branch
+      to weigh against it.
+    honest: The arithmetic is correct, and changing the coffee line from 'a month'
+      to 'a week' avoids a false claim, but the coffee price is not in the brief,
+      and 'more than ever' and 'this time the Ridgeview branch is on the line' claim
+      more than the facts show.
+    works_the_facts: It works out $19 per $100,000, about $10 a month for Ridgeview's
+      $640k median, $6.50 a month for the city median, and a quick way to work out
+      any home's cost, and all of these figures are correct.
+    right_comparison: 'It states plainly what happens without the levy: the Ridgeview
+      branch closes in July and Sunday hours are not restored, set against rising
+      use (visits up 22%).'
+    qualification: 'The conditions it gives can be checked: a fixed rate, a 6-year
+      end date and a July closure. It doesn''t point out that the dollar cost goes
+      up if assessed values rise.'
+    objections: It answers 'blank check' and 'fixed income' directly with the specifics,
+      but the answer to renters dodges whether they pay, and the answer on the failed
+      levy depends on a contrast the brief doesn't support.
+    fit: The main script fits 60 to 90 seconds, but with the full set of objection
+      answers added it is tight for one side of a card.

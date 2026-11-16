@@ -1,0 +1,30 @@
+The main change: I attributed the "cut in half" result to your pet-supply customer instead of claiming it for the company as a whole. 4.1 to 1.9 is a 54% drop, so "in half" is accurate for that customer. Your only other customer with numbers went from 2.8 to 2.2, which is about a 21% drop. If Dana asks what results look like across customers, which a VP of ops probably will, a company-wide "we cut errors in half" won't hold up. Tying it to one named type of customer keeps the strong number and stays true.
+
+Other choices I made:
+
+- **Her $600K quote is the opening line.** It shows you did your homework and makes the problem hers, not yours. I didn't estimate what she'd save, because one customer's result isn't enough to predict hers.
+- **One sentence is aimed at her IT director.** "Sits on top of your WMS, doesn't replace it" plus "no changes to your WMS" answers his likely objection before she has to forward it. If you know the integration does touch the WMS in some way, like reading order data through an API, soften that line to "doesn't modify" or say exactly what it reads. He'll check.
+- **I left the price out.** Five sites at $1,250 is $75K a year against $600K+ in returns, which makes a strong reply once she's interested. In a first cold email it can get you sorted into the "vendor pitch" pile. If you'd rather lead with it, add after the setup line: "It's $1,250 per site per month."
+- **The ask is small:** 15 minutes. That's easier to say yes to from a phone than "a demo."
+
+The email is about 110 words, short enough to read on a phone without scrolling much.
+
+<final_document>
+Subject: Wrong-item returns at [Company]
+
+Hi Dana,
+
+Last spring you told [Magazine] that returns from wrong-item shipments cost [Company] "north of $600,000 a year." That line stuck with me.
+
+My company makes pick-verification software. Workers scan each item with a phone camera, and it flags a wrong item before the box closes.
+
+A regional pet-supply distributor with 3 warehouses cut their mis-picks by more than half in five months, from 4.1 to 1.9 per 1,000 order lines.
+
+It sits on top of your WMS. It doesn't replace it and needs no changes to it. Setup takes about 3 weeks.
+
+Would you be open to 15 minutes to see if it fits your sites?
+
+[Your name]
+Co-founder, [Company]
+[Phone]
+</final_document>

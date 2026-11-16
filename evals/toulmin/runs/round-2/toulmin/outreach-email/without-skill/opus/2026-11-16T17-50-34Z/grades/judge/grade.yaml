@@ -1,0 +1,54 @@
+grader: judge
+graded: '2026-11-16T17:51:05.652284+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 143
+  tags: []
+  notes: extracted 143 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 4
+    right_comparison: 5
+    qualification: 3
+    objections: 6
+    fit: 8
+  details:
+    agree: The opening with her own $600K quote and the clear 'sits on top' line could
+      get Dana to take a 20-minute call, but nothing gives her a way past her IT director,
+      so the reader most likely to resist has little reason to change her mind.
+    honest: Every figure comes from the brief and the result is correctly tied to
+      one customer, though it uses only the strongest result and leaves out the weaker
+      2.8-to-2.2 customer, so the overall picture looks a little better than it is.
+    works_the_facts: It works out the $75,000 annual cost but never sets it against
+      what a roughly 54% cut in mis-picks could mean for her $600K (about $320K a
+      year), so the one derivation that would favour the writer is missing.
+    right_comparison: Doing nothing is implied by the $600K quote, but the email never
+      puts that ongoing loss side by side with the $75K price, so the alternative
+      is mentioned and not actually compared.
+    qualification: The claim rests on one customer, yet the email gives no checkable
+      hedge, such as what reduction she could expect by a given week or what happens
+      if it doesn't arrive, and offers only a vague 'see if this would work.'
+    objections: Saying it doesn't replace her warehouse system and sits on top of
+      it meets the IT objection in part, but it never says how much IT work the three-week
+      setup takes or whether it touches the warehouse system at all, which is what
+      the IT director will ask.
+    fit: It's short, broken into lines that read easily on a phone, and has the right
+      form for a cold email with a single clear ask.

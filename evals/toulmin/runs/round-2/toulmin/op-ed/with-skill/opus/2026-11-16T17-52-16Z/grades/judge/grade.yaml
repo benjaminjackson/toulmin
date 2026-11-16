@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T17:53:22.885916+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 654
+  tags: []
+  notes: extracted 654 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 7
+    qualification: 4
+    objections: 7
+    fit: 6
+  details:
+    agree: The nurse's first-hand numbers and the 'not against zero' framing are persuasive,
+      and the 7:30 supervised-building idea gives working parents a concrete answer,
+      though the athletics answer is only 'ask the other district', which may not
+      move a resisting board member.
+    honest: 'It rightly refuses the brief''s request to promise a higher graduation
+      rate, but it adds details the brief doesn''t support: the line forming before
+      first period is half over, the line being gone by mid-morning, and ''the same
+      students''.'
+    works_the_facts: It correctly turns the figures into 'nearly three in four' and
+      'one in six', but it skips stronger true versions, such as 412 being more than
+      twice the 198 second-period visits, the bus cost per student, or what a one-point
+      attendance gain means in school days.
+    right_comparison: It treats keeping 7:25 as having its own ongoing costs (office
+      visits, short sleep, one in six not graduating on time) rather than as free,
+      though there is no trend data to say whether those costs are getting worse.
+    qualification: 'The graduation hedge is honest but leaves the reader nothing to
+      check: no target, no date and no measure of whether the change worked, apart
+      from the suggestion to ask the other district before April 14.'
+    objections: It takes on all three objections (bus cost, athletics, drop-offs),
+      but it never mentions that opening the building at 7:30 with supervision would
+      cost money, and the athletics answer is pushed off to the other district.
+    fit: It is a well-shaped op-ed with a headline and byline, but the body runs to
+      about 700 words, over the 650-word limit.

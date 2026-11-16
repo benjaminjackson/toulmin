@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T17:53:34.410164+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 418
+  tags: []
+  notes: extracted 418 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 9
+    right_comparison: 8
+    qualification: 9
+    objections: 7
+    fit: 8
+  details:
+    agree: The shrinking-ads framing, the modest required pace, and the June checkpoint
+      with a fallback to sponsorships would persuade most of the board, but the ad-background
+      members' main question, why not run both, is left as a blank placeholder.
+    honest: The memo doesn't claim outright that membership will replace ads within
+      a year as the brief asked; it treats the other newsroom's 40% as illustration
+      rather than prediction, and every figure traces to the brief, though it quietly
+      assumes the 212 pilot members carry over.
+    works_the_facts: 'The figures all check out: the 36% drop and roughly 20% a year,
+      the $20,352 annualised pilot revenue, 35 a week against 13 needed, 875 members
+      to replace $84k, 700 members to match the projected 2027 ads, and $52k collected
+      in 2027 against $67k; each is framed favourably but accurately.'
+    right_comparison: 'It correctly compares membership with a declining ad line rather
+      than a flat $84k, though it may be a year off: if $84k was 2025, the trend puts
+      2027 nearer $54k than $67k, so the comparison is conservative.'
+    qualification: The checkpoint names a date (June 30, 2027), a target (540 members),
+      a trigger (fewer than 450), and a consequence (options including sponsorships
+      at the July meeting), all of which the board can check.
+    objections: It addresses the revenue gap, churn and slowing sign-ups, and the
+      11-year colleague, but the 'why stop rather than run both' argument and the
+      source for the $15k gap are left blank, so the sceptical members' key objections
+      aren't yet answered.
+    fit: It is a one-page board memo with a clear decision request and recommendation,
+      though several bracketed placeholders still need filling in.

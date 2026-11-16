@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T17:52:15.932975+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 629
+  tags: []
+  notes: extracted 629 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 6
+    objections: 7
+    fit: 8
+  details:
+    agree: The nurse's firsthand visit counts, the neighbouring district's results
+      and the concrete fixes for each concern make a persuasive case, though a resisting
+      board member may still see the athletics and drop-off answers as deferred rather
+      than solved.
+    honest: 'The piece declines the brief''s unsupported graduation-rate claim and
+      keeps the figures accurate, with only small additions beyond the facts: the
+      general claim about teen sleep cycles and the assumption that the neighbouring
+      district shares ''the same winter sunset.'''
+    works_the_facts: It works the raw numbers into useful forms (72 percent, mid-morning
+      visits at 'less than half,' 84 percent as 'one in six' not finishing, and the
+      neighbours having no four-year cohort yet), but it does not set the $180,000
+      against anything to make that cost concrete.
+    right_comparison: Keeping 7:25 is presented as having its own ongoing costs in
+      visits, lost class time and students falling behind, which fits the facts, though
+      the brief has no trend data to show whether things are getting worse.
+    qualification: The pledge to publish first-period attendance, tardies and nurse
+      visits after one year, and to revisit if they don't improve, can be checked,
+      but it sets no target number and no exact report date.
+    objections: All three objections (bus cost, athletics, 8 a.m. drop-offs) are acknowledged
+      and answered, but the athletics answer leans on asking the neighbours and the
+      early-supervision idea adds an uncosted expense.
+    fit: It is a well-structured op-ed timed to the April 14 vote and sits at about
+      the 650-word limit, perhaps slightly over.

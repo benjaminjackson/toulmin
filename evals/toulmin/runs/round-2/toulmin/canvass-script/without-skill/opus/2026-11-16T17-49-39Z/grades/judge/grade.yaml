@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T17:50:26.995763+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 282
+  tags: []
+  notes: extracted 282 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 7
+    right_comparison: 8
+    qualification: 4
+    objections: 7
+    fit: 7
+  details:
+    agree: A fixed-income Ridgeview owner who opposed the last levy gets an honest
+      cost of about $10 a month and a direct answer to the 'blank check' letter, tied
+      to their own branch closing in July, which could move some of them, but nothing
+      addresses whether the money is well spent, so resisters may still vote no.
+    honest: "The numbers are correct ($640k \xD7 0.19/1000 \u2248 $121.60 a year \u2248\
+      \ $10.13 a month), and the script drops the coffee comparison, which is doubtful\
+      \ for Ridgeview. But the renter line suggests renters bear none of the cost,\
+      \ which the brief doesn't support, and the senior-relief placeholder hints at\
+      \ an exemption that may not exist."
+    works_the_facts: "It works out the cost for the Ridgeview median per month and\
+      \ per week, and it frames the 48\u201352 loss as 'just four points'. It never\
+      \ gives a smaller per-day figure (about 33 cents) or uses the $2.3M total to\
+      \ show cost per branch, for example."
+    right_comparison: 'The alternative is stated as the facts show it: the Ridgeview
+      branch closes in July and Sunday hours stay gone, set against visits up 22%
+      since 2021.'
+    qualification: The only real hedge is a blank senior-exemption placeholder that
+      the reader can't check and that has no number or date, though 'ends after six
+      years unless renewed' is a concrete, checkable limit.
+    objections: The script meets the blank-check, fixed-income and lost-last-time
+      objections with brief facts, and the blank-check reply is especially strong.
+      The fixed-income reply only repeats the cost and offers no other reassurance.
+    fit: "It is card-formatted and the core pitch takes about 60\u201390 seconds,\
+      \ but with the branch responses and the objection section it may be tight for\
+      \ one side, and the 'Do you know how you'll vote?' line after a yes is muddled."

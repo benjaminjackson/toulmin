@@ -1,0 +1,38 @@
+task:
+  name: donor-email
+  reader: A former donor to the community music school who gave between 2019 and 2022
+    and stopped after the school closed its Eastside branch. This reader was unhappy
+    about the closure and has not given since. The reader decides whether to give
+    this month.
+  prompt: 'I need a year-end fundraising email for people who used to give to us and
+    stopped. I''m the development director at a community music school, and I''m the
+    whole development office.
+
+
+    What I have:
+
+    - 61 kids are on our waiting list for subsidized lessons. A year of weekly lessons
+    costs us $1,150 per child.
+
+    - We have 340 lapsed donors: people who gave at least once between 2019 and 2022
+    and nothing since. Their average last gift was $85.
+
+    - Last December''s email to the same group brought in 9 gifts totaling $1,240.
+
+    - A family foundation has offered to match gifts from returning donors dollar
+    for dollar, up to $15,000, through December 31.
+
+    - A lot of these donors stopped giving after we closed the Eastside branch in
+    2022. A few wrote angry notes back then. One of them, a former board member, still
+    forwards our emails to her friends with comments.
+
+
+    I want the email to say that their gift this month guarantees every child on the
+    waiting list a place in January. Under 250 words, signed by our executive director.'
+config:
+  name: without-skill
+  runner: /Users/ben/github/toulmin/evals/toulmin/run-without-skill
+  model: opus
+started: '2026-11-16T17:50:52.572156+00:00'
+duration_seconds: 22.29
+exit_code: 0

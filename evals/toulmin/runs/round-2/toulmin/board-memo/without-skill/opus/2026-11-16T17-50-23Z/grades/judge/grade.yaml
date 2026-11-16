@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T17:51:07.665462+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 405
+  tags: []
+  notes: extracted 405 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 9
+    right_comparison: 8
+    qualification: 8
+    objections: 6
+    fit: 8
+  details:
+    agree: The declining-ad framing, the pace comparison and the six-month checkpoint
+      will win most of the board, but the two ad-background members will notice that
+      it never explains why ads can't run alongside membership or how the first-year
+      cash gap is covered while membership ramps up from about $20,000.
+    honest: It turns the brief's 'will replace within a year' into a target with a
+      review, leaves a placeholder for pilot retention instead of making up a figure,
+      and calls the pilot sign-ups likely loyal early adopters; its only addition
+      is an unquantified allowance for fees and cancellations.
+    works_the_facts: "Every derived figure checks out and is useful: 36% decline,\
+      \ about $65\u201370k projected, 1.5% conversion, about $20k a year from the\
+      \ pilot, 875 members to break even, 7% of the list, and 15 a week needed against\
+      \ about 35 a week already reached."
+    right_comparison: It correctly treats the alternative as a declining source rather
+      than a flat $84,000 and projects the trend forward, though it doesn't compare
+      against a hybrid that keeps ads during the transition.
+    qualification: 'The hedge can be checked: monthly reporting, a 500-member midpoint
+      at six months, and named fallback options (pricing, marketing, limited sponsorships),
+      though ''well short'' and ''bring options'' leave what happens on a miss a little
+      soft.'
+    objections: 'It answers the early-adopter concern and treats the long-serving
+      salesperson with respect, but it misses the ad members'' most obvious objections:
+      why not keep ads as well, and how to cover the revenue drop in the first months.'
+    fit: It's a clean board memo that leads with the decision and runs to roughly
+      one page, perhaps slightly over once the placeholders are filled in.

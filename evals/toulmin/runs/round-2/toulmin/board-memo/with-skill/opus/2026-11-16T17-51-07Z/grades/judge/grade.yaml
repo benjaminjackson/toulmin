@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T17:52:21.824223+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 432
+  tags: []
+  notes: extracted 432 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 9
+    right_comparison: 9
+    qualification: 8
+    objections: 6
+    fit: 7
+  details:
+    agree: The trend math, the required pace against the pilot's pace, and the dated
+      checkpoints give even the two ad-background members a concrete, low-risk case,
+      but the many unfilled placeholders on key points (retention, why not both, the
+      gap funding, the sales lead's future) leave room for their doubts.
+    honest: It does not repeat the brief's claim that membership 'will replace ad
+      revenue within a year'; instead it reports a 2027 shortfall of about $15,000
+      and full replacement from 2028, every figure checks out against the brief, and
+      unknowns are left as placeholders rather than invented.
+    works_the_facts: It works out the 36% drop, the projected $67,000 for 2027, the
+      pilot's $20,352 annual value, the 875-member break-even (6% of the list), 55
+      needed per month against about 150 achieved, checkpoints that match that pace,
+      and roughly $52,000 of first-year revenue, all correct and put in favourable
+      but true form.
+    right_comparison: It compares membership with ads on their falling trend (about
+      $67,000 in 2027 and lower after that), not with last year's flat $84,000, and
+      states that staying with ads does not keep things as they are.
+    qualification: The checkpoints have dates and numbers (380 by March 31, 545 by
+      June 30) and a consequence if June is missed, though the threshold and fallback
+      options are still bracketed placeholders.
+    objections: It names the objections the ad-background members are likely to raise
+      (why not keep both, pilot retention, the sales lead's future), but leaves the
+      answers as placeholders, so those objections are raised without being fully
+      answered.
+    fit: It is a properly formatted board memo of about one page, but its many bracketed
+      placeholders mean it is not ready to send as it stands.

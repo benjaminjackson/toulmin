@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T17:50:22.026532+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 162
+  tags: []
+  notes: extracted 162 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 7
+    honest: 6
+    works_the_facts: 7
+    right_comparison: 6
+    qualification: 3
+    objections: 6
+    fit: 8
+  details:
+    agree: 'Dana would likely take the call: the email opens with her own $600K quote,
+      gives a concrete before-and-after result and a cheap break-even, and asks for
+      a one-site walkthrough, though the IT director could still block it.'
+    honest: Every number is accurate, but it shows only the best of the three customers
+      that track errors, leaves out the 2.8-to-2.2 result and the one that hasn't
+      shared numbers, and 'That's the problem we solve' claims more than one customer's
+      data supports.
+    works_the_facts: It works out the $75K annual cost and the 1-in-8 break-even correctly,
+      but it never states the pet distributor's drop as roughly 54% or applies it
+      to her $600K, which comes to about $320K a year and would be her most persuasive
+      figure.
+    right_comparison: The alternative of doing nothing is implied as $600K a year
+      in returns weighed against $75K, but the email never states it outright, and
+      the brief gives no trend for it to describe.
+    qualification: A result from a single customer is presented with no hedge, such
+      as a range across customers or a pilot success measure at one site with a date
+      and an error-rate target she could check.
+    objections: Saying it sits on top of the WMS, with three-week setup at one site,
+      speaks to the IT director's resistance, but it doesn't say what touches the
+      WMS or how much IT work is needed, which is what he would ask.
+    fit: It's short and in short paragraphs that read well on a phone, with a clear
+      subject line and ask, and it rightly avoids the 'cut errors in half' claim.
