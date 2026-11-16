@@ -1,6 +1,6 @@
 {
   "name": "toulmin",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A skill that builds, plans and checks persuasive arguments with Toulmin's model (claim, grounds, warrant, backing, qualifier, rebuttal), for pitches, proposals, memos, op-eds and replies to objections.",
   "author": {
     "name": "Benjamin Jackson",

@@ -42,6 +42,27 @@ A task may also have `user_knows`: true things the user knows but did not put in
 - Condition 4: the two judges give the same verdict on at least 80% of pairs.
 - Condition 5: documents written with the skill have no more invented facts on average than documents written without it.
 
+## Result of the sealed test (2026-11-16)
+
+The shipped skill (plugin version 0.3.0) against Claude with no skill, on the 12 sealed tasks, 4 runs each, in conversation mode. The runs are in `runs/sealed-*`.
+
+| Measure | Opus judge | Gemini judge | Fable judge (held out) |
+|---|---|---|---|
+| Wins / ties / losses in 48 pairs | 48 / 0 / 0 | 46 / 1 / 1 | 48 / 0 / 0 |
+| Wilson 95% lower bound | 0.93 | 0.88 | 0.93 |
+| Share of wins marked clear | 0.96 | 0.96 | 0.96 |
+
+- Invented facts per document: 1.2 with the skill, 2.2 without.
+- A person rated 10 of these pairs blind (`blind-check/packet.md`) and preferred the skill's document in all 10.
+- In a normal session that lists about 130 skills, the skill loaded in 21 of 29 sessions from its description alone, and in 28 of 29 with the plugin's `UserPromptSubmit` hook (`trigger-rate`).
+
+Where the gain comes from, from head-to-head rounds between three versions on the same sealed tasks (Opus and Fable judges; the Gemini account ran out of credit):
+
+- A control that only says "ask the user questions first" (`variants/ask-only`) beats Claude with no skill in 45 or 46 of 48 pairs. Asking is most of the gain.
+- A control with the skill's question list and no framework (`variants/questions-only`) beats the ask-only control in 40 and 38 of 48 pairs. The specific questions are a second, reliable gain.
+- The shipped skill beats the questions-only control in 28 and 27 of 48 pairs, with 10 or 11 ties and 10 losses. The framework adds a small gain that this sample cannot separate from chance.
+- In headless mode, where nobody answers the questions, the skill is only slightly better than Claude with no skill (tune tasks: 21-7-8 under Opus, 17-6-13 under Gemini).
+
 ## What this eval cannot tell you
 
 - Both judges are language models. A skill change that comes from reading their reasons can learn what these judges like. The sealed tasks do not guard against that. Only a person ranking blind pairs does.
