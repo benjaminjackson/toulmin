@@ -1,0 +1,3 @@
+name: with-skill
+runner: ../run-with-skill
+model: opus
