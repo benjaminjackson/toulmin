@@ -1,0 +1,28 @@
+grader: judge-repeat
+graded: '2026-11-16T17:32:43.238998+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: true
+    read_uses_of_argument: false
+    read_toulmin_book: false
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 300
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 8
+    right_comparison: 7
+    objections: 8
+    fit: 8
+    qualification: 6

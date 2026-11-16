@@ -1,0 +1,119 @@
+#!/usr/bin/env bash
+# Test summary and pairwise against the hand-made runs in fixtures/runs. Makes no model call.
+#
+# The fixture tree was made by smevals itself (a fake runner and fake checkers), so its layout is real.
+# It holds two tasks, both arms, two scored runs per task and arm, one trigger failure, one format failure,
+# one contaminated run, judge-repeat grades for the board-memo runs, and head-to-head files with
+# a with-skill win (board-memo pair 1), a loss (board-memo pair 2), an order-flip tie (donor-email pair 1)
+# and a tie where one order said tie (donor-email pair 2).
+set -euo pipefail
+
+SCRIPT_DIR=$(cd "$(dirname "$0")" && pwd)
+FIXTURE_RUNS="$SCRIPT_DIR/fixtures/runs"
+failures=0
+
+# Record one failed check and print why.
+fail() {
+  echo "FAIL: $1"
+  failures=$((failures + 1))
+}
+
+# The numbers worked out by hand from the fixture grades and head-to-head files.
+# Means are rounded to 3 decimals, as summary does.
+EXPECTED_JSON=$(cat <<'JSON'
+{
+  "tasks": [
+    {
+      "task": "board-memo",
+      "arms": {
+        "with-skill": {"scored_runs": 2, "mean_score": 0.7, "min_score": 0.6, "max_score": 0.8,
+          "rubric": {"agree": 7, "honest": 8, "works_the_facts": 7, "right_comparison": 6, "qualification": 6, "objections": 7, "fit": 8},
+          "trigger_failures": 1, "contaminated": 0, "format_failures": 0, "judge_repeat_runs": 2, "judge_noise": 0.05},
+        "without-skill": {"scored_runs": 2, "mean_score": 0.6, "min_score": 0.5, "max_score": 0.7,
+          "rubric": {"agree": 6, "honest": 7, "works_the_facts": 6, "right_comparison": 5, "qualification": 4, "objections": 6, "fit": 7},
+          "trigger_failures": 0, "contaminated": 0, "format_failures": 1, "judge_repeat_runs": 2, "judge_noise": 0.15}
+      },
+      "reference_reads": {"read_karbach": 2, "read_uses_of_argument": 1, "read_toulmin_book": 0},
+      "head_to_head": {"wins": 1, "ties": 0, "losses": 1}
+    },
+    {
+      "task": "donor-email",
+      "arms": {
+        "with-skill": {"scored_runs": 2, "mean_score": 0.8, "min_score": 0.7, "max_score": 0.9,
+          "rubric": {"agree": 8, "honest": 8.5, "works_the_facts": 8, "right_comparison": 7, "qualification": 6, "objections": 8, "fit": 8},
+          "trigger_failures": 0, "contaminated": 0, "format_failures": 0, "judge_repeat_runs": 0, "judge_noise": null},
+        "without-skill": {"scored_runs": 2, "mean_score": 0.5, "min_score": 0.4, "max_score": 0.6,
+          "rubric": {"agree": 5, "honest": 6.5, "works_the_facts": 5, "right_comparison": 4, "qualification": 3, "objections": 5, "fit": 5.5},
+          "trigger_failures": 0, "contaminated": 1, "format_failures": 0, "judge_repeat_runs": 0, "judge_noise": null}
+      },
+      "reference_reads": {"read_karbach": 0, "read_uses_of_argument": 0, "read_toulmin_book": 1},
+      "head_to_head": {"wins": 0, "ties": 2, "losses": 0}
+    }
+  ],
+  "total": {
+    "task": "total",
+    "arms": {
+      "with-skill": {"scored_runs": 4, "mean_score": 0.75, "min_score": 0.6, "max_score": 0.9,
+        "rubric": {"agree": 7.5, "honest": 8.25, "works_the_facts": 7.5, "right_comparison": 6.5, "qualification": 6, "objections": 7.5, "fit": 8},
+        "trigger_failures": 1, "contaminated": 0, "format_failures": 0, "judge_repeat_runs": 2, "judge_noise": 0.05},
+      "without-skill": {"scored_runs": 4, "mean_score": 0.55, "min_score": 0.4, "max_score": 0.7,
+        "rubric": {"agree": 5.5, "honest": 6.75, "works_the_facts": 5.5, "right_comparison": 4.5, "qualification": 3.333, "objections": 5.5, "fit": 6.25},
+        "trigger_failures": 0, "contaminated": 1, "format_failures": 1, "judge_repeat_runs": 2, "judge_noise": 0.15}
+    },
+    "reference_reads": {"read_karbach": 2, "read_uses_of_argument": 1, "read_toulmin_book": 1},
+    "head_to_head": {"wins": 1, "ties": 2, "losses": 1}
+  }
+}
+JSON
+)
+
+# Check 1: summary --json gives exactly the hand-worked numbers.
+actual_json=$("$SCRIPT_DIR/summary" --json "$FIXTURE_RUNS")
+if jq -e -n --argjson actual "$actual_json" --argjson expected "$EXPECTED_JSON" '$actual == $expected' > /dev/null; then
+  echo "ok   summary --json matches the hand-worked numbers"
+else
+  fail "summary --json does not match. Differences (path, actual, expected):"
+  # paths(leaf) lists the path to every value that is not an object or array, so each differing number is shown with its place.
+  jq -n --argjson actual "$actual_json" --argjson expected "$EXPECTED_JSON" -c '
+    def leaf: type != "object" and type != "array";
+    ($expected | [paths(leaf)]) + ($actual | [paths(leaf)]) | unique[] as $path
+    | select(($actual | getpath($path)) != ($expected | getpath($path)))
+    | [$path, ($actual | getpath($path)), ($expected | getpath($path))]'
+fi
+
+# Check 2: the markdown form prints all three tables.
+markdown=$("$SCRIPT_DIR/summary" "$FIXTURE_RUNS")
+for heading in "## Judge score and failures" "## Rubric items" "## Judge noise"; do
+  if echo "$markdown" | grep -qF "$heading"; then
+    echo "ok   markdown has \"$heading\""
+  else
+    fail "markdown has no \"$heading\""
+  fi
+done
+
+# Check 3: no printed head-to-head prompt names an arm or the tools behind it.
+for task in board-memo donor-email; do
+  for pair in 1 2; do
+    for order in 1 2; do
+      prompt=$("$SCRIPT_DIR/pairwise" --print-prompt "$FIXTURE_RUNS" "$task" "$pair" "$order")
+      if echo "$prompt" | grep -qiE 'with-skill|without-skill|plugin|transcript|toulmin|skill'; then
+        fail "prompt for $task pair $pair order $order holds a banned word"
+      else
+        echo "ok   prompt for $task pair $pair order $order holds no banned word"
+      fi
+    done
+  done
+done
+
+# Check 4: pairwise skips pairs already judged, so on the fixture it makes no model call and exits 0.
+if resume_output=$("$SCRIPT_DIR/pairwise" "$FIXTURE_RUNS") && [ "$resume_output" = "pairwise: every pair is already judged" ]; then
+  echo "ok   pairwise skips the pairs already judged"
+else
+  fail "pairwise did not skip the judged pairs: $resume_output"
+fi
+
+if [ "$failures" -gt 0 ]; then
+  echo "$failures check(s) failed"
+  exit 1
+fi
+echo "all checks passed"

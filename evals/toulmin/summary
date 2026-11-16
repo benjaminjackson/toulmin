@@ -1,0 +1,245 @@
+#!/usr/bin/env bash
+# Summarise one round of the toulmin eval: judge scores, rubric items, failures, reference reads,
+# judge noise and the head-to-head result, per task and in total.
+#
+#   summary <runs-dir>          markdown tables
+#   summary --json <runs-dir>   the same numbers as JSON
+#   summary --runs <runs-dir>   one JSON line per run (used by pairwise, so both agree on which runs are scored)
+#
+# <runs-dir> is the directory given to `smevals run --runs-dir`. Every run.yaml below it is read,
+# so it also works when given the eval's own runs directory. Head-to-head files are read from <runs-dir>/pairwise/.
+set -euo pipefail
+
+YQ=/opt/homebrew/bin/yq
+
+# Print usage and exit with the given status.
+usage() {
+  echo "usage: summary [--json | --runs] <runs-dir>" >&2
+  exit "$1"
+}
+
+# Print one grade.yaml as compact JSON, or the word null when the file does not exist.
+# Why: a run that was never graded by a grader has no file, and jq needs a value either way.
+grade_as_json() {
+  local grade_file=$1
+  if [ -f "$grade_file" ]; then
+    "$YQ" -o=json -I=0 '.' "$grade_file"
+  else
+    echo null
+  fi
+}
+
+# Print one JSON line per run under the runs directory with the fields the summary and pairwise need.
+# A run is scored when transcript-check and extract-document both passed and the judge gave a score.
+collect_runs() {
+  local runs_dir=$1
+  local run_file
+  # find -prune skips the pairwise directory; -print0 with read -d '' handles any path safely.
+  find "$runs_dir" -path "$runs_dir/pairwise" -prune -o -name run.yaml -print0 | sort -z |
+    while IFS= read -r -d '' run_file; do
+      local run_dir
+      run_dir=$(dirname "$run_file")
+      local run_json
+      run_json=$("$YQ" -o=json -I=0 '.' "$run_file")
+      local judge_json
+      judge_json=$(grade_as_json "$run_dir/grades/judge/grade.yaml")
+      local repeat_json
+      repeat_json=$(grade_as_json "$run_dir/grades/judge-repeat/grade.yaml")
+      jq -nc \
+        --arg run_dir "$run_dir" \
+        --argjson run "$run_json" \
+        --argjson judge "$judge_json" \
+        --argjson repeat "$repeat_json" \
+        "$RUN_PROGRAM"
+    done
+}
+
+# The jq program that turns one run and its two grades into one JSON line for collect_runs.
+# $(cat <<'JQ' ... JQ) holds a jq program in a variable; the quoted 'JQ' stops bash from expanding $ inside it.
+RUN_PROGRAM=$(cat <<'JQ'
+# The check in a grade whose checker path ends in the given name, or null.
+def check($grade; $name):
+  if $grade == null then null
+  else [$grade.checks[] | select(.checker | split("/") | last == $name)] | first
+  end;
+# True when the named check ran and passed.
+def passed($grade; $name): check($grade; $name).ok == true;
+{
+  task: $run.task.name,
+  arm: $run.config.name,
+  timestamp: ($run_dir | split("/") | last),
+  started: $run.started,
+  run_dir: $run_dir,
+  graded: ($judge != null),
+  scored: (passed($judge; "transcript-check") and passed($judge; "extract-document") and $judge.score != null),
+  score: $judge.score,
+  tags: ($judge.tags // []),
+  # Merge the metrics of every check into one object, as smevals report does.
+  metrics: (if $judge == null then {} else [$judge.checks[].metrics // {}] | add // {} end),
+  repeat_score: (
+    if passed($repeat; "transcript-check") and passed($repeat; "extract-document") then $repeat.score
+    else null
+    end
+  )
+}
+JQ
+)
+
+# Print every head-to-head file as one JSON array (empty when there are none).
+collect_pairs() {
+  local runs_dir=$1
+  local pairwise_dir="$runs_dir/pairwise"
+  if [ -d "$pairwise_dir" ] && [ -n "$(ls "$pairwise_dir"/*.json 2>/dev/null)" ]; then
+    # -s reads every file into one array.
+    jq -s '.' "$pairwise_dir"/*.json
+  else
+    echo '[]'
+  fi
+}
+
+# Compute all summary numbers from the runs (JSON lines on stdin) and the head-to-head array.
+summarise() {
+  local pairs_json=$1
+  local program
+  # $(cat <<'JQ' ... JQ) holds the jq program in a variable; the quoted 'JQ' stops bash from expanding $ inside it.
+  program=$(cat <<'JQ'
+def rubric_items: ["agree", "honest", "works_the_facts", "right_comparison", "qualification", "objections", "fit"];
+def reference_files: ["read_karbach", "read_uses_of_argument", "read_toulmin_book"];
+def round3: if . == null then null else (. * 1000 | round) / 1000 end;
+def mean: if length == 0 then null else add / length end;
+def absolute: if . < 0 then -. else . end;
+def count_tag($tag): map(select(any(.tags[]; . == $tag))) | length;
+
+# Numbers for one arm, from all of its graded runs.
+def arm_stats:
+  . as $arm_runs
+  | ($arm_runs | map(select(.scored))) as $scored
+  | ($scored | map(.score)) as $scores
+  | ($scored | map(select(.repeat_score != null))) as $repeated
+  | {
+      scored_runs: ($scored | length),
+      mean_score: ($scores | mean | round3),
+      min_score: ($scores | min),
+      max_score: ($scores | max),
+      rubric: (
+        reduce rubric_items[] as $item ({};
+          .[$item] = ($scored | map(.metrics[$item] | select(. != null)) | mean | round3))
+      ),
+      trigger_failures: ($arm_runs | count_tag("trigger_failure")),
+      contaminated: ($arm_runs | count_tag("contaminated")),
+      format_failures: ($arm_runs | count_tag("format_failure")),
+      judge_repeat_runs: ($repeated | length),
+      judge_noise: ($repeated | map(.score - .repeat_score | absolute) | mean | round3)
+    };
+
+# Wins, ties and losses for the with-skill arm. The two orders of one pair make one result:
+# both orders name the same arm = that arm wins, anything else = tie. A pair with only one order judged is left out.
+def head_to_head:
+  group_by([.task, .pair])
+  | map(select(length == 2) | map(.winner_arm) | if .[0] == .[1] then .[0] else "tie" end)
+  | {
+      wins: map(select(. == "with-skill")) | length,
+      ties: map(select(. == "tie")) | length,
+      losses: map(select(. == "without-skill")) | length
+    };
+
+# One summary row from a set of runs and the head-to-head files that go with them.
+def row($name; $runs; $row_pairs):
+  ($runs | map(select(.graded))) as $graded
+  | ($graded | map(select(.arm == "with-skill"))) as $with_runs
+  | {
+      task: $name,
+      arms: {
+        "with-skill": ($with_runs | arm_stats),
+        "without-skill": ($graded | map(select(.arm == "without-skill")) | arm_stats)
+      },
+      reference_reads: (
+        reduce reference_files[] as $file ({};
+          .[$file] = ($with_runs | map(select(.metrics[$file] == true)) | length))
+      ),
+      head_to_head: ($row_pairs | head_to_head)
+    };
+
+. as $runs
+| ($runs | map(.task) | unique) as $tasks
+| {
+    tasks: [ $tasks[] as $task | row($task; $runs | map(select(.task == $task)); $pairs | map(select(.task == $task))) ],
+    total: row("total"; $runs; $pairs)
+  }
+JQ
+)
+  jq -s --argjson pairs "$pairs_json" "$program"
+}
+
+# Print the summary JSON (stdin) as markdown tables.
+render_markdown() {
+  local program
+  program=$(cat <<'JQ'
+def show: if . == null then "-" else tostring end;
+def score_cell: "\(.mean_score | show) (\(.min_score | show) to \(.max_score | show))";
+(.tasks + [.total]) as $rows
+| ($rows | map(.arms["with-skill"].judge_repeat_runs + .arms["without-skill"].judge_repeat_runs) | add) as $repeat_count
+| "## Judge score and failures",
+  "",
+  "| Task | With skill: scored runs | With skill: mean (low to high) | Without skill: scored runs | Without skill: mean (low to high) | Trigger failures | Contaminated runs | Format failures (with / without) | Read karbach | Read uses of argument | Read toulmin book | Head-to-head for with skill (win / tie / loss) |",
+  "|---|---|---|---|---|---|---|---|---|---|---|---|",
+  ($rows[] as $row
+   | ($row.arms["with-skill"]) as $with
+   | ($row.arms["without-skill"]) as $without
+   | "| \($row.task) | \($with.scored_runs) | \($with | score_cell) | \($without.scored_runs) | \($without | score_cell) | \($with.trigger_failures + $without.trigger_failures) | \($with.contaminated + $without.contaminated) | \($with.format_failures) / \($without.format_failures) | \($row.reference_reads.read_karbach) | \($row.reference_reads.read_uses_of_argument) | \($row.reference_reads.read_toulmin_book) | \($row.head_to_head.wins) / \($row.head_to_head.ties) / \($row.head_to_head.losses) |"),
+  "",
+  "## Rubric items (mean, 0 to 10)",
+  "",
+  "| Task | Arm | agree | honest | works_the_facts | right_comparison | qualification | objections | fit |",
+  "|---|---|---|---|---|---|---|---|---|",
+  ($rows[] as $row
+   | ("with-skill", "without-skill") as $arm
+   | ($row.arms[$arm].rubric) as $rubric
+   | "| \($row.task) | \($arm) | \($rubric.agree | show) | \($rubric.honest | show) | \($rubric.works_the_facts | show) | \($rubric.right_comparison | show) | \($rubric.qualification | show) | \($rubric.objections | show) | \($rubric.fit | show) |"),
+  # The noise table only appears when judge-repeat grades exist; "empty" prints nothing.
+  (if $repeat_count > 0 then
+     "",
+     "## Judge noise (mean absolute difference between judge and judge-repeat score of the same run)",
+     "",
+     "| Task | Arm | Runs with both scores | Mean absolute difference |",
+     "|---|---|---|---|",
+     ($rows[] as $row
+      | ("with-skill", "without-skill") as $arm
+      | ($row.arms[$arm]) as $stats
+      | "| \($row.task) | \($arm) | \($stats.judge_repeat_runs) | \($stats.judge_noise | show) |")
+   else empty
+   end)
+JQ
+)
+  jq -r "$program"
+}
+
+# Parse arguments and print the requested form.
+main() {
+  local mode=markdown
+  case "${1:-}" in
+    -h|--help) usage 0 ;;
+    --json) mode=json; shift ;;
+    --runs) mode=runs; shift ;;
+  esac
+  if [ $# -ne 1 ] || [ ! -d "$1" ]; then
+    usage 1
+  fi
+  # Remove a trailing slash so the pairwise prune path matches what find prints.
+  local runs_dir=${1%/}
+  if [ "$mode" = runs ]; then
+    collect_runs "$runs_dir"
+    return
+  fi
+  local pairs_json
+  pairs_json=$(collect_pairs "$runs_dir")
+  local summary_json
+  summary_json=$(collect_runs "$runs_dir" | summarise "$pairs_json")
+  if [ "$mode" = json ]; then
+    echo "$summary_json"
+  else
+    echo "$summary_json" | render_markdown
+  fi
+}
+
+main "$@"

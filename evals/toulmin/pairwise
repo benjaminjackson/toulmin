@@ -1,0 +1,201 @@
+#!/usr/bin/env bash
+# Blind head-to-head judge for the toulmin eval. smevals cannot pair runs, so this script does it.
+#
+#   pairwise <runs-dir>                                  judge every pair not judged yet
+#   pairwise --print-prompt <runs-dir> <task> <k> <order>  print the exact prompt for one pair and order, with no model call
+#
+# For each task, the scored runs of each arm (as `summary --runs` decides) are put in time order,
+# and the k-th with-skill run is paired with the k-th without-skill run (k counts from 1).
+# Each pair is judged twice: order 1 shows the with-skill document as A, order 2 shows it as B.
+# One JSON file per pair and order goes to <runs-dir>/pairwise/. A file that exists is not judged again.
+set -euo pipefail
+
+SCRIPT_DIR=$(cd "$(dirname "$0")" && pwd)
+# shellcheck source=lib/base.sh
+source "$SCRIPT_DIR/lib/base.sh"
+
+PARALLEL_CALLS=8
+VERDICT_SCHEMA='{"type":"object","properties":{"reason":{"type":"string"},"winner":{"type":"string","enum":["A","B","tie"]}},"required":["reason","winner"]}'
+
+# Print usage and exit with the given status.
+usage() {
+  echo "usage: pairwise <runs-dir>" >&2
+  echo "       pairwise --print-prompt <runs-dir> <task> <k> <order>" >&2
+  exit "$1"
+}
+
+# Print the run directory of the k-th scored run of one task and arm, in time order, or nothing if there is none.
+# Why: both the prompt and the result file need the same pairing, so it is worked out in one place.
+nth_scored_run() {
+  local runs_json=$1
+  local task=$2
+  local arm=$3
+  local index=$4
+  echo "$runs_json" | jq -rs --arg task "$task" --arg arm "$arm" --argjson index "$index" '
+    map(select(.task == $task and .arm == $arm and .scored))
+    | sort_by(.started)
+    | .[$index - 1].run_dir // empty'
+}
+
+# Print the judge prompt for one pair and order.
+# Arguments: the with-skill run directory, the without-skill run directory, the order (1 or 2).
+# The prompt holds only the reader, the brief and the two documents: no arm names, paths or tool names.
+build_prompt() {
+  local with_skill_run=$1
+  local without_skill_run=$2
+  local order=$3
+  local reader
+  reader=$(/opt/homebrew/bin/yq -r '.task.reader' "$with_skill_run/run.yaml")
+  local brief
+  brief=$(/opt/homebrew/bin/yq -r '.task.prompt' "$with_skill_run/run.yaml")
+  local document_a_file
+  local document_b_file
+  if [ "$order" = 1 ]; then
+    document_a_file="$with_skill_run/grades/judge/document.txt"
+    document_b_file="$without_skill_run/grades/judge/document.txt"
+  else
+    document_a_file="$without_skill_run/grades/judge/document.txt"
+    document_b_file="$with_skill_run/grades/judge/document.txt"
+  fi
+  printf 'You are this reader: %s\n\n' "$reader"
+  printf 'A writer was given the brief below. You, the reader, have not seen this brief. It is here only so that you know the facts the writer had.\n\n'
+  printf '<brief>\n%s\n</brief>\n\n' "$brief"
+  printf 'Two documents were written from this brief.\n\n'
+  printf '<document_a>\n%s\n</document_a>\n\n' "$(cat "$document_a_file")"
+  printf '<document_b>\n%s\n</document_b>\n\n' "$(cat "$document_b_file")"
+  printf 'As the reader described above, say which document is more likely to bring you to agree or act, while it stays honest to the facts in the brief. If neither is more likely, say tie. Give one or two sentences of reason, then the winner: "A", "B" or "tie".\n'
+}
+
+# Judge one pair in one order and write its result file. Prints one status line.
+# Arguments: runs directory, task, pair index k, order.
+judge_one() {
+  local runs_dir=$1
+  local task=$2
+  local index=$3
+  local order=$4
+  local result_file="$runs_dir/pairwise/$task-pair$index-order$order.json"
+  local runs_json
+  runs_json=$("$SCRIPT_DIR/summary" --runs "$runs_dir")
+  local with_skill_run
+  with_skill_run=$(nth_scored_run "$runs_json" "$task" with-skill "$index")
+  local without_skill_run
+  without_skill_run=$(nth_scored_run "$runs_json" "$task" without-skill "$index")
+  local prompt_file
+  prompt_file=$(mktemp)
+  build_prompt "$with_skill_run" "$without_skill_run" "$order" > "$prompt_file"
+  local response
+  # The judge's stderr is dropped; a failed call is caught below by the missing winner.
+  response=$(claude_stripped --model opus --tools "" --output-format json --json-schema "$VERDICT_SCHEMA" < "$prompt_file" 2>/dev/null) || true
+  rm -f "$prompt_file"
+  # The verdict arrives in .structured_output, or as JSON text in .result on some versions; try both.
+  # fromjson? returns nothing instead of an error when .result is not JSON.
+  local verdict
+  verdict=$(echo "$response" | jq -c '.structured_output // (.result | if type == "string" then (fromjson? // null) else . end)' 2>/dev/null) || true
+  if ! echo "$verdict" | jq -e '.winner == "A" or .winner == "B" or .winner == "tie"' > /dev/null 2>&1; then
+    echo "FAIL $task pair $index order $order: no valid verdict" >&2
+    return 1
+  fi
+  local a_arm=with-skill
+  if [ "$order" = 2 ]; then
+    a_arm=without-skill
+  fi
+  # Write to a temporary file first and rename it, so an interrupted run never leaves a half-written result.
+  echo "$verdict" | jq \
+    --arg task "$task" \
+    --argjson pair "$index" \
+    --argjson order "$order" \
+    --arg with_skill_run "$(basename "$with_skill_run")" \
+    --arg without_skill_run "$(basename "$without_skill_run")" \
+    --arg a_arm "$a_arm" '
+    {
+      task: $task,
+      pair: $pair,
+      order: $order,
+      with_skill_run: $with_skill_run,
+      without_skill_run: $without_skill_run,
+      a_arm: $a_arm,
+      winner: .winner,
+      winner_arm: (
+        if .winner == "tie" then "tie"
+        elif .winner == "A" then $a_arm
+        elif $a_arm == "with-skill" then "without-skill"
+        else "with-skill"
+        end
+      ),
+      reason: .reason
+    }' > "$result_file.tmp"
+  mv "$result_file.tmp" "$result_file"
+  echo "ok   $task pair $index order $order: $(jq -r .winner_arm "$result_file")"
+}
+
+# List every pair and order not judged yet, one "task k order" line each.
+list_missing_judgements() {
+  local runs_dir=$1
+  local runs_json
+  runs_json=$("$SCRIPT_DIR/summary" --runs "$runs_dir")
+  local task
+  for task in $(echo "$runs_json" | jq -rs 'map(.task) | unique | .[]'); do
+    local pair_count
+    pair_count=$(echo "$runs_json" | jq -s --arg task "$task" '
+      map(select(.task == $task and .scored))
+      | [(map(select(.arm == "with-skill")) | length), (map(select(.arm == "without-skill")) | length)]
+      | min')
+    local index
+    for ((index = 1; index <= pair_count; index++)); do
+      local order
+      for order in 1 2; do
+        if [ ! -f "$runs_dir/pairwise/$task-pair$index-order$order.json" ]; then
+          echo "$task $index $order"
+        fi
+      done
+    done
+  done
+}
+
+# Parse arguments and either print one prompt, judge one pair, or judge every missing pair in parallel.
+main() {
+  case "${1:-}" in
+    -h|--help)
+      usage 0
+      ;;
+    --print-prompt)
+      if [ $# -ne 5 ]; then
+        usage 1
+      fi
+      local runs_dir=${2%/}
+      local runs_json
+      runs_json=$("$SCRIPT_DIR/summary" --runs "$runs_dir")
+      local with_skill_run
+      with_skill_run=$(nth_scored_run "$runs_json" "$3" with-skill "$4")
+      local without_skill_run
+      without_skill_run=$(nth_scored_run "$runs_json" "$3" without-skill "$4")
+      if [ -z "$with_skill_run" ] || [ -z "$without_skill_run" ]; then
+        echo "pairwise: task $3 has no pair $4" >&2
+        exit 1
+      fi
+      build_prompt "$with_skill_run" "$without_skill_run" "$5"
+      ;;
+    --judge-one)
+      # Internal: one judge call, started by xargs below.
+      judge_one "$2" "$3" "$4" "$5"
+      ;;
+    *)
+      if [ $# -ne 1 ] || [ ! -d "$1" ]; then
+        usage 1
+      fi
+      local runs_dir=${1%/}
+      mkdir -p "$runs_dir/pairwise"
+      local missing
+      missing=$(list_missing_judgements "$runs_dir")
+      if [ -z "$missing" ]; then
+        echo "pairwise: every pair is already judged"
+        return 0
+      fi
+      # xargs -P runs up to PARALLEL_CALLS calls at once; -L 1 gives each call one "task k order" line.
+      # xargs exits non-zero if any call failed. Run the script again to retry only the failed ones.
+      echo "$missing" | xargs -P "$PARALLEL_CALLS" -L 1 "$SCRIPT_DIR/pairwise" --judge-one "$runs_dir"
+      ;;
+  esac
+}
+
+main "$@"
