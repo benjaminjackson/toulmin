@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T18:25:29.330075+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 426
+  tags: []
+  notes: extracted 426 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 5
+    honest: 5
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 6
+    objections: 6
+    fit: 7
+  details:
+    agree: The targets table, risk controls and direct invitation to the ad-background
+      members make a fair case, but key commitments (bridge funding, the staffing
+      plan, checkpoint numbers) are placeholders, so the two hardest members are left
+      with their biggest worries unanswered.
+    honest: The memo rightly backs off the brief's 'will replace' promise, but it
+      misreads the one-year 36% fall as 'about 20% a year' and claims one other newsroom's
+      result proves 'this model works for outlets like ours.'
+    works_the_facts: 'Annual pilot revenue, conversion rate and members needed are
+      all calculated correctly, but the 2027 ad projection rests on the wrong rate,
+      and the memo misses the strongest framing: at the pilot''s pace of 212 members
+      in six weeks, the 875 needed would be reached in about half a year.'
+    right_comparison: Showing the status quo as a shrinking ad base is the right comparison,
+      but the memo halves the real decline rate, so ads projected at $67k in 2027
+      should be closer to $54k, which understates the case for change.
+    qualification: Quarterly checkpoints and a six-month trigger with a named consequence
+      (options including bringing ads back) are the right structure, but the thresholds
+      and dates are blanks the board can't yet check.
+    objections: It deals with the sales colleague, offers sponsorships and a review
+      trigger, and asks the ad-experienced members for advice, but the January revenue
+      gap and the colleague's future are left as blanks.
+    fit: Clear memo form that runs to about a page, though the table and many sections
+      push against the one-page limit.

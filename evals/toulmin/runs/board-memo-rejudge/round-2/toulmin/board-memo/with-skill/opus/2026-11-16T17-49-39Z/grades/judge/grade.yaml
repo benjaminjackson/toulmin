@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T18:24:41.640724+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 496
+  tags: []
+  notes: extracted 496 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 9
+    right_comparison: 8
+    qualification: 9
+    objections: 6
+    fit: 8
+  details:
+    agree: The falling-ad trend and the modest one-third-of-pilot-pace target give
+      the skeptical members solid ground, but the two from advertising may still ask
+      why ads must end rather than run alongside membership while it grows.
+    honest: The memo replaces the brief's 'replace ads within a year' with a defensible
+      claim ($52,000 in 2027 against a projected $35,000, and full parity from 2028),
+      though the $35,000 projection assumes 2026 fell 36% again without saying so,
+      and '$20,350 a year' assumes no pilot members cancel.
+    works_the_facts: 'Every derived number checks out: $20,350, 1.5%, 35 a week, 875
+      members, 13 a week, about $52,000, $1,700 against $7,000, and 550 by June, and
+      the needed pace is set against the pace the pilot already reached.'
+    right_comparison: It compares membership with where ads are heading rather than
+      with a flat $84,000 and states the 36% one-year drop correctly, though the 2027
+      ad figure rests on an unstated assumption about 2026.
+    qualification: The June 30, 2027 checkpoint gives an on-track number (550), a
+      trigger number (450) and a consequence (options including going back to ad sales),
+      backed by monthly reports and a December cash-flow plan.
+    objections: 'It deals with slowing sign-ups, cancellations, cash flow and the
+      long-serving ad colleague, but it never answers the ad-background members''
+      most likely objection: why not keep selling ads, or sponsorships, while membership
+      builds up?'
+    fit: It is a tightly structured board memo that ends with a clear decision request,
+      at or just over the one page the brief asked for.

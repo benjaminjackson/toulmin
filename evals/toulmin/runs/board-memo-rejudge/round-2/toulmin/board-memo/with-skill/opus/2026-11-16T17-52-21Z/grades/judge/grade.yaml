@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T18:25:13.289606+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 418
+  tags: []
+  notes: extracted 418 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 6
+    honest: 5
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 8
+    objections: 6
+    fit: 7
+  details:
+    agree: The memo's case is clear and the checkpoint makes approving it lower-risk,
+      but the placeholders on why to stop ads and how to cover the gap leave the two
+      ad-background members with open questions, and it overstates how much 2027 will
+      cost.
+    honest: It frames replacing ad revenue as a target with a checkpoint rather than
+      a promise, but it says the 36% fall took two years (about 20% a year) when it
+      happened in one, which is a wrong statement of the brief's facts.
+    works_the_facts: The pilot's annual value, the 875-member target, the 13-a-week
+      pace needed against the 35 a week already reached and the mid-year figure are
+      all correctly derived, but spreading the drop over two years understates the
+      decline and inflates the projected 2027 shortfall.
+    right_comparison: It rightly compares membership with a shrinking ad line instead
+      of a flat $84,000, but at the real 36% yearly fall ads would bring about $54,000
+      in 2027, not $67,000, so the alternative looks better than it is and the $15,000
+      gap is close to $2,000.
+    qualification: The June 30, 2027 checkpoint has a target of 540, a trigger below
+      450 and a stated consequence (options at the July meeting, including sponsorships),
+      which the board can check and act on.
+    objections: It deals with the long-serving ad seller and the 2027 dip, but the
+      obvious question from the ad-background members, why not run both, is left as
+      a placeholder, and the dip is made to look bigger than the facts support.
+    fit: It is a tight memo of about one page with a clear decision request and recommendation,
+      though the bracketed placeholders mean it is not ready to send yet.

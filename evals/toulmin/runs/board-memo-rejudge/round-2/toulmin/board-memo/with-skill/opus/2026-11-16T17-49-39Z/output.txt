@@ -1,0 +1,59 @@
+I've drafted the memo, but I've worded the main claim differently from how you asked, for this reason.
+
+**Your figures don't support a flat "membership replaces ad revenue within a year."**
+- **What the year needs:** you'd need 875 members at $8 a month to match last year's $84,000 in ads. The pilot got you 212.
+- **What 2027 would actually bring in:** even if you hit 875 by December 2027, members join gradually through the year. So membership would bring in about $52,000 during 2027, not $84,000.
+- **Who will catch it:** your two board members from advertising and sales will spot that gap quickly. A promise you can't defend would hurt your credibility on the rest of the memo.
+
+**Your figures do support a strong case, and the memo leads with it:**
+- **Ads are falling fast:** they dropped 36% in one year. At that rate they'd bring in about $35,000 in 2027, so doing nothing doesn't keep $84,000.
+- **The pace you need is modest:** reaching 875 members by December 2027 means about 13 new members a week. The pilot got 35 a week with no marketing.
+- **The trade-off for 2027:** membership would likely bring in more next year than ads would. It would still be less than ads brought in last year, and the memo says so.
+
+So the memo says membership will reach an $84,000-a-year rate by December 2027. It sets a June checkpoint, and if you're behind it you come back to the board with options. That is a promise you can keep. If you'd still rather state the bold claim flatly, change the "The target" paragraph. The risks section will then need to do more work.
+
+**Before you send it:**
+1. **2026 ad revenue:** I estimated the decline because I don't have this year's figure. Use your real year-to-date number. If ads are falling as fast as I assumed, it strengthens your case.
+2. **Pilot members still paying:** if most of the 212 are still paying, put that number in the memo. It's the best answer to "people sign up and then cancel."
+3. **Lines I added that you should check:**
+   - The 550 "on track" and 450 "come back to the board" June thresholds are my suggestions. 550 is simply where the 13-a-week pace would put you.
+   - The memo commits you to bringing a cash-flow plan in December. In January, pilot members bring in about $1,700 a month, against roughly $7,000 a month from ads in 2025. Change this if you already have reserves or a plan.
+   - It also says you'll offer your ad salesperson a role in the membership program. Only keep that if it's true.
+4. **Your ad salesperson:** talk to them before the board sees this. They shouldn't find out about their job from a board packet, and the two sales-background members may well ask whether you have.
+5. **"Why not keep ads and add membership?"** Expect this question. The memo answers it only by pointing to the decline. If you have other reasons, add a sentence. Examples would be the cost of the part-time sales role, or ad-free reading as something members get.
+6. **The peer newsroom:** I used it only to show that membership can work at your size. One unnamed newsroom can't prove your own numbers.
+
+<final_document>
+**MEMO**
+
+**To:** Board of Directors
+**From:** [Name], Executive Director
+**Date:** November 2026
+**Re:** Replacing display advertising with reader membership from January 2027
+
+**Decision requested**
+Approve ending display advertising on January 1, 2027, and launching a paid reader membership program. The board would formally review it at its June 2027 meeting.
+
+**Why now**
+Display ads brought in $131,000 in 2024 and $84,000 in 2025, a 36% drop in one year. If the decline continues at that rate, ads will bring in about $35,000 in 2027. Keeping ads will not keep us at $84,000, because that revenue is already shrinking.
+
+**What the pilot showed**
+In a six-week pilot this spring, 212 readers joined at $8 a month, worth $20,350 a year. We did no marketing beyond two newsletter mentions. That is 1.5% of our 14,000 newsletter subscribers, at about 35 sign-ups a week.
+
+**The target**
+To match 2025 ad revenue in full, we need 875 members at $8 a month, about 6% of our newsletter list. Getting there by December 2027 means adding about 13 members a week. That is roughly a third of the pace the pilot reached without any promotion. If membership grows steadily toward that number, it will bring in about $52,000 during 2027. That is less than ads earned in 2025, but more than ads are on course to earn next year. From 2028 onward, membership at that level brings in the full $84,000 a year.
+
+A newsroom of our size in another state reports that membership now covers 40% of its budget. That does not prove our numbers, but it shows the model can work for an organization like ours.
+
+**Risks and how we will manage them**
+- *The pilot drew our most committed readers, so later sign-ups will be slower.* The target allows for this: it needs a third of the pilot's pace, not all of it.
+- *Members cancel.* I will report sign-ups and cancellations to the board monthly. The first report will include how many pilot members are still paying.
+- *Cash flow early in the year.* In January, pilot members will bring in about $1,700 a month. In 2025, ads averaged about $7,000 a month. I will bring a cash-flow plan for the first half of 2027 to the December meeting.
+- *Checkpoint.* We are on track if we have 550 members by June 30, 2027. If we have fewer than 450, I will bring the board options at that meeting, including returning to ad or sponsorship sales.
+
+**Our ad sales colleague**
+[Name] has sold our advertising part-time for 11 years. I will speak with them before the board discusses this memo. I propose offering them a role in the membership program.
+
+**Recommendation**
+Ad revenue is falling whether or not we act. Membership has already shown it can grow without marketing, and it reaches the target with a third of the pilot's pace. I recommend the board approve the move from January 1, 2027, and review it in June.
+</final_document>

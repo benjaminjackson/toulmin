@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T18:25:37.873913+00:00'
+outcome: pass
+score: 0.45
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 398
+  tags: []
+  notes: extracted 398 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.45
+  metrics:
+    agree: 5
+    honest: 4
+    works_the_facts: 5
+    right_comparison: 3
+    qualification: 8
+    objections: 6
+    fit: 7
+  details:
+    agree: The checkpoints, the fallback options and the respectful staffing paragraph
+      give the two advertising-background members reasons to vote yes, but the memo
+      invents a $17,000 shortfall and leaves its funding as a bracketed placeholder,
+      which gives the skeptics an easy reason to hold off.
+    honest: The memo says the $47,000 drop took two years when it happened in one,
+      and it states as fact that the decline is industry-wide and that more selling
+      won't reverse it, though nothing in the brief supports either claim.
+    works_the_facts: The pilot figures are worked correctly ($20,000 a year, 1.5%
+      of the list, 875 members as 6% of the list), but the ad trend uses the wrong
+      pace, which weakens the projection and hides the strongest true number.
+    right_comparison: Ads fell 36% in one year, so if nothing changes they would bring
+      in about $54,000 in 2026 and about $34,000 in 2027, not $67,000; against that
+      trend, $50,000 from membership would beat ads in year one instead of leaving
+      a gap.
+    qualification: The quarterly member targets have dates and numbers, and a miss
+      of more than 20% at June leads to named options, so the board can check progress,
+      though 'bring the board options' is a fairly soft consequence.
+    objections: The memo deals with the ad sales lead and offers a fallback that includes
+      non-display advertising, but it raises a year-one revenue-gap worry that the
+      correct ad trend would have answered.
+    fit: It is a one-page memo with clear headings and a decision request at the top,
+      but the bracketed placeholders leave key choices unmade.

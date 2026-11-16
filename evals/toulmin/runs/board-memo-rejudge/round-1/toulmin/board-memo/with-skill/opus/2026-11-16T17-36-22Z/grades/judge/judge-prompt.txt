@@ -1,0 +1,71 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+The seven board members of the nonprofit newsroom, who must vote on the proposal. Two of them come from advertising and sales backgrounds and will be the hardest to move. All of them know the part-time ad sales person, who has been with the newsroom for 11 years.
+</reader>
+
+<brief>
+Help me write a memo to our board. I run a small nonprofit newsroom with 9 staff. I want the board to approve dropping display ads and moving to a reader membership program from January.
+
+What I have:
+- Ads brought in $84,000 last year, down from $131,000 two years ago.
+- We ran a 6-week membership pilot in the spring. 212 readers signed up at $8 a month. We did no marketing beyond two newsletter mentions.
+- Our newsletter has 14,000 subscribers.
+- A newsroom about our size in another state told me membership now covers 40% of their budget.
+- Two of our seven board members come from advertising and sales backgrounds. Our ad sales person is part-time and has been with us for 11 years.
+
+I want the memo to say that membership will replace our ad revenue within a year. Keep it to one page.
+</brief>
+
+The person who wrote the brief adds this about its facts: The two ad figures are for two years in a row. Ads brought in $131,000 in the year before last and $84,000 last year, so the fall of $47,000 (36%) happened in one year.
+
+<document>
+**MEMO**
+
+**To:** Board of Directors
+**From:** [Name], Executive Director
+**Date:** [Date]
+**Re:** Replacing display advertising with reader membership from January 2027
+
+**Recommendation**
+I'm asking the board to approve ending display advertising on December 31, 2026 and launching a reader membership program in January 2027. Our target is 875 paying members by December 2027. At $8 a month, that replaces last year's ad revenue in full on an annual basis. I'll report the member count at every board meeting, and we'll have a formal decision point in July.
+
+**Why now**
+Ad revenue fell from $131,000 to $84,000 in two years, a drop of 36%, or about 20% a year. If that continues, ads will bring in about $67,000 in 2027 and less after that. The question is not whether we replace this income but how soon we start.
+
+**What the pilot showed**
+In a six-week pilot this spring, 212 readers joined at $8 a month. Our only promotion was two mentions in the newsletter. That's $20,352 a year in recurring revenue from 1.5% of our 14,000 newsletter subscribers. [X] of those 212 are still paying today.
+
+**What the target requires**
+875 members is 6% of our current newsletter list. Starting from the pilot base, we need about 55 new members a month. The pilot brought in about 150 a month without a campaign. A newsroom of our size in [state] now covers 40% of its budget through membership. Their market isn't ours, but it shows the model works for organizations like us.
+
+**Risks, stated plainly**
+- **2027 cash.** Members will join over the course of the year, so membership will bring in less cash in 2027 than ads would have, roughly $50,000 if we grow steadily to 875. We will cover the gap of about $[X] from [reserves / grant / cost reduction].
+- **Slower growth after launch.** The pilot reached our most engaged readers first, and later members will be harder to win. The target needs about a third of the pilot's monthly pace, which gives us room for that.
+- **Why not run both?** Keeping ads means continuing to pay the cost of selling them, about $[X] a year in staff time and ad-tech fees, for income that is falling 20% a year. [An ad-free site is also part of what members get.]
+
+**Our colleague in ad sales**
+[Name] has sold our advertising for 11 years. [Describe the plan: a role in the membership program, a transition period, or notice and severance terms.] They have been told about this proposal before this memo.
+
+**Checkpoint**
+By June 30, 2027 we should have 500 members. If we have fewer than 400, I will bring the board options at the July meeting, including [cost reductions / reintroducing advertising].
+
+**The board is asked to approve:**
+1. Ending display advertising on December 31, 2026.
+2. Launching reader membership in January 2027 with a target of 875 members by December 2027.
+3. A formal review at the July 2027 board meeting against the June 30 checkpoint.
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

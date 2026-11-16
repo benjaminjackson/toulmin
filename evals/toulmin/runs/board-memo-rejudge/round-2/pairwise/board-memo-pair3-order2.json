@@ -1,0 +1,11 @@
+{
+  "task": "board-memo",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T17-52-21Z",
+  "without_skill_run": "2026-11-16T17-51-07Z",
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "reason": "B makes a factual error: it calls the drop \"about 20% a year\" when the whole 36% fall happened in one year. It also leaves \"why stop ads rather than run both\" as a placeholder, which is the first question the sales-background members will ask. A answers that question, sets quarterly milestones and asks those members for their input."
+}

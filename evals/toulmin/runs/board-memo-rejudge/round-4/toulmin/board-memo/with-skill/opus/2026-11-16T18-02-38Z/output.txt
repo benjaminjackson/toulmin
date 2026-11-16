@@ -1,0 +1,51 @@
+I've drafted the memo, but I didn't write "membership will replace our ad revenue within a year" as a flat promise. Your numbers support aiming for it. They don't support guaranteeing it.
+
+**What the numbers show:**
+- **The target:** replacing $84,000 takes 875 members at $8 a month. The pilot got you 212, which is about a quarter of that. To reach 875 by December 2027 you'd need about 55 new members a month. The pilot brought in about 35 a week with almost no marketing, so the target looks reachable.
+- **Why it can't be promised:** the 212 were probably your most loyal readers, and some members will cancel. The other newsroom shows the model can work, but one example can't predict your results. Your two board members with sales backgrounds will run these same numbers.
+- **The case is stronger than "$84k vs. $20k":** ads fell 36% in one year. If they keep falling at that rate, they'd bring in about $54,000 this year and $35,000 in 2027. Keeping ads is not a safe $84,000.
+
+So the memo commits to the target and sets a checkpoint: 500 members by June 30, 2027. If you miss it, you bring the board a revised plan. A flat promise would be easy to pull apart and would hurt your credibility in July. If you still want it flat, change "Our target is that…" to "By December 2027, membership will…" and cut the checkpoint section.
+
+**Before you send it:**
+1. **Replace the 2026 ad figure.** The $54,000 is my projection from last year's drop. Use your real year-to-date number, especially if it's lower.
+2. **Check how many pilot members are still paying.** The memo assumes all 212. If some have cancelled, update the numbers. If most stayed, say so, because it's your best answer to "they'll cancel."
+3. **Decide what happens to your ad salesperson.** I left a blank on purpose. After 11 years, the board will ask, and the two sales-background members will care most. You might offer them a role in membership or sponsorship outreach, a transition period, or a severance package. Only you can choose.
+4. **Name the comparison newsroom** if they're happy for you to.
+5. **Be ready for "why not keep ads and add membership?"** The memo answers that ad-free is what members pay for and that ad revenue is falling anyway. That's reasoning, not data. If you have your own reasons, such as staff time spent selling ads or reader complaints, add one line.
+6. **Add the budget share if it helps.** I didn't know your total budget, so the memo doesn't say what share $84,000 is.
+
+<final_document>
+**MEMO**
+
+**To:** Board of Directors
+**From:** [Name], [Title]
+**Date:** November 2026
+**Re:** Approval to end display ads and launch reader membership on January 1, 2027
+
+**Decision requested**
+I'm asking the board to approve ending display advertising on December 31 and launching a reader membership program on January 1. Our target is that by December 2027, membership will be bringing in $84,000 a year, the same as our ads did last year.
+
+**Ads are declining, so staying put is not a safe option**
+Ad revenue fell from $131,000 to $84,000 in one year, a 36% drop. If that rate continues, ads will bring in about $54,000 this year and $35,000 in 2027. Keeping ads means relying on a shrinking source of income.
+
+**What the pilot showed**
+In a six-week spring pilot, 212 readers joined at $8 a month. We did no marketing beyond two newsletter mentions. That's about 35 new members a week, and $20,352 a year in revenue, already a quarter of last year's ad income. Those members came from just 1.5% of our 14,000 newsletter subscribers.
+
+**What the target takes**
+To bring in $84,000 a year, we need 875 members, about one in every 16 newsletter subscribers. Starting from 212, that means adding about 55 members a month through 2027, or roughly 13 a week. The pilot added 35 a week with almost no effort. A newsroom of our size in [state] now gets 40% of its budget from membership, which shows this model can work for outlets like ours.
+
+**What could go wrong, and how we'll handle it**
+- *The pilot drew our most loyal readers first.* Later members will be harder to win. I propose promoting membership in every newsletter and across the site from January, which the pilot never did.
+- *Members cancel.* We'll track cancellations every month and report them to the board each quarter.
+- *Why not keep ads alongside membership?* An ad-free site is the clearest thing we can offer members for their money, and ad income is falling either way.
+
+**Checkpoint**
+By June 30, 2027, we'll aim to have 500 members, worth about $48,000 a year. If we're short, I'll bring the board a revised 2027 budget in July, along with a recommendation on whether to resume ad sales.
+
+**Our ad sales colleague**
+[Name] has sold our ads part-time for 11 years. I propose [transition plan: e.g., a role in membership and sponsor outreach / a transition period / severance terms].
+
+**If the board says no**
+We keep relying on income that dropped by a third last year, and we lose the momentum of 212 readers who signed up with almost no prompting.
+</final_document>

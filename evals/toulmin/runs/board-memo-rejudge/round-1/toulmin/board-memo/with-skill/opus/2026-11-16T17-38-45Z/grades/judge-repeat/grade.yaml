@@ -1,0 +1,57 @@
+grader: judge-repeat
+graded: '2026-11-16T17:40:48.533656+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 444
+  tags: []
+  notes: extracted 444 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 9
+    right_comparison: 9
+    qualification: 8
+    objections: 7
+    fit: 8
+  details:
+    agree: 'The arithmetic, the June checkpoint and the sponsorship fallback give
+      the ad-background members solid ground, but key answers are still placeholders:
+      why ads and membership can''t run side by side, how the gap will be funded,
+      and the plan for the sales colleague.'
+    honest: The memo doesn't claim membership will definitely replace ads; it says
+      this happens only 'if we stay on target'. It admits the pilot pace won't hold
+      and that the other newsroom's market differs, and it uses brackets for unknowns
+      like retention and cost savings rather than making up numbers.
+    works_the_facts: 'Every derived figure checks out against the brief: the 20%-a-year
+      decline, $67k projected ad revenue, 1.5% conversion, $20k annual value, 875
+      and 700 members needed, 55 a month needed against the pilot''s 150, about $55k
+      collected in 2027 and about 540 members by June.'
+    right_comparison: "It compares membership with where ad revenue is heading ($67k),\
+      \ not with last year's $84k, and states the shortfall as a $12k\u2013$29k range\
+      \ covering both cases."
+    qualification: The June 30 checkpoint has a date, an expected count (540), a trigger
+      threshold and a consequence (a return to the board with options, including sponsorships),
+      though the threshold is still a bracketed [450].
+    objections: It deals with the obvious objections (the pilot's early adopters,
+      the revenue dip, the colleague's job, a way back), but the case for not running
+      both models at once and the cancellation rate, the points the sales-background
+      members will push hardest, are left blank.
+    fit: It's a clean decision memo of about one page with clear headings and the
+      ask stated up front, though it is close to the length limit.

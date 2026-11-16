@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T18:24:44.620310+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 481
+  tags: []
+  notes: extracted 481 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 6
+    honest: 5
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 9
+    objections: 6
+    fit: 8
+  details:
+    agree: The memo is clear and well-structured, with a checkpoint and a plan for
+      the ad sales lead, but the board members from advertising will see that it never
+      says why ads have to end rather than run alongside membership, so they may not
+      be moved.
+    honest: It treats the $131,000-to-$84,000 fall as two years of decline ("about
+      20% a year") when it happened in a single year, and it claims one peer newsroom's
+      result proves "the model works at our scale."
+    works_the_facts: 'The figures are worked out well (150 members a month, 875 members
+      needed, 55 a month required, about $52,000 in 2027), but the misread ad decline
+      takes away the strongest true fact: ads fell 36% in one year.'
+    right_comparison: It frames doing nothing as a decline and projects it forward,
+      but at 20% a year instead of the real 36%, so 2027 ads come out at $67,000 instead
+      of about $54,000, and the year-one cash gap looks about $13,000 worse than it
+      is.
+    qualification: The checkpoint names a number (540 members), a date (30 June 2027)
+      and a consequence (a revised plan within 30 days), and the board can check all
+      three.
+    objections: 'It covers early-joiner bias, cancellations, the cash gap and the
+      ad lead''s job, but it leaves out the objection the ad-background members are
+      most likely to raise: why not keep the ads while membership grows?'
+    fit: It is a proper board memo with a clear decision request, about one page long,
+      as the brief asked.

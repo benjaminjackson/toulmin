@@ -1,0 +1,53 @@
+grader: judge
+graded: '2026-11-16T18:26:02.140163+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 450
+  tags: []
+  notes: extracted 450 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 8
+    objections: 7
+    fit: 7
+  details:
+    agree: The milestones, the June fallback and the new role for the long-serving
+      ad seller give the sales-minded members real reasons to vote yes, but understating
+      how fast ads are falling weakens the strongest argument for acting now.
+    honest: It properly turns the brief's 'will replace' into a goal with checkpoints,
+      but it says the 36% drop took two years when it took one, and it adds an unsupported
+      claim that ads slow the site and hurt trust.
+    works_the_facts: 'The 875-member target, the 1.5% and 6.25% shares and the $20,400
+      run rate are correct, but it misses the strongest pace comparison: the pilot
+      gained about 35 members a week, while the target needs only about 13 a week.'
+    right_comparison: Spreading the decline over two years gives a soft forecast of
+      about $65K, when a 36% one-year fall points to about $54K, so the memo overstates
+      the alternative and the transition gap.
+    qualification: Quarterly milestones and a checkable trigger (fewer than 500 members
+      by June 30, after which the board gets options including bringing back ads)
+      give a clear date, number and consequence.
+    objections: It answers the obvious worries about staffing, ad decline and accountability,
+      and it invites the sales experts in, but it doesn't address member churn or
+      whether the pilot's early sign-ups were unusually eager.
+    fit: It uses a proper board-memo format with a clear decision request, though
+      with the table and seven sections it is close to or slightly over one page.

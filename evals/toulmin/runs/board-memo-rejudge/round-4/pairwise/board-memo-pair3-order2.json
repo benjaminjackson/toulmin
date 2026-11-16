@@ -1,0 +1,11 @@
+{
+  "task": "board-memo",
+  "pair": 3,
+  "order": 2,
+  "with_skill_run": "2026-11-16T18-02-38Z",
+  "without_skill_run": "2026-11-16T18-01-51Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "reason": "B states the ad decline correctly (36% in one year) and uses it to show that keeping ads isn't safe. Its June checkpoint, with the option to resume ad sales, should reassure the ad-background members. A wrongly says the drop took two years, which understates the urgency, though A does address the 2027 transition gap that B leaves out."
+}

@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T18:25:19.814209+00:00'
+outcome: pass
+score: 0.55
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 370
+  tags: []
+  notes: extracted 370 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.55
+  metrics:
+    agree: 6
+    honest: 5
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 8
+    objections: 7
+    fit: 8
+  details:
+    agree: The memo is clear and sets a checkpoint, and it handles the colleague with
+      care, but it leaves the cash gap as an open promise ('I will propose'), which
+      gives the two ad-background members room to resist.
+    honest: The memo reads the two ad figures as two years apart and calls the fall
+      'about 20% a year', but the facts show a 36% drop in a single year, so both
+      the trend and the projections built on it are wrong, even though the error makes
+      the case look weaker rather than stronger.
+    works_the_facts: The membership numbers are derived correctly (875 members, 6.25%
+      of the list, $20,350, about $52k collected in the first year), but the ad projections
+      rest on the misread rate; the true pace would put 2027 ads near $54k, roughly
+      level with first-year membership cash, and that stronger true version is lost.
+    right_comparison: The status quo is presented as falling, which is the right frame,
+      but the memo understates how fast ads are falling ($67k/$54k instead of about
+      $54k/$34k), so the alternative looks much better than the facts show.
+    qualification: The June 30 checkpoint names a date, a number (550 members) and
+      a consequence (options at the July meeting), and cancellations are tracked at
+      every board meeting, though the hedge on the cash gap has no figure or date
+      attached.
+    objections: It deals with cancellations, first-year cash and the 11-year colleague,
+      which are what the ad-background members will raise, but it never considers
+      a hybrid option or explains why ads can't be kept alongside membership, and
+      its stated cash gap is larger than the true one.
+    fit: It is a properly formatted memo of about one page with a clear decision request
+      and short sections, as the brief asked.

@@ -1,0 +1,59 @@
+grader: judge
+graded: '2026-11-16T18:25:13.464012+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 444
+  tags: []
+  notes: extracted 444 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 5
+    honest: 5
+    works_the_facts: 6
+    right_comparison: 3
+    qualification: 7
+    objections: 5
+    fit: 7
+  details:
+    agree: 'The pilot arithmetic and the June checkpoint are persuasive, but the ad-background
+      members are left with blanks exactly where they will push hardest: why not run
+      both, how the gap is funded, what happens to the sales colleague, and how many
+      pilot members are still paying.'
+    honest: The memo rightly softens the 'replace within a year' claim, but it calls
+      the $47,000 drop a decline over 'two years' at 'about 20% a year' and says ads
+      'fell two years running', which misstates a single one-year fall of 36%.
+    works_the_facts: The membership figures are well derived and check out (about
+      $20,000 a year from the pilot, 875 members needed, 55 a month needed against
+      roughly 150 a month already reached, about 540 by June), but the ad trend is
+      smoothed into a weaker form when the true 36% one-year fall would strengthen
+      the case.
+    right_comparison: "The no-change alternative is projected at $67,000 for 2027\
+      \ from a wrongly annualised 20% decline; if the actual 36% fall continued, ads\
+      \ would bring in about $54,000, which nearly erases the stated $12,000\u2013\
+      $29,000 gap."
+    qualification: The checkpoint has a date (June 30), an expected count (about 540),
+      a trigger (under 450, still bracketed) and a consequence (return to the board
+      in July with options, including sponsorships), though the gap-funding hedge
+      is still an unfilled placeholder.
+    objections: The memo names the right objections (the revenue gap, why not run
+      ads and membership side by side, the 11-year colleague) but answers the side-by-side
+      and colleague questions only with placeholders, and it understates how fast
+      ads are declining, which is the strongest reply to the ad-background members.
+    fit: It is a tight, one-page board memo with a clear decision request, though
+      it has several unfilled placeholders, some of them substantive.

@@ -1,0 +1,11 @@
+{
+  "task": "board-memo",
+  "pair": 2,
+  "order": 2,
+  "with_skill_run": "2026-11-16T17-37-32Z",
+  "without_skill_run": "2026-11-16T17-37-06Z",
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "reason": "Both memos misstate the ad decline in the same way: each spreads the 36% one-year drop over two years and projects about $67,000 for 2027, so neither is more honest. B is more persuasive to the board members from advertising and sales. It answers \"why not run both,\" counts the cost of selling ads, states the 2027 cash gap more fully with a clear checkpoint, and offers a concrete role for the colleague of 11 years where A leaves a placeholder."
+}

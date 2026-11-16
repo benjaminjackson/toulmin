@@ -1,0 +1,56 @@
+grader: judge-repeat
+graded: '2026-11-16T17:40:31.631761+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 426
+  tags: []
+  notes: extracted 426 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 7
+    honest: 8
+    works_the_facts: 9
+    right_comparison: 8
+    qualification: 9
+    objections: 7
+    fit: 8
+  details:
+    agree: The memo makes a disciplined, numbers-led case with a June checkpoint and
+      a fallback to sponsorship, which should reach the ad-background members, but
+      the open placeholders on 'why not run both', the cash gap and the ad-sales colleague
+      leave the hardest questions unanswered for now.
+    honest: Every figure traces to the brief and the memo rightly turns 'will replace
+      within a year' into a goal; it does treat the 212 pilot members as retained
+      without mentioning churn, and it states the staff-time saving as fact while
+      flagging it only with a placeholder.
+    works_the_facts: "The derived figures all check out and each one helps the case:\
+      \ the 20% annual decline, the $67k projection for 2027, $20k from the pilot,\
+      \ 875 members at 6.25% of the list, 13 a week needed against the pilot's 35\
+      \ a week, $52k of 2027 cash and a $15k\u2013$32k gap."
+    right_comparison: It compares membership with ads as they are trending (about
+      $67k in 2027 and falling) rather than with a flat $84k, and it states the 2027
+      cash gap against both baselines.
+    qualification: 'The checkpoint is concrete and checkable: fewer than 550 members
+      by June 30, 2027 triggers options at the July board meeting. The ''one example
+      is not a forecast'' hedge is also stated accurately.'
+    objections: It meets the likely objections (sign-ups slowing, 2027 cash, running
+      ads alongside membership, the 11-year colleague), but several answers are bracketed
+      placeholders and member churn is never raised.
+    fit: This is a properly formatted board memo that runs to about one page, though
+      the many bracketed placeholders mean it isn't ready to send yet.

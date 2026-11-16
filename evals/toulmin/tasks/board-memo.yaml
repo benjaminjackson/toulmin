@@ -1,5 +1,6 @@
 name: board-memo
 reader: "The seven board members of the nonprofit newsroom, who must vote on the proposal. Two of them come from advertising and sales backgrounds and will be the hardest to move. All of them know the part-time ad sales person, who has been with the newsroom for 11 years."
+judge_note: "The two ad figures are for two years in a row. Ads brought in $131,000 in the year before last and $84,000 last year, so the fall of $47,000 (36%) happened in one year."
 prompt: |-
   Help me write a memo to our board. I run a small nonprofit newsroom with 9 staff. I want the board to approve dropping display ads and moving to a reader membership program from January.
 

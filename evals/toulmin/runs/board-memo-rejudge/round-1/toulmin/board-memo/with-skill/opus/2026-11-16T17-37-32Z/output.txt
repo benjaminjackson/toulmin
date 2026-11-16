@@ -1,0 +1,50 @@
+I used the Toulmin argument skill to plan this before writing it.
+
+**The main problem: your facts don't support "membership will replace our ad revenue within a year."** The pilot brings in about $20,000 a year (212 × $96). To match last year's $84,000 you need 875 members, about four times what the pilot got. The other newsroom is one unnamed example. Two of your board members come from advertising, and they will check whether the pilot is enough evidence. As a flat promise, I don't think the claim would hold up.
+
+**Your own numbers make a stronger case than you used:**
+- **Ads are falling fast.** They dropped 36% in two years, roughly 20% a year. If that continues, ads bring in about $67,000 in 2027, not $84,000. Matching that takes about 700 members.
+- **The pace needed is slower than the pace you already hit.** Reaching 875 members by December 2027 means adding about 13 a week. The pilot added about 35 a week with almost no marketing.
+
+**What I wrote instead.** The memo sets a firm target: membership revenue running at $84,000 a year by December 2027. It adds a checkpoint so the board doesn't have to take the target on trust: 550 members by June 30, or you come back with options. With only a one-time decision on the table, I'd expect the two ad-industry members to push to keep running ads. A checkpoint gives them a reason to approve. If you'd rather keep the flat claim, I can rewrite it that way, but I think it's the version they would argue against.
+
+**Things to check or fill in before you send it:**
+1. **Cash in the first year.** Members sign up gradually, so 2027 will bring in less than a full year at the target rate. I estimate about $52,000. That's a gap of roughly $15,000–$32,000 compared with ad income. The board will work this out themselves, so the memo says where the money comes from. You need to fill that in.
+2. **Are the 212 pilot members still paying?** The math assumes they are. If they aren't, the starting point is lower and the memo needs changing.
+3. **Why drop ads instead of running both?** You didn't give me a reason. I used "ad-free reading is the main member benefit, and it frees staff time." Replace that with your real reason if it's different.
+4. **Your ad sales colleague.** The board may know them personally after 11 years. Talk to them before the meeting, and put your actual plan in the bracket.
+5. **Brackets.** Fill in the names, the peer newsroom's state, the marketing plan, and how much you save by not selling ads.
+
+<final_document>
+**MEMO**
+
+**To:** Board of Directors
+**From:** [Name], Executive Director
+**Date:** [Date]
+**Re:** Replacing display advertising with reader membership from January 2027
+
+**Decision requested**
+Approve ending display advertising on December 31, 2026 and launching a reader membership program in January 2027, with a board review at mid-year.
+
+**Why change now**
+Ad revenue fell from $131,000 to $84,000 in two years, a 36% drop. If it keeps falling at that rate (about 20% a year), ads will bring in roughly $67,000 in 2027 and less after that. Staying with ads means managing a decline.
+
+**What the pilot showed**
+In a six-week pilot this spring, 212 readers joined at $8 a month. The only promotion was two mentions in the newsletter. That is 1.5% of our 14,000 newsletter subscribers, and about $20,000 a year in recurring revenue for almost no effort. A newsroom of our size in [state] says membership now covers 40% of its budget. One example is not a forecast, but it shows the model can support a newsroom like ours.
+
+**The target**
+To match last year's $84,000 in ad revenue we need 875 members, or 6.25% of our newsletter list. To match what ads are likely to earn in 2027, we need about 700. Reaching 875 by December 2027 means adding about 13 members a week. The pilot added 35 a week without a campaign.
+
+**Our goal: membership revenue running at $84,000 a year by December 2027.**
+
+**Why not run both**
+An ad-free site is the clearest benefit we can offer members, and dropping ads frees the staff time that now goes into selling them. [Confirm or replace with your reason.]
+
+**Risks and how we will manage them**
+- **Sign-ups will slow.** The pilot reached our most loyal readers first, and later members will be harder to win. We will promote actively through [newsletter campaign, on-site asks, year-end drive].
+- **Cash in 2027.** Members will build up over the year, so we expect to collect about $52,000 in 2027. That is $15,000–$32,000 less than ads would bring in. We will cover the gap with [reserves / grant / other], partly offset by [$X] we will no longer spend selling ads.
+- **Checkpoint.** If we have fewer than 550 members by June 30, 2027, I will bring the board options at the July meeting, including underwriting and sponsorship.
+- **Our colleague in ad sales.** [Name] has been with us for 11 years. [Plan, e.g. we are offering a role in membership and sponsorship development.]
+
+I am asking the board to approve this change at the [date] meeting.
+</final_document>

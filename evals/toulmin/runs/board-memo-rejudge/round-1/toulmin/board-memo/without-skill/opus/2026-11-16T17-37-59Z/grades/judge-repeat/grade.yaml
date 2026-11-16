@@ -1,0 +1,56 @@
+grader: judge-repeat
+graded: '2026-11-16T17:41:40.310416+00:00'
+outcome: pass
+score: 0.7
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 441
+  tags: []
+  notes: extracted 441 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.7
+  metrics:
+    agree: 6
+    honest: 8
+    works_the_facts: 7
+    right_comparison: 7
+    qualification: 8
+    objections: 5
+    fit: 8
+  details:
+    agree: The falling-ad trend, the pilot math and the milestone checks make a credible
+      case, but the ad-background members are never told why ads must end rather than
+      run alongside membership, and several key numbers are still blank.
+    honest: The memo turns the brief's 'will replace' into a stated goal with checkpoints,
+      and every figure traces to the brief; the one soft spot is 'ambitious but achievable',
+      which goes slightly beyond the evidence.
+    works_the_facts: 'The derived figures are correct: a 36% decline, about $67k projected
+      for next year, $20,350 a year from the pilot, 875 members needed (6% of the
+      list), and dollar values for each milestone. It misses the most favourable true
+      framing, that the pilot added about 35 members a week with almost no promotion.'
+    right_comparison: The memo compares membership against a falling ad line rather
+      than a flat one, and it notes that net ad revenue is what needs replacing, but
+      it then sets the target against the full $84k gross, which is inconsistent with
+      that point (though conservative).
+    qualification: 'The hedge is checkable: dated member counts at March, June and
+      December, a board review in June, and named options if the plan falls well short,
+      though ''well short'' is never defined as a number.'
+    objections: 'The memo deals with the transition for the long-serving ad colleague
+      and with the cash gap, but leaves both largely as placeholders, and it never
+      answers the sales-minded members'' obvious questions: why drop ads instead of
+      running both, and whether pilot sign-ups will last.'
+    fit: It is in proper board memo form and roughly one page, though the bracketed
+      placeholders mean it is not yet ready to send.

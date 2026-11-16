@@ -1,0 +1,58 @@
+grader: judge
+graded: '2026-11-16T18:25:13.099141+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 441
+  tags: []
+  notes: extracted 441 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 7
+    honest: 9
+    works_the_facts: 8
+    right_comparison: 8
+    qualification: 9
+    objections: 6
+    fit: 8
+  details:
+    agree: The pace arithmetic (13 a week needed against 35 a week reached) and the
+      June checkpoint give even the ad-background members something concrete to vote
+      on, but the bracketed placeholder for a colleague they have known 11 years and
+      the silence on 2027 cash flow leave them room to hold back.
+    honest: The memo turns the brief's 'will replace within a year' into a stated
+      target, every figure checks against the brief, and the ad projection is marked
+      'if that rate continues'; only 'momentum' and 'almost no effort' lean slightly
+      on the pilot.
+    works_the_facts: It derives annual pilot revenue ($20,352), the share of subscribers
+      who joined, members needed (875), the monthly and weekly pace against the pilot's
+      pace, and projected ad decline, but it never sets average 2027 membership income
+      (about $50k on the ramp) against the projected $35k from ads, which is the most
+      favourable true comparison.
+    right_comparison: The memo describes the status quo correctly as a one-year 36%
+      fall projected forward, not as a steady $84k, though it still sets the target
+      at last year's $84k rather than at the smaller sum ads would likely bring in.
+    qualification: The June 30, 2027 checkpoint names a number (500 members, $48k),
+      a date, and a consequence (a revised budget and a recommendation on resuming
+      ads in July), and the board can check all of it.
+    objections: It deals with pilot self-selection, cancellations and running both
+      models, but the ad-sales colleague's future is left as a placeholder and it
+      doesn't address the revenue gap in the transition months, which is what the
+      sales-minded members will push on.
+    fit: It's a proper board memo with a clear decision request and tight sections,
+      probably just one page, though the placeholders mean it isn't ready to send.

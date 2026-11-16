@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T18:26:18.202346+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 373
+  tags: []
+  notes: extracted 373 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 7
+    objections: 6
+    fit: 8
+  details:
+    agree: The memo makes a clear, staged ask with checkpoints and a staffing plan
+      the board will appreciate, but the ad-background members can still argue the
+      case for keeping $84,000 of real money, because the memo understates how fast
+      ads are falling and never shows that the pilot's pace already beats what the
+      target needs.
+    honest: "The memo rightly softens 'will replace' to a stated goal and invents\
+      \ no numbers, but it says the $47,000 drop happened 'in two years' when it happened\
+      \ in one, and its $60,000\u2013$67,000 projection rests on that mistake."
+    works_the_facts: 'The pilot''s annual value (~$20,000), its 1.5% conversion, and
+      the targets of 875 and 680 members are all calculated correctly, but the memo
+      misses the strongest number: 212 sign-ups in six weeks is about 35 a week, while
+      1,000 a year needs only about 19 a week.'
+    right_comparison: "The memo does compare against keeping ads, but it treats a\
+      \ one-year 36% fall as a two-year trend, so the status quo looks better than\
+      \ it is (about $54,000 next year if the trend holds, not $60,000\u2013$67,000)."
+    qualification: The June 30 checkpoint is checkable, with a number (400 members),
+      a date and a consequence (options including sponsorships come back to the board);
+      the retention and cash-gap points are still unfilled placeholders.
+    objections: The memo deals with the long-serving ad salesperson and offers sponsorships
+      as a fallback, which speaks to the sales-minded members, but the 'why give up
+      $84,000 now' objection is only partly met and the cash-gap answer is left blank.
+    fit: It is in proper memo form, ends with a motion, and runs to about one page,
+      though the bracketed placeholders mean it isn't ready to send.

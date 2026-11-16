@@ -1,0 +1,60 @@
+grader: judge
+graded: '2026-11-16T18:25:29.009638+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 409
+  tags: []
+  notes: extracted 409 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 5
+    right_comparison: 4
+    qualification: 8
+    objections: 6
+    fit: 8
+  details:
+    agree: The memo gives clear math, checkpoints and a fallback, and it handles the
+      ad sales person respectfully, so most of the board could vote yes. But the two
+      ad-background members are never told why ads must end entirely rather than run
+      alongside membership, and they would likely push back on that.
+    honest: 'It is mostly careful: it presents full replacement as a goal, admits
+      a $30,000 first-year gap, and leaves a placeholder for pilot retention. However,
+      it says the ad decline happened ''over two years'' when it happened in one,
+      it adds an unsupported claim that ads slow the site, and it says one other newsroom
+      ''shows the model works at our scale'', which overstates a single example.'
+    works_the_facts: The figures for 875 members, 6% of the list, 1.5% conversion
+      and about $50,000 in year one are all correctly derived. But it spreads the
+      36% fall across two years, so its projection of about $65,000 understates what
+      continuing at last year's rate would give (about $54,000), and the case for
+      change ends up weaker than the facts support.
+    right_comparison: It does describe the status quo as a shrinking source and projects
+      it forward. But by treating a one-year 36% collapse as a two-year trend, it
+      makes keeping ads look roughly twice as safe as the facts show.
+    qualification: 'The checkpoints are dated and numbered, and the June 30 one comes
+      with a concrete consequence: below 450 members, staff will return with options
+      including bringing back some ads. The March and December checkpoints have no
+      stated consequence if they are missed.'
+    objections: It answers the staffing worry well and gives a midyear point at which
+      ads could come back. It does not answer the sales-minded members' likely question
+      of why the newsroom can't keep shrinking ad revenue while membership builds.
+    fit: It is a properly formatted board memo, about one page, with a recommendation
+      up front and a clear requested action at the end. It may run slightly over a
+      page once the placeholders are filled in.

@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T18:25:02.387863+00:00'
+outcome: pass
+score: 0.8
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 473
+  tags: []
+  notes: extracted 473 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.8
+  metrics:
+    agree: 8
+    honest: 8
+    works_the_facts: 9
+    right_comparison: 9
+    qualification: 9
+    objections: 8
+    fit: 8
+  details:
+    agree: The memo gives the advertising-minded members a clear trend, workable targets
+      and a March off-ramp that includes going back to ad sales, and it treats the
+      11-year colleague with respect, so even the resisters have concrete reasons
+      to approve.
+    honest: The memo softens the brief's 'will replace' to 'we expect' and is open
+      about early-adopter bias and cancellations, but 'real marketing behind it' is
+      a plan the brief never mentions, and the $34,000 projection quietly assumes
+      two more years of 36% decline.
+    works_the_facts: 'All the derived figures check out: $20,352 a year, 1.5% of the
+      list, 875 members (6.25%), 55 a month needed against about 150 a month achieved,
+      and roughly $52,000 of membership revenue in the ramp-up year. Each is put in
+      its strongest true form.'
+    right_comparison: Staying with ads is shown as what it is, a 36% fall in a single
+      year with the projection carried forward, which correctly frames 'do nothing'
+      as a shrinking option rather than a safe one.
+    qualification: 'The three dated member counts follow the required pace, and missing
+      the March checkpoint has a named consequence: options brought to the board in
+      April, including resuming some ad sales.'
+    objections: The memo answers the resisters' obvious question, why not run both,
+      and addresses the sales colleague directly, though the case for focusing on
+      membership rests on staff attention rather than numbers.
+    fit: It's a properly formatted board memo with the decision stated up front, and
+      at about 550 words it fits roughly one page.

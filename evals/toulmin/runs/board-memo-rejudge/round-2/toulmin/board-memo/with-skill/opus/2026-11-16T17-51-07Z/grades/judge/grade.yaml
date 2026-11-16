@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T18:24:57.479472+00:00'
+outcome: pass
+score: 0.5
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 432
+  tags: []
+  notes: extracted 432 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.5
+  metrics:
+    agree: 5
+    honest: 5
+    works_the_facts: 3
+    right_comparison: 3
+    qualification: 7
+    objections: 4
+    fit: 7
+  details:
+    agree: Board members from ad and sales would likely go along with the checkpoints
+      and the fallback, but the memo has many unfilled placeholders, including the
+      'why not both' reason and the plan for the ad lead, and it understates how fast
+      ads are falling, so the strongest argument is missing.
+    honest: It says ads fell from $131,000 'two years earlier' when the drop happened
+      in one year, and it rounds the pilot pace of about 141 a month up to 'about
+      150'; it does, however, soften the brief's 'replace within a year' claim to
+      something the facts support.
+    works_the_facts: 'The member-count, monthly-pace and checkpoint figures are correct,
+      but the trend is calculated as if the drop took two years: at the real 36% yearly
+      fall, ads would be about $54k in 2026 and about $34k in 2027, not $67k, so the
+      $15k ''gap'' it reports is really a membership advantage of about $18k.'
+    right_comparison: It does give a trend for keeping ads, but it halves the actual
+      rate of decline, so the status quo looks much stronger than the facts show.
+    qualification: The March and June checkpoints have dates, member numbers and a
+      stated consequence (options brought back to the board), though the 20% threshold
+      and the fallback options are left as placeholders.
+    objections: It names the likely objections (pilot retention, why not keep both,
+      the 11-year ad seller), but each answer is a placeholder, and it brings up a
+      first-year shortfall that the correct ad trend would have shown doesn't exist.
+    fit: It is a one-page board memo with a clear decision request and sections, as
+      the brief asked, though the many bracketed gaps mean it isn't ready to send.

@@ -1,0 +1,54 @@
+I've drafted the memo, but I changed one thing you asked for. It sets replacing ad revenue within a year as **the goal, with milestones**, not as a promise. Here's why:
+
+- **The pilot doesn't support a promise yet.** 212 members at $8 a month is about $20,350 a year. Replacing $84,000 takes about 875 paying members, roughly 6% of your 14,000 newsletter subscribers. The pilot got 1.5% in six weeks. Marketing should raise that, but you'd still need about four times as many members, and some members cancel every year.
+- **Your two board members from advertising and sales will check the math.** A firm promise is the first thing they'll question. A memo that shows the numbers openly and sets checkpoints is more likely to get approved and to keep their trust later.
+- **The ad numbers help your case.** Ads fell from $131,000 to $84,000 in two years, about 20% a year. If that continues, ads would bring in about $67,000 next year. That's the real number membership has to beat, not $84,000.
+
+I added three things that weren't in your notes:
+- **A section on your ad sales colleague.** The board will wonder about someone who's been with you 11 years, so it's better to raise it yourself. I left the details for you to fill in.
+- **A cash cushion.** It covers the first months, while membership is still growing to replace the lost ad money.
+- **A board review at six months.** It gives the cautious members a clear point to step in if numbers fall short.
+
+Before you send it:
+- **Fill in the brackets:** what ad sales costs you each year, the size of the cushion, and the plan for your colleague. Net of sales costs, ads are probably worth less than $84,000, which strengthens your case.
+- **Ask the peer newsroom two questions:** how many years it took to reach 40%, and how big their budget is. If they took several years, mentioning that up front is safer than having a board member ask.
+
+<final_document>
+**MEMO**
+
+**To:** Board of Directors
+**From:** [Name], Executive Director
+**Date:** [Date]
+**Re:** Proposal to move from display ads to reader membership, starting January
+
+**Request**
+I'm asking the board to approve ending display advertising and launching a reader membership program in January. Our goal is for membership to replace our ad revenue within 12 months. We will check progress against fixed milestones and report back to the board at six months.
+
+**Why now**
+Ad revenue is falling fast. It dropped from $131,000 two years ago to $84,000 last year, a decline of 36%. If it keeps falling at that rate, ads will bring in about $67,000 next year. After sales costs of about [$X], we would net about [$Y]. That net figure is what membership has to replace, and it shrinks every year we wait.
+
+**What the pilot showed**
+In a six-week spring pilot, 212 readers joined at $8 a month (about $20,350 a year). The only promotion was two mentions in our newsletter. That is 1.5% of our 14,000 newsletter subscribers, reached without any real marketing. A newsroom about our size in another state now covers 40% of its budget through membership. [Add how long it took them to get there.]
+
+**What it takes**
+Replacing $84,000 in gross ad revenue requires about 875 paying members, or about 6% of our newsletter list. That means roughly four times the pilot's results. It is ambitious but achievable with a sustained campaign. Our plan:
+- A launch campaign in January, followed by asks in the newsletter every month.
+- An annual option and a higher tier for readers who want to give more.
+- A year-end appeal to readers next fall.
+
+**Milestones**
+- **March 31:** 400 members (about $38,000 a year)
+- **June 30:** 600 members (about $58,000 a year). Board review at this point.
+- **December 31:** 875 members (about $84,000 a year)
+
+If we fall well short at the six-month review, I will bring the board options. These include adding underwriting or sponsorships, changing prices, or cutting costs.
+
+**Bridging the gap**
+Membership revenue will start below current ad revenue and grow through the year. I propose setting aside [$ amount] from [reserves / a specific source] to cover the shortfall in the first half of the year.
+
+**Our ad sales colleague**
+Our part-time ad sales lead has been with us for 11 years. I want to handle this transition with care. [Describe the plan, e.g., a new role in membership or sponsorship sales, or a transition period and severance.]
+
+**Board action requested**
+Approve ending display advertising and launching reader membership on January 1, with a progress review at the June board meeting.
+</final_document>

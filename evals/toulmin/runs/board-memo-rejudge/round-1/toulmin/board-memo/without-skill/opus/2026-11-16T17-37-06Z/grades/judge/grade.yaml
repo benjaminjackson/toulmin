@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T18:25:44.223366+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 390
+  tags: []
+  notes: extracted 390 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 3
+    qualification: 8
+    objections: 6
+    fit: 7
+  details:
+    agree: The pacing argument (13 members a week needed against 35 a week reached)
+      and the June checkpoint give sceptical board members something solid to weigh,
+      but the misread ad trend makes the first-year gap look larger than it is, and
+      the empty placeholders on the bridge funding and the 11-year colleague's role
+      leave the two sales-minded members room to hold back.
+    honest: The memo turns the requested 'will replace' into a stated goal and does
+      not invent figures, but it says the 36% fall happened 'over two years' when
+      it happened in one.
+    works_the_facts: 'The derivations are correct and useful: 1.5% sign-up, about
+      $20k a year, 875 members, 6.25% of the list, 13 against 35 a week and about
+      $52k in year one. The do-nothing projection uses about 20% a year instead of
+      36%, so it gives roughly $67k where it should give about $54k.'
+    right_comparison: Because the decline is treated as spread over two years, ads
+      look about $13k healthier in 2027 than the trend suggests, and that turns a
+      near-even first year ($52k against about $54k) into an apparent $15k shortfall.
+    qualification: The 500-members-by-June-30 trigger, with options brought to the
+      board and monthly reporting on members and cancellations, is a dated, numeric
+      and checkable condition with a stated consequence.
+    objections: The memo meets the likely objections about a loyal early cohort, unknown
+      churn and the fallback to sponsorships or ads, but the colleague's future is
+      left as a placeholder, and the overstated gap raises a funding worry that the
+      real trend would largely answer.
+    fit: It is a clearly sectioned memo of about one page, though several unfilled
+      placeholders mean it isn't ready to send.

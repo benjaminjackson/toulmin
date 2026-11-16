@@ -1,0 +1,57 @@
+grader: judge-repeat
+graded: '2026-11-16T17:40:16.712822+00:00'
+outcome: pass
+score: 0.75
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: true
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm with-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 501
+  tags: []
+  notes: extracted 501 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.75
+  metrics:
+    agree: 8
+    honest: 7
+    works_the_facts: 9
+    right_comparison: 9
+    qualification: 9
+    objections: 8
+    fit: 8
+  details:
+    agree: The two ad-background members get the 20%-a-year ad decline, a modest required
+      pace set against the pilot's pace, a July checkpoint that allows bringing ads
+      back, and a direct section on their 11-year colleague, so most of the board
+      would likely vote yes once the placeholders are filled.
+    honest: The memo treats 'replace ad revenue' as a target rather than a promise
+      and leaves unknowns as placeholders, but it states as fact that the ad salesperson
+      has already been told, and it says the other newsroom 'shows the model works
+      for organizations like us', which goes further than one secondhand report supports.
+    works_the_facts: 'The derived figures all check out: 875 members ($84,000 / $96),
+      the 36% total and ~20% annual decline, about $67,000 projected for 2027, $20,352
+      from the pilot, 1.5% vs 6% of the list, and 55 a month needed against about
+      150 a month in the pilot.'
+    right_comparison: It compares membership with where ads are heading (about $67,000
+      in 2027 and falling), not with last year's $84,000, and it names the ongoing
+      cost of selling ads.
+    qualification: 'The checkpoint is specific and checkable: 500 members by June
+      30, 2027, and if there are fewer than 400 the board gets options, including
+      bringing ads back, at the July meeting.'
+    objections: It answers 'why not run both', slower growth after the keenest readers
+      join, the 2027 cash gap and the colleague's future; churn appears only as an
+      [X] placeholder.
+    fit: It is a one-page board memo that ends with clear motions to vote on, though
+      the many bracketed placeholders still have to be filled in before it can go
+      out.

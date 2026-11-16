@@ -1,0 +1,70 @@
+You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
+
+The brief between the <brief> tags is what the writer was asked to do and shows the facts the writer had. You, as the reader, have not seen the brief. Use it only to check what the document does with those facts.
+
+<reader>
+The seven board members of the nonprofit newsroom, who must vote on the proposal. Two of them come from advertising and sales backgrounds and will be the hardest to move. All of them know the part-time ad sales person, who has been with the newsroom for 11 years.
+</reader>
+
+<brief>
+Help me write a memo to our board. I run a small nonprofit newsroom with 9 staff. I want the board to approve dropping display ads and moving to a reader membership program from January.
+
+What I have:
+- Ads brought in $84,000 last year, down from $131,000 two years ago.
+- We ran a 6-week membership pilot in the spring. 212 readers signed up at $8 a month. We did no marketing beyond two newsletter mentions.
+- Our newsletter has 14,000 subscribers.
+- A newsroom about our size in another state told me membership now covers 40% of their budget.
+- Two of our seven board members come from advertising and sales backgrounds. Our ad sales person is part-time and has been with us for 11 years.
+
+I want the memo to say that membership will replace our ad revenue within a year. Keep it to one page.
+</brief>
+
+The person who wrote the brief adds this about its facts: The two ad figures are for two years in a row. Ads brought in $131,000 in the year before last and $84,000 last year, so the fall of $47,000 (36%) happened in one year.
+
+<document>
+**MEMO**
+
+**To:** Board of Directors
+**From:** [Name], Executive Director
+**Date:** [Date]
+**Re:** Approval to replace display advertising with reader membership, starting January
+
+**Recommendation**
+I ask the board to approve ending display advertising on January 1 and making reader membership our main source of earned revenue, with the goal of fully replacing ad income within 12 months.
+
+**Why now**
+Display ad revenue fell from $131,000 to $84,000 over two years, a 36% drop. If that trend continues, ads will bring in about $65,000 next year and less after that. We would be protecting a shrinking source of income while ads slow our site and undercut the reader relationship we depend on.
+
+**What the pilot showed**
+This spring's six-week pilot signed up 212 members at $8/month with almost no effort: two newsletter mentions and no campaign. That is 1.5% of our 14,000 newsletter subscribers in six weeks. [Add: X of the 212 are still paying today.] A newsroom of similar size in [state] now covers 40% of its budget through membership. It is one example, but it shows the model works at our scale.
+
+**The math**
+- Replacing $84,000 requires about **875 members** at $8/month, or about 6% of our newsletter list.
+- The pilot got to a quarter of that number with no marketing. With a real campaign, annual plans and a higher giving tier, 875 is an ambitious target, but we can reach it.
+- Membership revenue builds over the year. If growth is steady, year one brings in about **$50,000**, leaving a gap of about **$30,000**. I propose covering it from [reserves / a bridge grant from X].
+
+**Checkpoints the board can hold us to**
+- **March 31:** 400 members
+- **June 30:** 550 members. If we are below 450, staff will come back with options, including bringing back some advertising.
+- **December 31:** 875 members, or $7,000/month in recurring revenue
+
+**Staffing**
+Our part-time ad sales lead has 11 years of relationships with local businesses. I propose moving that role to sponsorships and major-donor outreach, which supports membership instead of competing with it. [Confirm with staff member before sending.]
+
+**Risks**
+The main risk is slower growth than planned. The checkpoints let us see that by midyear and adjust. The bigger long-term risk is staying tied to an ad market that is shrinking every year.
+
+**Requested action:** Approve ending display ads effective January 1, the membership plan and targets above, and [bridge funding source] to cover the first-year gap.
+</document>
+
+Score the document on the seven items below, each from 0 to 10, and give each score one sentence of reason.
+
+1. agree: would this reader, including the one who resists, come to agree or act as the writer wants?
+2. honest: no claim is stated more strongly than the facts in the brief carry, and no fact or number is invented.
+3. works_the_facts: figures are derived from what the brief gave (rates, totals, the pace a target needs against the pace already reached, what happens if nothing changes), and each is put in its most favourable true form.
+4. right_comparison: the alternative to what is proposed is described as the facts show it, including any trend.
+5. qualification: any condition or hedge names something that could turn out either way and that the reader can check, with a date, a number and a consequence if it is missed. Give a score of null when the document needs no qualification.
+6. objections: the resisting reader's objection is met, and no objection is raised that the facts in the brief already answer.
+7. fit: the document has the form and length the brief asked for.
+
+Use the whole scale from 0 to 10. A 5 is an ordinary competent draft.

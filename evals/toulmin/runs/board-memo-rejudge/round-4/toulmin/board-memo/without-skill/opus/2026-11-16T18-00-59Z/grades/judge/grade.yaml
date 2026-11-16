@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T18:25:43.578500+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 419
+  tags: []
+  notes: extracted 419 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 7
+    right_comparison: 3
+    qualification: 7
+    objections: 5
+    fit: 8
+  details:
+    agree: The pace math and the June checkpoint make a believable case, but the ad-background
+      members are never told why ads must stop rather than run alongside membership,
+      and the understated decline weakens the urgency.
+    honest: "The memo honestly softens 'will replace' to a goal and admits a 2027\
+      \ revenue gap, but it wrongly says the 36% drop took two years when it happened\
+      \ in one, and its $65,000\u2013$70,000 projection for 2027 has no basis in the\
+      \ brief's figures."
+    works_the_facts: 'The figures are worked well: $20,352 a year from the pilot,
+      1.5% of subscribers, 875 members needed, about 13 a week needed against the
+      35 a week the pilot reached. But it misreads the ad trend, so its ''if nothing
+      changes'' case is wrong.'
+    right_comparison: "Keeping ads is made to look better than the facts show: a 36%\
+      \ drop in a single year, if it continued, would leave about $54,000 in 2027,\
+      \ not $65,000\u2013$70,000."
+    qualification: The June 30 checkpoint has a number (500 members), a trigger (below
+      400) and a consequence (options including sponsorship), all checkable, though
+      the figures are still in brackets.
+    objections: It deals with the 11-year colleague and invites the sales-minded members
+      to help, but it skips their most likely question, why not keep ads while building
+      membership, and the plan for the colleague is still a placeholder.
+    fit: It is a tightly organised one-page board memo that ends with a numbered list
+      of what the board is asked to approve, as the brief requested.

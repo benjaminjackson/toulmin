@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T18:25:59.818126+00:00'
+outcome: pass
+score: 0.65
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 441
+  tags: []
+  notes: extracted 441 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.65
+  metrics:
+    agree: 6
+    honest: 7
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 8
+    objections: 6
+    fit: 7
+  details:
+    agree: The milestones, the six-month review and the honest framing would reassure
+      most of the board, but the open placeholders on net ad income, bridge funding
+      and the ad sales colleague leave the two ad-background members with gaps to
+      push on.
+    honest: It softens the brief's "will replace" into a goal and leaves unknown figures
+      as placeholders instead of inventing them, but it treats the 36% fall as happening
+      over two years and calls the target "achievable" without support.
+    works_the_facts: The $20,350 annualised, the 1.5% and the 875 members are all
+      correct, but it never works out the pilot's weekly pace (about 35 a week, which
+      would pass 875 within the year), and its $67,000 projection rests on a misread
+      rate.
+    right_comparison: It correctly shows the alternative as declining, but it reads
+      the $47,000 drop as spread over two years, so it projects $67,000 when a continued
+      36% annual fall gives about $54,000, which badly understates how fast staying
+      with ads erodes.
+    qualification: Dated member milestones with revenue figures and a six-month review
+      that leads to named options (underwriting, pricing, cuts) give the board a concrete
+      checkpoint and a consequence.
+    objections: It meets the ad-side objection with the trend and a fallback that
+      includes sponsorships, and it names the 11-year colleague, but the plan for
+      that colleague and the bridge funding are left blank, and it doesn't address
+      whether pilot members will stay.
+    fit: It has the right memo form and is close to one page, but the bracketed placeholders
+      make it a draft rather than something ready to send.

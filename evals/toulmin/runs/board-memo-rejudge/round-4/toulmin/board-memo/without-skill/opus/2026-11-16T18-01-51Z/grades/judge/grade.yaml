@@ -1,0 +1,56 @@
+grader: judge
+graded: '2026-11-16T18:25:59.073037+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 413
+  tags: []
+  notes: extracted 413 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 6
+    right_comparison: 4
+    qualification: 7
+    objections: 5
+    fit: 7
+  details:
+    agree: The quarterly targets, the openly stated $32,000 gap and the June checkpoint
+      would reassure most board members, but the two sales-minded members will ask
+      why ads must stop in January rather than taper off, and the memo does not answer
+      that.
+    honest: It frames full replacement as a goal rather than a promise, which is careful,
+      but it says ad revenue fell 'over two years' when the 36% drop happened in a
+      single year, and its $67,000 projection for 2027 rests on that wrong pace.
+    works_the_facts: It works out $96 per member, 875 members, 6.25% of the list and
+      the $52,000 transition-year revenue, but it describes the target as 'four times
+      the pilot' when the pilot pace of about 35 sign-ups a week is double the roughly
+      17 a week the target needs, so it misses the most favourable true framing.
+    right_comparison: The memo does include a no-change scenario, but because it spreads
+      a one-year 36% drop across two years it predicts $67,000 of ad revenue in 2027
+      instead of about $54,000, which makes the status quo look stronger than the
+      facts show.
+    qualification: Quarterly net-member targets with a 550-member check on June 30
+      give the board dates and numbers to verify, though the only consequence of missing
+      the check is 'I will bring the board options.'
+    objections: It deals with the transition gap and mentions the 11-year ad colleague,
+      but the staff plan is left as a placeholder, it does not explain why a phased
+      exit is ruled out, and it says nothing about how many members might cancel.
+    fit: It is set out as a clear board memo and is roughly one page, though the risks
+      section and the decision list push it to the limit.

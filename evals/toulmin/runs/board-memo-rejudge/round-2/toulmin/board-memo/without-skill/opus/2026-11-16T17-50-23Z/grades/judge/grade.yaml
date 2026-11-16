@@ -1,0 +1,55 @@
+grader: judge
+graded: '2026-11-16T18:25:46.156244+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 405
+  tags: []
+  notes: extracted 405 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 7
+    right_comparison: 5
+    qualification: 8
+    objections: 6
+    fit: 8
+  details:
+    agree: The pilot pace and the 15-a-week target make a strong case, but the two
+      members from advertising will see that the memo never covers the first-year
+      cash gap, when ad money stops in January and membership is still building.
+    honest: The memo makes replacement a target rather than a promise and marks the
+      retention figure as a gap to fill, but it says the 36% drop happened 'over two
+      years' when it happened in one year, so a core fact is wrong.
+    works_the_facts: The derived figures are good (about $20k a year from the pilot,
+      875 members to break even, 1,000 as the target, 15 a week against the pilot's
+      roughly 35), but the decline is presented as slower than it was, which weakens
+      the strongest argument.
+    right_comparison: "Treating ads as a falling source rather than a fixed $84k is\
+      \ the right comparison, but the memo spreads the 36% drop over two years and\
+      \ so projects $65\u201370k, when the one-year rate points to about $54k next\
+      \ year."
+    qualification: 'The safeguard can be checked: monthly reports, a midpoint of 500
+      members at six months, and named fallback options if that number is missed.'
+    objections: The memo deals with the long-serving salesperson and the concern that
+      loyal readers signed up first, but it says nothing about the first-year revenue
+      gap or why ads can't run alongside membership, which is what sales-minded members
+      will ask.
+    fit: It is a clear memo that fits on about one page, with the decision stated
+      at the top, though the placeholders still need filling in.

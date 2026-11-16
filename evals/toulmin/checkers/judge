@@ -62,12 +62,26 @@ JUDGE_SCHEMA='{
   }
 }'
 
-# Print the full judge prompt. Arguments: reader description, writer's brief, document text.
+# Print the note that settles an ambiguous fact in one task's brief, or nothing when the task has none.
+# Argument: the task name. The note is the `judge_note` key of tasks/<task>.yaml. It is read from the task file,
+# not from run.yaml, so that a run made before the note was written is judged with it too.
+task_judge_note() {
+  local task_name=$1
+  # `// ""` is yq's fallback: print an empty string when the key is missing.
+  /opt/homebrew/bin/yq -r '.judge_note // ""' "$script_directory/../tasks/$task_name.yaml"
+}
+
+# Print the full judge prompt. Arguments: reader description, writer's brief, document text, note on the brief (may be empty).
 # This one function builds the prompt for both the real call and --print-prompt, so what is printed is what is sent.
 build_prompt() {
   local reader_description=$1
   local writer_brief=$2
   local document_text=$3
+  local brief_note=${4:-}
+  local brief_note_block=""
+  if [ -n "$brief_note" ]; then
+    brief_note_block="The person who wrote the brief adds this about its facts: $brief_note"
+  fi
   cat <<EOF
 You are the reader described between the <reader> tags. Read the document between the <document> tags as that reader would receive it.
 
@@ -80,6 +94,8 @@ $reader_description
 <brief>
 $writer_brief
 </brief>
+
+$brief_note_block
 
 <document>
 $document_text
@@ -131,7 +147,9 @@ print_prompt_for_run() {
   # yq -r prints the string value without YAML quoting.
   reader_description=$(yq -r '.task.reader' "$run_directory/run.yaml")
   writer_brief=$(yq -r '.task.prompt' "$run_directory/run.yaml")
-  build_prompt "$reader_description" "$writer_brief" "$(cat "$document_path")"
+  local task_name
+  task_name=$(yq -r '.task.name' "$run_directory/run.yaml")
+  build_prompt "$reader_description" "$writer_brief" "$(cat "$document_path")" "$(task_judge_note "$task_name")"
   exit 0
 }
 
@@ -157,7 +175,7 @@ run_check() {
     fail_with_note "the check has no model key"
   fi
 
-  build_prompt "$SMEVALS_TASK_READER" "$SMEVALS_TASK_PROMPT" "$(cat document.txt)" > judge-prompt.txt
+  build_prompt "$SMEVALS_TASK_READER" "$SMEVALS_TASK_PROMPT" "$(cat document.txt)" "$(task_judge_note "$SMEVALS_TASK")" > judge-prompt.txt
 
   claude_stripped --model "$SMEVALS_CHECK_MODEL" --tools "" --output-format json --json-schema "$JUDGE_SCHEMA" \
     < judge-prompt.txt > judge-response.json 2> judge-stderr.txt

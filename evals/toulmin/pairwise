@@ -60,6 +60,15 @@ build_prompt() {
   printf 'You are this reader: %s\n\n' "$reader"
   printf 'A writer was given the brief below. You, the reader, have not seen this brief. It is here only so that you know the facts the writer had.\n\n'
   printf '<brief>\n%s\n</brief>\n\n' "$brief"
+  # A task may carry a `judge_note` that settles an ambiguous fact in its brief. It is read from the task file,
+  # not from run.yaml, so that runs made before the note was written are judged with it too.
+  local task_name
+  task_name=$(/opt/homebrew/bin/yq -r '.task.name' "$with_skill_run/run.yaml")
+  local brief_note
+  brief_note=$(/opt/homebrew/bin/yq -r '.judge_note // ""' "$(dirname "${BASH_SOURCE[0]}")/tasks/$task_name.yaml")
+  if [ -n "$brief_note" ]; then
+    printf 'The person who wrote the brief adds this about its facts: %s\n\n' "$brief_note"
+  fi
   printf 'Two documents were written from this brief.\n\n'
   printf '<document_a>\n%s\n</document_a>\n\n' "$(cat "$document_a_file")"
   printf '<document_b>\n%s\n</document_b>\n\n' "$(cat "$document_b_file")"

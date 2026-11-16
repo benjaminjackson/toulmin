@@ -1,0 +1,57 @@
+grader: judge
+graded: '2026-11-16T18:25:28.958566+00:00'
+outcome: pass
+score: 0.6
+tags: []
+checks:
+- checker: ../checkers/transcript-check
+  ok: true
+  metrics:
+    skill_loaded: false
+    read_karbach: false
+    read_uses_of_argument: false
+    read_toulmin_book: false
+  tags: []
+  notes: arm without-skill ok
+- checker: ../checkers/extract-document
+  ok: true
+  metrics:
+    document_words: 399
+  tags: []
+  notes: extracted 399 words
+- checker: ../checkers/judge
+  ok: true
+  score: 0.6
+  metrics:
+    agree: 6
+    honest: 6
+    works_the_facts: 4
+    right_comparison: 3
+    qualification: 8
+    objections: 5
+    fit: 8
+  details:
+    agree: The memo is clear and careful, and the June checkpoint helps, but it understates
+      how fast ads are falling and leaves gap funding and the ad salesperson's future
+      as placeholders, so the two ad-background members have room to hold out.
+    honest: It frames replacing ad revenue as a goal rather than a promise, which
+      is fair, but it wrongly says the $47,000 drop happened over two years at 'about
+      20% a year' when it all happened in one year (36%).
+    works_the_facts: The member targets (875 members, 6% of the list) and the ~$52,000
+      first-year figure are worked out correctly, but the memo never compares the
+      pilot's pace (about 35 sign-ups a week with almost no promotion) to the roughly
+      13 a week the target needs, and the wrong trend lowers both the ad projection
+      and the true size of the gap.
+    right_comparison: Keeping ads is projected at $67,000 for 2027 using a halved
+      decline rate; at the real 36% yearly drop it would be about $54,000, so staying
+      with ads looks better than the facts show and the first-year gap looks bigger
+      than it is.
+    qualification: 'The checkpoint is specific and checkable: fewer than 550 members
+      by June 30 means the director brings options to the board, including sponsorships
+      or bringing back some ads, and the board gets monthly reports.'
+    objections: It names the cancellation risk, the risk that pilot members were unusually
+      loyal, and the staffing question, but it leaves the salesperson's plan and the
+      gap funding as placeholders, and it weakens the strongest answer to the ad members
+      (a 36% one-year collapse) by spreading the drop over two years.
+    fit: It is a tight memo that fits on one page and ends with a motion, though the
+      bracketed placeholders would need filling before it goes to the board.
