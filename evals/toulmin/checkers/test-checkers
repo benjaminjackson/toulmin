@@ -1,0 +1,129 @@
+#!/usr/bin/env bash
+# Runs transcript-check and extract-document against the fixtures the way
+# smevals would: SMEVALS_RUN_DIR points at a run directory, and the working
+# directory is an empty grade workspace. Prints PASS or FAIL for each case and
+# exits non-zero if any case fails. Makes no model calls.
+set -uo pipefail
+
+# The directory this script lives in, so it works from any working directory.
+checkers_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+fixtures_dir="$checkers_dir/fixtures"
+scratch_dir="$(mktemp -d)"
+# Remove the scratch directory when the script exits, however it exits.
+trap 'rm -rf "$scratch_dir"' EXIT
+
+failure_count=0
+case_number=0
+
+# Last checker result, set by run_checker.
+checker_stdout=""
+checker_exit_code=0
+workspace_dir=""
+
+# Build a run directory from fixture files, then run one checker in a fresh
+# grade workspace. Arguments: checker name, arm name, transcript fixture (or
+# "-"), output fixture (or "-"). Sets checker_stdout, checker_exit_code and
+# workspace_dir.
+run_checker() {
+  local checker_name="$1"
+  local arm_name="$2"
+  local transcript_fixture="$3"
+  local output_fixture="$4"
+  case_number=$((case_number + 1))
+  local run_dir="$scratch_dir/run-$case_number"
+  workspace_dir="$scratch_dir/workspace-$case_number"
+  mkdir -p "$run_dir" "$workspace_dir"
+  cp "$fixtures_dir/$arm_name.run.yaml" "$run_dir/run.yaml"
+  if [ "$transcript_fixture" != "-" ]; then
+    cp "$fixtures_dir/$transcript_fixture" "$run_dir/transcript.jsonl"
+  fi
+  if [ "$output_fixture" != "-" ]; then
+    cp "$fixtures_dir/$output_fixture" "$run_dir/output.txt"
+  fi
+  # The parentheses run the checker in a subshell so the cd stays local to it.
+  checker_stdout="$(cd "$workspace_dir" && SMEVALS_RUN_DIR="$run_dir" "$checkers_dir/$checker_name")"
+  checker_exit_code=$?
+}
+
+# Print PASS or FAIL for one case. Arguments: case description, then a jq
+# expression that must be true of a JSON object holding the exit code and the
+# parsed checker output, as {exit_code, result}.
+report_case() {
+  local case_description="$1"
+  local expectation="$2"
+  local verdict
+  # If stdout is not one JSON object, jq fails and the case fails.
+  verdict="$(jq -cn \
+    --argjson exit_code "$checker_exit_code" \
+    --argjson result "$checker_stdout" \
+    "{exit_code: \$exit_code, result: \$result} | $expectation" 2>/dev/null)"
+  if [ "$verdict" = "true" ]; then
+    echo "PASS  $case_description"
+  else
+    echo "FAIL  $case_description"
+    echo "      exit $checker_exit_code, output: $checker_stdout"
+    failure_count=$((failure_count + 1))
+  fi
+}
+
+# Print PASS or FAIL for whether document.txt in the last workspace matches
+# an expected fixture byte for byte. Arguments: description, expected fixture.
+report_document_matches() {
+  local case_description="$1"
+  local expected_fixture="$2"
+  if cmp -s "$workspace_dir/document.txt" "$fixtures_dir/$expected_fixture"; then
+    echo "PASS  $case_description"
+  else
+    echo "FAIL  $case_description"
+    failure_count=$((failure_count + 1))
+  fi
+}
+
+run_checker transcript-check with-skill with-skill-two-refs.transcript.jsonl -
+report_case "with-skill, skill loaded and two references read: right metrics" \
+  '.exit_code == 0 and .result.metrics == {skill_loaded: true, read_karbach: true, read_uses_of_argument: false, read_toulmin_book: true}'
+
+run_checker transcript-check with-skill with-skill-loaded.transcript.jsonl -
+report_case "with-skill, real transcript: skill loaded, no reference read" \
+  '.exit_code == 0 and .result.metrics == {skill_loaded: true, read_karbach: false, read_uses_of_argument: false, read_toulmin_book: false}'
+
+run_checker transcript-check with-skill with-skill-no-skill-call.transcript.jsonl -
+report_case "with-skill, no Skill call: trigger failure" \
+  '.exit_code != 0 and .result.notes == "trigger failure" and .result.tags == ["trigger_failure"] and .result.metrics.skill_loaded == false'
+
+run_checker transcript-check without-skill without-skill.transcript.jsonl -
+report_case "without-skill, real transcript: passes with skill_loaded false" \
+  '.exit_code == 0 and .result.metrics.skill_loaded == false'
+
+run_checker transcript-check without-skill without-skill-listed.transcript.jsonl -
+report_case "without-skill, toulmin skill listed in init: contaminated" \
+  '.exit_code != 0 and .result.notes == "contaminated" and .result.tags == ["contaminated"]'
+
+run_checker transcript-check without-skill without-skill-called.transcript.jsonl -
+report_case "without-skill, toulmin skill called: contaminated" \
+  '.exit_code != 0 and .result.notes == "contaminated" and .result.tags == ["contaminated"]'
+
+run_checker extract-document with-skill - one-pair.output.txt
+report_case "one tag pair: exits 0 with document_words" \
+  '.exit_code == 0 and .result.metrics.document_words == 13'
+report_document_matches "one tag pair: document.txt holds exactly the inside text" one-pair.expected.txt
+
+run_checker extract-document with-skill - two-pairs.output.txt
+report_case "two tag pairs: exits 0" '.exit_code == 0'
+report_document_matches "two tag pairs: document.txt holds the last pair" two-pairs.expected.txt
+
+run_checker extract-document with-skill - no-tags.output.txt
+report_case "no tags: format failure" \
+  '.exit_code != 0 and .result.notes == "format failure" and .result.tags == ["format_failure"]'
+if [ -e "$workspace_dir/document.txt" ]; then
+  echo "FAIL  no tags: no document.txt written"
+  failure_count=$((failure_count + 1))
+else
+  echo "PASS  no tags: no document.txt written"
+fi
+
+if [ "$failure_count" -gt 0 ]; then
+  echo "$failure_count case(s) failed"
+  exit 1
+fi
+echo "all cases passed"

@@ -1,0 +1,96 @@
+#!/usr/bin/env bash
+# smevals Checker: reads the Run's transcript.jsonl and reports whether the
+# toulmin skill was loaded and which reference files were read.
+# With-skill arm: fails with "trigger failure" if no Skill call names toulmin.
+# Without-skill arm: fails with "contaminated" if the init event lists a
+# toulmin skill or plugin, or if any Skill call names toulmin.
+set -euo pipefail
+
+transcript_file="$SMEVALS_RUN_DIR/transcript.jsonl"
+run_record_file="$SMEVALS_RUN_DIR/run.yaml"
+
+# Print a one-line JSON result for smevals and exit with the given code.
+# Arguments: exit code, metrics JSON, notes text, tags JSON array.
+emit_result() {
+  local exit_code="$1"
+  local metrics_json="$2"
+  local notes_text="$3"
+  local tags_json="$4"
+  # --argjson passes a value already in JSON form; --arg passes a plain string.
+  jq -cn \
+    --argjson metrics "$metrics_json" \
+    --arg notes "$notes_text" \
+    --argjson tags "$tags_json" \
+    '{metrics: $metrics, notes: $notes, tags: $tags}'
+  exit "$exit_code"
+}
+
+# Print "true" if any Read tool call opened a file whose path ends in the
+# given suffix, otherwise "false". Used for each reference file.
+read_file_ending_in() {
+  local path_suffix="$1"
+  # -s reads the whole JSONL file into one array so we can use any().
+  # The "// empty" fallback skips events that have no content array.
+  jq -s --arg suffix "$path_suffix" '
+    any(
+      .[]
+      | select(.type == "assistant")
+      | .message.content[]?
+      | select(.type == "tool_use" and .name == "Read");
+      (.input.file_path // "") | endswith($suffix)
+    )
+  ' "$transcript_file"
+}
+
+if [ ! -f "$transcript_file" ]; then
+  emit_result 1 '{}' "no transcript.jsonl in run directory" '["missing_transcript"]'
+fi
+
+# The arm is the Config name recorded in run.yaml.
+arm_name="$(/opt/homebrew/bin/yq -r '.config.name' "$run_record_file")"
+
+# "true" if any Skill tool call loads a skill whose name contains toulmin.
+skill_loaded="$(jq -s '
+  any(
+    .[]
+    | select(.type == "assistant")
+    | .message.content[]?
+    | select(.type == "tool_use" and .name == "Skill");
+    (.input.skill // "") | ascii_downcase | contains("toulmin")
+  )
+' "$transcript_file")"
+
+# "true" if the init event lists a skill or plugin whose name contains toulmin.
+toulmin_listed="$(jq -s '
+  any(
+    .[]
+    | select(.type == "system" and .subtype == "init")
+    | ((.skills // [])[]), ((.plugins // [])[] | .name);
+    ascii_downcase | contains("toulmin")
+  )
+' "$transcript_file")"
+
+read_karbach="$(read_file_ending_in "references/karbach-paper.md")"
+read_uses_of_argument="$(read_file_ending_in "references/uses-of-argument.md")"
+read_toulmin_book="$(read_file_ending_in "references/toulmin-book.md")"
+
+metrics_json="$(jq -cn \
+  --argjson skill_loaded "$skill_loaded" \
+  --argjson read_karbach "$read_karbach" \
+  --argjson read_uses_of_argument "$read_uses_of_argument" \
+  --argjson read_toulmin_book "$read_toulmin_book" \
+  '{skill_loaded: $skill_loaded, read_karbach: $read_karbach, read_uses_of_argument: $read_uses_of_argument, read_toulmin_book: $read_toulmin_book}')"
+
+if [ "$arm_name" = "with-skill" ]; then
+  if [ "$skill_loaded" != "true" ]; then
+    emit_result 1 "$metrics_json" "trigger failure" '["trigger_failure"]'
+  fi
+elif [ "$arm_name" = "without-skill" ]; then
+  if [ "$toulmin_listed" = "true" ] || [ "$skill_loaded" = "true" ]; then
+    emit_result 1 "$metrics_json" "contaminated" '["contaminated"]'
+  fi
+else
+  emit_result 1 "$metrics_json" "unknown arm: $arm_name" '["unknown_arm"]'
+fi
+
+emit_result 0 "$metrics_json" "arm $arm_name ok" '[]'
