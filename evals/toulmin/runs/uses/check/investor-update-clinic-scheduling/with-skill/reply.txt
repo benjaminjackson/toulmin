@@ -1,0 +1,31 @@
+**Short answer:** mostly yes. The draft is honest and well ordered. It puts the bad news in the subject line, apologises once without grovelling, and treats the lost chain as the main story. Investors who've heard nothing for six months will trust it more for that. But a careful investor will stop at a few places, and the runway section is the weakest.
+
+## Where it's weak, most important first
+
+**1. The runway section puts off the decision investors care about most.**
+$480k at $44k a month is about 11 months. The draft says you'll decide "within the next quarter" whether to cut or raise, and explain why "in the next update." By then you'd have about 8 months left, and raising usually takes 4–6 months. An investor will work that out and see a founder who is late.
+
+The decision also rests on standalone reminder sales, but that product launches next month. When you decide, you'll have one or two months of data.
+
+"I'll share our reasoning next time" is also a weak line from someone who just missed two updates. **Change:** state the test now. For example: "If we have X standalone customers by [date], we raise. If not, we cut burn to $Y." Only you can set X, the date and Y. Without them, the paragraph reads as "we haven't decided."
+
+**2. It doesn't answer the obvious objection to the new product.**
+The argument is: clinics that switch to their EHR's scheduler will still pay $150 a month for our reminders. But many EHR schedulers send text reminders too, maybe including the one the chain moved to. An investor will ask straight away: "Doesn't the EHR already do this?" They'll also ask how reminders work without your scheduler, because you need appointment data from the EHR. Watch-list item 3 brushes past this without answering it. **Change:** add one or two sentences on why your reminders beat the EHR's, and how you get the appointment data. If you don't have an answer yet, say it's the key open question rather than leaving it out.
+
+**3. "Clinics" means two different things.**
+"9 added, 4 lost" counts customers, but one of the 4 was a 12-clinic chain. A reader who takes it literally will get your clinic count wrong. "We replaced that revenue" is also asserted, not shown. **Change:** count customers (or give both counts), and give the new MRR in dollars. That proves the replacement claim instead of asking investors to believe it. "Without that one loss, MRR would have grown" then becomes something they can check.
+
+**4. The two quarters you skipped are still missing.**
+The apology is good, but the numbers only cover the last three months. Investors will want to know whether MRR has been flat for nine months or just three. Those are very different stories. **Change:** add MRR at the end of each skipped quarter, even as a single line.
+
+**5. Questions investors will ask that the draft leaves open:**
+- **Why did the other 3 customers leave?** If they also moved to EHR schedulers, the threat is bigger than one chain. If not, say so, because it narrows the problem.
+- **Is any other customer as big as the chain was?** The chain was about 13% of MRR. Investors will wonder whether that risk is still there.
+- **How solid is the 7% vs 13% figure?** It compares the same clinics before and after, with no comparison group. Adding how many clinics it covers and over what period would make it harder to dismiss. It's fine as your clearest evidence; it just shouldn't be your only evidence.
+
+**6. Small things**
+- "Q3" in the subject was the writer's addition, not something you gave them. Check that it's the right quarter.
+- My rough count puts it at about 500 words, possibly slightly over. Fixes 1–4 add words, so trim elsewhere. "What's working" and "What we're doing about it" both explain why reminders matter, and could be shortened.
+- The "How you can help" asks are good and specific. Once you've set the raise-or-cut test, consider adding an ask about it. For example: "If you have views on whether we should raise or cut, I'd like to hear them."
+
+**What to keep:** the subject line, the apology, "flat MRR hides two different things," calling EHR schedulers the biggest risk, and the specific asks. Those are why it works.

@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "negotiation-illustration-rate",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Reply A is slightly better. Its points about the flat fee versus royalties and about setting a lowest number before the editor answers fit Elena's real position: her floor is $11,000, she has no other offer, and the editor has an $8,000 option. Reply B's push to drop \"hope\" and treat $11,500 as firm could cost her the book. B's tips to use exact sales numbers and turn the fee into a monthly rate are useful, but they are smaller gains."
+}

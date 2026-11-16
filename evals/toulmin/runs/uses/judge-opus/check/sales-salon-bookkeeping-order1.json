@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "sales-salon-bookkeeping",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A treats price as this reader's main objection and puts the accountant savings beside the $199. Its question about what changed after the missed deadlines would likely bring out Carla's free-month guarantee, which would answer two doubts this owner has. B's advice is sound but less tied to price, and its question about the missed deadlines is less likely to bring that guarantee out."
+}

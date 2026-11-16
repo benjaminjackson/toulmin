@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "crowdfunding-board-game",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Both replies rightly drop \"proven hit\" and flag the tight budget, but B's questions draw out the facts this wary backer most needs: whether the game is finished, who gave the 23 ratings, any reviews lined up, and what happens if delivery slips. Those surface the signed quote, the launch-week reviewer, the refund pledge and the honest framing of the rating, which A's budget-heavy checklist largely misses."
+}

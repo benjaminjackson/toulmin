@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "staff-office-days",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both replies spot the central flaw: the 11 nearby remote hires get sympathy and no terms, and both prompt the travel-help offer. B goes further for this reader by having each person find their own line, stating Monday/Friday, and surfacing desks, travel costs and exceptions in the email or meeting, where A would cut the 'Most of you' bullet and keep practical answers out of the email."
+}

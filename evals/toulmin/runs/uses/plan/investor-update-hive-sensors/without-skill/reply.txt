@@ -1,0 +1,44 @@
+# Angle and plan for the half-year investor update
+
+## The angle
+
+**Beekeepers pay for this and come back for more. The bridge gets you to spring 2027, the selling season that decides your year.**
+
+Don't build it around "we'll be profitable next year." Your investors will check the runway first, and the numbers don't support that claim yet:
+
+- **Runway:** $340k ÷ $95k a month is about 3.6 months, so cash runs out around early March. That's just before the season that brings in 70% of your revenue.
+- **The bridge:** $600k adds about 6.3 months at your current burn. You'd have roughly 10 months in total.
+- **Off-season revenue:** $212k × 30% across the other four months is about $16k a month, against $95k a month of spending.
+- **What profitability takes:** Each sensor makes $17 (31% margin). To cover $95k a month from hardware alone, you'd need about $3.7M a year in sensor sales. On subscriptions alone, you'd need about 24,000 hives on the app. Unless you have a model that gets there, the claim will cost you credibility with the people you're asking for money.
+
+Timing is actually your strongest argument. The bridge pays for the inventory you need for spring and keeps you going through the season. If you're building stock ahead of spring, your burn will also go up over the winter, so check that the $600k covers it.
+
+## Order
+
+1. **The ask, first, in two lines.** You're raising $600k and you want them in. Investors who read only the first paragraph should still know that.
+2. **Traction.** Customers grew from 12 to 31 (2.6×). Add hives monitored and how many customers renewed or expanded, because those matter more than the customer count.
+3. **Customer evidence, stated honestly.** Your biggest customer's losses fell from 31% to 18%, and he also changed his mite treatment. Say so yourself. If you don't, an investor will, and you'll look like you were hiding it.
+4. **The competitor.** They launched in May at $45, which is $10 below your price and only $7 above your cost. Your investors probably already know. Say what you've seen since (lost deals, customer questions, or nothing) and why customers stay with you.
+5. **Cash.** Burn, runway, what the bridge buys, and the specific spring 2027 milestone that sets up the next round.
+6. **Path to profitability.** Present it as conditions: "We reach break-even at X hives / $Y revenue, and here's the plan to get there."
+7. **The close.** Terms, deadline, who's already committed, and an offer of a call.
+
+## Find out first
+
+- **Which six months?** Today is November, so "the last six months" would be May to October, but you say 70% of revenue came in March and April. Confirm the reporting period.
+- **Revenue split between sensors and subscriptions,** and how many hives are on the app. Subscriptions are your real business, and $16k a month off-season may mostly be subscriptions.
+- **Customer concentration.** Find out what share of revenue the 4,000-hive customer makes up. If he's fitted every hive, his sensors alone would cost $220k, more than your total revenue, so check how many he has deployed.
+- **Better evidence from him:** a comparison between his hives with and without sensors, or specific cases where an alert led to treatment and the colony survived. Also check how his 18% compares with industry-wide winter losses for the same year. Ask if you can name and quote him.
+- **Churn and renewals** among the 31 customers.
+- **Competitor impact:** any lost deals or price pushback since May, and where you're better (alert accuracy, how early you warn, the app).
+- **Pipeline for spring 2027:** preorders, letters of intent, renewals already confirmed.
+- **Bridge terms:** whether it's a SAFE or a note, the cap and discount, who leads, how much is committed, and the close date.
+- **A break-even model,** or a decision to leave profitability out of this update.
+
+## Leave out
+
+- The bare claim that you'll be profitable next year.
+- Total revenue presented without the seasonality, which makes it look like a run rate it isn't.
+- A long breakdown of unit costs. Give the margin in one line and spend the words on subscriptions. With a $45 competitor, dwelling on your $38 cost invites investors to ask about it.
+
+600 words is enough for all of this if each section is a short paragraph.

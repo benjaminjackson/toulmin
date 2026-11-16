@@ -64,6 +64,17 @@ Where the gain comes from, from head-to-head rounds between three versions on th
 - The shipped skill beats the questions-only control in 28 and 27 of 48 pairs, with 10 or 11 ties and 10 losses. The framework adds a small gain that this sample cannot separate from chance.
 - In headless mode, where nobody answers the questions, the skill is only slightly better than Claude with no skill (tune tasks: 21-7-8 under Opus, 17-6-13 under Gemini).
 
+### Planning and checking
+
+`uses-test` tests the skill's two other uses on the 24 tune and sealed tasks, one run each, in a session that cannot ask the user anything: planning a piece before any prose exists, and checking a draft that Claude wrote with no skill. A blind judge, as an editor who knows the reader and the true situation, says which reply would lead to the better piece. Results are in `runs/uses/`.
+
+| Use | Opus judge, wins / ties / losses | Fable judge, wins / ties / losses |
+|---|---|---|
+| Planning | 17 / 3 / 4 | 17 / 2 / 5 |
+| Checking | 14 / 8 / 2 | 15 / 4 / 5 |
+
+The skill's advice wins about three pairs in four, and most of those wins are marked slight. Its replies are about 15% longer, and the test did not check whether length alone moves the judges.
+
 ## What this eval cannot tell you
 
 - Both judges are language models. A skill change that comes from reading their reasons can learn what these judges like. The sealed tasks do not guard against that. Only a person ranking blind pairs does.

@@ -1,0 +1,39 @@
+# Is this investor update ready to send?
+
+**No, not as written.** The tone is right: it's plain and honest, and it doesn't oversell. Current investors will trust it more than a hyped version. But it's an ask for money, and the parts that decide whether people invest are blank or wrong.
+
+## Problems, most serious first
+
+**1. The runway math is wrong.** $600,000 at $95,000 a month is about 6 months, not "ten more months." Ten months is the total if you add the $340,000 you already have, which gets you to roughly September 2027. Investors will check this sum first, and a wrong number in the cash section damages trust in everything else.
+
+**2. The "profitable next year" claim falls apart under the email's own numbers.** The draft says you need about 24,000 subscribed hives just to cover today's costs. Your revenue pattern suggests you're far from that. 70% of revenue came in two months, which means most of it is one-off sensor sales, not steady subscriptions. Even if all your off-season revenue were subscriptions, that's only about 4,000 hives. Investors will also notice two more things:
+- The draft says the bridge carries you "to the next milestone/round." A company that expects to be profitable in 2027 doesn't plan another round in 2027.
+- Because your revenue is so seasonal, "profitable" needs a definition. Full year? Monthly from some date? Being profitable in April alone doesn't count.
+
+The writer softened your "we'll be profitable" to "our goal is," and was right to. Saying "will" without showing the math is the line most likely to cost you credibility. To make the claim, you need to supply a hive target, a spring 2027 sales target and any cost cuts that together get there. If you can't, change the claim to "profitable by [date], and here's what it takes."
+
+**3. The most important number is a blank: "We have [X] today."** That's your current subscribed-hive count, and the profitability section means nothing without it. The update also never shows how revenue splits between sensors and subscriptions. That split is the real health signal for this business.
+
+**4. The competitor section admits the threat but gives no answer.** A large equipment company now sells at $45, and the draft says it has sales channels and a brand you don't. The "[Our response]" placeholder is the paragraph investors care about most. You need to decide this yourself; the writer can't fill it in. If you matched their price, your margin per sensor would fall from $17 to $7. That's worth saying, along with whether they charge for an app.
+
+**5. The draft misses the strongest reason to raise now: inventory.** To sell sensors in March and April, you have to build them in January and February, at $38 each. Under this draft's timeline, that's just when your cash runs out. That makes the bridge urgent. Also check whether the $95,000 a month includes building inventory. If it doesn't, your cash runs out earlier than early March.
+
+**6. The dates don't line up.** The draft says cash lasts until early March, so it assumes you're writing now, in November. But "revenue for the last six months" includes March and April, which means it covers an earlier period, probably January to June. State the period explicitly, or the cash and revenue figures will look as if they came from different points in time.
+
+**7. "What's working" is thin, and it leaves out your best evidence.** Right now it's the customer count plus one story about one customer. Add what you have:
+- Revenue now compared with a year ago
+- Total hives using sensors
+- Renewal or churn rates
+- Whether the big customer is renewing or expanding. That's much stronger proof than his winter-loss figure.
+
+Also say how much of your revenue comes from that customer. Investors will ask.
+
+**8. "Bridge" to what?** A bridge round usually leads somewhere: a priced round, profitability, or a milestone. Name it in one sentence.
+
+## Smaller points
+- Count the placeholders: competitor name, your response, [X], the levers, the terms, the reply date, the month buying starts, and the milestone. These are decisions you need to make, not fill-in-the-blanks.
+- The draft is close to 600 words already. Filling in the competitor response and the profitability levers will push it over. Make room by cutting "How else you can help" to one line.
+- Keep the honest treatment of the big customer's results. It's the best paragraph in the draft.
+
+## What to do before you send it
+Fix the "ten more months" error. Then fill in three things: your subscribed-hive count, your answer to the competitor, and either a believable path to profitability or a softer claim. Those three will decide whether investors put money in.

@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "win-back-farm-share",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Reply B makes \"what happens next time\" its own step in the email, with a sample line promising to write that week. That matches what this reader most needs and what Sam can actually commit to: weekly emails and a credit when weather cuts a box by more than a third. B also drops the $31,000, which could read as a plea. Reply A raises the bad-weather policy only as an open question, keeps the cost figure and leans more on the deadline and scarcity."
+}

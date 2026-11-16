@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "promotion-front-office",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies rightly keep out the \"main reason\" claim and push for 7-week results and payroll evidence, but B leads with the budget question this GM will decide on and asks whether the score rose before the renovation, which is exactly the fact (7.9 to 8.2 pre-renovation) that answers his belief. B also says what to cut to stay on one page."
+}

@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "recommendation-phd-applicant",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies reject the top-journal claim, flag the unsupported details and ask for a ranking against the 30 theses. Only A pushes for a concrete shellfish-lab detail or supervisor line (which the user actually has) and warns that \"the marsh effect\" overclaims causation to a marine ecologist, both of which matter to a sceptical reader who discounts small-college praise."
+}

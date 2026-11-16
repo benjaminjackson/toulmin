@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "negotiation-lease-renewal",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Reply B is better suited to this landlord. It says to raise the 2024 late payments yourself and thank him, to drop the line that suggests the restaurant is struggling, to lead with the year-five rent and the roughly $14,000 five-year gap (less than three months of vacancy), and to name a signing date, which fits your ability to sign within two weeks. Reply A's advice to open lower at $4,950–5,000 is risky with a landlord who still remembers the late rent, and its other points are more generic."
+}

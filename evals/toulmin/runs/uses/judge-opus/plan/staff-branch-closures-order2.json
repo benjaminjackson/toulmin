@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "staff-branch-closures",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies correctly drop the \"better for everyone\" claim and ask questions that would surface Rachel's commitments. B ranks the questions by how much they matter to the 14. It puts how the shifts work and a severance window for people who try the role first, which leads straight to her strongest offers: seniority picks shifts first, and severance stays available for 6 months. B also suggests a separate, more detailed note to the 14, which fits this reader better."
+}

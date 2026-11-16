@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "sales-salon-bookkeeping",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Reply B treats price as this reader's main objection and moves the accountant-savings proof next to the $199. Its question \"What did you change afterwards?\" would draw out the missed-deadline guarantee, whereas Reply A's fixes are sound but more general and less likely to surface it."
+}

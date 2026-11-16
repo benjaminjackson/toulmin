@@ -1,0 +1,47 @@
+I won't write the piece yet. Here's the plan, and the gaps to fill before drafting.
+
+## The angle
+
+**The bridge gets you to the 2027 pollination season. Your cash runs out just before it.**
+
+Your own numbers show this:
+
+- 70% of $212k (about $148k) came in March and April. That leaves about $64k over the other four months, roughly $16k a month.
+- Off-season you're burning about $95k and bringing in about $16k, so you're losing about $80k a month.
+- $340k ÷ $80k ≈ 4 months. If $340k is today's balance, you hit zero around mid-March 2027, just as your best two months start.
+
+So the argument isn't "fund us because things are good." It's: "The customer numbers prove people want this. The calendar means we can't reach the season that pays for it without you." Your current investors already own part of the company, so the reason that matters most to them is protecting what they already have in it. The idea connecting the facts to the ask: **a business whose demand is proven and seasonal shouldn't die in the gap before its season.** They'll accept that without being told, so the piece doesn't need to say it outright.
+
+## Order (under 600 words)
+
+1. **The ask, in the first paragraph.** $600k bridge, the terms, who's already committed, the close date. They're your investors, so don't make them hunt for it.
+2. **Customers: 12 → 31 in a year (2.6×).** This is your strongest fact.
+3. **What the product does for a customer.** The 4,000-hive operation, worded carefully (see below).
+4. **Economics and seasonality.** $55 price, $38 cost, $4 per hive per month. Explain the spring spike so the off-season months don't look like decline.
+5. **The competitor.** Name it and answer it. Don't bury it.
+6. **Cash.** $340k in the bank, $95k a month going out, the runway date, and what $600k buys: months of runway and the milestone it reaches.
+7. **Path to profitability, with a condition and a checkpoint.**
+8. **The ask again, with the deadline.**
+
+## What to change or leave out
+
+**"We'll be profitable next year," stated flat.** To cover $95k a month in costs you need about $1.14M a year in revenue. If you only sold subscriptions at $48 per hive per year, that's about 24,000 hives. Your annual revenue is probably under $424k now (the second half of the year is quieter), so you'd need roughly 2.7× growth with costs held flat. Your customer count grew 2.6× last year, so this isn't absurd. But it depends on the pace continuing, and the $45 competitor puts pressure on your price. A version your numbers can support: *"We reach break-even in [month] 2027 if we have [X] hives on subscription by the end of the spring season. We'll report that number to you in May."* You can only fill in X and the month once you have the hive numbers below. Whether to keep the bold version is your call. Most investors trust a dated checkpoint more than a promise.
+
+**"The sensors cut his losses from 31% to 18%."** Don't claim that. He changed his mite treatment the same winter, and any beekeeping-savvy investor will spot it. Say what he says ("he credits the sensors as part of it, alongside a change in mite treatment"), unless you can get better evidence (question 4 below).
+
+**Don't hide:** the burn, the runway date, the thin hardware margin ($17 per sensor, about 31%), or the competitor. Your investors will find out all of these, and stating them yourself earns trust for the rest of the update.
+
+**Leave out:** general market-size material and anything they've heard from you before. 600 words go fast.
+
+## Find out before drafting
+
+1. **Which six months is the $212k?** If it covers March and April, it's probably January–June, and the cash figure is from today. Check that the periods line up, or the runway date will be wrong.
+2. **How many hives are paying the $4 a month right now?** That gives you recurring revenue, the number the profitability argument depends on. Also: how many of the biggest customer's 4,000 hives have sensors? (All 4,000 at $55 would be $220k, more than your total revenue, so it's only some of them.)
+3. **Retention.** Of the 12 customers from a year ago, how many still pay, and did they add hives? Investors will ask this right after "is the 2.6× real?"
+4. **Is there a comparison inside the big customer's operation?** If only some yards had sensors, compare losses in yards with and without them over the same winter, under the same mite treatment. That would be real evidence the sensors work. Also, get his permission to be quoted.
+5. **Your answer to the competitor.** What do you do that a $45 sensor doesn't (accuracy, alerts, data history, support)? What do they charge for their app? Has any customer mentioned them or left? A big company entering can be framed as proof the market is real, but only if you have a fact that shows why customers stay with you.
+6. **Bridge terms.** Note or SAFE, cap, discount, close date, anything already committed. Also what it's a bridge *to*: the next round, at what milestone, and when. And the alternative: if the round falls short, what do you cut, and can you take pre-orders for spring to bring cash in sooner?
+
+One more thing to raise with your investors: decide now whether you'll hold your $55 price or cut it. Matching $45 would drop your margin to $7 a sensor. You don't have to put the answer in the update, but have one ready, because it's the first thing they'll ask.
+
+When you have answers to 1, 2, 5 and 6, I can draft it.

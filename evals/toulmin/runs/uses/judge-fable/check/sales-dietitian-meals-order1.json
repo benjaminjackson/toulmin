@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "sales-dietitian-meals",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both replies rightly keep the A1C promise off the page and push for Lena's name, a real menu, and cancellation and trial terms, which is what this wary serial-quitter needs. B is a little stronger: it ties the no-guarantee advice to this reader's skepticism, flags the 0.6 average as ambiguous where A asserts without basis that it covers all 14, and respects the 400-word limit by saying where to cut."
+}

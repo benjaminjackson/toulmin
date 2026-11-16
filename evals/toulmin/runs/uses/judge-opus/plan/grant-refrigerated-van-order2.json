@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "grant-refrigerated-van",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies catch the doubling problem and the cold-storage gap. B fits Marisol better: it puts the late-report history before the ask, ties each claim to a checkable reporting checkpoint with a date, and insists on a real 'what changed' answer. That speaks directly to her having to chase the last report. A leaves track record for the end and handles it more generically."
+}

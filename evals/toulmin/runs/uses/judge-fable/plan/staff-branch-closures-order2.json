@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "staff-branch-closures",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies drop the unsupportable \"better for everyone\" claim and ask about the deadline and a severance safety net. B ranks its questions around what these 14 most fear (how evening shifts are assigned, a try-it-and-still-get-severance window, pay specifics), which would draw out the seniority shift pick, the 6-month severance window and the $1.50 raise, and it suggests a separate detailed note to the 14. A's questions cover similar ground but are more scattered, and B's one weak spot is the unsupported phrase \"steadier work\"."
+}

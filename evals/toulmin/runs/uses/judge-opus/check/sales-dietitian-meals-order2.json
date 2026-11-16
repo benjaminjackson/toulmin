@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "sales-dietitian-meals",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies correctly reject the A1C promise and flag the same practical gaps, such as cancellation, freshness and the dietitian's anonymity. Reply B goes further for this wary reader: it asks for the reason consistent carbs help, questions how many meals the trial week includes, and points out that the reader's doctor will help decide. Reply A's extra ideas, caregivers and customer quotes, matter less for this reader."
+}

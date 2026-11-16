@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "sales-dietitian-meals",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Both replies reject the A1C promise. Reply A says to state the limits of the small, self-selected sample openly and to add a caution about medication and lows, which earns trust from a reader who is wary of health promises. Reply B says to hide or drop the line that results vary and that the meals don't replace the reader's care team, which undercuts honesty and credibility with this skeptical reader."
+}

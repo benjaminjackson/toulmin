@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "open-letter-pharmacy-rates",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "A tackles this reader's two doubts more directly. It asks what the rate was before January, which counters the idea that independents complain every year. It also asks how far members would have to drive to the next pharmacy, which answers her view that members have plenty of chains. It prepares for the brand-name margin rebuttal too. B usefully notices that the July 1 date has already passed, but its advice is less aimed at what this reader believes."
+}

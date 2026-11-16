@@ -1,0 +1,39 @@
+# Angle and plan for the project summary (no draft)
+
+## The angle
+
+Lead with the 300 tenants you turned away. That's your strongest number because it's a need you've already measured, not one you're estimating. "Represent more tenants" is vague. "We turned away 300 eligible tenants last year because no attorney was free, and this grant puts an attorney on those cases" is concrete. The pitch is about capacity: the demand is already there, the clinic already works, and the only thing missing is attorney time.
+
+The 58% outcome figure helps, but treat it as evidence the clinic is competent, not as proof that having a lawyer changes outcomes. You don't have a comparison group, so don't suggest one.
+
+## Two problems to solve before writing
+
+**1. Funding gap.** The attorney costs $78,000 a year. The most the foundation can give is $45,000 a year, which leaves $33,000 a year ($66,000 over two years) unfunded. A reviewer will do this math right away. The summary needs a sentence saying where the rest comes from. If your plan for that is the county contract, see point 3.
+
+**2. Third attorney or replacement?** One of your two attorneys leaves in June. If the foundation's money in practice pays to replace them, you'd still have two attorneys, not three, and many funders won't fund replacing existing staff. You need a clear answer: the departing attorney's position will be refilled with existing money (say which), and the grant adds a new position on top of that. If you can't say that honestly, the project is really about keeping your capacity, and the summary should say so.
+
+## Suggested order (about 300 words)
+
+1. **Need (2–3 sentences):** 1,140 eviction filings in the county. You represented tenants in 163 (about 14%). You turned away about 300 more for lack of an attorney.
+2. **Who you are and your track record (1–2 sentences):** a two-attorney clinic. In 58% of represented cases, the tenant kept the home or got at least 60 days to move.
+3. **The project:** one full-time attorney for two years, start date, and the expected number of additional tenants served per year.
+4. **Budget:** $90,000 requested toward a $156,000 two-year cost, with the source of the rest named.
+5. **Sustainability (1 sentence):** how the position continues after year two.
+
+## Leave out of the summary
+
+- The attorney's departure. Explain the staffing plan in the full narrative, not here.
+- That you have no comparison data for unrepresented tenants. Just don't make a comparison.
+- Any uncertainty about the county renewal, unless the foundation asks for risks. Do have a backup plan ready for the narrative.
+- Generic language about the housing crisis. With 300 words, every sentence should carry a number or a commitment.
+
+## Find out first
+
+- **Your caseload numbers:** Two attorneys with about 80 open cases each is about 160 open at once, but you only handled 163 cases all year. Evictions usually move quickly, so either the 80 includes other kinds of matters or the 163 counts only full representation. Settle this so you can honestly say how many tenants a third attorney would serve. That's the number the whole proposal rests on.
+- **The 300 turnaways:** Check your intake records to confirm these are unique, eligible, in-county tenants. "About 300" is fine in conversation but should be a firm number in a grant.
+- **Comparison data:** Ask the court clerk or local court data for the default judgment rate, or outcomes for tenants without lawyers. Even one figure (for example, "X% of unrepresented tenants lose by default") would make the 58% far stronger.
+- **Foundation rules:** Is the $45,000 limit per year or per award? Do they fund partial salaries, and do they require a match? Do they allow funding for refilled positions? Do they want outcome measures stated in the summary?
+- **County contract timing:** Which October renewal is this, and what are the odds and the expected amount? If it's the source of the $33,000 gap, it may need to be raised. Then you need a fallback, such as another funder, a fellowship, or a part-time position.
+- **Start date:** If the departing attorney leaves in June and the grant starts around then, you need hiring timelines for two positions at once.
+
+Once you've settled the funding gap and the staffing question, the summary is mostly a matter of putting the numbers in order.

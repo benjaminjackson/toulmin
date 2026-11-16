@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "public-comment-catch-limit",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both replies find the same main flaw: the 9%-vs-80% argument doesn't lead to the 3-fish ask. B adds more honesty and persuasion fixes that suit these facts. It flags \"never got all the way back\" as unsupported, suggests getting other captains' numbers to back up the harbor-wide claim, and gives practical advice on delivery and a written comment. A's break-even suggestion and its tighter wording of the review request are useful but weigh a bit less."
+}

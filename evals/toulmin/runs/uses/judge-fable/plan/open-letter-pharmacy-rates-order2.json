@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "open-letter-pharmacy-rates",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Both replies replace the unsupported \"a third will close\" claim with a survey of the 38 and propose the invoice-and-meeting offer. Only B aims at this reader's two beliefs: it asks how far the next pharmacy is if the independent closes (which surfaces the 20-plus miles to a chain) and tells the writer to pre-empt the brand-name-margin and \"the PBM sets rates\" objections."
+}

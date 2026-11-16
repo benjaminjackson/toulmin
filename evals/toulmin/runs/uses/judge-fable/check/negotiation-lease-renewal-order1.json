@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "negotiation-lease-renewal",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Reply A puts first what this landlord still holds against the tenant: it addresses the 2024 late payments head-on, cuts the \"more than the restaurant can carry\" line that signals fragility, answers the coffee chain with the 14-month vacancy, and adds a correct five-year gap figure and a firm signing date. Reply B ranks the late payments third and its lead suggestions (opening below $5,100, or stating the offer as about $26 a square foot against a $28 listing) risk pushing a landlord with a chain alternative away."
+}

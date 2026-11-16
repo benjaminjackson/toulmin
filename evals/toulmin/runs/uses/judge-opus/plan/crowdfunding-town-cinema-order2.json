@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "crowdfunding-town-cinema",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Reply B's questions bring out more of the facts Ruth already has that would reassure this wary reader: the pledges already in hand, whether the cost figures are firm quotes, the roof's condition, a target opening date and which promises she can keep. It also says plainly to put the failed campaign in and state what happens if the goal is missed. Reply A's advice is sound but more general, and it suggests cutting the 180 tickets a week, which is useful evidence."
+}

@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "promotion-front-office",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both steer away from the 'main reason' claim and prompt the month-by-month check that would surface the pre-renovation rise, the overtime result and the budget commitments. B fits this GM better: it anticipates the outside candidate, credits the renovation openly in the score line, and frames the seven weeks' overtime control as payroll experience, while A's suggested score line omits the renovation and never mentions a rival."
+}

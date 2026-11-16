@@ -1,0 +1,45 @@
+# Will it work?
+
+Mostly, yes. The tone is right for backers of a first campaign. It's honest, specific and modest, and the surveyor angle earns trust instead of sounding like an apology. The main problems are a few claims you can't back up, a budget that won't hold up to a close read, and a game that's barely described.
+
+## The "proven hit" request
+
+The writer didn't call it a proven hit, and I think that was the right call. Keep it that way.
+
+- **It's checkable, and it falls apart when checked.** Backers can click through to the ratings site and see 23 ratings. In this hobby, a small number of early ratings is usually read as playtesters and friends, so an 8.1 from 23 people won't prove much to the backers you most want.
+- **It's not true yet.** The game hasn't been published or sold. If a first-time creator overclaims on page one, readers start doubting everything else on the page, including the honest budget.
+- **Your real proof is better.** 140 sessions with about 60 people is unusually thorough, and the draft is right to lead with it. "Thoroughly tested" is believable. "Proven hit" makes people roll their eyes.
+
+## Things the draft says that aren't in your facts
+
+Check each of these before you publish. Any one that's false is a problem.
+
+- **"The art is finished. What you see on this page is what goes to the printer."** You never said this. It's a strong promise, and if it's wrong it will come back on you.
+- **"Lantern Winter."** Make sure that's actually your title.
+- **"Backing on day one gets you the game at the campaign price."** This implies the price goes up later. Only keep it if you have a higher retail price planned.
+- **Details about the playtests:** "families, longtime hobby gamers, people who had never tried a cooperative game," "nearly every session changed something," and the "one more winter" quote. These may be true, but they were invented. Swap in real details and a real quote from a playtester.
+
+## Budget problems (this is where experienced backers will push)
+
+The line items add up to $27,900, which is fine. The issues are what the numbers imply and what's missing:
+
+1. **1,500 copies vs. about 570 backers.** At $49, the $28,000 goal is about 571 pledges. If you fund at goal, you're printing roughly 930 extra copies. That may be your plan (selling them after the campaign), but the draft doesn't say so, and a careful reader will notice the mismatch. Explain it in one sentence, or get a quote for a smaller run.
+2. **Freight and tariffs are missing.** "$9 per copy" sounds like delivery to backers. Getting 1,500 games from the factory to a US warehouse, plus import duties, is a separate cost that can be large right now. If it isn't in the $17,400, it isn't in the budget at all.
+3. **The buffer is thin.** $2,600 is about 9% of the goal. It's labeled "for surprises," but item 2 alone could use it all up.
+4. **International backers aren't mentioned.** The draft only gives the US price. Say whether you ship elsewhere and how.
+
+## Weaknesses in the pitch itself
+
+- **The game gets the least space.** The page spends more words on the budget and on you than on what players actually do. "Decide who tends the light, who keeps the household going" is a theme, not a mechanic. Add one concrete example of a tough decision during a turn, plus the basics backers look for: play time, ages, what's in the box. Then show the game in images and video.
+- **The "Why back now" section is generic.** "Early funding is what turns a campaign into a real print run" could be on any campaign page. Either give a concrete reason to back early (a real early-bird price, an add-on) or cut the section and let the closing line do the work.
+- **The 1,240 sign-ups are fine as a thank-you,** which is how the draft uses them. Don't build them up any more than that, since only a fraction of a mailing list usually ends up backing.
+
+## What I'd change, in priority order
+
+1. Confirm or remove the invented claims (finished art, title, price increase, playtest details).
+2. Fix the budget: explain the 1,500-copy run and add freight, tariffs and international shipping.
+3. Make the game section longer and more concrete.
+4. Keep the "proven hit" claim out.
+5. Tighten or cut "Why back now."
+
+The voice, the opening hook and the honest "who's making this" section are its strengths, so leave those as they are.

@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "open-letter-pharmacy-rates",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Reply B speaks more directly to this reader's doubts: it moves the 14 counties up as the strongest access argument against her belief that members have plenty of chains, and it prepares answers to \"what changed in January,\" mail order, the PBM deflection and the cost to the plan. Reply A has good points, like offering to share data and being stuck with the 22% of business, but more of its advice is about the pharmacies' own situation than about why the plan should act."
+}

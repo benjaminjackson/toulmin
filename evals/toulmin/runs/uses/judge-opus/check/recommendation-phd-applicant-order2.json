@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "recommendation-phd-applicant",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies keep the honest framing, catch the 'single season' error and the invented claims, and ask for a ranking against the 30 thesis students. B does more for this skeptical ecologist. It flags that 'marsh effect' overstates what two sites can show, and it asks for supervisor detail in the thin shellfish-lab paragraph, which would bring in the user's strong facts that the supervisor would rehire her and that she ran the lab's water sampling alone for two weeks."
+}

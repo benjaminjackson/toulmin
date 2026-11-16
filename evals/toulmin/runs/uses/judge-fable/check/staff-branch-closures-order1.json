@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "staff-branch-closures",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies rightly keep the \"better for everyone\" claim out and ask for the center's location, pay detail and shift mechanics. Reply A also asks whether someone who tries the role and leaves keeps the severance, which draws out the 6-month commitment most likely to get reluctant tellers to try the job, and it flags the closing line as pressure; Reply B's \"are we next\" point serves other branches more than these 14."
+}

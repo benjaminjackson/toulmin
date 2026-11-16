@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "crowdfunding-town-cinema",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B's questions draw out the facts this wary past backer most needs: the $11,000 already pledged, the all-or-nothing refund, the reopening date and whether the roof quote is firm. A misses the pledges and the opening date, advises dropping the 180 tickets a week, and wrongly guesses the deadline is seven months away."
+}

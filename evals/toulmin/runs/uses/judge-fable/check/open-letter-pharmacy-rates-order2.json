@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "open-letter-pharmacy-rates",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies catch the dropped \"a third will close\" claim and propose the same survey fix, and both push for a sourced $1.80, a concrete pricing ask and a dated meeting. B goes further on what this director actually believes: it moves the 14 counties up as the access argument against \"members have plenty of chains,\" pre-empts the mail-order and \"take it up with the PBM\" replies, and raises the brand-drug offset. A's \"say you're stuck\" advice would weaken the pharmacies' leverage, though B asks for some data the user lacks."
+}

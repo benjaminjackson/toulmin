@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "public-comment-catch-limit",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both replies drop the false \"every boat\" claim, accept the staff's stock numbers and push for a concrete alternative. B fits a two-minute spoken comment better: it gives a true but strong replacement line (\"will push some boats over the edge\", which matches the two captains who would sell), limits the spoken numbers, and warns against blaming private anglers. A leans on shakier extrapolations (about $80,000 over three years, \"never fully\" recovered, \"almost all its lost income falls on you\"), though its logbook question is a good one."
+}

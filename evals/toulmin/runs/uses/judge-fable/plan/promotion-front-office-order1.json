@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "promotion-front-office",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both steer away from \"main reason\" and ask for the checks that would surface the pre-renovation score rise, the overtime result and the controller commitment. A is slightly better fitted to this reader because it names the outside-candidate comparison and the renovation objection as rebuttals to answer and adds a first-months plan, whereas B never addresses the rival candidate."
+}

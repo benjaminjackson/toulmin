@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "investor-update-clinic-scheduling",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both replies cover the flat MRR, runway, repeat-churn risk and demand signals. A is better fitted to a cold lead investor: it suggests calling the biggest investors before the group email and frames the quarter as loss, lesson and plan. B leads with \"underneath it the business grew\" on an unverified 15% figure and tells the founder to omit any reason for the silence, which risks reading as spin to someone already doubting their candor."
+}

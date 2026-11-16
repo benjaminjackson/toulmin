@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "investor-update-clinic-scheduling",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both replies give near-identical advice on runway, the EHR objection, unit confusion and the missing quarters, and both wrongly wave the apology through without asking for the real reason or a dated commitment, which is what this investor most needs. A edges ahead because it asks directly whether other customers are exposed to the same EHR risk (which would surface the two customers paying $3,800) and tells the founder to say now which way they lean on raising, since these investors are the likely source of that money."
+}

@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "win-back-home-cleaning",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "This reader left for price and knows they save $25, so A's advice to name the gap and say what it buys (employees, insurance on every visit) and state the $165 afterwards speaks to their actual decision, while B tells the user to avoid the price comparison. B also slips in an unsupported \"backup you've met\"; otherwise both steer off the false absolute promise and ask similar useful questions."
+}

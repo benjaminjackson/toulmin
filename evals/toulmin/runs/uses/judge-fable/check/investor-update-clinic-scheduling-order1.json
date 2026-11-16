@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "investor-update-clinic-scheduling",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both replies flag the same core problems (runway decision, customer/clinic units, missing two quarters, EHR reminders), but B's prompts are more likely to surface the facts the founder actually holds: asking whether other customers are exposed to the same EHR risk leads to the two customers paying $3,800 a month, and asking for watch-list targets leads to the 6 committed reminder buyers. B also gives concrete cuts to stay under 500 words. A's one advantage is tying the weak \"next update\" promise to the missed updates, which matters to this reader, but neither reply pushes for a dated update commitment."
+}

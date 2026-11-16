@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "grant-refrigerated-van",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Both replies catch the unsupported doubling claim, but A is built around what Marisol cares about most: it puts the late report before the ask with a concrete change, ties the outcome claim to a dated reporting checkpoint, and keeps the reserve balance and running costs in view. B puts the late report in one sentence at the end, advises keeping the $11,000 figure out of the narrative, and spends effort on speculative extras such as an estimated headcount and a 10-year cost per pound."
+}

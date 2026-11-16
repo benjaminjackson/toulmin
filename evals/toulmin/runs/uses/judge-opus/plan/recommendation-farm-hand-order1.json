@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "recommendation-farm-hand",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies prompt for the facts that matter most here: the $8,000 vet figure, holding his job part-time, and phrasing his return honestly. A ranks its questions and ties the job commitment directly to the committee's worry about whether he will finish. A also addresses his written English openly, which a fast reader who will see his application will find more believable, so it should lead to a slightly sharper letter."
+}

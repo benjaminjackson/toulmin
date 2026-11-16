@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "sales-salon-bookkeeping",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Reply B asks whether Carla does tax returns. The answer is no, so the reader's cousin can keep doing them and gets clean books, which addresses the reader's biggest objection. Reply A never asks this, though it handles the price rise more carefully where B states retention after the rise as fact before checking."
+}

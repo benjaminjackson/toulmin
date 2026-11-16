@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "cover-letter-plant-trainer",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies rightly drop the unsupported claim about halving training time, and both ask about her signed training records. A fits her actual situation better: it asks whether she has started GMP coursework (she has enrolled in one), raises the start-date limit she has (no start before June 14), and keeps the words \"GMP\" and \"training records\" in the letter for an HR screener. B asks for the manager's name, but it tells her to take a GMP course she has already enrolled in."
+}

@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "win-back-farm-share",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both spot the key gap: the draft makes no promise about how the farm will respond the next time crops fail. A's concrete suggestions (credit when boxes fall below a set level, weekly updates) match what Sam can actually commit to and speak to this reader's 'went quiet' grievance, and its ordered fix list frees the words to add them. B spends more effort on a make-good for last year that Sam hasn't offered and suggests cutting real changes, though its 'don't oversell the nets' point is good."
+}

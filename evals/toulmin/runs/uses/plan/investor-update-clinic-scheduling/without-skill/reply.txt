@@ -1,0 +1,36 @@
+## The angle
+
+Investors will work out the runway as soon as they see the numbers: $480k ÷ $44k ≈ **11 months**, with revenue flat. They haven't heard from you in six months, so their first worry will be whether you see that and have a plan. The update should answer it.
+
+The story that holds together is this: **we lost our biggest customer to a scheduler built into their electronic records system, and that showed us both the threat and the part of our product that survives it.** A records system can bundle a calendar. It's much harder for it to match your reminder results. That's why reminders-only for $150 a month is the right next move, and it makes the launch your strategy rather than one item on a list. The update should read as "here's what happened, what we learned, and what we're doing about it," not as "flat quarter, but here's some good news."
+
+## Order
+
+1. **Start with the hard numbers.** MRR flat at $41k, the biggest customer gone, about 11 months of runway. Acknowledge the missed updates in one sentence and commit to quarterly from now on. Don't over-apologize.
+2. **Why the customer left.** Say it was their records system's built-in scheduler. Then say honestly how many of your remaining customers face the same risk.
+3. **What held up.** Gross adds were good: replacing $5.5k of lost revenue is real sales work. The reminder result is the main evidence: no-shows fell from 13% to 7%.
+4. **The plan.** Reminders-only launches next month at $150. Give a specific target for the next update, such as X paying clinics by a certain date.
+5. **Cash.** Say what you'll do: raise, cut, or a path to break-even, with dates. A vague answer here will hurt you more than any other number.
+6. **Asks.** Make them specific: introductions to multi-site physical therapy groups, contacts at records-system companies, help with fundraising.
+
+## Leave out
+
+- Long explanations for the missed updates.
+- "We added 9 clinics!" on its own. It looks like spin without the churn next to it.
+- The departed chain's name.
+- Roadmap or team detail that has nothing to do with the plan above.
+
+## Find out before writing
+
+- **Clinics or customers?** The 12-clinic chain is "one of the 4" you lost, so you must be counting customers there. Count the same way throughout, or investors will catch it.
+- **MRR at your last update** and what you promised then. They'll compare.
+- **Is $44k net burn or gross spending?** Will you cut costs, and when?
+- **How solid is the 7% vs 13%?** How many clinics, over what period? Is it a before/after comparison that seasonality could explain?
+- **Dollar value.** Each point of no-show reduction is worth so many missed visits times the value of a visit. If one clinic saves well over $150 a month, lead with that number.
+- **Can reminders-only work with clinics' existing schedulers?** Which records systems does it connect to today?
+- **Demand signals.** Do you have a waitlist, pilots, or letters of intent? Would the chain that left buy reminders-only? Call them. A yes from them would be your strongest sentence.
+- **Risk of downgrades.** What do current customers pay on average? Could some switch down to the $150 tier?
+- **Concentration.** What share of MRR comes from your largest remaining customer?
+- **The fundraising decision.** Make it before writing. The update can't be vague about cash.
+
+Finally, consider calling your two or three biggest investors before you send it. After a six-month silence, they shouldn't learn about the lost customer and the 11-month runway from a group email.

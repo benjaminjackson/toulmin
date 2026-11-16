@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "recommendation-phd-applicant",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies steer away from the unsupported top-journal claim and ask for the ranking and the shellfish-lab details. A is more specific to a sceptical marine ecologist: it names the exact scientific weaknesses (one year, two confounded marsh sites), frames the lab job as validation from outside the college, and asks whether she was asked back, which would surface the 'would hire her again' fact."
+}

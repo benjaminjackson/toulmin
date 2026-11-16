@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "cover-letter-plant-trainer",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both drop the unsupported \"cut in half\" claim and ask about the signed-records paper trail, but A fits this HR screener better: it tells the writer to put \"GMP\" and \"training records\" honestly in the gap paragraph, asks whether GMP coursework is already under way (it is), and surfaces the June start date. B's main edge is asking for the hiring manager's name, and it leaves out the start-date and screening points."
+}

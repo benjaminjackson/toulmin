@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "open-letter-pharmacy-rates",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Reply A goes straight at this director's belief that members have plenty of chain pharmacies. It treats the 14 counties as the main argument, ties them to the plan's duty to keep a pharmacy within members' reach, and prepares an answer to \"members can use mail order.\" Reply B has useful points, such as offering to share the cost data and naming a pricing benchmark, but its argument that the pharmacies can't leave the network speaks to their own problem rather than this reader's."
+}

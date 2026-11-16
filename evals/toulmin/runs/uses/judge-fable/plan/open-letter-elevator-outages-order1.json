@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "open-letter-elevator-outages",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Reply A opens on the residents' situation and concedes the inspection calmly and accurately (safe when it runs, silent on how often), then frames the 74 signatures as broad support, which suits a manager who thinks the company has done well and the association is a few loud people. Reply B has asks closer to what the association wants (rent credit, a meeting), but its accusatory lead, its \"It still doesn't run\" line and its claim to speak for the building risk hardening her and overstating the facts."
+}

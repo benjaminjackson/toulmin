@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "grant-eviction-defense",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both flag the June departure, the $33k gap, the county renewal and the caseload math. B goes further with reader-specific moves: deciding between expansion and keeping capacity, saying what happens if the grant is refused, the 35%-of-those-who-asked figure, and a real post-year-two sentence. A's one advantage is strengthening the evaluation section, which B would trim."
+}

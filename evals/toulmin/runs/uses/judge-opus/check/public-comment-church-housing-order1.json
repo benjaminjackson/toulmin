@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "public-comment-church-housing",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "clear",
+  "reason": "Both replies catch the Sunday parking gap, the overclaims and the \"my neighbors and I\" problem. Only B notices that the draft hides the speaker's church membership, which a hostile room would seize on. B also pushes the speaker to ask for a specific action, which fits the real goal of approval with a traffic-signal condition, and it adds the peak-hour trip point that speaks to the commissioners' traffic concern."
+}

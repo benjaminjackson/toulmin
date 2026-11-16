@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "recommendation-farm-hand",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both flag the invented details, the risky absence paragraph and the missing job commitment, but A asks directly what the nine mastitis cases would have cost, which draws out the vet's $8,000 figure, and it also catches the boilerplate closing. B's push for proof of written ability is sharp for this reader, but the only fact it could surface is the failed-then-passed safety test, so A's edge is small."
+}

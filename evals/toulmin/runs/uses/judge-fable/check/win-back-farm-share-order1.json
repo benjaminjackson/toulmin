@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "win-back-farm-share",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both replies spot the main gap: the draft never says what members get if crops fail again, and offers nothing for last year. B's suggested fixes (a credit when boxes fall below a set level, regular updates in a bad stretch) sit closest to what Sam can actually commit to, and its ordered list with a specific cut to make room is easier to act on within 200 words. A's warning not to oversell the nets and field is valuable, which keeps the gap small."
+}

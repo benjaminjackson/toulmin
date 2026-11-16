@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "negotiation-lease-renewal",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "This landlord still brings up the two late payments, and Reply A has the letter address them up front with thanks and the on-time record since (and flags autopay as a trade), while Reply B tells the user to leave them out, so his main objection goes unanswered. B's named decision date and five-year total are useful, but they don't offset that omission."
+}

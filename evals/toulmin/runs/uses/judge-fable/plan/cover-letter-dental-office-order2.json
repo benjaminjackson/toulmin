@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "cover-letter-dental-office",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both give a similar plan and ask questions that would surface the Dentrix course, but B leads with the receivables figure an owner cares most about and has her state the gap plainly (caring for her mother, who died last spring, now ready for full-time work), which suits a reader undecided about gaps better than A's vaguer \"family member\" wording. A's reference question is a real plus, so the gap is small."
+}

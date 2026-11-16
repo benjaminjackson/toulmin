@@ -1,0 +1,39 @@
+**Verdict:** It will get a fair reading, but it probably won't stand out. It's honest, clear and well organized, and it doesn't oversell. Its weakness is that it reads like a teacher describing teaching. The reader has to translate it into their own world, and a hiring manager screening for GMP experience may not bother.
+
+## The biggest issue: the "cut training time in half" claim is gone
+
+You asked for this line and the draft dropped it without telling you. I think dropping it was right, but you should make that call knowingly.
+
+- **Nothing in your background supports it.** You've never seen their training program, so you can't know how long it takes or why.
+- **In pharma, it can count against you.** New-hire training time at a GMP plant is largely set by required SOP training, qualification sign-offs and documentation. To a QA or training manager, promising to halve it can sound like you'd cut corners on compliance. That's the one thing they can't risk.
+- **Better version:** say you'd look for ways to make training faster and more effective *without* weakening qualification. Or save the topic for the interview, after you've asked how their onboarding works.
+
+## Where it's weak
+
+1. **It doesn't use their vocabulary.** Your experience already maps onto theirs, but the letter never makes the link:
+   - Your safety program is writing procedures and enforcing them.
+   - Training new teachers is on-the-job training with a readiness check.
+   - Tracking where students struggled is finding training gaps.
+
+   Words like *SOPs, competency assessment, qualification, retraining when procedures change,* and *audit-ready records* would do a lot of work here. Use them only where they honestly describe what you did.
+
+2. **The training-new-teachers paragraph is the most relevant part, but it's the vaguest.** "Check that they can actually do the work" is exactly what a GMP trainer does. *How* did you check? If you watched them run a procedure, used a checklist, or signed them off, say so. That's your closest match to their competency sign-offs. Also, "I teach adults as well as students" overstates it a little at about two people a year. Just state the real scale.
+
+3. **The safety record needs context.** "No injuries beyond first aid since 2019" is strong, but it means more if you can compare it to before the program, or note the lab hours involved (seven years × ~140 students). Only add what you actually know.
+
+4. **"140 students across five classes" is in the wrong paragraph.** It's in the "measurable results" paragraph, but it isn't a result. Move it to the opening as a sign of scale and workload, or cut it.
+
+5. **The gap paragraph is honest but thin.** "I expect to learn both quickly" is an assertion. Google Classroom isn't comparable to a GMP training system with e-signatures and audit trails, and the reader knows that.
+   - Make "I've kept detailed records for years" specific: what records? Safety sign-offs? Lab training documentation?
+   - Better yet, show a concrete step. For example, a GMP fundamentals course you've started, or reading the FDA personnel-training requirements (21 CFR 211.25). Only include this if you've actually done it, and it's worth doing before you send the letter.
+   - Keep the line "documentation is part of the work, not an extra step." It's the best sentence in the letter for this reader.
+
+6. **There's no "why."** The reader will wonder why a nine-year teacher is leaving the classroom, and why this plant. One or two sentences would fix that. Your interest in moving into industry, the plant's products, and the fact that you're local and not relocating are all small but real points.
+
+7. **The opening and closing are generic.** "I'm applying for…" and "Thank you for your time and consideration" are filler. The opening should hold your strongest point, which is that you've spent nine years training people to follow technical procedures safely and checking that they can.
+
+## What to keep
+
+The structure, the plain style, the real numbers (41% to 58%, 12 hours, 2019), and the direct way it handles the gaps. Don't let a revision make it puffier.
+
+**Check before sending:** tailor it to the posting's exact wording (ATS screens match keywords), fill in a real hiring manager's name if you can find one, and confirm it still fits on one page.

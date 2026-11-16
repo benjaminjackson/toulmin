@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "recommendation-farm-hand",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies draw out the $8,000 saving, the job-held commitment and an honest way to handle the 5-week leave. A is better suited to a committee member reading quickly because it puts the recommendation first, and its advice to state the written-English gap candidly alongside the night class is more honest and more credible than B's advice to avoid calling it a weakness."
+}

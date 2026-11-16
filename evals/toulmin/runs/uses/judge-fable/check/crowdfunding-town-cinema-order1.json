@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "crowdfunding-town-cinema",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both catch the missing refund promise, the $60,000-versus-$47,000 gap and the \"why won't it close again\" question. A is slightly better for this reader because it turns the past refund into proof of trust (\"every dollar back, just like last time\"), reframes the gap encouragingly, and pushes for a realistic gift amount, while cutting repetition rather than the emotional appeal. B's catch that \"The building is secured\" overstates a conditional lease is a real point in its favour, which keeps the gap small."
+}

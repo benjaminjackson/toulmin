@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "win-back-home-cleaning",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "This reader left over price, and Reply B focuses on making the $25 difference worth it from the customer's side: what insurance protects them from, and a regular cleaner the app can't promise. It also asks for retention data, which would bring out the true fact that only 1 of 18 cleaners has left since July. Reply A tells the owner not to make any retention claim, which would leave that fact out, and its advice to segment and name the cleaner does less for this particular reader."
+}

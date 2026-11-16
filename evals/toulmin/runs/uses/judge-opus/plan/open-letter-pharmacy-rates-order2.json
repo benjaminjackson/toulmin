@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "open-letter-pharmacy-rates",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Reply B is more likely to persuade this reader. It goes straight at her two doubts. It asks how far members would drive if the local pharmacy closed, which answers her belief that members have plenty of chain pharmacies, and it prepares for the brand-name offset argument. It also suggests surveying the 38 pharmacies and offering invoices, which turns the unsupported 'a third will close' claim into a number the user can check and defend. Reply A drops that claim correctly and usefully flags that the July 1 renewal is now in 2027, but its plan is more generic and does less to answer her 'they complain every year' view."
+}

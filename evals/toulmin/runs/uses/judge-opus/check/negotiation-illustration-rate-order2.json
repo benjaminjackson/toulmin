@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "negotiation-illustration-rate",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies correctly drop the unsupported $12,000 claim and point out the same weak spots. B goes further with advice that fits this situation: it checks whether the $9,000 is a flat fee, which would make the sales argument much stronger, and it suggests stating the range as the market rate instead of leaning on the agent. Those points give the editor firmer grounds to pay more than the $8,000 alternative."
+}

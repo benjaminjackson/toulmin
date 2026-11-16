@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "investor-update-clinic-scheduling",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both give a similar honest structure and ask the questions that surface the six pre-commitments and the $3,800 of exposed revenue. B fits this cold lead investor better: it advises calling the biggest investors before the group email, leaves room for a one-line honest reason for the silence (A says to omit reasons entirely), and avoids A's \"15% growth excluding the lost customer\" framing, which risks reading as spin to someone already distrustful."
+}

@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "investor-update-clinic-scheduling",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies catch the same main problems: runway timing, the clinic-count confusion, the two skipped quarters and the gap in the standalone product. B links them more closely to this investor. It shows the cut-or-raise decision would rest on only one or two months of reminder sales, and it says that putting reasoning off until next time looks bad from a founder who just skipped two updates. It also asks why the other three customers left and suggests asking investors for views on raising, which would draw this cold investor back in."
+}

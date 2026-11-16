@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "grant-eviction-defense",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Reply B tells the writer to state the June departure and the $33,000-a-year gap with the answers beside them, and gives a concrete, caveated \"about 80 more tenants a year\" figure, which is what a rubric-scoring retired judge will look for. Reply A advises leaving the departure and the county renewal risk out of the summary, which would produce a less candid piece that a careful reviewer is likely to distrust."
+}

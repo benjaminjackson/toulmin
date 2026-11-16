@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "recommendation-farm-hand",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Reply A asks directly what the nine early mastitis catches saved, which would bring out the vet's $8,000 figure, the strongest concrete fact available. A also leaves the absence paragraph open as a short, factual option, so the user can add the true details that the cousin covered his shifts and he came back on the agreed day. Reply B recommends cutting that paragraph, which would drop those details. Both replies ask about keeping his job open."
+}

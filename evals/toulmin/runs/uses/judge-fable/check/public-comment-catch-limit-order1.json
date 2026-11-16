@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "public-comment-catch-limit",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both replies keep the false 'every boat' line out, flag the mismatch between the 9% argument and the 3-fish ask, and push the draft to engage the 78% figure. B additionally catches the unsupported 'I never got all the way back' and urges gathering other captains' evidence, which would surface the honest strong claim that two captains would sell; A's break-even and data-review suggestions are good but it misses that overclaim."
+}

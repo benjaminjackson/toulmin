@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "win-back-home-cleaning",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "This reader left over price, not cleaner changes, and B tells the writer to name the $25 gap, say what it buys (employees, insurance on every visit) and state the $165 price after the $99 visit. A advises leaving the price comparison out, which sidesteps the one thing this reader is weighing; both handle the same-cleaner promise honestly and in much the same way."
+}

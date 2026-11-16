@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "sales-dietitian-meals",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Reply A tells the writer to show the full A1C breakdown (10 down, 3 same, 1 up, small group, not a study) and names the reader's wariness of miracle claims, which is what a sceptical repeat-quitter needs to trust the page. Reply B suggests burying or dropping the numbers, quotes only the favourable 10 of 14, and falls back on vague \"supports blood sugar management\" language this reader discounts; A's stray \"20 meals\" slip is corrected later in its own outline."
+}

@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "investor-update-clinic-scheduling",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Reply A's advice to call the biggest investors before the group email speaks directly to this cold lead angel, and its angle avoids spin while asking the right questions about at-risk customers, demand signals and cash. Reply B's headline of 15% growth if you leave out the lost chain risks looking like spin to an investor who already distrusts the founder, though its runway date and break-even math are useful."
+}

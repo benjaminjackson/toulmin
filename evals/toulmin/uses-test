@@ -1,0 +1,531 @@
+#!/usr/bin/env bash
+# Test of the two uses of the toulmin skill that the drafting eval does not cover: PLAN (what to say before any prose
+# exists) and CHECK (what is weak in a draft the user already has).
+#
+#   uses-test                  write every missing reply, then judge every missing pair with both judges, then print the summary
+#   uses-test --task <task>    the same for one task only (the smoke run)
+#   uses-test --summary        print the summary and write it to runs/uses/summary.md
+#   uses-test --print-writer-prompt <use> <task>         print one writer prompt, with no model call
+#   uses-test --print-judge-prompt <use> <task> <order>  print one judge prompt, with no model call
+#
+# Tasks: every task file whose `set` is tune or sealed. Each task gets one PLAN and one CHECK request, and each request
+# is run once in each arm. The two arms differ only in --plugin-dir. The CHECK draft is a document Claude wrote with no
+# skill in an earlier round (see draft_path).
+# Replies go to runs/uses/<use>/<task>/<arm>/ (reply.txt, transcript.jsonl, and skill-loaded.txt for with-skill).
+# Each pair is judged blind, in both orders, by opus and by fable (claude-fable-5-2). Results go to
+# runs/uses/judge-<judge>/<use>/<task>-order<1|2>.json.
+# The script is resumable: a reply or a judge result that already exists is not made again.
+# At most 8 claude sessions run at once: the writers all finish before the judges start, and each phase runs through
+# one `xargs -P 8`.
+
+set -uo pipefail
+
+# BASH_SOURCE[0] is the path of this file.
+script_directory=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+repository_root=$(cd "$script_directory/../.." && pwd)
+base_script="$script_directory/lib/base.sh"
+tasks_directory="$script_directory/tasks"
+uses_directory="$script_directory/runs/uses"
+yq_program=/opt/homebrew/bin/yq
+
+writer_model=opus
+fable_model=claude-fable-5-2
+parallel_sessions=8
+maximum_load=12
+timeout_seconds=900
+writer_system_note="This session cannot ask the user anything. Give your whole answer in one reply."
+verdict_schema='{"type":"object","properties":{"reason":{"type":"string"},"winner":{"type":"string","enum":["A","B","tie"]},"margin":{"type":"string","enum":["clear","slight","none"]}},"required":["reason","winner","margin"]}'
+uses=(plan check)
+arms=(with-skill without-skill)
+judges=(opus fable)
+
+# shellcheck source=lib/base.sh
+source "$base_script"
+# shellcheck source=lib/user-knows.sh
+source "$script_directory/lib/user-knows.sh"
+
+# Print the names of the tasks in this test, one per line: every task file whose `set` is tune or sealed.
+list_tasks() {
+  local task_file
+  for task_file in "$tasks_directory"/*.yaml; do
+    local set_name
+    set_name=$("$yq_program" -r '.set // ""' "$task_file")
+    if [ "$set_name" = tune ] || [ "$set_name" = sealed ]; then
+      "$yq_program" -r '.name' "$task_file"
+    fi
+  done
+}
+
+# Print one key of a task file. Arguments: task name, key name (for example prompt or reader).
+task_key() {
+  local task_name=$1
+  local key_name=$2
+  "$yq_program" -r ".$key_name" "$tasks_directory/$task_name.yaml"
+}
+
+# Print the path of the no-skill draft used by the CHECK request of one task.
+# A tune task takes it from runs/conv-baseline, a sealed task from runs/sealed-shipped: the first run directory in
+# sorted order under <task>/without-skill/opus/.
+draft_path() {
+  local task_name=$1
+  local set_name
+  set_name=$(task_key "$task_name" set)
+  local source_round=conv-baseline
+  if [ "$set_name" = sealed ]; then
+    source_round=sealed-shipped
+  fi
+  local model_directory="$script_directory/runs/$source_round/toulmin/$task_name/without-skill/opus"
+  local first_run
+  # The run directories are named by start time, so sorted order is time order.
+  first_run=$(ls "$model_directory" | sort | head -n 1)
+  echo "$model_directory/$first_run/grades/judge/document.txt"
+}
+
+# Print the user message for one use of one task. Arguments: use (plan or check), task name.
+build_writer_prompt() {
+  local use=$1
+  local task_name=$2
+  local request_text
+  request_text=$(task_key "$task_name" prompt)
+  if [ "$use" = plan ]; then
+    printf "I'm not ready for a draft yet. Here is what I was going to ask for:\n\n%s\n\nBefore any writing: what's our angle? What should this say, in what order, and what should I leave out or find out first? Don't write the piece." "$request_text"
+  else
+    printf "Here is what I asked a writer for:\n\n%s\n\nHere is the draft I got back:\n\n%s\n\nIs this going to work on the person it's for? Where is it weak, and what would you change? Don't rewrite it, just tell me." "$request_text" "$(cat "$(draft_path "$task_name")")"
+  fi
+}
+
+# Print the directory that holds one reply. Arguments: use, task name, arm.
+reply_directory() {
+  echo "$uses_directory/$1/$2/$3"
+}
+
+# Return 0 when one reply exists and is not empty. Arguments: use, task name, arm.
+# Why: reply.txt is written only after a good result event, so its presence means the session succeeded.
+reply_exists() {
+  local reply_file
+  reply_file="$(reply_directory "$1" "$2" "$3")/reply.txt"
+  [ -s "$reply_file" ]
+}
+
+# Run one writer session and save its reply and event stream. Arguments: use, task name, arm.
+# Both arms get the same model, tools and system note; only the with-skill arm adds --plugin-dir.
+# Returns non-zero on a timeout, a missing result event, an error result or an empty reply.
+write_one() {
+  local use=$1
+  local task_name=$2
+  local arm=$3
+  if reply_exists "$use" "$task_name" "$arm"; then
+    return 0
+  fi
+  local output_directory
+  output_directory=$(reply_directory "$use" "$task_name" "$arm")
+  mkdir -p "$output_directory"
+  local -a claude_flags=(
+    --model "$writer_model"
+    --tools "Skill,Read,Glob,Grep"
+    --allowedTools "Skill,Read,Glob,Grep"
+    --append-system-prompt "$writer_system_note"
+    --output-format stream-json
+    --verbose
+  )
+  if [ "$arm" = with-skill ]; then
+    claude_flags+=(--plugin-dir "$repository_root/toulmin")
+  fi
+  local transcript_file="$output_directory/transcript.jsonl"
+  # `timeout` can only start a program, not a shell function, so it starts a new bash that sources base.sh and
+  # calls claude_stripped. In `bash -c 'script' name arg1 ...`, "name" becomes $0 and the rest become "$1", "$2", ...
+  build_writer_prompt "$use" "$task_name" | timeout "$timeout_seconds" bash -c 'source "$1"; shift; claude_stripped "$@"' uses-test "$base_script" "${claude_flags[@]}" > "$transcript_file" 2> "$output_directory/stderr.txt"
+  # `fromjson?` skips any line that is not JSON instead of stopping jq.
+  local result_event
+  result_event=$(jq -cR 'fromjson? | select(.type == "result")' "$transcript_file" | tail -n 1)
+  if [ -z "$result_event" ]; then
+    echo "FAIL write $use $task_name $arm: no result event" >&2
+    return 1
+  fi
+  if [ "$(printf '%s' "$result_event" | jq -r '.is_error')" = true ]; then
+    echo "FAIL write $use $task_name $arm: the result is marked as an error" >&2
+    return 1
+  fi
+  local reply_text
+  reply_text=$(printf '%s' "$result_event" | jq -r '.result // ""')
+  # "${variable//[[:space:]]/}" removes every whitespace character, so this tests for a reply that is only whitespace.
+  if [ -z "${reply_text//[[:space:]]/}" ]; then
+    echo "FAIL write $use $task_name $arm: empty reply" >&2
+    return 1
+  fi
+  if [ "$arm" = with-skill ]; then
+    # yes when any assistant message called the Skill tool with skill toulmin:toulmin.
+    local skill_calls
+    skill_calls=$(jq -cR 'fromjson? | select(.type == "assistant") | .message.content[]? | select(.type == "tool_use" and .name == "Skill" and .input.skill == "toulmin:toulmin")' "$transcript_file" | wc -l | tr -d ' ')
+    if [ "$skill_calls" -gt 0 ]; then
+      echo yes > "$output_directory/skill-loaded.txt"
+    else
+      echo no > "$output_directory/skill-loaded.txt"
+    fi
+  fi
+  # Write to a temporary file and rename it, so an interrupted run never leaves a half-written reply.
+  printf '%s\n' "$reply_text" > "$output_directory/reply.txt.tmp"
+  mv "$output_directory/reply.txt.tmp" "$output_directory/reply.txt"
+  echo "ok   write $use $task_name $arm"
+}
+
+# Print the model name a judge is called with. Argument: opus or fable.
+judge_model() {
+  if [ "$1" = fable ]; then
+    echo "$fable_model"
+  else
+    echo opus
+  fi
+}
+
+# Print the path of one judge result. Arguments: judge, use, task name, order.
+judge_result_path() {
+  echo "$uses_directory/judge-$1/$2/$3-order$4.json"
+}
+
+# Return 0 when one judge result exists and holds a valid winner and margin. Arguments: judge, use, task, order.
+judge_result_valid() {
+  local result_file
+  result_file=$(judge_result_path "$1" "$2" "$3" "$4")
+  [ -f "$result_file" ] && jq -e '(.winner == "A" or .winner == "B" or .winner == "tie") and (.margin == "clear" or .margin == "slight" or .margin == "none")' "$result_file" > /dev/null 2>&1
+}
+
+# Print the blind judge prompt for one pair and order. Arguments: use, task name, order.
+# Order 1 shows the with-skill reply as A, order 2 shows it as B. The prompt holds no arm name, path or tool name.
+build_judge_prompt() {
+  local use=$1
+  local task_name=$2
+  local order=$3
+  local reply_a_file
+  local reply_b_file
+  if [ "$order" = 1 ]; then
+    reply_a_file="$(reply_directory "$use" "$task_name" with-skill)/reply.txt"
+    reply_b_file="$(reply_directory "$use" "$task_name" without-skill)/reply.txt"
+  else
+    reply_a_file="$(reply_directory "$use" "$task_name" without-skill)/reply.txt"
+    reply_b_file="$(reply_directory "$use" "$task_name" with-skill)/reply.txt"
+  fi
+  local next_step="write the piece"
+  if [ "$use" = check ]; then
+    next_step="revise the draft"
+  fi
+  printf 'A user asked an adviser for help with a piece of writing.\n\n'
+  printf '<reader>\n%s\n</reader>\n\n' "$(task_key "$task_name" reader)"
+  printf '<request>\n%s\n</request>\n\n' "$(task_key "$task_name" prompt)"
+  local user_knows_text
+  user_knows_text=$(user_knows_paragraph "$task_name")
+  if [ -n "$user_knows_text" ]; then
+    printf 'The true situation, which the adviser could not see:\n%s\n\n' "$user_knows_text"
+  fi
+  if [ "$use" = check ]; then
+    printf 'The user showed the adviser this draft:\n\n<draft>\n%s\n</draft>\n\n' "$(cat "$(draft_path "$task_name")")"
+  fi
+  printf 'Two advisers replied.\n\n'
+  printf '<reply_a>\n%s\n</reply_a>\n\n' "$(cat "$reply_a_file")"
+  printf '<reply_b>\n%s\n</reply_b>\n\n' "$(cat "$reply_b_file")"
+  printf 'You are an experienced editor who knows this reader and the true situation. The user will act on one of these two replies and then %s. Say which reply would lead to a piece more likely to bring this reader to agree or act, while it stays honest to the facts. Advice that is specific to this reader and these facts counts for more than general advice. If neither would lead to a better piece, say tie. Also say how big the gap is: "clear", "slight" or "none". Reply with only a JSON object with three fields: "reason" (one or two sentences), "winner" ("A", "B" or "tie") and "margin".\n' "$next_step"
+}
+
+# Ask one judge for one pair and order and write its result file. Arguments: judge, use, task name, order.
+# Returns non-zero when a reply is missing or the judge gives no valid verdict.
+judge_one() {
+  local judge=$1
+  local use=$2
+  local task_name=$3
+  local order=$4
+  if judge_result_valid "$judge" "$use" "$task_name" "$order"; then
+    return 0
+  fi
+  if ! reply_exists "$use" "$task_name" with-skill || ! reply_exists "$use" "$task_name" without-skill; then
+    echo "FAIL judge $judge $use $task_name order $order: a reply is missing" >&2
+    return 1
+  fi
+  local result_file
+  result_file=$(judge_result_path "$judge" "$use" "$task_name" "$order")
+  mkdir -p "$(dirname "$result_file")"
+  local response
+  # The judge's stderr is dropped; a failed call shows up as a missing or invalid verdict below.
+  response=$(build_judge_prompt "$use" "$task_name" "$order" | timeout "$timeout_seconds" bash -c 'source "$1"; shift; claude_stripped "$@"' uses-test "$base_script" --model "$(judge_model "$judge")" --tools "" --output-format json --json-schema "$verdict_schema" 2>/dev/null)
+  # The verdict arrives in .structured_output, or as JSON text in .result on some versions; try both.
+  # fromjson? returns nothing instead of an error when .result is not JSON.
+  local verdict
+  verdict=$(printf '%s' "$response" | jq -c '.structured_output // (.result | if type == "string" then (fromjson? // null) else . end)' 2>/dev/null)
+  if ! printf '%s' "$verdict" | jq -e '(.winner == "A" or .winner == "B" or .winner == "tie") and (.margin == "clear" or .margin == "slight" or .margin == "none")' > /dev/null 2>&1; then
+    echo "FAIL judge $judge $use $task_name order $order: no valid verdict" >&2
+    return 1
+  fi
+  local a_arm=with-skill
+  if [ "$order" = 2 ]; then
+    a_arm=without-skill
+  fi
+  printf '%s' "$verdict" | jq \
+    --arg judge "$(judge_model "$judge")" \
+    --arg use "$use" \
+    --arg task "$task_name" \
+    --argjson order "$order" \
+    --arg a_arm "$a_arm" '
+    {
+      judge: $judge,
+      use: $use,
+      task: $task,
+      order: $order,
+      a_arm: $a_arm,
+      winner: .winner,
+      winner_arm: (
+        if .winner == "tie" then "tie"
+        elif .winner == "A" then $a_arm
+        elif $a_arm == "with-skill" then "without-skill"
+        else "with-skill"
+        end
+      ),
+      margin: .margin,
+      reason: .reason
+    }' > "$result_file.tmp"
+  mv "$result_file.tmp" "$result_file"
+  echo "ok   judge $judge $use $task_name order $order: $(jq -r '"\(.winner_arm) (\(.margin))"' "$result_file")"
+}
+
+# Block until the 1-minute load average is at most maximum_load, checking once a minute.
+# Why: the machine is shared, and a phase of 8 sessions should not start on top of a busy machine.
+wait_for_low_load() {
+  while true; do
+    local one_minute_load
+    # `uptime` ends with "load averages: 1.23 4.56 7.89"; the first number after the colon is the 1-minute load.
+    one_minute_load=$(uptime | sed -E 's/.*load averages?: *([0-9.]+).*/\1/')
+    # bash compares only whole numbers, so awk compares the decimal load; it exits 0 when the load is low enough.
+    if awk -v load="$one_minute_load" -v limit="$maximum_load" 'BEGIN { exit !(load <= limit) }'; then
+      return 0
+    fi
+    echo "uses-test: 1-minute load is $one_minute_load, above $maximum_load; waiting a minute" >&2
+    sleep 60
+  done
+}
+
+# Print one "use task arm" line for every reply that does not exist yet. Arguments: the task names.
+list_missing_replies() {
+  local task_name
+  for task_name in "$@"; do
+    local use
+    for use in "${uses[@]}"; do
+      local arm
+      for arm in "${arms[@]}"; do
+        if ! reply_exists "$use" "$task_name" "$arm"; then
+          echo "$use $task_name $arm"
+        fi
+      done
+    done
+  done
+}
+
+# Print one "judge use task order" line for every judge result that does not exist yet. Arguments: the task names.
+list_missing_judgements() {
+  local task_name
+  for task_name in "$@"; do
+    local judge
+    for judge in "${judges[@]}"; do
+      local use
+      for use in "${uses[@]}"; do
+        local order
+        for order in 1 2; do
+          if ! judge_result_valid "$judge" "$use" "$task_name" "$order"; then
+            echo "$judge $use $task_name $order"
+          fi
+        done
+      done
+    done
+  done
+}
+
+# Run the missing writer sessions, then the missing judge calls, each phase with one retry pass.
+# Arguments: the task names. Prints what is still missing at the end.
+run_all() {
+  local missing_lines
+  local pass
+  for pass in 1 2; do
+    missing_lines=$(list_missing_replies "$@")
+    if [ -z "$missing_lines" ]; then
+      break
+    fi
+    wait_for_low_load
+    echo "uses-test: writer pass $pass, $(printf '%s\n' "$missing_lines" | wc -l | tr -d ' ') sessions"
+    # xargs -P runs up to parallel_sessions calls at once; -L 1 gives each call one "use task arm" line.
+    printf '%s\n' "$missing_lines" | xargs -P "$parallel_sessions" -L 1 "$script_directory/uses-test" --write-one
+  done
+  for pass in 1 2; do
+    missing_lines=$(list_missing_judgements "$@")
+    if [ -z "$missing_lines" ]; then
+      break
+    fi
+    wait_for_low_load
+    echo "uses-test: judge pass $pass, $(printf '%s\n' "$missing_lines" | wc -l | tr -d ' ') calls"
+    printf '%s\n' "$missing_lines" | xargs -P "$parallel_sessions" -L 1 "$script_directory/uses-test" --judge-one
+  done
+  local still_missing_replies
+  still_missing_replies=$(list_missing_replies "$@")
+  local still_missing_judgements
+  still_missing_judgements=$(list_missing_judgements "$@")
+  if [ -n "$still_missing_replies" ]; then
+    printf 'MISSING reply after retry: %s\n' "$still_missing_replies"
+  fi
+  if [ -n "$still_missing_judgements" ]; then
+    printf 'MISSING judgement after retry: %s\n' "$still_missing_judgements"
+  fi
+}
+
+# Print the pair verdict of one judge for one use and task: with-skill, without-skill, tie, or missing.
+# A pair is a win only when both orders name the same arm; a disagreement or a tie in either order is a tie.
+pair_verdict() {
+  local judge=$1
+  local use=$2
+  local task_name=$3
+  if ! judge_result_valid "$judge" "$use" "$task_name" 1 || ! judge_result_valid "$judge" "$use" "$task_name" 2; then
+    echo missing
+    return
+  fi
+  local first_arm
+  first_arm=$(jq -r '.winner_arm' "$(judge_result_path "$judge" "$use" "$task_name" 1)")
+  local second_arm
+  second_arm=$(jq -r '.winner_arm' "$(judge_result_path "$judge" "$use" "$task_name" 2)")
+  if [ "$first_arm" = "$second_arm" ] && [ "$first_arm" != tie ]; then
+    echo "$first_arm"
+  else
+    echo tie
+  fi
+}
+
+# Return 0 when both orders of one pair have margin "clear". Arguments: judge, use, task name.
+pair_is_clear() {
+  local first_margin
+  first_margin=$(jq -r '.margin' "$(judge_result_path "$1" "$2" "$3" 1)")
+  local second_margin
+  second_margin=$(jq -r '.margin' "$(judge_result_path "$1" "$2" "$3" 2)")
+  [ "$first_margin" = clear ] && [ "$second_margin" = clear ]
+}
+
+# Print the summary as Markdown and write it to runs/uses/summary.md.
+# For each use and judge: with-skill wins / ties / losses, win rate (a tie counts half), the share of wins where both
+# orders say "clear", and how many with-skill runs loaded the skill. Then how often the two judges agree on a pair.
+print_summary() {
+  local -a task_names=()
+  local task_name
+  while IFS= read -r task_name; do
+    task_names+=("$task_name")
+  done < <(list_tasks)
+  local summary_text
+  summary_text=$(
+    echo "# Uses test: PLAN and CHECK"
+    echo
+    echo "One run per task, use and arm; ${#task_names[@]} tasks (tune and sealed). Wins, ties and losses are for the with-skill arm. A pair is a win only when both orders name the same arm."
+    echo
+    echo "| use | judge | wins | ties | losses | missing | win rate | clear wins | skill loaded |"
+    echo "|---|---|---|---|---|---|---|---|---|"
+    local use
+    for use in "${uses[@]}"; do
+      local loaded_count=0
+      local loaded_total=0
+      for task_name in "${task_names[@]}"; do
+        local loaded_file
+        loaded_file="$(reply_directory "$use" "$task_name" with-skill)/skill-loaded.txt"
+        if [ -f "$loaded_file" ]; then
+          loaded_total=$((loaded_total + 1))
+          if [ "$(cat "$loaded_file")" = yes ]; then
+            loaded_count=$((loaded_count + 1))
+          fi
+        fi
+      done
+      local judge
+      for judge in "${judges[@]}"; do
+        local wins=0
+        local ties=0
+        local losses=0
+        local missing=0
+        local clear_wins=0
+        for task_name in "${task_names[@]}"; do
+          local verdict
+          verdict=$(pair_verdict "$judge" "$use" "$task_name")
+          if [ "$verdict" = with-skill ]; then
+            wins=$((wins + 1))
+            if pair_is_clear "$judge" "$use" "$task_name"; then
+              clear_wins=$((clear_wins + 1))
+            fi
+          elif [ "$verdict" = without-skill ]; then
+            losses=$((losses + 1))
+          elif [ "$verdict" = tie ]; then
+            ties=$((ties + 1))
+          else
+            missing=$((missing + 1))
+          fi
+        done
+        local judged=$((wins + ties + losses))
+        local win_rate="n/a"
+        if [ "$judged" -gt 0 ]; then
+          win_rate=$(awk -v wins="$wins" -v ties="$ties" -v judged="$judged" 'BEGIN { printf "%.0f%%", 100 * (wins + ties / 2) / judged }')
+        fi
+        echo "| $use | $judge | $wins | $ties | $losses | $missing | $win_rate | $clear_wins of $wins | $loaded_count of $loaded_total |"
+      done
+    done
+    echo
+    echo "| use | pairs where opus and fable give the same verdict |"
+    echo "|---|---|"
+    for use in "${uses[@]}"; do
+      local agree=0
+      local compared=0
+      for task_name in "${task_names[@]}"; do
+        local opus_verdict
+        opus_verdict=$(pair_verdict opus "$use" "$task_name")
+        local fable_verdict
+        fable_verdict=$(pair_verdict fable "$use" "$task_name")
+        if [ "$opus_verdict" = missing ] || [ "$fable_verdict" = missing ]; then
+          continue
+        fi
+        compared=$((compared + 1))
+        if [ "$opus_verdict" = "$fable_verdict" ]; then
+          agree=$((agree + 1))
+        fi
+      done
+      echo "| $use | $agree of $compared |"
+    done
+  )
+  mkdir -p "$uses_directory"
+  printf '%s\n' "$summary_text" > "$uses_directory/summary.md"
+  printf '%s\n' "$summary_text"
+}
+
+# Parse the command line and run the chosen action.
+main() {
+  case "${1:-}" in
+    --write-one)
+      write_one "$2" "$3" "$4"
+      ;;
+    --judge-one)
+      judge_one "$2" "$3" "$4" "$5"
+      ;;
+    --print-writer-prompt)
+      build_writer_prompt "$2" "$3"
+      ;;
+    --print-judge-prompt)
+      build_judge_prompt "$2" "$3" "$4"
+      ;;
+    --summary)
+      print_summary
+      ;;
+    --task)
+      run_all "$2"
+      ;;
+    "")
+      local -a task_names=()
+      local task_name
+      while IFS= read -r task_name; do
+        task_names+=("$task_name")
+      done < <(list_tasks)
+      run_all "${task_names[@]}"
+      print_summary
+      ;;
+    *)
+      echo "usage: uses-test [--task <task> | --summary | --print-writer-prompt <use> <task> | --print-judge-prompt <use> <task> <order>]" >&2
+      exit 2
+      ;;
+  esac
+}
+
+main "$@"

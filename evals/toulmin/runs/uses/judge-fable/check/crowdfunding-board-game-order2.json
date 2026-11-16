@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "crowdfunding-board-game",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Both replies keep \"proven hit\" out and flag the invented details and the 930 unsold copies. Only B pushes for a delivery month, checks the update promises made in Owen's name, and adds what happens if the campaign doesn't fund, which is what a backer burned by a project that never shipped looks for and which Owen has the facts to supply."
+}

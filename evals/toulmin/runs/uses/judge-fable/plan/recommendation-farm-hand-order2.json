@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "recommendation-farm-hand",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies prompt the user for the vet's savings figure and the job commitment, and both handle the 5-week leave honestly. B fits a fast-reading committee better: it puts the recommendation first, addresses the written-English concern directly alongside the night class, and prefers the \"came straight back\" framing that the true facts support."
+}

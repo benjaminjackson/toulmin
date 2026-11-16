@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "negotiation-illustration-rate",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both rightly keep the unsupported $12,000 claim out. A's edits push the draft toward what would move this editor against an $8,000 alternative: named titles, exact sales figures (likely surfacing the fourth printing) and a firmer close. B's best point (flat fee vs royalties) is conditional, and its advice to sound less committed and drop the agent attribution could cool a warm relationship or blur sourcing."
+}

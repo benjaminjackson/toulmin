@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "crowdfunding-board-game",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Reply A targets what this once-burned backer checks first: a delivery month, firm update promises and what happens if the campaign doesn't fund, and it gives a stronger honest alternative to \"proven hit\" in the repeat-play reading of 140 sessions. Reply B's freight and tariff warning is valuable, but it never asks for a delivery date, which is the biggest gap for this reader."
+}

@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "win-back-farm-share",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both replies prompt Sam to produce the bad-week credit and communication commitments, but A gives \"what happens next time, you'll hear from me that week\" its own slot in the email, which answers this reader's complaint that the farm went quiet. A also drops the $31,000 and the scarcity push, which could grate on a household that felt shortchanged, while B's outline leaves no place for the bad-week promise and keeps both."
+}

@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "win-back-home-cleaning",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Reply A is slightly better for this reader, who left over price. It asks whether turnover has dropped this year, which would bring out the real fact that only 1 of 18 cleaners has left since July. It also links the higher price to getting a consistent cleaner, which apps using contractors don't offer. Reply B's advice to write a separate price version is useful, but it tells the owner not to claim cleaners stay longer, and that could keep the strongest true point out of the email."
+}

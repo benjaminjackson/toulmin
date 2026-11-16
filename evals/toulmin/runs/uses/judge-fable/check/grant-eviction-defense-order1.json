@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "grant-eviction-defense",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies catch the June departure, the $33,000 gap, the county renewal and the caseload math. A goes further in ways that fit these facts: it tells the user to say what happens without the grant, to write a real sentence on sustainability after year two, and to use the 35%-of-those-who-asked figure. B's advice to strengthen the evaluation section with a target is better than A's suggestion to cut it, which keeps the gap small."
+}

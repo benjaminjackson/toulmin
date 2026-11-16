@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "promotion-front-office",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies point the user to the facts that matter: the score rising before the renovation started, and payroll and overtime results from the 7 weeks. B is slightly better because it ranks the budget question first, which is this GM's main reason to prefer the outside candidate. It also adds the successor point and warns the user to promise only what they will actually do, such as the course and the controller sessions."
+}

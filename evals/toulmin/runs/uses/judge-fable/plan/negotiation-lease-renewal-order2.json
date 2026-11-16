@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "negotiation-lease-renewal",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "This landlord still brings up the two late payments, and B tells the user to address them in one sentence up front with thanks and the on-time record since, while A advises leaving them out entirely, which leaves his main doubt unanswered. B also flags autopay as a trade, which the user can actually commit to, and warns that the kitchen argument can backfire; A's one edge is naming a date to settle."
+}

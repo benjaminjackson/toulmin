@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "recommendation-farm-hand",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both replies catch the invented details, the five-week absence risk and the missing commitment to hold his job, so either would improve the letter. B also points out the clash with \"missed two shifts\" more directly and asks what the early mastitis catches saved, a question that would bring out the vet's roughly $8,000 estimate, the strongest concrete fact for this reader."
+}

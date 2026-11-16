@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "grant-refrigerated-van",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies catch the unsupported doubling claim, the storage gap, running costs and farm letters. B fits this program officer better: it puts the late report and what has changed before the ask, builds in a dated reporting checkpoint, and insists the reserve balance and running costs be stated openly, which draws out Joan's real commitments (a named report owner, quarterly figures)."
+}

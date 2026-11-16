@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "public-comment-church-housing",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both find the same core angle (the Alder Road resident who names the traffic cost herself), but B asks outright about traffic mitigation and developer commitments, which would surface the signal offer that keeps Alder and 4th at C and answers the two traffic-minded commissioners. A makes that question conditional and tells her to speak only to the commission, steering her away from the construction and parking commitments that matter to the 60 neighbours in the room."
+}

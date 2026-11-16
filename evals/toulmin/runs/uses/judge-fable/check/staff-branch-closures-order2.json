@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "staff-branch-closures",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies rightly keep out the \"better for everyone\" claim and ask for the location, shift details and pay specifics. B alone asks whether someone who tries the role and leaves keeps the severance, which draws out the 6-month commitment that matters most to reluctant long-tenured tellers, and it also catches the pressure in the closing line; A's nearest equivalent, the training-risk question, is less direct."
+}

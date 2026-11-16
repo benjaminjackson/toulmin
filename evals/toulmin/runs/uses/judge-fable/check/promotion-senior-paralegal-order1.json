@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "promotion-senior-paralegal",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "This partner raised the deadline error in her last review, so the letter must show the fix worked. Reply A asks for exactly that evidence (which surfaces the 600 clean entries) and for a dated meeting request, while Reply B's main advice is to shrink the error paragraph and even consider omitting it."
+}

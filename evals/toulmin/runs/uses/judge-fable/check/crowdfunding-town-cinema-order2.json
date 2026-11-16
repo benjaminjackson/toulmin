@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "crowdfunding-town-cinema",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies catch the missing refund promise, the $13,000 gap and the 'why won't it close again' question. Reply B does more for this refund-remembering, already-tapped reader: it turns the $47,000 into encouragement, ties the refund to 'just like last time', and questions the per-resident figure in favour of a realistic gift amount. Reply A's unique points (the 'secured' heading, explaining the lower goal) are useful but smaller."
+}

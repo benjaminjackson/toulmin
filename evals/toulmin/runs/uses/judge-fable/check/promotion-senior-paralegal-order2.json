@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "promotion-senior-paralegal",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "This partner remembers the deadline error and raised it in her review, so the paragraph needs proof the fix worked. Reply B asks for exactly that (drawing out the zero-errors-in-600-entries fact) and for a dated meeting request, while Reply A advises shrinking the paragraph and even considering omitting it."
+}

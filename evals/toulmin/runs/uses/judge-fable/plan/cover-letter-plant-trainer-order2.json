@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "cover-letter-plant-trainer",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both drop the unsupported halving claim and ask about her training records and a GMP course, but B fits this HR screener better: it tells her to state the GMP gap in the posting's own words, expects an HR keyword screen, and its questions would bring out her enrolled GMP course and June 14 start date. A's one advantage is asking for the hiring manager's name."
+}

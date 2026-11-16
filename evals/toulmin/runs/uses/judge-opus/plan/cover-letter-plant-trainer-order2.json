@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "cover-letter-plant-trainer",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B more directly answers this skeptical HR screener's doubts: its questions would surface the signed training records, the GMP course and the June 14 start date. It also warns that the letter must use the words 'GMP' and 'training records' to get through screening. Both replies rightly drop the 'cut training in half' claim, and A also asks about records and a GMP course, but B covers more of what this reader needs."
+}

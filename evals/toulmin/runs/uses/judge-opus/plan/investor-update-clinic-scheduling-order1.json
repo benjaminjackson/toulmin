@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "investor-update-clinic-scheduling",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B leads with the flat MRR, the lost customer and the 11-month runway. It also asks the founder to say plainly how many other customers could leave the same way, and to call the biggest investors before sending the update. For a lead angel who was already annoyed by two quarters of silence, that is more convincing than A's main pitch that \"underneath it the business grew 15%,\" which risks looking like spin."
+}

@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "negotiation-illustration-rate",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both rightly keep out the unsupported $12,000 claim and flag the same overstatements. B's advice goes further toward what this editor needs to justify exceeding budget over a cheaper illustrator: named titles and exact sales figures to pass upward, and a firmer close. A's extra points (flat fee vs royalties, deciding a floor, sounding less committed) are mostly off-page considerations, and presenting the agent's range as plain market rate edges toward overstatement."
+}

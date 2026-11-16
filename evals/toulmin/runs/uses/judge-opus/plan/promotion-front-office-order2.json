@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "promotion-front-office",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies drop the \"main reason\" claim, lead with the 7 weeks and send the user to check the score month by month, which would turn up the 7.9-to-8.2 rise before the renovation. B fits this GM a little better: it names the outside candidate as the real alternative, asks about overtime during the 7 weeks, and asks for budget commitments the user will actually keep, such as the controller sessions and the finance course."
+}

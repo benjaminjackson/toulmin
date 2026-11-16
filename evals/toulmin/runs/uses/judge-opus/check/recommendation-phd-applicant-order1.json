@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "recommendation-phd-applicant",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies keep the honest framing and push for a ranking against the 30 theses. Neither uses the strongest answer to this reader's small-college skepticism: the writer has turned down 2 of about 40 letter requests and offers to share the thesis. Reply A gives more advice aimed at expert ecologists: it flags that \"marsh effect\" implies a proven cause and asks for concrete details from the shellfish lab, which would bring out that she ran the water sampling alone and the supervisor would hire her again."
+}

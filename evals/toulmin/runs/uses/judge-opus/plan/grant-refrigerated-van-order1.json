@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "grant-refrigerated-van",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Reply A is better suited to Marisol, who had to chase the late report. It puts the late report and what has changed before the ask, and it builds a reporting checkpoint into the claim, which lines up with the plan to name Dave Lin and send quarterly figures. Reply B leaves the track record for last, gives it only one sentence, and suggests keeping the $11,000 reserve out of the narrative. Both catch the doubling problem and the cold-storage question."
+}

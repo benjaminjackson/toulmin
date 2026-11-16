@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "negotiation-illustration-rate",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies drop the unsupported \"every other publisher\" claim and propose nearly the same structure. A adds more that fits this editor, who must justify going over a $9,000 budget: frame $11,500 as $1,000 below the fee paid elsewhere, name titles and exact sales, and write it so it can be forwarded to whoever approves the fee."
+}

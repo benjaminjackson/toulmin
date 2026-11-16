@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "cover-letter-plant-trainer",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies ask questions that would bring out her real facts. Reply A asks whether the 12-hour program replaced something longer, which would bring out the cut from 20 hours to 12. That gives her an honest version of the training-time claim she asked for. Reply B's question about which records she kept would bring out the signed records and the clean state audits, which matters to this reader too, so A's edge is slight."
+}

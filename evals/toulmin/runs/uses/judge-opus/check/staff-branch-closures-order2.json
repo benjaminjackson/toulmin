@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "staff-branch-closures",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Reply B asks directly whether someone who tries the role keeps the severance if it doesn't work out. That points the COO to her 6-month severance commitment, the fact most likely to persuade reluctant branch staff to try the role, while Reply A only vaguely asks about training risk. B also catches that the closing line reads as pressure to accept and that 'get it right the first time' slights the current phone team."
+}

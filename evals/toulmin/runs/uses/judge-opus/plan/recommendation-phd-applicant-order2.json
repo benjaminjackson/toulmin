@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "recommendation-phd-applicant",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies drop the top-journal claim and ask for a ranking. B suits a skeptical marine ecologist better: it explains why this reader would reject the claim (one year of data, two marsh sites, so site effects are confounded). It also advises stating the one-year limit in passing to build credibility, which helps against small-college inflation. Neither reply asks the user for calibration such as letters written or declined, or offers to send the thesis on request."
+}

@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "public-comment-church-housing",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both replies lead Margaret to surface the developer-funded signal that answers the two commissioners' traffic concern. But B tells her to speak only to the commission and save construction and parking management for later, which sidelines the 60 neighbours in the room and the very commitments she can offer them (weekday parking, the neighbour group); A keeps the speech a neighbour-to-neighbour case and asks her to gather the opposition's real objections."
+}

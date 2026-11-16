@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "cover-letter-dental-office",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both give a similar plan and both prompt the Dentrix-training fact, but A has the letter state the gap plainly (caring for her mother, who died last spring, now ready for full-time work) and lead with the $38,000-to-$9,000 figure, which suits an owner who is undecided about gaps. B's advice to blur the gap to \"a family member\" and drop the 2014 date reads as more evasive to this reader, though its references question is a real plus that narrows the gap."
+}

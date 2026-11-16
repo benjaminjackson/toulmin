@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "staff-office-days",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B tells the writer to say directly to the remote hires that their terms are changing, to explain the far-away arrangement, and to state the support and what Friday is for, which draws out the commuting subsidy, desks and review that this reader needs. A advises keeping the remote-hire arrangements out of the email and is wary of mentioning a review, which would leave the people most likely to leave with less to go on."
+}

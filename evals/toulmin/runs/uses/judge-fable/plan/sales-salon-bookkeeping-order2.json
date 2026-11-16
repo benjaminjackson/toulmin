@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "sales-salon-bookkeeping",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both replies give a similar outline and ask questions instead of drafting, but only A asks whether Carla does tax returns. That question draws out the fact that matters most to this reader: her cousin keeps doing her taxes and simply gets clean books. B's questions are better at surfacing the missed-deadline guarantee, but they miss the cousin point, and its \"what doing nothing costs\" section risks casting him as the problem."
+}

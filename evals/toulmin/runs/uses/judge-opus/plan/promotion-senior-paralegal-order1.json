@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "promotion-senior-paralegal",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both replies give the same core angle and handle the March error well. B's questions fit this situation more closely: it asks about the promotion cycle and deadline, which surfaces December 15 and the January reviews. It also asks whether there have been errors since the check went in, which brings out the 600 clean entries, and whether the trainees stayed, which brings out the one who left and keeps the letter honest. That gives the user a better chance of writing a timely and credible piece for a partner who already remembers the error."
+}

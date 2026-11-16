@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "recommendation-phd-applicant",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replace the unsupportable top-journal claim and ask for the ranking and the lab supervisor's view, but B is more specific to a sceptical marine ecologist: it gives the scientific reasons the claim fails, leads with the ranking, frames the state lab job as outside-the-college validation, and advises stating the one-year limit openly to gain credibility. Neither tackles the small-college discount directly (e.g. how rarely she writes strong letters), so the gap is modest."
+}

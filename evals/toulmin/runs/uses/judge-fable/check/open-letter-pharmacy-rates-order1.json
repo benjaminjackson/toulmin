@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "open-letter-pharmacy-rates",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies flag the unsupported \"a third will close\" claim and push for a survey-based number, a sourced $1.80, a concrete pricing ask and a meeting date. A goes further on what this reader actually doubts: it makes the 14 counties the lead argument, anticipates the \"members can use chains or mail order\" and \"you make it back on other drugs\" replies, and tells the user to say the plan is the only party that can fix rates. B's best additions (the offer to share data, the NADAC benchmark, the \"stuck at 22%\" point) are useful but less aimed at her belief that members have plenty of alternatives."
+}

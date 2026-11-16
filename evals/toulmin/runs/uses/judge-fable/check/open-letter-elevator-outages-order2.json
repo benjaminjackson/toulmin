@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "open-letter-elevator-outages",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies cover much the same ground (name a consequence, resolve the private-versus-public contradiction, fix the emergency line, add a real case), but B is more tied to these facts. B links the June 6–8 week promise to the August outage and adds the one-day-in-eight figure, which directly challenge the manager's belief that the outages were handled well. B also flags lines the association may not be able to back up, moves the second-elevator ask (where management may be right) down the list, and notes the draft is over length. A's 'give them something easy to agree to' is a good point for this reader, but its other advice is more generic."
+}

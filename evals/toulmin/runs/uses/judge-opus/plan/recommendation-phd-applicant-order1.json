@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "recommendation-phd-applicant",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies drop the top-journal claim and ask for the ranking that this skeptical reader needs. A gives the clearer reasons a marine ecologist would reject the claim: only one year of data, and just two marsh sites with confounded conditions. A also argues that stating the limits plainly makes the letter more believable, which directly answers this reader's habit of discounting letters from small colleges."
+}

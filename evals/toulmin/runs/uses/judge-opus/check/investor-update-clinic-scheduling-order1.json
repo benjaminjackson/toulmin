@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "investor-update-clinic-scheduling",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "B is more likely to bring out the facts this reader needs. It asks for targets on standalone sales, which would surface the 6 committed clinics, and it asks whether other customers are exposed to EHR schedulers, which would surface the $3,800 a month at risk. It also gives concrete cuts that stay under the 500-word limit; A covers similar ground but asks more general concentration questions."
+}

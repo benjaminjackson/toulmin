@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "sales-salon-bookkeeping",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B is slightly better. It asks how to handle salon owners doing paperwork on their Monday off, and asks what changed after the missed closes, which would bring out the free-month guarantee and the no-contract terms. A wrongly says being off on Mondays may suit salons. A does have one point B lacks: asking about tax returns could lead to reassuring this reader that her cousin can keep doing them."
+}

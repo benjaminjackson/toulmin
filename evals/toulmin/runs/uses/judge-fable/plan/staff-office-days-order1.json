@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "staff-office-days",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Reply A tells the writer to say outright that remote hires joined on different terms, to state the far-away arrangement and the support on offer, and to say whether the decision is final. Its questions also surface the commuting subsidy, the August desks and the project leads' existing attendance, whereas Reply B steers the email away from stating the arrangement for the four and is less pointed about what the remote third needs to hear."
+}

@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "grant-eviction-defense",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Reply A tells the writer to address the June departure and the $33,000-a-year gap directly in the summary. That suits a retired judge who checks the budget against a rubric in ten minutes, and the user's family-fund pledge and handoff training plan can answer both points. Reply B says to leave the departure and the county-contract risk out of the summary. That is less candid and leaves the reviewer's obvious questions unanswered, although B's catch about the caseload numbers not adding up is useful."
+}

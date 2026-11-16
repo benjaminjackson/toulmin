@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "promotion-senior-paralegal",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both replies tell her to name the March error beside the fix and to close with a meeting request, but B's questions fit this reader better. B asks whether there have been any missed deadlines since the check went in, which draws out the 600 clean entries, and whether the trained paralegals are still there, which surfaces the one who left. B also warns against any spin on the error, which matters for a partner who already raised it in her review."
+}

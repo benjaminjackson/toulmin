@@ -1,0 +1,43 @@
+## The angle
+
+You've spent nine years writing safety procedures for a chemistry lab and training people to follow them, and you can show results. That is the core of a training coordinator's job at a pharma plant. What you'd need to learn is the regulated layer on top: GMP documentation and their learning management system (LMS). That's a narrower gap than "teacher switching careers," and the letter should make the reader see it that way.
+
+The idea the letter rests on, whether or not it ever says it outright: *someone who has built and run procedural safety training with a track record can do the same for manufacturing staff, and the records and software can be learned on the job.* A hiring manager will mostly accept the first half. The letter has to earn the second half.
+
+## The "cut training time in half" claim
+
+I'd drop it or rebuild it. Three problems:
+
+- **Nothing you've told me supports it.** You don't know how long their training takes now, what slows it down, or how much of it regulations require. Nothing you've measured is about training speed.
+- **The reader may hear it as cutting corners.** In GMP, training records exist to prove every step was done. An outsider promising to halve that can sound like they don't understand the work.
+- **You'd be held to it in the interview** with nothing to back it up.
+
+**What your facts do support:** you build training that sticks and that you measure. Your lab safety program has gone seven years with no injury needing more than first aid. Your AP pass rate rose 17 points (41% to 58%, about 40% more students passing). Something like "I'd want to measure how fast new hires become fully qualified, and shorten it without dropping a step" makes the same promise in terms they can trust. If you learn their training has a specific bottleneck (see below), you could name it and make a bolder claim with grounds behind it.
+
+## Order for the page
+
+1. **Opening:** the role, plus the one-sentence case above. Mention that you live 30 minutes away in a clause; it suggests you'd stay.
+2. **The lab safety program.** This is your strongest point: you wrote the procedures, trained people on them, and have seven years of results.
+3. **Training new teachers.** About 2 a year at roughly 12 hours each. This is your closest match to their job: onboarding adults onto lab procedures.
+4. **Measured results.** The AP numbers, presented as proof that you track whether training works and fix what doesn't. Keep it short; teenagers aren't their workforce.
+5. **The GMP gap, stated plainly once, with an answer** (see question 2). The posting asks for this, so the reader will notice it's missing whether you mention it or not. Saying it yourself reads as confidence.
+6. **Close:** what you'd aim for in the job, then ask for a meeting.
+
+## Leave out or shrink
+
+- **140 students a year:** a clause at most. It shows scale, but not the kind of scale they care about.
+- **Google Classroom by name:** say "I've built and run courses on an online learning platform" instead. Then the unfamiliar LMS becomes "a new tool" rather than a gap.
+- **Anything about why the plant's training needs fixing.** You don't know that yet.
+
+## Find out first
+
+1. **The new-teacher training: since what year, and what happened afterward?** Did trainees run labs safely, and did anyone need retraining? Outcomes there are worth more than the hours.
+2. **Did your safety program involve documentation?** Written procedures, signed acknowledgments, competency checks, refresher records? If so, that's real experience with training records, and it largely answers the GMP gap. Also: have you started any GMP coursework, or will you? Only mention a commitment you'll actually keep.
+3. **What does the posting stress besides GMP records?** Who is the role under (QA, HR, operations)? And can you reach anyone who works there? Their real training problem is what would let you make a specific, bold claim.
+4. **Why are you leaving teaching?** The reader will wonder. One positive sentence handles it.
+5. **How does 58% compare to the national AP Chemistry pass rate for your years?** A hiring manager outside education can't tell whether 58% is good. If you're above average, say so.
+6. **Is there anything they'll find out anyway?** For example, a summer start date tied to the school year, or a salary gap. Better to plan for it now.
+
+**One more reader:** postings that list GMP experience often get screened by HR or software for that phrase before a manager sees them. Make sure "GMP" and "training records" appear in the letter, honestly, in the paragraph about the gap.
+
+Send me answers to whichever of these you can, and I'll write the one-page draft from them.

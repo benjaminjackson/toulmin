@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "public-comment-church-housing",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both catch the Sunday parking hole, the overclaims and the \"my neighbors and I\" line, and neither surfaces the traffic signal offer. B adds advice that fits this hostile room: disclose her church membership, soften the dismissive \"the choice isn't close\", and ask for a specific commission action, which points her toward requesting approval with the signal as a condition."
+}

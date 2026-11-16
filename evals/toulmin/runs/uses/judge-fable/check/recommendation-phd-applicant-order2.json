@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "recommendation-phd-applicant",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both catch the top-journal overclaim, the unverified details and the missing ranking, but B also asks for a shellfish lab detail (which would draw out the supervisor's rehire comment and her two weeks of solo sampling, outside validation this sceptical reader values) and flags the causal \"marsh effect\" wording an ecologist would question. A's suggested \"this is publishable work\" line edges back toward a claim the facts don't fully support, while B says to cut it or state only what is concretely true."
+}

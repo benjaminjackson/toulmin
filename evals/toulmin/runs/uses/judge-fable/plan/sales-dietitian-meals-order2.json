@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "sales-dietitian-meals",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Reply B gives a full, limits-stated A1C statement and a talk-to-your-doctor line, which is what a promise-wary reader who has quit three services will trust, and it asks about contract, cancellation and the order deadline that the user can answer. Reply A suggests shrinking or dropping the results-vary/care-team line and obscuring the customer count, which weakens both honesty and credibility with this reader; B's \"20 meals\" slip is minor since it states 10 elsewhere."
+}

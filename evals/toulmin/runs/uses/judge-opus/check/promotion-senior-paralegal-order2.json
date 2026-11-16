@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "promotion-senior-paralegal",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "This partner remembers the deadline error and raised it in her last review. Reply B keeps that paragraph and asks for proof that the fix worked, which brings out her strongest fact: about 600 entries with no errors since the second-person check went in. It also asks for a dated meeting request, which fits the December 15 deadline and her wish to meet in person. Reply A tells her to shrink the error paragraph and even suggests leaving it out, which could look like she is downplaying a mistake he already knows about."
+}

@@ -1,0 +1,56 @@
+## The angle: "proven at the table," not "proven hit"
+
+I'd drop "proven hit." The game hasn't been published or sold, and an 8.1 average from 23 people is a promising start. It isn't a hit. Crowdfunding backers, especially board gamers, see this claim all the time and check it. When the numbers turn out small, people stop trusting the rest of the page, and a first-time creator can't afford that.
+
+You have a stronger claim you can fully back up: **this game has been played hard and refined.** 140 sessions with 60 different people over three years is unusual for a first-time designer, and it answers the question backers have about a newcomer: "Is this finished, or is it an idea?" So the angle is:
+
+> **A quiet, emotional cooperative game that's been tested to death by someone careful, and here's exactly how it'll get made.**
+
+Your surveying job helps here. Surveyors measure twice. Tie that to the 140 sessions and the factory quote you already have, and being a first-timer reads as careful preparation instead of a risk.
+
+## Suggested order (~500 words)
+
+1. **The hook (~80 words).** What it feels like to play: the lighthouse, the family, the winter closing in. Lead with the emotion and theme, not stats.
+2. **What you actually do (~100 words).** Co-op, 1–4 players, the core decisions each turn, what winning or losing looks like, play time and age.
+3. **Proof it works (~80 words).** 140 sessions, 60 players, since 2023, 2 conventions. "Rated 8.1 by 23 early players on BoardGameGeek" (always give the number of raters). One or two short quotes from playtesters would do more than the rating.
+4. **Who you are (~60 words).** Land surveyor, first game, why this theme.
+5. **Where the money goes (~80 words).** A plain breakdown. First-time backers want this more than anything else.
+6. **Risks and timeline (~60 words).** Delivery date, what could slip, what you've already secured.
+7. **Call to action (~40 words).**
+
+## What to find out first
+
+**The budget is the big one. As it stands, $28,000 may not cover the cost of making and shipping the game.** Rough math:
+
+- $28,000 ÷ $49 ≈ **570 backers**
+- Printing 1,500 copies: $17,400 (is 1,500 the factory's minimum order? If so, you pay that whether you get 570 backers or 1,500)
+- Shipping to 570 backers × $9 ≈ $5,100
+- Platform and payment fees (often around 8–10%) ≈ $2,500
+- **That leaves roughly $3,000** for everything else, and the costs below usually aren't in a factory quote or a per-copy shipping estimate.
+
+Check whether these are covered:
+- **Freight from the factory to your fulfillment warehouse**, plus **tariffs and customs**. These can be large and have changed a lot recently.
+- **Fulfillment center fees** (pick/pack, storage for the roughly 900 extra copies).
+- **Art and graphic design.** Is it finished and paid for?
+- **International backers.** Will you ship outside the US, and at what price?
+- Pledge manager fees, replacements for damaged copies, a contingency buffer (often 10–15%).
+- What happens if you're overfunded: do the per-copy costs drop, and are there stretch goals you can actually afford?
+
+Ask a fulfillment company and a freight forwarder for real quotes. The goal may need to go up, or the price may need to change. Better to learn that now than after funding.
+
+**Also confirm:**
+- **How many of the 1,240 email sign-ups are likely to back.** Conversion is usually well under half. Look at your open rates, and compare with other first-time campaigns if you can. That tells you whether 570 backers is realistic.
+- **Play time, player age, box contents**, and whether you have photos or video of the real prototype.
+- **A delivery date** you can defend, with some padding.
+- **Any convention numbers**: demos run, sign-ups collected, quotes.
+- **Permission from playtesters** to quote them by name.
+
+## What to leave out
+
+- "Proven hit," "bestseller," "fan favorite," or anything else that implies sales or a big audience.
+- The 8.1 rating without the "23 ratings" next to it.
+- Comparisons to famous titles that suggest more than you can back up. "For fans of quiet co-ops like X" is fine; "the next X" isn't.
+- Apologizing for the day job. State it plainly and move on.
+- Stretch-goal teasers until you know the budget can absorb them.
+
+When you're ready for a draft, send me the play time, the core mechanic in a sentence or two, and a couple of playtester quotes, and I'll write it to this structure.

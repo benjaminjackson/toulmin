@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "cover-letter-plant-trainer",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Reply B asks directly whether the 12-hour teacher training replaced something longer. That brings out the 20-to-12-hour cut, which is honest support for the speed claim the user wanted. B also flags details the writer made up and puts the adult-training evidence first. Reply A does push for specifics on the records, which could surface the audits, but it misses that key before-and-after fact."
+}

@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "crowdfunding-town-cinema",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies flag the key doubts for this reader: why the cinema won't close again, the $60,000 public share against last time's $47,000, and what happens to pledges if the goal is missed. B turns the $13,000 gap into encouragement for a past donor and asks the user to back up \"we learned from it,\" which leads to a more persuasive revision. B's guess about the deadline year is a small flaw that doesn't outweigh this."
+}

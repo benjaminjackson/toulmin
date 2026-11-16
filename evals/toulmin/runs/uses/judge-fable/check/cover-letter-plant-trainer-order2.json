@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "cover-letter-plant-trainer",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Reply B directly asks whether the 12-hour program replaced something longer, which surfaces the user's real 20-to-12-hour fact as honest support for the speed claim, and it flags unverified writer-added details and reorders evidence for this skeptical reader; Reply A covers similar ground (vocabulary, records, GMP course) but misses the before/after training-time question and offers more generic advice."
+}

@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "negotiation-lease-renewal",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Reply A fits this landlord and these facts better. It gives the stronger vacancy argument (about $14,000 over five years, or roughly 2.5 months of vacancy), points out that a coffee chain won't need the hood, and suggests naming a signing date, which the user can commit to. Reply B mainly suggests opening at $4,950–5,000, which is risky with a landlord who has another prospect and still remembers the late rent. B's per-square-foot and switching-cost points are useful, but they matter less."
+}

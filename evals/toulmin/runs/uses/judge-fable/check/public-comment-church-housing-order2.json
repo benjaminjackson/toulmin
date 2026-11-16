@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "public-comment-church-housing",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both catch the Sunday parking hole, the overclaims and \"my neighbors and I\", and neither surfaces the traffic signal. A alone tells the speaker to disclose their church membership and to soften \"the choice isn't close\" for a room of opposed neighbours, and to ask for a specific action, which outweighs B's good point about not shrinking the traffic cost."
+}

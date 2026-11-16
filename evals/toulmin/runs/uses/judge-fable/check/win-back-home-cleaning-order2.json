@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "win-back-home-cleaning",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "This reader left over price, and B pushes hardest on making the $25 gap worth it to them: what insurance protects the homeowner from, how the apps compare, and whether turnover has dropped, which would surface the true 1-of-18 figure, plus a deadline. A's two-version idea and insurance point are useful, but its case on price is thinner."
+}

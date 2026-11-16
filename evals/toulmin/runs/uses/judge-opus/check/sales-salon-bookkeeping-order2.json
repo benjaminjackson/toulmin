@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "sales-salon-bookkeeping",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Reply B is more likely to win over this owner, who already pays her cousin only $600 a year, because it treats price as her main objection and puts the accountant savings next to the $199. Its questions about what changed after the missed deadlines and about the price rise could bring out the user's free-month guarantee and the payroll reason for the increase, while Reply A gives more general advice, such as fixing a cliché opening."
+}

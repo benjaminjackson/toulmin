@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "sales-salon-bookkeeping",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both catch the same core flaws, but A asks what Carla changed after the missed deadlines, which would draw out her miss-the-10th-and-the-month-is-free guarantee, and it moves the accountant-savings proof next to the $199 price, the main objection for a reader paying her cousin $600 a year. B's advice on the opening and stacked disclaimers is sound but more general, and its questions are less likely to surface the hidden facts."
+}

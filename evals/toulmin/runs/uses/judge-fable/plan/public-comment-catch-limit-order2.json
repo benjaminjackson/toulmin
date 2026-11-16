@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "public-comment-catch-limit",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both drop the false \"every boat\" claim and build the same honest case of accepting the stock numbers, the 9% vs 80% share and an alternative. B gives Ray more to use with commissioners who trust their staff: the strongest supportable version of the harm (about $29,000 a season, three years with no recovery window, his own break-even) and a logbook check that fits the trip logs he can offer. A mostly tells him to leave the claim out."
+}

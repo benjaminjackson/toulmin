@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "cover-letter-dental-office",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both replies give nearly the same angle and gap handling, and neither asks about start date or evening availability, which matter to a dentist whose manager just left. B is slightly better because it asks about references, which would bring out Dr. Sue Kim and help with an owner who hasn't decided about the gap. B's push to start Dentrix training also matches the course Linda has already signed up for."
+}

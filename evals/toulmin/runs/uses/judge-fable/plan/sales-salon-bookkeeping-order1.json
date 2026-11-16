@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "sales-salon-bookkeeping",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Reply B asks whether Carla does tax returns, which surfaces the fact that matters most to this reader: her cousin keeps doing her taxes and simply gets clean books. B also opens with salon-specific problems and asks about terms and the call; A's questions would surface the missed-deadline guarantee and no-contract terms but miss the cousin point."
+}

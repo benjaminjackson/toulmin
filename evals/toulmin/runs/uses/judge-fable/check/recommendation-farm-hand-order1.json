@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "recommendation-farm-hand",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both replies flag the invented details, the risky absence paragraph and the missing job commitment. B's question about what the nine cases would have cost draws out the $8,000 figure more directly, it catches the two-missed-shifts contradiction as a problem in its own right, and it does not push to cut the absence, which the true facts (cousin covered, returned on the promised day) make a strength."
+}

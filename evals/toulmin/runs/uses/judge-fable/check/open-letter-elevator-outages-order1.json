@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "open-letter-elevator-outages",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies catch the same main problems (public-versus-private tone, no consequence, the rebuttable emergency line, the need for a real case such as the missed medical appointment). Reply A goes further for this sceptical manager by tying the June promise to the August outage as evidence, flagging implications the association may not be able to back up, steering the letter toward the winnable asks and keeping it near 400 words, whereas Reply B adds several new demands and moves the accusation to the top, which risks a longer, more confrontational letter."
+}

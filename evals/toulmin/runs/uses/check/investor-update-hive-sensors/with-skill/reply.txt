@@ -1,0 +1,40 @@
+**Short answer: not yet.** The tone is right for existing investors. It's candid and in proportion, and the passage on the biggest customer will earn trust. But investors putting in more money decide on two questions: what does the $600K get the company to, and why will the business survive a cheaper competitor? The draft leaves both blank. It also has a math error in the cash section, and it quietly softened the claim you asked for.
+
+## Where it's weak, most important first
+
+**1. The cash math is wrong.** It says "$600,000 gives us about ten more months of spending." At $95K a month, $600K is about **6.3 months**. Ten months is the total ($340K + $600K = $940K), which runs to about mid-September 2027 before counting revenue. Investors will check this sum first. If it's wrong, they'll doubt every other number.
+
+**2. The profitability claim was changed without telling you.** You asked for "we'll be profitable next year." The draft says "our goal is to be profitable in 2027." That softening is probably right on the evidence, but it's your decision. Here's the gap:
+- Costs are about $1.14M a year. Revenue is about $424K a year if you simply double the last half, and less in practice, because that half included the spring peak. So revenue has to roughly triple in one season.
+- Customers grew 2.6x last year. That pace gets you close, but not there.
+- Spring 2027 is your first buying season against a $45 rival.
+- **Your options:**
+  - Make the flat claim, but only if you can put a number behind it (see 3).
+  - Use a qualified version with a checkpoint, such as: "profitable in 2027 if we reach N subscribed hives by end of May; if we're below that, we cut spending to $X a month by June."
+
+**3. The most important number is a blank.** "We have [X]" subscribed hives, set against the roughly 24,000 needed, is the whole case for profitability. Without it, the paragraph says you're a long way off and stops there. Also define "profitable." With 70% of revenue in two months, you could be profitable in Q2 and still lose money for the year. Say which one you mean.
+
+**4. The competitor section names the threat and then leaves the answer blank.** Investors will work it out: at $45 against your $38 unit cost, matching their price leaves $7 a unit. "They have channels and a brand we don't" is honest, but on its own it reads as a reason to stay out of the round. You need a real answer from what you actually have. Did any customer get a quote from them? What does your app do that theirs doesn't? Will you hold your price?
+
+**5. The bridge doesn't lead anywhere.** "[and to the next milestone/round]" is the reason an investor would put money in. The money runs out around September 2027, longer once spring revenue is counted. But autumn is your weakest stretch, so the real question is whether spring 2027 cash carries you to spring 2028. If not, what makes the next raise possible?
+
+**6. It doesn't say plainly what happens if they say no.** "Just before the weeks when we earn most of our revenue" hints at it. Say it outright: without the bridge, cash runs out in early March, weeks before the season that brings in most of the year's revenue. That's your strongest argument for acting now, and right now it's buried.
+
+**7. Two things investors will ask that the draft skips:**
+- **Retention.** Did last year's 12 customers come back? For a subscription business, that matters more than the 31.
+- **Concentration.** What share of revenue is the 4,000-hive customer? If he were fully subscribed, his app fees alone would be about $192K a year.
+
+## Smaller points
+
+- **The period doesn't add up.** It's November, but "the last six months" with 70% of revenue in March and April has to mean roughly January to June. Name the months.
+- **The customer story says too little about what's next.** "It doesn't prove anything" is fine. Saying how you'll measure it this winter (for example, hives with and without sensors at the same operation) turns an admission into a plan.
+- **Length.** It's near 600 words with the brackets still in. Filling in the competitor response, the milestone and the terms will push it over, so something has to go. The "How else you can help" section is the easiest cut.
+
+## What you need to supply before it's revised
+
+1. Subscribed hives today.
+2. Last year's renewal rate.
+3. The biggest customer's share of revenue.
+4. Your answer to the $45 sensor.
+5. The spring 2027 target the profitability claim depends on, and what you'll cut if you miss it.
+6. The terms and reply date.

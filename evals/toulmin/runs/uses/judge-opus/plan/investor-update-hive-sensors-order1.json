@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "investor-update-hive-sensors",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Reply A is slightly better. Its runway math counts off-season revenue, and it suggests a dated checkpoint that investors will get a report on. It also asks what the company would cut, which leads to the real commitments of monthly cash reports and lowering spending to $75k. Those answer a partner who thinks sales are slow. Reply B's questions about the sales pipeline are useful, but it never prompts the cost-cut or reporting commitments."
+}

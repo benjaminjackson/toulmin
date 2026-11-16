@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "staff-branch-closures",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Reply A asks directly whether someone who tries the new role and leaves can still get severance, which brings out the user's 6-month severance commitment, the strongest thing that could get hesitant long-tenured staff to try the role. Reply B instead asks about job security during training and spends attention on the other five branches. Both catch the location, the shift details and the 'or higher' pay question, so the gap is small."
+}

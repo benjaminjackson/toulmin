@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "investor-update-hive-sensors",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both catch the runway error, the unsupported profit claim and the blank competitor answer, but A's questions map more directly onto facts the user actually holds: what the sensor does that the rival's doesn't, whether customers are looking at the rival, a qualified profit claim tied to a spending cut, and the terms and reply date. A also tells the user to state plainly what happens without the bridge, while B spends space on speculative points (inventory timing, an inferred hive count) the user can't back up."
+}

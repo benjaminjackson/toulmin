@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "public-comment-catch-limit",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both correctly keep the \"every boat\" claim out and catch the mismatch between the 9% argument and the 3-fish ask, but B gives Ray an honest route to the strong claim he wants (his own break-even) and reshapes the review ask into something data-based that staff-trusting commissioners can accept. A's push to gather other captains' numbers is valuable, but it offers no stronger truthful replacement and spends more of its advice on general delivery points."
+}

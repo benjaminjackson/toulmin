@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "staff-office-days",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies spot the main gap: the 11 nearby remote hires get sympathy but no concrete offer. Both also prompt travel help, which matches the user's real $150 commuting support. B is slightly stronger because it heads off the skeptical reader's best counter-arguments, namely that better-rehearsed interview teams could fix the lost bids and that the 30% figure may not be about remote work, and it turns the long lead time into a point in the firm's favour. A suggests an exceptions route, which the user cannot offer beyond the 4 people living far away."
+}

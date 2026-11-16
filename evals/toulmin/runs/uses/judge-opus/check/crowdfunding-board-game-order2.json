@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "crowdfunding-board-game",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Reply B points out the gaps this cautious backer checks first: no delivery month, nothing on what happens if the campaign doesn't fund, and promises made in the creator's name. Fixing those would lead the user to add the November delivery date, the two-week update schedule and the refund commitment. B also turns the playtest numbers into stronger honest proof. Reply A's points on freight and the buffer are useful, but they are more general and leave out the delivery date."
+}

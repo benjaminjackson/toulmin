@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "public-comment-catch-limit",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies rightly drop the claim that every boat will go out of business and point toward a fair-share argument with an alternative. B does more with what the user wants, a claim as strong as the facts allow: it turns the 2016 numbers into a dollar loss with no recovery window over the 3-year cut, suggests a break-even claim about the user's own boat, and asks the sharp logbook question about whether charter anglers actually keep 4 fish."
+}

@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "promotion-senior-paralegal",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both replies put the March error in plainly beside the fix, but A's question about missed or near-missed deadlines since the check most directly draws out the clean record of about 600 entries, which is what this partner needs to see. A also keeps the piece honest by asking whether the other groups use the check and whether the trainees stayed, where B asserts unverified that the check 'protects all three groups'; B's better prompt for forward commitments narrows the gap."
+}

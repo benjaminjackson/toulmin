@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "grant-eviction-defense",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Reply A tells the writer to state the June departure, the $33,000-a-year gap and the county renewal once each with the answer beside them, which would bring in the $20,000 pledge and the training handover and give a ten-minute rubric scorer a plan that holds together. Reply B advises leaving the departure and the county uncertainty out of the summary, which makes the \"third attorney\" claim less honest and more fragile."
+}

@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "negotiation-lease-renewal",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "This landlord still brings up the late payments, so Reply B's advice to address them briefly and gratefully before making the offer fits him far better than Reply A's advice to leave them out. B also suggests autopay as something to trade, and the user can commit to that."
+}

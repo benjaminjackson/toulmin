@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "win-back-farm-share",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both replies flag the missing crop-loss policy and warn against overclaiming the nets and field. B builds a 'what happens next time' step into the email itself and aims the apology at the silence and the lack of credit, which is this reader's exact grievance; it also drops the $31,000 and the scarcity pressure, which could grate on them. A raises the policy only as a question outside its outline."
+}

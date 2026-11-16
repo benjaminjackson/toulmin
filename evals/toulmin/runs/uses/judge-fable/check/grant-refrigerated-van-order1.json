@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "grant-refrigerated-van",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies catch the unsupported \"double\" claim, the storage gap, the running costs and the need for a real fix to late reporting. A is more tailored to this reader and these facts: it prompts for farm support letters (which the user has), warns that a missed goal will surface in the very report this officer reads next, and suggests moving the late-report fix ahead of the request. B's advice to state the annual percentage and cut \"We take that seriously\" is good but does not close the gap."
+}

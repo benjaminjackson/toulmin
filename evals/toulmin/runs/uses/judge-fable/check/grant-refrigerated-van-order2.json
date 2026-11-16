@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "grant-refrigerated-van",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies catch the unsupported \"double\" claim, the storage gap, the running costs and the need for a real fix to the late report. B goes further for this reader: it ties an overpromised goal to the final report she will read, prompts the farm support letters Joan actually has, and suggests moving the late-report fix ahead of the request."
+}

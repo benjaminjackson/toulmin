@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "sales-dietitian-meals",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both replies rightly reject the A1C promise and point out the same gaps: the page doesn't say who the dietitian is, shows no menu, and skips logistics and cancellation terms. B fits this skeptical reader a little better. It asks the user to confirm whether the 0.6 average covers all 14 customers or only the 10 whose A1C dropped, where A states it as settled. It also explains the 45g limit without overclaiming and keeps the 400-word length in view."
+}

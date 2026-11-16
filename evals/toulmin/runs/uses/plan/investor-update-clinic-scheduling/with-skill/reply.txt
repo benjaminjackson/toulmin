@@ -1,0 +1,37 @@
+## The angle
+
+**The headline is flat, but underneath it the business grew. You lost your biggest customer to the scheduler built into their records system, and that loss showed you which part of the product clinics actually pay for: the reminders. Next month you start selling reminders on their own. You have about 11 months of cash, and here's the plan for that.**
+
+Your numbers support that if you check them first. Your largest customer was about 13% of MRR ($5,500 of $41,000). Leave them out and MRR went from $35,500 to $41,000, about 15% growth in one quarter. That's the strongest true fact you have. Use it, but only after you've confirmed the numbers behind it (see below).
+
+The point you want investors to accept: *the business is worth backing through the next raise, and you can see the risks clearly.* After two missed updates, they're judging whether you're straight with them as much as they're judging the numbers. Being honest is how you make the case.
+
+## Order
+
+1. **The gap, in one sentence.** Admit you missed two updates and say how often you'll send them from now on. Don't explain or apologize at length. Silence followed by a flat quarter looks like hiding, so deal with it first.
+2. **The key numbers, together and plain.** MRR $41k (flat), $480k in the bank, $44k/month burn, about 11 months of runway. That puts zero cash around October 2027. Investors look for these first. Putting them up front shows you aren't burying them.
+3. **What happened.** You lost the 12-clinic chain to their records system's built-in scheduler. Leaving them out, MRR grew about 15%, and you added 9 clinics. Don't name the chain.
+4. **What you learned.** Clinics using reminders went from a 13% no-show rate to 7%, nearly half. This is the evidence for the new product.
+5. **What's next.** The standalone reminder product at $150/month launches in December. Give one number you expect to hit and by what date.
+6. **The runway plan.** When you'll raise, which results you want first, and what you'll cut if those results don't come.
+7. **A specific ask.** For example, introductions to clinic chains, to records-system vendors, or to investors for the round.
+
+## What to leave out
+
+- The chain's name, and anything that sounds like blaming them.
+- Spin like "flat is a win this quarter." Let the 15% figure make that point.
+- Reasons for the missed updates.
+- Roadmap and team detail that doesn't bear on runway or the reminder bet.
+
+Don't leave out the runway or the reason the chain left. Investors will figure out both anyway.
+
+## What to find out first (most important first)
+
+1. **The MRR breakdown.** How much MRR did the 9 new clinics add, and how much did the other 3 losses cost? Also, are you counting customers or locations? "Lost 4" includes a 12-clinic chain, so if you mean locations, your clinic count fell. The 15% figure depends on this.
+2. **What changed since your last update.** Your investors last saw numbers about 9 months ago. They'll compare against that, so have the MRR, cash and burn from then.
+3. **Whether this will happen again.** How many current customers use a records system with a built-in scheduler? This is the first thing a skeptical investor will ask. If the answer is "many," say so and explain how the reminder product responds.
+4. **Whether the standalone product works with those built-in schedulers.** If it does, it turns the threat that cost you your biggest customer into a way to win new ones. That's a strong line, but only if it's true.
+5. **How solid the 7% figure is.** How many clinics, over what period, and is it the same clinics measured before and after? If the sample is small, state it as what you observed, not as proof.
+6. **The math investors will do.** At $150/month, replacing the chain's revenue takes about 37 customers, and covering the whole $44k burn takes about 290. Do you have early signs of demand, like pre-signups, pilots or a waitlist? What can you commit to by a date, and do you have a fundraising date or a plan for reaching break-even?
+
+Send me answers to 1, 3, 4 and 6 and I can build the update from them. The other two make it stronger but won't change the angle.

@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "investor-update-hive-sensors",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Reply B suits this reader better. It works out runway after off-season revenue (cash runs out around mid-March). It also tests the profitability claim against the growth rate, which speaks directly to the partner's worry that sales are too slow. And it pushes for a dated checkpoint, a decision on price, and an answer to what gets cut if the round falls short. Those points line up with the founder's real commitments: a monthly cash report and lowering spending to $75k a month. Reply A covers similar ground but ties it less closely to this partner's concern about slow sales."
+}

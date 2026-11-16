@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "crowdfunding-town-cinema",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both replies catch the main problems: the 180-tickets question of why it closed and why it won't close again, the $13,000 gap over last time's $47,000, the missing refund promise and the invented ticket price. B also flags that \"The building is secured\" overstates a lease that depends on reaching the goal, which a wary past donor would notice. A's guess that June 30 is seven months away may not match a campaign that opens May 1, so B is slightly more reliable for this reader."
+}

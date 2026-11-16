@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "sales-dietitian-meals",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies rightly keep the A1C promise off the page and ask for the dietitian's name, real menu items and cancellation terms. B goes a bit further for this wary reader: it pushes a plain medication disclosure, an explanation of why consistent carbs matter, and a check on contract and trial terms, while A spends advice on caregivers and customer quotes. B does assert without support that the 0.6 average covers all 14, which A handles more carefully."
+}

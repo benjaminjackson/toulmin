@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "grant-refrigerated-van",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies correctly reject \"double\" and flag storage, year-round use and running costs. A is more closely tied to Marisol: it warns that a missed goal will show up in the very report she will read next. It also suggests moving the history section earlier so she sees the fix before the ask, and it points to farm support letters, which the user actually has. B's best unique point is putting the annual figure beside the 50% figure."
+}

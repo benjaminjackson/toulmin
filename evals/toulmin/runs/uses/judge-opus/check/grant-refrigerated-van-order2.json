@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "grant-refrigerated-van",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "The two replies give much the same core advice. B is more closely tuned to Marisol: it warns that a missed goal will show up in the final report she will read next, suggests putting the late-report fix before the request, and recommends farm support letters, which the user already has. It also states the cost per pound and the rent-instead option directly."
+}

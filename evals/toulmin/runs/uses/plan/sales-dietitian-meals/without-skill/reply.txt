@@ -1,0 +1,48 @@
+# Angle and plan for the sales page
+
+## The angle
+
+**"Every meal is planned by a registered dietitian who works with type 2 diabetes. All you do is heat it up."**
+
+Your strongest selling points are **you** and **having one less thing to worry about.** Someone with type 2 diabetes makes food decisions all day: counting carbs, reading labels, wondering whether dinner will spike them. Your service takes ten of those decisions off their plate each week, and a professional they can trust makes them instead. No national meal kit can offer that, and it's all true.
+
+## The A1C promise: don't make it
+
+I'd advise against saying the meals "will lower your A1C." The reasons are practical, not just cautious:
+
+- **The data can't support it.** You have results from 14 of 88 customers, and they chose to share them. People whose numbers improved are more likely to send them. There's no comparison group, and you don't know who changed medication. Even within the 14, 4 didn't go down.
+- **The legal risk is real.** The FTC requires "competent and reliable scientific evidence" for health claims in ads. A promise about a clinical marker made to a medical audience gets attention from regulators. Your state attorney general can act on it too.
+- **Your license is at stake.** The CDR Code of Ethics asks RDs not to make claims they can't back up. A guarantee written under your credentials carries more weight than one from an ordinary food company, and so does the exposure.
+- **It can backfire.** A customer whose A1C rises will remember the promise.
+
+What you *can* say: the meals are built to support blood sugar management and fit the carb targets many people with type 2 diabetes aim for. If you want to use the A1C numbers, state them exactly. For example: "Of 14 customers who shared before-and-after lab results, 10 saw their A1C go down after three months." Add a line that results vary and the meals work alongside the person's care team, not in place of it. My suggestion is to keep that line small, below the fold, or leave it out entirely. Get written consent before using anyone's numbers.
+
+## Order (~400 words)
+
+1. **Headline + subhead (~30 words):** dietitian-planned meals for type 2 diabetes, delivered every Sunday.
+2. **The problem (~50):** the daily work of figuring out what to eat.
+3. **What you get (~80):** 10 cooked lunches and dinners, each with 45g of carbohydrate or less, and a menu you plan yourself every week.
+4. **Who you are (~60):** your RD credential and why you started this.
+5. **Proof (~60):** 37 of your 88 customers have stayed more than six months, and that's your best evidence. Add a customer quote or two if you have them.
+6. **Pricing (~60):** $129 a week (about $12.90 a meal). Lead with the $59 trial week as the low-risk way in.
+7. **Questions people ask (~40):** delivery area, cancelling, allergies.
+8. **Call to action (~20):** "Start with a trial week."
+
+## Leave out
+
+- **The 1-in-5 trial conversion rate.** It's an internal number, and to a reader it sounds like 80% didn't stay.
+- **"Will lower your A1C,"** or anything that suggests the meals replace medication or a doctor.
+- **Customer count framed as small.** "88 customers" can read as tiny. "Neighbors across [metro]" or the retention figure works better.
+
+## Find out first
+
+- **Trial week details:** is it the same 10 meals, and does it renew automatically?
+- **Delivery area** (which zip codes) and how cancelling or pausing works.
+- **Whether 10 meals means 5 days of lunch and dinner.** Readers will want to know.
+- **Allergies and other diets:** can you handle them (gluten-free, low-sodium, kidney-friendly)? Many people with T2D have other conditions too.
+- **Other nutrition targets** beyond carbs, like fiber, protein, or sodium. These are extra selling points you can back up.
+- **Testimonials** from long-term customers, with permission. Get written consent for any health details.
+- **Whether customers can use HSA/FSA funds** or get any insurance coverage. It's worth checking, and if they can, it's a strong line.
+- **A quick review by a lawyer** or your state dietetic association if you keep any outcome claims.
+
+When you're ready, send me the answers and I'll write the draft.

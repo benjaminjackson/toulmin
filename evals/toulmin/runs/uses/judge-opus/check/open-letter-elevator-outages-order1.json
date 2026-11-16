@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "open-letter-elevator-outages",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Reply A's advice fits the facts more closely: it links the June order to the August outage as evidence, warns about implied facts that can't be backed up, and moves the second-elevator request to the end, which is honest given that no engineer has assessed it. Reply B offers useful middle-ground asks and suggests the dialysis example, but it recommends a re-inspection that wouldn't address reliability and pushes a private-first approach the association has already ruled out."
+}

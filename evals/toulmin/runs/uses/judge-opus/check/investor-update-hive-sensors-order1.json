@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "investor-update-hive-sensors",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies catch the runway error, the softened profit claim and the blank competitor answer. A's suggested claim, profit if the company reaches a set number of hives by a checkpoint and a spending cut if it doesn't, fits what the founder can actually commit to: cutting to $75K a month and accepting a supported claim. A also turns the growth rate into a needed-tripling test, which speaks directly to a partner who thinks sales are too slow. B's inventory point is useful, but its advice on the claim is less actionable."
+}

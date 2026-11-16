@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "crowdfunding-board-game",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Reply A says the missing delivery month is the biggest gap. It also asks what happens if the campaign doesn't fund, and has the user check the update promises made in their name. Those changes would lead the user to add the November date and the two-week updates they can commit to, which matters most to a backer who lost money on a project that never shipped. Reply B raises useful budget risks like freight costs and a thin buffer, but never mentions a delivery date."
+}

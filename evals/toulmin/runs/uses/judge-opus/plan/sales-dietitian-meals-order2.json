@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "sales-dietitian-meals",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B gives a full, honest A1C statement with its limits stated, which suits this wary reader, and it asks the right questions about contracts and cancelling, the doctor's plan, and the risk of lows. A suggests shrinking or dropping the \"results vary\" disclaimer, which undercuts honesty and trust. B does misstate 20 meals instead of 10 in its angle, which narrows the gap a little."
+}

@@ -1,0 +1,42 @@
+# Critique of the grant project summary
+
+**Short answer:** The structure fits a bar foundation reviewer, and the writer handled the outcome data carefully. But the draft skips the three questions a reviewer will ask first, and two of them involve facts you gave that it either hid behind brackets or left out.
+
+## Where it's weak
+
+**1. It never mentions the attorney leaving in June.** This is the biggest problem. Without that attorney, you're a one-lawyer clinic, so "add a third attorney" is only true if the departing attorney is replaced with other money. Foundations often won't fund replacement staff, and a reviewer who finds out later will feel misled. The summary needs to say plainly how that position is being filled. If you can't fill it, you need to reframe the request.
+
+**2. The $33,000 gap is a placeholder, and it's the hardest part.** The foundation would cover 58% of the position. Reviewers will look at "[source]" first. If you have no committed source, no wording will fix that, and you should know it before you submit. The county contract makes this worse. It's your main funding, it comes up for renewal in October, and the draft notes that only in passing. As written, it reads as a risk you haven't addressed. If the renewal has already happened, state the result. If it's pending, say what happens if it falls through.
+
+**3. The capacity numbers don't add up.** Two attorneys carrying about 80 open cases each is roughly 160 open at once. But you only represented 163 tenants all year. That suggests eviction cases stay open close to a year, or the 80 includes other matters. A careful reviewer will notice. Before you commit to "80 more per year":
+- Check your actual cases closed per attorney per year.
+- Allow for a new hire's slower first year.
+
+**4. The evaluation section commits to nothing.** "We will track" is standard filler. One measurable target would make it stronger, for example:
+- tenants served in each year,
+- the turnaway count cut by a stated amount, or
+- the 58% outcome rate held at that level.
+
+**5. The 58% figure has no comparison, and the draft fills the gap with soft language.** The writer was right not to make up a comparison. But "on their own terms rather than under the pressure of an immediate lockout" is advocacy where evidence should be. Two options:
+- If you can cite a published study on outcomes for tenants without lawyers, label it clearly as outside data.
+- Otherwise, cut that sentence to free up words.
+
+You could also split the 58% into "stayed in the home" and "got 60+ days," since reviewers value those differently.
+
+**6. It will run over 300 words once the brackets are filled.** It's already close. The role description, funding source, renewal status, and post-grant sustainability sentence will push it past the limit. The easiest cuts are the "that time allows families…" sentence and some of the evaluation wording.
+
+## What's working
+
+- **The need section:** the 14%, the 300 turned away, and the caseloads make a strong case for more staff, built entirely from your own numbers.
+- **The project section** honestly says you'll serve some of the people you turn away, not all of them.
+- **The budget section** states the cost and the match up front instead of burying them.
+
+## What I'd change
+
+- Add one sentence on the June departure and how it's covered.
+- Fill in the funding source and the county renewal status with real commitments, not hopeful wording.
+- Check the cases-per-attorney math.
+- Give the evaluation section a target.
+- Make the cuts needed to stay under 300 words.
+
+The first two matter most: if a reviewer could reasonably reject the application over them, the wording elsewhere won't save it.

@@ -1,0 +1,46 @@
+I checked the draft with the Toulmin skill, which tests whether each claim on the page is backed by the facts you gave.
+
+**Short answer:** It mostly works. It's clear, it speaks to a real frustration ("stop doing the carb math every night"), and it handles the numbers honestly. The writer was right not to write "our meals will lower your A1C." The main weaknesses are elsewhere: the page never explains why your meals would help, it hides who you are, and it says nothing about the practical worries that stop someone from ordering.
+
+## The A1C claim: the writer was right not to use it
+
+Your facts can't support "will lower your A1C":
+- **14 people out of 88 is a small group, and they chose to share.** People whose numbers improved are more likely to send them in.
+- **There's no comparison group.**
+- **You don't track medication changes.** If some of the 10 started or increased a medication in those three months, the meals may not be why their A1C dropped.
+
+A doubtful reader, or their doctor, will spot this right away. There's also a professional and legal side. As a registered dietitian making a health claim in an ad, you'd be expected to have real evidence behind it, and these 14 self-reported results aren't that. The draft's approach is the right one: give the real numbers and don't promise a result.
+
+**What you can claim strongly is the method.** Every meal is planned by a dietitian and has a known, consistent amount of carbohydrate. You can stand behind that completely.
+
+## Where it's weak
+
+1. **It never says why the meals would help.** The page lists "45 grams or less" but doesn't explain why steady, known carbs at each meal matter for blood sugar. That missing link is the real argument for the service, and it's where your expertise counts. Some readers won't know whether 45g fits their own target, so one sentence on how you chose it would help.
+
+2. **The 0.6 figure is unclear.** Placed next to "10 saw it go down," it reads as the average for those 10. Your facts say it's the average across all 14. Fix the wording either way. You might also add one line, as the dietitian, on what a 0.6 change means. Most readers won't know whether that's a lot.
+
+3. **The medication fact is left out.** "Everyone's medications are different" hints at it but doesn't say it. I'd state it plainly, once: "I don't track whether anyone changed their medication during this time." It costs little, and it makes the other numbers more believable. Leave the 1-in-5 trial conversion rate off the page. Buyers don't need it, and it isn't something they'll find out on their own.
+
+4. **You're anonymous.** "Me, a registered dietitian" with no name, photo, or credentials is the biggest trust gap on the page. Your name, your credentials (and any diabetes-specific certification you hold), and a sentence on why you started this would carry a lot of weight.
+
+5. **"Real food you'll want to eat" has nothing behind it.** One sample week's menu, or a few dish names, would prove it. Right now the reader is asked to take it on faith.
+
+6. **The trial week may be described wrongly.** The draft says $59 gets "a full week of meals." Your brief doesn't say how many meals the trial includes. Check this.
+
+7. **The questions that stop people from ordering aren't answered.** The page should cover:
+   - 10 meals covers lunches and dinners for 5 days. What about the weekend?
+   - Meals delivered Sunday and eaten Friday: are they fresh or frozen, and how long do they keep?
+   - Is there a contract, how do you cancel, and does the trial roll into the weekly plan automatically?
+   - Can you handle allergies, kidney diet restrictions, or foods someone doesn't eat?
+   - Exactly which areas do you deliver to?
+
+   If you have answers, a short FAQ section would cover all of these.
+
+8. **The reader's doctor is a second audience.** The page sends readers to "talk with your healthcare provider," so that conversation will decide some sales. A one-page summary for doctors, or a line like "happy to speak with your care team," would help. This is a separate piece, not something to add to this page.
+
+## Minor points
+- "People stay because the meals fit their lives" is your opinion, not evidence. The 37-of-88 retention figure already makes the point on its own.
+- "Less than most takeout" is believable, but drop it unless you're confident it's true locally.
+- The doctor disclaimer is good. Keep it.
+
+**Top three changes:** add who you are; add one sentence on why consistent carbs matter; and answer the practical questions (weekends, freshness, cancelling, trial terms).

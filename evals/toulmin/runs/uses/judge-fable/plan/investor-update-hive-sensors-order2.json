@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "investor-update-hive-sensors",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies reject the flat profit claim and ask for the terms, commitments and competitor facts. B goes further for this sceptical reader: it offers a supportable replacement (a conditional break-even with a dated checkpoint), asks what gets cut if the round falls short (which draws out the $75,000 spending commitment), and presses for a pricing answer to the $45 rival. A's \"come back for more\" angle rests on renewal data the user hasn't shown."
+}

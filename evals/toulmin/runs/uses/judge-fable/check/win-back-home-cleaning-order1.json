@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "win-back-home-cleaning",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "This reader left over price, and Reply A pushes hardest on justifying the $25 gap in the customer's terms: what insurance protects them from and what the apps can't offer. It also prompts the owner for lower-turnover evidence and a deadline, both of which exist. Reply B's two-version split and offer details are useful, but its price advice is thinner and it never draws out the retention fact."
+}

@@ -1,0 +1,49 @@
+# Review of the grant narrative
+
+## Overall
+
+Mostly yes. The draft is plain and specific, and it brings up the late report on its own, which is the right move with a funder who already knows about it. A program officer at a county foundation will find it credible.
+
+Two things need fixing before you submit. The draft doesn't make the "double" claim you asked for, and that's the right call. Separately, there's a gap in the logic that a careful reviewer will spot.
+
+## 1. The "double" claim doesn't hold up, and the writer was right to leave it out
+
+You hand out 6,000 lbs of fresh food a month, which is about 72,000 lbs a year. Doubling that means adding roughly 72,000 lbs in year one. The farm produce you turned down was 9,000 lbs, so on its own it adds about 12.5% for the year. Foundation reviewers do this kind of arithmetic, and if they catch an inflated claim, they'll trust everything else in the narrative less.
+
+The writer's "50% during the harvest months" figure is correct: 18,000 lbs over three months plus 9,000. However, it's the most flattering way to put it. I'd add the annual figure next to it so the reviewer doesn't have to work it out and feel steered.
+
+If you really can double fresh food, the evidence has to go in the placeholder for other sources: grocery rescue, dairy, a regional food bank, with pounds you can back up. If you can't fill that placeholder with real numbers, delete it rather than estimating.
+
+## 2. Storage: the van doesn't solve the whole problem you described
+
+You said you couldn't pick up the produce cold **or store it**. A van fixes transport. A reviewer will ask where 9,000 lbs of produce stays between pickup and distribution day. The line "keep them at safe temperatures from pickup to distribution" suggests the van is the storage, which only works if pickups happen right before distribution. You need one sentence explaining this: either you have enough cooler space, or pickups are scheduled for distribution days. Without it, the reviewer may decide you need a walk-in cooler as well.
+
+## 3. What the van does the other nine months
+
+The only use the draft documents is three months of summer produce, and that's thin justification for $68,000. This is the same gap as point 1, and filling it fixes both. If the van will do weekly year-round pickups (stores, dairy, a regional food bank), say so with numbers.
+
+## 4. Reserves and running costs
+
+The math is correct: $18k out of $29k is 62%. Naming that figure shows commitment, but it also makes a reviewer wonder whether you'll be financially fragile with $11k left and a new vehicle to insure and maintain. The operating cost placeholder is the most important blank in the document. Fill it with a real number and a real funding source. If you can, also add a few words putting the $11k in context, such as how many months of operating costs it covers.
+
+## 5. Placeholders
+
+There are five, and every one of them matters. In particular:
+- **The fix after the late report.** Only describe a change you've actually made. If you haven't made one yet, make it before you submit. Promising to be on time with no new process behind it reads as hollow, and "We take that seriously" adds nothing; cut it and let the specific change do the work.
+- **The result of the shelving grant.** This is your best evidence that the foundation's money did something. Use a number.
+
+## 6. Smaller points
+
+- "Grown a few miles from families" isn't in the facts you gave. Make sure it's true.
+- "There's plenty of fresh food nearby" generalizes from one summer's offers. Saying "local farms want to give us more than we can take" is safer.
+- The conclusion is generic and repeats the opening. Once the placeholders are filled, the draft will be at or over 500 words, so the conclusion is the obvious section to cut.
+- Some reviewers will ask why you need to buy a van rather than borrow or share one. If that question is likely with this funder, one clause covers it.
+
+## Summary of changes
+
+1. Drop "double" unless you have the sources to prove it, and add the annual percentage.
+2. Add one sentence on cold storage.
+3. Show year-round use of the van.
+4. Fill in operating costs and a funding source for them.
+5. Fill every placeholder with real facts, especially the change you made after the late report.
+6. Cut the conclusion to make room.

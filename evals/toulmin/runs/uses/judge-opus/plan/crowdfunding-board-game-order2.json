@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "crowdfunding-board-game",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "B's questions bring out the facts this wary backer cares about most: that the game is finished, who gave the 23 ratings, any reviews lined up (the 90k-subscriber reviewer), and a plan if delivery slips (the refund promise). A gives sound budget math but misses the reviewer and where the ratings came from."
+}

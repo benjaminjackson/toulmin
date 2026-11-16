@@ -1,0 +1,38 @@
+**Short answer: no, not yet.** The structure is right and the writing is clean, but the draft leaves out the most important fact you gave it. It also leaves the two questions a bar foundation reviewer cares most about unanswered: where the rest of the money comes from, and what happens after year two.
+
+## The main problem: it says nothing about the attorney leaving in June
+
+The draft asks for a "third attorney" to serve "80 additional tenants per year." Once one of your two attorneys leaves in June, this hire brings you back to two attorneys, not up to three. Unless you're funding the replacement from somewhere else, the "additional tenants" claim isn't true. A reviewer who sees your staffing list or budget will notice, and after that they'll doubt every other number in the summary.
+
+There's a second risk. Many foundations won't fund a replacement for an existing position (they call it "supplanting"). You need to decide which of these it is:
+
+- **If you're replacing the departing attorney with other money,** say so in one clause. That makes "third attorney" accurate.
+- **If you aren't,** this grant is really about keeping capacity, and the summary should say that. It's actually a stronger argument. Without the grant, you drop to one attorney and serve roughly half of last year's 163 tenants while 300 or more are already being turned away. The draft never says what happens if the foundation says no, and in your case that's your best point.
+
+## Second problem: the money doesn't add up on the page
+
+- **The $33,000 a year is a blank.** You're asking for 58% of the position's cost ($45k of $78k). A reviewer's first question will be whether the position exists if the rest doesn't come through. If you don't have a source yet, the summary should say what you're doing to get one. A blank, or a vague phrase, will read as "unfunded."
+- **The county contract is a risk the draft doesn't deal with.** The draft says the $60k supports "core operations." You never said that; the writer made it up, so check whether it's true. Also, today is mid-November. If the renewal was this October, you know the result and should state it. If it's next October, it falls inside the grant period, and the reviewer will want to know what happens if it isn't renewed.
+- **Sustainability after year two is a blank.** Bar foundations weigh this heavily for staff positions. You need one real sentence here.
+
+## Weaker spots
+
+- **The outcomes number has no comparison.** The draft doesn't claim one, which is good, but the heading "Our results" invites a reader who knows eviction courts to ask "compared to what?" Two fixes:
+  - Split the 58% into tenants who stayed and tenants who got 60+ days. The split is more concrete and harder to argue with.
+  - If you have a published source on outcomes for represented versus unrepresented tenants, one cited sentence would do a lot. Don't add it unless you have the source.
+- **The caseload figures may look inconsistent.** Each attorney carries about 80 open cases, and you handled 163 cases total last year, so about 82 per attorney. That suggests the typical case stays open for close to a year, which is unusually long for an eviction. If cases do run that long, or the 80 includes other matters, a reviewer who knows the docket may stop on it. Check that the two numbers describe the same thing.
+- **The "[80] / [160]" figures are the writer's estimates.** They fit your current caseload, but a new attorney won't carry a full caseload in the first few months. Use a number you're willing to be held to, because you'll report against it.
+- **The draft leaves out one useful figure.** 163 served plus 300 turned away is about 463 tenants who asked for help, and you served about 35% of them. That shows demand more clearly than the 14% of all filings. The 14% includes tenants who never contacted you.
+
+## Length
+
+The draft is already close to 300 words with the blanks still in it. Once you fill them and add the June departure, it will run over. The role description ("staff the eviction docket on…") and the evaluation paragraph are the easiest places to cut. Reviewers find those details in the full narrative.
+
+## What I'd change, in order
+
+1. Address the June departure directly, and decide whether this is expansion or keeping capacity.
+2. Name the $33k source, or the plan to find it.
+3. State the county contract's status and its timing relative to the grant.
+4. Write a real sentence on what happens after year two.
+5. Say what happens if the grant isn't funded.
+6. Tighten the outcomes and capacity numbers as described above.

@@ -1,0 +1,37 @@
+**Verdict:** It's clean and honest, and it won't embarrass you in the papers. But as written, the board will probably send a polite acknowledgment and do nothing. The letter shows that you're losing money. It doesn't show that this is the plan's problem, it doesn't say what fixing it would cost the plan, and its ask is too vague to act on.
+
+### 1. The writer quietly dropped your main claim
+You asked for "a third of independent pharmacies will close within a year." It isn't in the draft, and the writer didn't tell you. They were right not to print it, but it's your decision, not theirs.
+
+Your facts don't support it. You know 9 pharmacies closed in two years, and you don't know why. You haven't said how many independents the state has. A third closing in one year would be a sharp jump with no evidence behind it. A reporter or the plan's staff will ask where it came from. If that number falls apart, your $1.80 figure gets doubted along with it.
+
+The better fix is to get real numbers rather than just soften the claim. Survey the 38 signers this week: "If these rates continue through July 1, 2027, will you close, cut hours, or stop taking plan members?" A line like "X of the 38 of us say we will close or leave the network within a year" is something you can stand behind, and it's more alarming than a guess because it's specific.
+
+### 2. The letter doesn't show why the plan should care
+The letter's logic is: we lose money, so pharmacies close, so your members lose access. The board will question the middle step. They'll say that $1.80 is the loss on 20 generics only, and ask whether you make it back on everything else. The letter never answers that. To answer it, you need:
+- **The share of plan prescriptions that are those 20 generics.** If it's most of them, say so. That turns "a loss on some drugs" into "a loss on most of what we fill for you."
+- **The source of the $1.80.** Is it invoices from all 38 pharmacies? A published cost benchmark? An accountant? A figure with no source will look like something you made up.
+- **What changed in January.** "Since January" suggests the rates were cut. If the PBM cut them, say so and give the old rate. Saying "you were paying enough, and in January that stopped" is much stronger than "you pay too little."
+
+### 3. The strongest point is too weak and too late
+For this reader, the 14 counties matter more than anything else. The plan has to make sure members can reach a pharmacy, and those counties are where that duty is at risk. But the letter doesn't connect those counties to the people signing. Are any of the 38 the only pharmacy in their county? How many plan members live in those 14 counties? If you have those numbers, this paragraph should come second, not fourth.
+
+### 4. It doesn't deal with mail order
+The letter treats "wait for mail order" as a harm. A plan administrator, and certainly the PBM, may see it as a saving. Expect the reply "members can use mail order." Answer it with facts about your members, like refrigerated drugs, prescriptions they need the same day, and older patients who need someone to talk to. Don't assume the board already agrees.
+
+### 5. The asks are too vague to act on
+- **Ask 1:** "covers what it actually costs" doesn't say whose cost or what number. The board can't write that into a contract. Name a pricing standard and a dispensing fee you would accept.
+- **Ask 3:** "meet before renewal" doesn't say when. Contract terms are often set months before July 1. Ask for a date and give the name of the person who will attend.
+- **Cost:** none of the asks says what they would cost the plan. If you can estimate it, say it. It's probably small next to the plan's total drug spending. If you leave it out, the board will assume it's large.
+
+### 6. Smaller fixes
+- **The 3,100 figure:** "I filled about 3,100 prescriptions" leaves the reader with nothing to do with the number. Don't multiply it by $1.80, because that rate applies only to the top 20 generics. But if you know how many of the 3,100 were those drugs, you can give a real dollar loss for your pharmacy. Put the 3,100 figure in the same sentence as that loss.
+- **The switch to "I":** the letter changes from "we" to "I" with no introduction. Name yourself and your pharmacy the first time "I" appears.
+- **The PBM:** the PBM sets the rates, so the board's easy reply is "take it up with the PBM." The draft hints at the answer but should say it plainly: the plan is the only party that can require better rates, and July 1 is when it can do so.
+- **The newspapers:** readers of the papers need to know what happens if the plan says no. That means specific pharmacies and towns at risk, not "harder to stay open."
+
+### What I'd change first
+1. Survey the 38 so the closure claim rests on numbers you can defend.
+2. Add the source of the $1.80 and the share of plan prescriptions it covers.
+3. Move the 14 counties up and connect them to named signers.
+4. Make the first ask a specific pricing standard and the meeting ask a specific date.

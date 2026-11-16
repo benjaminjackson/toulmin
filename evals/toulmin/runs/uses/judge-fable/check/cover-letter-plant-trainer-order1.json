@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "cover-letter-plant-trainer",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies prompt for the GMP course and plant vocabulary, but A directly asks whether the 12-hour training replaced something longer, which surfaces the 20-to-12-hour fact as an honest substitute for the 'cut in half' claim. A also flags the writer's invented details (including the records line) for real backing and moves the adult-training evidence first; B draws out the signed records more sharply but misses the before/after training number."
+}

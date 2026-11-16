@@ -1,0 +1,41 @@
+I think this mostly works. On "proven hit," the writer made the right call by leaving it out, and I wouldn't put it back. The weaknesses are a few details the writer invented, a budget gap a careful backer will notice, and some things backers always look for that the pitch doesn't give them.
+
+## The "proven hit" question
+
+What you have is strong evidence of design work, not evidence of a hit. No copies have been sold, and 23 ratings is a small number. Experienced backers also know that ratings for an unreleased game come mostly from playtesters and people who met the designer at conventions. If the page says "proven hit," the readers you most want (people who back a lot of projects) will discount it, and then trust the numbers below it less.
+
+What your facts do support is "tested hard, and people who played it liked it." That's what "Built at the table" says, and it's believable coming from a first-time designer. The strongest number you have is 140 sessions with about 60 people. That's more than two sessions per person, so people came back to play again. The draft never says that, and I'd make it the headline fact instead of the 8.1.
+
+## Details the writer invented (check each one before it goes live)
+
+- **"The art is finished. What you see on this page is what goes to the printer."** This isn't in your facts. If it's false, it's the most damaging line on the page.
+- **"Lantern Winter"** and **BoardGameGeek** by name. Confirm the title and the site.
+- **Who the playtesters were** (families, hobby gamers, people new to co-ops) and **"nearly every session changed something… rules got cut."** These are plausible but made up. Fix them to match what really happened.
+- **"One more winter"** reads like a quote. Only keep it if someone actually said it.
+- **"Backing on day one gets you the game at the campaign price."** This implies a higher retail price later. Only say it if you have one.
+- **Updates at every stage, factory proofs, "you'll hear it from me first."** These are promises made in your name. Make sure you'll keep them.
+
+## The budget
+
+The lines add up ($27,900 of $28,000). The shipping line works out to about 570 copies, which matches $28,000 ÷ $49. But that means you print 1,500 copies and about 930 have no buyer at the goal. A careful backer will ask where they go and who pays to store them. Say it in one line, whether that's convention sales, stores or a later run.
+
+That gap is also a selling point the draft misses. Because the print cost is fixed, every backer from about 570 up to 1,500 costs only shipping and fees. So beating the goal builds real margin. That's a much better "why back now" than the current one.
+
+There are also questions a backer will ask that I couldn't answer from your facts:
+- Does the $9 per copy include freight from the factory to the US, or only delivery to backers?
+- What about backers outside the US? The page only gives a US price.
+
+## What backers expect and won't find
+
+- **An estimated delivery month.** This is the biggest gap. Every backer looks for it, and first-time creators get judged on it.
+- **What a game actually looks like.** Playing time, ages, what you do on a turn, how a winter is lost. Right now the game itself gets about two sentences. The solo mode deserves a mention, because a lot of people buy co-op games to play alone.
+- **What happens if it doesn't fund.** Briefly say what the platform does (for example, no charge if the goal isn't met). It takes away risk for a cautious first-time backer.
+
+## Smaller points
+
+- **"1,240 of you signed up"** speaks to your email list, but a stranger who finds the page will feel left out. Write it so both kinds of reader feel included.
+- **Your list against the goal.** About 570 backers would be roughly 46% of your list if every backer came from it. I wouldn't put that in the pitch, but it tells you how much the page has to win over strangers, not only people who already know you.
+- **The surveying paragraph is the best thing in the draft.** It answers "why trust a first-timer?" with something specific to you. Keep it.
+- **"Why back now"** asks people to back early because it helps you. Turn it toward what the backer gets, using the margin point above.
+
+**What I'd change, in order:** confirm or cut the "art is finished" line, add a delivery month, explain the extra copies, add a short "what a game looks like" section, and turn the "why back now" section into the margin point.

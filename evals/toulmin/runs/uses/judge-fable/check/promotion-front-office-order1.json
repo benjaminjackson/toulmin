@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "promotion-front-office",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies keep the overclaim out and push for 7-week results, payroll evidence and timing data. A's question about whether the score rose before the lobby was finished most directly surfaces the 7.9-to-8.2 pre-renovation rise that answers this GM's belief, and A ranks the budget gap first and says what to cut to stay on one page."
+}

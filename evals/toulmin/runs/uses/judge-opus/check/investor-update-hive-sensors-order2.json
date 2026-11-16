@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "investor-update-hive-sensors",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "B speaks more directly to a partner who thinks sales are too slow. It shows that revenue would have to roughly triple in one season, and it suggests a qualified profitability claim with a checkpoint and spending cuts, which fits the user's real plan to cut spending to $75K a month. It also asks for the terms, the reply date and the cost of saying no. A's points about inventory timing and the dates are useful, but A is less pointed about what would win this partner over."
+}

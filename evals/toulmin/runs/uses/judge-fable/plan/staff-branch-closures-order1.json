@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "staff-branch-closures",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both replies drop the \"better for everyone\" claim and ask the questions that would surface the seniority shift choice, the decision dates and the severance safety net. B is a little stronger for these 14 readers because it tells the writer to name plainly what is hard (hours, shifts, a different kind of work) alongside what is good, while A still invites a \"better\" framing with an unsupported \"steadier work\" claim and spends more of the piece on other staff."
+}

@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "cover-letter-dental-office",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies flag the same main fixes: supervision, concrete Dentrix action, sharper insurance evidence, cutting the filler paragraph and the staying-local angle. B frames them around what a practice owner cares about (running the staff, getting claims paid), moves Dentrix next to AVImark, and says where the words come from under the 300 limit, so it should yield a somewhat tighter, more reader-aimed letter. A's 'Dear Dr.' tip is useful but smaller."
+}

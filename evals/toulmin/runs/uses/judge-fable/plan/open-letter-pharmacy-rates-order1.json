@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "open-letter-pharmacy-rates",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "A",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Reply A targets this reader's two likely dismissals: it asks how far the next pharmacy is in the 14 counties (drawing out the 20-mile chain fact that answers \"members have plenty of chains\") and tells the user to settle the brand-name offset before the plan raises it. Both replies replace the unsupported one-third claim with a survey of the 38 and propose the invoice and meeting offer, but Reply B misses those two points and spends effort on a spurious \"which July 1\" question."
+}

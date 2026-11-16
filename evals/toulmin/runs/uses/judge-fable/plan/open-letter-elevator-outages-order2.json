@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "plan",
+  "task": "open-letter-elevator-outages",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Both steer away from the second elevator and toward the repeated promise, but B fits the true situation better: it explains exactly what the inspection does and doesn't cover (matching the facts), prompts for a harm example like a missed medical appointment (the dialysis case), includes stair assistance among the asks, and warns against overclaiming. A's advice to use the 74 signatures to show the association 'speaks for the building' risks overstating, and it ends by deferring rather than giving a usable structure."
+}

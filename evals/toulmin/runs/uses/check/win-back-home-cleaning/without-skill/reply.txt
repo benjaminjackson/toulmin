@@ -1,0 +1,32 @@
+# Feedback on the win-back email draft
+
+## The "same cleaner every time" promise
+
+The writer didn't make the promise you asked for, and they were right. You can't keep it. Seven of 18 cleaners left last year, and your own system has a named backup for sick days and vacations, so customers will sometimes get someone else. A customer who left over cleaner changes is the one most likely to notice a broken promise, and they'd probably leave for good. What the draft promises instead is something you can actually do: a regular cleaner, plus a backup you know by name. Keep that.
+
+## Will it work?
+
+It works for customers who left because the cleaner kept changing. It will mostly fail with customers who left over price. They'll read that you're still $25 more per visit, and a one-time $99 cleaning doesn't change that. Some will book the $99 cleaning and then not continue.
+
+## Where it's weak
+
+1. **The subject line claims too much.** "We fixed it" isn't true for price, and price was the most common reason people left. Price-leavers will open the email and feel misled.
+
+2. **It's written to everyone at once.** "Many of you told us" sounds like a mass email, even though it opens with "Hi [First name]." You know from the exit surveys why each person left. Send two versions: one for price, one for cleaner changes. Each can then talk only about that person's reason.
+
+3. **"You were right about the second one"** suggests they were wrong about price. That sounds defensive. It's better to simply say you cost more.
+
+4. **The price explanation is about your cleaners, not the customer.** "$21 an hour" tells customers why you charge more, not what they get for it. Connect it to them, for example: insurance means you pay if something gets damaged. Don't claim that employees stay longer, though. Losing 39% of your staff in a year doesn't support that.
+
+5. **It doesn't say what happens if a cleaner quits.** Turnover caused the problem, and scheduling doesn't stop people leaving. One line would cover it: if your regular cleaner leaves, your backup, someone you already know, takes over.
+
+6. **The offer is missing details:**
+   - What the price is after the $99 cleaning. Say it goes back to $165 so nobody is surprised.
+   - Whether there's a deadline. Without one, people put it off.
+   - Whether it applies to every home size.
+
+7. **It misses a chance to get personal.** If you can assign the cleaner before sending, naming them ("Maria would be your regular cleaner") makes the promise concrete. That's especially strong in the version for cleaner-change customers.
+
+## What I'd keep
+
+The plain tone, the honest price comparison, the regular-plus-backup idea, the single call to action, and the length.

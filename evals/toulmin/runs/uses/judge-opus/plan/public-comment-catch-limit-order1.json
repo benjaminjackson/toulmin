@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "public-comment-catch-limit",
+  "order": 1,
+  "a_arm": "with-skill",
+  "winner": "B",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Both replies rightly drop the 'every boat out of business' claim and point toward an alternative proposal. B gives an honest strong substitute ('push some boats over the edge,' if specific boats are at risk) that fits the two captains who would sell, and it warns against blaming private anglers or stating gross revenue in front of this commission. A's logbook question is sharp, but its 'put the cost where the harvest is' framing and $80,000 projection are riskier with this audience."
+}

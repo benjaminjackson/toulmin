@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "staff-office-days",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both replies catch the central flaw (the 11 nearby remote hires get sympathy but no terms) and prompt the user to add concrete help such as travel costs. B goes further on what would actually move sceptical remote staff: closing the \"cheaper fix\" hole in the hospital argument, stating why the same three days, and using the ten-month notice. A's push to mention an exceptions route points to something the partners cannot offer, though A is better on bullet clarity and desk space."
+}

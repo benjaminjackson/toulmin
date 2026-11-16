@@ -1,0 +1,11 @@
+{
+  "judge": "claude-fable-5-2",
+  "use": "check",
+  "task": "investor-update-hive-sensors",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Both catch the runway error and the unsupported profit claim, but B shows the gap in numbers (about $1.14M costs against about $424K revenue) and offers a qualified claim with a spending-cut checkpoint, which fits what the user can actually commit to. B's closing list of what to supply (competitor answer, cuts, terms, reply date, retention) would also draw out the facts this sceptical partner needs, while A spends space on a speculative inventory point."
+}

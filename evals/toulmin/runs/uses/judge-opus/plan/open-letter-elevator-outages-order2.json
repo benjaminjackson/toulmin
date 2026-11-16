@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "open-letter-elevator-outages",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "clear",
+  "reason": "Reply B answers the manager's strongest defence, the passed inspection, with the user's own point: the certificate shows the elevator is safe, not how often it runs. It also prompts for the details that will persuade her: real harm such as the missed dialysis, which floor residents live on, and asking only for what the association can stand behind. A is sound, but it is more generic and holds off on drafting until more facts are gathered."
+}

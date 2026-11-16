@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "check",
+  "task": "open-letter-elevator-outages",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "B",
+  "winner_arm": "with-skill",
+  "margin": "slight",
+  "reason": "Reply B fits the real situation better: it flags claims the association can't support, plays down the second-elevator request that management may be right about, and connects the June promise to the August outage. Reply A pushes a private-first threat even though the association has already arranged to go public, and suggests middle-ground requests that aren't the ones the tenants actually want."
+}

@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "public-comment-church-housing",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Reply A makes the traffic tradeoff the center of the speech, which suits the two commissioners who care most about traffic, and it asks directly about developer-committed mitigation. That question would bring out the builder's offer to pay for a signal, which keeps the intersection at C, and lead to an ask for approval with the signal as a condition. Reply B is also strong, with a good point about what happens if the permit is denied, but it raises mitigation only in passing and spends time on parking and the Sunday question."
+}

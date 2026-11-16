@@ -1,0 +1,36 @@
+# Will this draft win them back?
+
+**Partly.** It should work on customers who left because the cleaner kept changing. It will mostly fail with customers who left over price, and they were the bigger group. The writer also made the right call on one thing you asked for, which I'll cover first.
+
+## The writer was right not to promise "the same cleaner every single time"
+
+Seven of your 18 cleaners left last year. If even a few leave this year, that promise breaks. It would break for the same customers who already left over it once, and a second broken promise loses them for good. "A regular cleaner plus a named backup" is a promise you can keep. I'd keep it as written.
+
+## Where it's weak
+
+**1. It treats the cleaner problem as a scheduling problem, but the cause was cleaners leaving.** "We've changed how we schedule" fixes rotation. It doesn't cover what happens when someone quits, and that's what actually happened to about 4 in 10 customers. A reader whose cleaner left will think: "What if my new regular quits too?" The email doesn't answer that. If anything has changed on retention (a raise, a bonus, lower turnover so far this year), it belongs here. If nothing has changed, the backup is your answer, and the email should say plainly that the backup steps in if your regular leaves, not just when they're sick.
+
+**2. The case on price is made from your side, not the customer's.** "$21 an hour" and "employees, not contractors" explain why you cost more. They don't explain why that's worth $25 more per visit, about $650 a year, to the customer. The draft assumes the reader will make that connection, and most won't. There are two links that would matter to them:
+- **Insurance:** what it actually protects the homeowner from if something breaks or someone gets hurt.
+- **Consistency:** whether the app services send whoever happens to be free. If they do, consistency is something the $140 option can't offer. That would tie your two problems together: you cost more, and that's what pays for the same person every time.
+
+Check that the apps really do rotate cleaners before you say it. There's also a trap here. If you were already paying $21 an hour last year, you can't claim good pay keeps cleaners, because 7 still left.
+
+**3. The subject line claims too much.** "We fixed it" sounds like both complaints are fixed, but price hasn't changed. The customers who left over price will feel that the moment they read the third paragraph.
+
+**4. "You were right about the second one" suggests they were wrong about the first.** That's a small jab at your largest group of former customers. Drop the comparison and just say the price is the same and why.
+
+**5. The $99 offer lowers the cost of trying you again, not the price they left over.** That's fine, but the second visit is back at $165. So the email has to win the argument in point 2, not just make the first visit cheap. A deadline on the $99 would also help, if you're willing to set one.
+
+**6. Smaller things:**
+- "Many of you told us" talks to a group, but this goes to one person who may have left for a different reason.
+- "You'll always know who's coming" only holds if you tell them ahead of time when the backup is coming. Make sure that's true.
+
+## What I'd change, in order of impact
+
+1. Answer "what if my cleaner leaves?"
+2. Rewrite the price paragraph around what the customer gets, not what you pay.
+3. Fix the subject line so it doesn't claim price is fixed.
+4. Remove the "you were right about the second one" comparison.
+
+At about 165 words, the length is fine.

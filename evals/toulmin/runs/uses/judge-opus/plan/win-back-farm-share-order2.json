@@ -1,0 +1,11 @@
+{
+  "judge": "opus",
+  "use": "plan",
+  "task": "win-back-farm-share",
+  "order": 2,
+  "a_arm": "without-skill",
+  "winner": "A",
+  "winner_arm": "without-skill",
+  "margin": "slight",
+  "reason": "Reply A makes \"what happens next time\" a section of the email itself, and that answers this reader's real complaint: the farm went quiet and gave no credit. It would lead the user to put the weekly emails and the weather credit into the piece. A also drops the $31,000 and the scarcity pressure, both of which could put off someone who felt shortchanged. Reply B asks about a crop-loss policy only as an open question and leaves it out of its order for the email, so the piece built from B is more likely to miss the commitment that wins this reader back."
+}
