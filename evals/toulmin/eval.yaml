@@ -1,0 +1,5 @@
+name: toulmin
+description: >-
+  Does making the toulmin skill available make Claude's persuasive documents better for their intended reader?
+  Five writing tasks, each judged blind as the named reader.
+  The prompts never mention the skill.

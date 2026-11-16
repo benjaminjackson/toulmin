@@ -1,0 +1,115 @@
+#!/usr/bin/env bash
+# Checks the five toulmin eval tasks: each has name, reader and prompt, and no prompt
+# names the skill or the thing it does. With --verbatim FILE, also checks that each
+# prompt is byte-identical to the prompt text for that task in FILE (PROMPTS.md layout).
+set -euo pipefail
+
+script_directory="$(cd "$(dirname "$0")" && pwd)"
+tasks_directory="$script_directory/tasks"
+expected_tasks=(board-memo donor-email canvass-script outreach-email op-ed)
+forbidden_pattern='toulmin|argument|argue|persuad|convinc|skill'
+verbatim_file=""
+failure_count=0
+
+# Prints how to call this script and exits 2, so a wrong call is never mistaken for a check failure.
+print_usage_and_exit() {
+  echo "usage: check-prompts [--verbatim FILE]" >&2
+  exit 2
+}
+
+# Records one failed check on stderr and counts it, so every problem is shown before the script exits.
+report_failure() {
+  local task_name="$1"
+  local reason="$2"
+  echo "FAIL $task_name: $reason" >&2
+  failure_count=$((failure_count + 1))
+}
+
+# Prints the prompt body for one task from a PROMPTS.md-style file: the lines after "prompt:"
+# and its blank line, up to the next "## " heading, with trailing newlines removed.
+extract_markdown_prompt() {
+  local task_name="$1"
+  local markdown_file="$2"
+  # getline skips the blank line that follows "prompt:".
+  awk -v t="$task_name" '/^## /{s=($2==t);p=0;next} s&&/^prompt:$/{p=1;getline;next} s&&p{buf=buf $0 "\n"} END{sub(/\n+$/,"",buf);printf "%s",buf}' "$markdown_file"
+}
+
+# Runs every check on one task file and prints "ok <task>" if all of them pass.
+check_task() {
+  local task_name="$1"
+  local task_file="$tasks_directory/$task_name.yaml"
+  if [[ ! -f "$task_file" ]]; then
+    report_failure "$task_name" "missing $task_file"
+    return
+  fi
+  local task_json
+  if ! task_json="$(yq -o=json '.' "$task_file")"; then
+    report_failure "$task_name" "yq cannot parse $task_file"
+    return
+  fi
+  local failures_before="$failure_count"
+  if ! jq -e 'has("prompt")' <<<"$task_json" >/dev/null; then
+    report_failure "$task_name" "no prompt key"
+  fi
+  if ! jq -e 'has("reader")' <<<"$task_json" >/dev/null; then
+    report_failure "$task_name" "no reader key"
+  fi
+  if ! jq -e --arg stem "$task_name" '.name == $stem' <<<"$task_json" >/dev/null; then
+    report_failure "$task_name" "name is not $task_name"
+  fi
+  local prompt_text
+  prompt_text="$(jq -r '.prompt // ""' <<<"$task_json")"
+  if grep -Eiq "$forbidden_pattern" <<<"$prompt_text"; then
+    report_failure "$task_name" "prompt matches /$forbidden_pattern/i"
+  fi
+  if [[ -n "$verbatim_file" ]]; then
+    # Compare both sides as JSON-encoded strings so trailing newlines are not lost by $(...).
+    local task_prompt_json
+    local markdown_prompt_json
+    task_prompt_json="$(jq -c '.prompt' <<<"$task_json")"
+    markdown_prompt_json="$(extract_markdown_prompt "$task_name" "$verbatim_file" | jq -Rs -c .)"
+    if [[ "$markdown_prompt_json" == '""' ]]; then
+      report_failure "$task_name" "no prompt for this task in $verbatim_file"
+    elif [[ "$task_prompt_json" != "$markdown_prompt_json" ]]; then
+      report_failure "$task_name" "prompt differs from $verbatim_file"
+    fi
+  fi
+  if [[ "$failure_count" == "$failures_before" ]]; then
+    echo "ok $task_name"
+  fi
+}
+
+# Fails unless tasks/ holds exactly the five expected yaml files, so a stray or renamed task is caught.
+check_task_set() {
+  local expected_list
+  local actual_list
+  expected_list="$(printf '%s.yaml\n' "${expected_tasks[@]}" | sort)"
+  actual_list="$(cd "$tasks_directory" && ls -1 -- *.yaml 2>/dev/null | sort || true)"
+  if [[ "$expected_list" != "$actual_list" ]]; then
+    report_failure "tasks" "tasks/ does not hold exactly: ${expected_tasks[*]}"
+  fi
+}
+
+if ! command -v yq >/dev/null || ! command -v jq >/dev/null; then
+  echo "needs yq (brew install yq) and jq" >&2
+  exit 2
+fi
+
+if [[ $# -eq 2 && "$1" == "--verbatim" ]]; then
+  verbatim_file="$2"
+  if [[ ! -f "$verbatim_file" ]]; then
+    echo "no such file: $verbatim_file" >&2
+    exit 2
+  fi
+elif [[ $# -ne 0 ]]; then
+  print_usage_and_exit
+fi
+
+for task_name in "${expected_tasks[@]}"; do
+  check_task "$task_name"
+done
+check_task_set
+
+if [[ "$failure_count" -gt 0 ]]; then
+  exit 1
+fi
