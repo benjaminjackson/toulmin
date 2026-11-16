@@ -6,3 +6,5 @@
 .beads/proxieddb/
 *.gate.lock*
 .DS_Store
+# A partial headless run that was stopped when it overloaded the machine. It proves nothing and is kept out of git.
+evals/toulmin/runs/wide-placebo/
