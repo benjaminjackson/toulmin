@@ -42,6 +42,10 @@ Before the six questions, settle three things about the reader.
 - **What does this reader already presume?** The side that argues against the accepted view carries the burden of proof, and has to start by giving a specific reason for doubt. If the reader already leans your way, the piece needs far less.
 - **What does the setting need from the argument?** A decision under time pressure, agreement among informed people, or a ruling between two sides. A business or policy reader needs a course of action with gains weighed against losses, set beside the alternatives.
 
+Write those three answers down, one line each, before going further. They decide how much of the rest of this skill the piece needs.
+
+**When the reader already holds the claim.** An internal strategy memo, a team plan, a note to a partner who already agrees: nobody here has to be persuaded. The piece exists to make a shared position clear and to set a direction. The model's job shrinks to two things: sharpen the claim until it can be read only one way, and write the warrant down so everyone holds the same one. Do not gather grounds or backing, and do not hunt for evidence the reader will not act on. If the work turns up proof anyway, it belongs in a later piece for a reader who doubts the claim, such as a sales deck or a pitch. Set it aside for that piece and tell the user.
+
 Then answer the six questions in order, in one or two sentences each. Questions 2, 3 and 5 are about the audience and not about you.
 
 1. **What position do I want this audience to take?** That is the claim. State it so it can be read only one way.
@@ -56,6 +60,10 @@ Then look at the rebuttals again. Each one that names a person or group who coul
 ### Drafting
 
 Work through the six questions first. Then ask the user for what the argument is missing. Then write.
+
+If the user names or links a model of the piece they want (an example memo, a template with a worked example, a piece they admire), read it before the six questions. Say its shape back in two or three lines: voice, length, how it opens, how much evidence it carries. Write to that shape, and do not copy its content.
+
+When the reader already holds the claim, the questions below shrink with the piece: ask about the claim, the warrant and the direction, not about grounds.
 
 **Ask before you write, for every piece, long or short.** The user's request is never everything the user knows. The six questions show where the argument is thin, and the user can often fill that place with one sentence. A draft written without asking argues from half the grounds, and it leaves blanks or invents details where the user had the answer. Send one message with at most six questions, the most useful first. Ask only what would change the piece and what the request does not already answer. Look for these:
 
